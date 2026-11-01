@@ -5,6 +5,7 @@
     python3 scripts/generate.py --check     # 生成并校验站内链接
 """
 import html
+import base64
 import json
 import os
 import re
@@ -27,16 +28,17 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
-def icon_file(c):
-    """该机型有卡通图标时返回文件名，否则 None。"""
-    fn = f"{c['id']}.png"
-    return fn if os.path.exists(os.path.join(ICONS_DIR, fn)) else None
+def has_icon(c):
+    """该机型有卡通图标时返回 True。图标源可以是 icons/<id>.png，
+    或 icons/<id>.png.b64（base64 文本，构建时解码，用于二进制推送受限的场景）。"""
+    return any(os.path.exists(os.path.join(ICONS_DIR, f"{c['id']}{ext}"))
+               for ext in (".png", ".png.b64"))
 
 
 def icon_img(c, root, cls="card-icon"):
-    fn = icon_file(c)
-    if not fn:
+    if not has_icon(c):
         return ""
+    fn = f"{c['id']}.png"  # 构建产物统一为 .png
     return (f'<div class="{cls}"><img src="{root}assets/icons/{esc(fn)}" '
             f'alt="{esc(c["model"])} 卡通图标" loading="lazy"></div>')
 
@@ -117,17 +119,29 @@ def build_index(cams, css, js):
     for c in cams:
         brands.setdefault(c["brand_slug"], []).append(c)
 
-    # 时间线导航：按十年分组，只显示年代与数量
+    # 镇馆之宝
+    featured_ids = json.load(open(os.path.join(BASE, "data", "featured.json"), encoding="utf-8"))
+    by_id = {c["id"]: c for c in cams}
+    fame = [by_id[i] for i in featured_ids if i in by_id]
+    fame_cards = "\n".join(featured_card_html(c) for c in fame)
+
+    # 时间线导航：按十年分组，只显示年代、数量与代表机型
     decades = {}
     for c in cams:
         d = (c["year"] // 10) * 10
         decades.setdefault(d, []).append(c)
+    fame_ids = set(featured_ids)
     decade_nav = []
     for d in sorted(decades):
+        cs = decades[d]
+        rep = [c for c in cs if c["id"] in fame_ids][:3]
+        if len(rep) < 3:
+            rep += [c for c in cs if c["id"] not in fame_ids][:3 - len(rep)]
+        rep_names = "、".join(esc(c["model"]) for c in rep)
         decade_nav.append(
             f'<a class="decade-link" href="timeline.html#d-{d}">'
             f'<span class="serif">{d}s</span>'
-            f"<small>{len(decades[d])} 款</small>"
+            f"<small>{len(cs)} 款 · {rep_names}</small>"
             "</a>"
         )
 
@@ -136,6 +150,7 @@ def build_index(cams, css, js):
         "stats_cameras": len(cams),
         "stats_brands": len(brands),
         "stats_years": f"{min(years)}–{max(years)}",
+        "fame_cards": fame_cards,
         "decade_nav": "\n".join(decade_nav),
     })
     page = render(load_text(os.path.join(TPL_DIR, "base.html")), {
@@ -369,13 +384,20 @@ def main():
     for fn in os.listdir(img_src):
         if fn.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
             shutil.copy(os.path.join(img_src, fn), img_dst)
-    # 卡通图标随构建拷贝
+    # 卡通图标随构建拷贝：icons/<id>.png 直接拷贝，
+    # icons/<id>.png.b64 为 base64 文本（供二进制推送受限时使用），构建时解码为 .png
     icon_dst = os.path.join(SITE_DIR, "assets", "icons")
     os.makedirs(icon_dst, exist_ok=True)
     if os.path.isdir(ICONS_DIR):
         for fn in os.listdir(ICONS_DIR):
-            if fn.lower().endswith(".png"):
-                shutil.copy(os.path.join(ICONS_DIR, fn), icon_dst)
+            src = os.path.join(ICONS_DIR, fn)
+            if fn.lower().endswith(".png.b64"):
+                raw = open(src, "rb").read()
+                data = base64.b64decode(b"".join(raw.split()))
+                with open(os.path.join(icon_dst, fn[:-4]), "wb") as f:
+                    f.write(data)
+            elif fn.lower().endswith(".png"):
+                shutil.copy(src, icon_dst)
 
     css = load_text(os.path.join(ASSETS_DIR, "style.css"))
     js = load_text(os.path.join(ASSETS_DIR, "app.js"))
