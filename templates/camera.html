@@ -1,10 +1,13 @@
 <div class="wrap">
   <div class="crumb"><a href="{{root}}index.html">首页</a> / <a href="{{root}}brand/{{brand_slug}}.html">{{brand_cn}}</a> / {{model}}</div>
   <section class="exhibit-head">
-    <div class="kicker serif">EXHIBIT</div>
-    <h1 class="serif">{{model}}</h1>
-    <div class="years">{{year_str}}</div>
-    <div><span class="tag">{{type_cn}}</span>{{milestone_badge}}</div>
+    <div class="exhibit-titles">
+      <div class="kicker serif">EXHIBIT</div>
+      <h1 class="serif">{{model}}</h1>
+      <div class="years">{{year_str}}</div>
+      <div><span class="tag">{{type_cn}}</span>{{milestone_badge}}</div>
+    </div>
+    {{icon_block}}
   </section>
   <section class="exhibit-grid">
     <div>{{photo_block}}</div>
