@@ -1,0 +1,40 @@
+{
+  "id": "mamiya-7",
+  "brand": "Mamiya",
+  "brand_cn": "玛米亚",
+  "brand_slug": "mamiya",
+  "country": "日本",
+  "manufacturer": "玛米亚",
+  "model": "7",
+  "year": 1995,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "玛米亚旁轴相机，1995 年发布",
+  "description": "玛米亚于1995年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q6745697",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mamiya%207camera.jpg?width=800",
+      "caption": "7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q6745697"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 玛米亚 7",
+      "url": "https://www.wikidata.org/wiki/Q6745697"
+    }
+  ],
+  "qid": "Q6745697",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

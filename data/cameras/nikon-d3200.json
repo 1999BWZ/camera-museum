@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d3200",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D3200",
+  "year": 2012,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2012 年发布",
+  "description": "尼康于2012年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q729993",
+    "多语言词条数": "20"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D3200%2C%20front%20left.JPG?width=800",
+      "caption": "D3200",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q729993"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D3200",
+      "url": "https://www.wikidata.org/wiki/Q729993"
+    }
+  ],
+  "qid": "Q729993",
+  "sitelinks": 20,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

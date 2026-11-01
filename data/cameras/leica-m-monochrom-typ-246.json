@@ -1,0 +1,32 @@
+{
+  "id": "leica-m-monochrom-typ-246",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M Monochrom Typ 246",
+  "year": 2015,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2015 年发布",
+  "description": "徕卡于2015年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q76697305",
+    "多语言词条数": "3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M Monochrom Typ 246",
+      "url": "https://www.wikidata.org/wiki/Q76697305"
+    }
+  ],
+  "qid": "Q76697305",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

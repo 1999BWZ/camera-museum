@@ -1,0 +1,40 @@
+{
+  "id": "sigma-dp2-quattro",
+  "brand": "Sigma",
+  "brand_cn": "适马",
+  "brand_slug": "sigma",
+  "country": "日本",
+  "manufacturer": "适马",
+  "model": "DP2 Quattro",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "适马便携相机，2014 年发布",
+  "description": "适马于2014年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q17592281",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigma%20dp2%20Quattro%202014%20CP%2B.jpg?width=800",
+      "caption": "DP2 Quattro",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q17592281"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sigma DP2 Quattro",
+      "url": "https://www.wikidata.org/wiki/Q17592281"
+    }
+  ],
+  "qid": "Q17592281",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

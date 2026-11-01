@@ -1,0 +1,32 @@
+{
+  "id": "panasonic-lumix-dmc-fz1",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "松下電器",
+  "model": "Lumix DMC-FZ1",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下便携相机，2002 年发布",
+  "description": "松下于2002年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889181",
+    "多语言词条数": "3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Panasonic Lumix DMC-FZ1",
+      "url": "https://www.wikidata.org/wiki/Q20889181"
+    }
+  ],
+  "qid": "Q20889181",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

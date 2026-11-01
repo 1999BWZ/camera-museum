@@ -1,0 +1,32 @@
+{
+  "id": "polaroid-z340",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "宝丽来",
+  "model": "Z340",
+  "year": 2011,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，2011 年发布",
+  "description": "宝丽来于2011年发布的一次成像相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7209180",
+    "多语言词条数": "3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Polaroid Z340",
+      "url": "https://www.wikidata.org/wiki/Q7209180"
+    }
+  ],
+  "qid": "Q7209180",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

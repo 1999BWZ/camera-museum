@@ -1,0 +1,40 @@
+{
+  "id": "leica-q2",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "Q2",
+  "year": 2019,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2019 年发布",
+  "description": "徕卡于2019年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q65054932",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20Q2%20%2840794004333%29.jpg?width=800",
+      "caption": "Q2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q65054932"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica Q2",
+      "url": "https://www.wikidata.org/wiki/Q65054932"
+    }
+  ],
+  "qid": "Q65054932",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

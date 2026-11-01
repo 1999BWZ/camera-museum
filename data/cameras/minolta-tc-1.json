@@ -1,0 +1,40 @@
+{
+  "id": "minolta-tc-1",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "美能达",
+  "model": "TC-1",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1996 年发布",
+  "description": "美能达于1996年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q6869027",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minolta%20TC-1%20Front%20%284393144127%29.jpg?width=800",
+      "caption": "TC-1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q6869027"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 美能达 TC-1",
+      "url": "https://www.wikidata.org/wiki/Q6869027"
+    }
+  ],
+  "qid": "Q6869027",
+  "sitelinks": 5,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

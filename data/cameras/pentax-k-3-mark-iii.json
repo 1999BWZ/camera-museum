@@ -1,0 +1,40 @@
+{
+  "id": "pentax-k-3-mark-iii",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "K-3 Mark III",
+  "year": 2021,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，2021 年发布",
+  "description": "宾得于2021年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q106303442",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20K-New%20APS-C%20Flasgship%20Vevey%202019.jpg?width=800",
+      "caption": "K-3 Mark III",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q106303442"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax K-3 Mark III",
+      "url": "https://www.wikidata.org/wiki/Q106303442"
+    }
+  ],
+  "qid": "Q106303442",
+  "sitelinks": 4,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

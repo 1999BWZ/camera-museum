@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d3x",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D3X",
+  "year": 2008,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2008 年发布",
+  "description": "尼康于2008年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1330413",
+    "多语言词条数": "12"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D3X%20front.jpg?width=800",
+      "caption": "D3X",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1330413"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D3X",
+      "url": "https://www.wikidata.org/wiki/Q1330413"
+    }
+  ],
+  "qid": "Q1330413",
+  "sitelinks": 12,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

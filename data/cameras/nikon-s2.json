@@ -1,0 +1,32 @@
+{
+  "id": "nikon-s2",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "S2",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康旁轴相机，1954 年发布",
+  "description": "尼康于1954年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q124802074",
+    "多语言词条数": "3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon S2",
+      "url": "https://www.wikidata.org/wiki/Q124802074"
+    }
+  ],
+  "qid": "Q124802074",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

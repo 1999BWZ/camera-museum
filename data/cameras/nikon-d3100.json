@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d3100",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D3100",
+  "year": 2010,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2010 年发布",
+  "description": "尼康于2010年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q585275",
+    "多语言词条数": "22"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D3100.jpg?width=800",
+      "caption": "D3100",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q585275"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D3100",
+      "url": "https://www.wikidata.org/wiki/Q585275"
+    }
+  ],
+  "qid": "Q585275",
+  "sitelinks": 22,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

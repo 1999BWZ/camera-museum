@@ -1,0 +1,40 @@
+{
+  "id": "nikon-s3",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "S3",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康旁轴相机，1958 年发布",
+  "description": "尼康于1958年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7036542",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/S3-400.jpg?width=800",
+      "caption": "S3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7036542"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon S3",
+      "url": "https://www.wikidata.org/wiki/Q7036542"
+    }
+  ],
+  "qid": "Q7036542",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nikon-fm3a",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "FM3A",
+  "year": 2001,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，2001 年发布",
+  "description": "尼康于2001年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q655249",
+    "多语言词条数": "12"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20FM3A%20with%2050mm%20lens.JPG?width=800",
+      "caption": "FM3A",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q655249"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康 FM3A",
+      "url": "https://www.wikidata.org/wiki/Q655249"
+    }
+  ],
+  "qid": "Q655249",
+  "sitelinks": 12,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

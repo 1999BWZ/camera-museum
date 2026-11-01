@@ -1,0 +1,40 @@
+{
+  "id": "pentax-k20d",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "K20D",
+  "year": 2008,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，2008 年发布",
+  "description": "宾得于2008年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1192599",
+    "多语言词条数": "11"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/PENTAX%20K20D%20Body.jpg?width=800",
+      "caption": "K20D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1192599"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 宾得 K20D",
+      "url": "https://www.wikidata.org/wiki/Q1192599"
+    }
+  ],
+  "qid": "Q1192599",
+  "sitelinks": 11,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

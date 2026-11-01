@@ -1,0 +1,40 @@
+{
+  "id": "sigma-dp1",
+  "brand": "Sigma",
+  "brand_cn": "适马",
+  "brand_slug": "sigma",
+  "country": "日本",
+  "manufacturer": "适马",
+  "model": "DP1",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "适马便携相机，2008 年发布",
+  "description": "适马于2008年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2284872",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigma%20dp1%20front.jpg?width=800",
+      "caption": "DP1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2284872"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sigma DP1",
+      "url": "https://www.wikidata.org/wiki/Q2284872"
+    }
+  ],
+  "qid": "Q2284872",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

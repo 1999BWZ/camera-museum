@@ -1,0 +1,40 @@
+{
+  "id": "olympus-pen-e-p3",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "PEN E-P3",
+  "year": 2011,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2011 年发布",
+  "description": "奥林巴斯于2011年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7089243",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20E-P3%20001.JPG?width=800",
+      "caption": "PEN E-P3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7089243"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus PEN E-P3",
+      "url": "https://www.wikidata.org/wiki/Q7089243"
+    }
+  ],
+  "qid": "Q7089243",
+  "sitelinks": 5,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

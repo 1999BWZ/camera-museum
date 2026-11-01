@@ -1,0 +1,32 @@
+{
+  "id": "sigma-dp3-merrill",
+  "brand": "Sigma",
+  "brand_cn": "适马",
+  "brand_slug": "sigma",
+  "country": "日本",
+  "manufacturer": "适马",
+  "model": "DP3 Merrill",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "适马便携相机，2013 年发布",
+  "description": "适马于2013年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q18358571",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Sigma DP3 Merrill",
+      "url": "https://www.wikidata.org/wiki/Q18358571"
+    }
+  ],
+  "qid": "Q18358571",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

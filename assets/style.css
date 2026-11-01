@@ -1,0 +1,121 @@
+/* 相机博物馆 · 博物馆展陈风格 */
+:root {
+  --paper: #FAF8F2;
+  --card: #FFFFFF;
+  --ink: #211D17;
+  --muted: #6F675B;
+  --line: #E4DCC9;
+  --accent: #96690F;          /* 铜金：展签色 */
+  --accent-dark: #7A5410;
+  --hall: #2B2620;            /* 深色展厅 */
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  line-height: 1.75;
+  font-size: 16px;
+}
+.serif { font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", serif; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+a { color: var(--accent-dark); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* —— 顶栏 —— */
+.site-header { background: var(--hall); color: #EDE6D6; }
+.site-header .wrap { display: flex; align-items: center; justify-content: space-between; padding-top: 14px; padding-bottom: 14px; }
+.brandmark { color: #F5EFDF; font-size: 20px; letter-spacing: 2px; }
+.brandmark small { display: block; font-size: 11px; letter-spacing: 4px; color: #B7A98C; font-family: Georgia, serif; }
+.site-header nav a { color: #CDBF9F; margin-left: 22px; font-size: 14px; }
+.site-header nav a:hover { color: #fff; }
+
+/* —— 首页 hero —— */
+.hero { text-align: center; padding: 72px 24px 56px; border-bottom: 1px solid var(--line); }
+.hero .kicker { letter-spacing: 6px; font-size: 13px; color: var(--accent-dark); }
+.hero h1 { font-size: 52px; letter-spacing: 10px; margin: 12px 0 8px; font-weight: 600; }
+.hero h1 .en { display: block; font-size: 15px; letter-spacing: 8px; color: var(--muted); margin-top: 10px; font-weight: 400; }
+.hero p.lead { color: var(--muted); max-width: 640px; margin: 18px auto 0; }
+.stats { display: flex; justify-content: center; gap: 48px; margin-top: 32px; }
+.stat { text-align: center; }
+.stat b { display: block; font-size: 34px; font-family: Georgia, serif; color: var(--ink); }
+.stat span { font-size: 13px; color: var(--muted); letter-spacing: 2px; }
+
+/* —— 展厅入口 —— */
+.section { padding: 48px 0 8px; }
+.section h2 { font-size: 24px; letter-spacing: 4px; text-align: center; margin-bottom: 6px; }
+.section .sub { text-align: center; color: var(--muted); font-size: 14px; margin-bottom: 28px; }
+.halls { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.hall-card { background: var(--hall); color: #EDE6D6; padding: 30px 26px; border-radius: 4px; }
+.hall-card h3 { font-size: 19px; letter-spacing: 2px; margin-bottom: 8px; color: #F5EFDF; }
+.hall-card p { font-size: 14px; color: #B9AC8E; }
+.hall-card a { display: inline-block; margin-top: 14px; color: #E8C87E; font-size: 14px; }
+
+/* —— 时间线 —— */
+.decade { margin: 36px 0; }
+.decade > h3 { font-size: 30px; font-family: Georgia, serif; color: var(--accent-dark); border-bottom: 2px solid var(--line); padding-bottom: 8px; margin-bottom: 20px; }
+.decade > h3 small { font-size: 14px; color: var(--muted); margin-left: 10px; font-family: sans-serif; letter-spacing: 2px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 18px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 4px; padding: 22px; display: block; color: var(--ink); transition: transform .15s, box-shadow .15s; }
+.card:hover { text-decoration: none; transform: translateY(-3px); box-shadow: 0 8px 24px rgba(60,45,20,.10); }
+.card .year { font-family: Georgia, serif; font-size: 26px; color: var(--accent); }
+.card h4 { font-size: 19px; margin: 4px 0 2px; }
+.card .brandline { font-size: 13px; color: var(--muted); }
+.card .tagline { font-size: 14px; color: var(--muted); margin-top: 10px; }
+.tag { display: inline-block; font-size: 12px; border: 1px solid var(--line); border-radius: 20px; padding: 2px 12px; margin: 8px 6px 0 0; color: var(--muted); background: var(--paper); }
+.tag.milestone { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+/* —— 筛选 —— */
+.filters { text-align: center; margin-bottom: 8px; }
+.chip { display: inline-block; border: 1px solid var(--line); background: var(--card); border-radius: 20px; padding: 6px 18px; margin: 4px; font-size: 14px; cursor: pointer; color: var(--ink); }
+.chip:hover { border-color: var(--accent); }
+.chip.active { background: var(--hall); color: #F5EFDF; border-color: var(--hall); }
+.chip small { color: var(--muted); margin-left: 4px; }
+.chip.active small { color: #B7A98C; }
+.brandchips { text-align: center; }
+a.chip { text-decoration: none; }
+
+/* —— 详情页 —— */
+.crumb { font-size: 13px; color: var(--muted); padding: 22px 0 0; }
+.crumb a { color: var(--muted); }
+.exhibit-head { padding: 18px 0 26px; border-bottom: 2px solid var(--line); margin-bottom: 30px; }
+.exhibit-head .kicker { font-size: 13px; letter-spacing: 3px; color: var(--accent-dark); }
+.exhibit-head h1 { font-size: 40px; margin: 8px 0 4px; letter-spacing: 2px; }
+.exhibit-head .years { font-family: Georgia, serif; font-size: 20px; color: var(--muted); }
+.exhibit-grid { display: grid; grid-template-columns: 5fr 6fr; gap: 32px; margin-bottom: 36px; }
+.photo-plate { background: var(--hall); border-radius: 4px; min-height: 380px; display: flex; align-items: center; justify-content: center; color: #8d8268; text-align: center; padding: 30px; }
+.photo-plate .plaque { border: 1px solid #5a5142; padding: 26px 30px; max-width: 320px; }
+.photo-plate .plaque b { display: block; color: #EDE6D6; letter-spacing: 4px; margin-bottom: 8px; }
+.photo-plate .plaque span { font-size: 13px; }
+.photo-plate img { max-width: 100%; border-radius: 2px; display: block; }
+.photo-credit { font-size: 12px; color: #8d8268; margin-top: 10px; }
+.info-table { width: 100%; border-collapse: collapse; font-size: 15px; }
+.info-table th, .info-table td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.info-table th { width: 110px; color: var(--muted); font-weight: 400; white-space: nowrap; }
+.significance { background: #F3EDDD; border-left: 4px solid var(--accent); padding: 20px 24px; margin: 8px 0 28px; border-radius: 0 4px 4px 0; }
+.significance b { display: block; letter-spacing: 3px; font-size: 14px; color: var(--accent-dark); margin-bottom: 6px; }
+.prose { max-width: 760px; }
+.prose h3 { font-size: 20px; letter-spacing: 3px; margin: 30px 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
+.spec-table { width: 100%; border-collapse: collapse; font-size: 15px; max-width: 760px; }
+.spec-table th, .spec-table td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--line); }
+.spec-table th { width: 150px; color: var(--muted); font-weight: 400; background: #FBF9F4; }
+.sources { font-size: 14px; color: var(--muted); }
+.sources li { margin-bottom: 6px; }
+.pager { display: flex; justify-content: space-between; margin: 44px 0 10px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 14px; }
+
+/* —— 品牌页 —— */
+.brand-head { padding: 40px 0 10px; text-align: center; }
+.brand-head h1 { font-size: 38px; letter-spacing: 6px; }
+.brand-head .meta { color: var(--muted); margin-top: 8px; font-size: 15px; }
+
+/* —— 页脚 —— */
+.site-footer { margin-top: 64px; background: var(--hall); color: #8d8268; font-size: 13px; }
+.site-footer .wrap { padding-top: 26px; padding-bottom: 26px; text-align: center; }
+
+@media (max-width: 760px) {
+  .exhibit-grid { grid-template-columns: 1fr; }
+  .halls { grid-template-columns: 1fr; }
+  .hero h1 { font-size: 36px; }
+  .exhibit-head h1 { font-size: 30px; }
+  .stats { gap: 24px; }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "leica-m10-d",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M10-D",
+  "year": 2018,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2018 年发布",
+  "description": "徕卡于2018年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q76735772",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20M10-D%20%28Typ%209217%29.jpg?width=800",
+      "caption": "M10-D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q76735772"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M10-D",
+      "url": "https://www.wikidata.org/wiki/Q76735772"
+    }
+  ],
+  "qid": "Q76735772",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

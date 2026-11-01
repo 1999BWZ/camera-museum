@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-1d-c",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS-1D C",
+  "year": 2013,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2013 年发布",
+  "description": "佳能于2013年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q63374",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2012%20Canon%20EOS%201D%20C%202013%20CP%2B.jpg?width=800",
+      "caption": "EOS-1D C",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q63374"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon EOS-1D C",
+      "url": "https://www.wikidata.org/wiki/Q63374"
+    }
+  ],
+  "qid": "Q63374",
+  "sitelinks": 10,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

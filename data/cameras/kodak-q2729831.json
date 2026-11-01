@@ -1,0 +1,40 @@
+{
+  "id": "kodak-q2729831",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "伊士曼柯达公司",
+  "model": "布朗尼 (相机)",
+  "year": 1900,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1900 年发布",
+  "description": "柯达于1900年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2729831",
+    "多语言词条数": "16"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2014-365-233%20The%20Basic%20Brownie%20Camera%20%2814809795240%29.jpg?width=800",
+      "caption": "布朗尼 (相机)",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2729831"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 布朗尼 (相机)",
+      "url": "https://www.wikidata.org/wiki/Q2729831"
+    }
+  ],
+  "qid": "Q2729831",
+  "sitelinks": 16,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

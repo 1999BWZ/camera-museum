@@ -1,0 +1,32 @@
+{
+  "id": "leica-m-e-typ-240",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M-E (Typ 240)",
+  "year": 2019,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2019 年发布",
+  "description": "徕卡于2019年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q76699957",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M-E (Typ 240)",
+      "url": "https://www.wikidata.org/wiki/Q76699957"
+    }
+  ],
+  "qid": "Q76699957",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "leica-m1",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M1",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，1959 年发布",
+  "description": "徕卡于1959年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q313944",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20M1-IMG%205850-gradient.jpg?width=800",
+      "caption": "M1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q313944"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M1",
+      "url": "https://www.wikidata.org/wiki/Q313944"
+    }
+  ],
+  "qid": "Q313944",
+  "sitelinks": 7,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

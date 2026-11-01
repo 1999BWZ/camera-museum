@@ -1,0 +1,40 @@
+{
+  "id": "leica-ii",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "II",
+  "year": 1932,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，1932 年发布",
+  "description": "徕卡于1932年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4042731",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LEI0150%20198%20Leica%20II%20schwarz%20-%20Sn.%2067777%201931-M39%20front%20view%20Umbau%20von%20Ic-0.jpg?width=800",
+      "caption": "II",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4042731"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica II",
+      "url": "https://www.wikidata.org/wiki/Q4042731"
+    }
+  ],
+  "qid": "Q4042731",
+  "sitelinks": 6,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

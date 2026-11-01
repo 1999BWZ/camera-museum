@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d600",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D600",
+  "year": 2012,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2012 年发布",
+  "description": "尼康于2012年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1846261",
+    "多语言词条数": "14"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D600%20Front%20View.jpg?width=800",
+      "caption": "D600",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1846261"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D600",
+      "url": "https://www.wikidata.org/wiki/Q1846261"
+    }
+  ],
+  "qid": "Q1846261",
+  "sitelinks": 14,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "olympus-pen-e-pl5",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "PEN E-PL5",
+  "year": 2012,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2012 年发布",
+  "description": "奥林巴斯于2012年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7089245",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20EPL5%20front%20lens.jpg?width=800",
+      "caption": "PEN E-PL5",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7089245"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus PEN E-PL5",
+      "url": "https://www.wikidata.org/wiki/Q7089245"
+    }
+  ],
+  "qid": "Q7089245",
+  "sitelinks": 4,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

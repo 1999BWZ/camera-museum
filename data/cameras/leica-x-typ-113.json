@@ -1,0 +1,40 @@
+{
+  "id": "leica-x-typ-113",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "X (Typ 113)",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2014 年发布",
+  "description": "徕卡于2014年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q18345827",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20X%20Typ%20113.jpg?width=800",
+      "caption": "X (Typ 113)",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q18345827"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica X (Typ 113)",
+      "url": "https://www.wikidata.org/wiki/Q18345827"
+    }
+  ],
+  "qid": "Q18345827",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

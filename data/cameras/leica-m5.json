@@ -1,0 +1,40 @@
+{
+  "id": "leica-m5",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M5",
+  "year": 1971,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，1971 年发布",
+  "description": "徕卡于1971年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q313963",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20M5%2050mm%20f2%20Summicron.jpg?width=800",
+      "caption": "M5",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q313963"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M5",
+      "url": "https://www.wikidata.org/wiki/Q313963"
+    }
+  ],
+  "qid": "Q313963",
+  "sitelinks": 5,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

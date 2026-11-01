@@ -1,0 +1,40 @@
+{
+  "id": "leica-m2",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M2",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，1958 年发布",
+  "description": "徕卡于1958年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q313935",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20M2.jpg?width=800",
+      "caption": "M2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q313935"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M2",
+      "url": "https://www.wikidata.org/wiki/Q313935"
+    }
+  ],
+  "qid": "Q313935",
+  "sitelinks": 6,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sony-zv-1",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "ZV-1",
+  "year": 2020,
+  "type": "compact",
+  "type_cn": "便携数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携数码相机，2020 年发布",
+  "description": "索尼于2020年发布的便携数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q107185293",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20ZV-1%20%2850009804078%29.jpg?width=800",
+      "caption": "ZV-1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q107185293"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony ZV-1",
+      "url": "https://www.wikidata.org/wiki/Q107185293"
+    }
+  ],
+  "qid": "Q107185293",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

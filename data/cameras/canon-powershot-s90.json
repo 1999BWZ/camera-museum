@@ -1,0 +1,40 @@
+{
+  "id": "canon-powershot-s90",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "PowerShot S90",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2009 年发布",
+  "description": "佳能于2009年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q5033263",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20PowerShot%20S90%2003.jpg?width=800",
+      "caption": "PowerShot S90",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q5033263"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon PowerShot S90",
+      "url": "https://www.wikidata.org/wiki/Q5033263"
+    }
+  ],
+  "qid": "Q5033263",
+  "sitelinks": 4,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

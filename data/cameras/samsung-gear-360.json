@@ -1,0 +1,40 @@
+{
+  "id": "samsung-gear-360",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "三星集团公司",
+  "model": "Gear 360",
+  "year": 2016,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星便携相机，2016 年发布",
+  "description": "三星于2016年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q24884116",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Gear%20360%20camera%20%2826666601836%29.jpg?width=800",
+      "caption": "Gear 360",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q24884116"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 三星Gear 360",
+      "url": "https://www.wikidata.org/wiki/Q24884116"
+    }
+  ],
+  "qid": "Q24884116",
+  "sitelinks": 10,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

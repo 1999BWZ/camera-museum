@@ -1,0 +1,40 @@
+{
+  "id": "olympus-pen-e-pl1",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "PEN E-PL1",
+  "year": 2010,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2010 年发布",
+  "description": "奥林巴斯于2010年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4045740",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20PEN%20E-PL1.jpg?width=800",
+      "caption": "PEN E-PL1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4045740"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus PEN E-PL1",
+      "url": "https://www.wikidata.org/wiki/Q4045740"
+    }
+  ],
+  "qid": "Q4045740",
+  "sitelinks": 6,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

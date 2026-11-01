@@ -1,0 +1,40 @@
+{
+  "id": "leica-q3",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "Q3",
+  "year": 2023,
+  "type": "compact",
+  "type_cn": "便携数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携数码相机，2023 年发布",
+  "description": "徕卡于2023年发布的便携数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q124408765",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20Q3%20with%20Summilix.jpg?width=800",
+      "caption": "Q3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q124408765"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica Q3",
+      "url": "https://www.wikidata.org/wiki/Q124408765"
+    }
+  ],
+  "qid": "Q124408765",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nikon-fm10",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "FM10",
+  "year": 1995,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1995 年发布",
+  "description": "尼康于1995年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1654201",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20FM10.jpg?width=800",
+      "caption": "FM10",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1654201"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon FM10",
+      "url": "https://www.wikidata.org/wiki/Q1654201"
+    }
+  ],
+  "qid": "Q1654201",
+  "sitelinks": 6,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

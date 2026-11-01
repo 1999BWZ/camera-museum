@@ -1,0 +1,40 @@
+{
+  "id": "leica-x2",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "X2",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2012 年发布",
+  "description": "徕卡于2012年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q18345822",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20X2.jpg?width=800",
+      "caption": "X2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q18345822"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica X2",
+      "url": "https://www.wikidata.org/wiki/Q18345822"
+    }
+  ],
+  "qid": "Q18345822",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

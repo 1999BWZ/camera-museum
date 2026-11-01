@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-100d",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS 100D",
+  "year": 2013,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2013 年发布",
+  "description": "佳能于2013年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7899680",
+    "多语言词条数": "18"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20100D%20with%20kid%20lens%20-%205.jpg?width=800",
+      "caption": "EOS 100D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7899680"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS 100D",
+      "url": "https://www.wikidata.org/wiki/Q7899680"
+    }
+  ],
+  "qid": "Q7899680",
+  "sitelinks": 18,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

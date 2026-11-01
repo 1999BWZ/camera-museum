@@ -1,0 +1,40 @@
+{
+  "id": "pentax-lx",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "LX",
+  "year": 1980,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1980 年发布",
+  "description": "宾得于1980年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q824877",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20LX%2C%20front.jpg?width=800",
+      "caption": "LX",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q824877"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax LX",
+      "url": "https://www.wikidata.org/wiki/Q824877"
+    }
+  ],
+  "qid": "Q824877",
+  "sitelinks": 6,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

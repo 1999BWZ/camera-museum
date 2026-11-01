@@ -1,0 +1,40 @@
+{
+  "id": "olympus-e-330",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-330",
+  "year": 2006,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，2006 年发布",
+  "description": "奥林巴斯于2006年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1067227",
+    "多语言词条数": "9"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20E-330%20frontal.JPG?width=800",
+      "caption": "E-330",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1067227"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 奥林巴斯 E-330",
+      "url": "https://www.wikidata.org/wiki/Q1067227"
+    }
+  ],
+  "qid": "Q1067227",
+  "sitelinks": 9,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

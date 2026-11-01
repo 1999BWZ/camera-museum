@@ -1,0 +1,32 @@
+{
+  "id": "leica-m-a",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M-A",
+  "year": 2014,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2014 年发布",
+  "description": "徕卡于2014年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q76701603",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M-A",
+      "url": "https://www.wikidata.org/wiki/Q76701603"
+    }
+  ],
+  "qid": "Q76701603",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

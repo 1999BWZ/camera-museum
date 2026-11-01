@@ -1,0 +1,195 @@
+{
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "description": "相机博物馆单款机型的数据模型。types 枚举见 type 字段。",
+ "properties": {
+  "brand": {
+   "description": "品牌英文名，如 Nikon",
+   "type": "string"
+  },
+  "brand_cn": {
+   "description": "品牌中文名，如 尼康",
+   "type": "string"
+  },
+  "brand_slug": {
+   "description": "品牌 slug，用于品牌页链接",
+   "type": "string"
+  },
+  "country": {
+   "description": "产地，如 日本",
+   "type": "string"
+  },
+  "description": {
+   "description": "简介 2~4 句，事实须核对",
+   "type": "string"
+  },
+  "designer": {
+   "description": "设计师（可选）",
+   "type": "string"
+  },
+  "end_year": {
+   "description": "停产年份（可选）",
+   "type": "integer"
+  },
+  "format": {
+   "description": "画幅/胶卷规格，如 135 胶卷（24×36mm）",
+   "type": "string"
+  },
+  "id": {
+   "description": "全站唯一 slug，如 nikon-f",
+   "type": "string"
+  },
+  "images": {
+   "description": "照片列表；file（本地 assets/images 下）与 remote_url（二选一）；为空时详情页显示占位铭牌",
+   "items": {
+    "anyOf": [
+     {
+      "required": [
+       "file"
+      ]
+     },
+     {
+      "required": [
+       "remote_url"
+      ]
+     }
+    ],
+    "properties": {
+     "author": {
+      "description": "作者（可选）",
+      "type": "string"
+     },
+     "caption": {
+      "type": "string"
+     },
+     "file": {
+      "description": "assets/images 下的文件名",
+      "type": "string"
+     },
+     "license": {
+      "description": "授权，如 CC BY-SA 4.0",
+      "type": "string"
+     },
+     "remote_url": {
+      "description": "远程图片直链（如 Wikimedia 缩略图）",
+      "type": "string"
+     },
+     "source": {
+      "description": "来源，如 Wikimedia Commons",
+      "type": "string"
+     },
+     "url": {
+      "description": "原图页面链接（可选）",
+      "type": "string"
+     }
+    },
+    "required": [
+     "caption",
+     "source",
+     "license"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "manufacturer": {
+   "description": "制造商全称",
+   "type": "string"
+  },
+  "milestone": {
+   "description": "是否里程碑机型，首页/详情页会打标",
+   "type": "boolean"
+  },
+  "model": {
+   "description": "型号，如 Nikon F",
+   "type": "string"
+  },
+  "mount": {
+   "description": "卡口，如 Nikon F 卡口",
+   "type": "string"
+  },
+  "series": {
+   "description": "所属系列（可选）",
+   "type": "string"
+  },
+  "significance": {
+   "description": "历史意义 1~2 句",
+   "type": "string"
+  },
+  "sources": {
+   "description": "资料来源，至少一条",
+   "items": {
+    "properties": {
+     "title": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "title"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "specs": {
+   "additionalProperties": {
+    "type": "string"
+   },
+   "description": "规格参数表，键为中文参数名",
+   "type": "object"
+  },
+  "tagline": {
+   "description": "一句话卖点，用于卡片",
+   "type": "string"
+  },
+  "type": {
+   "description": "机型类型枚举",
+   "enum": [
+    "scale_focus",
+    "rangefinder",
+    "tlr",
+    "slr",
+    "dslr",
+    "mirrorless",
+    "compact",
+    "instant",
+    "medium_format",
+    "large_format"
+   ],
+   "type": "string"
+  },
+  "type_cn": {
+   "description": "类型中文名，如 135 单反相机",
+   "type": "string"
+  },
+  "year": {
+   "description": "发布年份",
+   "type": "integer"
+  }
+ },
+ "required": [
+  "id",
+  "brand",
+  "brand_cn",
+  "brand_slug",
+  "country",
+  "manufacturer",
+  "model",
+  "year",
+  "type",
+  "type_cn",
+  "format",
+  "mount",
+  "milestone",
+  "tagline",
+  "description",
+  "significance",
+  "specs",
+  "images",
+  "sources"
+ ],
+ "title": "CameraMuseumCamera",
+ "type": "object"
+}

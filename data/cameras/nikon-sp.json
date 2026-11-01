@@ -1,0 +1,40 @@
+{
+  "id": "nikon-sp",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "SP",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康旁轴相机，1957 年发布",
+  "description": "尼康于1957年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7036548",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20SP%20chrome%20with%20exposure%20meter%20and%20NIKKOR-S%201%2C4%20f%3D5cm.JPG?width=800",
+      "caption": "SP",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7036548"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon SP",
+      "url": "https://www.wikidata.org/wiki/Q7036548"
+    }
+  ],
+  "qid": "Q7036548",
+  "sitelinks": 5,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

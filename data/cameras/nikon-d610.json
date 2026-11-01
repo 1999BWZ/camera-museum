@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d610",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D610",
+  "year": 2013,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2013 年发布",
+  "description": "尼康于2013年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q15143841",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Nikon%20D610%20%281%29.jpg?width=800",
+      "caption": "D610",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q15143841"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D610",
+      "url": "https://www.wikidata.org/wiki/Q15143841"
+    }
+  ],
+  "qid": "Q15143841",
+  "sitelinks": 10,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

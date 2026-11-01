@@ -1,0 +1,40 @@
+{
+  "id": "canon-powershot-s110",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "PowerShot S110",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2012 年发布",
+  "description": "佳能于2012年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q5033260",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20PowerShot%20S110%20with%20lens%20extended.jpg?width=800",
+      "caption": "PowerShot S110",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q5033260"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon PowerShot S110",
+      "url": "https://www.wikidata.org/wiki/Q5033260"
+    }
+  ],
+  "qid": "Q5033260",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

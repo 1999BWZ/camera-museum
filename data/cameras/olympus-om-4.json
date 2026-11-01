@@ -1,0 +1,40 @@
+{
+  "id": "olympus-om-4",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "OM-4",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片单反相机，1983 年发布",
+  "description": "奥林巴斯于1983年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1378140",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20OM4%2001%20kln%20web.jpg?width=800",
+      "caption": "OM-4",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1378140"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus OM-4",
+      "url": "https://www.wikidata.org/wiki/Q1378140"
+    }
+  ],
+  "qid": "Q1378140",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "creative-vado",
+  "brand": "Creative",
+  "brand_cn": "创新",
+  "brand_slug": "creative",
+  "country": "新加坡",
+  "manufacturer": "创新科技",
+  "model": "Vado",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "创新数码相机，2008 年发布",
+  "description": "创新于2008年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q5183552",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Creative%20Vado%20HD%203rd%20Generation.jpg?width=800",
+      "caption": "Vado",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q5183552"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Creative Vado",
+      "url": "https://www.wikidata.org/wiki/Q5183552"
+    }
+  ],
+  "qid": "Q5183552",
+  "sitelinks": 1,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

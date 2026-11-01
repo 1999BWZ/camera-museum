@@ -1,0 +1,40 @@
+{
+  "id": "rollei-35",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "禄莱",
+  "model": "35",
+  "year": 1966,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来便携相机，1966 年发布",
+  "description": "禄来于1966年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q315368",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rollei%2035%20Camera%20%287169624013%29.jpg?width=800",
+      "caption": "35",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q315368"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 禄来35",
+      "url": "https://www.wikidata.org/wiki/Q315368"
+    }
+  ],
+  "qid": "Q315368",
+  "sitelinks": 8,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

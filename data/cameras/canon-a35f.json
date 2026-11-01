@@ -1,0 +1,40 @@
+{
+  "id": "canon-a35f",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "A35F",
+  "year": 1978,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能旁轴相机，1978 年发布",
+  "description": "佳能于1978年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q60252775",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/My%20Canon%20A35F%20%284475546521%29.jpg?width=800",
+      "caption": "A35F",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q60252775"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon A35F",
+      "url": "https://www.wikidata.org/wiki/Q60252775"
+    }
+  ],
+  "qid": "Q60252775",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

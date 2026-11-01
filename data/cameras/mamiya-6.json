@@ -1,0 +1,40 @@
+{
+  "id": "mamiya-6",
+  "brand": "Mamiya",
+  "brand_cn": "玛米亚",
+  "brand_slug": "mamiya",
+  "country": "日本",
+  "manufacturer": "玛米亚",
+  "model": "6",
+  "year": 1989,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "玛米亚旁轴相机，1989 年发布",
+  "description": "玛米亚于1989年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q17118798",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/0217%20Mamiya%206%2075mm%20f3.5%20lens%20%285255033524%29.jpg?width=800",
+      "caption": "6",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q17118798"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Mamiya 6",
+      "url": "https://www.wikidata.org/wiki/Q17118798"
+    }
+  ],
+  "qid": "Q17118798",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

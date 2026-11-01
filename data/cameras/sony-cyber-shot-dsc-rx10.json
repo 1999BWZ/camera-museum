@@ -1,0 +1,40 @@
+{
+  "id": "sony-cyber-shot-dsc-rx10",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "Cyber-shot DSC-RX10",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2013 年发布",
+  "description": "索尼于2013年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q18379361",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Cyber-shot%20DSC-RX10.jpg?width=800",
+      "caption": "Cyber-shot DSC-RX10",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q18379361"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony Cyber-shot DSC-RX10",
+      "url": "https://www.wikidata.org/wiki/Q18379361"
+    }
+  ],
+  "qid": "Q18379361",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nikon-fm",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "FM",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1977 年发布",
+  "description": "尼康于1977年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3341825",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20FM.jpg?width=800",
+      "caption": "FM",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q3341825"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon FM",
+      "url": "https://www.wikidata.org/wiki/Q3341825"
+    }
+  ],
+  "qid": "Q3341825",
+  "sitelinks": 8,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pentax-6x7",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "6x7",
+  "year": 1969,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，1969 年发布",
+  "description": "宾得于1969年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3899254",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%206%C3%977%20MU.JPG?width=800",
+      "caption": "6x7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q3899254"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 宾得6x7",
+      "url": "https://www.wikidata.org/wiki/Q3899254"
+    }
+  ],
+  "qid": "Q3899254",
+  "sitelinks": 8,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

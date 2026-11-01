@@ -1,0 +1,32 @@
+{
+  "id": "pentax-x-5",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "X-5",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2012 年发布",
+  "description": "宾得于2012年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7165092",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax X-5",
+      "url": "https://www.wikidata.org/wiki/Q7165092"
+    }
+  ],
+  "qid": "Q7165092",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

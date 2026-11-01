@@ -1,0 +1,40 @@
+{
+  "id": "sony-alpha-slt-a55",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "ALPHA SLT-A55",
+  "year": 2010,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码单反相机，2010 年发布",
+  "description": "索尼于2010年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1186048",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Alpha%2055%20and%2018-55mm%20zoom%20lens.jpg?width=800",
+      "caption": "ALPHA SLT-A55",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1186048"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 索尼 ALPHA SLT-A55",
+      "url": "https://www.wikidata.org/wiki/Q1186048"
+    }
+  ],
+  "qid": "Q1186048",
+  "sitelinks": 8,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

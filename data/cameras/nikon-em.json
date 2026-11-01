@@ -1,0 +1,40 @@
+{
+  "id": "nikon-em",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "EM",
+  "year": 1979,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1979 年发布",
+  "description": "尼康于1979年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2263095",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20EM%20%28balance%20adjust%29.jpg?width=800",
+      "caption": "EM",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2263095"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康 EM",
+      "url": "https://www.wikidata.org/wiki/Q2263095"
+    }
+  ],
+  "qid": "Q2263095",
+  "sitelinks": 10,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

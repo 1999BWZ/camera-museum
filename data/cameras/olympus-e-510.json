@@ -1,0 +1,40 @@
+{
+  "id": "olympus-e-510",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-510",
+  "year": 2007,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，2007 年发布",
+  "description": "奥林巴斯于2007年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1324379",
+    "多语言词条数": "12"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20E510%20img%201029.jpg?width=800",
+      "caption": "E-510",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1324379"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 奥林巴斯E-510",
+      "url": "https://www.wikidata.org/wiki/Q1324379"
+    }
+  ],
+  "qid": "Q1324379",
+  "sitelinks": 12,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

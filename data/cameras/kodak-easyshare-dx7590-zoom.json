@@ -1,0 +1,40 @@
+{
+  "id": "kodak-easyshare-dx7590-zoom",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "伊士曼柯达公司",
+  "model": "EasyShare DX7590 Zoom",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，2004 年发布",
+  "description": "柯达于2004年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q6425107",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak%20DX7590%20001.jpg?width=800",
+      "caption": "EasyShare DX7590 Zoom",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q6425107"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Kodak EasyShare DX7590 Zoom",
+      "url": "https://www.wikidata.org/wiki/Q6425107"
+    }
+  ],
+  "qid": "Q6425107",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

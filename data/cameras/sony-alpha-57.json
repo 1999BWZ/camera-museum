@@ -1,0 +1,40 @@
+{
+  "id": "sony-alpha-57",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "Alpha 57",
+  "year": 2012,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码单反相机，2012 年发布",
+  "description": "索尼于2012年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1519828",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20SLT-A57%20with%20SAL35F18.JPG?width=800",
+      "caption": "Alpha 57",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1519828"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 索尼Alpha 57",
+      "url": "https://www.wikidata.org/wiki/Q1519828"
+    }
+  ],
+  "qid": "Q1519828",
+  "sitelinks": 5,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

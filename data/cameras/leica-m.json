@@ -1,0 +1,40 @@
+{
+  "id": "leica-m",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M",
+  "year": 2012,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2012 年发布",
+  "description": "徕卡于2012年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q313894",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20M-240-P4140434-white.jpg?width=800",
+      "caption": "M",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q313894"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 徕卡M",
+      "url": "https://www.wikidata.org/wiki/Q313894"
+    }
+  ],
+  "qid": "Q313894",
+  "sitelinks": 7,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

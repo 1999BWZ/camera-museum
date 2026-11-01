@@ -1,0 +1,40 @@
+{
+  "id": "leica-m10-monochrom",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M10 Monochrom",
+  "year": 2020,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2020 年发布",
+  "description": "徕卡于2020年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q83397123",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20M10%20Monochrom%2001.jpg?width=800",
+      "caption": "M10 Monochrom",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q83397123"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M10 Monochrom",
+      "url": "https://www.wikidata.org/wiki/Q83397123"
+    }
+  ],
+  "qid": "Q83397123",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

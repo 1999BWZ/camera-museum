@@ -1,0 +1,40 @@
+{
+  "id": "nikon-fm2",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "FM2",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1982 年发布",
+  "description": "尼康于1982年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1352089",
+    "多语言词条数": "12"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NIKON%20FM2n%20NIKKOR%20Q.jpg?width=800",
+      "caption": "FM2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1352089"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康FM2",
+      "url": "https://www.wikidata.org/wiki/Q1352089"
+    }
+  ],
+  "qid": "Q1352089",
+  "sitelinks": 12,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

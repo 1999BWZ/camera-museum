@@ -1,0 +1,40 @@
+{
+  "id": "pentax-sf7",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "SF7",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1988 年发布",
+  "description": "宾得于1988年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4046651",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax-SF7.jpg?width=800",
+      "caption": "SF7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4046651"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax SF7",
+      "url": "https://www.wikidata.org/wiki/Q4046651"
+    }
+  ],
+  "qid": "Q4046651",
+  "sitelinks": 4,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

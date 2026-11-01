@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-90d",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS 90D",
+  "year": 2019,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2019 年发布",
+  "description": "佳能于2019年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q67152522",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20EOS%2090D%20with%20EF-S%2018-135mm.jpg?width=800",
+      "caption": "EOS 90D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q67152522"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS 90D",
+      "url": "https://www.wikidata.org/wiki/Q67152522"
+    }
+  ],
+  "qid": "Q67152522",
+  "sitelinks": 10,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

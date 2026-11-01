@@ -1,0 +1,40 @@
+{
+  "id": "leica-x1",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "X1",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2009 年发布",
+  "description": "徕卡于2009年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1593747",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LeicaX1.jpg?width=800",
+      "caption": "X1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1593747"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica X1",
+      "url": "https://www.wikidata.org/wiki/Q1593747"
+    }
+  ],
+  "qid": "Q1593747",
+  "sitelinks": 4,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

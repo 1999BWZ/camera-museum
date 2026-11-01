@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-550d",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS 550D",
+  "year": 2010,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2010 年发布",
+  "description": "佳能于2010年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q64492",
+    "多语言词条数": "24"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CanonEOS550D%202.jpg?width=800",
+      "caption": "EOS 550D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q64492"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS 550D",
+      "url": "https://www.wikidata.org/wiki/Q64492"
+    }
+  ],
+  "qid": "Q64492",
+  "sitelinks": 24,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,28 @@
+<div class="wrap">
+  <div class="crumb"><a href="{{root}}index.html">首页</a> / <a href="{{root}}brand/{{brand_slug}}.html">{{brand_cn}}</a> / {{model}}</div>
+  <section class="exhibit-head">
+    <div class="kicker serif">EXHIBIT</div>
+    <h1 class="serif">{{model}}</h1>
+    <div class="years">{{year_str}}</div>
+    <div><span class="tag">{{type_cn}}</span>{{milestone_badge}}</div>
+  </section>
+  <section class="exhibit-grid">
+    <div>{{photo_block}}</div>
+    <div>
+      <table class="info-table">{{info_rows}}</table>
+    </div>
+  </section>
+  <div class="significance"><b>历史意义 · SIGNIFICANCE</b>{{significance}}</div>
+  <div class="prose">
+    <h3 class="serif">简介</h3>
+    <p>{{description}}</p>
+    <h3 class="serif">规格参数</h3>
+    <table class="spec-table">{{spec_rows}}</table>
+    <h3 class="serif">资料来源</h3>
+    <ul class="sources">{{sources_list}}</ul>
+  </div>
+  <div class="pager">
+    <span>{{prev_link}}</span>
+    <span>{{next_link}}</span>
+  </div>
+</div>

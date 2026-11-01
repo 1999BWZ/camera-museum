@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d3s",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D3S",
+  "year": 2009,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2009 年发布",
+  "description": "尼康于2009年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1351406",
+    "多语言词条数": "13"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D3S%20img%203543.jpg?width=800",
+      "caption": "D3S",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1351406"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D3S",
+      "url": "https://www.wikidata.org/wiki/Q1351406"
+    }
+  ],
+  "qid": "Q1351406",
+  "sitelinks": 13,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

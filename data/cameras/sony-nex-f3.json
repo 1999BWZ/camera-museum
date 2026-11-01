@@ -1,0 +1,40 @@
+{
+  "id": "sony-nex-f3",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "NEX-F3",
+  "year": 2012,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼无反相机，2012 年发布",
+  "description": "索尼于2012年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q15756472",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20NEX-F3%20%281%29.jpg?width=800",
+      "caption": "NEX-F3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q15756472"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 索尼NEX-F3",
+      "url": "https://www.wikidata.org/wiki/Q15756472"
+    }
+  ],
+  "qid": "Q15756472",
+  "sitelinks": 5,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

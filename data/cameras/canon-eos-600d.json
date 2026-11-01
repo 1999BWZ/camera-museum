@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-600d",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS 600D",
+  "year": 2011,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2011 年发布",
+  "description": "佳能于2011年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q65663",
+    "多语言词条数": "26"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20EOS%20600D%20with%20Canon%20EF%2050mm%20F1.8.jpg?width=800",
+      "caption": "EOS 600D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q65663"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS 600D",
+      "url": "https://www.wikidata.org/wiki/Q65663"
+    }
+  ],
+  "qid": "Q65663",
+  "sitelinks": 26,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "samsung-nx100",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "三星电子",
+  "model": "NX100",
+  "year": 2010,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星无反相机，2010 年发布",
+  "description": "三星于2010年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q313851",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nx100.jpg?width=800",
+      "caption": "NX100",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q313851"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Samsung NX100",
+      "url": "https://www.wikidata.org/wiki/Q313851"
+    }
+  ],
+  "qid": "Q313851",
+  "sitelinks": 7,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

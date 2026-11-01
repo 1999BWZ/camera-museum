@@ -1,0 +1,40 @@
+{
+  "id": "pentax-k-30",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "K-30",
+  "year": 2012,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，2012 年发布",
+  "description": "宾得于2012年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1384314",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20K-30%20with%20a%20Super-Takumar%2050%20mm%20f1.4%20lens%20%28angled%20view%29.JPG?width=800",
+      "caption": "K-30",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1384314"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 宾得士 K-30",
+      "url": "https://www.wikidata.org/wiki/Q1384314"
+    }
+  ],
+  "qid": "Q1384314",
+  "sitelinks": 8,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sony-dsc-hx90v",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSC-HX90V",
+  "year": 2015,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2015 年发布",
+  "description": "索尼于2015年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q25041969",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hx90v%20-%202017.jpg?width=800",
+      "caption": "DSC-HX90V",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q25041969"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSC-HX90V",
+      "url": "https://www.wikidata.org/wiki/Q25041969"
+    }
+  ],
+  "qid": "Q25041969",
+  "sitelinks": 2,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

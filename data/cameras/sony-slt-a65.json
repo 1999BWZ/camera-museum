@@ -1,0 +1,40 @@
+{
+  "id": "sony-slt-a65",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "SLT-A65",
+  "year": 2011,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码单反相机，2011 年发布",
+  "description": "索尼于2011年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4049776",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20SLT-A65%20in%20a%20show-case.jpg?width=800",
+      "caption": "SLT-A65",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4049776"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony SLT-A65",
+      "url": "https://www.wikidata.org/wiki/Q4049776"
+    }
+  ],
+  "qid": "Q4049776",
+  "sitelinks": 4,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

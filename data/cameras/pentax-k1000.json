@@ -1,0 +1,40 @@
+{
+  "id": "pentax-k1000",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "K1000",
+  "year": 1976,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，1976 年发布",
+  "description": "宾得于1976年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q639521",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20K1000.jpg?width=800",
+      "caption": "K1000",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q639521"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 宾得士 K1000",
+      "url": "https://www.wikidata.org/wiki/Q639521"
+    }
+  ],
+  "qid": "Q639521",
+  "sitelinks": 8,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

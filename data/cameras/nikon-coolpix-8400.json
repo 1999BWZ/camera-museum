@@ -1,0 +1,40 @@
+{
+  "id": "nikon-coolpix-8400",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Coolpix 8400",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2004 年发布",
+  "description": "尼康于2004年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3341767",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coolpix%208400.jpg?width=800",
+      "caption": "Coolpix 8400",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q3341767"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Coolpix 8400",
+      "url": "https://www.wikidata.org/wiki/Q3341767"
+    }
+  ],
+  "qid": "Q3341767",
+  "sitelinks": 3,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f2",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F2",
+  "year": 1971,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1971 年发布",
+  "description": "尼康于1971年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q788315",
+    "多语言词条数": "12"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20F2%20DE1.jpg?width=800",
+      "caption": "F2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q788315"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康 F2",
+      "url": "https://www.wikidata.org/wiki/Q788315"
+    }
+  ],
+  "qid": "Q788315",
+  "sitelinks": 12,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "lomography-q2552768",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "戴安娜相机",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography玩具相机，1960 年发布",
+  "description": "Lomography于1960年发布的玩具相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2552768",
+    "多语言词条数": "13"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diana%20camera.jpg?width=800",
+      "caption": "戴安娜相机",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2552768"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 戴安娜相机",
+      "url": "https://www.wikidata.org/wiki/Q2552768"
+    }
+  ],
+  "qid": "Q2552768",
+  "sitelinks": 13,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

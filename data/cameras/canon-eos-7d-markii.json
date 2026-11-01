@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-7d-markii",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS 7D MarkII",
+  "year": 2014,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2014 年发布",
+  "description": "佳能于2014年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q18048758",
+    "多语言词条数": "13"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan2015%20Canon%20EOS%207D%20Mark%20II%20Body-Crop.jpg?width=800",
+      "caption": "EOS 7D MarkII",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q18048758"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS 7D MarkII",
+      "url": "https://www.wikidata.org/wiki/Q18048758"
+    }
+  ],
+  "qid": "Q18048758",
+  "sitelinks": 13,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

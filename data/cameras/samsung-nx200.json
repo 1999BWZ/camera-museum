@@ -1,0 +1,32 @@
+{
+  "id": "samsung-nx200",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "三星集团公司",
+  "model": "NX200",
+  "year": 2011,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星无反相机，2011 年发布",
+  "description": "三星于2011年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q313859",
+    "多语言词条数": "4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Samsung NX200",
+      "url": "https://www.wikidata.org/wiki/Q313859"
+    }
+  ],
+  "qid": "Q313859",
+  "sitelinks": 4,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}

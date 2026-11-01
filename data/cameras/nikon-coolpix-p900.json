@@ -1,0 +1,40 @@
+{
+  "id": "nikon-coolpix-p900",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Coolpix P900",
+  "year": 2015,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2015 年发布",
+  "description": "尼康于2015年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q19573326",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20COOLPIX%20P900-4%20%2824403817010%29.jpg?width=800",
+      "caption": "Coolpix P900",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q19573326"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Coolpix P900",
+      "url": "https://www.wikidata.org/wiki/Q19573326"
+    }
+  ],
+  "qid": "Q19573326",
+  "sitelinks": 6,
+  "imported": "wikipedia-wikidata-2026-11-01"
+}
