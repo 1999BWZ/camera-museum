@@ -119,29 +119,17 @@ def build_index(cams, css, js):
     for c in cams:
         brands.setdefault(c["brand_slug"], []).append(c)
 
-    # 镇馆之宝
-    featured_ids = json.load(open(os.path.join(BASE, "data", "featured.json"), encoding="utf-8"))
-    by_id = {c["id"]: c for c in cams}
-    fame = [by_id[i] for i in featured_ids if i in by_id]
-    fame_cards = "\n".join(featured_card_html(c) for c in fame)
-
-    # 时间线导航：按十年分组，只显示年代、数量与代表机型
+    # 时间线导航：按十年分组，只显示年代与数量
     decades = {}
     for c in cams:
         d = (c["year"] // 10) * 10
         decades.setdefault(d, []).append(c)
-    fame_ids = set(featured_ids)
     decade_nav = []
     for d in sorted(decades):
-        cs = decades[d]
-        rep = [c for c in cs if c["id"] in fame_ids][:3]
-        if len(rep) < 3:
-            rep += [c for c in cs if c["id"] not in fame_ids][:3 - len(rep)]
-        rep_names = "、".join(esc(c["model"]) for c in rep)
         decade_nav.append(
             f'<a class="decade-link" href="timeline.html#d-{d}">'
             f'<span class="serif">{d}s</span>'
-            f"<small>{len(cs)} 款 · {rep_names}</small>"
+            f"<small>{len(decades[d])} 款</small>"
             "</a>"
         )
 
@@ -150,7 +138,6 @@ def build_index(cams, css, js):
         "stats_cameras": len(cams),
         "stats_brands": len(brands),
         "stats_years": f"{min(years)}–{max(years)}",
-        "fame_cards": fame_cards,
         "decade_nav": "\n".join(decade_nav),
     })
     page = render(load_text(os.path.join(TPL_DIR, "base.html")), {

@@ -115,29 +115,6 @@ a.chip { text-decoration: none; }
 .site-footer { margin-top: 64px; background: var(--hall); color: #8d8268; font-size: 13px; }
 .site-footer .wrap { padding-top: 26px; padding-bottom: 26px; text-align: center; }
 
-/* —— 镇馆之宝 —— */
-.fame-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
-.fame-card { padding: 0; overflow: hidden; }
-.fame-img { height: 200px; background: #efe9d8; display: flex; align-items: center; justify-content: center; overflow: hidden; }
-.fame-img img { width: 100%; height: 100%; object-fit: cover; }
-.fame-empty span { color: var(--muted); font-size: 13px; letter-spacing: 2px; }
-.fame-card .year, .fame-card h4, .fame-card .brandline, .fame-card .tag, .fame-card .tagline { margin-left: 22px; margin-right: 22px; }
-.fame-card .year { margin-top: 16px; }
-.fame-card .tagline { margin-bottom: 20px; }
-
-/* —— 年代导航 —— */
-.decade-nav { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
-.decade-link { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 4px; padding: 16px 18px; color: var(--ink); transition: transform .15s, box-shadow .15s; }
-.decade-link:hover { text-decoration: none; transform: translateY(-2px); box-shadow: 0 6px 18px rgba(60,45,20,.10); }
-.decade-link .serif { font-size: 24px; color: var(--accent); display: block; }
-.decade-link small { color: var(--muted); font-size: 13px; display: block; margin-top: 6px; line-height: 1.5; }
-.more { margin-top: 18px; font-size: 15px; }
-.more a { color: var(--accent); }
-
-/* —— 瘦版 hero —— */
-.hero.slim { padding: 48px 0 8px; }
-.hero.slim h1 { font-size: 40px; }
-
 @media (max-width: 760px) {
   .exhibit-grid { grid-template-columns: 1fr; }
   .halls { grid-template-columns: 1fr; }
@@ -146,5 +123,4 @@ a.chip { text-decoration: none; }
   .exhibit-icon img { height: 104px; }
   .card-icon img { height: 96px; }
   .stats { gap: 24px; }
-  .fame-grid { grid-template-columns: 1fr; }
 }
