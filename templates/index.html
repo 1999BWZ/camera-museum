@@ -1,42 +1,15 @@
 <div class="wrap">
-  <section class="hero">
+  <section class="hero slim">
     <div class="kicker serif">THE CAMERA MUSEUM</div>
     <h1 class="serif">相机百年<span class="en">A CENTURY OF CAMERAS</span></h1>
-    <p class="lead">从 1900 年柯达 Brownie 到数码时代，这里用博物馆的方式陈列相机历史：镇馆之宝、完整时间线与品牌展厅。</p>
-    <div class="stats">
-      <div class="stat"><b>{{stats_cameras}}</b><span>收录机型</span></div>
-      <div class="stat"><b>{{stats_brands}}</b><span>品牌</span></div>
-      <div class="stat"><b>{{stats_years}}</b><span>时间跨度</span></div>
-    </div>
-  </section>
-
-  <section class="section" id="milestones">
-    <h2 class="serif">镇馆之宝</h2>
-    <p class="sub">HALL OF FAME · 18 款改写历史的相机</p>
-    <div class="fame-grid">{{fame_cards}}</div>
+    <p class="lead">{{stats_cameras}} 款机型 · {{stats_brands}} 个品牌 · {{stats_years}}</p>
   </section>
 
   <section class="section" id="timeline">
-    <h2 class="serif">时间线</h2>
-    <p class="sub">TIMELINE · 按年代浏览全部 {{stats_cameras}} 款</p>
     <div class="decade-nav">{{decade_nav}}</div>
-    <p class="more"><a href="timeline.html">进入完整时间线 →</a></p>
   </section>
 
-  <section class="section">
-    <h2 class="serif">展厅</h2>
-    <p class="sub">HALLS</p>
-    <div class="halls">
-      <div class="hall-card">
-        <h3>时间线展厅</h3>
-        <p>按年代陈列全部机型，从胶片时代走到数码时代。</p>
-        <a href="timeline.html">进入 →</a>
-      </div>
-      <div class="hall-card">
-        <h3>品牌展厅</h3>
-        <p>{{stats_brands}} 个品牌，每个品牌一个独立展厅。</p>
-        <a href="brands.html">进入 →</a>
-      </div>
-    </div>
+  <section class="section more-links">
+    <p class="more"><a href="timeline.html">完整时间线 →</a> &nbsp;·&nbsp; <a href="brands.html">品牌展厅 →</a></p>
   </section>
 </div>
