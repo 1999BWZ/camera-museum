@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears胶片相机，1941 年发布",
-  "description": "The Marvel-flex 6&times;6cm TLR was made in USA for Sears by Ciro c.1941.",
+  "description": "Sears于1941年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Marvel-flex"
+    "Camera-wiki": "Marvel-flex",
+    "英文简介": "The Marvel-flex 6&times;6cm TLR was made in USA for Sears by Ciro c.1941."
   },
   "images": [],
   "sources": [

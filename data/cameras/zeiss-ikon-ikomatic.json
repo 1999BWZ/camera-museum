@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "蔡司胶片相机，1964 年发布",
-  "description": "The Zeiss Ikon Ikomatic viewfinder cameras were made by Bilora for Zeiss Ikon.",
+  "description": "蔡司于1964年推出的胶片相机。配备Frontar。快门速度speeds 1/30 sec. with flash, 1/60 sec. for daylight。使用126 film cartridges。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zeiss Ikon Ikomatic"
+    "Camera-wiki": "Zeiss Ikon Ikomatic",
+    "胶片/画幅": "126 film cartridges",
+    "镜头": "Frontar",
+    "快门": "speeds 1/30 sec. with flash, 1/60 sec. for daylight",
+    "光圈": "controlled by selenium photo cell: 1:6.3 to estimated 1:16",
+    "取景器": "telescope finder with red/green symbols for correct lighting",
+    "尺寸": "125×71×55 mm",
+    "重量": "250 g",
+    "英文简介": "The Zeiss Ikon Ikomatic viewfinder cameras were made by Bilora for Zeiss Ikon."
   },
   "images": [],
   "sources": [

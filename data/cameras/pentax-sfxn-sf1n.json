@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1989 年发布",
-  "description": "The Pentax SFXn/SF1n is a autofocus 35mm SLR camera introduced in 1989, two years after the SFX (SFI).",
+  "description": "宾得于1989年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax SFXn/SF1n"
+    "Camera-wiki": "Pentax SFXn/SF1n",
+    "英文简介": "The Pentax SFXn/SF1n is a autofocus 35mm SLR camera introduced in 1989, two years after the SFX (SFI)."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann立体相机，1904 年发布",
-  "description": "Ernemann Heag III 9&times;12cm stereo camera was made from 1900 to 1906.",
+  "description": "Ernemann于1904年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Heag III Stereo"
+    "Camera-wiki": "Ernemann Heag III Stereo",
+    "英文简介": "Ernemann Heag III 9&times;12cm stereo camera was made from 1900 to 1906."
   },
   "images": [],
   "sources": [

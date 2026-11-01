@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2000 年发布",
-  "description": "The Advantix T700 is a compact camera with an auto-focus 2x zoom lens, for the APS film system.",
+  "description": "柯达于2000年推出的便携相机。配备'all-glass' Ektanar 25-50mm f/4.6-8.7。**Active autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix T700"
+    "Camera-wiki": "Kodak Advantix T700",
+    "镜头": "'all-glass' Ektanar 25-50mm f/4.6-8.7",
+    "取景器": "real image finder.",
+    "对焦": "**Active autofocus",
+    "曝光测光": "automatic, shutter speed 1/2-1/250 sec.",
+    "闪光灯": "Flip-up 'Sensalite' flash built into the lens cover, with modes:",
+    "尺寸": "91x64x35.5mm.",
+    "重量": "5.3oz. (150g) without film or battery.",
+    "英文简介": "The Advantix T700 is a compact camera with an auto-focus 2x zoom lens, for the APS film system."
   },
   "images": [],
   "sources": [

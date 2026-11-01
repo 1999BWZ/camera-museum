@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士便携相机，2010 年发布",
-  "description": "富士于2010年发布的便携相机。",
+  "description": "富士于2010年推出的便携相机。配备Fujinon 18x Optical zoom (5mm-90mm), F 3.1 (Wide) - F5.6 (Telephoto)。快门速度| shutterRange = 8 sec. to 1/2000 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q5507407",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "传感器": "CCD, 1/2.3\" CCD",
+    "镜头": "Fujinon 18x Optical zoom (5mm-90mm), F 3.1 (Wide) - F5.6 (Telephoto)",
+    "快门速度": "| shutterRange = 8 sec. to 1/2000 sec.",
+    "曝光测光": "Programmed AE, Shutter Priority AE, Aperture Priority AE, Manual",
+    "取景器": "EVF, LCD monitor",
+    "屏幕": ", Approx. 230,000 dots, color LCD monitor, up to 60fps",
+    "存储": "Internal memory (Approx. 23MB) + SD memory card/SDHC memory card",
+    "重量": "Approx. (excluding accessories and batteries etc.)"
   },
   "images": [
     {

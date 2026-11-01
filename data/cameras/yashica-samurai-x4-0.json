@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1988 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Yashica Samurai X4.0 is a fully automatic half-frame autofocus SLR camera made by Kyocera.",
+  "description": "雅西卡于1988年推出的胶片单反相机。配备1:3.8-1:4.8/25mm-100mm Zoom。快门速度speeds 3 to 1/300 sec.。使用35mm film with speeds 50 to 3200 ASA。TTL phase difference detecting autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Samurai X4.0"
+    "Camera-wiki": "Yashica Samurai X4.0",
+    "胶片/画幅": "35mm film with speeds 50 to 3200 ASA",
+    "镜头": "1:3.8-1:4.8/25mm-100mm Zoom",
+    "快门": "speeds 3 to 1/300 sec.",
+    "对焦": "TTL phase difference detecting autofocus",
+    "取景器": "SLR finder with diopter adjustment",
+    "曝光测光": "programmed automatic",
+    "闪光灯": "built-in, alternate flash can be shifted into the hot shoe on the camera top",
+    "尺寸": "74×125×146mm",
+    "重量": "690 g without 2CR5 6V battery",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Yashica Samurai X4.0 is a fully automatic half-frame autofocus SLR camera made by Kyocera."
   },
   "images": [],
   "sources": [

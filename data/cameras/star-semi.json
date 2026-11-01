@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Star折叠相机，1940 年发布",
-  "description": "The Star Semi (スターセミ) is a series of Japanese 4.5×6 folders, distributed by Ueda Shashinki-ten from 1940 to 1943.",
+  "description": "Star于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Star Semi"
+    "Camera-wiki": "Star Semi",
+    "英文简介": "The Star Semi (スターセミ) is a series of Japanese 4.5×6 folders, distributed by Ueda Shashinki-ten from 1940 to 1943."
   },
   "images": [],
   "sources": [

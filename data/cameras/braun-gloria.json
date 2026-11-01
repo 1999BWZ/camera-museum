@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun旁轴相机，1954 年发布",
-  "description": "The Braun Gloria is a rangefinder camera taking 12 6x6cm images on 120 films.",
+  "description": "Braun于1954年推出的旁轴相机。配备Praxanar or Praxar 75mm f2.9。快门速度Prontor SVS, speeds to 1/300th/s, + flash sync & self-timer。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Braun Gloria"
+    "Camera-wiki": "Braun Gloria",
+    "镜头": "Praxanar or Praxar 75mm f2.9",
+    "快门": "Prontor SVS, speeds to 1/300th/s, + flash sync & self-timer",
+    "英文简介": "The Braun Gloria is a rangefinder camera taking 12 6x6cm images on 120 films."
   },
   "images": [],
   "sources": [

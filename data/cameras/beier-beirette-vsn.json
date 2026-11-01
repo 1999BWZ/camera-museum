@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier取景器相机，1974 年发布",
-  "description": "The Beirette vsn, a simple 35mm camera made in the DDR (former Eastern Germany) by Beier, introduced in 1974.",
+  "description": "Beier于1974年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beirette vsn"
+    "Camera-wiki": "Beirette vsn",
+    "英文简介": "The Beirette vsn, a simple 35mm camera made in the DDR (former Eastern Germany) by Beier, introduced in 1974."
   },
   "images": [],
   "sources": [

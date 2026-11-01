@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welta折叠相机，1932 年发布",
-  "description": "The Perle is a series of folding cameras made by Welta in the 1930s.",
+  "description": "Welta于1932年推出的折叠相机。配备Weltar 1:6.3/105mm。快门速度Gauthier Vario with speeds 1/25 – 1/100 sec.。使用120 film rolls。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Perle"
+    "Camera-wiki": "Perle",
+    "胶片/画幅": "120 film rolls",
+    "镜头": "Weltar 1:6.3/105mm",
+    "快门": "Gauthier Vario with speeds 1/25 – 1/100 sec.",
+    "取景器": "brilliant viewfinder",
+    "英文简介": "The Perle is a series of folding cameras made by Welta in the 1930s."
   },
   "images": [],
   "sources": [

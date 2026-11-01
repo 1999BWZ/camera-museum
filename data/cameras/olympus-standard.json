@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1937 年发布",
-  "description": "The Olympus Standard (オリンパス・スタンダード) is a rangefinder camera, made in 1937 by Takachiho (predecessor of Olympus) at prototype level.",
+  "description": "奥林巴斯于1937年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Standard"
+    "Camera-wiki": "Olympus Standard",
+    "英文简介": "The Olympus Standard (オリンパス・スタンダード) is a rangefinder camera, made in 1937 by Takachiho (predecessor of Olympus) at prototype level."
   },
   "images": [],
   "sources": [

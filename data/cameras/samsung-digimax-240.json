@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星数码相机，2003 年发布",
-  "description": "The Digimax 240 is a compact digital camera released by Samsung in 2003.",
+  "description": "三星于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samsung Digimax 240"
+    "Camera-wiki": "Samsung Digimax 240",
+    "英文简介": "The Digimax 240 is a compact digital camera released by Samsung in 2003."
   },
   "images": [],
   "sources": [

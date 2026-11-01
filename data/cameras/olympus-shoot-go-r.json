@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1996 年发布",
-  "description": "The Shoot & Go R is a simple fixed focus 35mm film camera sold by Olympus.",
+  "description": "奥林巴斯于1996年推出的取景器相机。配备34mm 3 elements in 3 groups。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Shoot & Go R"
+    "Camera-wiki": "Olympus Shoot & Go R",
+    "镜头": "34mm 3 elements in 3 groups",
+    "电池": "2 x AA (for flash only)",
+    "重量": "190gms (without batteries)",
+    "英文简介": "The Shoot & Go R is a simple fixed focus 35mm film camera sold by Olympus."
   },
   "images": [],
   "sources": [

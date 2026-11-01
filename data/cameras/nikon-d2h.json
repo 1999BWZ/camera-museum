@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2003 年发布",
-  "description": "尼康于2003年发布的数码单反相机。",
+  "description": "尼康于2003年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electromagnetically controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1322707",
-    "多语言词条数": "14"
+    "多语言词条数": "14",
+    "传感器": "23.3 mm × 15.5 mm JFET-LBCAST; 4.26 million total pixels, 1.5× Crop factor Nikon DX format",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electromagnetically controlled vertical-travel focal-plane shutter",
+    "曝光测光": "3D Color Matrix; EV 0-20 at ISO 100 equivalent with f/1.4 lens (EV 2-20 with Spot Metering)",
+    "取景器": "Optical-type fixed eye-level pentaprism, 100% frame coverage, 0.86× magnification",
+    "闪光灯": "i-TTL flash control",
+    "屏幕": "2.5-in., 211,200-dot, low-temp. polysilicon TFT LCD with white LED backlighting",
+    "存储": "CompactFlash Card (Type I/II) and Microdrive",
+    "电池": "Rechargeable Li-ion Battery EN-EL4 Photo",
+    "重量": "Approx. without battery and storage media, 157.5 mm × 149.5 mm × 85.5 mm (6.2 in × 5.9 in × 3.4 in)"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lipca中画幅相机，1952 年发布",
-  "description": "The Flexora II is a German medium format TLR made by Lipca.",
+  "description": "Lipca于1952年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Flexora II"
+    "Camera-wiki": "Flexora II",
+    "英文简介": "The Flexora II is a German medium format TLR made by Lipca."
   },
   "images": [],
   "sources": [

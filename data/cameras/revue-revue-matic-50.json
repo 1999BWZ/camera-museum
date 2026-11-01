@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue胶片相机，1966 年发布",
-  "description": "The Revuematic 50 is a very basic camera for 126 film distributed by Foto-Quelle in Germany in 1966.It appears to be a rebranded Halina Speedoflash manufactured in Hong Kong by Haking.",
+  "description": "Revue于1966年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue-matic 50"
+    "Camera-wiki": "Revue-matic 50",
+    "英文简介": "The Revuematic 50 is a very basic camera for 126 film distributed by Foto-Quelle in Germany in 1966.It appears to be a rebranded Halina Speedoflash manufactured in Hong Kong by Haking."
   },
   "images": [],
   "sources": [

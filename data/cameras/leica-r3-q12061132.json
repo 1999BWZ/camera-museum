@@ -13,11 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码单反相机，1976 年发布",
-  "description": "徕卡于1976年发布的数码单反相机。",
+  "description": "徕卡于1976年推出的数码单反相机。配备Leica R-mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q12061132",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "镜头": "Leica R-mount",
+    "对焦": "manual",
+    "曝光测光": "Aperture priority or manual",
+    "闪光灯": "hot shoe",
+    "尺寸": "| made_in = Germany, Portugal"
   },
   "images": [
     {

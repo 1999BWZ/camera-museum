@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Quarter plate折叠相机，1903 年发布",
-  "description": "There is also the folding-bed plate camera, the Pocket Poco, by the same maker.",
+  "description": "Quarter plate于1903年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pocket Poco A"
+    "Camera-wiki": "Pocket Poco A",
+    "英文简介": "There is also the folding-bed plate camera, the Pocket Poco, by the same maker."
   },
   "images": [],
   "sources": [

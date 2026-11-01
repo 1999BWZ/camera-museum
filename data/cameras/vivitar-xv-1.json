@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码单反相机，1978 年发布",
-  "description": "The XV-1 is a 35mm SLR sold by Vivitar beginning in the late 1970s.",
+  "description": "Vivitar于1978年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar XV-1"
+    "Camera-wiki": "Vivitar XV-1",
+    "英文简介": "The XV-1 is a 35mm SLR sold by Vivitar beginning in the late 1970s."
   },
   "images": [],
   "sources": [

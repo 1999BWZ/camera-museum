@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1991 年发布",
-  "description": "The Rensha Cardia is a compact 35mm film camera from Fuji released in the tail end of 1991.",
+  "description": "Fuji于1991年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji Rensha Cardia"
+    "Camera-wiki": "Fuji Rensha Cardia",
+    "尺寸": "145 x 74 x 41 mm",
+    "英文简介": "The Rensha Cardia is a compact 35mm film camera from Fuji released in the tail end of 1991."
   },
   "images": [],
   "sources": [

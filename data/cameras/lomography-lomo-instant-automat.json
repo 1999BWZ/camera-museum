@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography一次成像相机，2016 年发布",
-  "description": "The Lomo'Instant Automat is a camera for instant photos on Instax Mini film (an exposure frame of 62x46mm), made by Lomography.",
+  "description": "Lomography于2016年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomo'Instant Automat"
+    "Camera-wiki": "Lomo'Instant Automat",
+    "英文简介": "The Lomo'Instant Automat is a camera for instant photos on Instax Mini film (an exposure frame of 62x46mm), made by Lomography."
   },
   "images": [],
   "sources": [

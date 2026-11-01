@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1966 年发布",
-  "description": "Introduced in 1966, the Konica Auto SE Electronic is one of the last full size Konica 35mm rangefinder cameras, but it bears little resemblance to the earlier Auto S models.",
+  "description": "柯尼卡于1966年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Auto SE Electronic"
+    "Camera-wiki": "Konica Auto SE Electronic",
+    "英文简介": "Introduced in 1966, the Konica Auto SE Electronic is one of the last full size Konica 35mm rangefinder cameras, but it bears little resemblance to the earlier Auto S models."
   },
   "images": [],
   "sources": [

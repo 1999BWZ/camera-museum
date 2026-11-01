@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲胶片相机，1918 年发布",
-  "description": "The Graflex Fingerprint Camera is a forensic camera produced by Graflex from 1918–1951.",
+  "description": "格拉菲于1918年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Graflex Fingerprint Camera"
+    "Camera-wiki": "Graflex Fingerprint Camera",
+    "英文简介": "The Graflex Fingerprint Camera is a forensic camera produced by Graflex from 1918–1951."
   },
   "images": [],
   "sources": [

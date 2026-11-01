@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1973 年发布",
-  "description": "The Polaroid Colorpack is a rigid bodied instant-film camera for type 100 film packs.",
+  "description": "宝丽来于1973年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Colorpack"
+    "Camera-wiki": "Polaroid Colorpack",
+    "英文简介": "The Polaroid Colorpack is a rigid bodied instant-film camera for type 100 film packs."
   },
   "images": [],
   "sources": [

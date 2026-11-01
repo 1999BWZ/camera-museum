@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2012 年发布",
-  "description": "The Olympus OM-D system camera bodies resemble the 35mm Olympus OM SLR series.",
+  "description": "奥林巴斯于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus OM-D"
+    "Camera-wiki": "Olympus OM-D",
+    "英文简介": "The Olympus OM-D system camera bodies resemble the 35mm Olympus OM SLR series."
   },
   "images": [],
   "sources": [

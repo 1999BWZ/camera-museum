@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hong Kong胶片相机，1977 年发布",
-  "description": "The JCPenney Electronic Strobe Pocket Camera is a basic camera from unknown date for the still-available 110 film format.",
+  "description": "Hong Kong于1977年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "JCPenney Electronic Strobe Pocket Camera"
+    "Camera-wiki": "JCPenney Electronic Strobe Pocket Camera",
+    "英文简介": "The JCPenney Electronic Strobe Pocket Camera is a basic camera from unknown date for the still-available 110 film format."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1995 年发布",
-  "description": "Kodak Star Motordrive is a 35mm film camera from the 1990s.",
+  "description": "柯达于1995年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star Motordrive"
+    "Camera-wiki": "Kodak Star Motordrive",
+    "英文简介": "Kodak Star Motordrive is a 35mm film camera from the 1990s."
   },
   "images": [],
   "sources": [

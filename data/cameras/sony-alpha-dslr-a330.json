@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2009 年发布",
-  "description": "The Sony Alpha A330 is a DSLR which was produced by Sony from June 2009 to 2010.",
+  "description": "索尼于2009年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Alpha DSLR-A330"
+    "Camera-wiki": "Sony Alpha DSLR-A330",
+    "英文简介": "The Sony Alpha A330 is a DSLR which was produced by Sony from June 2009 to 2010."
   },
   "images": [],
   "sources": [

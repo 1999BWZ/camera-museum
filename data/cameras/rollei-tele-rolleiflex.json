@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来中画幅相机，1959 年发布",
-  "description": "The Tele Rolleiflex is a medium format TLR camera manufactured by Franke & Heidecke and later on by Rollei.",
+  "description": "禄来于1959年推出的中画幅相机。配备135mm f/4 Sonnar。快门速度Synchro-Compur MXV CR0 leafshutter. Speeds 1 to 1/500 sec. and B. Selftimer.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tele Rolleiflex"
+    "Camera-wiki": "Tele Rolleiflex",
+    "镜头": "135mm f/4 Sonnar",
+    "快门": "Synchro-Compur MXV CR0 leafshutter. Speeds 1 to 1/500 sec. and B. Selftimer.",
+    "闪光灯": "Synch socket on front panel, M and X synchronisation.",
+    "尺寸": "128 x 113 x 152 mm",
+    "重量": "1355 grams",
+    "英文简介": "The Tele Rolleiflex is a medium format TLR camera manufactured by Franke & Heidecke and later on by Rollei."
   },
   "images": [],
   "sources": [

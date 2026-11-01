@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Telka旁轴相机，1948 年发布",
-  "description": "A folding 6x9 rangefinder by Demaria-Lapierre introduced in 1948.",
+  "description": "Telka于1948年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Telka III"
+    "Camera-wiki": "Telka III",
+    "英文简介": "A folding 6x9 rangefinder by Demaria-Lapierre introduced in 1948."
   },
   "images": [],
   "sources": [

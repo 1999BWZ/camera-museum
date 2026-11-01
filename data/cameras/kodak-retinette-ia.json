@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1959 年发布",
-  "description": "The Retinette 1A is a series of rigid-bodied 35mm viewfinder cameras made in Germany by Kodak AG.",
+  "description": "柯达于1959年推出的取景器相机。配备Schneider-Kreuznach Reomar 1:3.5/45mm。快门速度Compur-Rapid 1-1/500 sec. plus B mode。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retinette IA"
+    "Camera-wiki": "Kodak Retinette IA",
+    "镜头": "Schneider-Kreuznach Reomar 1:3.5/45mm",
+    "快门": "Compur-Rapid 1-1/500 sec. plus B mode",
+    "英文简介": "The Retinette 1A is a series of rigid-bodied 35mm viewfinder cameras made in Germany by Kodak AG."
   },
   "images": [],
   "sources": [

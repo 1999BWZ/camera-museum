@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得便携相机，1982 年发布",
-  "description": "__NOTOC__ \n\nThe Pentax PC35 AF was the first 35mm compact camera with autofocus from Pentax released in about 1982.",
+  "description": "宾得于1982年推出的便携相机。配备Pentax 35mm, f/2.8 (5 elements in 5 groups).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax PC35 AF"
+    "Camera-wiki": "Pentax PC35 AF",
+    "镜头": "Pentax 35mm, f/2.8 (5 elements in 5 groups).",
+    "尺寸": "129x69x46mm,",
+    "重量": "320g",
+    "英文简介": "__NOTOC__ \n\nThe Pentax PC35 AF was the first 35mm compact camera with autofocus from Pentax released in about 1982."
   },
   "images": [],
   "sources": [

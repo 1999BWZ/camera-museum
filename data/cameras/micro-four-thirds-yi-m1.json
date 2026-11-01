@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Micro four-thirds数码相机，2016 年发布",
-  "description": "The YI M1 is the first system camera of Chinese camera maker Yi.",
+  "description": "Micro four-thirds于2016年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "YI M1"
+    "Camera-wiki": "YI M1",
+    "英文简介": "The YI M1 is the first system camera of Chinese camera maker Yi."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Klapp折叠相机，1925 年发布",
-  "description": "An unusual folding reflex camera from Bentzin made in several sizes.",
+  "description": "Klapp于1925年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Klapp Reflex Primar"
+    "Camera-wiki": "Klapp Reflex Primar",
+    "英文简介": "An unusual folding reflex camera from Bentzin made in several sizes."
   },
   "images": [],
   "sources": [

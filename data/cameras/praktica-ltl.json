@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1970 年发布",
-  "description": "The Praktica LTL is an East German 35mm SLR camera with interchangeable M42 screw-mount lenses and stop down TTL metering, produced from December 1970 to November 1975 by Pentacon.",
+  "description": "潘泰康于1970年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica LTL"
+    "Camera-wiki": "Praktica LTL",
+    "英文简介": "The Praktica LTL is an East German 35mm SLR camera with interchangeable M42 screw-mount lenses and stop down TTL metering, produced from December 1970 to November 1975 by Pentacon."
   },
   "images": [],
   "sources": [

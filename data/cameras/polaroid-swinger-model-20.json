@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1965 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nTypical elements of simple box cameras were combined in the Polaroid Swinger Model 20: a non-focusable meniscus lens (Polaroid f17 100mm), a simple rotary single-speed shutter (1/200 sec.), and last not least roll film as media, the first type of roll film for",
+  "description": "宝丽来于1965年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Swinger Model 20"
+    "Camera-wiki": "Polaroid Swinger Model 20",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nTypical elements of simple box cameras were combined in the Polaroid Swinger Model 20: a non-focusable meniscus lens (Polaroid f17 100mm), a simple rotary single-speed shutter (1/200 sec.), and last not least roll film as media, the first type of roll film for exposures which had to be pulled out of the camera to be developed in the light."
   },
   "images": [],
   "sources": [

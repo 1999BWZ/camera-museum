@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1950 年发布",
-  "description": "Ricohflex refers to a series of models of 6x6 TLRs made by Riken Optical Industries (Ricoh), in the 1950s Ricoh developed cameras with geared rings around the front of the taking and viewfinder lenses for synchronous focusing.",
+  "description": "理光于1950年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricohflex (geared lens)"
+    "Camera-wiki": "Ricohflex (geared lens)",
+    "英文简介": "Ricohflex refers to a series of models of 6x6 TLRs made by Riken Optical Industries (Ricoh), in the 1950s Ricoh developed cameras with geared rings around the front of the taking and viewfinder lenses for synchronous focusing."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Scientific cameras数码相机，2025 年发布",
-  "description": "{|class=floatright\n |\n\n |-\n |\n\n|}\nThe LSST Camera is the digital-imaging package originally planned for a \"Large Synoptic Survey Telescope,\" later formally dedicated as the [https://rubinobservatory.org Vera Rubin Observatory] and nearing completion at Cerro Pachon in Chile.",
+  "description": "Scientific cameras于2025年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "LSST Camera"
+    "Camera-wiki": "LSST Camera",
+    "英文简介": "{|class=floatright\n |\n\n |-\n |\n\n|}\nThe LSST Camera is the digital-imaging package originally planned for a \"Large Synoptic Survey Telescope,\" later formally dedicated as the [https://rubinobservatory.org Vera Rubin Observatory] and nearing completion at Cerro Pachon in Chile."
   },
   "images": [],
   "sources": [

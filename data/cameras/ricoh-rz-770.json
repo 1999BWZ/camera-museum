@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1995 年发布",
-  "description": "The Ricoh RZ-770 is a 35mm compact point and shoot camera.",
+  "description": "理光于1995年推出的胶片单反相机。配备35-70 mm / f5.0-f9.5 (6 elements 5 groups). 1.2 m (4 fl.)-inf.。快门速度Programmed Electronic shutter, 1/5-1/250 sec.。感光度ISO 100, 400. Compatible with DX system.。Active auto focus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RZ-770"
+    "Camera-wiki": "Ricoh RZ-770",
+    "镜头": "35-70 mm / f5.0-f9.5 (6 elements 5 groups). 1.2 m (4 fl.)-inf.",
+    "对焦": "Active auto focus.",
+    "快门": "Programmed Electronic shutter, 1/5-1/250 sec.",
+    "自拍": "Operating delay approx. 10 sec.",
+    "取景器": "Real image zoom viewfinder Mag. x 0.33-0.58, Field of view about 83%",
+    "曝光测光": "Programmed AE with CdS cell Coupling range EV8.0-15.0 (ISO 100)",
+    "感光度": "ISO 100, 400. Compatible with DX system.",
+    "闪光灯": "Electronic flash automatically activates in dim light, turning off Flash is possible",
+    "尺寸": "126 mm (W) x 69 mm (T) x 44 mm (D)",
+    "重量": "270g (9.5 oz.) without battery",
+    "英文简介": "The Ricoh RZ-770 is a 35mm compact point and shoot camera."
   },
   "images": [],
   "sources": [

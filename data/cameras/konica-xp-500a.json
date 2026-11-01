@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1963 年发布",
-  "description": "A rebranded Konica EE-Matic camera sold by the Montgomery Ward department stores chain.",
+  "description": "柯尼卡于1963年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wards xp 500a"
+    "Camera-wiki": "Wards xp 500a",
+    "英文简介": "A rebranded Konica EE-Matic camera sold by the Montgomery Ward department stores chain."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1955 年发布",
-  "description": "The Kodak 3,5 Modèle 42 is a French-made folding camera for the 620 film format.",
+  "description": "柯达于1955年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Modèle 42"
+    "Camera-wiki": "Kodak Modèle 42",
+    "英文简介": "The Kodak 3,5 Modèle 42 is a French-made folding camera for the 620 film format."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1960 年发布",
-  "description": "__NOTOC__\n\nThe Konica F is one of the most sought-after of all classic 35mm SLRs.",
+  "description": "柯尼卡于1960年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica F"
+    "Camera-wiki": "Konica F",
+    "英文简介": "__NOTOC__\n\nThe Konica F is one of the most sought-after of all classic 35mm SLRs."
   },
   "images": [],
   "sources": [

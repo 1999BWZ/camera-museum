@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1951 年发布",
-  "description": "The Leica IIf, launched in 1951, is a 35mm couple rangefinder cmaera made by Leica.",
+  "description": "徕卡于1951年推出的旁轴相机。配备Leica M39 screw mount。快门速度double rubber & cloth curtain, horizontal focal plane,。使用after opening of the bottom plate, by a handle on it with engravings open-auf, close-zu。by matching yellow rangefinder images in the left window in the eyepice。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica IIf"
+    "Camera-wiki": "Leica IIf",
+    "镜头": "Leica M39 screw mount",
+    "对焦": "by matching yellow rangefinder images in the left window in the eyepice",
+    "快门": "double rubber & cloth curtain, horizontal focal plane,",
+    "取景器": "rangefinder and viewfinder are in a window with separate viewers",
+    "胶片/画幅": "after opening of the bottom plate, by a handle on it with engravings open-auf, close-zu",
+    "英文简介": "The Leica IIf, launched in 1951, is a 35mm couple rangefinder cmaera made by Leica."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Prototype旁轴相机，1981 年发布",
-  "description": "The Makinette 35P is a folding 35mm camera with a coupled rangefinder, of which one or more prototypes were made in Japan in 1981.",
+  "description": "Prototype于1981年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Makinette 35P"
+    "Camera-wiki": "Makinette 35P",
+    "英文简介": "The Makinette 35P is a folding 35mm camera with a coupled rangefinder, of which one or more prototypes were made in Japan in 1981."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Military cameras胶片相机，1944 年发布",
-  "description": "The first camera by Simmon Bros was produced for the US Signal Corps in 1944-1945.",
+  "description": "Military cameras于1944年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Combat Camera PH-501/PF"
+    "Camera-wiki": "Combat Camera PH-501/PF",
+    "英文简介": "The first camera by Simmon Bros was produced for the US Signal Corps in 1944-1945."
   },
   "images": [],
   "sources": [

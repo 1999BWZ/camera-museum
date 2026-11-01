@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi胶片单反相机，1964 年发布",
-  "description": "The Petri Flex 7 is a 35mm SLR camera made by Petri in 1964.",
+  "description": "Kuribayashi于1964年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Flex 7"
+    "Camera-wiki": "Petri Flex 7",
+    "英文简介": "The Petri Flex 7 is a 35mm SLR camera made by Petri in 1964."
   },
   "images": [],
   "sources": [

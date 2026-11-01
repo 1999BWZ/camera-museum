@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1993 年发布",
-  "description": "The Trip Panorama 2 was an automatic 35mm compact camera manufactured by Olympus in 1993.",
+  "description": "奥林巴斯于1993年推出的取景器相机。配备33mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip Panorama 2"
+    "Camera-wiki": "Olympus Trip Panorama 2",
+    "镜头": "33mm",
+    "英文简介": "The Trip Panorama 2 was an automatic 35mm compact camera manufactured by Olympus in 1993."
   },
   "images": [],
   "sources": [

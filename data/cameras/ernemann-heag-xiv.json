@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1908 年发布",
-  "description": "=Overview=\n\nThe Ernemann Heag XIV was produced in 3 different versions from 1908 to 1922.",
+  "description": "Ernemann于1908年推出的折叠相机。快门速度**Bob-Sektor。使用8x10.5 Planfilms, or 9x12 plate。by rack & pinion。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Heag XIV"
+    "Camera-wiki": "Ernemann Heag XIV",
+    "胶片/画幅": "8x10.5 Planfilms, or 9x12 plate",
+    "快门": "**Bob-Sektor",
+    "取景器": "Newton finder (automated pop-up)",
+    "对焦": "by rack & pinion",
+    "重量": "27 cm extended; 3.5x12.5x18.5 cm; 1.000 kg",
+    "英文简介": "=Overview=\n\nThe Ernemann Heag XIV was produced in 3 different versions from 1908 to 1922."
   },
   "images": [],
   "sources": [

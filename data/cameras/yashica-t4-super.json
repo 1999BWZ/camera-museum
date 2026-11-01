@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡便携相机，1995 年发布",
-  "description": "The Yashica T4 Super (also known as the T5 and Kyocera T Proof) is a weatherproof 35mm compact camera from Kyocera with a high quality lens and a viewing window (waist-level finder) on the top of the body, in addition to an eye-level finder.",
+  "description": "雅西卡于1995年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica T4 Super"
+    "Camera-wiki": "Yashica T4 Super",
+    "英文简介": "The Yashica T4 Super (also known as the T5 and Kyocera T Proof) is a weatherproof 35mm compact camera from Kyocera with a high quality lens and a viewing window (waist-level finder) on the top of the body, in addition to an eye-level finder."
   },
   "images": [],
   "sources": [

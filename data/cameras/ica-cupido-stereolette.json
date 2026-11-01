@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA立体相机，1907 年发布",
-  "description": "The Cupido Stereolette (or Stereolette Cupido) is a self-unfolding stereo plate camera.",
+  "description": "ICA于1907年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cupido Stereolette"
+    "Camera-wiki": "Cupido Stereolette",
+    "英文简介": "The Cupido Stereolette (or Stereolette Cupido) is a self-unfolding stereo plate camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Orient折叠相机，1935 年发布",
-  "description": "The Orient folder is a Japanese folding camera using 127 film, made by an unknown company.",
+  "description": "Orient于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Orient folder"
+    "Camera-wiki": "Orient folder",
+    "英文简介": "The Orient folder is a Japanese folding camera using 127 film, made by an unknown company."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "蔡司数码单反相机，1971 年发布",
-  "description": "The SL706 was the last camera designed and launched by Zeiss Ikon.",
+  "description": "蔡司于1971年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zeiss Ikon SL706"
+    "Camera-wiki": "Zeiss Ikon SL706",
+    "英文简介": "The SL706 was the last camera designed and launched by Zeiss Ikon."
   },
   "images": [],
   "sources": [

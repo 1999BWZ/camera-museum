@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡便携相机，1982 年发布",
-  "description": "{|\n|\n\n|\n\n|}\n\nThe C35 MF and C35 MFD are fully automatic compact cameras for 35 mm film, introduced by Konica in 1982.",
+  "description": "柯尼卡于1982年推出的便携相机。配备Konica Hexanon 2.8/38mm, 4 elements in 3 groups。快门速度programmed shutter, three shutter speeds: 1/60, 1/125 and 1/250 s。使用Auto winding system (approx 1.3 fps), rewinding must be started manually。感光度ASA 25 to 400, to be set manually (no DX-code)。passive Visitronic AF system by Honeywell, nearest focus distance 1.1 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica C35 MF and C35 MF-D"
+    "Camera-wiki": "Konica C35 MF and C35 MF-D",
+    "镜头": "Konica Hexanon 2.8/38mm, 4 elements in 3 groups",
+    "对焦": "passive Visitronic AF system by Honeywell, nearest focus distance 1.1 m",
+    "快门": "programmed shutter, three shutter speeds: 1/60, 1/125 and 1/250 s",
+    "曝光测光": "from EV 9 (f/2.8 at 1/60 s) to EV 17 (f/22 at 1/250) with ASA 100",
+    "感光度": "ASA 25 to 400, to be set manually (no DX-code)",
+    "取景器": "Albada-type with bright lines, magnification 0.45x",
+    "胶片/画幅": "Auto winding system (approx 1.3 fps), rewinding must be started manually",
+    "闪光灯": "GN 14 (ASA 100, meter), range 1,1 to 5 m, daylight synchro feasible, switched on/off manually",
+    "尺寸": "141 x 74.5 x 54 mm, 440 g without batteries",
+    "电池": "2 x 1.5 V Mignon cells (no NiCd cells)",
+    "英文简介": "{|\n|\n\n|\n\n|}\n\nThe C35 MF and C35 MFD are fully automatic compact cameras for 35 mm film, introduced by Konica in 1982."
   },
   "images": [],
   "sources": [

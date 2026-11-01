@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1988 年发布",
-  "description": "Konica followed the 1988 announcement of the KC-100 with a production model, the KC-300 (also offering a black version, the KC-300B).",
+  "description": "柯尼卡于1988年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica KC-300"
+    "Camera-wiki": "Konica KC-300",
+    "英文简介": "Konica followed the 1988 announcement of the KC-100 with a production model, the KC-300 (also offering a black version, the KC-300B)."
   },
   "images": [],
   "sources": [

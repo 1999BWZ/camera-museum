@@ -13,10 +13,23 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji数码相机，1997 年发布",
-  "description": "The Fujix DS-300 is an early professional digital camera released by Fujifilm in 1997.",
+  "description": "Fuji于1997年推出的数码相机。配备9 to 27mm Fujinon (3x) Zoom lens. Equiv. 35 to 105 mm.。快门速度1/4 sec to 1/1000 sec。感光度100, 400。有效像素1280 X 1000 max。Super Hybrid AF system with Autofocus and manual focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujix DS-300"
+    "Camera-wiki": "Fujix DS-300",
+    "传感器": "1.3 megapixel 2/3\" CCD sensor",
+    "感光度": "100, 400",
+    "像素": "1280 X 1000 max",
+    "镜头": "9 to 27mm Fujinon (3x) Zoom lens. Equiv. 35 to 105 mm.",
+    "对焦": "Super Hybrid AF system with Autofocus and manual focus",
+    "光圈": "f3.5 to f5",
+    "快门速度": "1/4 sec to 1/1000 sec",
+    "闪光灯": "Built-in, with external hot shoe",
+    "自拍": "Yes",
+    "曝光测光": "-0.9 to 1.8 EV (1/3 steps)",
+    "重量": "700 g with battery",
+    "尺寸": "153 x 96 x 78 mm",
+    "英文简介": "The Fujix DS-300 is an early professional digital camera released by Fujifilm in 1997."
   },
   "images": [],
   "sources": [

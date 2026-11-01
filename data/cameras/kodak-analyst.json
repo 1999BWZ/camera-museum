@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1985 年发布",
-  "description": "The Kodak Analyst is an instant camera originally produced in 1985 for an American insurance company called State Farm.",
+  "description": "柯达于1985年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Analyst"
+    "Camera-wiki": "Kodak Analyst",
+    "英文简介": "The Kodak Analyst is an instant camera originally produced in 1985 for an American insurance company called State Farm."
   },
   "images": [],
   "sources": [

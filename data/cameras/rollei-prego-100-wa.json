@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来取景器相机，2002 年发布",
-  "description": "The Prego 100 WA is a compact autofocus 35 mm camera made by Rollei.",
+  "description": "禄来于2002年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei Prego 100 WA"
+    "Camera-wiki": "Rollei Prego 100 WA",
+    "尺寸": "107×60×36 mm",
+    "英文简介": "The Prego 100 WA is a compact autofocus 35 mm camera made by Rollei."
   },
   "images": [],
   "sources": [

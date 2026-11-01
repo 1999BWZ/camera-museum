@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1989 年发布",
-  "description": "Part of the \"Off-Road\" series, Konica's Genba Kantoku DD (現場監督ＤＤ) is a weather-proof, heavy duty (IPX4 certified) autofocus camera with two focal lengths.",
+  "description": "柯尼卡于1989年推出的胶片单反相机。快门速度Programmed electromagnetic shutter/diaphragm, speeds from 1/5 to 1/500 s. Electronic self timer.。Active infrared autofocus, closest range 0,9 m.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Genba Kantoku DD"
+    "Camera-wiki": "Konica Genba Kantoku DD",
+    "快门": "Programmed electromagnetic shutter/diaphragm, speeds from 1/5 to 1/500 s. Electronic self timer.",
+    "对焦": "Active infrared autofocus, closest range 0,9 m.",
+    "曝光测光": "EV 6–17 (wide): EV 7–17 (tele).",
+    "闪光灯": "Built-in flash (flashmatic). Auto-flash, forced flash, flash off modes. Slow sync flash possible.",
+    "重量": "144x74x74 mm, 385 g (without batteries).",
+    "尺寸": "144x74x74 mm",
+    "英文简介": "Part of the \"Off-Road\" series, Konica's Genba Kantoku DD (現場監督ＤＤ) is a weather-proof, heavy duty (IPX4 certified) autofocus camera with two focal lengths."
   },
   "images": [],
   "sources": [

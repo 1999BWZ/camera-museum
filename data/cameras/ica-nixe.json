@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA胶片相机，1909 年发布",
-  "description": "The Nixe is a dual format folding bed camera for roll film or plates.",
+  "description": "ICA于1909年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nixe"
+    "Camera-wiki": "Nixe",
+    "英文简介": "The Nixe is a dual format folding bed camera for roll film or plates."
   },
   "images": [],
   "sources": [

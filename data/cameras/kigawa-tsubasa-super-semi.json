@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kigawa折叠相机，1938 年发布",
-  "description": "The Tsubasa Super Semi (ツバサスーパーセミ) is a series of Japanese 4.5×6 folding cameras, made by Kigawa from 1938.",
+  "description": "Kigawa于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tsubasa Super Semi"
+    "Camera-wiki": "Tsubasa Super Semi",
+    "英文简介": "The Tsubasa Super Semi (ツバサスーパーセミ) is a series of Japanese 4.5×6 folding cameras, made by Kigawa from 1938."
   },
   "images": [],
   "sources": [

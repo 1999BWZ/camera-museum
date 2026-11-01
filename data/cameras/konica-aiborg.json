@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1991 年发布",
-  "description": "__NOTOC__\nThe Konica AiBORG super zoom 35-105 is a large, very distinctive (if not downright eccentric) 35mm point-and-shoot viewfinder camera.",
+  "description": "柯尼卡于1991年推出的取景器相机。配备Konica Zoom, 35-105mm, f3.5-f8.5。快门速度Electronic programmed shutter 6.4–1/500th sec。Infrared active autofocus with movable sensor area。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica AiBORG"
+    "Camera-wiki": "Konica AiBORG",
+    "镜头": "Konica Zoom, 35-105mm, f3.5-f8.5",
+    "对焦": "Infrared active autofocus with movable sensor area",
+    "快门": "Electronic programmed shutter 6.4–1/500th sec",
+    "闪光灯": "Built-in, multimode flash with slow sync and fill-flash options",
+    "重量": "20.15 oz",
+    "英文简介": "__NOTOC__\nThe Konica AiBORG super zoom 35-105 is a large, very distinctive (if not downright eccentric) 35mm point-and-shoot viewfinder camera."
   },
   "images": [],
   "sources": [

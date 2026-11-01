@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，2000 年发布",
-  "description": "The Nikon Nuvis V is a compact camera that uses APS film.",
+  "description": "尼康于2000年推出的便携相机。配备Nikon 22.5-66mm f/5.2-7.7 zoom with two aspherical elements.。0.45m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Nuvis V"
+    "Camera-wiki": "Nikon Nuvis V",
+    "镜头": "Nikon 22.5-66mm f/5.2-7.7 zoom with two aspherical elements.",
+    "取景器": "Real-image zooming with 85% coverage in H mode. Diopter adjustment +-1.5",
+    "对焦": "0.45m",
+    "尺寸": "91.5×62×30mm",
+    "重量": "155g (without battery).",
+    "英文简介": "The Nikon Nuvis V is a compact camera that uses APS film."
   },
   "images": [],
   "sources": [

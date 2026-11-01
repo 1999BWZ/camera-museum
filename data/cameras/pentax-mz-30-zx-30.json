@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，2000 年发布",
-  "description": "The MZ-30 is a 35mm SLR with autofocus, and was introduced by Pentax in 2000.",
+  "description": "宾得于2000年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MZ-30/ZX-30"
+    "Camera-wiki": "Pentax MZ-30/ZX-30",
+    "英文简介": "The MZ-30 is a 35mm SLR with autofocus, and was introduced by Pentax in 2000."
   },
   "images": [],
   "sources": [

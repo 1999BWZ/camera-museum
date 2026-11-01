@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2002 年发布",
-  "description": "The EOS 1Ds is a large, professionally-oriented DSLR introduced by Canon in 2002.",
+  "description": "佳能于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS-1Ds"
+    "Camera-wiki": "Canon EOS-1Ds",
+    "英文简介": "The EOS 1Ds is a large, professionally-oriented DSLR introduced by Canon in 2002."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Super取景器相机，1941 年发布",
-  "description": "The Well Super (ウエルスーパー) is a Japanese camera taking 4.5×6cm pictures on 120 film.",
+  "description": "Super于1941年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Well Super"
+    "Camera-wiki": "Well Super",
+    "英文简介": "The Well Super (ウエルスーパー) is a Japanese camera taking 4.5×6cm pictures on 120 film."
   },
   "images": [],
   "sources": [

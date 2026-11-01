@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1978 年发布",
-  "description": "The Optima Sensor Electronic series were produced between 1978 and 1983 by the German Agfa company, and initially comprised three viewfinder cameras; the 335, 535 and 1035.",
+  "description": "爱克发于1978年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima Sensor Series"
+    "Camera-wiki": "Optima Sensor Series",
+    "尺寸": "104 × 69 × 56mm",
+    "英文简介": "The Optima Sensor Electronic series were produced between 1978 and 1983 by the German Agfa company, and initially comprised three viewfinder cameras; the 335, 535 and 1035."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1981 年发布",
-  "description": "美能达于1981年发布的胶片单反相机。",
+  "description": "美能达于1981年推出的胶片单反相机。配备Minolta SR mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q4044333",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "胶片/画幅": "35mm",
+    "镜头": "Minolta SR mount",
+    "对焦": "Manual",
+    "曝光测光": "Aperture priority, Program, Manual and Bulb",
+    "闪光灯": "hot shoe and PC terminal",
+    "尺寸": "51.5 x 89 x 137mm, 505g"
   },
   "images": [
     {

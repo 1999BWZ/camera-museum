@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1978 年发布",
-  "description": "The Polaroid Instant 10 was a rigid plastic-bodied instant camera launched in the UK in 1978.",
+  "description": "宝丽来于1978年推出的一次成像相机。使用Peel-apart 80-Series Land Pack Films (3 1/4\" x 3 3/8\", image=2 3/4\" x 2 7/8\") such as Polaroid 87, 88, Viva (all discontinued).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Instant 10"
+    "Camera-wiki": "Polaroid Instant 10",
+    "胶片/画幅": "Peel-apart 80-Series Land Pack Films (3 1/4\" x 3 3/8\", image=2 3/4\" x 2 7/8\") such as Polaroid 87, 88, Viva (all discontinued).",
+    "英文简介": "The Polaroid Instant 10 was a rigid plastic-bodied instant camera launched in the UK in 1978."
   },
   "images": [],
   "sources": [

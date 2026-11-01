@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tanack旁轴相机，1952 年发布",
-  "description": "The Tanack are Japanese Leica copies, made from late 1952 by Tanaka Kōgaku and supplied with Tanar lenses.",
+  "description": "Tanack于1952年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tanack 35 to IV-S"
+    "Camera-wiki": "Tanack 35 to IV-S",
+    "英文简介": "The Tanack are Japanese Leica copies, made from late 1952 by Tanaka Kōgaku and supplied with Tanar lenses."
   },
   "images": [],
   "sources": [

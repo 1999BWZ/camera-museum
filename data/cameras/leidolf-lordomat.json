@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leidolf旁轴相机，1953 年发布",
-  "description": "The Lordordomat is a 1953 rangefinder camera by Leidolf offering interchangeable lenses in a Prontor-SVS shutter.",
+  "description": "Leidolf于1953年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lordomat"
+    "Camera-wiki": "Lordomat",
+    "英文简介": "The Lordordomat is a 1953 rangefinder camera by Leidolf offering interchangeable lenses in a Prontor-SVS shutter."
   },
   "images": [],
   "sources": [

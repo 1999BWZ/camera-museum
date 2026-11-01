@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1983 年发布",
-  "description": "The Canon T50 was the first of a line of \"T-series\" 35mm SLR cameras, introduced by Canon in March 1983.",
+  "description": "佳能于1983年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon T50"
+    "Camera-wiki": "Canon T50",
+    "英文简介": "The Canon T50 was the first of a line of \"T-series\" 35mm SLR cameras, introduced by Canon in March 1983."
   },
   "images": [],
   "sources": [

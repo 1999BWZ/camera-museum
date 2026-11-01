@@ -1,0 +1,40 @@
+{
+  "id": "leica-d-lux-3-q20889112",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "D-Lux 3",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2006 年发布",
+  "description": "徕卡于2006年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889112",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica-D-Lux-3.jpg?width=800",
+      "caption": "D-Lux 3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889112"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica D-Lux 3",
+      "url": "https://www.wikidata.org/wiki/Q20889112"
+    }
+  ],
+  "qid": "Q20889112",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

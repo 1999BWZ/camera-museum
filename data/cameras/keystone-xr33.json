@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Keystone胶片相机，1979 年发布",
-  "description": "The Keystone XR33 is a pocket camera for 110 film.",
+  "description": "Keystone于1979年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Keystone XR33"
+    "Camera-wiki": "Keystone XR33",
+    "英文简介": "The Keystone XR33 is a pocket camera for 110 film."
   },
   "images": [],
   "sources": [

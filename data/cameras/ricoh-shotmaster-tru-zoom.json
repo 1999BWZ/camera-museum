@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1992 年发布",
-  "description": "The Shotmaster Tru-zoom is a fully-automatic 35mm camera released from Ricoh in June 1992.",
+  "description": "理光于1992年推出的胶片单反相机。配备38mm f/4.5 - 90mm f/7.2, 2.4X Zoom, 7 elements in 7 groups。快门速度1 - 1/400 sec.。感光度ISO 64 - 3200 (DX code system)。5 spots multi AF, 0.5 m - inf. (normal mode), fixed 0.25 m (super-macro mode)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Shotmaster Tru-zoom"
+    "Camera-wiki": "Ricoh Shotmaster Tru-zoom",
+    "镜头": "38mm f/4.5 - 90mm f/7.2, 2.4X Zoom, 7 elements in 7 groups",
+    "对焦": "5 spots multi AF, 0.5 m - inf. (normal mode), fixed 0.25 m (super-macro mode)",
+    "快门": "1 - 1/400 sec.",
+    "感光度": "ISO 64 - 3200 (DX code system)",
+    "闪光灯": "G.N. 24 m (ISO100)",
+    "尺寸": "142mm X 73.5mm X 57mm",
+    "重量": "355g (without battery)",
+    "英文简介": "The Shotmaster Tru-zoom is a fully-automatic 35mm camera released from Ricoh in June 1992."
   },
   "images": [],
   "sources": [

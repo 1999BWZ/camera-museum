@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2006 年发布",
-  "description": "佳能于2006年发布的数码单反相机。",
+  "description": "佳能于2006年推出的数码单反相机。配备Interchangeable。快门速度Focal-plane, vertical travel, mechanical。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q64100",
-    "多语言词条数": "28"
+    "多语言词条数": "28",
+    "传感器": "CMOS APS-C 22.2 mm × 14.8 mm (1.6× conversion factor)",
+    "镜头": "Interchangeable",
+    "快门速度": "Focal-plane, vertical travel, mechanical",
+    "曝光测光": "Full aperture TTL, 35-zone SPC",
+    "取景器": "Eye-level pentamirror SLR, 95% coverage, 0.8× magnification",
+    "闪光灯": "E-TTL II automatic built-in pop-up, 13 m ISO 100 guide number, 27 mm (equivalent in 35 format) lens focal length coverage; compatible with Canon EX Series Speedlite external hot shoe-mount flashes",
+    "屏幕": "color TFT LCD, 160° viewing angle, 230,000 pixels",
+    "存储": "CompactFlash Card Type I & II",
+    "电池": "NB-2LH Battery Pack",
+    "重量": "(body only)",
+    "尺寸": "(W × H × D)"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Maruso盒式相机，1950 年发布",
-  "description": "The Maruso Refe is a Japanese box camera taking 4.5×6cm exposures on 120 film, made around 1950 by Marusō Kōgaku.",
+  "description": "Maruso于1950年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Maruso Refe"
+    "Camera-wiki": "Maruso Refe",
+    "英文简介": "The Maruso Refe is a Japanese box camera taking 4.5×6cm exposures on 120 film, made around 1950 by Marusō Kōgaku."
   },
   "images": [],
   "sources": [

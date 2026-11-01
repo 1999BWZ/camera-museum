@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Luxa折叠相机，1953 年发布",
-  "description": "This is a Wolf Luxa Six folding camera for 6×6 cm exposures on 120 film.",
+  "description": "Luxa于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Luxa Six"
+    "Camera-wiki": "Luxa Six",
+    "英文简介": "This is a Wolf Luxa Six folding camera for 6×6 cm exposures on 120 film."
   },
   "images": [],
   "sources": [

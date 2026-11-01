@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2001 年发布",
-  "description": "__NOTOC__\n\nThe Ricoh Caplio RR1 was introduced by Ricoh in 2001.",
+  "description": "理光于2001年推出的数码相机。配备F:2.6-3.4, 10 glass elements in 7 groups.。快门速度Still: 8,4,2,1-1/2000sec. (mechanical/electronic shutter). Motion: 1/30-1/2000sec. (electronic shutter)。感光度AUTO (equivalent to ISO150) /Selectable ISO (equivalent to 200/400/800)。AUTO FOCUS/MANUAL FOCUS/FIXED FOCUS(2.5m/0.8ft.)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caplio RR1"
+    "Camera-wiki": "Ricoh Caplio RR1",
+    "镜头": "F:2.6-3.4, 10 glass elements in 7 groups.",
+    "变焦": "Optical 3x zoom f=7.3-21.9mm(35-105mm in 35mm camera format). Digital 1.4x/1.8x/3.6x zoom (640x480 only).",
+    "快门": "Still: 8,4,2,1-1/2000sec. (mechanical/electronic shutter). Motion: 1/30-1/2000sec. (electronic shutter)",
+    "对焦": "AUTO FOCUS/MANUAL FOCUS/FIXED FOCUS(2.5m/0.8ft.)",
+    "感光度": "AUTO (equivalent to ISO150) /Selectable ISO (equivalent to 200/400/800)",
+    "尺寸": "135.4 x 74.0 x 26.6mm, 5.3 x 2.9 x 1 inch (excluding projections)",
+    "重量": "Approx. 270g( 9.5oz.)(without battery)",
+    "英文简介": "__NOTOC__\n\nThe Ricoh Caplio RR1 was introduced by Ricoh in 2001."
   },
   "images": [],
   "sources": [

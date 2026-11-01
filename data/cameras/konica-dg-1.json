@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码相机，1998 年发布",
-  "description": "The Digital 現場監督 DG-1 is a rugged digital camera based on the Q-M100 and introduced by Konica in 1998.",
+  "description": "柯尼卡于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica DG-1"
+    "Camera-wiki": "Konica DG-1",
+    "英文简介": "The Digital 現場監督 DG-1 is a rugged digital camera based on the Q-M100 and introduced by Konica in 1998."
   },
   "images": [],
   "sources": [

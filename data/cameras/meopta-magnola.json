@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Meopta大画幅相机，1949 年发布",
-  "description": "The Magnola is a triple-extension folding view camera for 13x18 cm plates or film, made by Meopta in about 1949.",
+  "description": "Meopta于1949年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Magnola"
+    "Camera-wiki": "Magnola",
+    "英文简介": "The Magnola is a triple-extension folding view camera for 13x18 cm plates or film, made by Meopta in about 1949."
   },
   "images": [],
   "sources": [

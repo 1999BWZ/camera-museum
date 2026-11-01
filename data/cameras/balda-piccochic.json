@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda折叠相机，1930 年发布",
-  "description": "The Piccochic is a strut-folding camera for 3x4 cm pictures on 127 film, made by Balda in Dresden, in about 1930.",
+  "description": "Balda于1930年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Piccochic"
+    "Camera-wiki": "Piccochic",
+    "英文简介": "The Piccochic is a strut-folding camera for 3x4 cm pictures on 127 film, made by Balda in Dresden, in about 1930."
   },
   "images": [],
   "sources": [

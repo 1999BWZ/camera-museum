@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1995 年发布",
-  "description": "The Star Zoom 70 is a 35mm film zoom camera produced by Kodak introduced in 1995.",
+  "description": "柯达于1995年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star Zoom 70"
+    "Camera-wiki": "Kodak Star Zoom 70",
+    "英文简介": "The Star Zoom 70 is a 35mm film zoom camera produced by Kodak introduced in 1995."
   },
   "images": [],
   "sources": [

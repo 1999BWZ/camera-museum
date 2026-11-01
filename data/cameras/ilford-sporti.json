@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford取景器相机，1959 年发布",
-  "description": "The Sporti series cameras were made by Dacora in Germany, for Ilford from around 1959.",
+  "description": "Ilford于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Sporti"
+    "Camera-wiki": "Ilford Sporti",
+    "英文简介": "The Sporti series cameras were made by Dacora in Germany, for Ilford from around 1959."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2023 年发布",
-  "description": "The Ektar H35N is a simple half-frame 35mm camera made in 2023 by RETO in Hong Kong, but under the Kodak brand.",
+  "description": "柯达于2023年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ektar H35N"
+    "Camera-wiki": "Ektar H35N",
+    "尺寸": "110 x 62 x 39mm",
+    "重量": "110g",
+    "英文简介": "The Ektar H35N is a simple half-frame 35mm camera made in 2023 by RETO in Hong Kong, but under the Kodak brand."
   },
   "images": [],
   "sources": [

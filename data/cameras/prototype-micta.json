@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Prototype微型相机，1952 年发布",
-  "description": "The Micta (ミクタ) is a Japanese subminiature camera, made at prototype level, perhaps in 1952–3.",
+  "description": "Prototype于1952年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Micta"
+    "Camera-wiki": "Micta",
+    "英文简介": "The Micta (ミクタ) is a Japanese subminiature camera, made at prototype level, perhaps in 1952–3."
   },
   "images": [],
   "sources": [

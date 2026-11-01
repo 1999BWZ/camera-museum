@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2000 年发布",
-  "description": "In 2000 Sony advertised this camera as the smallest 3 Megapixel 3x zoom camera.",
+  "description": "索尼于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-P1"
+    "Camera-wiki": "Sony DSC-P1",
+    "英文简介": "In 2000 Sony advertised this camera as the smallest 3 Megapixel 3x zoom camera."
   },
   "images": [],
   "sources": [

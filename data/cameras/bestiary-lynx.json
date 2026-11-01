@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary取景器相机，1942 年发布",
-  "description": "Lynx is also a name used for Yashica rangefinder cameras\n\nThe Lynx is a 3x4 camera, using 127 film, made from 1942 to 1950 by the French maker MFAP (Pontiac).",
+  "description": "Bestiary于1942年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lynx"
+    "Camera-wiki": "Lynx",
+    "英文简介": "Lynx is also a name used for Yashica rangefinder cameras\n\nThe Lynx is a 3x4 camera, using 127 film, made from 1942 to 1950 by the French maker MFAP (Pontiac)."
   },
   "images": [],
   "sources": [

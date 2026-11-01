@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2006 年发布",
-  "description": "A true ultra-compact digital camera.",
+  "description": "奥林巴斯于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus FE-190 / X-750"
+    "Camera-wiki": "Olympus FE-190 / X-750",
+    "尺寸": "90x58x18mm",
+    "英文简介": "A true ultra-compact digital camera."
   },
   "images": [],
   "sources": [

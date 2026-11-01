@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯无反相机，2012 年发布",
-  "description": "奥林巴斯于2012年发布的无反相机。",
+  "description": "奥林巴斯于2012年推出的无反相机。配备Micro Four Thirds System mount。快门速度1/4,000 to 60 s, up to 30 minutes bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q7089245",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "传感器": "Four Thirds System 18.00 × 13.50 mm Live MOS",
+    "镜头": "Micro Four Thirds System mount",
+    "快门速度": "1/4,000 to 60 s, up to 30 minutes bulb",
+    "闪光灯": "Clip-on (included), TTL, GN 10m equivalent (ISO200 · m); hotshoe for external flash attachment",
+    "曝光测光": "Digital ESP metering, Centre weighted average metering, Spot metering",
+    "取景器": "live preview, optional electronic viewfinder VF-2; optional electronic viewfinder VF-3 and VF-4; optional optical viewfinder VF-1",
+    "屏幕": "3\" 460,000 pixel TFT LCD on screen with live preview with capacitive touchscreen control",
+    "存储": "Secure Digital card; SDHC; SDXC",
+    "电池": "Olympus BLS-5 Lithium-ion battery",
+    "重量": "(body only) (body, battery and SD memory card)",
+    "尺寸": "110.5 × 63.7 × 38.2 mm (4.35\" × 2.51\" × 1.50\")"
   },
   "images": [
     {

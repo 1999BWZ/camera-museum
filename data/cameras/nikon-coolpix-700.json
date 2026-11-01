@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，1999 年发布",
-  "description": "The Coolpix 700 is a digital compact camera introduced by Nikon 1999.",
+  "description": "尼康于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix 700"
+    "Camera-wiki": "Nikon Coolpix 700",
+    "英文简介": "The Coolpix 700 is a digital compact camera introduced by Nikon 1999."
   },
   "images": [],
   "sources": [

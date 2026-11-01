@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KOBICA旁轴相机，1976 年发布",
-  "description": "__NOTOC__\n\n\nThe KOBICA 35 BC-1 is a leaf-shutter fixed-lens rangefinder introduced by Daehan Optical (Korea Optical) in 1976.[https://www.much.go.kr/L/HRF8zl4T61.do 대한민국역사박물관 | KOBICA 35BC 카메라] (National Museum of Korean Contemporary History) In some documents and images, it is also referred to as K",
+  "description": "KOBICA于1976年推出的旁轴相机。配备KOREA OPTICAL TESSAR LENS 40mm F2.8, 3 groups 4 elements, Coated, front-cell focusingThe name of the lens was changed to KORINAR during production.。快门速度Copal leafshutter. Speeds 1 to 1/500 sec. and B with selftimer。使用24 x 36 mm on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "KOBICA 35 BC-1"
+    "Camera-wiki": "KOBICA 35 BC-1",
+    "胶片/画幅": "24 x 36 mm on 35mm film",
+    "镜头": "KOREA OPTICAL TESSAR LENS 40mm F2.8, 3 groups 4 elements, Coated, front-cell focusingThe name of the lens was changed to KORINAR during production.",
+    "快门": "Copal leafshutter. Speeds 1 to 1/500 sec. and B with selftimer",
+    "闪光灯": "Socket on front. X synchronisation",
+    "英文简介": "__NOTOC__\n\n\nThe KOBICA 35 BC-1 is a leaf-shutter fixed-lens rangefinder introduced by Daehan Optical (Korea Optical) in 1976.[https://www.much.go.kr/L/HRF8zl4T61.do 대한민국역사박물관 | KOBICA 35BC 카메라] (National Museum of Korean Contemporary History) In some documents and images, it is also referred to as KOBICA 35 BC."
   },
   "images": [],
   "sources": [

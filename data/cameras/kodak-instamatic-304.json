@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1965 年发布",
-  "description": "When it appeared in 1965, Kodak's Instamatic 304 combined a selenium meter-controlled automatic aperture system with the new flash cube system.",
+  "description": "柯达于1965年推出的便携相机。配备Kodar 41mm, f/8。快门速度1/60s and 1/40s (flash sync).。使用Manual lever.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 304"
+    "Camera-wiki": "Kodak Instamatic 304",
+    "胶片/画幅": "Manual lever.",
+    "镜头": "Kodar 41mm, f/8",
+    "快门速度": "1/60s and 1/40s (flash sync).",
+    "重量": "13oz.",
+    "英文简介": "When it appeared in 1965, Kodak's Instamatic 304 combined a selenium meter-controlled automatic aperture system with the new flash cube system."
   },
   "images": [],
   "sources": [

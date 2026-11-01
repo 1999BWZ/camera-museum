@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon胶片相机，1989 年发布",
-  "description": "The Belami AF made by Chinon is a point and shoot 35mm autofocus camera.",
+  "description": "Chinon于1989年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon Belami AF"
+    "Camera-wiki": "Chinon Belami AF",
+    "英文简介": "The Belami AF made by Chinon is a point and shoot 35mm autofocus camera."
   },
   "images": [],
   "sources": [

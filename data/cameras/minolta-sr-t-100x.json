@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1977 年发布",
-  "description": "The Minolta SRT 100X (or SRT 200 in the U.S.",
+  "description": "美能达于1977年推出的数码单反相机。快门速度mechanical focal plane cloth shutter, speeds 1 sec. to 1/1000 sec. plus B。使用35mm film with speeds ISO 12 to ISO 6400。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-T 100X"
+    "Camera-wiki": "Minolta SR-T 100X",
+    "胶片/画幅": "35mm film with speeds ISO 12 to ISO 6400",
+    "卡口": "Minolta SR mount, with depth of field preview button",
+    "快门": "mechanical focal plane cloth shutter, speeds 1 sec. to 1/1000 sec. plus B",
+    "曝光测光": "CLC type (Contrast light compensator) CdS meter, needle-and-clockhand-matching instrument visible through finder",
+    "取景器": "Pentaprism viewfinder with split image focusing aid in the middle of the matte screen",
+    "英文简介": "The Minolta SRT 100X (or SRT 200 in the U.S."
   },
   "images": [],
   "sources": [

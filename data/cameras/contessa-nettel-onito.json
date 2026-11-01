@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Contessa-Nettel折叠相机，1919 年发布",
-  "description": "The Onito is a folding single-extension camera for 6.5x9cm, 9x12cm or 10x15cm plates or film packs., p215.",
+  "description": "Contessa-Nettel于1919年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Onito"
+    "Camera-wiki": "Onito",
+    "英文简介": "The Onito is a folding single-extension camera for 6.5x9cm, 9x12cm or 10x15cm plates or film packs., p215."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Thornton-Pickard大画幅相机，1910 年发布",
-  "description": "The Imperial is a range of folding field cameras made by Thornton-Pickard in the early years of the twentieth century.",
+  "description": "Thornton-Pickard于1910年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Thornton-Pickard Imperial"
+    "Camera-wiki": "Thornton-Pickard Imperial",
+    "英文简介": "The Imperial is a range of folding field cameras made by Thornton-Pickard in the early years of the twentieth century."
   },
   "images": [],
   "sources": [

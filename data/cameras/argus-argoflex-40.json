@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus胶片相机，1950 年发布",
-  "description": "The Argoflex Forty is an alternate name for the Argus 40 introduced in 1950.",
+  "description": "Argus于1950年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus Argoflex 40"
+    "Camera-wiki": "Argus Argoflex 40",
+    "英文简介": "The Argoflex Forty is an alternate name for the Argus 40 introduced in 1950."
   },
   "images": [],
   "sources": [

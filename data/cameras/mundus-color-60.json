@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mundus微型相机，1960 年发布",
-  "description": "The Color 60 is a subminiature camera made by the French company Mundus.",
+  "description": "Mundus于1960年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mundus Color 60"
+    "Camera-wiki": "Mundus Color 60",
+    "英文简介": "The Color 60 is a subminiature camera made by the French company Mundus."
   },
   "images": [],
   "sources": [

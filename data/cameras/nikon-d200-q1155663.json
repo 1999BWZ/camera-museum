@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2005 年发布",
-  "description": "尼康于2005年发布的数码单反相机。",
+  "description": "尼康于2005年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electronically controlled vertical-travel focal plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1155663",
-    "多语言词条数": "18"
+    "多语言词条数": "18",
+    "传感器": "Nikon DX format 23.6 mm × 15.8 mm CCD",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically controlled vertical-travel focal plane shutter",
+    "曝光测光": "Three-mode through-the-lens (TTL) exposure metering",
+    "取景器": "Optical",
+    "闪光灯": "Manual pop-up with button release Guide number (ISO 100, m)",
+    "电池": "Nikon EN-EL3e Lithium-Ion battery",
+    "屏幕": "2.5-inch (63.5 mm) TFT LCD, 230,000 pixels",
+    "重量": "About 830 g without battery, memory card, body cap, or monitor cover"
   },
   "images": [
     {

@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Samoca胶片单反相机，1954 年发布",
-  "description": "The Samocaflex 35 (サモカフレックス35) is a Japanese 35mm TLR made by Sanei Sangyō, later Samoca Camera from 1954 to 1957, and distributed by Hattori Tokei-ten.",
+  "description": "Samoca于1954年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samocaflex 35"
+    "Camera-wiki": "Samocaflex 35",
+    "尺寸": "140×92×64mm",
+    "英文简介": "The Samocaflex 35 (サモカフレックス35) is a Japanese 35mm TLR made by Sanei Sangyō, later Samoca Camera from 1954 to 1957, and distributed by Hattori Tokei-ten."
   },
   "images": [],
   "sources": [

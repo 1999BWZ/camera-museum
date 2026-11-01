@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Super立体相机，1956 年发布",
-  "description": "The Super Duplex 120 is a dual-lens camera for 24 stereo pairs of 24 mm-square images on 120 film.",
+  "description": "Super于1956年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Super Duplex 120"
+    "Camera-wiki": "Super Duplex 120",
+    "英文简介": "The Super Duplex 120 is a dual-lens camera for 24 stereo pairs of 24 mm-square images on 120 film."
   },
   "images": [],
   "sources": [

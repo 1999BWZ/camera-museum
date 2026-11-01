@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1963 年发布",
-  "description": "The Konica Auto S is a 35mm coupled rangefinder camera of fairly conventional fixed-lens design made by Konishiroku in 1963.",
+  "description": "柯尼卡于1963年推出的旁轴相机。配备49mm。感光度10, 25, 32, 50, 64, 100, 160, 200, 250, 400 ASA.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Auto S"
+    "Camera-wiki": "Konica Auto S",
+    "感光度": "10, 25, 32, 50, 64, 100, 160, 200, 250, 400 ASA.",
+    "镜头": "49mm",
+    "重量": "740g",
+    "英文简介": "The Konica Auto S is a 35mm coupled rangefinder camera of fairly conventional fixed-lens design made by Konishiroku in 1963."
   },
   "images": [],
   "sources": [

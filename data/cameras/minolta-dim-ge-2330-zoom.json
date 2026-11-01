@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，2000 年发布",
-  "description": "One of many Minolta Dimage digital zoom cameras produced around the year 2000.",
+  "description": "美能达于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dimâge 2330 Zoom"
+    "Camera-wiki": "Minolta Dimâge 2330 Zoom",
+    "尺寸": "116x73x62mm",
+    "英文简介": "One of many Minolta Dimage digital zoom cameras produced around the year 2000."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Czech取景器相机，2008 年发布",
-  "description": "Czech于2008年发布的取景器相机。",
+  "description": "Czech于2008年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Czech Animation Kisekae camera"
+    "Camera-wiki": "Czech Animation Kisekae camera",
+    "尺寸": "99×67×33mm",
+    "重量": "76g"
   },
   "images": [],
   "sources": [

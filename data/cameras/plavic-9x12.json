@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Plavic折叠相机，1923 年发布",
-  "description": "Plavic 9x12 is a 9x12cm folding bed plate film camera, manufactured by Héard & Mallinjod, Lyon, France for Plavic in Lyon.",
+  "description": "Plavic于1923年推出的折叠相机。配备Plavic-Anastigmat135mm f/6.3, Aperture range f/6.3-f/32, filter slip-on。快门速度Gitzo leaf shutter type B1, with speeds: 1/25, 1/50, 1/100 +T & B.The Gitzo shutter was labelled 'Plavicos' on some models of Plavic cameras.。Bellows focusing, index and scale on the left-inside of the front cover, Focus range: 1-10m +inf.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Plavic 9x12"
+    "Camera-wiki": "Plavic 9x12",
+    "镜头": "Plavic-Anastigmat135mm f/6.3, Aperture range f/6.3-f/32, filter slip-on",
+    "对焦": "Bellows focusing, index and scale on the left-inside of the front cover, Focus range: 1-10m +inf.",
+    "快门": "Gitzo leaf shutter type B1, with speeds: 1/25, 1/50, 1/100 +T & B.The Gitzo shutter was labelled 'Plavicos' on some models of Plavic cameras.",
+    "英文简介": "Plavic 9x12 is a 9x12cm folding bed plate film camera, manufactured by Héard & Mallinjod, Lyon, France for Plavic in Lyon."
   },
   "images": [],
   "sources": [

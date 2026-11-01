@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，2000 年发布",
-  "description": "Olympus called this the Ultra Compact Zoom, which it actually is with it's size of 90x60x30mm and weight of just 125grs.",
+  "description": "奥林巴斯于2000年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus i Zoom 2000"
+    "Camera-wiki": "Olympus i Zoom 2000",
+    "尺寸": "90x60x30mm",
+    "英文简介": "Olympus called this the Ultra Compact Zoom, which it actually is with it's size of 90x60x30mm and weight of just 125grs."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1931 年发布",
-  "description": "The Rolleiflex 4x4 is a small format TLR camera manufactured by Franke & Heidecke.",
+  "description": "禄来于1931年推出的胶片相机。配备Carl Zeiss Jena Tessar 1:3.5 f=6cm (on build 410) or Carl Zeiss Jena Tessar 1:2.8 f=6cm (on build 411)。快门速度Compur CR00 leafshutter. Speeds 1 to 1/300 sec.,T and B.Combined shutter tensioning and release lever。使用12 exposures of 4 x 4 cm on 127 type rollfilm. Furthermore a Plate adapter for sheet film can be used.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex 4x4 prewar series"
+    "Camera-wiki": "Rolleiflex 4x4 prewar series",
+    "胶片/画幅": "12 exposures of 4 x 4 cm on 127 type rollfilm. Furthermore a Plate adapter for sheet film can be used.",
+    "镜头": "Carl Zeiss Jena Tessar 1:3.5 f=6cm (on build 410) or Carl Zeiss Jena Tessar 1:2.8 f=6cm (on build 411)",
+    "尺寸": "Both lenses, 28.5mm.",
+    "快门": "Compur CR00 leafshutter. Speeds 1 to 1/300 sec.,T and B.Combined shutter tensioning and release lever",
+    "闪光灯": "None",
+    "重量": "Build 410, 490 grams ; Build 411, 520 grams",
+    "英文简介": "The Rolleiflex 4x4 is a small format TLR camera manufactured by Franke & Heidecke."
   },
   "images": [],
   "sources": [

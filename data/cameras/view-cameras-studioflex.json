@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras双镜头反光相机，1948 年发布",
-  "description": "The Studioflex is a studio camera for 9x12cm plates or film, and later made for 13x18cm as well.",
+  "description": "View cameras于1948年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Studioflex"
+    "Camera-wiki": "Studioflex",
+    "英文简介": "The Studioflex is a studio camera for 9x12cm plates or film, and later made for 13x18cm as well."
   },
   "images": [],
   "sources": [

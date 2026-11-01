@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier旁轴相机，1956 年发布",
-  "description": "The Beier Precisa IIa is a dual-format self-erecting folding camera for 120 film, introduced by Beier in 1956.",
+  "description": "Beier于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beier Precisa IIa"
+    "Camera-wiki": "Beier Precisa IIa",
+    "英文简介": "The Beier Precisa IIa is a dual-format self-erecting folding camera for 120 film, introduced by Beier in 1956."
   },
   "images": [],
   "sources": [

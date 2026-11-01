@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue胶片相机，1983 年发布",
-  "description": "The Revue Disc F 1001 is a camera for the briefly popular but ultimately unsuccessful disc film format.",
+  "description": "Revue于1983年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue Disc F 1001"
+    "Camera-wiki": "Revue Disc F 1001",
+    "英文简介": "The Revue Disc F 1001 is a camera for the briefly popular but ultimately unsuccessful disc film format."
   },
   "images": [],
   "sources": [

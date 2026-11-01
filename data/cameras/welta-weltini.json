@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welta旁轴相机，1937 年发布",
-  "description": "The Weltini is a 35mm folding camera made by Welta from 1937 to 1941.",
+  "description": "Welta于1937年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Weltini"
+    "Camera-wiki": "Weltini",
+    "英文简介": "The Weltini is a 35mm folding camera made by Welta from 1937 to 1941."
   },
   "images": [],
   "sources": [

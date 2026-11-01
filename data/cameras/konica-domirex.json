@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码单反相机，1963 年发布",
-  "description": "The Domirex is a 35 mm SLR camera shown as a prototype by Konishiroku in the early 1960s, but apparently never produced for sale.",
+  "description": "柯尼卡于1963年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Domirex"
+    "Camera-wiki": "Konica Domirex",
+    "英文简介": "The Domirex is a 35 mm SLR camera shown as a prototype by Konishiroku in the early 1960s, but apparently never produced for sale."
   },
   "images": [],
   "sources": [

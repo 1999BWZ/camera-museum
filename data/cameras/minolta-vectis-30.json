@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1997 年发布",
-  "description": "The Minolta Vectis 30 is a compact zoom camera of Minolta's Vectis series for the Advanced Photo System.",
+  "description": "美能达于1997年推出的便携相机。配备Minolta Aspherical, 30-90mm zoom f/3.6-10.3。infrared。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis 30"
+    "Camera-wiki": "Minolta Vectis 30",
+    "镜头": "Minolta Aspherical, 30-90mm zoom f/3.6-10.3",
+    "对焦": "infrared",
+    "取景器": "zoom finder, framed depending on chosen exposure format, parallax marks for macro mode",
+    "尺寸": "117×66×50 mm",
+    "闪光灯": "built-in, modes off, on, automatic and anti-red-eye",
+    "电池": "one CR2 3V",
+    "重量": "240gr. w/o battery",
+    "英文简介": "The Minolta Vectis 30 is a compact zoom camera of Minolta's Vectis series for the Advanced Photo System."
   },
   "images": [],
   "sources": [

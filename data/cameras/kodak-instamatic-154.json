@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1963 年发布",
-  "description": "The model 154 is a Kodak Instamatic camera released in the USA, and sold between 1965 and 1969.",
+  "description": "柯达于1963年推出的便携相机。配备43mm f/11。快门速度Mechanical leaf, 1/90 sec. and 1/40 sec. with flashcube attached。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 154"
+    "Camera-wiki": "Kodak Instamatic 154",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "43mm f/11",
+    "快门": "Mechanical leaf, 1/90 sec. and 1/40 sec. with flashcube attached",
+    "闪光灯": "Flashcube",
+    "卡口": "None",
+    "英文简介": "The model 154 is a Kodak Instamatic camera released in the USA, and sold between 1965 and 1969."
   },
   "images": [],
   "sources": [

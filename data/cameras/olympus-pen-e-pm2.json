@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2012 年发布",
-  "description": "The Olympus PEN mini E-PM2 is a very compact digital system camera for the Micro Four Thirds system, with the same small dimensions as its predecessor Olympus PEN mini E-PM1, but with grip element on the front side to give it ergonomy.",
+  "description": "奥林巴斯于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Pen E-PM2"
+    "Camera-wiki": "Olympus Pen E-PM2",
+    "英文简介": "The Olympus PEN mini E-PM2 is a very compact digital system camera for the Micro Four Thirds system, with the same small dimensions as its predecessor Olympus PEN mini E-PM1, but with grip element on the front side to give it ergonomy."
   },
   "images": [],
   "sources": [

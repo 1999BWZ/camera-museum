@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "卡西欧数码相机，2001 年发布",
-  "description": "The QV-4000 is a digital camera released by Casio in 2001.",
+  "description": "卡西欧于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Casio QV-4000"
+    "Camera-wiki": "Casio QV-4000",
+    "英文简介": "The QV-4000 is a digital camera released by Casio in 2001."
   },
   "images": [],
   "sources": [

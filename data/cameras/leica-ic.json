@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1949 年发布",
-  "description": "The Leica Ic is a version of the Leica IIIc, stripped of the viewfinder, rangefinder and slow speeds, made by Leitz for special needs, such as scientific photography, wide-angle photography or tele photography with a reflex housing.",
+  "description": "徕卡于1949年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica Ic"
+    "Camera-wiki": "Leica Ic",
+    "英文简介": "The Leica Ic is a version of the Leica IIIc, stripped of the viewfinder, rangefinder and slow speeds, made by Leitz for special needs, such as scientific photography, wide-angle photography or tele photography with a reflex housing."
   },
   "images": [],
   "sources": [

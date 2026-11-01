@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dresden盒式相机，1931 年发布",
-  "description": "The Beier-Box is a typical box camera similar to many other camera's introduced in the late 1920's and early 1930's.",
+  "description": "Dresden于1931年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beier-Box"
+    "Camera-wiki": "Beier-Box",
+    "英文简介": "The Beier-Box is a typical box camera similar to many other camera's introduced in the late 1920's and early 1930's."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Brazil取景器相机，1961 年发布",
-  "description": "The Flika is a camera for 6x9 or 4.5x6 cm pictures on 120 film, made by D.F.",
+  "description": "Brazil于1961年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Flika"
+    "Camera-wiki": "Flika",
+    "英文简介": "The Flika is a camera for 6x9 or 4.5x6 cm pictures on 120 film, made by D.F."
   },
   "images": [],
   "sources": [

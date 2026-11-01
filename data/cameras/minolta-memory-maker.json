@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1993 年发布",
-  "description": "The Minolta Memory Maker is a simple plastic viewfinder which takes 35mm film.",
+  "description": "美能达于1993年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Memory Maker"
+    "Camera-wiki": "Minolta Memory Maker",
+    "尺寸": "125x70x49mm",
+    "英文简介": "The Minolta Memory Maker is a simple plastic viewfinder which takes 35mm film."
   },
   "images": [],
   "sources": [

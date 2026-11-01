@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lenses大画幅相机，1841 年发布",
-  "description": "The Petzval lens (or Petzval portrait lens) is the oldest notable lens design for photography.",
+  "description": "Lenses于1841年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petzval lens"
+    "Camera-wiki": "Petzval lens",
+    "英文简介": "The Petzval lens (or Petzval portrait lens) is the oldest notable lens design for photography."
   },
   "images": [],
   "sources": [

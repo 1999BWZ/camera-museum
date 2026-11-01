@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2005 年发布",
-  "description": "The DiMAGE Z20 succeeded Konica Minolta's consumer bridge camera Konica Minolta DiMAGE Z10 in 2005, with same futuristically styled body and easy-to-use camera concept, but 5.0 megapixels instead of 3.2.",
+  "description": "柯尼卡美能达于2005年推出的数码相机。有效像素9)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE Z20"
+    "Camera-wiki": "Konica Minolta DiMAGE Z20",
+    "像素": "9)",
+    "英文简介": "The DiMAGE Z20 succeeded Konica Minolta's consumer bridge camera Konica Minolta DiMAGE Z10 in 2005, with same futuristically styled body and easy-to-use camera concept, but 5.0 megapixels instead of 3.2."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1961 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Petri 7 is a fixed-lens 35mm rangefinder camera made by Petri/Kuribayashi in 1961.",
+  "description": "Kuribayashi于1961年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri 7"
+    "Camera-wiki": "Petri 7",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Petri 7 is a fixed-lens 35mm rangefinder camera made by Petri/Kuribayashi in 1961."
   },
   "images": [],
   "sources": [

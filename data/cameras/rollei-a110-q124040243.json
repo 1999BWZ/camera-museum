@@ -1,0 +1,40 @@
+{
+  "id": "rollei-a110-q124040243",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "禄莱",
+  "model": "A110",
+  "year": 1975,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1975 年发布",
+  "description": "禄来于1975年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q124040243",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rollei%20A110%20Camera%20%283289019559%29.jpg?width=800",
+      "caption": "A110",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q124040243"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Rollei A110",
+      "url": "https://www.wikidata.org/wiki/Q124040243"
+    }
+  ],
+  "qid": "Q124040243",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

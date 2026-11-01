@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Eder折叠相机，1931 年发布",
-  "description": "The Eder Patent Kamera was made by the German company Eder in the early 1930s.See the dates of Patent linked below.",
+  "description": "Eder于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Eder Patent Kamera"
+    "Camera-wiki": "Eder Patent Kamera",
+    "英文简介": "The Eder Patent Kamera was made by the German company Eder in the early 1930s.See the dates of Patent linked below."
   },
   "images": [],
   "sources": [

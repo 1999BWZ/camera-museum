@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2007 年发布",
-  "description": "The PowerShot A470 is a compact digital camera which was introduced by Canon in March 2007, with a 7 megapixel CCD sensor giving images of up to 3072x2304 pixels.",
+  "description": "佳能于2007年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A470"
+    "Camera-wiki": "Canon PowerShot A470",
+    "英文简介": "The PowerShot A470 is a compact digital camera which was introduced by Canon in March 2007, with a 7 megapixel CCD sensor giving images of up to 3072x2304 pixels."
   },
   "images": [],
   "sources": [

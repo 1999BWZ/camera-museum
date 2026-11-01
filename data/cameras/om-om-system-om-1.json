@@ -13,11 +13,23 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "OM数位解决方案数码相机，2022 年发布",
-  "description": "OM数位解决方案于2022年发布的数码相机。",
+  "description": "OM数位解决方案于2022年推出的数码相机。配备Micro Four Thirds。快门速度| shutterRange = 1/8000s−60s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q110962635",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "镜头": "Micro Four Thirds",
+    "传感器": "Exmor RS IMX472",
+    "胶片/画幅": "| filmsize =",
+    "对焦": "Quad Pixel on-sensor phase-detection AF",
+    "曝光测光": "| mmode =",
+    "闪光灯": "No built-in flash",
+    "快门速度": "| shutterRange = 1/8000s−60s",
+    "取景器": "| ovf =",
+    "屏幕": "1.62M dots vari-angle touchscreen",
+    "电池": "BLX-1, with in-body USB charging",
+    "尺寸": "(WHD)",
+    "重量": "with battery and one memory card"
   },
   "images": [
     {

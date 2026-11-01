@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof全景相机，1976 年发布",
-  "description": "__NOTOC__\n\nThe Linhof Technorama series of viewfinder cameras take panoramic images on 120 film via a fixed lens (typically Schneider-Kreuznach large-format lenses).",
+  "description": "Linhof于1976年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Technorama"
+    "Camera-wiki": "Linhof Technorama",
+    "英文简介": "__NOTOC__\n\nThe Linhof Technorama series of viewfinder cameras take panoramic images on 120 film via a fixed lens (typically Schneider-Kreuznach large-format lenses)."
   },
   "images": [],
   "sources": [

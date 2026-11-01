@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1959 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Kodak Brownie Twin 20 was a moulded plastic box camera, produced by Kodak initially at Rochester, NY, USA, and later in England.",
+  "description": "柯达于1959年推出的盒式相机。配备Continuous focusing 4ft-∞, marked into zones; f/11, stops for Exposure Values 13, 14 & 15。快门速度single-speed, with flash synch.。使用620, 12 6×6cm images。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Twin 20"
+    "Camera-wiki": "Kodak Brownie Twin 20",
+    "胶片/画幅": "620, 12 6×6cm images",
+    "镜头": "Continuous focusing 4ft-∞, marked into zones; f/11, stops for Exposure Values 13, 14 & 15",
+    "快门": "single-speed, with flash synch.",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Kodak Brownie Twin 20 was a moulded plastic box camera, produced by Kodak initially at Rochester, NY, USA, and later in England."
   },
   "images": [],
   "sources": [

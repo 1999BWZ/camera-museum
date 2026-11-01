@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码相机，1999 年发布",
-  "description": "The ViviCam 3200 is a digital camera by Vivitar.",
+  "description": "Vivitar于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar ViviCam 3200"
+    "Camera-wiki": "Vivitar ViviCam 3200",
+    "英文简介": "The ViviCam 3200 is a digital camera by Vivitar."
   },
   "images": [],
   "sources": [

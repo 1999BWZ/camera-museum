@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2019 年发布",
-  "description": "佳能于2019年发布的数码单反相机。",
+  "description": "佳能于2019年推出的数码单反相机。配备Interchangeable。快门速度Electronic focal-plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q67152522",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "APS-C (22.3 x 14.9 mm)",
+    "镜头": "Interchangeable",
+    "取景器": "Optical pentaprism with 100% coverage and 0.95x magnification / LiveView LCD",
+    "存储": "SD/SDHC/SDXC card (UHS-II bus supported)",
+    "快门速度": "Electronic focal-plane",
+    "曝光测光": "TTL, full aperture, 216 zones sensor with 220,000 pixels RGB + IR sensor",
+    "屏幕": "3.0\" (7.7 cm) Clear View II color TFT vari-angle LCD touchscreen with 1,040,000 dots",
+    "闪光灯": "E-TTL II manual-pop-up built-in / External",
+    "尺寸": "(W × H × D)",
+    "重量": "(body only)",
+    "电池": "Li-Ion LP-E6N rechargeable (1800 mAh); 1300 shots (CIPA rating)"
   },
   "images": [
     {

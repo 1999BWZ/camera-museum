@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Keystone胶片相机，1982 年发布",
-  "description": "The Keystone XR108 is a camera for 110 film.",
+  "description": "Keystone于1982年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Keystone XR108"
+    "Camera-wiki": "Keystone XR108",
+    "英文简介": "The Keystone XR108 is a camera for 110 film."
   },
   "images": [],
   "sources": [

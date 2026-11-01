@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Haking取景器相机，1973 年发布",
-  "description": "The Halina 2000 is a 35mm viewfinder camera that was made in Hong Kong by Haking.",
+  "description": "Haking于1973年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Halina 2000"
+    "Camera-wiki": "Halina 2000",
+    "英文简介": "The Halina 2000 is a 35mm viewfinder camera that was made in Hong Kong by Haking."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus胶片相机，1949 年发布",
-  "description": "The Argoflex Seventy-Five and Argus Seventy-Five are two name variants of the same model of pseudo TLR, produced by Argus in the USA, beginning in 1949.",
+  "description": "Argus于1949年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus Argoflex Seventy-Five"
+    "Camera-wiki": "Argus Argoflex Seventy-Five",
+    "英文简介": "The Argoflex Seventy-Five and Argus Seventy-Five are two name variants of the same model of pseudo TLR, produced by Argus in the USA, beginning in 1949."
   },
   "images": [],
   "sources": [

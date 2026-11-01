@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox取景器相机，1985 年发布",
-  "description": "Minox introduced the 35 MB in 1985, as a more squared-off variation on its Minox 35 range of ultra-compact cameras.",
+  "description": "Minox于1985年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox 35 MB"
+    "Camera-wiki": "Minox 35 MB",
+    "英文简介": "Minox introduced the 35 MB in 1985, as a more squared-off variation on its Minox 35 range of ultra-compact cameras."
   },
   "images": [],
   "sources": [

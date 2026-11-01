@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Prototype微型相机，1958 年发布",
-  "description": "The Makinette 16 is a subminiature project by Plaubel, dated 1958.",
+  "description": "Prototype于1958年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Makinette 16"
+    "Camera-wiki": "Makinette 16",
+    "英文简介": "The Makinette 16 is a subminiature project by Plaubel, dated 1958."
   },
   "images": [],
   "sources": [

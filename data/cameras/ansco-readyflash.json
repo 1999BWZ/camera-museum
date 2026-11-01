@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco胶片相机，1953 年发布",
-  "description": "The Ansco Readyflash is a simple viewfinder-type camera with a fixed-focus lens, fixed aperture and single-speed shutter.",
+  "description": "Ansco于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Readyflash"
+    "Camera-wiki": "Readyflash",
+    "英文简介": "The Ansco Readyflash is a simple viewfinder-type camera with a fixed-focus lens, fixed aperture and single-speed shutter."
   },
   "images": [],
   "sources": [

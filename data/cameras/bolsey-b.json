@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bolsey旁轴相机，1953 年发布",
-  "description": "The Bolsey B is a 35mm rangefinder camera with a cast aluminium body, introduced by Bolsey in 1947.",
+  "description": "Bolsey于1953年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bolsey B"
+    "Camera-wiki": "Bolsey B",
+    "英文简介": "The Bolsey B is a 35mm rangefinder camera with a cast aluminium body, introduced by Bolsey in 1947."
   },
   "images": [
     {

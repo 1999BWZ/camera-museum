@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goko取景器相机，1998 年发布",
-  "description": "The MacromaX FR-350 is a 35mm compact camera by Goko released in 1998.",
+  "description": "Goko于1998年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Goko MacromaX FR-350"
+    "Camera-wiki": "Goko MacromaX FR-350",
+    "英文简介": "The MacromaX FR-350 is a 35mm compact camera by Goko released in 1998."
   },
   "images": [],
   "sources": [

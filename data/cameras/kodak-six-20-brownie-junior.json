@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1934 年发布",
-  "description": "The Six-20 Brownie Junior was made by Kodak from 1934 to 1942As listed in [https://web.archive.org/web/20110605122514/http://www.kodak.com/global/en/consumer/products/techInfo/aa13/aa13.shtml \"History of KODAK Cameras\"] (archived) from [http://www.kodak.com/ Kodak's website]., as a model for 2&frac1",
+  "description": "柯达于1934年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Six-20 Brownie Junior"
+    "Camera-wiki": "Kodak Six-20 Brownie Junior",
+    "英文简介": "The Six-20 Brownie Junior was made by Kodak from 1934 to 1942As listed in [https://web.archive.org/web/20110605122514/http://www.kodak.com/global/en/consumer/products/techInfo/aa13/aa13.shtml \"History of KODAK Cameras\"] (archived) from [http://www.kodak.com/ Kodak's website]., as a model for 2&frac14;&times;3&frac14;\" images on 620 film."
   },
   "images": [],
   "sources": [

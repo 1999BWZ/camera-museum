@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1933 年发布",
-  "description": "The Billy Record is a folding camera for 6x9 cm pictures on 120 film, made by the Agfa camera works in Münich (Germany).",
+  "description": "爱克发于1933年推出的折叠相机。配备Agfa Anastigmat Jgestar 1:7.7/100mm (three optical elements)。快门速度Prontor (Alfred Gauthier, Culmbach), speeds 1/25 - 1/100 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Billy Record"
+    "Camera-wiki": "Agfa Billy Record",
+    "镜头": "Agfa Anastigmat Jgestar 1:7.7/100mm (three optical elements)",
+    "快门": "Prontor (Alfred Gauthier, Culmbach), speeds 1/25 - 1/100 sec.",
+    "光圈": "1:7.7-1:32",
+    "重量": "560 g",
+    "尺寸": "165×88×37mm (closed), 165×108×131mm (open)",
+    "英文简介": "The Billy Record is a folding camera for 6x9 cm pictures on 120 film, made by the Agfa camera works in Münich (Germany)."
   },
   "images": [],
   "sources": [

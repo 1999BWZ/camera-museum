@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lipca胶片相机，1954 年发布",
-  "description": "&nbsp;This is not the Roll-Op by Plaubel.",
+  "description": "Lipca于1954年推出的胶片相机。配备Enna Ennagon 1:3.5 f=7.5cm (75mm on late cameras), Coated.。快门速度Prontor-S, Prontor-SV or Prontor-SVS leafshutter. Speeds 1 to 1/300 sec. and B.。使用Knob winder. Red window on the back to display film frame number.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollop"
+    "Camera-wiki": "Rollop",
+    "镜头": "Enna Ennagon 1:3.5 f=7.5cm (75mm on late cameras), Coated.",
+    "尺寸": "??",
+    "快门": "Prontor-S, Prontor-SV or Prontor-SVS leafshutter. Speeds 1 to 1/300 sec. and B.",
+    "闪光灯": "Sync socket on front panel. M and X synchronisation.",
+    "胶片/画幅": "Knob winder. Red window on the back to display film frame number.",
+    "重量": "??? grams",
+    "英文简介": "&nbsp;This is not the Roll-Op by Plaubel."
   },
   "images": [],
   "sources": [

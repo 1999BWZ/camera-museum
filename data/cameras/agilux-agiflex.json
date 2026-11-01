@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Agilux数码单反相机，1946 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n\n|}\nThe Agiflex is an early British postwar 6x6 SLR, made by Agilux.",
+  "description": "Agilux于1946年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agiflex"
+    "Camera-wiki": "Agiflex",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n\n|}\nThe Agiflex is an early British postwar 6x6 SLR, made by Agilux."
   },
   "images": [],
   "sources": [

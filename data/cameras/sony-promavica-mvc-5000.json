@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼胶片相机，1990 年发布",
-  "description": "One of the most elaborate of Sony's early still-video cameras, the ProMavica MVC-5000 wrings the best possible resolution out of the technology (single television frames of analog scan lines) through the use of two sensor chips.",
+  "description": "索尼于1990年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony ProMavica MVC-5000"
+    "Camera-wiki": "Sony ProMavica MVC-5000",
+    "英文简介": "One of the most elaborate of Sony's early still-video cameras, the ProMavica MVC-5000 wrings the best possible resolution out of the technology (single television frames of analog scan lines) through the use of two sensor chips."
   },
   "images": [],
   "sources": [

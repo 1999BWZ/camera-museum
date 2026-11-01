@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras胶片相机，1959 年发布",
-  "description": "This large-format camera series from Linhof dates from the 1960s.",
+  "description": "View cameras于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Kardan Color"
+    "Camera-wiki": "Linhof Kardan Color",
+    "英文简介": "This large-format camera series from Linhof dates from the 1960s."
   },
   "images": [],
   "sources": [

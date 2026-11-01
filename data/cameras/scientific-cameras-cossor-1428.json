@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Scientific cameras胶片相机，1953 年发布",
-  "description": "The Cossor 1428 Oscillograph Camera (about 1953-1961) was a fixed focus camera for recording wave images.",
+  "description": "Scientific cameras于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cossor 1428"
+    "Camera-wiki": "Cossor 1428",
+    "英文简介": "The Cossor 1428 Oscillograph Camera (about 1953-1961) was a fixed focus camera for recording wave images."
   },
   "images": [],
   "sources": [

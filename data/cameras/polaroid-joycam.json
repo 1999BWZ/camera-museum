@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1998 年发布",
-  "description": "The JoyCam is another \"point-and-shoot\" instant camera from Polaroid.",
+  "description": "宝丽来于1998年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid JoyCam"
+    "Camera-wiki": "Polaroid JoyCam",
+    "英文简介": "The JoyCam is another \"point-and-shoot\" instant camera from Polaroid."
   },
   "images": [],
   "sources": [

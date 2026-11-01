@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1973 年发布",
-  "description": "*Type: pocket camera\n*Manufacturer: Minolta\n*Year of release: 1973\n*Films: Type 110 16mm film cartridges\n*Lens: Rokkor 1:3.5/26mm (4 elements), additional close-up (50cm) element combined with viewfinder yellow filter shiftable in front of lens and finder\n*Focusing: shifter on top with one distance ",
+  "description": "美能达于1973年推出的胶片相机。配备Rokkor 1:3.5/26mm (4 elements), additional close-up (50cm) element combined with viewfinder yellow filter shiftable in front of lens and finder。快门速度speed 1/40 sec. in flash mode, or between 10 sec. and 1/330 sec. combined with apertures f3.5 or 8 in CdS-meter controlled mode。shifter on top with one distance symbol scale on top and another scale in the viewfinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Pocket Autopak 70"
+    "Camera-wiki": "Minolta Pocket Autopak 70",
+    "镜头": "Rokkor 1:3.5/26mm (4 elements), additional close-up (50cm) element combined with viewfinder yellow filter shiftable in front of lens and finder",
+    "对焦": "shifter on top with one distance symbol scale on top and another scale in the viewfinder",
+    "快门": "speed 1/40 sec. in flash mode, or between 10 sec. and 1/330 sec. combined with apertures f3.5 or 8 in CdS-meter controlled mode",
+    "闪光灯": "magicubes, indicator for used-up cubes in viewfinder, automatic aperture mode set on when flashcube is connected",
+    "尺寸": "130×58×26mm",
+    "重量": "195 g without film and the strange battery of type No. 538",
+    "英文简介": "*Type: pocket camera\n*Manufacturer: Minolta\n*Year of release: 1973\n*Films: Type 110 16mm film cartridges\n*Lens: Rokkor 1:3.5/26mm (4 elements), additional close-up (50cm) element combined with viewfinder yellow filter shiftable in front of lens and finder\n*Focusing: shifter on top with one distance symbol scale on top and another scale in the viewfinder\n*Shutter: speed 1/40 sec."
   },
   "images": [],
   "sources": [

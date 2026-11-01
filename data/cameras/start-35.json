@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Start取景器相机，1950 年发布",
-  "description": "The Start 35 is a Bakelite viewfinder camera for making 24&times;24mm exposures on 35mm Bolta film rolls.",
+  "description": "Start于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Start 35"
+    "Camera-wiki": "Start 35",
+    "英文简介": "The Start 35 is a Bakelite viewfinder camera for making 24&times;24mm exposures on 35mm Bolta film rolls."
   },
   "images": [],
   "sources": [

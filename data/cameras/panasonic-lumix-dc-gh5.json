@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2016 年发布",
-  "description": "松下于2016年发布的便携相机。",
+  "description": "松下于2016年推出的便携相机。配备Micro Four Thirds system mount。快门速度Focal-plane shutter / Electronic shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q28456857",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "镜头": "Micro Four Thirds system mount",
+    "传感器": "4/3-type",
+    "对焦": "Switchable Auto and Manual",
+    "快门速度": "Focal-plane shutter / Electronic shutter",
+    "取景器": "OLED viewfinder; 3.6M dots",
+    "屏幕": "3.2\", 1.6M Dots, free-angle",
+    "电池": "7.2v 1860 mAh Lithium-ion battery pack",
+    "尺寸": "138.5 x 98.1 x 87.4 mm (5.5 x 3.9 x 3.4\")",
+    "重量": "725 g (1.595 lb) (battery and SD cards inserted)"
   },
   "images": [
     {

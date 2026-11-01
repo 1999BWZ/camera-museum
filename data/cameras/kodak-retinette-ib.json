@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1959 年发布",
-  "description": "{|align=right\n|-\n|\n\n|\n\n|-\n|\n\n|\n\n|}\nThe name Retinette IB is used for two rigid-bodied, 35mm viewfinder cameras in the series of Retinettes made by Kodak AG in Germany.",
+  "description": "柯达于1959年推出的取景器相机。配备Rodenstock Reomar 45mm f/2.8。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retinette Ib"
+    "Camera-wiki": "Kodak Retinette Ib",
+    "镜头": "Rodenstock Reomar 45mm f/2.8",
+    "英文简介": "{|align=right\n|-\n|\n\n|\n\n|-\n|\n\n|\n\n|}\nThe name Retinette IB is used for two rigid-bodied, 35mm viewfinder cameras in the series of Retinettes made by Kodak AG in Germany."
   },
   "images": [],
   "sources": [

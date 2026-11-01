@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1999 年发布",
-  "description": "The Dynax 303si is a autofocus 35mm SLR film camera manufactured by Minolta and introduced in 1999.",
+  "description": "美能达于1999年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 303si"
+    "Camera-wiki": "Minolta Dynax 303si",
+    "英文简介": "The Dynax 303si is a autofocus 35mm SLR film camera manufactured by Minolta and introduced in 1999."
   },
   "images": [],
   "sources": [

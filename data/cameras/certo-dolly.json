@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo折叠相机，1931 年发布",
-  "description": "The Dolly (3x4) is a camera produced by the German company Certo from 1931 to 1937.",
+  "description": "Certo于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dolly (3×4)"
+    "Camera-wiki": "Dolly (3×4)",
+    "英文简介": "The Dolly (3x4) is a camera produced by the German company Certo from 1931 to 1937."
   },
   "images": [],
   "sources": [

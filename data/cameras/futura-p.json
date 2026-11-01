@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Futura旁轴相机，1951 年发布",
-  "description": "The Futura P is a rangefinder camera made by Futura Kamerawerk GmbH in Freiburg, Germany from 1951 to 1956, made for Futura's interchangeable lenses.",
+  "description": "Futura于1951年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Futura P"
+    "Camera-wiki": "Futura P",
+    "英文简介": "The Futura P is a rangefinder camera made by Futura Kamerawerk GmbH in Freiburg, Germany from 1951 to 1956, made for Futura's interchangeable lenses."
   },
   "images": [],
   "sources": [

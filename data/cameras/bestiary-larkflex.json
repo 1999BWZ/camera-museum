@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary胶片相机，1953 年发布",
-  "description": "The Larkflex (ラークフレックス) is a little known Japanese 6×6 TLR, made in 1953–4.",
+  "description": "Bestiary于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Larkflex"
+    "Camera-wiki": "Larkflex",
+    "英文简介": "The Larkflex (ラークフレックス) is a little known Japanese 6×6 TLR, made in 1953–4."
   },
   "images": [],
   "sources": [

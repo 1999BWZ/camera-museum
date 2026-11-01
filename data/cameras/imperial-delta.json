@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Imperial取景器相机，1964 年发布",
-  "description": "The Imperial Delta is a plastic camera made in Chicago by Imperial, c.",
+  "description": "Imperial于1964年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Imperial Delta"
+    "Camera-wiki": "Imperial Delta",
+    "英文简介": "The Imperial Delta is a plastic camera made in Chicago by Imperial, c."
   },
   "images": [],
   "sources": [

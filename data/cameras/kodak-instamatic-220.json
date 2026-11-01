@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1965 年发布",
-  "description": "The Instamatic 220 was one of the highly successful camera series from Kodak made for drop-in 126 film cartridges.",
+  "description": "柯达于1965年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 220"
+    "Camera-wiki": "Kodak Instamatic 220",
+    "英文简介": "The Instamatic 220 was one of the highly successful camera series from Kodak made for drop-in 126 film cartridges."
   },
   "images": [],
   "sources": [

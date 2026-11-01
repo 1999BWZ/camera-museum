@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi折叠相机，1949 年发布",
-  "description": "The Karoron is a self-erecting folding camera for 4.5x6cm exposures on 120 film, made by Kuribayashi for about two years from 1949.",
+  "description": "Kuribayashi于1949年推出的折叠相机。配备coated Orikon Anastigmat 1:3.5/75mm, focusable。使用type No. 120。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Karoron"
+    "Camera-wiki": "Karoron",
+    "胶片/画幅": "type No. 120",
+    "镜头": "coated Orikon Anastigmat 1:3.5/75mm, focusable",
+    "取景器": "optical",
+    "英文简介": "The Karoron is a self-erecting folding camera for 4.5x6cm exposures on 120 film, made by Kuribayashi for about two years from 1949."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2004 年发布",
-  "description": "The Lumix DMC-FZ20 is a digital camera made by Panasonic from 2004.",
+  "description": "松下于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic DMC-FZ20"
+    "Camera-wiki": "Panasonic DMC-FZ20",
+    "英文简介": "The Lumix DMC-FZ20 is a digital camera made by Panasonic from 2004."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Monte取景器相机，1952 年发布",
-  "description": "The Monte 35 (the actual cameras are engraved Monte-35 or MONTE35) was a fine viewfinder camera made by the Japanese camera maker Shinsei Optical Works since 1952.",
+  "description": "Monte于1952年推出的取景器相机。配备Monte Anastigmat 1:3.5/50mm, 4 elements。快门速度leaf-shutter with speeds 1 sec. to 1/200 sec. plus S mode, K mode and K/B-mode。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Monte 35"
+    "Camera-wiki": "Monte 35",
+    "胶片/画幅": "35mm",
+    "镜头": "Monte Anastigmat 1:3.5/50mm, 4 elements",
+    "快门": "leaf-shutter with speeds 1 sec. to 1/200 sec. plus S mode, K mode and K/B-mode",
+    "尺寸": "73 × 123 × 57mm",
+    "重量": "500 g.",
+    "英文简介": "The Monte 35 (the actual cameras are engraved Monte-35 or MONTE35) was a fine viewfinder camera made by the Japanese camera maker Shinsei Optical Works since 1952."
   },
   "images": [],
   "sources": [

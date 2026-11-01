@@ -1,0 +1,40 @@
+{
+  "id": "kodak-easyshare-m575",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "伊士曼柯达公司",
+  "model": "EasyShare M575",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，2010 年发布",
+  "description": "柯达于2010年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889104",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak%20EasyShare%20M575%20front.JPG?width=800",
+      "caption": "EasyShare M575",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889104"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Kodak EasyShare M575",
+      "url": "https://www.wikidata.org/wiki/Q20889104"
+    }
+  ],
+  "qid": "Q20889104",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus取景器相机，1963 年发布",
-  "description": "Note: the Argus Autronic models are different cameras.",
+  "description": "Argus于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus Automatic 35"
+    "Camera-wiki": "Argus Automatic 35",
+    "英文简介": "Note: the Argus Autronic models are different cameras."
   },
   "images": [],
   "sources": [

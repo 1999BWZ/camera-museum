@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1975 年发布",
-  "description": "The Electro 35 GX is a 35mm rangefinder camera produced by Yashica of Japan in 1975.",
+  "description": "雅西卡于1975年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Electro 35 GX"
+    "Camera-wiki": "Yashica Electro 35 GX",
+    "英文简介": "The Electro 35 GX is a 35mm rangefinder camera produced by Yashica of Japan in 1975."
   },
   "images": [],
   "sources": [

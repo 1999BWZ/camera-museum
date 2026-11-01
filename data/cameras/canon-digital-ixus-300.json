@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2001 年发布",
-  "description": "The Canon Digital IXUS 300 is a compact digital camera with zoom lens and optical zoom viewfinder introduced in 2001.",
+  "description": "佳能于2001年推出的数码相机。配备Canon zoom lens 3× 5.4-16.2mm 1:2.7-4.7 with macro mode。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Digital IXUS 300"
+    "Camera-wiki": "Canon Digital IXUS 300",
+    "镜头": "Canon zoom lens 3× 5.4-16.2mm 1:2.7-4.7 with macro mode",
+    "传感器": "1/2,7\" CCD with 2.110.000 pixels",
+    "曝光测光": "1 - 1/1500 sec.",
+    "闪光灯": "built-in",
+    "尺寸": "95×63×30 mm",
+    "重量": "280g (with battery)",
+    "英文简介": "The Canon Digital IXUS 300 is a compact digital camera with zoom lens and optical zoom viewfinder introduced in 2001."
   },
   "images": [],
   "sources": [

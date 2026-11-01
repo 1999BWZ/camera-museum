@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nescon取景器相机，1956 年发布",
-  "description": "The Nescon 35 is a Japanese 35mm viewfinder camera, made in 1956 and 1957.",
+  "description": "Nescon于1956年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nescon 35"
+    "Camera-wiki": "Nescon 35",
+    "英文简介": "The Nescon 35 is a Japanese 35mm viewfinder camera, made in 1956 and 1957."
   },
   "images": [],
   "sources": [

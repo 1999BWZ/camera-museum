@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，2002 年发布",
-  "description": "The Minolta DiMAGE X was the original model in Minolta's series of stylish, flattened digital compact cameras.",
+  "description": "美能达于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta DiMAGE X"
+    "Camera-wiki": "Minolta DiMAGE X",
+    "英文简介": "The Minolta DiMAGE X was the original model in Minolta's series of stylish, flattened digital compact cameras."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1972 年发布",
-  "description": "The Kodak Instamatic 28 took 126 film and is a fixed-focus model without any flash facility.",
+  "description": "柯达于1972年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 28"
+    "Camera-wiki": "Kodak Instamatic 28",
+    "英文简介": "The Kodak Instamatic 28 took 126 film and is a fixed-focus model without any flash facility."
   },
   "images": [],
   "sources": [

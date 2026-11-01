@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1990 年发布",
-  "description": "The Canon T60 is a 35mm SLR camera introduced in 1990The [http://global.canon/en/c-museum/product/film143.html Canon Camera Museum] gives April, 1990 as the introduction date..",
+  "description": "佳能于1990年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon T60"
+    "Camera-wiki": "Canon T60",
+    "英文简介": "The Canon T60 is a 35mm SLR camera introduced in 1990The [http://global.canon/en/c-museum/product/film143.html Canon Camera Museum] gives April, 1990 as the introduction date.."
   },
   "images": [],
   "sources": [

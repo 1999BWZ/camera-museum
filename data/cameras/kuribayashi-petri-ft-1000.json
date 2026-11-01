@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi数码单反相机，1976 年发布",
-  "description": "The FT 1000 (like its sibling the FT 500) is a later 35mm SLR from Petri.",
+  "description": "Kuribayashi于1976年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri FT 1000"
+    "Camera-wiki": "Petri FT 1000",
+    "英文简介": "The FT 1000 (like its sibling the FT 500) is a later 35mm SLR from Petri."
   },
   "images": [],
   "sources": [

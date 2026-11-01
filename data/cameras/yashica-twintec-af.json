@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡便携相机，1991 年发布",
-  "description": "The Yashica Twintec AF also branded by Kyocera in Japan, is a 1991 compact camera with two focal lengths: 33 and 53 mm.",
+  "description": "雅西卡于1991年推出的便携相机。快门速度1/50–1/500 s.。感光度100/200/400 (DX coded films).。Infrared autofocus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Twintec AF"
+    "Camera-wiki": "Yashica Twintec AF",
+    "快门": "1/50–1/500 s.",
+    "对焦": "Infrared autofocus.",
+    "闪光灯": "Built-in.",
+    "感光度": "100/200/400 (DX coded films).",
+    "重量": "48,5 mm x 126,5 mm x 70 mm, 280 g.",
+    "英文简介": "The Yashica Twintec AF also branded by Kyocera in Japan, is a 1991 compact camera with two focal lengths: 33 and 53 mm."
   },
   "images": [],
   "sources": [

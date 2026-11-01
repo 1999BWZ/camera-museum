@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时胶片单反相机，1998 年发布",
-  "description": "The Aria is a manual focus 35mm SLR camera made by Kyocera/Yashica in 1998.",
+  "description": "康泰时于1998年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax Aria"
+    "Camera-wiki": "Contax Aria",
+    "英文简介": "The Aria is a manual focus 35mm SLR camera made by Kyocera/Yashica in 1998."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Iloca立体相机，1955 年发布",
-  "description": "{| class=\"floatright\" \n|colspan=2 |\n|-\n|\n|\n\n|-\n|colspan=2 style=\"text-align: center;\"|Iloca Stereo Rapid images by \n|}\nThe Iloca Stereo Rapid is a 35mm stereo camera made by Iloca from 1955.",
+  "description": "Iloca于1955年推出的立体相机。配备Approx 70mm。使用135 Film; Realist (5p) format producing image sizes 24mm x 23mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Iloca Stereo Rapid"
+    "Camera-wiki": "Iloca Stereo Rapid",
+    "胶片/画幅": "135 Film; Realist (5p) format producing image sizes 24mm x 23mm",
+    "镜头": "Approx 70mm",
+    "尺寸": "188 x 78 x 56 mm - Weight: 805g",
+    "英文简介": "{| class=\"floatright\" \n|colspan=2 |\n|-\n|\n|\n\n|-\n|colspan=2 style=\"text-align: center;\"|Iloca Stereo Rapid images by \n|}\nThe Iloca Stereo Rapid is a 35mm stereo camera made by Iloca from 1955."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1976 年发布",
-  "description": "In 1976, Pentax introduced two compact 35mm SLRs, the MX and the ME.",
+  "description": "宾得于1976年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MX"
+    "Camera-wiki": "Pentax MX",
+    "英文简介": "In 1976, Pentax introduced two compact 35mm SLRs, the MX and the ME."
   },
   "images": [],
   "sources": [

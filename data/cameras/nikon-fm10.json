@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1995 年发布",
-  "description": "尼康于1995年发布的胶片单反相机。",
+  "description": "尼康于1995年推出的胶片单反相机。配备interchangeable lens, Nikon F-mount。快门速度mechanically controlled。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1654201",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "胶片/画幅": "35mm (135)",
+    "镜头": "interchangeable lens, Nikon F-mount",
+    "快门速度": "mechanically controlled",
+    "曝光测光": "silicon photodiode light meter, TTL metering",
+    "取景器": "fixed eye-level pentaprism",
+    "闪光灯": "hot shoe only",
+    "电池": "two S76 or A76, or one 1/3N",
+    "尺寸": "139 x 86 x 53 mm",
+    "重量": "420g"
   },
   "images": [
     {

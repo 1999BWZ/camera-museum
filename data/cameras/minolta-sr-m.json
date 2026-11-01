@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1970 年发布",
-  "description": "The Minolta SR-M is the first 35mm SLR camera with an integral electric motor drive.",
+  "description": "美能达于1970年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-M"
+    "Camera-wiki": "Minolta SR-M",
+    "英文简介": "The Minolta SR-M is the first 35mm SLR camera with an integral electric motor drive."
   },
   "images": [],
   "sources": [

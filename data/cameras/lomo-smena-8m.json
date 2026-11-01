@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO取景器相机，1970 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe LOMO Smena 8m is an entry-level 35mm camera from the 1970s Soviet Union, now mostly regarded as a toy camera.",
+  "description": "LOMO于1970年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Smena 8m"
+    "Camera-wiki": "Smena 8m",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe LOMO Smena 8m is an entry-level 35mm camera from the 1970s Soviet Union, now mostly regarded as a toy camera."
   },
   "images": [],
   "sources": [

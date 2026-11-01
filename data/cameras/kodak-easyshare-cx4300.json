@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，2002 年发布",
-  "description": "The Kodak EasyShare 4300 is a point-and-shoot digital camera giving 3.2megapixel images, made by Kodak.",
+  "description": "柯达于2002年推出的数码相机。配备Retinar, 36mm 35mm equivalent, aperture f/3.5-f/8。快门速度1/8-1/1000 sec.。感光度automatic, 100 or 200。有效像素3.2 megapixels (2080x1544 pixels)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EasyShare CX4300"
+    "Camera-wiki": "Kodak EasyShare CX4300",
+    "传感器": "CCD 3.3 megapixel (2096x1560 pixels)",
+    "像素": "3.2 megapixels (2080x1544 pixels)",
+    "镜头": "Retinar, 36mm 35mm equivalent, aperture f/3.5-f/8",
+    "快门速度": "1/8-1/1000 sec.",
+    "闪光灯": "automatic/fill-in/red-eye/off; range 0.5-3 m (1.6-9.8 ft.)",
+    "感光度": "automatic, 100 or 200",
+    "英文简介": "The Kodak EasyShare 4300 is a point-and-shoot digital camera giving 3.2megapixel images, made by Kodak."
   },
   "images": [],
   "sources": [

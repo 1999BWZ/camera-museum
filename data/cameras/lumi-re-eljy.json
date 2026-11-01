@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lumière微型相机，1937 年发布",
-  "description": "The Eljy range of cameras were manufactured by Lumiere from 1937 to 1960.",
+  "description": "Lumière于1937年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Eljy"
+    "Camera-wiki": "Eljy",
+    "英文简介": "The Eljy range of cameras were manufactured by Lumiere from 1937 to 1960."
   },
   "images": [],
   "sources": [

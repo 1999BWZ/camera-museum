@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Meridian折叠相机，1947 年发布",
-  "description": "The Meridian 45A is a nicely-made, metal press camera from Meridian, circa 1947.",
+  "description": "Meridian于1947年推出的折叠相机。使用4x5。with help of Kalart Synchronized Range Finder or with ground glass,variant with Hugo Meyer rangefinder existed。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Meridian 45A"
+    "Camera-wiki": "Meridian 45A",
+    "胶片/画幅": "4x5",
+    "对焦": "with help of Kalart Synchronized Range Finder or with ground glass,variant with Hugo Meyer rangefinder existed",
+    "英文简介": "The Meridian 45A is a nicely-made, metal press camera from Meridian, circa 1947."
   },
   "images": [],
   "sources": [

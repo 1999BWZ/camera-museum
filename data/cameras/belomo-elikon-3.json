@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1986 年发布",
-  "description": "The Elikon 3 is a 35mm film camera produced by Belomo.",
+  "description": "BelOMO于1986年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Elikon 3"
+    "Camera-wiki": "Elikon 3",
+    "英文简介": "The Elikon 3 is a 35mm film camera produced by Belomo."
   },
   "images": [],
   "sources": [

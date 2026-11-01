@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下取景器相机，1991 年发布",
-  "description": "The Panasonic C-225EF is a camera for the ever-popular 35mm film format.",
+  "description": "松下于1991年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic C-225EF"
+    "Camera-wiki": "Panasonic C-225EF",
+    "英文简介": "The Panasonic C-225EF is a camera for the ever-popular 35mm film format."
   },
   "images": [],
   "sources": [

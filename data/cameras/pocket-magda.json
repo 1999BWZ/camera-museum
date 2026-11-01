@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pocket折叠相机，1920 年发布",
-  "description": "The Pocket Magda is a cheap camera for plates or film-packs, made by Henri-Armand Fauger of Paris in about 1920.",
+  "description": "Pocket于1920年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pocket Magda"
+    "Camera-wiki": "Pocket Magda",
+    "英文简介": "The Pocket Magda is a cheap camera for plates or film-packs, made by Henri-Armand Fauger of Paris in about 1920."
   },
   "images": [],
   "sources": [

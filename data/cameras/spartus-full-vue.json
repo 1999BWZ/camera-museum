@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spartus盒式相机，1948 年发布",
-  "description": "The simple Spartus Full-Vue plastic pseudo TLR was made from 1948 to 1960 by American manufacturer Spartus, later Herold Products.",
+  "description": "Spartus于1948年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Spartus Full-Vue"
+    "Camera-wiki": "Spartus Full-Vue",
+    "英文简介": "The simple Spartus Full-Vue plastic pseudo TLR was made from 1948 to 1960 by American manufacturer Spartus, later Herold Products."
   },
   "images": [],
   "sources": [

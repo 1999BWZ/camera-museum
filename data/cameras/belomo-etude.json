@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1969 年发布",
-  "description": "The etude (or etjud) was Belomo's camera for the very beginner.",
+  "description": "BelOMO于1969年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Etude"
+    "Camera-wiki": "Etude",
+    "英文简介": "The etude (or etjud) was Belomo's camera for the very beginner."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2004 年发布",
-  "description": "尼康于2004年发布的数码单反相机。",
+  "description": "尼康于2004年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electromagnetically controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1324234",
-    "多语言词条数": "16"
+    "多语言词条数": "16",
+    "传感器": "23.7 mm × 15.7 mm CMOS, DX format",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electromagnetically controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL full-aperture exposure metering system",
+    "取景器": "Optical-type fixed eye-level pentaprism",
+    "闪光灯": "n/a",
+    "屏幕": "2.5 in (64 mm), 230,000-d",
+    "存储": "CompactFlash (Type I or Type II)",
+    "电池": "Lithium ion EN-EL4a",
+    "重量": "without batteries, with batteries"
   },
   "images": [
     {

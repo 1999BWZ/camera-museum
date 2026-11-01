@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi取景器相机，1971 年发布",
-  "description": "The Petri Color 35 E is a small 35mm, fully-automatic, viewfinder camera introduced by Petri as a simpler, less expensive version of the Petri Color 35 in 1971.",
+  "description": "Kuribayashi于1971年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Color 35 E"
+    "Camera-wiki": "Petri Color 35 E",
+    "英文简介": "The Petri Color 35 E is a small 35mm, fully-automatic, viewfinder camera introduced by Petri as a simpler, less expensive version of the Petri Color 35 in 1971."
   },
   "images": [],
   "sources": [

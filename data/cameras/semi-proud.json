@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1935 年发布",
-  "description": "For the postwar Semi Proud horizontal folder made by Sumida, see Proud postwar folders.",
+  "description": "Semi于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Proud"
+    "Camera-wiki": "Semi Proud",
+    "英文简介": "For the postwar Semi Proud horizontal folder made by Sumida, see Proud postwar folders."
   },
   "images": [],
   "sources": [

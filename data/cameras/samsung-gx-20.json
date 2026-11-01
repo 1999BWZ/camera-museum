@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星数码相机，2008 年发布",
-  "description": "As was the case with the Samsung GX-10 (which was a near-twin of the Pentax K10D), the GX-20 from Samsung is based on the K20D from Pentax.",
+  "description": "三星于2008年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samsung GX-20"
+    "Camera-wiki": "Samsung GX-20",
+    "英文简介": "As was the case with the Samsung GX-10 (which was a near-twin of the Pentax K10D), the GX-20 from Samsung is based on the K20D from Pentax."
   },
   "images": [],
   "sources": [

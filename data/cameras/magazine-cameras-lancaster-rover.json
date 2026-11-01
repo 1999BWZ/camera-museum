@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Magazine cameras胶片相机，1890 年发布",
-  "description": "The Rover detective camera was made by J.",
+  "description": "Magazine cameras于1890年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lancaster Rover"
+    "Camera-wiki": "Lancaster Rover",
+    "英文简介": "The Rover detective camera was made by J."
   },
   "images": [],
   "sources": [

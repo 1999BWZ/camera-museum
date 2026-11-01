@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon中画幅相机，1951 年发布",
-  "description": "The Laurelflex is a medium format TLR produced by the Japanese company Tōkyō Kōgaku in c.1951.",
+  "description": "Topcon于1951年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Laurelflex"
+    "Camera-wiki": "Laurelflex",
+    "英文简介": "The Laurelflex is a medium format TLR produced by the Japanese company Tōkyō Kōgaku in c.1951."
   },
   "images": [],
   "sources": [

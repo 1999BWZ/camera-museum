@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼胶片相机，1997 年发布",
-  "description": "In 1997 Sony introduced the Sony Mavica MVC-FD5.",
+  "description": "索尼于1997年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD5"
+    "Camera-wiki": "Sony Mavica FD5",
+    "英文简介": "In 1997 Sony introduced the Sony Mavica MVC-FD5."
   },
   "images": [],
   "sources": [

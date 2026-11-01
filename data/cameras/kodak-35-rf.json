@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1940 年发布",
-  "description": "__NOTOC__ \n\n\nA contemporary of the Argus C3 and the Universal Mercury, the Kodak 35 RF astonished users with its ungainly looks, due to the coupling between the rangefinder and the focusing mechanism which was accomplished by a cam and levers located under an external housing.",
+  "description": "柯达于1940年推出的旁轴相机。配备** Kodak Anastigmat Special f3.5 with five speed Kodamatic shutter (1/10 to 1/200 plus T and B) (1940-48)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak 35 RF"
+    "Camera-wiki": "Kodak 35 RF",
+    "镜头": "** Kodak Anastigmat Special f3.5 with five speed Kodamatic shutter (1/10 to 1/200 plus T and B) (1940-48)",
+    "英文简介": "__NOTOC__ \n\n\nA contemporary of the Argus C3 and the Universal Mercury, the Kodak 35 RF astonished users with its ungainly looks, due to the coupling between the rangefinder and the focusing mechanism which was accomplished by a cam and levers located under an external housing."
   },
   "images": [],
   "sources": [

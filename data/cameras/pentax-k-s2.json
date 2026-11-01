@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2015 年发布",
-  "description": "The K-S2 is a DSLR introduced by the Pentax brand of Ricoh Imaging in 2015, following on from the entry-level K-S1.",
+  "description": "宾得于2015年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-S2"
+    "Camera-wiki": "Pentax K-S2",
+    "英文简介": "The K-S2 is a DSLR introduced by the Pentax brand of Ricoh Imaging in 2015, following on from the entry-level K-S1."
   },
   "images": [],
   "sources": [

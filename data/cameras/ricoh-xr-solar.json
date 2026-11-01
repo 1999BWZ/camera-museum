@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1994 年发布",
-  "description": "The XR-Solar should not be confused with the earlier Ricoh XR-S.",
+  "description": "理光于1994年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh XR Solar"
+    "Camera-wiki": "Ricoh XR Solar",
+    "英文简介": "The XR-Solar should not be confused with the earlier Ricoh XR-S."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO取景器相机，1990 年发布",
-  "description": "The Smena 35 (marked \"Смена 35\") is a 35mm camera produced by LOMO in Leningrad (now St.",
+  "description": "LOMO于1990年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Smena 35"
+    "Camera-wiki": "Smena 35",
+    "英文简介": "The Smena 35 (marked \"Смена 35\") is a 35mm camera produced by LOMO in Leningrad (now St."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2004 年发布",
-  "description": "The Olympus μ-mini Digital &mdash; also known as Stylus Verve in some markets &mdash; is a ultra-compact digital camera introduced by Olympus Corporation in 2004.",
+  "description": "奥林巴斯于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus μ-mini Digital"
+    "Camera-wiki": "Olympus μ-mini Digital",
+    "英文简介": "The Olympus μ-mini Digital &mdash; also known as Stylus Verve in some markets &mdash; is a ultra-compact digital camera introduced by Olympus Corporation in 2004."
   },
   "images": [],
   "sources": [

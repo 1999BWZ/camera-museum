@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar取景器相机，1994 年发布",
-  "description": "The Vivitar WZ28 is a circa 1994 (per copyright notice on box) camera for 35mm film.",
+  "description": "Vivitar于1994年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar WZ28"
+    "Camera-wiki": "Vivitar WZ28",
+    "英文简介": "The Vivitar WZ28 is a circa 1994 (per copyright notice on box) camera for 35mm film."
   },
   "images": [],
   "sources": [

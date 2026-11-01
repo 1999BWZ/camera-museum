@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Imperial胶片相机，1975 年发布",
-  "description": "The Imperial Magimatic X50 126 Magicube camera was a simple viewfinder camera introduced in 1975 for Kodapak film cartridges.",
+  "description": "Imperial于1975年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Imperial Magimatic X50"
+    "Camera-wiki": "Imperial Magimatic X50",
+    "英文简介": "The Imperial Magimatic X50 126 Magicube camera was a simple viewfinder camera introduced in 1975 for Kodapak film cartridges."
   },
   "images": [],
   "sources": [

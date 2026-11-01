@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2002 年发布",
-  "description": "尼康于2002年发布的数码单反相机。",
+  "description": "尼康于2002年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1378447",
-    "多语言词条数": "17"
+    "多语言词条数": "17",
+    "传感器": "Nikon DX format23.7 mm × 15.6 mm CCD",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "vertical-travel focal-plane shutter",
+    "曝光测光": "10 segment",
+    "取景器": "95% frame coverage, 0.8× magnification, Optical pentaprism",
+    "屏幕": "1.8-inch (46 mm) 118,000 pixel TFT",
+    "存储": "CompactFlash (Type I or Type II) or Hitachi Microdrive",
+    "重量": "approx. 700 g"
   },
   "images": [
     {

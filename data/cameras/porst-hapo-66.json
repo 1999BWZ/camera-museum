@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Porst折叠相机，1952 年发布",
-  "description": "A 6x6cm viewfinder folding camera, introduced in 1952 and made by Dacora for Hans Porst under the HAPO label.",
+  "description": "Porst于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hapo 66"
+    "Camera-wiki": "Hapo 66",
+    "英文简介": "A 6x6cm viewfinder folding camera, introduced in 1952 and made by Dacora for Hans Porst under the HAPO label."
   },
   "images": [],
   "sources": [

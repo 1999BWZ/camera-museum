@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1984 年发布",
-  "description": "{|class=floatright\n||\n|-\n||\n\n|}\nPentax introduced this manual-focus 35mm SLR in 1984.",
+  "description": "宾得于1984年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax A3"
+    "Camera-wiki": "Pentax A3",
+    "英文简介": "{|class=floatright\n||\n|-\n||\n\n|}\nPentax introduced this manual-focus 35mm SLR in 1984."
   },
   "images": [],
   "sources": [

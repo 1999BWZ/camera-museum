@@ -13,11 +13,23 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，2012 年发布",
-  "description": "尼康于2012年发布的便携相机。",
+  "description": "尼康于2012年推出的便携相机。配备10× optical zoom, 4.5–45mm (135mm film equivalent to 25–250mm)。快门速度| shutter_speeds =。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q7036495",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "镜头": "10× optical zoom, 4.5–45mm (135mm film equivalent to 25–250mm)",
+    "传感器": "1/2.3-in.",
+    "胶片/画幅": "| filmsize =",
+    "对焦": "| fmode =",
+    "曝光测光": "| exbkt =",
+    "闪光灯": "| flashcomp =",
+    "快门速度": "| shutter_speeds =",
+    "取景器": "| ovf =",
+    "屏幕": ", 819k-dot FWVGA (854×480) OLED with touchscreen",
+    "电池": "EN-EL12 Li-ion",
+    "尺寸": "(W × H × D)",
+    "重量": "with battery and SD memory card"
   },
   "images": [],
   "sources": [

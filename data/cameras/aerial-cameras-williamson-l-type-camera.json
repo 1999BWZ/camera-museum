@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aerial cameras胶片相机，1918 年发布",
-  "description": "The Williamson L-type aerial camera is a 4x5-inch plate camera made for the Royal Flying Corps (predecessor of the Royal Air Force) during the First World War.",
+  "description": "Aerial cameras于1918年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Williamson L-type camera"
+    "Camera-wiki": "Williamson L-type camera",
+    "英文简介": "The Williamson L-type aerial camera is a 4x5-inch plate camera made for the Royal Flying Corps (predecessor of the Royal Air Force) during the First World War."
   },
   "images": [],
   "sources": [

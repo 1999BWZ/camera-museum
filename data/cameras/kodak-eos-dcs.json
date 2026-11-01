@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，1995 年发布",
-  "description": "The EOS-DCS series of digital SLR cameras was released by Kodak in 1995.",
+  "description": "柯达于1995年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EOS-DCS"
+    "Camera-wiki": "Kodak EOS-DCS",
+    "英文简介": "The EOS-DCS series of digital SLR cameras was released by Kodak in 1995."
   },
   "images": [],
   "sources": [

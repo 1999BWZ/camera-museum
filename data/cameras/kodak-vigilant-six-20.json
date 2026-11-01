@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达中画幅相机，1939 年发布",
-  "description": "The Kodak Vigilant Six-20 medium format camera was manufactured between 1939-1949 and originally sold for US $38 (about US $560 in 2007).",
+  "description": "柯达于1939年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Vigilant Six-20"
+    "Camera-wiki": "Kodak Vigilant Six-20",
+    "英文简介": "The Kodak Vigilant Six-20 medium format camera was manufactured between 1939-1949 and originally sold for US $38 (about US $560 in 2007)."
   },
   "images": [],
   "sources": [

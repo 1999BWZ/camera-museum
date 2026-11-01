@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1932 年发布",
-  "description": "The old standard model of Rolleiflex was made by Franke & Heidecke in Braunschweig, Germany, from 1932 to 1938.",
+  "description": "禄来于1932年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex old standard model"
+    "Camera-wiki": "Rolleiflex old standard model",
+    "英文简介": "The old standard model of Rolleiflex was made by Franke & Heidecke in Braunschweig, Germany, from 1932 to 1938."
   },
   "images": [],
   "sources": [

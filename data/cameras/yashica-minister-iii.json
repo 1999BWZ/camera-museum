@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1963 年发布",
-  "description": "The Yashica Minister III was introduced in 1963, and like many cameras of the time, the meter's sensor is mounted inside the filter connection ring.",
+  "description": "雅西卡于1963年推出的旁轴相机。配备Yashinon 1:2.8/45mm。快门速度Citizen leaf shutter with speeds from 1 sec. upto 1/500 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Minister III"
+    "Camera-wiki": "Yashica Minister III",
+    "镜头": "Yashinon 1:2.8/45mm",
+    "快门": "Citizen leaf shutter with speeds from 1 sec. upto 1/500 sec.",
+    "曝光测光": "selenium element (circle element around the lens) gives its voltage to a meter upon the camera",
+    "英文简介": "The Yashica Minister III was introduced in 1963, and like many cameras of the time, the meter's sensor is mounted inside the filter connection ring."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1958 年发布",
-  "description": "The Kodak 66 is a self-erecting folding camera with a telescope-type optical viewfinder and a shutter release button on top of the camera body.",
+  "description": "柯达于1958年推出的折叠相机。配备Kodak Anaston 75mm f6.3 or f/4.5. The [http://kodak.3106.net/download/Kodak66.pdf manual] shows an f4.5 lens and five-speed shutter; the photo above shows a three-speed with f6.3 lens.。快门速度Velio five-speed (1/200, 1/100, 1/50, 1/25, 1/10 + B) or three-speed (1/200, 1/75, 1/25 + B).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak 66"
+    "Camera-wiki": "Kodak 66",
+    "镜头": "Kodak Anaston 75mm f6.3 or f/4.5. The [http://kodak.3106.net/download/Kodak66.pdf manual] shows an f4.5 lens and five-speed shutter; the photo above shows a three-speed with f6.3 lens.",
+    "快门": "Velio five-speed (1/200, 1/100, 1/50, 1/25, 1/10 + B) or three-speed (1/200, 1/75, 1/25 + B).",
+    "英文简介": "The Kodak 66 is a self-erecting folding camera with a telescope-type optical viewfinder and a shutter release button on top of the camera body."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Atak盒式相机，1947 年发布",
-  "description": "The Inka is a simple box camera, which looks like a TLR, with the viewfinder served by a 'viewing' lens above the taking one, but is not.",
+  "description": "Atak于1947年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Atak Inka"
+    "Camera-wiki": "Atak Inka",
+    "英文简介": "The Inka is a simple box camera, which looks like a TLR, with the viewfinder served by a 'viewing' lens above the taking one, but is not."
   },
   "images": [],
   "sources": [

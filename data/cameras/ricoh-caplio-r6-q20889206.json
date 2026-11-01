@@ -1,0 +1,40 @@
+{
+  "id": "ricoh-caplio-r6-q20889206",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "Caplio R6",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2007 年发布",
+  "description": "理光于2007年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889206",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricoh%20Caplio%20R6.jpg?width=800",
+      "caption": "Caplio R6",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889206"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Ricoh Caplio R6",
+      "url": "https://www.wikidata.org/wiki/Q20889206"
+    }
+  ],
+  "qid": "Q20889206",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

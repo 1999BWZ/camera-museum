@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "press cameras旁轴相机，1966 年发布",
-  "description": "Built in the mid 1960s, by Marshal Optical Works, of Japan, the Marshal Press was a design direct from the brain of Mr.",
+  "description": "press cameras于1966年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Marshal Press"
+    "Camera-wiki": "Marshal Press",
+    "英文简介": "Built in the mid 1960s, by Marshal Optical Works, of Japan, the Marshal Press was a design direct from the brain of Mr."
   },
   "images": [],
   "sources": [

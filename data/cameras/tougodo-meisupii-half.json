@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo取景器相机，1959 年发布",
-  "description": "This is a pocketable, small and lightweight aluminium half-frame camera, made in the late 1950s by one of the post-War Tōgōdō companies.",
+  "description": "Tougodo于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Meisupii HALF"
+    "Camera-wiki": "Meisupii HALF",
+    "英文简介": "This is a pocketable, small and lightweight aluminium half-frame camera, made in the late 1950s by one of the post-War Tōgōdō companies."
   },
   "images": [],
   "sources": [

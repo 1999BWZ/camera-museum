@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1992 年发布",
-  "description": "The Myport Zoom Wide is a autofocus compact 35mm film camera from Ricoh in 1992.",
+  "description": "理光于1992年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Myport Zoom Wide"
+    "Camera-wiki": "Ricoh Myport Zoom Wide",
+    "英文简介": "The Myport Zoom Wide is a autofocus compact 35mm film camera from Ricoh in 1992."
   },
   "images": [],
   "sources": [

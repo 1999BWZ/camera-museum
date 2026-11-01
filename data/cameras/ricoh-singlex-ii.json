@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码单反相机，1976 年发布",
-  "description": "The Ricoh Singlex II was introduced by Ricoh in 1976 as a cost-competitive model for the US market.",
+  "description": "理光于1976年推出的数码单反相机。快门速度Copal Square metal blade shutter. 1sec - 1/1000sec +B.。使用35mm film, 24x36mm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Singlex II"
+    "Camera-wiki": "Ricoh Singlex II",
+    "胶片/画幅": "35mm film, 24x36mm.",
+    "卡口": "M42 screw-mount",
+    "曝光测光": "CdS with match needle.",
+    "快门": "Copal Square metal blade shutter. 1sec - 1/1000sec +B.",
+    "取景器": "Fixed eye-level pentaprism type. Viewing magnification 0.84X. Field of view covers 92%.",
+    "闪光灯": "X synchronization for electronic flash unit up to 1/125 sec. M synchronization for flash bulbs up to 1/1000 sec.",
+    "电池": "1.35V H-D mercury battery",
+    "尺寸": "149,5 x 95 x 55mm",
+    "重量": "720gr body only",
+    "英文简介": "The Ricoh Singlex II was introduced by Ricoh in 1976 as a cost-competitive model for the US market."
   },
   "images": [],
   "sources": [

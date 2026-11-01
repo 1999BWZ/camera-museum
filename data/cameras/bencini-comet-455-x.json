@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bencini胶片相机，1970 年发布",
-  "description": "The Comet 455-X is a 126 cartridge film camera made in Italy by Bencini, c.1970.",
+  "description": "Bencini于1970年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Comet 455-X"
+    "Camera-wiki": "Comet 455-X",
+    "英文简介": "The Comet 455-X is a 126 cartridge film camera made in Italy by Bencini, c.1970."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dubblefilm玩具相机，2020 年发布",
-  "description": "A simple 35mm fixed focus Point and shoot launched by film manufacturer Dubblefilm in 2020.",
+  "description": "Dubblefilm于2020年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dubblefilm Show"
+    "Camera-wiki": "Dubblefilm Show",
+    "英文简介": "A simple 35mm fixed focus Point and shoot launched by film manufacturer Dubblefilm in 2020."
   },
   "images": [],
   "sources": [

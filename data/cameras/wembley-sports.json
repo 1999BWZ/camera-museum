@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wembley胶片相机，1950 年发布",
-  "description": "The Wembley Sports is a Bakelite camera made in England by Truvox, introduced in 1950.",
+  "description": "Wembley于1950年推出的胶片相机。配备85mm f/11 London Sportar, stopping to f/22; focus 4ft-infinity。快门速度Rondex Rapid, speeds 1/25, 1/50, 1/100 +。使用120。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wembley Sports"
+    "Camera-wiki": "Wembley Sports",
+    "胶片/画幅": "120",
+    "镜头": "85mm f/11 London Sportar, stopping to f/22; focus 4ft-infinity",
+    "快门": "Rondex Rapid, speeds 1/25, 1/50, 1/100 +",
+    "英文简介": "The Wembley Sports is a Bakelite camera made in England by Truvox, introduced in 1950."
   },
   "images": [],
   "sources": [

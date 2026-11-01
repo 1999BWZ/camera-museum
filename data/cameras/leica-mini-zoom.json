@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1993 年发布",
-  "description": "The Leica Mini Zoom is a 35mm compact rangefinder point-and-shoot camera produced in the mid 1990s.",
+  "description": "徕卡于1993年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica Mini Zoom"
+    "Camera-wiki": "Leica Mini Zoom",
+    "英文简介": "The Leica Mini Zoom is a 35mm compact rangefinder point-and-shoot camera produced in the mid 1990s."
   },
   "images": [],
   "sources": [

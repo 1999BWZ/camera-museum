@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2013 年发布",
-  "description": "佳能于2013年发布的数码单反相机。",
+  "description": "佳能于2013年推出的数码单反相机。配备Interchangeable。快门速度Electromechanical carbon fiber focal-plane shutter. Selectable electronic 1st curtain shutter.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q63374",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "|sensor_type = CMOS",
+    "镜头": "Interchangeable",
+    "取景器": "Fixed eye-level pentaprism",
+    "存储": "Dual CompactFlash (Type I or Type II)",
+    "快门速度": "Electromechanical carbon fiber focal-plane shutter. Selectable electronic 1st curtain shutter.",
+    "曝光测光": "100,000 pixel RGB sensor, 0–20 EV, 252-zones",
+    "屏幕": "3.2 inch 1,040,000-dot LCD",
+    "重量": "(with battery)",
+    "电池": "LP-E4N lithium-ion battery pack"
   },
   "images": [
     {

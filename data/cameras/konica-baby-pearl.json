@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1934 年发布",
-  "description": "The Baby Pearl is a Japanese 3×4 folding camera, made from 1934 to 1950 by Konishiroku (predecessor of Konica).",
+  "description": "柯尼卡于1934年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Pearl"
+    "Camera-wiki": "Baby Pearl",
+    "尺寸": "100×70×30mm",
+    "英文简介": "The Baby Pearl is a Japanese 3×4 folding camera, made from 1934 to 1950 by Konishiroku (predecessor of Konica)."
   },
   "images": [],
   "sources": [

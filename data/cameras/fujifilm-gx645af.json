@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士中画幅相机，2003 年发布",
-  "description": "The Fujifilm GX645AF is a autofocus medium format camera introduced in 2003 by Fujifilm.",
+  "description": "富士于2003年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm GX645AF"
+    "Camera-wiki": "Fujifilm GX645AF",
+    "英文简介": "The Fujifilm GX645AF is a autofocus medium format camera introduced in 2003 by Fujifilm."
   },
   "images": [],
   "sources": [

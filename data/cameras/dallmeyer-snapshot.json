@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dallmeyer折叠相机，1929 年发布",
-  "description": "The Dallmeyer Snapshot Camera is a strut-folding camera taking 2¼×3¼\" (6×9 cm) exposures.",
+  "description": "Dallmeyer于1929年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dallmeyer Snapshot"
+    "Camera-wiki": "Dallmeyer Snapshot",
+    "英文简介": "The Dallmeyer Snapshot Camera is a strut-folding camera taking 2¼×3¼\" (6×9 cm) exposures."
   },
   "images": [],
   "sources": [

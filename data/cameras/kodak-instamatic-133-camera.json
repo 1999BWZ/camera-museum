@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1968 年发布",
-  "description": "The Kodak Instamatic 133 is a 126 cartridge film camera introduced by Kodak in 1968, one of a long line of Instamatics.",
+  "description": "柯达于1968年推出的便携相机。配备1:11/43mm fixed-focus。快门速度1/80 sec. (sunlight), 1/40 sec. (dim light or flash)。使用126 cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 133 Camera"
+    "Camera-wiki": "Kodak Instamatic 133 Camera",
+    "快门速度": "1/80 sec. (sunlight), 1/40 sec. (dim light or flash)",
+    "镜头": "1:11/43mm fixed-focus",
+    "胶片/画幅": "126 cartridge",
+    "英文简介": "The Kodak Instamatic 133 is a 126 cartridge film camera introduced by Kodak in 1968, one of a long line of Instamatics."
   },
   "images": [],
   "sources": [

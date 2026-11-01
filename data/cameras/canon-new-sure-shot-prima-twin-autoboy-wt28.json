@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1990 年发布",
-  "description": "The Canon Prima Twin (or New Sureshot in America or Autoboy WT28 in Japan) is a 1990 bifocal compact autofocus camera.",
+  "description": "佳能于1990年推出的便携相机。感光度ISO 50 – 1600 (with DX code).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon New Sure Shot/Prima Twin/Autoboy WT28"
+    "Camera-wiki": "Canon New Sure Shot/Prima Twin/Autoboy WT28",
+    "曝光测光": "EV 9.5 (f/4 at 1/45) – EV 17 (f/22 at 1/250) (wide); EV 11 (f/6.5 at 1/45) - EV 17 (f/27 at 1/180)",
+    "取景器": "Variable-magnification albada viewfinder. 0.34x - 0.58x magnification and 84% coverage.",
+    "感光度": "ISO 50 – 1600 (with DX code).",
+    "闪光灯": "Guide no. 9.",
+    "重量": "142 x 77 x 60 mm, 360 g (with battery).",
+    "尺寸": "142 x 77 x 60 mm",
+    "英文简介": "The Canon Prima Twin (or New Sureshot in America or Autoboy WT28 in Japan) is a 1990 bifocal compact autofocus camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，1993 年发布",
-  "description": "The VC-1000 was introduced by Olympus in 1993, replacing their analog still-video VC-100 with a true digital camera.",
+  "description": "奥林巴斯于1993年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Deltis VC-1000"
+    "Camera-wiki": "Olympus Deltis VC-1000",
+    "英文简介": "The VC-1000 was introduced by Olympus in 1993, replacing their analog still-video VC-100 with a true digital camera."
   },
   "images": [],
   "sources": [

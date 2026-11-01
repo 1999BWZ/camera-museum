@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lumière取景器相机，1953 年发布",
-  "description": "The Lumiclub is a 6×6cm camera made by the French maker Lumière.",
+  "description": "Lumière于1953年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lumiclub and Lumière 6×6"
+    "Camera-wiki": "Lumiclub and Lumière 6×6",
+    "英文简介": "The Lumiclub is a 6×6cm camera made by the French maker Lumière."
   },
   "images": [],
   "sources": [

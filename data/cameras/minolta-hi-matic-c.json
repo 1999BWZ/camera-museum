@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1970 年发布",
-  "description": "The Minolta Hi-Matic C is a small viewfinder camera for 35mm film.",
+  "description": "美能达于1970年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic C"
+    "Camera-wiki": "Minolta Hi-Matic C",
+    "英文简介": "The Minolta Hi-Matic C is a small viewfinder camera for 35mm film."
   },
   "images": [],
   "sources": [

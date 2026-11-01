@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arette旁轴相机，1957 年发布",
-  "description": "The Arette 1DN, was made by Apparate & Kamerabau in 1958, and was one of the Arette series.",
+  "description": "Arette于1957年推出的旁轴相机。配备50 mm. f/2.8 Isconar (assumed to be a triplet) stopping down to f/16.。快门速度Prontor SVS five-blade leaf shutter. B, 1, 1/2nd, 1/4th, 1/8th, 1/15th, 1/30th, 1/60th, 1/125th and 1/300th. The shutter can be set at M or X synch.。感光度6 - 6400 ASA.。Coupled rangefinder with manual lever on lens barrel.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Arette 1Dn"
+    "Camera-wiki": "Arette 1Dn",
+    "取景器": "A split image rangefinder. No bright line or parallax markings. Image about 2/3rds of natural size.",
+    "对焦": "Coupled rangefinder with manual lever on lens barrel.",
+    "镜头": "50 mm. f/2.8 Isconar (assumed to be a triplet) stopping down to f/16.",
+    "快门": "Prontor SVS five-blade leaf shutter. B, 1, 1/2nd, 1/4th, 1/8th, 1/15th, 1/30th, 1/60th, 1/125th and 1/300th. The shutter can be set at M or X synch.",
+    "曝光测光": "Manual.",
+    "感光度": "6 - 6400 ASA.",
+    "闪光灯": "Cold shoe and PC terminal. M and X sync.",
+    "英文简介": "The Arette 1DN, was made by Apparate & Kamerabau in 1958, and was one of the Arette series."
   },
   "images": [],
   "sources": [

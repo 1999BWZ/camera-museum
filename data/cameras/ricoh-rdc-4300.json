@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，1998 年发布",
-  "description": "The Ricoh RDC-4300 was introduced by Ricoh in 1998.",
+  "description": "理光于1998年推出的数码相机。配备f5.6-16.8mm(35-105mm on 35mm format)。快门速度Mechanical, 1-1/500。感光度Approx. 40-80。Auto(TTL CCD AF)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RDC-4300"
+    "Camera-wiki": "Ricoh RDC-4300",
+    "镜头": "f5.6-16.8mm(35-105mm on 35mm format)",
+    "变焦": "3x Optical",
+    "快门": "Mechanical, 1-1/500",
+    "对焦": "Auto(TTL CCD AF)",
+    "感光度": "Approx. 40-80",
+    "尺寸": "136.5 x 64 x 34mm/5.4 x 2.5 x 1.3in.",
+    "重量": "285g (10.05oz.)",
+    "英文简介": "The Ricoh RDC-4300 was introduced by Ricoh in 1998."
   },
   "images": [],
   "sources": [

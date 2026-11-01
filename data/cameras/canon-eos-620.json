@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1987 年发布",
-  "description": "The EOS 620 is a 35mm auto focus SLR camera introduced by Canon in 1987.",
+  "description": "佳能于1987年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 620"
+    "Camera-wiki": "Canon EOS 620",
+    "英文简介": "The EOS 620 is a 35mm auto focus SLR camera introduced by Canon in 1987."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1971 年发布",
-  "description": "尼康于1971年发布的胶片单反相机。",
+  "description": "尼康于1971年推出的胶片单反相机。配备Nikon F-mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q788315",
-    "多语言词条数": "12"
+    "多语言词条数": "12",
+    "胶片/画幅": "35 mm",
+    "镜头": "Nikon F-mount",
+    "对焦": "manual",
+    "曝光测光": "manual",
+    "闪光灯": "non-ISO hot shoe plus PC socket",
+    "电池": "2x 1.5V SR44/S76 button cells (for light meter)",
+    "尺寸": "152.5 × 65 × 102 mm",
+    "重量": "840 g without lens"
   },
   "images": [
     {

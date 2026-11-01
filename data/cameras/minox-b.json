@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1958 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Minox Model B was introduced in 1958, and approximately 384,327 were manufactured over the next 14 years.",
+  "description": "Minox于1958年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox B"
+    "Camera-wiki": "Minox B",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Minox Model B was introduced in 1958, and approximately 384,327 were manufactured over the next 14 years."
   },
   "images": [],
   "sources": [

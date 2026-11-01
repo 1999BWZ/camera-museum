@@ -1,0 +1,40 @@
+{
+  "id": "polaroid-model-95",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "宝丽来",
+  "model": "model 95",
+  "year": 1948,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1948 年发布",
+  "description": "宝丽来于1948年发布的一次成像相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q60040552",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vintage%20Polaroid%20Land%20Model%2095%20Instant%20Camera%20In%20Case%2C%20The%20First%20Polaroid%20Model%2C%20Made%20In%20USA%2C%20Circa%201948%20-%201953%20%2835884494665%29.jpg?width=800",
+      "caption": "model 95",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q60040552"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Polaroid model 95",
+      "url": "https://www.wikidata.org/wiki/Q60040552"
+    }
+  ],
+  "qid": "Q60040552",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

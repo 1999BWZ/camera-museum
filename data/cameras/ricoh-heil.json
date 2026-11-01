@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光折叠相机，1941 年发布",
-  "description": "See also the Heil Four, a possible name variant of the Olympic Four II.",
+  "description": "理光于1941年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Heil"
+    "Camera-wiki": "Heil",
+    "英文简介": "See also the Heil Four, a possible name variant of the Olympic Four II."
   },
   "images": [],
   "sources": [

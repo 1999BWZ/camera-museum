@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1928 年发布",
-  "description": "The Agfa Billy I Luxus:\n*Year of manufacture From 1928 to 1930.",
+  "description": "爱克发于1928年推出的折叠相机。快门速度B, 25, 50 & 100.。使用Agfa Film B 2. 120.。2 – 5 m.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Billy I Luxus"
+    "Camera-wiki": "Agfa Billy I Luxus",
+    "快门速度": "B, 25, 50 & 100.",
+    "对焦": "2 – 5 m.",
+    "尺寸": "6×9cm.",
+    "胶片/画幅": "Agfa Film B 2. 120.",
+    "英文简介": "The Agfa Billy I Luxus:\n*Year of manufacture From 1928 to 1930."
   },
   "images": [],
   "sources": [

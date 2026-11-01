@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来取景器相机，1979 年发布",
-  "description": "The name Rolleimat was also used by Rollei on an enlarger.",
+  "description": "禄来于1979年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleimat"
+    "Camera-wiki": "Rolleimat",
+    "尺寸": "135 x 54.5 x 77 mm",
+    "重量": "380 grams",
+    "英文简介": "The name Rolleimat was also used by Rollei on an enlarger."
   },
   "images": [],
   "sources": [

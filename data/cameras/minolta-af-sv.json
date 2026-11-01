@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1984 年发布",
-  "description": "The Minolta AF-Sv is an autofocus viewfinder camera, made in 1984 by Minolta.",
+  "description": "美能达于1984年推出的便携相机。配备35 mm f/2,8 (4 elements/3 groups). 40,5 mm filter thread.。使用Automatic advance and rewind.。Active autofocus, 0,85 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta AF-Sv"
+    "Camera-wiki": "Minolta AF-Sv",
+    "镜头": "35 mm f/2,8 (4 elements/3 groups). 40,5 mm filter thread.",
+    "对焦": "Active autofocus, 0,85 m to infinity.",
+    "胶片/画幅": "Automatic advance and rewind.",
+    "尺寸": "123x73,5x54,5 mm.",
+    "重量": "315 g.",
+    "英文简介": "The Minolta AF-Sv is an autofocus viewfinder camera, made in 1984 by Minolta."
   },
   "images": [],
   "sources": [

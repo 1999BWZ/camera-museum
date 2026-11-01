@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Eho-Altissa盒式相机，1951 年发布",
-  "description": "The Altissa Box of 1951 is one of Eho-Altissa's characteristic line of box cameras.",
+  "description": "Eho-Altissa于1951年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Altissa Box"
+    "Camera-wiki": "Altissa Box",
+    "英文简介": "The Altissa Box of 1951 is one of Eho-Altissa's characteristic line of box cameras."
   },
   "images": [],
   "sources": [

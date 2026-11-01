@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康取景器相机，1968 年发布",
-  "description": "The Nikonos II is the successor to the original Calypso underwater camera, licensed to Nikon and re-introduced as the Nikonos.",
+  "description": "尼康于1968年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikonos II"
+    "Camera-wiki": "Nikonos II",
+    "英文简介": "The Nikonos II is the successor to the original Calypso underwater camera, licensed to Nikon and re-introduced as the Nikonos."
   },
   "images": [],
   "sources": [

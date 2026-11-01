@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1997 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Olympus µ[mju:]-II (US: ∞ Stylus Epic) is an award-winning 35mm compact camera issued by Olympus in 1997.",
+  "description": "奥林巴斯于1997年推出的便携相机。配备35mm, f/2.8, focusing from 0.35m-infinity. (4 elements in 4 groups).。使用35mm DX-coded film, ISO 50-3200.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus mju II"
+    "Camera-wiki": "Olympus mju II",
+    "镜头": "35mm, f/2.8, focusing from 0.35m-infinity. (4 elements in 4 groups).",
+    "胶片/画幅": "35mm DX-coded film, ISO 50-3200.",
+    "闪光灯": "Auto, red-eye reduction, suppressed, forced/fill-in, night scene (slow synch up to 4 seconds).",
+    "尺寸": "108x59x35mm.",
+    "重量": "135g (without battery).",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Olympus µ[mju:]-II (US: ∞ Stylus Epic) is an award-winning 35mm compact camera issued by Olympus in 1997."
   },
   "images": [],
   "sources": [

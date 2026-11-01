@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon取景器相机，1960 年发布",
-  "description": "In 1960, Zeiss Ikon Stuttgart reused the Tenax name on a small viewfinder camera named Tenax Automatic.",
+  "description": "Zeiss Ikon于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tenax Automatic"
+    "Camera-wiki": "Tenax Automatic",
+    "英文简介": "In 1960, Zeiss Ikon Stuttgart reused the Tenax name on a small viewfinder camera named Tenax Automatic."
   },
   "images": [],
   "sources": [

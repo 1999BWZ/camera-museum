@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Exakta胶片单反相机，1962 年发布",
-  "description": "The Exa-1 is a 35mm film SLR camera, manufactured by Ihagee Kamerawerk Steenbergen & Co, Dresden, former East Germany and produced between 1962-64.",
+  "description": "Exakta于1962年推出的胶片单反相机。配备by a lever on the left side of the lens mount。快门速度Mirror acts like a curtain as a part of the shutter, vertical moving, due to this maximum speed is limited; speeds: 1/30-1/175 +B。ground glass screen,。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exa 1"
+    "Camera-wiki": "Exa 1",
+    "镜头": "by a lever on the left side of the lens mount",
+    "对焦": "ground glass screen,",
+    "快门": "Mirror acts like a curtain as a part of the shutter, vertical moving, due to this maximum speed is limited; speeds: 1/30-1/175 +B",
+    "取景器": "Waist level finder, w/ a magnifier, interchangeable with Exakta SLR pentaprism finders",
+    "闪光灯": "sync marks engraved on the top plate, near the speed setting ring, bulb and electronic flash icons for X and M",
+    "卡口": "Exakta bayonet mount, interchangeable with Exakta Varex lenses",
+    "光圈": "f/2.9-f/16",
+    "英文简介": "The Exa-1 is a 35mm film SLR camera, manufactured by Ihagee Kamerawerk Steenbergen & Co, Dresden, former East Germany and produced between 1962-64."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡双镜头反光相机，1958 年发布",
-  "description": "__NOTOC__\nThe Yashica 44, 44A, and 44LM are a series of small twin-lens reflex cameras, designed to give 12 exposures of 4x4 cm on 127 rollfilm.",
+  "description": "雅西卡于1958年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica-44"
+    "Camera-wiki": "Yashica-44",
+    "英文简介": "__NOTOC__\nThe Yashica 44, 44A, and 44LM are a series of small twin-lens reflex cameras, designed to give 12 exposures of 4x4 cm on 127 rollfilm."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fowell取景器相机，1950 年发布",
-  "description": "The Cinefilm 35A is a copy of the Spartus 35, made by the Madrid company Manufacturas de Física Aplicada Fowell about 1950-55.",
+  "description": "Fowell于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fowell Cinefilm 35A"
+    "Camera-wiki": "Fowell Cinefilm 35A",
+    "英文简介": "The Cinefilm 35A is a copy of the Spartus 35, made by the Madrid company Manufacturas de Física Aplicada Fowell about 1950-55."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lumière胶片相机，1956 年发布",
-  "description": "A TLR, made by Lumière, with taking lens Lumière Spector 1:4,5 F=80, and viewing lens Lumière 1:3,5 F=80.",
+  "description": "Lumière于1956年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lumireflex"
+    "Camera-wiki": "Lumireflex",
+    "英文简介": "A TLR, made by Lumière, with taking lens Lumière Spector 1:4,5 F=80, and viewing lens Lumière 1:3,5 F=80."
   },
   "images": [],
   "sources": [

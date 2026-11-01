@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography一次成像相机，2022 年发布",
-  "description": "The Lomo'Instant Square Glass is an instant camera made by Lomography, originally for photos on Instax Square film; but they have also made an alternate back for the camera, allowing it to use Instax Mini film.",
+  "description": "Lomography于2022年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomo'Instant Square Glass"
+    "Camera-wiki": "Lomo'Instant Square Glass",
+    "英文简介": "The Lomo'Instant Square Glass is an instant camera made by Lomography, originally for photos on Instax Square film; but they have also made an alternate back for the camera, allowing it to use Instax Mini film."
   },
   "images": [],
   "sources": [

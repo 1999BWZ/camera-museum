@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cambo胶片相机，1948 年发布",
-  "description": "The Supertechna is a monorail camera produced by the Dutch company Technica Hengelo (the later Cambo) from c.1948 onward.",
+  "description": "Cambo于1948年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Supertechna"
+    "Camera-wiki": "Supertechna",
+    "英文简介": "The Supertechna is a monorail camera produced by the Dutch company Technica Hengelo (the later Cambo) from c.1948 onward."
   },
   "images": [],
   "sources": [

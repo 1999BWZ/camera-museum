@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Scout盒式相机，1933 年发布",
-  "description": "Lumière's Scoutbox is a typical box camera for type No.",
+  "description": "Scout于1933年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lumière Scoutbox"
+    "Camera-wiki": "Lumière Scoutbox",
+    "英文简介": "Lumière's Scoutbox is a typical box camera for type No."
   },
   "images": [],
   "sources": [

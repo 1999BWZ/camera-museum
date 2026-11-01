@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2005 年发布",
-  "description": "The Panasonic DMC-LX1 released from Matsushita is an 8 megapixel digital compact camera.",
+  "description": "松下于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic DMC-LX1"
+    "Camera-wiki": "Panasonic DMC-LX1",
+    "英文简介": "The Panasonic DMC-LX1 released from Matsushita is an 8 megapixel digital compact camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1960 年发布",
-  "description": "The Konica FR (コニカFR) is a prototype 35mm rangefinder camera made by Konishiroku in 1960–61.",
+  "description": "柯尼卡于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica FR"
+    "Camera-wiki": "Konica FR",
+    "尺寸": "155×87×36mm",
+    "英文简介": "The Konica FR (コニカFR) is a prototype 35mm rangefinder camera made by Konishiroku in 1960–61."
   },
   "images": [],
   "sources": [

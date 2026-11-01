@@ -13,11 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，2008 年发布",
-  "description": "宾得于2008年发布的数码单反相机。",
+  "description": "宾得于2008年推出的数码单反相机。配备Interchangeable Pentax KAF2 mount compatible with Pentax auto-aperture lenses; older lenses supported in stop-down metering mode.。快门速度1/4000 s – 30 s, Bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1192599",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "传感器": "CMOS active pixel sensor with a primary color filter",
+    "镜头": "Interchangeable Pentax KAF2 mount compatible with Pentax auto-aperture lenses; older lenses supported in stop-down metering mode.",
+    "快门速度": "1/4000 s – 30 s, Bulb",
+    "曝光测光": "TTL open-aperture metering with choice of: 16-segment, center-weighted & spot meter",
+    "屏幕": "2.7″, 230,000 pixels",
+    "电池": "Rechargeable D-LI50 Lithium-ion battery, Optional AC adapter",
+    "重量": "without battery, with battery"
   },
   "images": [
     {

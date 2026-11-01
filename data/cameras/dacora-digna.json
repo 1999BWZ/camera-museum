@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dacora取景器相机，1954 年发布",
-  "description": "The Digna is a rollfilm camera for 120 film made by Dacora, with a pop-out lens tube.",
+  "description": "Dacora于1954年推出的取景器相机。使用type 120 film rolls。turnable front lens element。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dacora Digna"
+    "Camera-wiki": "Dacora Digna",
+    "胶片/画幅": "type 120 film rolls",
+    "对焦": "turnable front lens element",
+    "英文简介": "The Digna is a rollfilm camera for 120 film made by Dacora, with a pop-out lens tube."
   },
   "images": [],
   "sources": [

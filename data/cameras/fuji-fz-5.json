@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1989 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n\n|}\nA fixed-focus compact camera from Fuji, the FZ-5 was introduced in 1989 after being exhibited at Photokina the previous year.",
+  "description": "Fuji于1989年推出的取景器相机。配备35mm, f/9.5 Fujinon, with fixed focus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji FZ-5"
+    "Camera-wiki": "Fuji FZ-5",
+    "镜头": "35mm, f/9.5 Fujinon, with fixed focus.",
+    "尺寸": "130×74×44mm",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n\n|}\nA fixed-focus compact camera from Fuji, the FZ-5 was introduced in 1989 after being exhibited at Photokina the previous year."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1993 年发布",
-  "description": "The Trip AF 10 Auto Flash is a compact 35mm film camera introduced by Olympus in 1993.",
+  "description": "奥林巴斯于1993年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip 10"
+    "Camera-wiki": "Olympus Trip 10",
+    "英文简介": "The Trip AF 10 Auto Flash is a compact 35mm film camera introduced by Olympus in 1993."
   },
   "images": [],
   "sources": [

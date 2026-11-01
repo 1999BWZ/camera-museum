@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1987 年发布",
-  "description": "The AF-100 is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1987.",
+  "description": "理光于1987年推出的便携相机。配备Rikenon LensThe operation manual and the official website both state it uses a Rikenon lens, whilst the camera bears Ricoh Lens name on its lens cover. 35mm f/3.5, 4 elements in 3 groups。快门速度Programmed, 1/30 ~ 1/500 sec.。感光度ISO 100 ~ 1000 by DX-code system。Single-point active autofocusing system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh AF-100"
+    "Camera-wiki": "Ricoh AF-100",
+    "镜头": "Rikenon LensThe operation manual and the official website both state it uses a Rikenon lens, whilst the camera bears Ricoh Lens name on its lens cover. 35mm f/3.5, 4 elements in 3 groups",
+    "对焦": "Single-point active autofocusing system",
+    "快门": "Programmed, 1/30 ~ 1/500 sec.",
+    "取景器": "Albada type, bright-frame, 0.47X, field of view 84%",
+    "感光度": "ISO 100 ~ 1000 by DX-code system",
+    "闪光灯": "G.N. 10 (ISO 100, m), Flashmatic, Automatic pop-up",
+    "尺寸": "123 mm X 66 mm X 46 mm",
+    "重量": "250 g (without batteries)",
+    "英文简介": "The AF-100 is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1987."
   },
   "images": [],
   "sources": [

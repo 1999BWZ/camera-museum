@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲胶片单反相机，1926 年发布",
-  "description": "The Graflex Series C was an SLR produced by Folmer & Schwing from 1926–1935.",
+  "description": "格拉菲于1926年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Graflex Series C"
+    "Camera-wiki": "Graflex Series C",
+    "英文简介": "The Graflex Series C was an SLR produced by Folmer & Schwing from 1926–1935."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kodak折叠相机，1930 年发布",
-  "description": "The Vollenda was a line of viewfinder folding camera models made by Nagel, later Kodak AG.",
+  "description": "Kodak于1930年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vollenda 70"
+    "Camera-wiki": "Vollenda 70",
+    "英文简介": "The Vollenda was a line of viewfinder folding camera models made by Nagel, later Kodak AG."
   },
   "images": [],
   "sources": [

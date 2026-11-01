@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bolsey胶片相机，1935 年发布",
-  "description": "The Bolcarette is an experimental prototype camera designed by Jaques Bolsey (Bogopolsky) in about 1935.",
+  "description": "Bolsey于1935年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bolcarette"
+    "Camera-wiki": "Bolcarette",
+    "英文简介": "The Bolcarette is an experimental prototype camera designed by Jaques Bolsey (Bogopolsky) in about 1935."
   },
   "images": [],
   "sources": [

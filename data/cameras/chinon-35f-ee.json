@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon取景器相机，1978 年发布",
-  "description": "The 35F-EE is the scale-focusing version of Chinon's model 35F-A (which has autofocus).",
+  "description": "Chinon于1978年推出的取景器相机。配备CHINONEX COLOR 38mm/F2.8。快门速度1 / 60 to 1 / 250 seconds with mechanical self-timer。使用26x24mm frames on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon 35F-EE"
+    "Camera-wiki": "Chinon 35F-EE",
+    "胶片/画幅": "26x24mm frames on 35mm film",
+    "镜头": "CHINONEX COLOR 38mm/F2.8",
+    "尺寸": "129 × 75 × 51mm",
+    "快门速度": "1 / 60 to 1 / 250 seconds with mechanical self-timer",
+    "重量": "c. 350g",
+    "电池": "2 AA for flash, HC-(MR44) mercury cell for meter.",
+    "英文简介": "The 35F-EE is the scale-focusing version of Chinon's model 35F-A (which has autofocus)."
   },
   "images": [],
   "sources": [

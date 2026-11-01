@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi折叠相机，1934 年发布",
-  "description": "The Romax is a Japanese 6.5×9cm plate folder, about which little is known, and whose mere existence is dubious.",
+  "description": "Kuribayashi于1934年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Romax plate folder"
+    "Camera-wiki": "Romax plate folder",
+    "英文简介": "The Romax is a Japanese 6.5×9cm plate folder, about which little is known, and whose mere existence is dubious."
   },
   "images": [],
   "sources": [

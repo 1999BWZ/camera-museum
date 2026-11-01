@@ -1,0 +1,32 @@
+{
+  "id": "olympus-camedia-c-1-zoom",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "CAMEDIA C-1 Zoom",
+  "year": 2001,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，2001 年发布",
+  "description": "奥林巴斯于2001年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q137714166",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus CAMEDIA C-1 Zoom",
+      "url": "https://www.wikidata.org/wiki/Q137714166"
+    }
+  ],
+  "qid": "Q137714166",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

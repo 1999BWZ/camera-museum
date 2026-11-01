@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1957 年发布",
-  "description": "The Golden Steky and Golden Ricoh 16 are 16mm film cameras made in Japan by Ricoh from 1957.",
+  "description": "理光于1957年推出的胶片相机。配备Interchangeable lens (2 models)。快门速度Speeds 1/50, 1/200, 1/500 sec + B。使用16mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Golden Steky and Ricoh 16"
+    "Camera-wiki": "Golden Steky and Ricoh 16",
+    "胶片/画幅": "16mm",
+    "镜头": "Interchangeable lens (2 models)",
+    "快门": "Speeds 1/50, 1/200, 1/500 sec + B",
+    "尺寸": "75mm × 41mm × 28mm",
+    "重量": "180 g",
+    "英文简介": "The Golden Steky and Golden Ricoh 16 are 16mm film cameras made in Japan by Ricoh from 1957."
   },
   "images": [],
   "sources": [

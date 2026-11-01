@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kochmann折叠相机，1931 年发布",
-  "description": "&nbsp;&nbsp;&nbsp;\n\n\nThe Korelle 3&times;4 camera is a little strut-folding camera made in about 1931 by Kochmann of Dresden, for 3&times;4cm exposures on 127 film.",
+  "description": "Kochmann于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Korelle (3x4)"
+    "Camera-wiki": "Korelle (3x4)",
+    "英文简介": "&nbsp;&nbsp;&nbsp;\n\n\nThe Korelle 3&times;4 camera is a little strut-folding camera made in about 1931 by Kochmann of Dresden, for 3&times;4cm exposures on 127 film."
   },
   "images": [],
   "sources": [

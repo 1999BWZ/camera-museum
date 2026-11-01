@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda折叠相机，1933 年发布",
-  "description": "The Spring-Box or Spring Box is a 127 film camera made by Balda c.1933.",
+  "description": "Balda于1933年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Spring-Box"
+    "Camera-wiki": "Spring-Box",
+    "英文简介": "The Spring-Box or Spring Box is a 127 film camera made by Balda c.1933."
   },
   "images": [],
   "sources": [

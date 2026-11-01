@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign盒式相机，1923 年发布",
-  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "description": "Ensign于1923年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Box Ensign 2¼ B"
+    "Camera-wiki": "Box Ensign 2¼ B",
+    "英文简介": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!"
   },
   "images": [],
   "sources": [

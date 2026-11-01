@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leonar折叠相机，1914 年发布",
-  "description": "The Leonar Model C III, also called Propaganda Leonar 6x9 is folding plate camera, format 6x9 cm, produced by the German company Leonar-Werke Arndt & Löwengard in Wandsbek near Hamburg c.1914.",
+  "description": "Leonar于1914年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leonar Model C III"
+    "Camera-wiki": "Leonar Model C III",
+    "英文简介": "The Leonar Model C III, also called Propaganda Leonar 6x9 is folding plate camera, format 6x9 cm, produced by the German company Leonar-Werke Arndt & Löwengard in Wandsbek near Hamburg c.1914."
   },
   "images": [],
   "sources": [

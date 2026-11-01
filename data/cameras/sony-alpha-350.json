@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2008 年发布",
-  "description": "索尼于2008年发布的数码单反相机。",
+  "description": "索尼于2008年推出的数码单反相机。配备interchangeable, Sony α / Konica Minolta A mount。快门速度electronically controlled, vertical-traverse, focal-plane Shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1193055",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "23,5 mm × 15,7 mm, 14.2 effective megapixels CCD",
+    "镜头": "interchangeable, Sony α / Konica Minolta A mount",
+    "快门速度": "electronically controlled, vertical-traverse, focal-plane Shutter",
+    "曝光测光": "40-segment honeycomb-pattern",
+    "取景器": "Fixed eye-level penta-Dach-mirror, 0.95 Field of View, Diopter Adjustment -3.0 to + 1.0",
+    "闪光灯": "Manual Pop-up: Auto, Fill-flash, Slow sync., Rear flash sync, Wireless off camera flash",
+    "屏幕": "230k pixel 2.7-inch TFT LCD",
+    "存储": "CompactFlash I/II, Memory Stick PRO Duo (with adapter), Microdrive",
+    "电池": "7.2 V, 1650 mAh (Sony NP-FM500H)",
+    "重量": "without battery and memorycard, with lens, battery and card."
   },
   "images": [
     {

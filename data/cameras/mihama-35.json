@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mihama旁轴相机，1955 年发布",
-  "description": "The Mihama 35 is a series of 35mm coupled rangefinder camera made by Mihama (Suruga).",
+  "description": "Mihama于1955年推出的旁轴相机。配备C.KEPLER 45mm F3.5, Coated, unit focusing。快门速度NKS MX B 1-1/300 with self timer leafshutter. (item 3415) says NKS FB B 1-1/300 with self timer.。使用24 x 36 mm on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mihama 35"
+    "Camera-wiki": "Mihama 35",
+    "胶片/画幅": "24 x 36 mm on 35mm film",
+    "镜头": "C.KEPLER 45mm F3.5, Coated, unit focusing",
+    "快门": "NKS MX B 1-1/300 with self timer leafshutter. (item 3415) says NKS FB B 1-1/300 with self timer.",
+    "闪光灯": "Socket on left side. X and M synchronisation",
+    "尺寸": "130 x 85 x 69 mmThe Mihama 35-A was measured by the author, and the Wacoh A was measured by the owner's handle: Harimaya-ichizo. There may be errors in the values due to different measurers.",
+    "重量": "700 grams",
+    "英文简介": "The Mihama 35 is a series of 35mm coupled rangefinder camera made by Mihama (Suruga)."
   },
   "images": [],
   "sources": [

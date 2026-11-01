@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1996 年发布",
-  "description": "Canon introduced their first IXUS camera along with the introduction of APS film in 1996.",
+  "description": "佳能于1996年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "IXUS APS cameras"
+    "Camera-wiki": "IXUS APS cameras",
+    "英文简介": "Canon introduced their first IXUS camera along with the introduction of APS film in 1996."
   },
   "images": [],
   "sources": [

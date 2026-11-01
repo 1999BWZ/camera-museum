@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1990 年发布",
-  "description": "The X-9 is a 35mm SLR camera from Minolta and introduced in 1990.",
+  "description": "美能达于1990年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta X-9"
+    "Camera-wiki": "Minolta X-9",
+    "英文简介": "The X-9 is a 35mm SLR camera from Minolta and introduced in 1990."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1985 年发布",
-  "description": "The Flash S2 is a compact 35mm film camera by Fuji.",
+  "description": "Fuji于1985年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji Flash S2"
+    "Camera-wiki": "Fuji Flash S2",
+    "英文简介": "The Flash S2 is a compact 35mm film camera by Fuji."
   },
   "images": [],
   "sources": [

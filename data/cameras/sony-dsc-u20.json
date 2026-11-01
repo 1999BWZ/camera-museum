@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2002 年发布",
-  "description": "The Cyber-shot U DSC-U20 is a digital ultra compact camera announced by Sony in 2002.",
+  "description": "索尼于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-U20"
+    "Camera-wiki": "Sony DSC-U20",
+    "英文简介": "The Cyber-shot U DSC-U20 is a digital ultra compact camera announced by Sony in 2002."
   },
   "images": [
     {

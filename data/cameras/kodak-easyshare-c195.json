@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，2010 年发布",
-  "description": "The EasyShare C195 is a digital camera released by Kodak in 2010.",
+  "description": "柯达于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EasyShare C195"
+    "Camera-wiki": "Kodak EasyShare C195",
+    "英文简介": "The EasyShare C195 is a digital camera released by Kodak in 2010."
   },
   "images": [],
   "sources": [

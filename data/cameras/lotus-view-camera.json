@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lotus大画幅相机，1997 年发布",
-  "description": "Lotus View Camera is a camera maker in Ostermiething, Austria.",
+  "description": "Lotus于1997年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lotus View Camera"
+    "Camera-wiki": "Lotus View Camera",
+    "英文简介": "Lotus View Camera is a camera maker in Ostermiething, Austria."
   },
   "images": [],
   "sources": [

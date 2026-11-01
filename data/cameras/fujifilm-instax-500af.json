@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士一次成像相机，1999 年发布",
-  "description": "The Instax 500AF is a Fujifilm instant cameras that use Instax wide film.",
+  "description": "富士于1999年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Instax 500AF"
+    "Camera-wiki": "Fujifilm Instax 500AF",
+    "英文简介": "The Instax 500AF is a Fujifilm instant cameras that use Instax wide film."
   },
   "images": [],
   "sources": [

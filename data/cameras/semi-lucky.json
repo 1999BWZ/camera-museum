@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1937 年发布",
-  "description": "The Semi Lucky (セミラッキー) is a series of Japanese 4.5×6 folders, made by Fujimoto from 1937.",
+  "description": "Semi于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Lucky"
+    "Camera-wiki": "Semi Lucky",
+    "英文简介": "The Semi Lucky (セミラッキー) is a series of Japanese 4.5×6 folders, made by Fujimoto from 1937."
   },
   "images": [],
   "sources": [

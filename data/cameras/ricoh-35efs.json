@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1980 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe 35EF and 35EFS are simple scale focusing viewfinder cameras from Ricoh, circa 1980.",
+  "description": "理光于1980年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 35EFS"
+    "Camera-wiki": "Ricoh 35EFS",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe 35EF and 35EFS are simple scale focusing viewfinder cameras from Ricoh, circa 1980."
   },
   "images": [],
   "sources": [

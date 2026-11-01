@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "FED胶片相机，1934 年发布",
-  "description": "The FED was introduced in 1934 by the socialist factory of the Dzerzhinsky Commune in Kharkov, Ukraine, then a part of the USSR.",
+  "description": "FED于1934年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "FED NKVD"
+    "Camera-wiki": "FED NKVD",
+    "英文简介": "The FED was introduced in 1934 by the socialist factory of the Dzerzhinsky Commune in Kharkov, Ukraine, then a part of the USSR."
   },
   "images": [],
   "sources": [

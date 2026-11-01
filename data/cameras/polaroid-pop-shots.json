@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次性相机，1999 年发布",
-  "description": "The Pop Shots is a disposable Polaroid camera; it came pre-loaded with 10 exposures of Captiva (500) film, and an envelope in which to post the used camera off for recycling.",
+  "description": "宝丽来于1999年推出的一次性相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Pop Shots"
+    "Camera-wiki": "Polaroid Pop Shots",
+    "英文简介": "The Pop Shots is a disposable Polaroid camera; it came pre-loaded with 10 exposures of Captiva (500) film, and an envelope in which to post the used camera off for recycling."
   },
   "images": [],
   "sources": [

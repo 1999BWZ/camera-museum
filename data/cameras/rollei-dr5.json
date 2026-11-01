@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来数码相机，2005 年发布",
-  "description": "The Rollei dr5 is a compact digital camera introduced by Rollei in 2005.",
+  "description": "禄来于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei dr5"
+    "Camera-wiki": "Rollei dr5",
+    "英文简介": "The Rollei dr5 is a compact digital camera introduced by Rollei in 2005."
   },
   "images": [],
   "sources": [

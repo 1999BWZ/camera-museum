@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco盒式相机，1926 年发布",
-  "description": "The Ansco Memo is an American 35mm camera introduced in c1926-27There is some argument about this; see [http://www.vintagephoto.tv/anscomemo.shtml Scott's Photographica Memo page], using Ansco's own cassette system (35mm cassettes would not be standardised until 1934).",
+  "description": "Ansco于1926年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Memo"
+    "Camera-wiki": "Ansco Memo",
+    "英文简介": "The Ansco Memo is an American 35mm camera introduced in c1926-27There is some argument about this; see [http://www.vintagephoto.tv/anscomemo.shtml Scott's Photographica Memo page], using Ansco's own cassette system (35mm cassettes would not be standardised until 1934)."
   },
   "images": [],
   "sources": [

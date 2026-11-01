@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1994 年发布",
-  "description": "The Nikon Zoom 700 VR, also known as the Zoom•Touch 105 VR 35mm compact camera was introduced by Nikon in 1994 - part of a series of similar cameras.",
+  "description": "尼康于1994年推出的便携相机。配备Nikon Zoom Lens 38-105mm f/4-7.8 Macro。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Zoom 700 VR/Zoom-Touch 105 VR"
+    "Camera-wiki": "Nikon Zoom 700 VR/Zoom-Touch 105 VR",
+    "镜头": "Nikon Zoom Lens 38-105mm f/4-7.8 Macro",
+    "电池": "Two 3V CR123A (or DL123) lithium battery",
+    "英文简介": "The Nikon Zoom 700 VR, also known as the Zoom•Touch 105 VR 35mm compact camera was introduced by Nikon in 1994 - part of a series of similar cameras."
   },
   "images": [],
   "sources": [

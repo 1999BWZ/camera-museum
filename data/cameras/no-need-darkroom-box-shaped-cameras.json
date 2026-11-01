@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "No-need-darkroom盒式相机，1930 年发布",
-  "description": "The Tougo cameras (トウゴーカメラ or トーゴーカメラ) In the original documents observed so far, the name \"Tougo camera\" is written in katakana script: either トウゴーカメラ (Tougō kamera) or トーゴーカメラ (Tōgō kamera), whereas the company name is written 東郷堂 in kanji script.",
+  "description": "No-need-darkroom于1930年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tougodo box-shaped cameras"
+    "Camera-wiki": "Tougodo box-shaped cameras",
+    "英文简介": "The Tougo cameras (トウゴーカメラ or トーゴーカメラ) In the original documents observed so far, the name \"Tougo camera\" is written in katakana script: either トウゴーカメラ (Tougō kamera) or トーゴーカメラ (Tōgō kamera), whereas the company name is written 東郷堂 in kanji script."
   },
   "images": [],
   "sources": [

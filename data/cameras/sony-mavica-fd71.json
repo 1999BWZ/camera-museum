@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，1998 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe MVC-FD71 was part of the second generation of digital Mavica cameras, introduced by Sony in 1998 alongside the Mavica FD81 and FD91.",
+  "description": "索尼于1998年推出的数码相机。配备40-400 (35mm equivalent, 10x zoom), f1.8-2.9。快门速度1/60s - 1/4000s。感光度100。有效像素640 x 480 Pixels (0.3 megapixels, VGA)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD71"
+    "Camera-wiki": "Sony Mavica FD71",
+    "像素": "640 x 480 Pixels (0.3 megapixels, VGA)",
+    "传感器": "¼-inch CCD",
+    "镜头": "40-400 (35mm equivalent, 10x zoom), f1.8-2.9",
+    "快门": "1/60s - 1/4000s",
+    "感光度": "100",
+    "自拍": "10s",
+    "尺寸": "5.4 x 4.1 x 2.4 inches",
+    "重量": "17.6oz",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe MVC-FD71 was part of the second generation of digital Mavica cameras, introduced by Sony in 1998 alongside the Mavica FD81 and FD91."
   },
   "images": [],
   "sources": [

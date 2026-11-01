@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚中画幅相机，1982 年发布",
-  "description": "The Mamiya RZ67 is a series of medium format system cameras primarily designed for using 120/220 film.",
+  "description": "玛米亚于1982年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya RZ67"
+    "Camera-wiki": "Mamiya RZ67",
+    "英文简介": "The Mamiya RZ67 is a series of medium format system cameras primarily designed for using 120/220 film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kigawa折叠相机，1952 年发布",
-  "description": "The Carl Six or Carl-6 The camera itself is engraved Carl-6 but the advertisements are labelled \"Carl Six\".",
+  "description": "Kigawa于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Carl Six"
+    "Camera-wiki": "Carl Six",
+    "英文简介": "The Carl Six or Carl-6 The camera itself is engraved Carl-6 but the advertisements are labelled \"Carl Six\"."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1995 年发布",
-  "description": "The Kodak Star EF is a 35mm viewfinder camera.",
+  "description": "柯达于1995年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star EF"
+    "Camera-wiki": "Kodak Star EF",
+    "英文简介": "The Kodak Star EF is a 35mm viewfinder camera."
   },
   "images": [],
   "sources": [

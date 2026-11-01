@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kershaw-Soho折叠相机，1946 年发布",
-  "description": "The Kershaw Eight-20 Penguin is one of the simpler cameras by Kershaw-Soho.",
+  "description": "Kershaw-Soho于1946年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kershaw Eight-20 Penguin"
+    "Camera-wiki": "Kershaw Eight-20 Penguin",
+    "英文简介": "The Kershaw Eight-20 Penguin is one of the simpler cameras by Kershaw-Soho."
   },
   "images": [],
   "sources": [

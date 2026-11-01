@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1997 年发布",
-  "description": "The OM2000 was the last OM series 35mm camera released by Olympus, in 1997.",
+  "description": "奥林巴斯于1997年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus OM2000"
+    "Camera-wiki": "Olympus OM2000",
+    "英文简介": "The OM2000 was the last OM series 35mm camera released by Olympus, in 1997."
   },
   "images": [],
   "sources": [

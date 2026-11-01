@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Agilux胶片相机，1954 年发布",
-  "description": "===specifications===\n*Type: Viewfinder camera\n*Manufacturer: Agilux Croydon, England\n*Year of launch: 1954\n*In production: 1954 - 1958\n*Film: type 127 film rolls\n*Lens: Agilux\n*Weight: 454 g\n*Dimensions: 8.5&times;16&times;7 cm",
+  "description": "Agilux于1954年推出的胶片相机。配备Agilux。使用type 127 film rolls。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agiflash"
+    "Camera-wiki": "Agiflash",
+    "胶片/画幅": "type 127 film rolls",
+    "镜头": "Agilux",
+    "重量": "454 g",
+    "尺寸": "8.5×16×7 cm",
+    "英文简介": "===specifications===\n*Type: Viewfinder camera\n*Manufacturer: Agilux Croydon, England\n*Year of launch: 1954\n*In production: 1954 - 1958\n*Film: type 127 film rolls\n*Lens: Agilux\n*Weight: 454 g\n*Dimensions: 8.5&times;16&times;7 cm"
   },
   "images": [],
   "sources": [

@@ -1,0 +1,40 @@
+{
+  "id": "leica-d-lux-5-q20889114",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "D-Lux 5",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2010 年发布",
+  "description": "徕卡于2010年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889114",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20D-Lux%205%20%28%20Fine%20Photography%20Camera%20Evolution%20Passion%20%29%20%285372762049%29.jpg?width=800",
+      "caption": "D-Lux 5",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889114"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica D-Lux 5",
+      "url": "https://www.wikidata.org/wiki/Q20889114"
+    }
+  ],
+  "qid": "Q20889114",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

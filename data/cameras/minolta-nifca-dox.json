@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达折叠相机，1930 年发布",
-  "description": "The Nifca-Dox (ニフカドックス) is a Japanese strut folding camera taking 6.5×9cm film plates or pack film.",
+  "description": "美能达于1930年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nifca-Dox"
+    "Camera-wiki": "Nifca-Dox",
+    "英文简介": "The Nifca-Dox (ニフカドックス) is a Japanese strut folding camera taking 6.5×9cm film plates or pack film."
   },
   "images": [],
   "sources": [

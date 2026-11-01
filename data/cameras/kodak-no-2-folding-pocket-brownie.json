@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1909 年发布",
-  "description": "The No 2 Folding Pocket Brownie is a folding camera made by Kodak in Rochester, NY, USA, from c.",
+  "description": "柯达于1909年推出的折叠相机。配备4½\" meniscus achromatic with iris diaphragm scaled 1, 2, 3。快门速度Brownie Automatic, five-blade, speeds T, B, I。使用6x9cm (2¼\" x 3¼\") exposures on 120 roll-film。3 set positions: 100, 20, 8 feet.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak No. 2 Folding Pocket Brownie"
+    "Camera-wiki": "Kodak No. 2 Folding Pocket Brownie",
+    "镜头": "4½\" meniscus achromatic with iris diaphragm scaled 1, 2, 3",
+    "对焦": "3 set positions: 100, 20, 8 feet.",
+    "快门": "Brownie Automatic, five-blade, speeds T, B, I",
+    "胶片/画幅": "6x9cm (2¼\" x 3¼\") exposures on 120 roll-film",
+    "英文简介": "The No 2 Folding Pocket Brownie is a folding camera made by Kodak in Rochester, NY, USA, from c."
   },
   "images": [],
   "sources": [

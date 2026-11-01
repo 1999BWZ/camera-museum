@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2002 年发布",
-  "description": "The Lumix DMC-LC40 is a digital camera from Japanese company Panasonic release in 2002.",
+  "description": "松下于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic DMC-LC40"
+    "Camera-wiki": "Panasonic DMC-LC40",
+    "英文简介": "The Lumix DMC-LC40 is a digital camera from Japanese company Panasonic release in 2002."
   },
   "images": [],
   "sources": [

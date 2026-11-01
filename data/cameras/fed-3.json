@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "FED旁轴相机，1961 年发布",
-  "description": "The FED 3 is a Ukrainian rangefinder camera inspired by classic Leicas.",
+  "description": "FED于1961年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "FED 3"
+    "Camera-wiki": "FED 3",
+    "英文简介": "The FED 3 is a Ukrainian rangefinder camera inspired by classic Leicas."
   },
   "images": [],
   "sources": [

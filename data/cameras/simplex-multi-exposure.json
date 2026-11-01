@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Simplex取景器相机，1914 年发布",
-  "description": "The Simplex is an early camera for 35 mm film, made by the Multi-Speed Shutter Company, a maker of shutters and cine projectors in New York.",
+  "description": "Simplex于1914年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Simplex Multi-Exposure"
+    "Camera-wiki": "Simplex Multi-Exposure",
+    "英文简介": "The Simplex is an early camera for 35 mm film, made by the Multi-Speed Shutter Company, a maker of shutters and cine projectors in New York."
   },
   "images": [],
   "sources": [

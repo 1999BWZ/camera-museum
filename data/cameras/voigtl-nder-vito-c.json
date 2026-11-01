@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1960 年发布",
-  "description": "{| class=\"floatright\"\n|-\n| width=\"240px\" | [https://www.flickr.com/photos/alf_sigaro/8552439038/in/pool-camerawiki/ https://live.staticflickr.com/65535/8552439038_e311abc105_m.jpg]\n| width=\"240px\" | [https://www.flickr.com/photos/heritagefutures/4084556369/in/pool-camerawiki/ https://farm3.staticfli",
+  "description": "Voigtländer于1960年推出的取景器相机。配备Color Skopar 50mm f/2.8 or Lanthar 50/2.8(front element focusing system)。使用135 (perforated 35mm) for 24x36mm images。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito C"
+    "Camera-wiki": "Vito C",
+    "胶片/画幅": "135 (perforated 35mm) for 24x36mm images",
+    "镜头": "Color Skopar 50mm f/2.8 or Lanthar 50/2.8(front element focusing system)",
+    "取景器": "Optical-viewfinder with framelines",
+    "尺寸": "125 × 75 × 83mm ; weight 645g (CL)",
+    "英文简介": "{| class=\"floatright\"\n|-\n| width=\"240px\" | [https://www.flickr.com/photos/alf_sigaro/8552439038/in/pool-camerawiki/ https://live.staticflickr.com/65535/8552439038_e311abc105_m.jpg]\n| width=\"240px\" | [https://www.flickr.com/photos/heritagefutures/4084556369/in/pool-camerawiki/ https://farm3.staticflickr.com/2598/4084556369_8597f1f679_m.jpg]\n|-\n|| Vito C image by V\n|| Vito CD image by \n|-\n| width=\"2"
   },
   "images": [],
   "sources": [

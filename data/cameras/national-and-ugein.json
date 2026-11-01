@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "National折叠相机，1937 年发布",
-  "description": "See also the National (4×6.5) folder.",
+  "description": "National于1937年推出的折叠相机。快门速度, 6×6: );。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "National and Ugein"
+    "Camera-wiki": "National and Ugein",
+    "快门": ", 6×6: );",
+    "英文简介": "See also the National (4×6.5) folder."
   },
   "images": [],
   "sources": [

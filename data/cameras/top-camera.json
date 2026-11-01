@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Top微型相机，1965 年发布",
-  "description": "See also the Top taking 20mm film, evolution of the Guzzi.",
+  "description": "Top于1965年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Top Camera"
+    "Camera-wiki": "Top Camera",
+    "英文简介": "See also the Top taking 20mm film, evolution of the Guzzi."
   },
   "images": [],
   "sources": [

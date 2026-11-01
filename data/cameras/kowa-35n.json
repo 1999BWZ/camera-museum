@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa取景器相机，1960 年发布",
-  "description": "The Kowa 35N is a Japanese 35mm viewfinder camera, made by Kowa c.1960.",
+  "description": "Kowa于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kowa 35N"
+    "Camera-wiki": "Kowa 35N",
+    "英文简介": "The Kowa 35N is a Japanese 35mm viewfinder camera, made by Kowa c.1960."
   },
   "images": [],
   "sources": [

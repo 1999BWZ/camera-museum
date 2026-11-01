@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vesterflex,胶片相机，1953 年发布",
-  "description": "The Vesterflex is a Japanese 6×6 pseudo TLR, made in 1953–4 by Ginrei.",
+  "description": "Vesterflex,于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vesterflex, Topflex and Honestflex"
+    "Camera-wiki": "Vesterflex, Topflex and Honestflex",
+    "英文简介": "The Vesterflex is a Japanese 6×6 pseudo TLR, made in 1953–4 by Ginrei."
   },
   "images": [],
   "sources": [

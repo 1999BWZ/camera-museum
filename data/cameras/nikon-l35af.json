@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1983 年发布",
-  "description": "The L35AF was Nikon's first compact camera with autofocus.",
+  "description": "尼康于1983年推出的便携相机。配备35mm f/2.8 with autofocus from 0.8m to infinity. It had 5 elements in 4 groups. 46mm filter thread.。感光度early version ASA/ISO 50-400; later version ASA/ISO 50-1000.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon L35AF"
+    "Camera-wiki": "Nikon L35AF",
+    "镜头": "35mm f/2.8 with autofocus from 0.8m to infinity. It had 5 elements in 4 groups. 46mm filter thread.",
+    "曝光测光": "Fully automatic, range EV 6 (f/2.8 at 1/8 sec.) to EV 17 (f/17.5 at 1/430 sec.) with ASA/ISO 100 film",
+    "感光度": "early version ASA/ISO 50-400; later version ASA/ISO 50-1000.",
+    "英文简介": "The L35AF was Nikon's first compact camera with autofocus."
   },
   "images": [],
   "sources": [

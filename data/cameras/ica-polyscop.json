@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA立体相机，1908 年发布",
-  "description": "Polyscop cameras are a series of stereo plate cameras made in the 1910s into the early 1920s.",
+  "description": "ICA于1908年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polyscop"
+    "Camera-wiki": "Polyscop",
+    "英文简介": "Polyscop cameras are a series of stereo plate cameras made in the 1910s into the early 1920s."
   },
   "images": [],
   "sources": [

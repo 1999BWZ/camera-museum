@@ -1,0 +1,40 @@
+{
+  "id": "nikon-keymission-360",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "KeyMission 360",
+  "year": 2016,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，2016 年发布",
+  "description": "尼康于2016年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q56314324",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20KeyMission%20360%20front-left%202016%20China%20P%26E.jpg?width=800",
+      "caption": "KeyMission 360",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q56314324"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon KeyMission 360",
+      "url": "https://www.wikidata.org/wiki/Q56314324"
+    }
+  ],
+  "qid": "Q56314324",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

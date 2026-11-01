@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Imperial盒式相机，1948 年发布",
-  "description": "When boy scouts were discovered as a market for cameras, several camera makers offered \"Scout\" models.",
+  "description": "Imperial于1948年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Official Girl Scout"
+    "Camera-wiki": "Official Girl Scout",
+    "英文简介": "When boy scouts were discovered as a market for cameras, several camera makers offered \"Scout\" models."
   },
   "images": [],
   "sources": [

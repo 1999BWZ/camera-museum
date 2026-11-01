@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1976 年发布",
-  "description": "The Konica Autoreflex TC was introduced in 1976 and manufactured until 1982.",
+  "description": "柯尼卡于1976年推出的胶片单反相机。快门速度1/8-1/1000 sec. plus \"B\"。使用135 (35mm)。感光度25-1600。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Autoreflex TC"
+    "Camera-wiki": "Konica Autoreflex TC",
+    "胶片/画幅": "135 (35mm)",
+    "快门": "metal focal plane shutter",
+    "快门速度": "1/8-1/1000 sec. plus \"B\"",
+    "感光度": "25-1600",
+    "曝光测光": "Aperture priority, manual",
+    "电池": "(2) 1.35V mercury oxide batteries (type PX625)",
+    "重量": "510g (without lens)",
+    "尺寸": "- 3.5 inches x 5.5 inches x 2 inches",
+    "英文简介": "The Konica Autoreflex TC was introduced in 1976 and manufactured until 1982."
   },
   "images": [],
   "sources": [

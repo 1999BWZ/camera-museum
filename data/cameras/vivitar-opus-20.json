@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片相机，1993 年发布",
-  "description": "The Vivitar Opus 20 is a later example of a mainstream 110 film camera (not counting 2010s-era novelties such as the Diana Baby 110).",
+  "description": "Vivitar于1993年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar Opus 20"
+    "Camera-wiki": "Vivitar Opus 20",
+    "英文简介": "The Vivitar Opus 20 is a later example of a mainstream 110 film camera (not counting 2010s-era novelties such as the Diana Baby 110)."
   },
   "images": [],
   "sources": [

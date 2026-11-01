@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2004 年发布",
-  "description": "The Fuji FinePix S5100 Zoom is a digital camera announced by Fujifilm in 2004.",
+  "description": "富士于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix S5100 Zoom"
+    "Camera-wiki": "Fujifilm FinePix S5100 Zoom",
+    "英文简介": "The Fuji FinePix S5100 Zoom is a digital camera announced by Fujifilm in 2004."
   },
   "images": [],
   "sources": [

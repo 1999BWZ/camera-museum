@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，2007 年发布",
-  "description": "The Kodak EasyShare Z885 might be called an avantgarde consumer compact digital.",
+  "description": "柯达于2007年推出的数码相机。配备KODAK AF 5× Optical Aspherical Lens f2.8 to f5.1, focus range like a 36-180mm zoom lens for 35mm film。TTL-autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EasyShare Z885"
+    "Camera-wiki": "Kodak EasyShare Z885",
+    "传感器": "8.1 megapixels CCD, light sensitivity up to ISO 3200 at max. resolution 3275×2459 pixels, upto ISO 8000 at lower resolutions",
+    "镜头": "KODAK AF 5× Optical Aspherical Lens f2.8 to f5.1, focus range like a 36-180mm zoom lens for 35mm film",
+    "曝光测光": "multi-zone, center-weighted, or spot TTL-AE metering",
+    "对焦": "TTL-autofocus",
+    "尺寸": "9×6×3cm",
+    "重量": "161g without two AA rechargeables.",
+    "英文简介": "The Kodak EasyShare Z885 might be called an avantgarde consumer compact digital."
   },
   "images": [],
   "sources": [

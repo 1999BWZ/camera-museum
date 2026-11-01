@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1992 年发布",
-  "description": "The Nikon AW35 (also known as Sport•Touch) was a compact camera for 35mm film, made in Japan and introduced by Nikon in 1992.",
+  "description": "尼康于1992年推出的便携相机。配备fixed-focus (3 feet to infinity) 35mm f/3.5。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon AW35/Sport•Touch (QD)"
+    "Camera-wiki": "Nikon AW35/Sport•Touch (QD)",
+    "镜头": "fixed-focus (3 feet to infinity) 35mm f/3.5",
+    "英文简介": "The Nikon AW35 (also known as Sport•Touch) was a compact camera for 35mm film, made in Japan and introduced by Nikon in 1992."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1989 年发布",
-  "description": "The S-30 is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1989.",
+  "description": "理光于1989年推出的便携相机。配备Ricoh Lens 35mm f/3.9, 3 elements in 3 groups。快门速度mechanical, 1/125 sec. (fixed speed)。感光度ISO 100 - 400 (DX-code system)The DX-code system on the S-30 is only capable of detecting ISO 400 films. All the other films are rated as an ISO 100 film., ISO 1000 (manual)。Single-point active autofocusing system, 3 focusing zones。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh S-30"
+    "Camera-wiki": "Ricoh S-30",
+    "镜头": "Ricoh Lens 35mm f/3.9, 3 elements in 3 groups",
+    "对焦": "Single-point active autofocusing system, 3 focusing zones",
+    "快门": "mechanical, 1/125 sec. (fixed speed)",
+    "取景器": "Reverse Galilean type, 0.53X, field of view 84%",
+    "曝光测光": "F8 (ISO 100 / 200), F16 (ISO 400), F22 (ISO 1000)",
+    "感光度": "ISO 100 - 400 (DX-code system)The DX-code system on the S-30 is only capable of detecting ISO 400 films. All the other films are rated as an ISO 100 film., ISO 1000 (manual)",
+    "闪光灯": "activates by sliding flash switch, F4 (ISO 100 / 200), F8 (ISO 400), F11 (ISO 1000)",
+    "尺寸": "132 mm X 68 mm X 53 mm",
+    "重量": "230 g (without battery)",
+    "英文简介": "The S-30 is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1989."
   },
   "images": [],
   "sources": [

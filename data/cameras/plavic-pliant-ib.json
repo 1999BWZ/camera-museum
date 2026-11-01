@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Plavic折叠相机，1928 年发布",
-  "description": "__NOTOC__\n\nThe Plavic Pliant IB is a re badged Hemax 6x9 folding bed rollfilm camera with single extension bellows.",
+  "description": "Plavic于1928年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Plavic Pliant IB"
+    "Camera-wiki": "Plavic Pliant IB",
+    "英文简介": "__NOTOC__\n\nThe Plavic Pliant IB is a re badged Hemax 6x9 folding bed rollfilm camera with single extension bellows."
   },
   "images": [],
   "sources": [

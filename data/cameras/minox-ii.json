@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1948 年发布",
-  "description": "Minox Model II was released in 1948.",
+  "description": "Minox于1948年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox II"
+    "Camera-wiki": "Minox II",
+    "英文简介": "Minox Model II was released in 1948."
   },
   "images": [],
   "sources": [

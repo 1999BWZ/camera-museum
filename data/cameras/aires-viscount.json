@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aires旁轴相机，1959 年发布",
-  "description": "=== General information ===\n\nThe Aires Viscount is a leaf-shutter 35mm rangefinder camera made by Aires in 1959.",
+  "description": "Aires于1959年推出的旁轴相机。快门速度Available values are: B, 1, 2, 4, 8, 15, 30, 60, 125, 250 and 500.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Aires Viscount"
+    "Camera-wiki": "Aires Viscount",
+    "快门": "Available values are: B, 1, 2, 4, 8, 15, 30, 60, 125, 250 and 500.",
+    "英文简介": "=== General information ===\n\nThe Aires Viscount is a leaf-shutter 35mm rangefinder camera made by Aires in 1959."
   },
   "images": [],
   "sources": [

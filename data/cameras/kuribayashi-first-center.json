@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi折叠相机，1936 年发布",
-  "description": "The First Center (ファーストセンター) is a Japanese 6×9cm folding camera, sold by First Camera Works or Minagawa Shōten from 1936 or 1937 to the early 1940s.",
+  "description": "Kuribayashi于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "First Center"
+    "Camera-wiki": "First Center",
+    "英文简介": "The First Center (ファーストセンター) is a Japanese 6×9cm folding camera, sold by First Camera Works or Minagawa Shōten from 1936 or 1937 to the early 1940s."
   },
   "images": [],
   "sources": [

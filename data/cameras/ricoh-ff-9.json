@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1988 年发布",
-  "description": "The FF-9 is a 35mm compact camera released by Ricoh circa 1988.",
+  "description": "理光于1988年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh FF-9"
+    "Camera-wiki": "Ricoh FF-9",
+    "英文简介": "The FF-9 is a 35mm compact camera released by Ricoh circa 1988."
   },
   "images": [],
   "sources": [

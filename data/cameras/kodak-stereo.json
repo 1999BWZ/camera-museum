@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达立体相机，1954 年发布",
-  "description": "The Kodak Stereo is a 35mm stereo camera made by Kodak from 1954 to 1959.",
+  "description": "柯达于1954年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Stereo"
+    "Camera-wiki": "Kodak Stereo",
+    "英文简介": "The Kodak Stereo is a 35mm stereo camera made by Kodak from 1954 to 1959."
   },
   "images": [],
   "sources": [

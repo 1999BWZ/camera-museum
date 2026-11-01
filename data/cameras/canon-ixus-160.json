@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2015 年发布",
-  "description": "The IXUS 160 is a ultra compact digital camera announced in 2015 by Canon.",
+  "description": "佳能于2015年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon IXUS 160"
+    "Camera-wiki": "Canon IXUS 160",
+    "英文简介": "The IXUS 160 is a ultra compact digital camera announced in 2015 by Canon."
   },
   "images": [
     {

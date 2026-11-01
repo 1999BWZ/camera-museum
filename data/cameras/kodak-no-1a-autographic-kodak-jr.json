@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1914 年发布",
-  "description": "柯达于1914年发布的旁轴相机（折叠）。",
+  "description": "柯达于1914年推出的旁轴相机（折叠）。使用Roll film (size 116)。Fixed on some models, by distance zone on bellows extension on others.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 1A Autographic Kodak Jr."
+    "Camera-wiki": "No. 1A Autographic Kodak Jr.",
+    "胶片/画幅": "Roll film (size 116)",
+    "尺寸": "6.5x11 cm",
+    "对焦": "Fixed on some models, by distance zone on bellows extension on others.",
+    "重量": "28oz."
   },
   "images": [],
   "sources": [

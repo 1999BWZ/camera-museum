@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1937 年发布",
-  "description": "See also the 1941 Minoltaflex Automat, the later Minoltaflex Automat prototypes and the postwar Minoltaflex II and III.",
+  "description": "美能达于1937年推出的胶片相机。配备No.1 for 40in to 20in and No.2 for 20in to 13in, ¥22 each;。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minoltaflex (I)"
+    "Camera-wiki": "Minoltaflex (I)",
+    "镜头": "No.1 for 40in to 20in and No.2 for 20in to 13in, ¥22 each;",
+    "英文简介": "See also the 1941 Minoltaflex Automat, the later Minoltaflex Automat prototypes and the postwar Minoltaflex II and III."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，1991 年发布",
-  "description": "The Z-1 (aka PZ-1) is a high-end 35mm SLR with autofocus introduced by Pentax in 1991.",
+  "description": "宾得于1991年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Z-1/PZ-1"
+    "Camera-wiki": "Pentax Z-1/PZ-1",
+    "英文简介": "The Z-1 (aka PZ-1) is a high-end 35mm SLR with autofocus introduced by Pentax in 1991."
   },
   "images": [],
   "sources": [

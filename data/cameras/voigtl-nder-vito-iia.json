@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1955 年发布",
-  "description": "The Vito models produced by Voigtländer were one of the most successful series in German camera history.",
+  "description": "Voigtländer于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito IIa"
+    "Camera-wiki": "Vito IIa",
+    "英文简介": "The Vito models produced by Voigtländer were one of the most successful series in German camera history."
   },
   "images": [],
   "sources": [

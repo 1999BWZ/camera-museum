@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1932 年发布",
-  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "description": "柯达于1932年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Six-16 and Six-20"
+    "Camera-wiki": "Kodak Six-16 and Six-20",
+    "英文简介": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!"
   },
   "images": [],
   "sources": [

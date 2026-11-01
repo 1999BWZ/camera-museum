@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2005 年发布",
-  "description": "The Camedia C-480 Zoom is a digital camera released by Olympus in 2005.",
+  "description": "奥林巴斯于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-480 Zoom"
+    "Camera-wiki": "Olympus C-480 Zoom",
+    "英文简介": "The Camedia C-480 Zoom is a digital camera released by Olympus in 2005."
   },
   "images": [],
   "sources": [

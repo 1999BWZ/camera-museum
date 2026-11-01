@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1956 年发布",
-  "description": "=== Introduction ===\n\nThe Leica screw-mount series, also known as the \"Barnack\" Leicas after their inventor, Oskar Barnack, are a series of 35mm, focal-plane shutter cameras, mostly including coupled rangefinders, made by Ernst Leitz GmbH of Wetzlar, Germany from the mid-1920's until 1960.",
+  "description": "徕卡于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica (Screw-mount)"
+    "Camera-wiki": "Leica (Screw-mount)",
+    "英文简介": "=== Introduction ===\n\nThe Leica screw-mount series, also known as the \"Barnack\" Leicas after their inventor, Oskar Barnack, are a series of 35mm, focal-plane shutter cameras, mostly including coupled rangefinders, made by Ernst Leitz GmbH of Wetzlar, Germany from the mid-1920's until 1960."
   },
   "images": [],
   "sources": [

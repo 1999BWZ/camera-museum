@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1969 年发布",
-  "description": "Olympus produced the 35 SP line of rangefinder cameras from 1969 through 1976.",
+  "description": "奥林巴斯于1969年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus 35 SP"
+    "Camera-wiki": "Olympus 35 SP",
+    "英文简介": "Olympus produced the 35 SP line of rangefinder cameras from 1969 through 1976."
   },
   "images": [],
   "sources": [

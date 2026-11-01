@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，2001 年发布",
-  "description": "尼康于2001年发布的胶片单反相机。",
+  "description": "尼康于2001年推出的胶片单反相机。配备interchangeable lens, Nikon F-mount。快门速度hybrid electronic and mechanical。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q655249",
-    "多语言词条数": "12"
+    "多语言词条数": "12",
+    "胶片/画幅": "35 mm",
+    "镜头": "interchangeable lens, Nikon F-mount",
+    "快门速度": "hybrid electronic and mechanical",
+    "曝光测光": "silicon photodiode light meter, TTL full aperture metering, EV 1 to EV 20 (f/1.4 at 1s to f/16 at 1/1000s at ASA/ISO 100 and with 50 mm f/1.4 lens",
+    "取景器": "eye-level pentaprism",
+    "闪光灯": "hot shoe, JIS synch connection"
   },
   "images": [
     {

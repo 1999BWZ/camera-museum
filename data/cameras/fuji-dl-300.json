@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1986 年发布",
-  "description": "The DL-300 is a point and shoot autofocus compact 35mm film camera released by Fuji in 1986.",
+  "description": "Fuji于1986年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-300"
+    "Camera-wiki": "Fuji DL-300",
+    "英文简介": "The DL-300 is a point and shoot autofocus compact 35mm film camera released by Fuji in 1986."
   },
   "images": [],
   "sources": [

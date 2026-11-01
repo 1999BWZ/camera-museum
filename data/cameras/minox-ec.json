@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1981 年发布",
-  "description": "The Minox Model EC was introduced in 1981.",
+  "description": "Minox于1981年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox EC"
+    "Camera-wiki": "Minox EC",
+    "尺寸": "8x3x1.8 cm (3.1x1.2x0.7inch)",
+    "重量": "56g (1.96oz)",
+    "英文简介": "The Minox Model EC was introduced in 1981."
   },
   "images": [],
   "sources": [

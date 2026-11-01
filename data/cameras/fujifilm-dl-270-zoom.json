@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片相机，1994 年发布",
-  "description": "The DL-270 zoom is a 35mm compact zoom camera from Fujifilm released in 1994.",
+  "description": "富士于1994年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm DL-270 Zoom"
+    "Camera-wiki": "Fujifilm DL-270 Zoom",
+    "英文简介": "The DL-270 zoom is a 35mm compact zoom camera from Fujifilm released in 1994."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1985 年发布",
-  "description": "The Panorama GX617 is a medium format roll film panorama camera introduced by Fuji in 1993.",
+  "description": "Fuji于1985年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji GX617"
+    "Camera-wiki": "Fuji GX617",
+    "英文简介": "The Panorama GX617 is a medium format roll film panorama camera introduced by Fuji in 1993."
   },
   "images": [],
   "sources": [

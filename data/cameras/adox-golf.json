@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Adox折叠相机，1955 年发布",
-  "description": "Adox's folding Golf models were made from 1954 to 1959.",
+  "description": "Adox于1955年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Adox Golf"
+    "Camera-wiki": "Adox Golf",
+    "英文简介": "Adox's folding Golf models were made from 1954 to 1959."
   },
   "images": [],
   "sources": [

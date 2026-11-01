@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kenko旁轴相机，1949 年发布",
-  "description": "The Kenko 35 (ケンコー35) is a Japanese camera announced in 1949 by the distributor Murakami Shōkai (predecessor of Kenko).",
+  "description": "Kenko于1949年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kenko 35"
+    "Camera-wiki": "Kenko 35",
+    "英文简介": "The Kenko 35 (ケンコー35) is a Japanese camera announced in 1949 by the distributor Murakami Shōkai (predecessor of Kenko)."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1984 年发布",
-  "description": "徕卡于1984年发布的旁轴相机。",
+  "description": "徕卡于1984年推出的旁轴相机。配备Leica M-mount。快门速度Mechanically timed horizontal running cloth shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q313990",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "胶片/画幅": "35mm",
+    "镜头": "Leica M-mount",
+    "闪光灯": "Hot Shoe, PC Sync",
+    "快门速度": "Mechanically timed horizontal running cloth shutter",
+    "取景器": "Brightline frame viewfinder with automatic parallax-compensation",
+    "电池": "3v from 2x PX76/SR44 silver oxide cell or 1x DL 1/3N lithium cell"
   },
   "images": [
     {

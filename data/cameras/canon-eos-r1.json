@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能无反相机，2024 年发布",
-  "description": "佳能于2024年发布的无反相机。",
+  "description": "佳能于2024年推出的无反相机。配备Canon RF。快门速度Mechanical Focal Plane Shutter and Electronic Rolling Shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q105883423",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "传感器": "Stacked CMOS",
+    "镜头": "Canon RF",
+    "对焦": "Dual-Pixel 4897 Point Cross-Type",
+    "曝光测光": "| flash =",
+    "闪光灯": "| fsynch =",
+    "快门速度": "Mechanical Focal Plane Shutter and Electronic Rolling Shutter"
   },
   "images": [
     {

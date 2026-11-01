@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1952 年发布",
-  "description": "The Olympus Flex is a series of 6×6 TLRs made by Olympus, during the great TLR vogue in Japan in the 1950s.",
+  "description": "奥林巴斯于1952年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Flex"
+    "Camera-wiki": "Olympus Flex",
+    "英文简介": "The Olympus Flex is a series of 6×6 TLRs made by Olympus, during the great TLR vogue in Japan in the 1950s."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2003 年发布",
-  "description": "尼康于2003年发布的数码相机。",
+  "description": "尼康于2003年推出的数码相机。配备Zoom Nikkor IS 5.4-16.2mm 1:2.8-4.9 with macro mode。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix 3700"
+    "Camera-wiki": "Nikon Coolpix 3700",
+    "镜头": "Zoom Nikkor IS 5.4-16.2mm 1:2.8-4.9 with macro mode",
+    "传感器": "1/2.7\" CCD with 3.34 million pixels and \"film speed\"s ISO 50-200",
+    "曝光测光": "15 - 1/1500 sec.",
+    "闪光灯": "built-in",
+    "尺寸": "96×60×31 mm",
+    "重量": "162g (with battery)"
   },
   "images": [],
   "sources": [

@@ -1,0 +1,40 @@
+{
+  "id": "canon-powershot-sx160-is",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "PowerShot SX160 IS",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2012 年发布",
+  "description": "佳能于2012年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889040",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20PowerShot%20SX160%20IS.JPG?width=800",
+      "caption": "PowerShot SX160 IS",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889040"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon PowerShot SX160 IS",
+      "url": "https://www.wikidata.org/wiki/Q20889040"
+    }
+  ],
+  "qid": "Q20889040",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

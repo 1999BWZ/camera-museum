@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2004 年发布",
-  "description": "The Dimage Xg is a 3.2 Mp digital camera from Konica Minolta using folded optics within the camera body for greater compactness.",
+  "description": "柯尼卡美能达于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE Xg"
+    "Camera-wiki": "Konica Minolta DiMAGE Xg",
+    "英文简介": "The Dimage Xg is a 3.2 Mp digital camera from Konica Minolta using folded optics within the camera body for greater compactness."
   },
   "images": [],
   "sources": [

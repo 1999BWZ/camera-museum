@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，2002 年发布",
-  "description": "This is not to be confused with the Minolta Maxxum 3, GT, Dynax 3L, or the Alpha 3xi\n\nThe Maxxum 4 is an autofocus 35mm SLR camera manufactured by Minolta in 2002.",
+  "description": "美能达于2002年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Maxxum 4"
+    "Camera-wiki": "Minolta Maxxum 4",
+    "英文简介": "This is not to be confused with the Minolta Maxxum 3, GT, Dynax 3L, or the Alpha 3xi\n\nThe Maxxum 4 is an autofocus 35mm SLR camera manufactured by Minolta in 2002."
   },
   "images": [],
   "sources": [

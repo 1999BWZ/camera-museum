@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1990 年发布",
-  "description": "The Canon EOS 10 is an autofocus 35mm SLR introduced in 1990.[http://global.canon/en/c-museum/product/film140.html EOS 10S] at the [http://global.canon/en/c-museum/ Canon Camera Museum].",
+  "description": "佳能于1990年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 10"
+    "Camera-wiki": "Canon EOS 10",
+    "英文简介": "The Canon EOS 10 is an autofocus 35mm SLR introduced in 1990.[http://global.canon/en/c-museum/product/film140.html EOS 10S] at the [http://global.canon/en/c-museum/ Canon Camera Museum]."
   },
   "images": [],
   "sources": [

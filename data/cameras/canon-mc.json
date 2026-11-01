@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1984 年发布",
-  "description": "The MC (micro compact) range consisted of two 35mm compact camera models, the high-end autofocus Canon MC, introduced in April 1984 (QD version also available) and the fixed focus MC10 of March 1985.",
+  "description": "佳能于1984年推出的便携相机。配备35mm, f/2.8 (4 elements in 4 groups).。快门速度1/8-1/500s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon MC"
+    "Camera-wiki": "Canon MC",
+    "镜头": "35mm, f/2.8 (4 elements in 4 groups).",
+    "快门速度": "1/8-1/500s.",
+    "重量": "137x65x42 mm, 330 g (with MC-S and batteries).",
+    "尺寸": "137x65x42 mm",
+    "英文简介": "The MC (micro compact) range consisted of two 35mm compact camera models, the high-end autofocus Canon MC, introduced in April 1984 (QD version also available) and the fixed focus MC10 of March 1985."
   },
   "images": [],
   "sources": [

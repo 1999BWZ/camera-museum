@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1964 年发布",
-  "description": "The Canon FX is an SLR camera that uses 35mm film and was introduced by Canon in 1964.",
+  "description": "佳能于1964年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon FX"
+    "Camera-wiki": "Canon FX",
+    "英文简介": "The Canon FX is an SLR camera that uses 35mm film and was introduced by Canon in 1964."
   },
   "images": [],
   "sources": [

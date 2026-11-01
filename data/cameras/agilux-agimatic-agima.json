@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Agilux旁轴相机，1958 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Agimatic and Agima were rangefinder cameras, made in England by Agilux.",
+  "description": "Agilux于1958年推出的旁轴相机。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agimatic & Agima"
+    "Camera-wiki": "Agimatic & Agima",
+    "胶片/画幅": "35mm",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Agimatic and Agima were rangefinder cameras, made in England by Agilux."
   },
   "images": [],
   "sources": [

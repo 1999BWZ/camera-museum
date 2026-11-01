@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2014 年发布",
-  "description": "徕卡于2014年发布的旁轴相机。",
+  "description": "徕卡于2014年推出的旁轴相机。配备Interchangeable lens, Leica M-mount。快门速度mechanically timed horizontal running cloth shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q76701603",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "胶片/画幅": "35 mm",
+    "镜头": "Interchangeable lens, Leica M-mount",
+    "快门速度": "mechanically timed horizontal running cloth shutter",
+    "曝光测光": "| emode = Manual (M), and Bulb (B)",
+    "取景器": "Brightline frame viewfinder with automatic parallax-compensation",
+    "闪光灯": "| flbkt ="
   },
   "images": [],
   "sources": [

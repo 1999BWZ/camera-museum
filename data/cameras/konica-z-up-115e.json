@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，2001 年发布",
-  "description": "The Z-up 115e is a 35mm film auto-focus camera produced by the Japanese company Konica.",
+  "description": "柯尼卡于2001年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Z-up 115e"
+    "Camera-wiki": "Konica Z-up 115e",
+    "英文简介": "The Z-up 115e is a 35mm film auto-focus camera produced by the Japanese company Konica."
   },
   "images": [],
   "sources": [

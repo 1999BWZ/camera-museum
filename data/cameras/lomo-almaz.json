@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO胶片相机，1979 年发布",
-  "description": "The Almaz (Russian: Алмаз - 'Diamond') cameras are a series of 35 mm single-lens reflex cameras made from 1979 to the late 1980s by LOMO in Russia.",
+  "description": "LOMO于1979年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Almaz"
+    "Camera-wiki": "Almaz",
+    "英文简介": "The Almaz (Russian: Алмаз - 'Diamond') cameras are a series of 35 mm single-lens reflex cameras made from 1979 to the late 1980s by LOMO in Russia."
   },
   "images": [],
   "sources": [

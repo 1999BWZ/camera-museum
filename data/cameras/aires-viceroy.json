@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aires旁轴相机，1957 年发布",
-  "description": "The Aires Viceroy is a folding 6×6 coupled-rangefinder camera that Aires produced for export to India (some sources say southeast Asia) around 1957–8.",
+  "description": "Aires于1957年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Aires Viceroy"
+    "Camera-wiki": "Aires Viceroy",
+    "英文简介": "The Aires Viceroy is a folding 6×6 coupled-rangefinder camera that Aires produced for export to India (some sources say southeast Asia) around 1957–8."
   },
   "images": [],
   "sources": [

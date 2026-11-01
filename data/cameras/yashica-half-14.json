@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1966 年发布",
-  "description": "{| class=floatright\n|\n\n|-\n|\n\n|}\nThe Half 14 is a half-frame 35 mm viewfinder camera, made by Yashica in 1966.",
+  "description": "雅西卡于1966年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Half 14"
+    "Camera-wiki": "Yashica Half 14",
+    "英文简介": "{| class=floatright\n|\n\n|-\n|\n\n|}\nThe Half 14 is a half-frame 35 mm viewfinder camera, made by Yashica in 1966."
   },
   "images": [],
   "sources": [

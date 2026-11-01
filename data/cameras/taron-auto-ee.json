@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron旁轴相机，1963 年发布",
-  "description": "The Auto EE is a 35mm compact rangefinder camera from Japanese manufacturer Taron.",
+  "description": "Taron于1963年推出的旁轴相机。配备TARONAR 45mm f1.8 - f16 (Six elements). The lens it is not interchangeable。快门速度Citzen MVE shutter, speeds are B, 1, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500 sec.。使用range from 25 ASA up to 400 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron Auto EE"
+    "Camera-wiki": "Taron Auto EE",
+    "镜头": "TARONAR 45mm f1.8 - f16 (Six elements). The lens it is not interchangeable",
+    "曝光测光": "In Auto mode the CdS meter controls the aperture automatically; there was also manual override",
+    "胶片/画幅": "range from 25 ASA up to 400 ASA",
+    "快门": "Citzen MVE shutter, speeds are B, 1, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500 sec.",
+    "闪光灯": "M type all speed; X type about 1/30.",
+    "电池": "PX625 (1.35V)",
+    "尺寸": "135 x 92 x 75 mm .",
+    "重量": "800 gram",
+    "英文简介": "The Auto EE is a 35mm compact rangefinder camera from Japanese manufacturer Taron."
   },
   "images": [],
   "sources": [

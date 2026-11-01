@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1990 年发布",
-  "description": "The Jump Auto is a weather-proof 35mm point and shoot camera produced by Konica.",
+  "description": "柯尼卡于1990年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Jump Auto"
+    "Camera-wiki": "Konica Jump Auto",
+    "英文简介": "The Jump Auto is a weather-proof 35mm point and shoot camera produced by Konica."
   },
   "images": [],
   "sources": [

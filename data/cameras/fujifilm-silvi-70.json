@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片相机，2001 年发布",
-  "description": "Another Fujifilm Zoom Date 70 was released 2 years later.",
+  "description": "富士于2001年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Silvi 70"
+    "Camera-wiki": "Fujifilm Silvi 70",
+    "英文简介": "Another Fujifilm Zoom Date 70 was released 2 years later."
   },
   "images": [],
   "sources": [

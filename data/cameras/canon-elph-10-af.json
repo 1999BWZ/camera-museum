@@ -1,0 +1,33 @@
+{
+  "id": "canon-elph-10-af",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "ELPH 10 AF",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1996 年发布",
+  "description": "佳能于1996年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q63281",
+    "多语言词条数": "1",
+    "年份来源": "据英文描述推断"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Canon ELPH 10 AF",
+      "url": "https://www.wikidata.org/wiki/Q63281"
+    }
+  ],
+  "qid": "Q63281",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

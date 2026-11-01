@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，1999 年发布",
-  "description": "The HP PhotoSmart C200 is a 1999 digital camera from Hewlett-Packard, was an early digital camera with 2x digital zoom and a 1 megapixel sensor.",
+  "description": "Hewlett-Packard于1999年推出的数码相机。配备6mm, f/2.8。快门速度2-1/500 secs。使用JPEG。有效像素1.0。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart C200"
+    "Camera-wiki": "HP PhotoSmart C200",
+    "像素": "1.0",
+    "胶片/画幅": "JPEG",
+    "镜头": "6mm, f/2.8",
+    "快门速度": "2-1/500 secs",
+    "变焦": "Digital zoom",
+    "英文简介": "The HP PhotoSmart C200 is a 1999 digital camera from Hewlett-Packard, was an early digital camera with 2x digital zoom and a 1 megapixel sensor."
   },
   "images": [],
   "sources": [

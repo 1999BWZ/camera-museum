@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hong Kong胶片相机，1991 年发布",
-  "description": "The Revue 300 TW is a simple plastic camera for 110 film, made in Hong Kong and distributed by Foto-Quelle in Germany from 1991.It has a single shutter speed and no aperture control.A sliding switch at the bottom of the camera body moves an extra lens in front of the fixed focus lens creating a mode",
+  "description": "Hong Kong于1991年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue 300 TW"
+    "Camera-wiki": "Revue 300 TW",
+    "英文简介": "The Revue 300 TW is a simple plastic camera for 110 film, made in Hong Kong and distributed by Foto-Quelle in Germany from 1991.It has a single shutter speed and no aperture control.A sliding switch at the bottom of the camera body moves an extra lens in front of the fixed focus lens creating a moderate tele lens effect."
   },
   "images": [],
   "sources": [

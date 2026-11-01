@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ferrania取景器相机，1956 年发布",
-  "description": "The Ibis 44 is cast aluminium viewfinder camera taking 4x4cm pictures on 127 film, made in Italy by Ferrania, c.1956.",
+  "description": "Ferrania于1956年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ferrania Ibis 44"
+    "Camera-wiki": "Ferrania Ibis 44",
+    "英文简介": "The Ibis 44 is cast aluminium viewfinder camera taking 4x4cm pictures on 127 film, made in Italy by Ferrania, c.1956."
   },
   "images": [],
   "sources": [

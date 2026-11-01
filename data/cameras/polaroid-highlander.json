@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1954 年发布",
-  "description": "Polaroid cameras that used Type 30 instant rollfilm.",
+  "description": "宝丽来于1954年推出的一次成像相机。配备100mm f/8.8, 3-element glass。快门速度2-speed rotary-leaf design with speeds of 1/25s and 1/100s, plus Bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Highlander"
+    "Camera-wiki": "Polaroid Highlander",
+    "镜头": "100mm f/8.8, 3-element glass",
+    "快门": "2-speed rotary-leaf design with speeds of 1/25s and 1/100s, plus Bulb",
+    "闪光灯": "M-sync via Polaroid \"hot shoe\"",
+    "英文简介": "Polaroid cameras that used Type 30 instant rollfilm."
   },
   "images": [],
   "sources": [

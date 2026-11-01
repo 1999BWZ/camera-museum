@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，2007 年发布",
-  "description": "奥林巴斯于2007年发布的数码单反相机。",
+  "description": "奥林巴斯于2007年推出的数码单反相机。配备Interchangeable (Four Thirds System)。快门速度1/8,000 to 60 s computerized focal plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1193074",
-    "多语言词条数": "9"
+    "多语言词条数": "9",
+    "传感器": "Four Thirds System 18.00 × 13.50 mm Live MOS",
+    "镜头": "Interchangeable (Four Thirds System)",
+    "快门速度": "1/8,000 to 60 s computerized focal plane shutter",
+    "闪光灯": "built-in pop up flash GN=13 at ISO 100, wireless control for up to 3 external flash groups and 4 channels",
+    "曝光测光": "TTL, evaluative (ESP), center-weighted, spot",
+    "取景器": "Optical TTL with pentaprism 100% field of view and ×1.15 magnification",
+    "屏幕": "2.5\" 230,000 pixel TFT LCD on full articulating multi-angle screen with live preview",
+    "存储": "CompactFlash(CF) or XD Picture-Card",
+    "电池": "Olympus BLM-1 1500mAh Lithium-ion battery"
   },
   "images": [
     {

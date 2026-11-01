@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography全景相机，2010 年发布",
-  "description": "The Lomographic Spinner 360&deg;The bottom of the handle carries the inscription: 'Spinner Dolphin 360&deg;' is a mechanical 360 degree panorama camera powered by a spring-driven clockwork mechanism that rotates the entire camera head and smoothly advances the 35mm film.",
+  "description": "Lomography于2010年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Spinner 360°"
+    "Camera-wiki": "Spinner 360°",
+    "英文简介": "The Lomographic Spinner 360&deg;The bottom of the handle carries the inscription: 'Spinner Dolphin 360&deg;' is a mechanical 360 degree panorama camera powered by a spring-driven clockwork mechanism that rotates the entire camera head and smoothly advances the 35mm film."
   },
   "images": [],
   "sources": [

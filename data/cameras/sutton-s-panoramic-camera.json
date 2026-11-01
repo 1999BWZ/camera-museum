@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sutton's全景相机，1860 年发布",
-  "description": "Thomas Sutton's Panoramic Camera is a wooden-bodied camera for wet-plate panoramic photography on curved glass plates.",
+  "description": "Sutton's于1860年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sutton's Panoramic Camera"
+    "Camera-wiki": "Sutton's Panoramic Camera",
+    "英文简介": "Thomas Sutton's Panoramic Camera is a wooden-bodied camera for wet-plate panoramic photography on curved glass plates."
   },
   "images": [],
   "sources": [

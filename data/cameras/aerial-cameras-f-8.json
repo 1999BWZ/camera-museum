@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aerial cameras胶片相机，1930 年发布",
-  "description": "The Fairchild F-8 is a focal plane shutter camera for oblique aerial photos, manufactured by Fairchild, fitted with a Schneider Xenar 240mm/f8.",
+  "description": "Aerial cameras于1930年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fairchild F-8"
+    "Camera-wiki": "Fairchild F-8",
+    "英文简介": "The Fairchild F-8 is a focal plane shutter camera for oblique aerial photos, manufactured by Fairchild, fitted with a Schneider Xenar 240mm/f8."
   },
   "images": [],
   "sources": [

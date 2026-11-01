@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Universal立体相机，1954 年发布",
-  "description": "The Universal Camera Corporation in New York marketed the Steré-All in 1954.",
+  "description": "Universal于1954年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Steré-All"
+    "Camera-wiki": "Steré-All",
+    "英文简介": "The Universal Camera Corporation in New York marketed the Steré-All in 1954."
   },
   "images": [],
   "sources": [

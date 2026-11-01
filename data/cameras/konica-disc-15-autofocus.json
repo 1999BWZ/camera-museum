@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1983 年发布",
-  "description": "The disc 15 is a Disc Film camera made by Konica, c.1983.",
+  "description": "柯尼卡于1983年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica disc 15 autofocus"
+    "Camera-wiki": "Konica disc 15 autofocus",
+    "英文简介": "The disc 15 is a Disc Film camera made by Konica, c.1983."
   },
   "images": [],
   "sources": [

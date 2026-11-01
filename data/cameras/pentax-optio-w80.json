@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2009 年发布",
-  "description": "The Optio W80 is a rugged digital compact camera from Japanese manufacturer Pentax released in 2009.",
+  "description": "宾得于2009年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Optio W80"
+    "Camera-wiki": "Pentax Optio W80",
+    "英文简介": "The Optio W80 is a rugged digital compact camera from Japanese manufacturer Pentax released in 2009."
   },
   "images": [],
   "sources": [

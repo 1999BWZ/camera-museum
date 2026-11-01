@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Amano中画幅相机，1957 年发布",
-  "description": "The Amano 66 (アマノ66) is a medium format single lens reflex camera from Amano Tokushu Kikai K.K.",
+  "description": "Amano于1957年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Amano 66"
+    "Camera-wiki": "Amano 66",
+    "英文简介": "The Amano 66 (アマノ66) is a medium format single lens reflex camera from Amano Tokushu Kikai K.K."
   },
   "images": [],
   "sources": [

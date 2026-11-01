@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2001 年发布",
-  "description": "{|\n|-valign=bottom\n||\n\n||\n\n||\n\n|-\n| colspan=3 align=center |\nimages by \n|}\nThe Nikon Coolpix 995 is a 3.1 megapixel digital camera and part of the Coolpix series announced by the Nikon Corporation in April 2001 (introduced in July).",
+  "description": "尼康于2001年推出的数码相机。配备8-32mm (4x zoom), f2.6-5.1。快门速度8-1/2300s (+B up to 60s)。感光度]] 100-800。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix 995"
+    "Camera-wiki": "Nikon Coolpix 995",
+    "镜头": "8-32mm (4x zoom), f2.6-5.1",
+    "快门速度": "8-1/2300s (+B up to 60s)",
+    "感光度": "]] 100-800",
+    "尺寸": "2048x1536 (4:3), 1600x1200, 1280x960, 1024x768 (PC/XGA), 640x480 (VGA),2048x1360 (3:2)",
+    "自拍": "3 or 10 secs",
+    "英文简介": "{|\n|-valign=bottom\n||\n\n||\n\n||\n\n|-\n| colspan=3 align=center |\nimages by \n|}\nThe Nikon Coolpix 995 is a 3.1 megapixel digital camera and part of the Coolpix series announced by the Nikon Corporation in April 2001 (introduced in July)."
   },
   "images": [],
   "sources": [

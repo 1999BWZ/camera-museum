@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1976 年发布",
-  "description": "The Ricoh Infomatic ST is a light and small 35mm viewfinder camera.",
+  "description": "理光于1976年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Infomatic"
+    "Camera-wiki": "Ricoh Infomatic",
+    "英文简介": "The Ricoh Infomatic ST is a light and small 35mm viewfinder camera."
   },
   "images": [],
   "sources": [

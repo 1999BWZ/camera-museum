@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo胶片相机，1953 年发布",
-  "description": "The Princeflex (プリンスフレックス) and Prince Junior (プリンスジュニア) are Japanese 6×6 TLR cameras, distributed from 1953 to 1956 by Mima Shōkai.",
+  "description": "Tougodo于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Princeflex"
+    "Camera-wiki": "Princeflex",
+    "英文简介": "The Princeflex (プリンスフレックス) and Prince Junior (プリンスジュニア) are Japanese 6×6 TLR cameras, distributed from 1953 to 1956 by Mima Shōkai."
   },
   "images": [],
   "sources": [

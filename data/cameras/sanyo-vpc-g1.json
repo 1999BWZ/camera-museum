@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sanyo数码相机，1996 年发布",
-  "description": "The Image PC VPC-G1 is a early digital camera released from Sanyo in 1996.",
+  "description": "Sanyo于1996年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sanyo VPC-G1"
+    "Camera-wiki": "Sanyo VPC-G1",
+    "英文简介": "The Image PC VPC-G1 is a early digital camera released from Sanyo in 1996."
   },
   "images": [],
   "sources": [

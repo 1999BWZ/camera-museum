@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片单反相机，1984 年发布",
-  "description": "The Rolleiflex 6006 is a medium format SLR system camera manufactured by Rollei, Braunschweig, Germany.",
+  "description": "禄来于1984年推出的胶片单反相机。配备Bayonet mount Rollei (license built Carl Zeiss) Planar 2.8/80mm with HFT coating.。使用6x6 or 4.5x6 on 120 or 220 film types, depending on exchangeable film magazine used.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex 6006"
+    "Camera-wiki": "Rolleiflex 6006",
+    "胶片/画幅": "6x6 or 4.5x6 on 120 or 220 film types, depending on exchangeable film magazine used.",
+    "镜头": "Bayonet mount Rollei (license built Carl Zeiss) Planar 2.8/80mm with HFT coating.",
+    "尺寸": "112 x 127 x 138 mm (without lens)",
+    "重量": "1450 grams (without lens)",
+    "英文简介": "The Rolleiflex 6006 is a medium format SLR system camera manufactured by Rollei, Braunschweig, Germany."
   },
   "images": [],
   "sources": [

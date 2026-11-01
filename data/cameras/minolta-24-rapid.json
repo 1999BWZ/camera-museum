@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1965 年发布",
-  "description": "The Minolta 24 Rapid is a rangefinder camera taking square, 24x24mm images on 35mm film in Agfa Rapid cassettes.",
+  "description": "美能达于1965年推出的旁轴相机。配备Rokkor 32mm f/2.8。快门速度speeds B, 1/30,1/60,1/125, 1/250s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta 24 Rapid"
+    "Camera-wiki": "Minolta 24 Rapid",
+    "镜头": "Rokkor 32mm f/2.8",
+    "快门": "speeds B, 1/30,1/60,1/125, 1/250s",
+    "英文简介": "The Minolta 24 Rapid is a rangefinder camera taking square, 24x24mm images on 35mm film in Agfa Rapid cassettes."
   },
   "images": [],
   "sources": [

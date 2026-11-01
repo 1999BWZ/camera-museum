@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1923 年发布",
-  "description": "Kodak's No.2 Folding Film Pack Hawk-Eye takes the 520 Film Pack.",
+  "description": "柯达于1923年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak No.2 Folding Film Pack Hawk-Eye"
+    "Camera-wiki": "Kodak No.2 Folding Film Pack Hawk-Eye",
+    "英文简介": "Kodak's No.2 Folding Film Pack Hawk-Eye takes the 520 Film Pack."
   },
   "images": [],
   "sources": [

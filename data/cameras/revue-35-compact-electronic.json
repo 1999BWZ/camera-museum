@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue取景器相机，1979 年发布",
-  "description": "A heavy and sturdy mostly metal built aperture-priority compact that takes 35mm film.",
+  "description": "Revue于1979年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue 35 Compact Electronic"
+    "Camera-wiki": "Revue 35 Compact Electronic",
+    "英文简介": "A heavy and sturdy mostly metal built aperture-priority compact that takes 35mm film."
   },
   "images": [],
   "sources": [

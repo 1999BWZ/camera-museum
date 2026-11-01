@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1991 年发布",
-  "description": "The Minolta Dynax 7Xi is a fully loaded SLR from 1991.",
+  "description": "美能达于1991年推出的胶片单反相机。快门速度30sec. - 1/8000sec. and B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 7Xi"
+    "Camera-wiki": "Minolta Dynax 7Xi",
+    "快门速度": "30sec. - 1/8000sec. and B",
+    "英文简介": "The Minolta Dynax 7Xi is a fully loaded SLR from 1991."
   },
   "images": [],
   "sources": [

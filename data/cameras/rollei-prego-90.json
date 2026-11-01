@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来取景器相机，1995 年发布",
-  "description": "The Prego 90 is a compact autofocus camera for 35 mm film, made by Rollei in the mid-1990s.",
+  "description": "禄来于1995年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei Prego 90"
+    "Camera-wiki": "Rollei Prego 90",
+    "尺寸": "132×75×56 mm",
+    "重量": "320g",
+    "英文简介": "The Prego 90 is a compact autofocus camera for 35 mm film, made by Rollei in the mid-1990s."
   },
   "images": [],
   "sources": [

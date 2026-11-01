@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1977 年发布",
-  "description": "尼康于1977年发布的胶片单反相机。",
+  "description": "尼康于1977年推出的胶片单反相机。快门速度1 s – 1/1000 s; Bulb;。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q3341825",
-    "多语言词条数": "8"
+    "多语言词条数": "8",
+    "胶片/画幅": "35 mm",
+    "对焦": "Manual",
+    "闪光灯": "ISO standard Hot shoe",
+    "快门速度": "1 s – 1/1000 s; Bulb;",
+    "曝光测光": "TTL with gallium arsenide phosphide photodiode",
+    "尺寸": "142 × 60.5 × 89.5 mm, 590 g"
   },
   "images": [
     {

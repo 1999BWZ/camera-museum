@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1973 年发布",
-  "description": "The SR-T MC is a 35mm SLR camera released by Minolta in 1973.",
+  "description": "美能达于1973年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-T MC"
+    "Camera-wiki": "Minolta SR-T MC",
+    "英文简介": "The SR-T MC is a 35mm SLR camera released by Minolta in 1973."
   },
   "images": [],
   "sources": [

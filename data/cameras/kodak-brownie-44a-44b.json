@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1959 年发布",
-  "description": "The Kodak Brownie 44A and 44B are viewfinder cameras made in the UK by Kodak Ltd.",
+  "description": "柯达于1959年推出的取景器相机。配备Dakon, plastic with apertures for EV12 or EV13 (+ EV14 from 1964)。快门速度Single speed ~1/40 sec。使用127, 12 4x4cm frames。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie 44A & 44B"
+    "Camera-wiki": "Kodak Brownie 44A & 44B",
+    "胶片/画幅": "127, 12 4x4cm frames",
+    "镜头": "Dakon, plastic with apertures for EV12 or EV13 (+ EV14 from 1964)",
+    "快门": "Single speed ~1/40 sec",
+    "英文简介": "The Kodak Brownie 44A and 44B are viewfinder cameras made in the UK by Kodak Ltd."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1971 年发布",
-  "description": "Introduced in 1971, the Olympus 35 DC is the fully automatic sibling of the renowned Olympus 35 RD.",
+  "description": "奥林巴斯于1971年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus 35 DC"
+    "Camera-wiki": "Olympus 35 DC",
+    "英文简介": "Introduced in 1971, the Olympus 35 DC is the fully automatic sibling of the renowned Olympus 35 RD."
   },
   "images": [],
   "sources": [

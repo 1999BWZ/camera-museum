@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Autoload旁轴相机，1962 年发布",
-  "description": "The Bell & Howell Autoload 342 is a quite sophisticated viewfinder camera for type No.",
+  "description": "Autoload于1962年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Autoload 342"
+    "Camera-wiki": "Autoload 342",
+    "英文简介": "The Bell & Howell Autoload 342 is a quite sophisticated viewfinder camera for type No."
   },
   "images": [],
   "sources": [

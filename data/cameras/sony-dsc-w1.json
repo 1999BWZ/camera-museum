@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2004 年发布",
-  "description": "The Cyber-shot DSC-W1 is a digital camera announced in 2004 by Sony.",
+  "description": "索尼于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-W1"
+    "Camera-wiki": "Sony DSC-W1",
+    "英文简介": "The Cyber-shot DSC-W1 is a digital camera announced in 2004 by Sony."
   },
   "images": [],
   "sources": [

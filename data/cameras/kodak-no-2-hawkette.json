@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1930 年发布",
-  "description": "{|align=right\n||\n|\n||\n|\n|-\n||\n|\n|}\n\nThe Kodak No.",
+  "description": "柯达于1930年推出的折叠相机。配备105mm single element meniscus (unmarked)。快门速度Instant (most likely around 1/30th) and Time。使用6 x 9 medium format。Fixed, most likely 5ft to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak No. 2 Hawkette"
+    "Camera-wiki": "Kodak No. 2 Hawkette",
+    "尺寸": "182 mm x 104 mm x 38 mm (closed), 182 mm x 104 mm x 122 mm (open).",
+    "胶片/画幅": "6 x 9 medium format",
+    "镜头": "105mm single element meniscus (unmarked)",
+    "光圈": "f/16, f/22 and f/32",
+    "快门": "Rotary",
+    "对焦": "Fixed, most likely 5ft to infinity",
+    "快门速度": "Instant (most likely around 1/30th) and Time",
+    "闪光灯": "None",
+    "英文简介": "{|align=right\n||\n|\n||\n|\n|-\n||\n|\n|}\n\nThe Kodak No."
   },
   "images": [],
   "sources": [

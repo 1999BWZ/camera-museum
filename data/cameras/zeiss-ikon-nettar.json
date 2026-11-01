@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1933 年发布",
-  "description": "The Nettar series by Zeiss Ikon was a successful range of self-erecting folding cameras for 120 roll film (often described as B2 6x9 film).",
+  "description": "Zeiss Ikon于1933年推出的折叠相机。配备Nettar 1:7.7/10.5cm。快门速度** Nettar 1:6.3/7.5cm in a Derval or Telma leaf shutter。使用120 roll film (6×4,5cm exposures)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nettar"
+    "Camera-wiki": "Nettar",
+    "胶片/画幅": "120 roll film (6×4,5cm exposures)",
+    "快门": "** Nettar 1:6.3/7.5cm in a Derval or Telma leaf shutter",
+    "光圈": "6.3 to 22",
+    "取景器": "two frames",
+    "尺寸": "118 x 92 x 49 mm",
+    "重量": "410 Grams",
+    "镜头": "Nettar 1:7.7/10.5cm",
+    "英文简介": "The Nettar series by Zeiss Ikon was a successful range of self-erecting folding cameras for 120 roll film (often described as B2 6x9 film)."
   },
   "images": [],
   "sources": [

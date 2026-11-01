@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下胶片单反相机，1992 年发布",
-  "description": "The C-2100ZM is a 35mm compact zoom camera manufactured by Panasonic.",
+  "description": "松下于1992年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic C-2100ZM"
+    "Camera-wiki": "Panasonic C-2100ZM",
+    "英文简介": "The C-2100ZM is a 35mm compact zoom camera manufactured by Panasonic."
   },
   "images": [],
   "sources": [

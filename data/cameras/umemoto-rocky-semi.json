@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Umemoto折叠相机，1953 年发布",
-  "description": "The Rocky Semi (ロッキーセミ) is a Japanese 4.5×6 folding camera made by Umemoto and distributed by Endō in 1953–4.",
+  "description": "Umemoto于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rocky Semi"
+    "Camera-wiki": "Rocky Semi",
+    "英文简介": "The Rocky Semi (ロッキーセミ) is a Japanese 4.5×6 folding camera made by Umemoto and distributed by Endō in 1953–4."
   },
   "images": [],
   "sources": [

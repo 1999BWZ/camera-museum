@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2012 年发布",
-  "description": "The Panasonic Lumix DMC-GH3 was launched in 2012 and is a quite heavy compact digital system camera body for the Micro Four Thirds system, heavier than the classic Lumix G1 of 2008, the first µ4/3 camera, and its sister for video-freaks, the Lumix GH1.",
+  "description": "松下于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-GH3"
+    "Camera-wiki": "Panasonic Lumix DMC-GH3",
+    "英文简介": "The Panasonic Lumix DMC-GH3 was launched in 2012 and is a quite heavy compact digital system camera body for the Micro Four Thirds system, heavier than the classic Lumix G1 of 2008, the first µ4/3 camera, and its sister for video-freaks, the Lumix GH1."
   },
   "images": [],
   "sources": [

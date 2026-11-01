@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1988 年发布",
-  "description": "This is a point n' shoot superzoom 35mm film camera with quite a high specification; the top model of Konica's Z-up range.",
+  "description": "柯尼卡于1988年推出的胶片单反相机。快门速度automatic from 1/320s to 1.5s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Z-up 150 (VP)"
+    "Camera-wiki": "Konica Z-up 150 (VP)",
+    "快门速度": "automatic from 1/320s to 1.5s.",
+    "英文简介": "This is a point n' shoot superzoom 35mm film camera with quite a high specification; the top model of Konica's Z-up range."
   },
   "images": [],
   "sources": [

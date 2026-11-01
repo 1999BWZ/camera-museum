@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达大画幅相机，1914 年发布",
-  "description": "Note: this article covers Kodak lenses primarily from the mid-1930s through the 1960s.",
+  "description": "柯达于1914年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak lenses"
+    "Camera-wiki": "Kodak lenses",
+    "英文简介": "Note: this article covers Kodak lenses primarily from the mid-1930s through the 1960s."
   },
   "images": [],
   "sources": [

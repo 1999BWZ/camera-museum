@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1973 年发布",
-  "description": "The Optima Sensor 500, made by Agfa in Germany - c.1972/3 - is a fairly eccentric 35mm viewfinder camera with automatic exposure.",
+  "description": "爱克发于1973年推出的取景器相机。配备Agfa Color Apotar 42mm f2.8。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima Sensor 500"
+    "Camera-wiki": "Optima Sensor 500",
+    "镜头": "Agfa Color Apotar 42mm f2.8",
+    "英文简介": "The Optima Sensor 500, made by Agfa in Germany - c.1972/3 - is a fairly eccentric 35mm viewfinder camera with automatic exposure."
   },
   "images": [],
   "sources": [

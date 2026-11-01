@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wards取景器相机，1955 年发布",
-  "description": "Introduced in 1955, the Ward 35 (sold by Montgomery Ward) was a 35mm fixed-lens viewfinder camera made by Taiyōdō Koki, and based on the Beauty 35.",
+  "description": "Wards于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ward 35"
+    "Camera-wiki": "Ward 35",
+    "英文简介": "Introduced in 1955, the Ward 35 (sold by Montgomery Ward) was a 35mm fixed-lens viewfinder camera made by Taiyōdō Koki, and based on the Beauty 35."
   },
   "images": [],
   "sources": [

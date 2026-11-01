@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达立体相机，1907 年发布",
-  "description": "The Kodak Stereo Hawkeye is a folding rollfilm camera taking 3½ inch stereo pairs on No.",
+  "description": "柯达于1907年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Stereo Hawkeye"
+    "Camera-wiki": "Kodak Stereo Hawkeye",
+    "英文简介": "The Kodak Stereo Hawkeye is a folding rollfilm camera taking 3½ inch stereo pairs on No."
   },
   "images": [],
   "sources": [

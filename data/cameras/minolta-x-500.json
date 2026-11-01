@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1983 年发布",
-  "description": "The X-500 is a manual focus 35mm film SLR camera by Minolta.",
+  "description": "美能达于1983年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta X-500"
+    "Camera-wiki": "Minolta X-500",
+    "英文简介": "The X-500 is a manual focus 35mm film SLR camera by Minolta."
   },
   "images": [],
   "sources": [

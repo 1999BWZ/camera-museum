@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon旁轴相机，1936 年发布",
-  "description": "The 35mm Nettax (Zeiss Ikon 538/24) was a 35mm rangefinder camera introduced in 1936 as a cheaper alternative to the Contax II.",
+  "description": "Zeiss Ikon于1936年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nettax (35mm)"
+    "Camera-wiki": "Nettax (35mm)",
+    "英文简介": "The 35mm Nettax (Zeiss Ikon 538/24) was a 35mm rangefinder camera introduced in 1936 as a cheaper alternative to the Contax II."
   },
   "images": [],
   "sources": [

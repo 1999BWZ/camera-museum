@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来取景器相机，2002 年发布",
-  "description": "The Polaroid 170BV is a simple plastic camera with fixed focus and no metering.",
+  "description": "宝丽来于2002年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid 170BV"
+    "Camera-wiki": "Polaroid 170BV",
+    "尺寸": "113x68x41mm",
+    "英文简介": "The Polaroid 170BV is a simple plastic camera with fixed focus and no metering."
   },
   "images": [],
   "sources": [

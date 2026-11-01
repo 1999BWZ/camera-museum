@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1993 年发布",
-  "description": "The Kodak Star 1035Z was introduced 1993, discontinued 1995, with a list price of US$199.95.[http://www.brownie-camera.com/kodakcam.shtml Kodak Cameras at The Brownie Camera Page] It takes the ever popular 35mm film format.",
+  "description": "柯达于1993年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star 1035Z"
+    "Camera-wiki": "Kodak Star 1035Z",
+    "英文简介": "The Kodak Star 1035Z was introduced 1993, discontinued 1995, with a list price of US$199.95.[http://www.brownie-camera.com/kodakcam.shtml Kodak Cameras at The Brownie Camera Page] It takes the ever popular 35mm film format."
   },
   "images": [],
   "sources": [

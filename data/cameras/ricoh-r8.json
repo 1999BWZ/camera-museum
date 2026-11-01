@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2008 年发布",
-  "description": "The Ricoh R8 was introduced by Ricoh in 2008.",
+  "description": "理光于2008年推出的数码相机。快门速度8, 4, 2, 1 - 1/2000 sec.。有效像素approx. 10.30 million pixels)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh R8"
+    "Camera-wiki": "Ricoh R8",
+    "像素": "approx. 10.30 million pixels)",
+    "光圈": "F3.3 (Wide) - F5.2 (Telephoto)",
+    "快门速度": "8, 4, 2, 1 - 1/2000 sec.",
+    "尺寸": "102.0 mm (W) x 58.3 mm (H) x 26.1 mm (D), excluding projecting parts",
+    "重量": "Approx. 168g (excluding battery, SD memory card, strap), Accessories. approx. 23g (battery, strap)",
+    "英文简介": "The Ricoh R8 was introduced by Ricoh in 2008."
   },
   "images": [],
   "sources": [

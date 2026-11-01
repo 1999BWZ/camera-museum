@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer旁轴相机，1964 年发布",
-  "description": "The Voigtländer Vitoret L was produced in about 1964.",
+  "description": "Voigtländer于1964年推出的旁轴相机。配备Color Lanthar f/2.8 50mm。快门速度Prontor 300 LK。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitoret L / LR"
+    "Camera-wiki": "Vitoret L / LR",
+    "胶片/画幅": "35mm",
+    "镜头": "Color Lanthar f/2.8 50mm",
+    "快门": "Prontor 300 LK",
+    "闪光灯": "Accessory Shoe with Socket",
+    "英文简介": "The Voigtländer Vitoret L was produced in about 1964."
   },
   "images": [],
   "sources": [

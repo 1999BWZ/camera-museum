@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码相机，2002 年发布",
-  "description": "* VGA resolution (640x480, 0.35Mp)\n* 8Mb of internal memory - no card slot or image display\n* USB A-type connection\n* Introduced in Jan 2002.",
+  "description": "Vivitar于2002年推出的数码相机。配备fixed focus - with close-up switch down to 0.9m, aperture f2.4;。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar ViviCam 20"
+    "Camera-wiki": "Vivitar ViviCam 20",
+    "镜头": "fixed focus - with close-up switch down to 0.9m, aperture f2.4;",
+    "英文简介": "* VGA resolution (640x480, 0.35Mp)\n* 8Mb of internal memory - no card slot or image display\n* USB A-type connection\n* Introduced in Jan 2002."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1975 年发布",
-  "description": "The Trimlite Instamatic 48 was the top model introduced by Kodak in their 1975 line of new 110 film-cartridge cameras.",
+  "description": "柯达于1975年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Trimlite Instamatic 48"
+    "Camera-wiki": "Kodak Trimlite Instamatic 48",
+    "英文简介": "The Trimlite Instamatic 48 was the top model introduced by Kodak in their 1975 line of new 110 film-cartridge cameras."
   },
   "images": [],
   "sources": [

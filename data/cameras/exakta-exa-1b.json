@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Exakta胶片单反相机，1977 年发布",
-  "description": "The Exa 1b is a 35mm film SLR camera, manufactured by VEB Pentacon, former East Germany, and produced between 1977-85.",
+  "description": "Exakta于1977年推出的胶片单反相机。配备simply screw counter clockwise。快门速度Mirror acts like a curtain as a part of the shutter, vertical moving, due to this maximum speed is limited to 1/175; half-depression of the shutter release allows a depth of field preview.。使用special take-up spool, removable。simple matte glass screen,。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exa 1b"
+    "Camera-wiki": "Exa 1b",
+    "镜头": "simply screw counter clockwise",
+    "对焦": "simple matte glass screen,",
+    "快门": "Mirror acts like a curtain as a part of the shutter, vertical moving, due to this maximum speed is limited to 1/175; half-depression of the shutter release allows a depth of field preview.",
+    "取景器": "eye level SLR pentaprism, interchangeable",
+    "闪光灯": "M and X, setting with the speeds knob",
+    "胶片/画幅": "special take-up spool, removable",
+    "卡口": "M42 screw mount",
+    "光圈": "f/2.8-f/22",
+    "英文简介": "The Exa 1b is a 35mm film SLR camera, manufactured by VEB Pentacon, former East Germany, and produced between 1977-85."
   },
   "images": [],
   "sources": [

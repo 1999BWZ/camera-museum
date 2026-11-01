@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1968 年发布",
-  "description": "__NOTOC__\n\nThe Polaroid Big Swinger 3000 was the first rigid plastic bodied packfilm instant camera, released in 1968 and made in the US.",
+  "description": "宝丽来于1968年推出的一次成像相机。快门速度1/200 sec。使用Peel-apart 100-Series pack films in ISO 3000。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Big Swinger 3000"
+    "Camera-wiki": "Polaroid Big Swinger 3000",
+    "胶片/画幅": "Peel-apart 100-Series pack films in ISO 3000",
+    "快门": "1/200 sec",
+    "闪光灯": "AG-1 or AG-1B flashbulbs",
+    "英文简介": "__NOTOC__\n\nThe Polaroid Big Swinger 3000 was the first rigid plastic bodied packfilm instant camera, released in 1968 and made in the US."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Toshiba数码相机，2001 年发布",
-  "description": "The PDR-M21 is a compact digital camera released in 2001 by Toshiba.",
+  "description": "Toshiba于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Toshiba PDR-M21"
+    "Camera-wiki": "Toshiba PDR-M21",
+    "英文简介": "The PDR-M21 is a compact digital camera released in 2001 by Toshiba."
   },
   "images": [],
   "sources": [

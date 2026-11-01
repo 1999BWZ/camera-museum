@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1940 年发布",
-  "description": "The Semi Osamo is a Japanese 4.5&times;6 folding camera made in the first half of the 1940s.",
+  "description": "Semi于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Osamo"
+    "Camera-wiki": "Semi Osamo",
+    "英文简介": "The Semi Osamo is a Japanese 4.5&times;6 folding camera made in the first half of the 1940s."
   },
   "images": [],
   "sources": [

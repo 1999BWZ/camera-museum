@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Monorail cameras胶片单反相机，1961 年发布",
-  "description": "The Pecoflex is an SLR camera for up to 9x9cm exposures, but commonly used for 6x9cm exposures on sheet or roll film, made by Plaubel from about 1961.",
+  "description": "Monorail cameras于1961年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pecoflex"
+    "Camera-wiki": "Pecoflex",
+    "英文简介": "The Pecoflex is an SLR camera for up to 9x9cm exposures, but commonly used for 6x9cm exposures on sheet or roll film, made by Plaubel from about 1961."
   },
   "images": [],
   "sources": [

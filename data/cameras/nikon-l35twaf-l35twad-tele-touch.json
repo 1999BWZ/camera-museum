@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1986 年发布",
-  "description": "The Nikon L35TWAF (also known as Tele•Touch) is a compact camera for 35mm film, introduced as part of the L series, by Nikon in 1986.",
+  "description": "尼康于1986年推出的便携相机。配备38mm/65mm, with macro ability down to 40cm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon L35TWAF/L35TWAD/Tele•Touch"
+    "Camera-wiki": "Nikon L35TWAF/L35TWAD/Tele•Touch",
+    "镜头": "38mm/65mm, with macro ability down to 40cm.",
+    "英文简介": "The Nikon L35TWAF (also known as Tele•Touch) is a compact camera for 35mm film, introduced as part of the L series, by Nikon in 1986."
   },
   "images": [],
   "sources": [

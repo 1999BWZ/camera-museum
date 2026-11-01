@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1993 年发布",
-  "description": "The Nikon 35Ti is an instantly recognisable compact camera issued in 1993.",
+  "description": "尼康于1993年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon 35Ti"
+    "Camera-wiki": "Nikon 35Ti",
+    "英文简介": "The Nikon 35Ti is an instantly recognisable compact camera issued in 1993."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1998 年发布",
-  "description": "The Minolta F25 is a basic fixed focus 35mm viewfinder camera made in China for Minolta in c.1998[https://web.archive.org/web/20040725190009/http://www.minoltaeurope.com:80/pe/pdfs/f_25_cat_e.pdf Minolta F25 Brochure, Copyright 1998] (archived).",
+  "description": "美能达于1998年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta F25"
+    "Camera-wiki": "Minolta F25",
+    "英文简介": "The Minolta F25 is a basic fixed focus 35mm viewfinder camera made in China for Minolta in c.1998[https://web.archive.org/web/20040725190009/http://www.minoltaeurope.com:80/pe/pdfs/f_25_cat_e.pdf Minolta F25 Brochure, Copyright 1998] (archived)."
   },
   "images": [],
   "sources": [

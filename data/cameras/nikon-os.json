@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康取景器相机，1963 年发布",
-  "description": "The 1961 Calypso underwater camera was created and manufactured in France, inspired by diving pioneer Jacques-Yves Cousteau, and named for his research ship.",
+  "description": "尼康于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikonos"
+    "Camera-wiki": "Nikonos",
+    "英文简介": "The 1961 Calypso underwater camera was created and manufactured in France, inspired by diving pioneer Jacques-Yves Cousteau, and named for his research ship."
   },
   "images": [],
   "sources": [

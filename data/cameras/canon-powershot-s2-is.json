@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2005 年发布",
-  "description": "Canon's PowerShot S2 IS is a 5 Megapixel digital camera introduced in 2005.",
+  "description": "佳能于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot S2 IS"
+    "Camera-wiki": "Canon PowerShot S2 IS",
+    "英文简介": "Canon's PowerShot S2 IS is a 5 Megapixel digital camera introduced in 2005."
   },
   "images": [],
   "sources": [

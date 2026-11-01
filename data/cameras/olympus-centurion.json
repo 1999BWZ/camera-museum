@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片单反相机，1996 年发布",
-  "description": "The Centurion was Olympus's SLR for the Advanced Photo System (APS).",
+  "description": "奥林巴斯于1996年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Centurion"
+    "Camera-wiki": "Olympus Centurion",
+    "英文简介": "The Centurion was Olympus's SLR for the Advanced Photo System (APS)."
   },
   "images": [],
   "sources": [

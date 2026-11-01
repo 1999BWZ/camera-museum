@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue中画幅相机，1976 年发布",
-  "description": "The Revue 6x6 is a medium format TLR camera distributed by Foto-Quelle of Germany under the Revue branding.",
+  "description": "Revue于1976年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue 6x6"
+    "Camera-wiki": "Revue 6x6",
+    "英文简介": "The Revue 6x6 is a medium format TLR camera distributed by Foto-Quelle of Germany under the Revue branding."
   },
   "images": [],
   "sources": [

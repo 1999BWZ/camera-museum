@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，1996 年发布",
-  "description": "The C-800L (or D-300L in some markets) was introduced by Olympus in 1996 as the inaugural model in their Camedia series of consumer-oriented digital cameras.",
+  "description": "奥林巴斯于1996年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-800L"
+    "Camera-wiki": "Olympus C-800L",
+    "英文简介": "The C-800L (or D-300L in some markets) was introduced by Olympus in 1996 as the inaugural model in their Camedia series of consumer-oriented digital cameras."
   },
   "images": [],
   "sources": [

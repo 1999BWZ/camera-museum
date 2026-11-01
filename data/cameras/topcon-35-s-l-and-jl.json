@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon旁轴相机，1956 年发布",
-  "description": "The Topcon 35-S, Topcon 35-L and Topcon-JL are 35mm film rangefinder cameras produced by Tōkyō Kōgaku in the mid 1950's.",
+  "description": "Topcon于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon 35-S, L and JL"
+    "Camera-wiki": "Topcon 35-S, L and JL",
+    "英文简介": "The Topcon 35-S, Topcon 35-L and Topcon-JL are 35mm film rangefinder cameras produced by Tōkyō Kōgaku in the mid 1950's."
   },
   "images": [],
   "sources": [

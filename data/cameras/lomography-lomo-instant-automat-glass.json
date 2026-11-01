@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography一次成像相机，2017 年发布",
-  "description": "The Lomo'Instant Automat Glass is a camera for instant photos on Instax mini film (46x62mm), made by Lomography.",
+  "description": "Lomography于2017年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomo'Instant Automat Glass"
+    "Camera-wiki": "Lomo'Instant Automat Glass",
+    "英文简介": "The Lomo'Instant Automat Glass is a camera for instant photos on Instax mini film (46x62mm), made by Lomography."
   },
   "images": [],
   "sources": [

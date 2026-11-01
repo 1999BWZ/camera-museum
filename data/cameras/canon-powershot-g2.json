@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2001 年发布",
-  "description": "The Canon PowerShot G2 is a 4 megapixel compact digital camera made by Canon, introduced in 2001.",
+  "description": "佳能于2001年推出的数码相机。配备7-21mm f2-2.5 (3x zoom, 35mm equivalent 34-102mm); min aperture f8。感光度50-400 ISO (with auto-adjust mode)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot G2"
+    "Camera-wiki": "Canon PowerShot G2",
+    "镜头": "7-21mm f2-2.5 (3x zoom, 35mm equivalent 34-102mm); min aperture f8",
+    "传感器": "1/1.8-inch CCD, 4.1 million pixels",
+    "感光度": "50-400 ISO (with auto-adjust mode)",
+    "重量": "Approx. 425g (14.8 oz.) (body only, no battery)",
+    "英文简介": "The Canon PowerShot G2 is a 4 megapixel compact digital camera made by Canon, introduced in 2001."
   },
   "images": [],
   "sources": [

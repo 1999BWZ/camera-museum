@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Samoca旁轴相机，1960 年发布",
-  "description": "The Samoca LE-II is a rangefinder camera for 35mm film.",
+  "description": "Samoca于1960年推出的旁轴相机。配备Samocar 1:2,8/50mm。快门速度leaf shutter with speeds 1 sec. to 1/300 sec.。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samoca LE-II"
+    "Camera-wiki": "Samoca LE-II",
+    "胶片/画幅": "35mm",
+    "镜头": "Samocar 1:2,8/50mm",
+    "快门": "leaf shutter with speeds 1 sec. to 1/300 sec.",
+    "光圈": "1:2,8 to 1:22",
+    "取景器": "optical finder with superimposed coupled rangefinder, bright frame with parallax correction marks",
+    "曝光测光": "Selenium meter",
+    "英文简介": "The Samoca LE-II is a rangefinder camera for 35mm film."
   },
   "images": [],
   "sources": [

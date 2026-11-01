@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1926 年发布",
-  "description": "The Idea Spring (アイデア・スプリング) are Japanese strut-folding cameras with a focal plane shutter, made by Rokuoh-sha, the manufacturing branch of Konishiroku (predecessor of Konica).",
+  "description": "柯尼卡于1926年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Idea Spring"
+    "Camera-wiki": "Idea Spring",
+    "英文简介": "The Idea Spring (アイデア・スプリング) are Japanese strut-folding cameras with a focal plane shutter, made by Rokuoh-sha, the manufacturing branch of Konishiroku (predecessor of Konica)."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1964 年发布",
-  "description": "The Ansco Autoset CdS is a 1964 viewfinder cameraIt is described as a rangefinder in McKeown's 12th edition, page 55; but the owner of the example shown here confirms it is scale focus only.",
+  "description": "美能达于1964年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "GAF Ansco Autoset CdS"
+    "Camera-wiki": "GAF Ansco Autoset CdS",
+    "英文简介": "The Ansco Autoset CdS is a 1964 viewfinder cameraIt is described as a rangefinder in McKeown's 12th edition, page 55; but the owner of the example shown here confirms it is scale focus only."
   },
   "images": [],
   "sources": [

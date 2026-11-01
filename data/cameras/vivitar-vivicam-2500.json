@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码相机，1997 年发布",
-  "description": "The Vivitar ViviCam 2500 is a circa 1997 digital camera.",
+  "description": "Vivitar于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar ViviCam 2500"
+    "Camera-wiki": "Vivitar ViviCam 2500",
+    "英文简介": "The Vivitar ViviCam 2500 is a circa 1997 digital camera."
   },
   "images": [],
   "sources": [

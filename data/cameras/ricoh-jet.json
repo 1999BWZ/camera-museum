@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1959 年发布",
-  "description": "The Ricoh Jet also named Ricoh 500 is a rangefinder camera with fixed lens made in Japan by Ricoh from 1959.",
+  "description": "理光于1959年推出的旁轴相机。配备** Riken Optical Ricoh 4.5cm f/2.8 - 5 elements in 3 groups, made by Tomioka Optical (December 1959)。快门速度Seikosha SLV, Speeds 1/10 - 1/500 sec + B。manual focusing with help of coupled rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Jet"
+    "Camera-wiki": "Ricoh Jet",
+    "镜头": "** Riken Optical Ricoh 4.5cm f/2.8 - 5 elements in 3 groups, made by Tomioka Optical (December 1959)",
+    "快门": "Seikosha SLV, Speeds 1/10 - 1/500 sec + B",
+    "光圈": "1:2.8 - 1:22",
+    "曝光测光": "Light Value system with external light meter (The Light Value system was first adopted in Japan on the first Ricoh 500 version)",
+    "对焦": "manual focusing with help of coupled rangefinder",
+    "尺寸": "140mm x 81mm x 67mm",
+    "重量": "720g for f2.8 version and 725 g for f1.9 version",
+    "英文简介": "The Ricoh Jet also named Ricoh 500 is a rangefinder camera with fixed lens made in Japan by Ricoh from 1959."
   },
   "images": [],
   "sources": [

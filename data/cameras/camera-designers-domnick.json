@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Camera designers旁轴相机，1962 年发布",
-  "description": "Hans F W Domnick was a camera designer in Berlin in the 1960s and '70s.",
+  "description": "Camera designers于1962年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Domnick"
+    "Camera-wiki": "Domnick",
+    "英文简介": "Hans F W Domnick was a camera designer in Berlin in the 1960s and '70s."
   },
   "images": [],
   "sources": [

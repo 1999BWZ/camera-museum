@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1941 年发布",
-  "description": "{|align=\"right\"\n|\n\n|-\n||\n\n|}\n\nThe Kodak Medalist is a high-quality (but bulky and heavy) medium format rangefinder camera making 8 6x9 exposures on 620 film.",
+  "description": "柯达于1941年推出的旁轴相机。配备Kodak Ektar 100mm f/3.5 - 5 element, 3 group design (Kodak Lumenized coated)。快门速度1/400, 1/200, 1/100, 1/50, 1/25, 1/10, 1/5, 1/2, 1s and B。使用Manual - hinged back with double latches to be removed entirely。Horizontal split image coupled rangefinder focusing, 3ft to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Medalist"
+    "Camera-wiki": "Kodak Medalist",
+    "镜头": "Kodak Ektar 100mm f/3.5 - 5 element, 3 group design (Kodak Lumenized coated)",
+    "快门": "Kodak Supermatic No. 2 (Medalist I), Kodak Flash Supermatic (Medalist II)",
+    "对焦": "Horizontal split image coupled rangefinder focusing, 3ft to infinity",
+    "快门速度": "1/400, 1/200, 1/100, 1/50, 1/25, 1/10, 1/5, 1/2, 1s and B",
+    "取景器": "Eye level finder, separate from the rangefinder, parallax corrected",
+    "胶片/画幅": "Manual - hinged back with double latches to be removed entirely",
+    "闪光灯": "Medalist II only: ASA bayonet socket on the body, sync for F and M type bulbs",
+    "英文简介": "{|align=\"right\"\n|\n\n|-\n||\n\n|}\n\nThe Kodak Medalist is a high-quality (but bulky and heavy) medium format rangefinder camera making 8 6x9 exposures on 620 film."
   },
   "images": [],
   "sources": [

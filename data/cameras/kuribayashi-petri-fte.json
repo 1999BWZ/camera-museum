@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi胶片单反相机，1973 年发布",
-  "description": "The FTE was made by Petri, it is an SLR for 35mm film with shutter priority automatic exposure and manual mode, bayonet lens mount with breech lock.",
+  "description": "Kuribayashi于1973年推出的胶片单反相机。快门速度1/2 to 1/500 s and B。感光度25 to 800。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri FTE"
+    "Camera-wiki": "Petri FTE",
+    "快门速度": "1/2 to 1/500 s and B",
+    "感光度": "25 to 800",
+    "尺寸": "142 x 93 x 88 mm",
+    "重量": "690 g (body)",
+    "电池": "1.3 V mercury 675",
+    "英文简介": "The FTE was made by Petri, it is an SLR for 35mm film with shutter priority automatic exposure and manual mode, bayonet lens mount with breech lock."
   },
   "images": [],
   "sources": [

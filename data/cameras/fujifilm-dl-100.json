@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片相机，2002 年发布",
-  "description": "Fujifilm DL-100 is a basic autofocus camera released in 2002 by Fuji.",
+  "description": "富士于2002年推出的胶片相机。配备Fujinon 32 mm ƒ/4.5。使用Motor wind and rewind.。Yes.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm DL-100"
+    "Camera-wiki": "Fujifilm DL-100",
+    "镜头": "Fujinon 32 mm ƒ/4.5",
+    "对焦": "Yes.",
+    "闪光灯": "Built-in",
+    "胶片/画幅": "Motor wind and rewind.",
+    "英文简介": "Fujifilm DL-100 is a basic autofocus camera released in 2002 by Fuji."
   },
   "images": [],
   "sources": [

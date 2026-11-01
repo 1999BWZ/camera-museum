@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue胶片相机，1982 年发布",
-  "description": "Sold as a Revue camera by Foto-Quelle c.1982[https://www.photo-foto.eu/revue/revue-600-af-motor/ Revue 600 AF motor page] at [https://www.photo-foto.eu/ Cameras and More by Wolfgang Bongardt] (in German).",
+  "description": "Revue于1982年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue 600 AF motor"
+    "Camera-wiki": "Revue 600 AF motor",
+    "英文简介": "Sold as a Revue camera by Foto-Quelle c.1982[https://www.photo-foto.eu/revue/revue-600-af-motor/ Revue 600 AF motor page] at [https://www.photo-foto.eu/ Cameras and More by Wolfgang Bongardt] (in German)."
   },
   "images": [],
   "sources": [

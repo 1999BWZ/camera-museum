@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer折叠相机，1936 年发布",
-  "description": "The Bessa Rangefinder or Bessa RF (also known as the Bessa E Messer, from Entfernungsmesser, the German for 'rangefinder') was introduced in 1936, one of a long-running series of Bessa cameras made by Voigtländer.",
+  "description": "Voigtländer于1936年推出的折叠相机。配备3.5/Skopar f1:3.5/Heliar f1:3.6.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bessa RF"
+    "Camera-wiki": "Bessa RF",
+    "镜头": "3.5/Skopar f1:3.5/Heliar f1:3.6.",
+    "英文简介": "The Bessa Rangefinder or Bessa RF (also known as the Bessa E Messer, from Entfernungsmesser, the German for 'rangefinder') was introduced in 1936, one of a long-running series of Bessa cameras made by Voigtländer."
   },
   "images": [],
   "sources": [

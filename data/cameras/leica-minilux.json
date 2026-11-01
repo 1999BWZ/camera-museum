@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡胶片单反相机，1995 年发布",
-  "description": "The Leica Minilux is a compact 35mm camera made by Panasonic for Leica in 1995.",
+  "description": "徕卡于1995年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica Minilux"
+    "Camera-wiki": "Leica Minilux",
+    "英文简介": "The Leica Minilux is a compact 35mm camera made by Panasonic for Leica in 1995."
   },
   "images": [],
   "sources": [

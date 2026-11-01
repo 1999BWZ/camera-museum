@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1993 年发布",
-  "description": "The XR-7M II was an SLR for 35mm film introduced by Ricoh in 1993, and accepting K mount lenses.",
+  "description": "理光于1993年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh XR-7M II"
+    "Camera-wiki": "Ricoh XR-7M II",
+    "英文简介": "The XR-7M II was an SLR for 35mm film introduced by Ricoh in 1993, and accepting K mount lenses."
   },
   "images": [],
   "sources": [

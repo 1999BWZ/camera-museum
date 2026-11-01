@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1993 年发布",
-  "description": "For the identical named digital SLR camera see Canon EOS Rebel XS.",
+  "description": "佳能于1993年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 500"
+    "Camera-wiki": "Canon EOS 500",
+    "英文简介": "For the identical named digital SLR camera see Canon EOS Rebel XS."
   },
   "images": [],
   "sources": [

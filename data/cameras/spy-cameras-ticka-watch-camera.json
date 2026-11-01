@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spy cameras微型相机，1905 年发布",
-  "description": "The Ticka watch camera was made in England by Houghtons, between c.1905 and 1914.",
+  "description": "Spy cameras于1905年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ticka watch camera"
+    "Camera-wiki": "Ticka watch camera",
+    "英文简介": "The Ticka watch camera was made in England by Houghtons, between c.1905 and 1914."
   },
   "images": [],
   "sources": [

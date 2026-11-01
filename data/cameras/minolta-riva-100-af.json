@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1996 年发布",
-  "description": "The Minolta Riva 100 AF is a cheap autofocus compact camera released in 1996.",
+  "description": "美能达于1996年推出的便携相机。配备34 mm f/4.。快门速度1/30 or 1/125 s.。使用Automatic loading and advance, manually activated motor rewind.。感光度DX coded films ISO 100–400. Non-DX films exposed as ISO 100.。Active infrared autofocus from 1,3 m to infinity in two zones. Manually activated infinity focus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva 100 AF"
+    "Camera-wiki": "Minolta Riva 100 AF",
+    "镜头": "34 mm f/4.",
+    "快门": "1/30 or 1/125 s.",
+    "对焦": "Active infrared autofocus from 1,3 m to infinity in two zones. Manually activated infinity focus.",
+    "闪光灯": "Built-in auto flash with anti-red eye lamp. Forced flash and flash cancel buttons. Range: 1,3–4 m. Flash ready LED signal.",
+    "感光度": "DX coded films ISO 100–400. Non-DX films exposed as ISO 100.",
+    "胶片/画幅": "Automatic loading and advance, manually activated motor rewind.",
+    "尺寸": "126 x 70,5 x 47,5 mm.",
+    "重量": "190 g without batteries.",
+    "英文简介": "The Minolta Riva 100 AF is a cheap autofocus compact camera released in 1996."
   },
   "images": [],
   "sources": [

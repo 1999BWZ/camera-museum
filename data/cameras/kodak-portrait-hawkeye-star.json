@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1933 年发布",
-  "description": "Kodak's Portrait 'Hawkeye' *Star* is a British-made camera box camera for 620 film, at the time a very popular film format.",
+  "description": "柯达于1933年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Portrait 'Hawkeye' *Star*"
+    "Camera-wiki": "Kodak Portrait 'Hawkeye' *Star*",
+    "英文简介": "Kodak's Portrait 'Hawkeye' *Star* is a British-made camera box camera for 620 film, at the time a very popular film format."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA折叠相机，1920 年发布",
-  "description": "The Icarette series of cameras were made by ICA from 1912 and are non-self-erecting folding bed cameras for roll film.",
+  "description": "ICA于1920年推出的折叠相机。使用120 roll film (some early versions for 117 roll film)。Lever。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Icarette"
+    "Camera-wiki": "Icarette",
+    "胶片/画幅": "120 roll film (some early versions for 117 roll film)",
+    "尺寸": "6×6 cm",
+    "取景器": "Collapsible brilliant finder and some versions with Iconometer (wire finder)",
+    "对焦": "Lever",
+    "英文简介": "The Icarette series of cameras were made by ICA from 1912 and are non-self-erecting folding bed cameras for roll film."
   },
   "images": [],
   "sources": [

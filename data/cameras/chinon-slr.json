@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon数码单反相机，1979 年发布",
-  "description": "The Chinon SLR (its actual model designation) is, shockingly, an SLR made by Chinon.",
+  "description": "Chinon于1979年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon SLR"
+    "Camera-wiki": "Chinon SLR",
+    "英文简介": "The Chinon SLR (its actual model designation) is, shockingly, an SLR made by Chinon."
   },
   "images": [],
   "sources": [

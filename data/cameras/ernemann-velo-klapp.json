@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1924 年发布",
-  "description": "The Velo-Klapp is a strut-folding 9x12 plate camera with a focal-plane shutter, made by Ernemann.",
+  "description": "Ernemann于1924年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Velo-Klapp"
+    "Camera-wiki": "Velo-Klapp",
+    "英文简介": "The Velo-Klapp is a strut-folding 9x12 plate camera with a focal-plane shutter, made by Ernemann."
   },
   "images": [],
   "sources": [

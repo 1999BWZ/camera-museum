@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Montanus胶片相机，1956 年发布",
-  "description": "Note: a different Montanus Montiflex which lacks the curved bevel above the viewing lens is a name variant of the Montanus Delmonta.",
+  "description": "Montanus于1956年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Montiflex"
+    "Camera-wiki": "Montiflex",
+    "英文简介": "Note: a different Montanus Montiflex which lacks the curved bevel above the viewing lens is a name variant of the Montanus Delmonta."
   },
   "images": [],
   "sources": [

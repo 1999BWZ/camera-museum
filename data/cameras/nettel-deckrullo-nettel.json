@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nettel折叠相机，1919 年发布",
-  "description": "The Deckrullo-Nettel is a series of wooden-bodied strut-folding plate cameras with focal-plane shutters.",
+  "description": "Nettel于1919年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Deckrullo-Nettel"
+    "Camera-wiki": "Deckrullo-Nettel",
+    "英文简介": "The Deckrullo-Nettel is a series of wooden-bodied strut-folding plate cameras with focal-plane shutters."
   },
   "images": [],
   "sources": [

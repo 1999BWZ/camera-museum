@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，2000 年发布",
-  "description": "The Russian Zenit 412LS 35mm SLR from KMZ takes M42 screw mount lenses.",
+  "description": "KMZ于2000年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 412LS"
+    "Camera-wiki": "Zenit 412LS",
+    "英文简介": "The Russian Zenit 412LS 35mm SLR from KMZ takes M42 screw mount lenses."
   },
   "images": [],
   "sources": [

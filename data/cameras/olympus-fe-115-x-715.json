@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2006 年发布",
-  "description": "The FE-115, also known as the X-715 is a 5 megapixel digital camera introduced by Olympus in 2006.",
+  "description": "奥林巴斯于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus FE-115 / X-715"
+    "Camera-wiki": "Olympus FE-115 / X-715",
+    "英文简介": "The FE-115, also known as the X-715 is a 5 megapixel digital camera introduced by Olympus in 2006."
   },
   "images": [],
   "sources": [

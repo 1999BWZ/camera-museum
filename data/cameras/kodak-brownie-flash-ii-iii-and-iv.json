@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1956 年发布",
-  "description": "The Kodak Brownie Flash II, III and IV were box cameras, taking 2&frac14; &times; 3&frac14;\" exposures on type 620 film.",
+  "description": "柯达于1956年推出的盒式相机。快门速度** Flash II: Kodet with close-up lens。使用type 620 roll film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Flash II, III and IV"
+    "Camera-wiki": "Kodak Brownie Flash II, III and IV",
+    "胶片/画幅": "type 620 roll film",
+    "快门": "** Flash II: Kodet with close-up lens",
+    "英文简介": "The Kodak Brownie Flash II, III and IV were box cameras, taking 2&frac14; &times; 3&frac14;\" exposures on type 620 film."
   },
   "images": [],
   "sources": [

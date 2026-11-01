@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2001 年发布",
-  "description": "The Camedia C-1 is a digital camera released from Olympus in 2001.",
+  "description": "奥林巴斯于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Camedia C-1"
+    "Camera-wiki": "Olympus Camedia C-1",
+    "英文简介": "The Camedia C-1 is a digital camera released from Olympus in 2001."
   },
   "images": [],
   "sources": [

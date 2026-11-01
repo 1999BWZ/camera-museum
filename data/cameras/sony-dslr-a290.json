@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2010 年发布",
-  "description": "索尼于2010年发布的数码单反相机。",
+  "description": "索尼于2010年推出的数码单反相机。配备Interchangeable, Sony α / Konica Minolta A mount。快门速度| shutterRange = 30s to 1/4000s (1/1 stops), including Bulb setting。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q4049752",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "传感器": "14.0 effective megapixels 23.5 × 15.7 mm CCD",
+    "镜头": "Interchangeable, Sony α / Konica Minolta A mount",
+    "快门速度": "| shutterRange = 30s to 1/4000s (1/1 stops), including Bulb setting",
+    "曝光测光": "| emode =",
+    "取景器": "95% coverage, 0.83x",
+    "闪光灯": "Built in",
+    "存储": "SD, SDHC, Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick PRO-HG Duo HX",
+    "电池": "Lithium-ion battery pack, Model NP-FH50",
+    "重量": "(without battery)"
   },
   "images": [
     {

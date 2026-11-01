@@ -13,11 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1959 年发布",
-  "description": "尼康于1959年发布的胶片单反相机。",
+  "description": "尼康于1959年推出的胶片单反相机。配备Nikon F-mount。快门速度mechanical。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1931209",
-    "多语言词条数": "13"
+    "多语言词条数": "13",
+    "胶片/画幅": "35 mm",
+    "快门速度": "mechanical",
+    "镜头": "Nikon F-mount",
+    "对焦": "manual",
+    "曝光测光": "manual",
+    "闪光灯": "non-ISO hot shoe, or PC socket for off-camera flash",
+    "尺寸": "| madeIn = Japan"
   },
   "images": [
     {

@@ -1,0 +1,32 @@
+{
+  "id": "olympus-c-1000l",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "C-1000L",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，1997 年发布",
+  "description": "奥林巴斯于1997年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q137762688",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus C-1000L",
+      "url": "https://www.wikidata.org/wiki/Q137762688"
+    }
+  ],
+  "qid": "Q137762688",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

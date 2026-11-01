@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Umemoto折叠相机，1936 年发布",
-  "description": "The Super Makinet Six is a Japanese 6×6 strut folder, made by Umemoto and sold by Kikōdō from 1936 to 1939.",
+  "description": "Umemoto于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Super Makinet Six and Neure Six"
+    "Camera-wiki": "Super Makinet Six and Neure Six",
+    "英文简介": "The Super Makinet Six is a Japanese 6×6 strut folder, made by Umemoto and sold by Kikōdō from 1936 to 1939."
   },
   "images": [],
   "sources": [

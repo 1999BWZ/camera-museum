@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Holga玩具相机，2008 年发布",
-  "description": "Holgawood is a series of Holga 120N cameras painted in an assortment of colours and released in 2008.",
+  "description": "Holga于2008年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Holgawood"
+    "Camera-wiki": "Holgawood",
+    "英文简介": "Holgawood is a series of Holga 120N cameras painted in an assortment of colours and released in 2008."
   },
   "images": [],
   "sources": [

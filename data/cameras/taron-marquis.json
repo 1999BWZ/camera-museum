@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron旁轴相机，1962 年发布",
-  "description": "The Taron Marquis is a 35mm rangefinder with a six element Taronar 1:1.6 f-45mm lens in Citizen MVL shutter.",
+  "description": "Taron于1962年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron Marquis"
+    "Camera-wiki": "Taron Marquis",
+    "英文简介": "The Taron Marquis is a 35mm rangefinder with a six element Taronar 1:1.6 f-45mm lens in Citizen MVL shutter."
   },
   "images": [],
   "sources": [

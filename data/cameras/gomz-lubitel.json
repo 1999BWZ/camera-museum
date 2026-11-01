@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GOMZ胶片相机，1949 年发布",
-  "description": "The Lubitel is a TLR made by GOMZ from 1949 to 1956.",
+  "description": "GOMZ于1949年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lubitel"
+    "Camera-wiki": "Lubitel",
+    "英文简介": "The Lubitel is a TLR made by GOMZ from 1949 to 1956."
   },
   "images": [],
   "sources": [

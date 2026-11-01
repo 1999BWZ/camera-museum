@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rietzschel折叠相机，1906 年发布",
-  "description": "Rietzschel's Clack is a folding bed camera for film plates or sheet film, made around 1910, in variants for the formats 10&times;15cm and 13&times;18cm.",
+  "description": "Rietzschel于1906年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rietzschel Clack"
+    "Camera-wiki": "Rietzschel Clack",
+    "英文简介": "Rietzschel's Clack is a folding bed camera for film plates or sheet film, made around 1910, in variants for the formats 10&times;15cm and 13&times;18cm."
   },
   "images": [],
   "sources": [

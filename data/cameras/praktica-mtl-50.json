@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1985 年发布",
-  "description": "The Praktica MTL 50 is a 35mm SLR made by KW 1985-89.",
+  "description": "潘泰康于1985年推出的数码单反相机。快门速度B;1-1000th。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica MTL 50"
+    "Camera-wiki": "Praktica MTL 50",
+    "快门速度": "B;1-1000th",
+    "英文简介": "The Praktica MTL 50 is a 35mm SLR made by KW 1985-89."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dresden盒式相机，1932 年发布",
-  "description": "In 1932 Balda-Werk Max Baldeweg in Dresden introduced a box camera for 127 film.",
+  "description": "Dresden于1932年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Micky 2"
+    "Camera-wiki": "Micky 2",
+    "英文简介": "In 1932 Balda-Werk Max Baldeweg in Dresden introduced a box camera for 127 film."
   },
   "images": [],
   "sources": [

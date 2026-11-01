@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pentacon胶片单反相机，1966 年发布",
-  "description": "The Pentacon 6 is a medium-format system camera, an SLR that takes 6&times;6 pictures on 120 film.",
+  "description": "Pentacon于1966年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentacon Six"
+    "Camera-wiki": "Pentacon Six",
+    "英文简介": "The Pentacon 6 is a medium-format system camera, an SLR that takes 6&times;6 pictures on 120 film."
   },
   "images": [],
   "sources": [

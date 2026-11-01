@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1995 年发布",
-  "description": "Properties of the Minox TLX:\n\n* Four-element 15 mm MINOX lens f/3,5/15mm\n* Electronic exposure measuring\n* Aluminium housing with titanium anodized finish\n* Range setting from 20 cm to infinity\n* Aperture priority (1/2000 s - B)\n* Manual setting (1/2000 s - 1/30 s)\n* Retractable neutral density filt",
+  "description": "Minox于1995年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox TLX"
+    "Camera-wiki": "Minox TLX",
+    "英文简介": "Properties of the Minox TLX:\n\n* Four-element 15 mm MINOX lens f/3,5/15mm\n* Electronic exposure measuring\n* Aluminium housing with titanium anodized finish\n* Range setting from 20 cm to infinity\n* Aperture priority (1/2000 s - B)\n* Manual setting (1/2000 s - 1/30 s)\n* Retractable neutral density filter"
   },
   "images": [],
   "sources": [

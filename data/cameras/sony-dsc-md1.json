@@ -1,0 +1,40 @@
+{
+  "id": "sony-dsc-md1",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSC-MD1",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，1998 年发布",
+  "description": "索尼于1998年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889229",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20CyberShot%20DSC-MD1%20CP%2B%202011.jpg?width=800",
+      "caption": "DSC-MD1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889229"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSC-MD1",
+      "url": "https://www.wikidata.org/wiki/Q20889229"
+    }
+  ],
+  "qid": "Q20889229",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

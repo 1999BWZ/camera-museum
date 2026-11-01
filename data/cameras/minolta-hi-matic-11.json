@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1969 年发布",
-  "description": "{|class=floatleft\n|\n\n|}\n\nThe Hi-Matic 11 by Minolta is a Japanese 35mm rangefinder camera - introduced in 1969.",
+  "description": "美能达于1969年推出的旁轴相机。配备Rokkor-PF 45mm f1.7, 6 elements in 5 groups; focus down to 0.9m (3ft)。快门速度Seiko ALA, leaf shutter with self-timer (approx. 10sec)。使用Wind lever with 220 degree throw; single full stroke or multiple short strokes。感光度25-500 ASA; 15-28 DIN。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic 11"
+    "Camera-wiki": "Minolta Hi-Matic 11",
+    "镜头": "Rokkor-PF 45mm f1.7, 6 elements in 5 groups; focus down to 0.9m (3ft)",
+    "卡口": "55mm",
+    "快门": "Seiko ALA, leaf shutter with self-timer (approx. 10sec)",
+    "曝光测光": "Full automatic and Shutter priority automatic exposure",
+    "闪光灯": "hot shoe and PC socket (at end, below rewind crank); automatic flash control--the user enters the guide number and the camera sets the aperture",
+    "感光度": "25-500 ASA; 15-28 DIN",
+    "胶片/画幅": "Wind lever with 220 degree throw; single full stroke or multiple short strokes",
+    "取景器": "Tinted rangefinder, bright line frame; automatic parallax correction; shutter, aperture, battery condition, and flashmatic displays",
+    "重量": "740g (26oz)",
+    "尺寸": "Height--82mm (3.25in); Width--140mm (5.5in); Depth--75mm (3in)",
+    "英文简介": "{|class=floatleft\n|\n\n|}\n\nThe Hi-Matic 11 by Minolta is a Japanese 35mm rangefinder camera - introduced in 1969."
   },
   "images": [],
   "sources": [

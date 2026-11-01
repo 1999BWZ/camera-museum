@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1997 年发布",
-  "description": "The Dental Eye cameras were a series of specialized SLRs for 35mm film from Yashica, later Kyocera.",
+  "description": "雅西卡于1997年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Dental Eye"
+    "Camera-wiki": "Yashica Dental Eye",
+    "英文简介": "The Dental Eye cameras were a series of specialized SLRs for 35mm film from Yashica, later Kyocera."
   },
   "images": [],
   "sources": [

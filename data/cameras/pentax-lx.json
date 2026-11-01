@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1980 年发布",
-  "description": "宾得于1980年发布的胶片单反相机。",
+  "description": "宾得于1980年推出的胶片单反相机。配备Pentax K。快门速度Horizontal-running titanium shutter, mechanical or electronic operation。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q824877",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "胶片/画幅": "35mm",
+    "快门速度": "Horizontal-running titanium shutter, mechanical or electronic operation",
+    "镜头": "Pentax K",
+    "对焦": "Manual",
+    "取景器": "Interchangeable eye-level pentaprism viewfinder",
+    "闪光灯": "Hot shoe, PC socket",
+    "曝光测光": "Off-the-film (OTF) TTL",
+    "电池": "2×SR44 or 1×CR11108",
+    "尺寸": "with standard FA-1 finder"
   },
   "images": [
     {

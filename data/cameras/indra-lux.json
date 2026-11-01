@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Indra取景器相机，1949 年发布",
-  "description": "Manufactured in 1949, the Indra Lux is a plastic camera that was made in Germany by Indra-Camera G.m.b.H.",
+  "description": "Indra于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Indra Lux"
+    "Camera-wiki": "Indra Lux",
+    "英文简介": "Manufactured in 1949, the Indra Lux is a plastic camera that was made in Germany by Indra-Camera G.m.b.H."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Patent折叠相机，1920 年发布",
-  "description": "The Patent Etui are extra-slim folding plate cameras.",
+  "description": "Patent于1920年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Patent Etui"
+    "Camera-wiki": "Patent Etui",
+    "重量": "815g",
+    "英文简介": "The Patent Etui are extra-slim folding plate cameras."
   },
   "images": [],
   "sources": [

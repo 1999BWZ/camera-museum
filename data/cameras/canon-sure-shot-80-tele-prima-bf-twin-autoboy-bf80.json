@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1995 年发布",
-  "description": "An August 1995 model from the Canon Sure Shot/Prima/Autoboy series, this compact camera has fully-automatic 3-point autofocus and exposure with two built-in switchable lenses.",
+  "description": "佳能于1995年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot 80 Tele/Prima BF Twin/Autoboy BF80"
+    "Camera-wiki": "Canon Sure Shot 80 Tele/Prima BF Twin/Autoboy BF80",
+    "英文简介": "An August 1995 model from the Canon Sure Shot/Prima/Autoboy series, this compact camera has fully-automatic 3-point autofocus and exposure with two built-in switchable lenses."
   },
   "images": [],
   "sources": [

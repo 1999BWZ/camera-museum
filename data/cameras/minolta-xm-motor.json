@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1976 年发布",
-  "description": "The Minolta XM Motor is basically a Minolta XM with added grip and film advance motor.",
+  "description": "美能达于1976年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta XM Motor"
+    "Camera-wiki": "Minolta XM Motor",
+    "英文简介": "The Minolta XM Motor is basically a Minolta XM with added grip and film advance motor."
   },
   "images": [],
   "sources": [

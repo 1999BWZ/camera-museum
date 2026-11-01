@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Crowdfunded cameras一次成像相机，2022 年发布",
-  "description": "The Nons SL660 is an interchangeable lens SLR for Instax Square launched by Chinese maker Nons in 2022.",
+  "description": "Crowdfunded cameras于2022年推出的一次成像相机。快门速度1sec to 1/250 plus bulb (up to 999 second)。使用Instax Square。simple Fresnel lens。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nons SL660"
+    "Camera-wiki": "Nons SL660",
+    "胶片/画幅": "Instax Square",
+    "快门": "1sec to 1/250 plus bulb (up to 999 second)",
+    "卡口": "Passive Canon EF mount",
+    "曝光测光": "Non TTL partially coupled to shutter speed",
+    "取景器": "Pentaprism",
+    "对焦": "simple Fresnel lens",
+    "英文简介": "The Nons SL660 is an interchangeable lens SLR for Instax Square launched by Chinese maker Nons in 2022."
   },
   "images": [],
   "sources": [

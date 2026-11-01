@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pinhole胶片相机，2013 年发布",
-  "description": "ONDU is a line of wooden chestnut and maple pinhole cameras designed in Slovenia by Elvis Halilović.",
+  "description": "Pinhole于2013年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "ONDU"
+    "Camera-wiki": "ONDU",
+    "英文简介": "ONDU is a line of wooden chestnut and maple pinhole cameras designed in Slovenia by Elvis Halilović."
   },
   "images": [],
   "sources": [

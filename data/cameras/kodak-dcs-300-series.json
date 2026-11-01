@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，1998 年发布",
-  "description": "The DCS-315 is a 1.5 megapixel digital SLR camera from Kodak.",
+  "description": "柯达于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak DCS 300 series"
+    "Camera-wiki": "Kodak DCS 300 series",
+    "英文简介": "The DCS-315 is a 1.5 megapixel digital SLR camera from Kodak."
   },
   "images": [],
   "sources": [

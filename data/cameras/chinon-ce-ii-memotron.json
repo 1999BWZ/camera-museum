@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon数码单反相机，1976 年发布",
-  "description": "The CE II Memotron is a 35mm SLR camera from Chinon of Japan and released in 1976.",
+  "description": "Chinon于1976年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon CE II Memotron"
+    "Camera-wiki": "Chinon CE II Memotron",
+    "英文简介": "The CE II Memotron is a 35mm SLR camera from Chinon of Japan and released in 1976."
   },
   "images": [],
   "sources": [

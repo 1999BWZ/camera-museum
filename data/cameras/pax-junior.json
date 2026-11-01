@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pax取景器相机，1960 年发布",
-  "description": "The Pal Jr name was also used for a box camera\n\n\n\n\nThe Pax Jr or Pax Junior is a small 35mm viewfinder camera made in Japan by Yamato Kōki Kōgyō in the 1960s.",
+  "description": "Pax于1960年推出的取景器相机。快门速度Rim-set leaf shutter 1/25-1/300 + B, cocked by film advance; synchronized with PC socket on the lens tube.。使用Lever-wind.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pax Junior"
+    "Camera-wiki": "Pax Junior",
+    "快门": "Rim-set leaf shutter 1/25-1/300 + B, cocked by film advance; synchronized with PC socket on the lens tube.",
+    "取景器": "Large, enclosed Albada viewfinder.",
+    "胶片/画幅": "Lever-wind.",
+    "英文简介": "The Pal Jr name was also used for a box camera\n\n\n\n\nThe Pax Jr or Pax Junior is a small 35mm viewfinder camera made in Japan by Yamato Kōki Kōgyō in the 1960s."
   },
   "images": [],
   "sources": [

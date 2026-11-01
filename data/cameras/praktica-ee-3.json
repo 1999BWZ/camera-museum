@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1979 年发布",
-  "description": "The Praktica EE3 is a 35mm film SLR camera manufactured by KW in 1979.",
+  "description": "潘泰康于1979年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica EE 3"
+    "Camera-wiki": "Praktica EE 3",
+    "英文简介": "The Praktica EE3 is a 35mm film SLR camera manufactured by KW in 1979."
   },
   "images": [],
   "sources": [

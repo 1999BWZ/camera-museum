@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1930 年发布",
-  "description": "Kodak made a lot of different box cameras.",
+  "description": "柯达于1930年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak No.2 Portrait Hawkeye"
+    "Camera-wiki": "Kodak No.2 Portrait Hawkeye",
+    "英文简介": "Kodak made a lot of different box cameras."
   },
   "images": [],
   "sources": [

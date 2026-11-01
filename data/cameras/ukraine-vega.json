@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ukraine微型相机，1960 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Kiev Vega (sometimes marked in cyrillic: Киïв Вега) is a 16mm film camera made by Arsenal in Ukraine.",
+  "description": "Ukraine于1960年推出的微型相机。配备Industar-M。快门速度1/30 - 1/200。使用Minolta 16 cassette。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vega (subminiature)"
+    "Camera-wiki": "Vega (subminiature)",
+    "尺寸": "10x14mm",
+    "镜头": "Industar-M",
+    "快门": "1/30 - 1/200",
+    "胶片/画幅": "Minolta 16 cassette",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Kiev Vega (sometimes marked in cyrillic: Киïв Вега) is a 16mm film camera made by Arsenal in Ukraine."
   },
   "images": [],
   "sources": [

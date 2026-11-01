@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Eyes取景器相机，1930 年发布",
-  "description": "The Ranca is the low budget version to Nagel's rigid-bodied 3×4cm camera Pupille and was produced in parallel to it from mid/late 1930 to probably mid 1931.",
+  "description": "Eyes于1930年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ranca"
+    "Camera-wiki": "Ranca",
+    "英文简介": "The Ranca is the low budget version to Nagel's rigid-bodied 3×4cm camera Pupille and was produced in parallel to it from mid/late 1930 to probably mid 1931."
   },
   "images": [],
   "sources": [

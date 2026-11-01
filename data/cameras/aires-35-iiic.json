@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aires旁轴相机，1957 年发布",
-  "description": "The Aires 35 IIIC is a leaf-shutter 35mm rangefinder camera made by Aires in 1957-1958.",
+  "description": "Aires于1957年推出的旁轴相机。配备Aires P Coral 1:2.4 f=4.5cm。快门速度Seikosha-MXL leafshutter. Speeds B, 1 ,2 ,5 ,10 ,25 ,50,100, 250, and 500.。使用24 x 36 mm on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Aires 35-IIIC"
+    "Camera-wiki": "Aires 35-IIIC",
+    "胶片/画幅": "24 x 36 mm on 35mm film",
+    "镜头": "Aires P Coral 1:2.4 f=4.5cm",
+    "尺寸": "M43 x 0.75",
+    "快门": "Seikosha-MXL leafshutter. Speeds B, 1 ,2 ,5 ,10 ,25 ,50,100, 250, and 500.",
+    "英文简介": "The Aires 35 IIIC is a leaf-shutter 35mm rangefinder camera made by Aires in 1957-1958."
   },
   "images": [],
   "sources": [

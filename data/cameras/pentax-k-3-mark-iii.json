@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，2021 年发布",
-  "description": "宾得于2021年发布的数码单反相机。",
+  "description": "宾得于2021年推出的数码单反相机。配备Pentax KAF2。快门速度| shutter_speeds = Mechanical shutter: 1/8000 to 30 sec, Bulb; Electronic shutter: 1/16000 to 30 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q106303442",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "镜头": "Pentax KAF2",
+    "传感器": "BSI-CMOS, without low-pass filter",
+    "胶片/画幅": "| filmsize =",
+    "对焦": "101 point Phase detection autofocus, 25 cross type, autofocus working range from -4 EV to 18 EV, contrast detection autofocus",
+    "曝光测光": "TTL open aperture metering using 307.000 pixel RGB sensor",
+    "闪光灯": "External only: 1/200 X-sync speed, hot shoe for P-TTL flash units with high-speed sync support, X-sync socket",
+    "快门速度": "| shutter_speeds = Mechanical shutter: 1/8000 to 30 sec, Bulb; Electronic shutter: 1/16000 to 30 sec",
+    "取景器": "Optical (Pentaprism)",
+    "屏幕": "3.2 inch GFZ LCD touchscreen with 1,620,000 dots",
+    "电池": "D-Li90P (body USB rechargeable)",
+    "重量": "(body only) (including battery and SD Card)"
   },
   "images": [
     {

@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pearl胶片单反相机，1977 年发布",
-  "description": "The Pearl River (\"Zhe Jiang\") S-201 was the most complete 35mm system SLR produced in China during the 1970ies and 1980ies.",
+  "description": "Pearl于1977年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pearl River S-201"
+    "Camera-wiki": "Pearl River S-201",
+    "尺寸": "144x95x53 mm, 676 g (waist level finder, w/o lens)",
+    "英文简介": "The Pearl River (\"Zhe Jiang\") S-201 was the most complete 35mm system SLR produced in China during the 1970ies and 1980ies."
   },
   "images": [],
   "sources": [

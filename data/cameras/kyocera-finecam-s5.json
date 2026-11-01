@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera数码相机，2003 年发布",
-  "description": "The Finecam S5 is a digital camera released in 2003 by Kyocera.",
+  "description": "Kyocera于2003年推出的数码相机。配备3x optical zoom lens, f=7.3 mm - 21.9 mm (35mm equivalent 35-105mm), F2.8-4.8。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera Finecam S5"
+    "Camera-wiki": "Kyocera Finecam S5",
+    "镜头": "3x optical zoom lens, f=7.3 mm - 21.9 mm (35mm equivalent 35-105mm), F2.8-4.8",
+    "曝光测光": "Evaluation, Center-weighted or Spot",
+    "英文简介": "The Finecam S5 is a digital camera released in 2003 by Kyocera."
   },
   "images": [],
   "sources": [

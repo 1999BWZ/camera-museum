@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof胶片相机，1975 年发布",
-  "description": "The Quadrophot is a monorail camera used for police 'mugshots', made from the 1960s until the 1980s by Linhof.",
+  "description": "Linhof于1975年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Quadrophot"
+    "Camera-wiki": "Quadrophot",
+    "英文简介": "The Quadrophot is a monorail camera used for police 'mugshots', made from the 1960s until the 1980s by Linhof."
   },
   "images": [],
   "sources": [

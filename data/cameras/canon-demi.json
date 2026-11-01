@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1963 年发布",
-  "description": "{|class=floatright\n||\n \n|-\n||\n \n|}\nThe Canon Demi is a 35mm half-frame viewfinder camera with a very high quality production standard.",
+  "description": "佳能于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Demi"
+    "Camera-wiki": "Canon Demi",
+    "尺寸": "115x68x37 mm",
+    "英文简介": "{|class=floatright\n||\n \n|-\n||\n \n|}\nThe Canon Demi is a 35mm half-frame viewfinder camera with a very high quality production standard."
   },
   "images": [],
   "sources": [

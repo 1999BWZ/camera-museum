@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康旁轴相机，1959 年发布",
-  "description": "The Nikon 16 is a prototype subminiature camera made by Nippon Kōgaku around 1959.",
+  "description": "尼康于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon 16"
+    "Camera-wiki": "Nikon 16",
+    "英文简介": "The Nikon 16 is a prototype subminiature camera made by Nippon Kōgaku around 1959."
   },
   "images": [],
   "sources": [

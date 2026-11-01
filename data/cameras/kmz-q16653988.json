@@ -1,0 +1,32 @@
+{
+  "id": "kmz-q16653988",
+  "brand": "KMZ",
+  "brand_cn": "克拉斯诺戈尔斯克",
+  "brand_slug": "kmz",
+  "country": "俄罗斯",
+  "manufacturer": "克拉斯诺戈尔斯克工厂",
+  "model": "Q16653988",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "克拉斯诺戈尔斯克胶片相机，2000 年发布",
+  "description": "克拉斯诺戈尔斯克于2000年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q16653988",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Q16653988",
+      "url": "https://www.wikidata.org/wiki/Q16653988"
+    }
+  ],
+  "qid": "Q16653988",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

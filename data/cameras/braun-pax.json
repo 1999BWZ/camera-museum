@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun取景器相机，1950 年发布",
-  "description": "There is also the Pax 35 and other Pax rangefinder cameras made by Yamato.",
+  "description": "Braun于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pax (6×6)"
+    "Camera-wiki": "Pax (6×6)",
+    "英文简介": "There is also the Pax 35 and other Pax rangefinder cameras made by Yamato."
   },
   "images": [],
   "sources": [

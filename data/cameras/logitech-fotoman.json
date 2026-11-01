@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "罗技数码相机，1992 年发布",
-  "description": "The Dycam Model 1 was a greyscale digital camera launched by Dycam in 1991.",
+  "description": "罗技于1992年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Logitech Fotoman"
+    "Camera-wiki": "Logitech Fotoman",
+    "英文简介": "The Dycam Model 1 was a greyscale digital camera launched by Dycam in 1991."
   },
   "images": [],
   "sources": [

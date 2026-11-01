@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2007 年发布",
-  "description": "The Cyber-shot DSC-T100 is a digital camera introduced in 2007 by Japanese manufacture Sony.",
+  "description": "索尼于2007年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-T100"
+    "Camera-wiki": "Sony DSC-T100",
+    "英文简介": "The Cyber-shot DSC-T100 is a digital camera introduced in 2007 by Japanese manufacture Sony."
   },
   "images": [],
   "sources": [

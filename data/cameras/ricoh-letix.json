@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1940 年发布",
-  "description": "The Letix is a Japanese camera taking 4×4cm on 127 film and partly made of bakelite.",
+  "description": "理光于1940年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Letix"
+    "Camera-wiki": "Letix",
+    "英文简介": "The Letix is a Japanese camera taking 4×4cm on 127 film and partly made of bakelite."
   },
   "images": [],
   "sources": [

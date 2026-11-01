@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1949 年发布",
-  "description": "Germany 1949, four years after the end of WWII and the country is still in ruins.",
+  "description": "禄来于1949年推出的胶片相机。配备Carl Zeiss Jena Tessar 1:2.8 f=80mm, coated. or : Zeiss Oberkochen Opton Tessar 1:2.8 f=80mm, coated.。快门速度Compur-Rapid X CR0 leafshutter. Speeds 1 to 1/400 sec.(later to 1/500 sec.) and B.。使用12 exposures of 6 x 6 cm on 120 type rollfilm. Furthermore a Plate adapter for sheet film and a Rolleikin adapter for 35mm film cartridges can be used.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex 2.8 series"
+    "Camera-wiki": "Rolleiflex 2.8 series",
+    "胶片/画幅": "12 exposures of 6 x 6 cm on 120 type rollfilm. Furthermore a Plate adapter for sheet film and a Rolleikin adapter for 35mm film cartridges can be used.",
+    "镜头": "Carl Zeiss Jena Tessar 1:2.8 f=80mm, coated. or : Zeiss Oberkochen Opton Tessar 1:2.8 f=80mm, coated.",
+    "快门": "Compur-Rapid X CR0 leafshutter. Speeds 1 to 1/400 sec.(later to 1/500 sec.) and B.",
+    "闪光灯": "Sync socket on frontpanel. X synchronization, later also M-synchronization.",
+    "尺寸": "94 x 104 x 143 mm",
+    "重量": "1080 grams",
+    "英文简介": "Germany 1949, four years after the end of WWII and the country is still in ruins."
   },
   "images": [],
   "sources": [

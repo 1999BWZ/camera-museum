@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO胶片相机，1980 年发布",
-  "description": "The Elikon Autofocus is a camera from the former Soviet Union.",
+  "description": "BelOMO于1980年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Elikon Autofocus"
+    "Camera-wiki": "Elikon Autofocus",
+    "英文简介": "The Elikon Autofocus is a camera from the former Soviet Union."
   },
   "images": [],
   "sources": [

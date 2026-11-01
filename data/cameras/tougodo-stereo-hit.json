@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo立体相机，1955 年发布",
-  "description": "The Stereo Hit (ステレオヒット) is a Japanese camera taking pairs of 3×4cm exposures on 127 film, made by Tougodo from 1955.",
+  "description": "Tougodo于1955年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Stereo Hit"
+    "Camera-wiki": "Stereo Hit",
+    "尺寸": "165×77×60mm",
+    "英文简介": "The Stereo Hit (ステレオヒット) is a Japanese camera taking pairs of 3×4cm exposures on 127 film, made by Tougodo from 1955."
   },
   "images": [],
   "sources": [

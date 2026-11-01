@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2001 年发布",
-  "description": "The DSC-P5 released by Sony in 2001 replaced the Sony DSC-P1.",
+  "description": "索尼于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-P5"
+    "Camera-wiki": "Sony DSC-P5",
+    "英文简介": "The DSC-P5 released by Sony in 2001 replaced the Sony DSC-P1."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1995 年发布",
-  "description": "__NOTOC__\n\nThe Olympus mju ZOOM 105 (US: ∞ Stylus Zoom 105) is a fully automatic 35mm compact camera introduced by Olympus in 1995.",
+  "description": "奥林巴斯于1995年推出的便携相机。配备38-105mm zoom, f/4.5-8.9 (6 ED glass elements - one aspherical - in 5 groups).。使用35mm DX-coded film, ISO 50-3200.。60cm. Pre-focus lock enabled.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus mju ZOOM 105"
+    "Camera-wiki": "Olympus mju ZOOM 105",
+    "镜头": "38-105mm zoom, f/4.5-8.9 (6 ED glass elements - one aspherical - in 5 groups).",
+    "对焦": "60cm. Pre-focus lock enabled.",
+    "胶片/画幅": "35mm DX-coded film, ISO 50-3200.",
+    "尺寸": "120x64x44mm.",
+    "英文简介": "__NOTOC__\n\nThe Olympus mju ZOOM 105 (US: ∞ Stylus Zoom 105) is a fully automatic 35mm compact camera introduced by Olympus in 1995."
   },
   "images": [],
   "sources": [

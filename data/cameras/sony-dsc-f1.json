@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，1996 年发布",
-  "description": "The DSC-F1 is a early digital camera introduced in 1996 from Sony.",
+  "description": "索尼于1996年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-F1"
+    "Camera-wiki": "Sony DSC-F1",
+    "英文简介": "The DSC-F1 is a early digital camera introduced in 1996 from Sony."
   },
   "images": [],
   "sources": [

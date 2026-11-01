@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon胶片相机，1977 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Revueflex 5005 (and its counterpart the Revueflex 4004 bundled with a slower f/1.7 lens) were sold by Foto-Quelle c.1977[http://www.lippisches-kameramuseum.de/Revue/RevueFlex_5005.htm Revueflex 5005 page] at [http://www.lippisches-kameramuseum.de/index.html Das L",
+  "description": "Chinon于1977年推出的胶片相机。快门速度B, 1s, 1/2s, 1/4s, 1/8s, 1/15s, 1/30s, 1/60s, 1/125s, 1/250s, 1/500s, 1/1000s, 1/2000s, Auto, X。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revueflex 5005"
+    "Camera-wiki": "Revueflex 5005",
+    "快门": "B, 1s, 1/2s, 1/4s, 1/8s, 1/15s, 1/30s, 1/60s, 1/125s, 1/250s, 1/500s, 1/1000s, 1/2000s, Auto, X",
+    "闪光灯": "1/90s, contacts for X and FP sync as well as hot shoe",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Revueflex 5005 (and its counterpart the Revueflex 4004 bundled with a slower f/1.7 lens) were sold by Foto-Quelle c.1977[http://www.lippisches-kameramuseum.de/Revue/RevueFlex_5005.htm Revueflex 5005 page] at [http://www.lippisches-kameramuseum.de/index.html Das Lippische Kameramuseum] (in German), and are among the few autoexposure cameras to work with universa"
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1980 年发布",
-  "description": "The Tele-Ektralite 600 is a 110 film camera produced by Kodak.",
+  "description": "柯达于1980年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Tele-Ektralite 600"
+    "Camera-wiki": "Kodak Tele-Ektralite 600",
+    "英文简介": "The Tele-Ektralite 600 is a 110 film camera produced by Kodak."
   },
   "images": [],
   "sources": [

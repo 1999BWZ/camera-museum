@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mundus微型相机，1965 年发布",
-  "description": "The Color 65 is a subminiature camera made by the French company Mundus in the mid-1970s, p704.",
+  "description": "Mundus于1965年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mundus Color 65"
+    "Camera-wiki": "Mundus Color 65",
+    "英文简介": "The Color 65 is a subminiature camera made by the French company Mundus in the mid-1970s, p704."
   },
   "images": [],
   "sources": [

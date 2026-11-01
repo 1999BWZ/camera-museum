@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发旁轴相机，1979 年发布",
-  "description": "Agfa's Sensor 1535 is the only Optima Sensor Series camera with a built-in rangefinder.",
+  "description": "爱克发于1979年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima Sensor 1535"
+    "Camera-wiki": "Optima Sensor 1535",
+    "英文简介": "Agfa's Sensor 1535 is the only Optima Sensor Series camera with a built-in rangefinder."
   },
   "images": [],
   "sources": [

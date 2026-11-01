@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King取景器相机，1960 年发布",
-  "description": "Made by King under their Regula brand, the Regulette is a range of 35mm viewfinder cameras.",
+  "description": "King于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regulette"
+    "Camera-wiki": "Regulette",
+    "英文简介": "Made by King under their Regula brand, the Regulette is a range of 35mm viewfinder cameras."
   },
   "images": [],
   "sources": [

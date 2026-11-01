@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1996 年发布",
-  "description": "The Pentax MZ-5 (ZX-5 in US), dating from 1996, was an autofocus 35mm film SLR.",
+  "description": "宾得于1996年推出的胶片单反相机。快门速度Focal plane shutter with speeds from 30 to 1/2000 sec. B。使用35mm film with speeds of 25 to 5000 ISO, with auto DX。autofocus. Single and 3-point with -1 to 18 EV range.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MZ-5/ZX-5"
+    "Camera-wiki": "Pentax MZ-5/ZX-5",
+    "卡口": "Pentax KAF2 (metal)",
+    "胶片/画幅": "35mm film with speeds of 25 to 5000 ISO, with auto DX",
+    "曝光测光": "silicon photo cell.",
+    "对焦": "autofocus. Single and 3-point with -1 to 18 EV range.",
+    "闪光灯": "Built-in, Guide number 11, red eye reduction",
+    "快门": "Focal plane shutter with speeds from 30 to 1/2000 sec. B",
+    "取景器": "0.8 magnification x 92% coverage, shutter and aperture LED display.",
+    "尺寸": "approx 135 × 90 × 61mm",
+    "重量": "380g",
+    "英文简介": "The Pentax MZ-5 (ZX-5 in US), dating from 1996, was an autofocus 35mm film SLR."
   },
   "images": [
     {

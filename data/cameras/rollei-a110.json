@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1975 年发布",
-  "description": "When the Rollei A 110 (or A110) appeared on the market it was advertised as the world's smallest pocket camera.",
+  "description": "禄来于1975年推出的胶片相机。配备Rollei Tessar 1:2.8/23mm。快门速度electronically controlled Rollei-Prontor leaf shutter。使用Type No. 110 cartridges for 16mm film with speeds 64 to 500 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei A110"
+    "Camera-wiki": "Rollei A110",
+    "胶片/画幅": "Type No. 110 cartridges for 16mm film with speeds 64 to 500 ASA",
+    "镜头": "Rollei Tessar 1:2.8/23mm",
+    "快门": "electronically controlled Rollei-Prontor leaf shutter",
+    "曝光测光": "fast silicium photo diode measures light for program-controlled exposure with shutter-speed/aperture combinations from 1:2.8 - 4sec. to 1:16 - 1/400 sec.",
+    "尺寸": "84×44×30mm (closed, length 100 mm when opened)",
+    "重量": "185 g with battery",
+    "英文简介": "When the Rollei A 110 (or A110) appeared on the market it was advertised as the world's smallest pocket camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2000 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Advantix Preview was launched in 2000.",
+  "description": "柯达于2000年推出的便携相机。配备25-65mm Ektanar lens。快门速度1/2-1/400。使用APS。感光度50-800 ISO。Passive, multi-spot Auto Focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix Preview"
+    "Camera-wiki": "Kodak Advantix Preview",
+    "胶片/画幅": "APS",
+    "镜头": "25-65mm Ektanar lens",
+    "对焦": "Passive, multi-spot Auto Focus",
+    "曝光测光": "Automatic, programmed",
+    "快门": "1/2-1/400",
+    "光圈": "F/4.3-10",
+    "感光度": "50-800 ISO",
+    "卷片": "Yes",
+    "闪光灯": "Yes",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Advantix Preview was launched in 2000."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hong Kong取景器相机，1981 年发布",
-  "description": "Basic fixed focus 35mm viewfinder compact made in Hong Kong for the British brand Nova Cameras, from 1981.Review, compared to the Agfa Optima Flash, in [https://archive.org/details/b19974760M5509/page/394/mode/1up The Chemist and Druggist], 5 September 1981, pp394-6; at Internet Archive.",
+  "description": "Hong Kong于1981年推出的取景器相机。配备5.6 (four elements, coated)。快门速度1/50 second (with flash); 1/90 (without)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nova 35F"
+    "Camera-wiki": "Nova 35F",
+    "镜头": "5.6 (four elements, coated)",
+    "快门速度": "1/50 second (with flash); 1/90 (without)",
+    "英文简介": "Basic fixed focus 35mm viewfinder compact made in Hong Kong for the British brand Nova Cameras, from 1981.Review, compared to the Agfa Optima Flash, in [https://archive.org/details/b19974760M5509/page/394/mode/1up The Chemist and Druggist], 5 September 1981, pp394-6; at Internet Archive."
   },
   "images": [],
   "sources": [

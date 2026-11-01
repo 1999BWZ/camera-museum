@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "TDC立体相机，1954 年发布",
-  "description": "The Stereo Vivid is a rangefinder camera for stereo pairs of 24x23 mm pictures on 35 mm film.",
+  "description": "TDC于1954年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "TDC Stereo Vivid"
+    "Camera-wiki": "TDC Stereo Vivid",
+    "英文简介": "The Stereo Vivid is a rangefinder camera for stereo pairs of 24x23 mm pictures on 35 mm film."
   },
   "images": [],
   "sources": [

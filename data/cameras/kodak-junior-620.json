@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1933 年发布",
-  "description": "The Kodak Junior 620 is a self-erecting viewfinder folding camera for type No.",
+  "description": "柯达于1933年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Junior 620"
+    "Camera-wiki": "Kodak Junior 620",
+    "英文简介": "The Kodak Junior 620 is a self-erecting viewfinder folding camera for type No."
   },
   "images": [],
   "sources": [

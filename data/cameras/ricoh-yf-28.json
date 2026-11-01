@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1997 年发布",
-  "description": "The YF-28 is a fixed-focus point-and-shoot camera introduced by Japanese manufacturer Ricoh in 1997.",
+  "description": "理光于1997年推出的便携相机。配备28mm f/5.6。快门速度mechanical, 1/125 sec. (fixed speed)。感光度ISO 100~1000 (DX-code system)ISO 200 films are rated as ISO 100, ISO 1000 films are rated as ISO 400。fixed-focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh YF-28"
+    "Camera-wiki": "Ricoh YF-28",
+    "镜头": "28mm f/5.6",
+    "对焦": "fixed-focus",
+    "快门": "mechanical, 1/125 sec. (fixed speed)",
+    "曝光测光": "fixed exposureA particular aperture is selected according the film speed regardless of the light conditions",
+    "取景器": "Albada-type viewfinder",
+    "感光度": "ISO 100~1000 (DX-code system)ISO 200 films are rated as ISO 100, ISO 1000 films are rated as ISO 400",
+    "闪光灯": "auto-activating flash, no flash-off facility, day light flash button",
+    "尺寸": "116.4 mm X 66 mm X 38.3 mm",
+    "重量": "170 g (without batteries)",
+    "英文简介": "The YF-28 is a fixed-focus point-and-shoot camera introduced by Japanese manufacturer Ricoh in 1997."
   },
   "images": [],
   "sources": [

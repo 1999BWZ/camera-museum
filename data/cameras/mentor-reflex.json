@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mentor胶片单反相机，1927 年发布",
-  "description": "The Mentor Reflex is a box-form single lens reflex camera made by Goltz & Breutmann.",
+  "description": "Mentor于1927年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mentor Reflex"
+    "Camera-wiki": "Mentor Reflex",
+    "英文简介": "The Mentor Reflex is a box-form single lens reflex camera made by Goltz & Breutmann."
   },
   "images": [],
   "sources": [

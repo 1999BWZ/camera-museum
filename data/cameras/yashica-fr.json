@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡数码单反相机，1976 年发布",
-  "description": "The Yashica FR is a 35mm single lens reflex camera, introduced by the company in 1976.",
+  "description": "雅西卡于1976年推出的数码单反相机。快门速度Electromagnetic shutter release button.。Split-image center spot with microprism.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica FR"
+    "Camera-wiki": "Yashica FR",
+    "快门": "Electromagnetic shutter release button.",
+    "曝光测光": "TTL full aperture with CdS. In finder LED metering from 12 ASA to 3200 ASA. LED exposure system with green correct, and red for under or over exposure.",
+    "自拍": "aprox 7-10 seconds",
+    "对焦": "Split-image center spot with microprism.",
+    "闪光灯": "Electronic X sync at 1/60 or slower.",
+    "电池": "6v PX28 battery",
+    "重量": "aprox 650 g.",
+    "尺寸": "142.5 x 87 x 50",
+    "英文简介": "The Yashica FR is a 35mm single lens reflex camera, introduced by the company in 1976."
   },
   "images": [],
   "sources": [

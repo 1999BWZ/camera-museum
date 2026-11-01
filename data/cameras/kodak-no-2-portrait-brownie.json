@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1929 年发布",
-  "description": "This box camera makes 6x9 cm exposures on 120 film, running vertically to frame photos in \"portrait\" orientation.",
+  "description": "柯达于1929年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak No. 2 Portrait Brownie"
+    "Camera-wiki": "Kodak No. 2 Portrait Brownie",
+    "英文简介": "This box camera makes 6x9 cm exposures on 120 film, running vertically to frame photos in \"portrait\" orientation."
   },
   "images": [],
   "sources": [

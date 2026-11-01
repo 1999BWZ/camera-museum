@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1904 年发布",
-  "description": "The Bob-Folding is a range of three horizontal-folding, wooden-bodied cameras made by Ernemann early in the 20th century.",
+  "description": "Ernemann于1904年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bob-Folding"
+    "Camera-wiki": "Bob-Folding",
+    "英文简介": "The Bob-Folding is a range of three horizontal-folding, wooden-bodied cameras made by Ernemann early in the 20th century."
   },
   "images": [],
   "sources": [

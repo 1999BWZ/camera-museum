@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士便携相机，2003 年发布",
-  "description": "The Fujifilm Silvi F2.8 is a 35mm autofocus compact camera released in 2003.",
+  "description": "富士于2003年推出的便携相机。配备Super EBC Fujinon lens 24 ~ 50mm, f2.8 ~ 5.6. 6 elements in 5 groups.。使用135 (35mm) rolls (DX mark)。感光度Automatic (DX system) ISO50 ~ 3200。0.35m to inf.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Silvi F2.8"
+    "Camera-wiki": "Fujifilm Silvi F2.8",
+    "胶片/画幅": "135 (35mm) rolls (DX mark)",
+    "尺寸": "35mm standard size (24mm × 36mm)",
+    "镜头": "Super EBC Fujinon lens 24 ~ 50mm, f2.8 ~ 5.6. 6 elements in 5 groups.",
+    "对焦": "0.35m to inf.",
+    "感光度": "Automatic (DX system) ISO50 ~ 3200",
+    "闪光灯": "charge time of about 0.5 to 5 sec. Multi-program Flash, Programmed Flash,red-eye reduction / flash / no flash / Night Portrait (Slow sync)",
+    "自拍": "Electronic, aprox 10 sec, with self-timer lamp.",
+    "曝光测光": "± 2EV (0.5EV steps) ※ Silvi F2.8 Black-only feature.",
+    "重量": "170g",
+    "英文简介": "The Fujifilm Silvi F2.8 is a 35mm autofocus compact camera released in 2003."
   },
   "images": [],
   "sources": [

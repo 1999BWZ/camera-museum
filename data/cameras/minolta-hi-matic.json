@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1961 年发布",
-  "description": "The Minolta Hi-Matic cameras redefined Minolta's series of budget rangefinder cameras, although they overlapped with the less-advanced Uniomat II and Uniomat III.",
+  "description": "美能达于1961年推出的旁轴相机。配备1:2.0/45mm (6 elements in 5 groups)。快门速度Citizen leaf shutter with meter-controlled aperture/speed combinations from f2 1/45 sec. to f16 1/500sec。使用35mm with speeds from 6 to 1600 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic"
+    "Camera-wiki": "Minolta Hi-Matic",
+    "胶片/画幅": "35mm with speeds from 6 to 1600 ASA",
+    "镜头": "1:2.0/45mm (6 elements in 5 groups)",
+    "快门": "Citizen leaf shutter with meter-controlled aperture/speed combinations from f2 1/45 sec. to f16 1/500sec",
+    "曝光测光": "selenium meter",
+    "尺寸": "138×84×67 mm",
+    "重量": "740 g",
+    "英文简介": "The Minolta Hi-Matic cameras redefined Minolta's series of budget rangefinder cameras, although they overlapped with the less-advanced Uniomat II and Uniomat III."
   },
   "images": [],
   "sources": [

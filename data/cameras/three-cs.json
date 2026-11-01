@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Three取景器相机，1956 年发布",
-  "description": "A very obscure Japanese 35mm viewfinder camera, using scale focusing.",
+  "description": "Three于1956年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Three Cs"
+    "Camera-wiki": "Three Cs",
+    "英文简介": "A very obscure Japanese 35mm viewfinder camera, using scale focusing."
   },
   "images": [],
   "sources": [

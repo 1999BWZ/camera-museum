@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Union胶片相机，1936 年发布",
-  "description": "The Union Ref and Hansa Rollette Ref The name is spelled \"Hanza Rollette Ref\" in , p.339, but this is a typo.",
+  "description": "Union于1936年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Union Ref and Hansa Rollette Ref"
+    "Camera-wiki": "Union Ref and Hansa Rollette Ref",
+    "英文简介": "The Union Ref and Hansa Rollette Ref The name is spelled \"Hanza Rollette Ref\" in , p.339, but this is a typo."
   },
   "images": [],
   "sources": [

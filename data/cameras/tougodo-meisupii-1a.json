@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo胶片相机，1950 年发布",
-  "description": "The Meisupii 1a is a simple camera for 24x36 mm pictures on Bolta unperforated 35 mm roll film, made by the Yamanishi Tōgōdō plant in the 1950s.",
+  "description": "Tougodo于1950年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Meisupii 1a"
+    "Camera-wiki": "Meisupii 1a",
+    "英文简介": "The Meisupii 1a is a simple camera for 24x36 mm pictures on Bolta unperforated 35 mm roll film, made by the Yamanishi Tōgōdō plant in the 1950s."
   },
   "images": [],
   "sources": [

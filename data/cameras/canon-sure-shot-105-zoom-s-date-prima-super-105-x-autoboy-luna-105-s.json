@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，2001 年发布",
-  "description": "The Sure Shot 105 Zoom S is a compact point and shoot 35mm film camera from Canon.",
+  "description": "佳能于2001年推出的便携相机。配备38-105mm zoom, f/3.8-9.9. (6 elements in 6 groups)。Three point active auto-focus from 0.6m to inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot 105 Zoom S (Date)/Prima Super 105 X/Autoboy Luna 105 S"
+    "Camera-wiki": "Canon Sure Shot 105 Zoom S (Date)/Prima Super 105 X/Autoboy Luna 105 S",
+    "镜头": "38-105mm zoom, f/3.8-9.9. (6 elements in 6 groups)",
+    "对焦": "Three point active auto-focus from 0.6m to inf",
+    "尺寸": "119 x 64 x 48.5 mm",
+    "重量": "260g",
+    "英文简介": "The Sure Shot 105 Zoom S is a compact point and shoot 35mm film camera from Canon."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus取景器相机，1953 年发布",
-  "description": "The Argus A-Four (styled \"argus a-four\" on the camera) is a plastic and aluminum 35mm viewfinder camera made in the USA by Argus, from 1953 - 1956.",
+  "description": "Argus于1953年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus A-Four"
+    "Camera-wiki": "Argus A-Four",
+    "英文简介": "The Argus A-Four (styled \"argus a-four\" on the camera) is a plastic and aluminum 35mm viewfinder camera made in the USA by Argus, from 1953 - 1956."
   },
   "images": [],
   "sources": [

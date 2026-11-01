@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mentor数码单反相机，1927 年发布",
-  "description": "The Mentor Wonder Reflex Camera is an SLR camera for 6.5x9cm (3½x2½-inch) plates, made from about 1927 by Mentor, to be fitted with a 13.5cm f/1.9 Prolinear lens by Rietzschel, making a 'night reflex'.",
+  "description": "Mentor于1927年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mentor Wonder Reflex"
+    "Camera-wiki": "Mentor Wonder Reflex",
+    "英文简介": "The Mentor Wonder Reflex Camera is an SLR camera for 6.5x9cm (3½x2½-inch) plates, made from about 1927 by Mentor, to be fitted with a 13.5cm f/1.9 Prolinear lens by Rietzschel, making a 'night reflex'."
   },
   "images": [],
   "sources": [

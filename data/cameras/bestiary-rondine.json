@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary盒式相机，1948 年发布",
-  "description": "The Rondine is a box camera made by Ferrania, Italy, in 1948.",
+  "description": "Bestiary于1948年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rondine"
+    "Camera-wiki": "Rondine",
+    "英文简介": "The Rondine is a box camera made by Ferrania, Italy, in 1948."
   },
   "images": [],
   "sources": [

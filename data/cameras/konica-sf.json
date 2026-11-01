@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码单反相机，1967 年发布",
-  "description": "The Konica SF (コニカSF) is a 4.5×6 SLR camera made as a prototype by Konishiroku in the second half of the 1960s.",
+  "description": "柯尼卡于1967年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica SF"
+    "Camera-wiki": "Konica SF",
+    "英文简介": "The Konica SF (コニカSF) is a 4.5×6 SLR camera made as a prototype by Konishiroku in the second half of the 1960s."
   },
   "images": [],
   "sources": [

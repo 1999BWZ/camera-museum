@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1973 年发布",
-  "description": "The Hawkeye Pocket Instamatic is a plastic camera which uses the 110 cartridge film and was produced from 1973 to 1979.",
+  "description": "柯达于1973年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Hawkeye Pocket Instamatic"
+    "Camera-wiki": "Kodak Hawkeye Pocket Instamatic",
+    "英文简介": "The Hawkeye Pocket Instamatic is a plastic camera which uses the 110 cartridge film and was produced from 1973 to 1979."
   },
   "images": [],
   "sources": [

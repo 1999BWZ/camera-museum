@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1941 年发布",
-  "description": "The Semi Rody (セミ・ロディ) are Japanese 4.5×6 folders, made by Shibayama Seisakusho in 1941 and 1942 and distributed by Yamashita Yūjirō Shōten.",
+  "description": "Semi于1941年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Rody"
+    "Camera-wiki": "Semi Rody",
+    "英文简介": "The Semi Rody (セミ・ロディ) are Japanese 4.5×6 folders, made by Shibayama Seisakusho in 1941 and 1942 and distributed by Yamashita Yūjirō Shōten."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1980 年发布",
-  "description": "The MF-2 is a 35mm viewfinder camera made by Yashica in 1980.",
+  "description": "雅西卡于1980年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica MF-2"
+    "Camera-wiki": "Yashica MF-2",
+    "英文简介": "The MF-2 is a 35mm viewfinder camera made by Yashica in 1980."
   },
   "images": [],
   "sources": [

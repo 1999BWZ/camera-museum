@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片相机，1998 年发布",
-  "description": "The Nikon Nuvis S is an APS film compact zoom camera with a unique design.",
+  "description": "尼康于1998年推出的胶片相机。配备3× zoom, 22-66mm, max. aperture f/5.2-7.5 (6 elements, including 2 aspherical lenses).。快门速度From 2-1/400s, controlled electronically.。passive wide field autofocus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Nuvis S"
+    "Camera-wiki": "Nikon Nuvis S",
+    "镜头": "3× zoom, 22-66mm, max. aperture f/5.2-7.5 (6 elements, including 2 aspherical lenses).",
+    "对焦": "passive wide field autofocus.",
+    "取景器": "focus-dependent (zooming \"real image\"), with diopter-correction -1.5 to +1.5",
+    "快门速度": "From 2-1/400s, controlled electronically.",
+    "尺寸": "95×65×32mm",
+    "重量": "250g with CR2 battery and film.",
+    "英文简介": "The Nikon Nuvis S is an APS film compact zoom camera with a unique design."
   },
   "images": [],
   "sources": [

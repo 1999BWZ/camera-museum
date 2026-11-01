@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pentaflex胶片单反相机，1967 年发布",
-  "description": "There is also the 1955 Pentaflex SLR by Tokiwa Seiki.",
+  "description": "Pentaflex于1967年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentaflex SL"
+    "Camera-wiki": "Pentaflex SL",
+    "英文简介": "There is also the 1955 Pentaflex SLR by Tokiwa Seiki."
   },
   "images": [],
   "sources": [

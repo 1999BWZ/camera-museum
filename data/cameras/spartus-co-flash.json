@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spartus盒式相机，1960 年发布",
-  "description": "The Spartus Co-Flash, made c.1960 by Herold Products of Chicago, is a small Bakelite box camera for 127 film, with a built-in flash holder and reflector.",
+  "description": "Spartus于1960年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Spartus Co-Flash"
+    "Camera-wiki": "Spartus Co-Flash",
+    "英文简介": "The Spartus Co-Flash, made c.1960 by Herold Products of Chicago, is a small Bakelite box camera for 127 film, with a built-in flash holder and reflector."
   },
   "images": [],
   "sources": [

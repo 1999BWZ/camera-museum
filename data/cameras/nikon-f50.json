@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1994 年发布",
-  "description": "__NOTOC__\n\nThe F50, sold as the N50 in the United States, was an entry-level 35mm film Single-lens reflex camera which was introduced by Nikon in 1994.",
+  "description": "尼康于1994年推出的胶片单反相机。配备kit lenses AF Nikkor 35-80mm f/4-5.6 D and AF Nikkor 80-200mm f/4.5-5.6D.。快门速度Electronically controlled vertical-travel focal-plane shutter; 1/2000 sec. to 30 sec.。使用24 x 36mm standard 35mm (135) film format。感光度ISO 25 to 5000 for DX coded film; ISO 6 to 6400 for non-DXcoded films in Advanced mode。Auto Focus / Manual Focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon F50 (N50)"
+    "Camera-wiki": "Nikon F50 (N50)",
+    "胶片/画幅": "24 x 36mm standard 35mm (135) film format",
+    "卡口": "Nikon F mount",
+    "镜头": "kit lenses AF Nikkor 35-80mm f/4-5.6 D and AF Nikkor 80-200mm f/4.5-5.6D.",
+    "快门": "Electronically controlled vertical-travel focal-plane shutter; 1/2000 sec. to 30 sec.",
+    "对焦": "Auto Focus / Manual Focus",
+    "感光度": "ISO 25 to 5000 for DX coded film; ISO 6 to 6400 for non-DXcoded films in Advanced mode",
+    "电池": "6V lithium battery pack (2CR5 or DL245 type)",
+    "尺寸": "149 x 96 x 70mm; weight approx. 580g.",
+    "英文简介": "__NOTOC__\n\nThe F50, sold as the N50 in the United States, was an entry-level 35mm film Single-lens reflex camera which was introduced by Nikon in 1994."
   },
   "images": [],
   "sources": [

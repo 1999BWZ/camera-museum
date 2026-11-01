@@ -1,0 +1,40 @@
+{
+  "id": "canon-digital-ixus-40-q20888971",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "Digital IXUS 40",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2004 年发布",
+  "description": "佳能于2004年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20888971",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20Digital%20Ixus%2040.jpg?width=800",
+      "caption": "Digital IXUS 40",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20888971"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon Digital IXUS 40",
+      "url": "https://www.wikidata.org/wiki/Q20888971"
+    }
+  ],
+  "qid": "Q20888971",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

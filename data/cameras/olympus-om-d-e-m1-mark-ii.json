@@ -13,11 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯无反相机，2016 年发布",
-  "description": "奥林巴斯于2016年发布的无反相机。",
+  "description": "奥林巴斯于2016年推出的无反相机。配备Micro Four Thirds。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q31836316",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "镜头": "Micro Four Thirds",
+    "传感器": "Live MOS"
   },
   "images": [
     {

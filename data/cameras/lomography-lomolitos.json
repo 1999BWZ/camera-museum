@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography玩具相机，2005 年发布",
-  "description": "The Lomolitos was sold by Lomography primarily as a single use/disposable 35mm film camera.",
+  "description": "Lomography于2005年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomography Lomolitos"
+    "Camera-wiki": "Lomography Lomolitos",
+    "英文简介": "The Lomolitos was sold by Lomography primarily as a single use/disposable 35mm film camera."
   },
   "images": [],
   "sources": [

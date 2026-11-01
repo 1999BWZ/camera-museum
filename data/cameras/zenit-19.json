@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zenit数码单反相机，1979 年发布",
-  "description": "The Zenit 19 is a 35 mm SLR camera, made by KMZ.",
+  "description": "Zenit于1979年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 19"
+    "Camera-wiki": "Zenit 19",
+    "英文简介": "The Zenit 19 is a 35 mm SLR camera, made by KMZ."
   },
   "images": [],
   "sources": [

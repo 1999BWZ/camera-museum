@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1953 年发布",
-  "description": "The Kodak 4,5 Modèle 36 is a French-made folding camera for the 620 film format.",
+  "description": "柯达于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Modèle 36"
+    "Camera-wiki": "Kodak Modèle 36",
+    "英文简介": "The Kodak 4,5 Modèle 36 is a French-made folding camera for the 620 film format."
   },
   "images": [],
   "sources": [

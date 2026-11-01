@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1965 年发布",
-  "description": "The Ricoh EE Rapid Half (1965) is a very elegant and well designed compact camera that uses the now obsolete Rapid film system.",
+  "description": "理光于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh EE Rapid Half"
+    "Camera-wiki": "Ricoh EE Rapid Half",
+    "英文简介": "The Ricoh EE Rapid Half (1965) is a very elegant and well designed compact camera that uses the now obsolete Rapid film system."
   },
   "images": [],
   "sources": [

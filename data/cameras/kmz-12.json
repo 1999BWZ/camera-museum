@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ旁轴相机，1967 年发布",
-  "description": "The Zorki 12 was the last of the Zorki series, not being just a modification of the Zorki 11, but whole redesign.",
+  "description": "KMZ于1967年推出的旁轴相机。配备Helios-98 28mm f/2.8。快门速度1/30th - 1/250th。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zorki 12"
+    "Camera-wiki": "Zorki 12",
+    "尺寸": "18x24mm",
+    "镜头": "Helios-98 28mm f/2.8",
+    "快门": "1/30th - 1/250th",
+    "英文简介": "The Zorki 12 was the last of the Zorki series, not being just a modification of the Zorki 11, but whole redesign."
   },
   "images": [],
   "sources": [

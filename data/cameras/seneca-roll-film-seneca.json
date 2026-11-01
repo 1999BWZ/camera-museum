@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Seneca折叠相机，1912 年发布",
-  "description": "The Roll Film Seneca was made by Seneca.",
+  "description": "Seneca于1912年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Roll Film Seneca"
+    "Camera-wiki": "Roll Film Seneca",
+    "英文简介": "The Roll Film Seneca was made by Seneca."
   },
   "images": [],
   "sources": [

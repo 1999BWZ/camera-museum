@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片相机，1990 年发布",
-  "description": "The Yashica AW-mini (or Kyocera Season in Japan) is a compact autocus camera, made by Kyocera.",
+  "description": "雅西卡于1990年推出的胶片相机。配备32 mm f/3,5, 4 elements, 3 groups.。快门速度1/120–1/600 s. Self-timer built-in.。感光度100–1000 (with DX coded film)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica AW-mini"
+    "Camera-wiki": "Yashica AW-mini",
+    "镜头": "32 mm f/3,5, 4 elements, 3 groups.",
+    "快门": "1/120–1/600 s. Self-timer built-in.",
+    "取景器": "Albada bright frame finder.",
+    "闪光灯": "Built-in.",
+    "感光度": "100–1000 (with DX coded film)",
+    "重量": "126,5x64,5x49,5 mm, 230 g.",
+    "英文简介": "The Yashica AW-mini (or Kyocera Season in Japan) is a compact autocus camera, made by Kyocera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topography胶片单反相机，1945 年发布",
-  "description": "Alpa is the brand name of successive generations of high-quality 35mm SLR cameras made by the Swiss manufacturer Pignons S.A.",
+  "description": "Topography于1945年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Alpa"
+    "Camera-wiki": "Alpa",
+    "英文简介": "Alpa is the brand name of successive generations of high-quality 35mm SLR cameras made by the Swiss manufacturer Pignons S.A."
   },
   "images": [],
   "sources": [

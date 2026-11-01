@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2004 年发布",
-  "description": "An eight megapixel, fixed-zoom-lens digicam, successor of the Minolta DiMAGE A1.",
+  "description": "柯尼卡美能达于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta Dimage A2"
+    "Camera-wiki": "Konica Minolta Dimage A2",
+    "英文简介": "An eight megapixel, fixed-zoom-lens digicam, successor of the Minolta DiMAGE A1."
   },
   "images": [],
   "sources": [

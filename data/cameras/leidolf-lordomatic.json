@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leidolf取景器相机，1955 年发布",
-  "description": "{|class=\"floatright\n|\n\n|-\n|\n\n|}\nThe Lordomatic is a 35mm bright-frame viewfinder camera produced by Leidolf beginning in 1955, with the \"-matic\" indicating match-needle metering.",
+  "description": "Leidolf于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lordomatic"
+    "Camera-wiki": "Lordomatic",
+    "英文简介": "{|class=\"floatright\n|\n\n|-\n|\n\n|}\nThe Lordomatic is a 35mm bright-frame viewfinder camera produced by Leidolf beginning in 1955, with the \"-matic\" indicating match-needle metering."
   },
   "images": [],
   "sources": [

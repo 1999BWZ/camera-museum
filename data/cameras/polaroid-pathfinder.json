@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1952 年发布",
-  "description": "Pathfinder was the name given a series of cameras manufactured by Polaroid and Yashica from the early 1950s until 1964.",
+  "description": "宝丽来于1952年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Pathfinder"
+    "Camera-wiki": "Polaroid Pathfinder",
+    "英文简介": "Pathfinder was the name given a series of cameras manufactured by Polaroid and Yashica from the early 1950s until 1964."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2014 年发布",
-  "description": "The QS-1 is a digital mirrorless interchangeable lens system camera introduced by Pentax Ricoh Imaging in 2014.",
+  "description": "宾得于2014年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Q-S1"
+    "Camera-wiki": "Pentax Q-S1",
+    "英文简介": "The QS-1 is a digital mirrorless interchangeable lens system camera introduced by Pentax Ricoh Imaging in 2014."
   },
   "images": [],
   "sources": [

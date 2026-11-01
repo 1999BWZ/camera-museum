@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片相机，1950 年发布",
-  "description": "The Primoflex is a series of TLR cameras for 6×6 cm exposures on 120 film, made by Tōkyō Kōgaku in about 1950, for the distributor Ōsawa to sell.",
+  "description": "Topcon于1950年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Primoflex"
+    "Camera-wiki": "Primoflex",
+    "英文简介": "The Primoflex is a series of TLR cameras for 6×6 cm exposures on 120 film, made by Tōkyō Kōgaku in about 1950, for the distributor Ōsawa to sell."
   },
   "images": [],
   "sources": [

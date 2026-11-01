@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography玩具相机，2014 年发布",
-  "description": "The Lomo'Instant is a instant camera produced by Lomography.",
+  "description": "Lomography于2014年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomography Lomo'Instant"
+    "Camera-wiki": "Lomography Lomo'Instant",
+    "英文简介": "The Lomo'Instant is a instant camera produced by Lomography."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2001 年发布",
-  "description": "The HP PhotoSmart 318 is a 2001 digital camera from Hewlett-Packard, with a 2x digital zoom and a 2.3 megapixel (MP) resolution sensor.",
+  "description": "Hewlett-Packard于2001年推出的数码相机。配备5-element lens; F2.8; TTL auto focus; 6.8 mm (equivalent to a 43mm lens on a 35 mm conventional film camera)。快门速度1.4 ms to 320 ms。使用JPEG。有效像素2.31。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart 318"
+    "Camera-wiki": "HP PhotoSmart 318",
+    "像素": "2.31",
+    "胶片/画幅": "JPEG",
+    "镜头": "5-element lens; F2.8; TTL auto focus; 6.8 mm (equivalent to a 43mm lens on a 35 mm conventional film camera)",
+    "快门速度": "1.4 ms to 320 ms",
+    "变焦": "2x digital zoom",
+    "英文简介": "The HP PhotoSmart 318 is a 2001 digital camera from Hewlett-Packard, with a 2x digital zoom and a 2.3 megapixel (MP) resolution sensor."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford取景器相机，1949 年发布",
-  "description": "The Ilford Advocate is a white-enamelled die-cast aluminium alloy 35mm camera made in the UK by Kennedy Instruments, a subsidiary of Ilford.",
+  "description": "Ilford于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Advocate"
+    "Camera-wiki": "Ilford Advocate",
+    "英文简介": "The Ilford Advocate is a white-enamelled die-cast aluminium alloy 35mm camera made in the UK by Kennedy Instruments, a subsidiary of Ilford."
   },
   "images": [],
   "sources": [

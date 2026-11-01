@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发盒式相机，1938 年发布",
-  "description": "The Agfa Box 45 is a box camera for 6x9cm exposures on 120 film.",
+  "description": "爱克发于1938年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Box 45"
+    "Camera-wiki": "Agfa Box 45",
+    "英文简介": "The Agfa Box 45 is a box camera for 6x9cm exposures on 120 film."
   },
   "images": [],
   "sources": [

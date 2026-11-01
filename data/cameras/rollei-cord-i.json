@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1933 年发布",
-  "description": "The Art Deco Rolleicord I, in Germany colloquially known as the 'Tapeten-Rolleicord' (wallpaper Rolleicord) was produced by Franke and Heidecke from November 1933 to March 1936.",
+  "description": "禄来于1933年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleicord I (Art Deco)"
+    "Camera-wiki": "Rolleicord I (Art Deco)",
+    "英文简介": "The Art Deco Rolleicord I, in Germany colloquially known as the 'Tapeten-Rolleicord' (wallpaper Rolleicord) was produced by Franke and Heidecke from November 1933 to March 1936."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon盒式相机，1941 年发布",
-  "description": "The Tengoflex (85/16) is a Pseudo TLR camera that was made by Zeiss Ikon from 1941 till 1942, page 1061 in small quantities.",
+  "description": "Zeiss Ikon于1941年推出的盒式相机。配备Zeiss Ikon Frontar, fixed focus, slide in lens element for close-ups (1 to 3 meter)。快门速度** Instant (1/25) and T (actually 'B' shutter), selected by pull-tab, top left;。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tengoflex"
+    "Camera-wiki": "Tengoflex",
+    "镜头": "Zeiss Ikon Frontar, fixed focus, slide in lens element for close-ups (1 to 3 meter)",
+    "快门": "** Instant (1/25) and T (actually 'B' shutter), selected by pull-tab, top left;",
+    "尺寸": "102x118x76 mm",
+    "重量": "c.700 grams",
+    "英文简介": "The Tengoflex (85/16) is a Pseudo TLR camera that was made by Zeiss Ikon from 1941 till 1942, page 1061 in small quantities."
   },
   "images": [],
   "sources": [

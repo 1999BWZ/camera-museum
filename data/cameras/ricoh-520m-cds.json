@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1966 年发布",
-  "description": "The 520m CdS is a rangefinder camera for 35mm film introduced by Ricoh circa 1966.",
+  "description": "理光于1966年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 520m CdS"
+    "Camera-wiki": "Ricoh 520m CdS",
+    "英文简介": "The 520m CdS is a rangefinder camera for 35mm film introduced by Ricoh circa 1966."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier胶片单反相机，1938 年发布",
-  "description": "The Beier-Flex SLR for type 120 rollfilm with waist-level finder was made from 1938 to 1941.",
+  "description": "Beier于1938年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beier-Flex"
+    "Camera-wiki": "Beier-Flex",
+    "英文简介": "The Beier-Flex SLR for type 120 rollfilm with waist-level finder was made from 1938 to 1941."
   },
   "images": [],
   "sources": [

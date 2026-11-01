@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达折叠相机，1929 年发布",
-  "description": "The Nifcarette (ニフカレッテ) is a Japanese 4×6.5 folding camera, made by Nichidoku Shashinki Shōten (predecessor of Minolta) from 1929.",
+  "description": "美能达于1929年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nifcarette"
+    "Camera-wiki": "Nifcarette",
+    "英文简介": "The Nifcarette (ニフカレッテ) is a Japanese 4×6.5 folding camera, made by Nichidoku Shashinki Shōten (predecessor of Minolta) from 1929."
   },
   "images": [],
   "sources": [

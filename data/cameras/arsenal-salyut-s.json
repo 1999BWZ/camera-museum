@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arsenal胶片单反相机，1972 年发布",
-  "description": "Salyut-S (or Salut-S = Салют-C) is a medium format SLR film system camera, manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR and produced between 1972-1980, quantity 30.000.",
+  "description": "Arsenal于1972年推出的胶片单反相机。配备Arsenal Vega-12 B 90mm f/2.8, semi-automatic。快门速度Horizontal focal plane metallic curtain, speeds: 1/30 - 1/1000, + B。使用120 roll, picture size 6x6cm。Fresnel ground glass screen。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Salyut-S"
+    "Camera-wiki": "Salyut-S",
+    "胶片/画幅": "120 roll, picture size 6x6cm",
+    "卡口": "Salyut B mount (coarse-thread screw mount of Hasselblad 1600 type, with aperture release pin added)",
+    "镜头": "Arsenal Vega-12 B 90mm f/2.8, semi-automatic",
+    "对焦": "Fresnel ground glass screen",
+    "快门": "Horizontal focal plane metallic curtain, speeds: 1/30 - 1/1000, + B",
+    "取景器": "Waist level finder with loupe, interchangeable",
+    "闪光灯": "w/ X and FP settings dial, synch. 1/30",
+    "英文简介": "Salyut-S (or Salut-S = Салют-C) is a medium format SLR film system camera, manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR and produced between 1972-1980, quantity 30.000."
   },
   "images": [],
   "sources": [

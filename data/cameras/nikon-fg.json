@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1982 年发布",
-  "description": "The Nikon FG is a 35mm SLR, made by Nippon Kōgaku from 1982 to 1984.",
+  "description": "尼康于1982年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon FG"
+    "Camera-wiki": "Nikon FG",
+    "英文简介": "The Nikon FG is a 35mm SLR, made by Nippon Kōgaku from 1982 to 1984."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Monorail cameras胶片相机，1958 年发布",
-  "description": "The Peco Junior is a monorail camera made by Plaubel from around 1958.",
+  "description": "Monorail cameras于1958年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Peco Junior"
+    "Camera-wiki": "Peco Junior",
+    "英文简介": "The Peco Junior is a monorail camera made by Plaubel from around 1958."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "SL-System便携相机，1965 年发布",
-  "description": "Beirette k compact camera was made by the East German company Woldemar Beier KG in Freital from 1965 to around 1970, when it was replaced by the modern Beirette SL 200/SL 300 cameras.",
+  "description": "SL-System于1965年推出的便携相机。配备Meyer Domiplan 45 mm 1:2.8 or E. Ludwig Meritar 45 mm 1:2.9。快门速度1/30 s, 1/60 s, 1/125 s and B。使用SL。0,6 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beirette k"
+    "Camera-wiki": "Beirette k",
+    "胶片/画幅": "SL",
+    "尺寸": "24x36 mm",
+    "镜头": "Meyer Domiplan 45 mm 1:2.8 or E. Ludwig Meritar 45 mm 1:2.9",
+    "快门速度": "1/30 s, 1/60 s, 1/125 s and B",
+    "光圈": "1:2.8 or 1:2.9 - 1:22",
+    "曝光测光": "8 - 16 EV",
+    "对焦": "0,6 m",
+    "闪光灯": "full",
+    "英文简介": "Beirette k compact camera was made by the East German company Woldemar Beier KG in Freital from 1965 to around 1970, when it was replaced by the modern Beirette SL 200/SL 300 cameras."
   },
   "images": [],
   "sources": [

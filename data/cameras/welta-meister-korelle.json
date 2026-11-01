@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welta胶片单反相机，1950 年发布",
-  "description": "The Meister-Korelle, made by VEB WEFO and then Welta from 1950-52,WEFO was taken over by Welta in 1951 (both were state-operated companies) The last cameras were branded for Welta.",
+  "description": "Welta于1950年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Meister-Korelle"
+    "Camera-wiki": "Meister-Korelle",
+    "英文简介": "The Meister-Korelle, made by VEB WEFO and then Welta from 1950-52,WEFO was taken over by Welta in 1951 (both were state-operated companies) The last cameras were branded for Welta."
   },
   "images": [],
   "sources": [

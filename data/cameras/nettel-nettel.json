@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nettel折叠相机，1903 年发布",
-  "description": "The Nettel is a strut-folding plate camera with a focal-plane shutter, made by Nettel Camerawerk; the camera was introduced in 1903, while the company was still called Süddeutsches Camerawerk Körner und Mayer.",
+  "description": "Nettel于1903年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nettel (strut-folding)"
+    "Camera-wiki": "Nettel (strut-folding)",
+    "英文简介": "The Nettel is a strut-folding plate camera with a focal-plane shutter, made by Nettel Camerawerk; the camera was introduced in 1903, while the company was still called Süddeutsches Camerawerk Körner und Mayer."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2005 年发布",
-  "description": "{|class=floatright plainlinks\n||\n|-\n||\n|-\n||\n|-\n||\n|-\n|}\nThe DMC-FZ30 is a digital camera made by Panasonic in 2005.",
+  "description": "松下于2005年推出的数码相机。感光度80, 100, 200, 400。5cm (Wide/Macro) to 2m (Tele)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic DMC-FZ30"
+    "Camera-wiki": "Panasonic DMC-FZ30",
+    "对焦": "5cm (Wide/Macro) to 2m (Tele)",
+    "感光度": "80, 100, 200, 400",
+    "尺寸": "141 x 86 x 138 mm",
+    "重量": "740g with battery",
+    "英文简介": "{|class=floatright plainlinks\n||\n|-\n||\n|-\n||\n|-\n||\n|-\n|}\nThe DMC-FZ30 is a digital camera made by Panasonic in 2005."
   },
   "images": [],
   "sources": [

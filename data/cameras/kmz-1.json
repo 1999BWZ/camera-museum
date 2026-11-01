@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1952 年发布",
-  "description": "The Zenit (or Zenit 1) is a 35 mm SLR camera made by Krasnogorski Mekhanicheskii Zavod (KMZ) in Krasnagorsk near Moscow in the USSR, during the cold political climate of the early 1950’s.",
+  "description": "KMZ于1952年推出的胶片单反相机。快门速度Cloth focal-plane shutter. 1/25 - 1/500 sec plus B. Cable release socket in shutter release button. No delayed action. No flash synchronisation.。使用24x36 mm on standard 135 cartridge film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 1"
+    "Camera-wiki": "Zenit 1",
+    "胶片/画幅": "24x36 mm on standard 135 cartridge film",
+    "快门": "Cloth focal-plane shutter. 1/25 - 1/500 sec plus B. Cable release socket in shutter release button. No delayed action. No flash synchronisation.",
+    "取景器": "Pentaprism viewfinder with ground glass focusing screen. No prismatic focusing aids. Mirror reset as film is advanced.",
+    "尺寸": "140 x 50 x 90 mm (body only); depth with Industar-22 approx. 77 mm",
+    "重量": "540 g body only); 610 g with Industar-22.",
+    "英文简介": "The Zenit (or Zenit 1) is a 35 mm SLR camera made by Krasnogorski Mekhanicheskii Zavod (KMZ) in Krasnagorsk near Moscow in the USSR, during the cold political climate of the early 1950’s."
   },
   "images": [],
   "sources": [

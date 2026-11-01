@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1987 年发布",
-  "description": "The Ricoh TF-500 or TF-900 is a late 80s compact camera with autofocus and a 35 mm lens, switchable to 70 mm through a button on the top.",
+  "description": "理光于1987年推出的便携相机。快门速度Programmed electronic shutter, 1–1/500 s.。使用Easy loading, motor advance and rewind. Last bit of leader left out.。感光度DX decoding from 64 to 1600 ISO. Non-DX films set at ISO 100.。Autofocus with pre-focus ability, closest range 0,9 m.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh TF-500/TF-900"
+    "Camera-wiki": "Ricoh TF-500/TF-900",
+    "对焦": "Autofocus with pre-focus ability, closest range 0,9 m.",
+    "快门": "Programmed electronic shutter, 1–1/500 s.",
+    "取景器": "Albada type with bright lines, parallax correction marks and zone indication. Adjusted according to lens focal length. 0,7–0,38 x magnification, 84–87 % field of view.",
+    "曝光测光": "EV 3–17 (wide), EV 5–17 (tele). +2 exposure adjustment.",
+    "闪光灯": "Built-in pop-up flash, automatically activated with flash-matic exposure. Can be used as fill flash. GN 12. Reloads in 2–3 seconds.",
+    "感光度": "DX decoding from 64 to 1600 ISO. Non-DX films set at ISO 100.",
+    "胶片/画幅": "Easy loading, motor advance and rewind. Last bit of leader left out.",
+    "重量": "137 x 73 x 50 mm, 320 g (without battery).",
+    "尺寸": "137 x 73 x 50 mm",
+    "英文简介": "The Ricoh TF-500 or TF-900 is a late 80s compact camera with autofocus and a 35 mm lens, switchable to 70 mm through a button on the top."
   },
   "images": [],
   "sources": [

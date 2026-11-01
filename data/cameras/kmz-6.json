@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ数码单反相机，1964 年发布",
-  "description": "The Zenit 6 is a 35 mm SLR camera with a leaf shutter in the body, made by KMZ in the 1960s.",
+  "description": "KMZ于1964年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 6"
+    "Camera-wiki": "Zenit 6",
+    "英文简介": "The Zenit 6 is a 35 mm SLR camera with a leaf shutter in the body, made by KMZ in the 1960s."
   },
   "images": [],
   "sources": [

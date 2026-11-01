@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1966 年发布",
-  "description": "Compared to other cameras for Kodapak film the Minolta Autopak 500 has a quite fast lens.",
+  "description": "美能达于1966年推出的胶片相机。配备Rokkor 1:2.8/38mm with 4 elements。快门速度speed 1/90 sec. in normal or 1/40 sec. in flash mode。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Autopak 500"
+    "Camera-wiki": "Minolta Autopak 500",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "Rokkor 1:2.8/38mm with 4 elements",
+    "取景器": "bright frame with parallax marks, distance symbols mirrored into finder, flash indicator",
+    "快门": "speed 1/90 sec. in normal or 1/40 sec. in flash mode",
+    "闪光灯": "X flash cubes, fired if needed",
+    "尺寸": "118 × 71 × 57mm",
+    "重量": "320 g",
+    "英文简介": "Compared to other cameras for Kodapak film the Minolta Autopak 500 has a quite fast lens."
   },
   "images": [],
   "sources": [

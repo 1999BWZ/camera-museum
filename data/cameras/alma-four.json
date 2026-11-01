@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Alma取景器相机，1939 年发布",
-  "description": "The Alma Four (アルマフォアー) is a Japanese camera taking 4×4cm pictures on 127 film, made by Miyoshi Kōgaku and distributed by Banno Bōeki from 1939 to 1943.",
+  "description": "Alma于1939年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Alma Four"
+    "Camera-wiki": "Alma Four",
+    "英文简介": "The Alma Four (アルマフォアー) is a Japanese camera taking 4×4cm pictures on 127 film, made by Miyoshi Kōgaku and distributed by Banno Bōeki from 1939 to 1943."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1962 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Selecta is a heavy 35mm viewfinder camera made by German manufacturer Agfa, introduced in 1962.",
+  "description": "爱克发于1962年推出的取景器相机。配备Color Apotar, 45mm/f2.8。快门速度Prontor-Matic-P, 1/30-1/500 + B + flash sync & self-timer。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Selecta"
+    "Camera-wiki": "Selecta",
+    "快门": "Prontor-Matic-P, 1/30-1/500 + B + flash sync & self-timer",
+    "镜头": "Color Apotar, 45mm/f2.8",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Selecta is a heavy 35mm viewfinder camera made by German manufacturer Agfa, introduced in 1962."
   },
   "images": [],
   "sources": [

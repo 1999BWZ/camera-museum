@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1993 年发布",
-  "description": "The Yashica 300 Auto Focus is a 35mm SLR camera manufactured by Kyocera.",
+  "description": "雅西卡于1993年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 300 Auto Focus"
+    "Camera-wiki": "Yashica 300 Auto Focus",
+    "英文简介": "The Yashica 300 Auto Focus is a 35mm SLR camera manufactured by Kyocera."
   },
   "images": [],
   "sources": [

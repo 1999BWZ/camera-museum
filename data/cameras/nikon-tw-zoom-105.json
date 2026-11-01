@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片相机，1992 年发布",
-  "description": "The TW Zoom 105 is a 35mm film camera from Nikon.",
+  "description": "尼康于1992年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon TW Zoom 105"
+    "Camera-wiki": "Nikon TW Zoom 105",
+    "英文简介": "The TW Zoom 105 is a 35mm film camera from Nikon."
   },
   "images": [],
   "sources": [

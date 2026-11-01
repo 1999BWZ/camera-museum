@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码相机，2001 年发布",
-  "description": "The Konica Revio KD-300Z is a compact digital camera with zoom lens, TFT screen and optical real image viewfinder.",
+  "description": "柯尼卡于2001年推出的数码相机。配备1:2.8/7.8-1:3.5/15.6 mm zoom lens (like 38-76 mm lens for 35mm film) with 7 elements in 6 groups。Autofocus, 90 cm to infinity, or 6 to 90 cm (macro mode)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Digital Revio KD-300Z"
+    "Camera-wiki": "Konica Digital Revio KD-300Z",
+    "传感器": "1/1.8 inch CCD with 3.34 Mio. quadratic pixels (2048×1536) and interlaced reading system",
+    "镜头": "1:2.8/7.8-1:3.5/15.6 mm zoom lens (like 38-76 mm lens for 35mm film) with 7 elements in 6 groups",
+    "对焦": "Autofocus, 90 cm to infinity, or 6 to 90 cm (macro mode)",
+    "曝光测光": "multi-field CCD measuring: center-weighted integral or spot metering",
+    "取景器": "optical real image zoom finder",
+    "闪光灯": "built-in, reaching as far as 2.5 metres when lens is in wide angle position",
+    "尺寸": "87×55×30mm",
+    "重量": "165 g without card and without rechargeable lithium battery",
+    "英文简介": "The Konica Revio KD-300Z is a compact digital camera with zoom lens, TFT screen and optical real image viewfinder."
   },
   "images": [],
   "sources": [

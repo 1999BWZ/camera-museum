@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2005 年发布",
-  "description": "佳能于2005年发布的数码单反相机。",
+  "description": "佳能于2005年推出的数码单反相机。配备Interchangeable。快门速度electronic focal-plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q64955",
-    "多语言词条数": "23"
+    "多语言词条数": "23",
+    "传感器": "35.8 x 23.9 mm CMOS (full-frame)",
+    "镜头": "Interchangeable",
+    "取景器": "Optical, pentaprism",
+    "存储": "CompactFlash (CF) (Type I or Type II)",
+    "快门速度": "electronic focal-plane",
+    "曝光测光": "TTL, full aperture, 35 zones",
+    "屏幕": ", 230,000 pixels",
+    "重量": "810 g (body only)",
+    "电池": "Li-Ion BP-511A Rechargeable"
   },
   "images": [
     {

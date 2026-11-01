@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1993 年发布",
-  "description": "The Top's AF-300 is a 35mm film auto-focus camera produced by the Japanese company Konica.",
+  "description": "柯尼卡于1993年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Top's AF-300"
+    "Camera-wiki": "Konica Top's AF-300",
+    "英文简介": "The Top's AF-300 is a 35mm film auto-focus camera produced by the Japanese company Konica."
   },
   "images": [],
   "sources": [

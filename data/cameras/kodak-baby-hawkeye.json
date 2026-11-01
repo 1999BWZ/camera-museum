@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kodak盒式相机，1936 年发布",
-  "description": "Kodak inherited the name Hawkeye from Blair, a competitor company Kodak bought in 1899.",
+  "description": "Kodak于1936年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Hawkeye (Kodak)"
+    "Camera-wiki": "Baby Hawkeye (Kodak)",
+    "英文简介": "Kodak inherited the name Hawkeye from Blair, a competitor company Kodak bought in 1899."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1925 年发布",
-  "description": "The Pearlette (パーレット) is a Japanese folding camera taking 4×6.5cm and 3×4cm exposures on 127 film, made by Konishiroku (predecessor of Konica) from 1925 to the early postwar period.",
+  "description": "柯尼卡于1925年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pearlette"
+    "Camera-wiki": "Pearlette",
+    "英文简介": "The Pearlette (パーレット) is a Japanese folding camera taking 4×6.5cm and 3×4cm exposures on 127 film, made by Konishiroku (predecessor of Konica) from 1925 to the early postwar period."
   },
   "images": [],
   "sources": [

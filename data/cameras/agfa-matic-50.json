@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发胶片相机，1971 年发布",
-  "description": "The Agfamatic 50 is a simple camera for 126 cartridge film introduced by Agfa in 1971 or 1972.",
+  "description": "爱克发于1971年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfamatic 50"
+    "Camera-wiki": "Agfamatic 50",
+    "英文简介": "The Agfamatic 50 is a simple camera for 126 cartridge film introduced by Agfa in 1971 or 1972."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2000 年发布",
-  "description": "The MVC-FD90 is a digital camera introduced in 2000 (alongside the FD85) in the Mavica series from Sony.",
+  "description": "索尼于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD90"
+    "Camera-wiki": "Sony Mavica FD90",
+    "英文简介": "The MVC-FD90 is a digital camera introduced in 2000 (alongside the FD85) in the Mavica series from Sony."
   },
   "images": [],
   "sources": [

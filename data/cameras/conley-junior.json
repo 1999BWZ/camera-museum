@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Conley胶片相机，1911 年发布",
-  "description": "The Conley Junior was a folding bed camera for rollfilm.",
+  "description": "Conley于1911年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Conley Junior"
+    "Camera-wiki": "Conley Junior",
+    "英文简介": "The Conley Junior was a folding bed camera for rollfilm."
   },
   "images": [],
   "sources": [

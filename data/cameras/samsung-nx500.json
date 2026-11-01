@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星数码相机，2014 年发布",
-  "description": "The NX500 was the final model introduced by Samsung in its approximately 5-year foray into mirrorless system cameras, the NX system.",
+  "description": "三星于2014年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samsung NX500"
+    "Camera-wiki": "Samsung NX500",
+    "英文简介": "The NX500 was the final model introduced by Samsung in its approximately 5-year foray into mirrorless system cameras, the NX system."
   },
   "images": [],
   "sources": [

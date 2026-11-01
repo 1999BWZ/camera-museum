@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo取景器相机，1960 年发布",
-  "description": "The Certo-matic is a medium format camera made by Certo from about 1960.",
+  "description": "Certo于1960年推出的取景器相机。配备Probably the same as on the Certo-phot, an Achromat 1:8 / 75mm. Lens type needs confirmation.。快门速度shutter with B and \"Auto\" (c.1/60 sec).。使用12 exposures of 6 x 6 cm on 120 type rollfilm.。By turning the Frontlens.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Certo-matic"
+    "Camera-wiki": "Certo-matic",
+    "胶片/画幅": "12 exposures of 6 x 6 cm on 120 type rollfilm.",
+    "快门": "shutter with B and \"Auto\" (c.1/60 sec).",
+    "镜头": "Probably the same as on the Certo-phot, an Achromat 1:8 / 75mm. Lens type needs confirmation.",
+    "光圈": "8 till 16. Set by way of the knob on the top right hand side.",
+    "曝光测光": "Film sensitivity range ASA 25 - 160 (DIN 15 - 23), Match-needle setting method, shutter priority .",
+    "对焦": "By turning the Frontlens.",
+    "闪光灯": "Sync socket on side of shutter.",
+    "尺寸": "13x10x8 cm.",
+    "重量": "400 grams.",
+    "英文简介": "The Certo-matic is a medium format camera made by Certo from about 1960."
   },
   "images": [],
   "sources": [

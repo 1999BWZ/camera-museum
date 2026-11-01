@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1999 年发布",
-  "description": "Kodak KB18 is a 35mm camera produced by Kodak in 1999[https://web.archive.org/web/20100215013422/http://www.kodak.com/global/en/consumer/products/pdf/kb18.pdf PDF manual] (archived) copyright date as part of their KB series.",
+  "description": "柯达于1999年推出的取景器相机。配备30mm f/8, 2-element aspheric lens。快门速度1/100 sec.。使用135 (ISO 100/200/400 with DX coding)。4ft (1.2m)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak KB18"
+    "Camera-wiki": "Kodak KB18",
+    "胶片/画幅": "135 (ISO 100/200/400 with DX coding)",
+    "镜头": "30mm f/8, 2-element aspheric lens",
+    "快门速度": "1/100 sec.",
+    "闪光灯": "Built-in, flash every time",
+    "尺寸": "117 x 41 x 63mm",
+    "重量": "4.3oz (120g)",
+    "对焦": "4ft (1.2m)",
+    "取景器": "Reverse galilean",
+    "英文简介": "Kodak KB18 is a 35mm camera produced by Kodak in 1999[https://web.archive.org/web/20100215013422/http://www.kodak.com/global/en/consumer/products/pdf/kb18.pdf PDF manual] (archived) copyright date as part of their KB series."
   },
   "images": [],
   "sources": [

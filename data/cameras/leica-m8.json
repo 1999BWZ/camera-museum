@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2006 年发布",
-  "description": "徕卡于2006年发布的旁轴相机。",
+  "description": "徕卡于2006年推出的旁轴相机。配备| shutter = Focal plane, metal curtains, vertical travel。快门速度8s to 1/8000。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q349974",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "18 x 27 mm inducing a 1.33 crop factor",
+    "镜头": "| shutter = Focal plane, metal curtains, vertical travel",
+    "快门速度": "8s to 1/8000",
+    "曝光测光": "TTL, center weighted averaging",
+    "闪光灯": "Fixed hot shoe",
+    "屏幕": "| storage =",
+    "电池": "Lithium Ion",
+    "尺寸": "139 x 80 x 39 mm",
+    "重量": "545 g without battery 591 with"
   },
   "images": [
     {

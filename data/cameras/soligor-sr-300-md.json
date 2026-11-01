@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Soligor数码单反相机，1994 年发布",
-  "description": "The Soligor SR-300 MD is a compact SLR camera body with a Minolta MD SR-bayonet mount.",
+  "description": "Soligor于1994年推出的数码单反相机。快门速度Quartz-controlled focal plane shutter, speeds 4 sec. to 1/1000 sec. (auto) and 1 sec. to 1/1000 sec. (manual)。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Soligor SR-300 MD"
+    "Camera-wiki": "Soligor SR-300 MD",
+    "胶片/画幅": "35mm",
+    "卡口": "Minolta SR-bayonet with aperture release tappet for Minolta MC and MD lenses",
+    "快门": "Quartz-controlled focal plane shutter, speeds 4 sec. to 1/1000 sec. (auto) and 1 sec. to 1/1000 sec. (manual)",
+    "闪光灯": "1/60 sec.",
+    "取景器": "pentaprism finder, screen with micro-prism and split image for distance setting",
+    "曝光测光": "Integral center-weighted measuring with photo diode",
+    "自拍": "Electronic timer with red LED signal",
+    "英文简介": "The Soligor SR-300 MD is a compact SLR camera body with a Minolta MD SR-bayonet mount."
   },
   "images": [],
   "sources": [

@@ -1,0 +1,32 @@
+{
+  "id": "nikon-q124068760",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Q124068760",
+  "year": 1993,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，1993 年发布",
+  "description": "尼康于1993年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q124068760",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Q124068760",
+      "url": "https://www.wikidata.org/wiki/Q124068760"
+    }
+  ],
+  "qid": "Q124068760",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

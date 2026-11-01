@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1975 年发布",
-  "description": "Note: this article describes the 35mm SLR from 1975.",
+  "description": "宾得于1975年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax KM"
+    "Camera-wiki": "Pentax KM",
+    "英文简介": "Note: this article describes the 35mm SLR from 1975."
   },
   "images": [],
   "sources": [

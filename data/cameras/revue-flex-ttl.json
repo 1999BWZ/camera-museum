@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue数码单反相机，1975 年发布",
-  "description": "The Revueflex TTL is a 35mm SLR sold by German retailer Foto-Quelle c.1975[https://kameramuseum.de/objekte/revue-revueflex-ttl/ Revueflex TTL page] at [https://kameramuseum.de/ Kurt Tauber's Deutsches Kameramuseum] (in German).",
+  "description": "Revue于1975年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revueflex TTL"
+    "Camera-wiki": "Revueflex TTL",
+    "英文简介": "The Revueflex TTL is a 35mm SLR sold by German retailer Foto-Quelle c.1975[https://kameramuseum.de/objekte/revue-revueflex-ttl/ Revueflex TTL page] at [https://kameramuseum.de/ Kurt Tauber's Deutsches Kameramuseum] (in German)."
   },
   "images": [],
   "sources": [

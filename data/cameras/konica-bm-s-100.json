@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1996 年发布",
-  "description": "The BM-S 100 Super Big Mini is a point and shoot APS film camera, released from Konica in 1996.",
+  "description": "柯尼卡于1996年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica BM-S 100"
+    "Camera-wiki": "Konica BM-S 100",
+    "英文简介": "The BM-S 100 Super Big Mini is a point and shoot APS film camera, released from Konica in 1996."
   },
   "images": [],
   "sources": [

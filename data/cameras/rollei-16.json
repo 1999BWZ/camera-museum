@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来微型相机，1963 年发布",
-  "description": "The Rollei 16 is a quite small viewfinder camera for 16mm film.",
+  "description": "禄来于1963年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei 16"
+    "Camera-wiki": "Rollei 16",
+    "英文简介": "The Rollei 16 is a quite small viewfinder camera for 16mm film."
   },
   "images": [],
   "sources": [

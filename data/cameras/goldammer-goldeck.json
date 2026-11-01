@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goldammer取景器相机，1958 年发布",
-  "description": "Goldeck is a range of similar viewfinder cameras taking 6×6cm frames on 120 film, made by Goldammer in Germany from c.1958.",
+  "description": "Goldammer于1958年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Goldeck"
+    "Camera-wiki": "Goldeck",
+    "英文简介": "Goldeck is a range of similar viewfinder cameras taking 6×6cm frames on 120 film, made by Goldammer in Germany from c.1958."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aires旁轴相机，1958 年发布",
-  "description": "The 1959 advertising for the Aires 35-V emphasized that this was the most technologically ambitious model yet in the Aires company's line of 35mm rangefinder cameras.",
+  "description": "Aires于1958年推出的旁轴相机。快门速度Seikosha-MX leafshutter. Speeds B, 1 ,2 , 5 ,10 ,25 ,50 ,100, 200, and 400.。使用24 x 36 mm on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Aires 35-V"
+    "Camera-wiki": "Aires 35-V",
+    "胶片/画幅": "24 x 36 mm on 35mm film",
+    "快门": "Seikosha-MX leafshutter. Speeds B, 1 ,2 , 5 ,10 ,25 ,50 ,100, 200, and 400.",
+    "卡口": "Bayonet mount for Aires35 V (Aires V mount)",
+    "英文简介": "The 1959 advertising for the Aires 35-V emphasized that this was the most technologically ambitious model yet in the Aires company's line of 35mm rangefinder cameras."
   },
   "images": [],
   "sources": [

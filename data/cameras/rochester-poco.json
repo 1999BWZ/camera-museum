@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rochester旁轴相机（折叠），1893 年发布",
-  "description": "The Poco and Cycle Poco camera series were made by Rochester Camera and Supply Co..",
+  "description": "Rochester于1893年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Poco"
+    "Camera-wiki": "Poco",
+    "英文简介": "The Poco and Cycle Poco camera series were made by Rochester Camera and Supply Co.."
   },
   "images": [],
   "sources": [

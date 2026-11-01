@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片单反相机，1975 年发布",
-  "description": "The Fujica ST601 was introduced in 1975, essentially by taking the entry-level Fujica ST701 (3rd version) and cutting features—perhaps to reach a price target, or for clearer market segmentation Fuji Film's company website explains - \"The first oil shock from the end of 1973 (Showa 48) caused the en",
+  "description": "Fuji于1975年推出的胶片单反相机。快门速度Mechanical cloth focal-plane shutter. B + 1/2nd - 1/700th sec. Self-timer.。使用Single-stroke lever with 140° winding angle.。感光度20 to 1600 ASA.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica ST601"
+    "Camera-wiki": "Fujica ST601",
+    "卡口": "Praktica M42 screw, List of available Fujinon lenses.",
+    "快门": "Mechanical cloth focal-plane shutter. B + 1/2nd - 1/700th sec. Self-timer.",
+    "曝光测光": "Manual match needle metering, with indicator visible in viewfinder.",
+    "感光度": "20 to 1600 ASA.",
+    "闪光灯": "X sync hot shoe at 1/60.",
+    "胶片/画幅": "Single-stroke lever with 140° winding angle.",
+    "尺寸": "133 x 86 x 88mm (W x H x D) with lens.",
+    "重量": "610g body alone.",
+    "电池": "Two 1.35V Varta 400PX type mercury batteries.",
+    "英文简介": "The Fujica ST601 was introduced in 1975, essentially by taking the entry-level Fujica ST701 (3rd version) and cutting features—perhaps to reach a price target, or for clearer market segmentation Fuji Film's company website explains - \"The first oil shock from the end of 1973 (Showa 48) caused the entire world economy to contract, and Japan's camera exports, which had been steady until then, slowed"
   },
   "images": [],
   "sources": [

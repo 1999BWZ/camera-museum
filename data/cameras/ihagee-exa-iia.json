@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee胶片单反相机，1963 年发布",
-  "description": "{| class=\"floatright plainlinks\"\n|colspan=2|\n|-\n|\n|\n\n|-\n|}\nThe Exa IIa is a 35 mm SLR camera made by Ihagee in 1963-4.",
+  "description": "Ihagee于1963年推出的胶片单反相机。快门速度Focal plane shutter vertical travel, speeds 1/2 - 1/250 second, flash sync 1/30 second。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exa IIa"
+    "Camera-wiki": "Exa IIa",
+    "取景器": "pentaprism eye-level viewfinder",
+    "卡口": "Exakta bayonet",
+    "快门": "Focal plane shutter vertical travel, speeds 1/2 - 1/250 second, flash sync 1/30 second",
+    "英文简介": "{| class=\"floatright plainlinks\"\n|colspan=2|\n|-\n|\n|\n\n|-\n|}\nThe Exa IIa is a 35 mm SLR camera made by Ihagee in 1963-4."
   },
   "images": [],
   "sources": [

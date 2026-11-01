@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1981 年发布",
-  "description": "The Minolta Hi-matic S2 was a 35mm viewfinder camera from Minolta.",
+  "description": "美能达于1981年推出的取景器相机。配备Minolta 38/2.8。使用ASA 25 to ASA 400, set manually。Manual, zone focusing。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic S2"
+    "Camera-wiki": "Minolta Hi-Matic S2",
+    "对焦": "Manual, zone focusing",
+    "曝光测光": "CdS cell, auto-exposure",
+    "镜头": "Minolta 38/2.8",
+    "胶片/画幅": "ASA 25 to ASA 400, set manually",
+    "电池": "2 x AA alkaline batteries",
+    "英文简介": "The Minolta Hi-matic S2 was a 35mm viewfinder camera from Minolta."
   },
   "images": [],
   "sources": [

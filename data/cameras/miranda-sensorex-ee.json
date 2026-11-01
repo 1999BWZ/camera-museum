@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda胶片单反相机，1971 年发布",
-  "description": "Introduced in 1971, the Miranda Sensorex EE (also known as Auto Sensorex EE) is a shutter-priority, auto exposure 35mm film SLR camera introduced by Miranda in 1971.",
+  "description": "Miranda于1971年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda Sensorex EE"
+    "Camera-wiki": "Miranda Sensorex EE",
+    "尺寸": "144 x 93 x 87mm",
+    "英文简介": "Introduced in 1971, the Miranda Sensorex EE (also known as Auto Sensorex EE) is a shutter-priority, auto exposure 35mm film SLR camera introduced by Miranda in 1971."
   },
   "images": [],
   "sources": [

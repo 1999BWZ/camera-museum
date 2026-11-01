@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Acro旁轴相机，1940 年发布",
-  "description": "The Model R (identified on the box, as in the advertisement below, as the Model R Candid Camera) is a half-frame (i.e.",
+  "description": "Acro于1940年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Acro Model R"
+    "Camera-wiki": "Acro Model R",
+    "英文简介": "The Model R (identified on the box, as in the advertisement below, as the Model R Candid Camera) is a half-frame (i.e."
   },
   "images": [],
   "sources": [

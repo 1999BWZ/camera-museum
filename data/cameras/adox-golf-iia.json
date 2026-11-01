@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Adox取景器相机，1963 年发布",
-  "description": "The Golf IIA is a 35mm compact camera made by Adox in Germany, introduced in 1963.",
+  "description": "Adox于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Adox Golf IIA"
+    "Camera-wiki": "Adox Golf IIA",
+    "英文简介": "The Golf IIA is a 35mm compact camera made by Adox in Germany, introduced in 1963."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1938 年发布",
-  "description": "Designed by Walter Dorwin Teague, this large box camera for film size 616 was manufactured by Kodak in the United States between 1938 and 1942.",
+  "description": "柯达于1938年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Special Six-16"
+    "Camera-wiki": "Kodak Brownie Special Six-16",
+    "英文简介": "Designed by Walter Dorwin Teague, this large box camera for film size 616 was manufactured by Kodak in the United States between 1938 and 1942."
   },
   "images": [],
   "sources": [

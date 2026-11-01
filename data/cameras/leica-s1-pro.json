@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码相机，1998 年发布",
-  "description": "This page is about an early Leica digital camera, not related to the Leica S series of DSLR cameras of about 2008.",
+  "description": "徕卡于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica S1 Pro"
+    "Camera-wiki": "Leica S1 Pro",
+    "英文简介": "This page is about an early Leica digital camera, not related to the Leica S series of DSLR cameras of about 2008."
   },
   "images": [],
   "sources": [

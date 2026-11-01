@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡便携相机，1990 年发布",
-  "description": "The Konica \"Big Mini\" BM-201 is a fully automatic compact camera with built-in flash.",
+  "description": "柯尼卡于1990年推出的便携相机。配备Konica F/3.5 35mm, four elements in four groups。使用35mm with speeds from ISO 25 to ISO 3200, automatic DX-code recognition。infrared non-scan active autofocus, focus lock at current value by pressing shutter release halfways。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Big Mini BM-201"
+    "Camera-wiki": "Konica Big Mini BM-201",
+    "胶片/画幅": "35mm with speeds from ISO 25 to ISO 3200, automatic DX-code recognition",
+    "镜头": "Konica F/3.5 35mm, four elements in four groups",
+    "取景器": "bright frame direct view albada finder, with control LEDs",
+    "曝光测光": "CdS, center-weighted, controls exposure settings automatically",
+    "对焦": "infrared non-scan active autofocus, focus lock at current value by pressing shutter release halfways",
+    "闪光灯": "reaching as far as 3.8 metres with film speed ISO 100",
+    "重量": "188g without CR123A battery",
+    "尺寸": "115×63×34mm",
+    "英文简介": "The Konica \"Big Mini\" BM-201 is a fully automatic compact camera with built-in flash."
   },
   "images": [],
   "sources": [

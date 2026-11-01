@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nobility折叠相机，1934 年发布",
-  "description": "The Semi Prince (セミプリンス) is a series of Japanese 4.5×6 folders, made by Fujimoto Shashinki Seisakusho and distributed by Fukada Shōkai from 1934 to 1939.",
+  "description": "Nobility于1934年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Prince"
+    "Camera-wiki": "Semi Prince",
+    "英文简介": "The Semi Prince (セミプリンス) is a series of Japanese 4.5×6 folders, made by Fujimoto Shashinki Seisakusho and distributed by Fukada Shōkai from 1934 to 1939."
   },
   "images": [],
   "sources": [

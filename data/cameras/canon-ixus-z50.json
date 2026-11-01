@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，2000 年发布",
-  "description": "Z50 Images\n\n\n\n\nThe Canon IXUS Z50 is a compact APS film camera, introduced by Canon in March 2000.",
+  "description": "佳能于2000年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon IXUS Z50"
+    "Camera-wiki": "Canon IXUS Z50",
+    "英文简介": "Z50 Images\n\n\n\n\nThe Canon IXUS Z50 is a compact APS film camera, introduced by Canon in March 2000."
   },
   "images": [],
   "sources": [

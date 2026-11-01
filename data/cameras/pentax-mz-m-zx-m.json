@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1997 年发布",
-  "description": "Pentax took a big gamble in 1997, and introduced a manual focus camera, knows as Mz-M (ZX-M in the USA).",
+  "description": "宾得于1997年推出的胶片单反相机。快门速度Focal plane shutter with speeds from 30 to 1/2000 sec. B。使用35mm film with speeds of 25 to 5000 ISO, with auto DX and manually 6 to 6400 ISO。manual.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MZ-M/ZX-M"
+    "Camera-wiki": "Pentax MZ-M/ZX-M",
+    "卡口": "Pentax KA2 (plastic)",
+    "胶片/画幅": "35mm film with speeds of 25 to 5000 ISO, with auto DX and manually 6 to 6400 ISO",
+    "曝光测光": "silicon photo cell.",
+    "对焦": "manual.",
+    "快门": "Focal plane shutter with speeds from 30 to 1/2000 sec. B",
+    "取景器": "0.8 magnification x 92% coverage, shutter and aperture LED display.",
+    "尺寸": "approx 135 × 90.5 × 55mm",
+    "重量": "320g",
+    "英文简介": "Pentax took a big gamble in 1997, and introduced a manual focus camera, knows as Mz-M (ZX-M in the USA)."
   },
   "images": [],
   "sources": [

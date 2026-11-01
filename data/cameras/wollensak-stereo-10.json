@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wollensak立体相机，1955 年发布",
-  "description": "The Wollensak Stereo 10 is a 35mm stereo camera from the Wollensak Optical Company of Chicago, Illinois.",
+  "description": "Wollensak于1955年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wollensak Stereo 10"
+    "Camera-wiki": "Wollensak Stereo 10",
+    "英文简介": "The Wollensak Stereo 10 is a 35mm stereo camera from the Wollensak Optical Company of Chicago, Illinois."
   },
   "images": [],
   "sources": [

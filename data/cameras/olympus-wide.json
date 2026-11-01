@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1955 年发布",
-  "description": "__NOTOC__\nThe Olympus Wide series are cameras for 35mm film made by Olympus between 1955-61, all notable for a lens of 3.5 cm (35mm) focal length, giving wider-than normal coverage.",
+  "description": "奥林巴斯于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Wide"
+    "Camera-wiki": "Olympus Wide",
+    "英文简介": "__NOTOC__\nThe Olympus Wide series are cameras for 35mm film made by Olympus between 1955-61, all notable for a lens of 3.5 cm (35mm) focal length, giving wider-than normal coverage."
   },
   "images": [],
   "sources": [

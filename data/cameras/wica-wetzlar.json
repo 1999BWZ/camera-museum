@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wica中画幅相机，2004 年发布",
-  "description": "The Wica Wetzlar is a medium format ultra wide angle camera, to be used with a Schneider Super-Angulon 38mm, 47mm or 58mm, attached via a bayonet to the body's shift lens mount.",
+  "description": "Wica于2004年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wica Wetzlar"
+    "Camera-wiki": "Wica Wetzlar",
+    "英文简介": "The Wica Wetzlar is a medium format ultra wide angle camera, to be used with a Schneider Super-Angulon 38mm, 47mm or 58mm, attached via a bayonet to the body's shift lens mount."
   },
   "images": [],
   "sources": [

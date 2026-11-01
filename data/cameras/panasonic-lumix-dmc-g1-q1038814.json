@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2008 年发布",
-  "description": "松下于2008年发布的便携相机。",
+  "description": "松下于2008年推出的便携相机。配备Micro Four Thirds System mount。快门速度| shutterRange = 60–1/4000 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1038814",
-    "多语言词条数": "8"
+    "多语言词条数": "8",
+    "传感器": "17.3 mm × 13 mm Live MOS",
+    "镜头": "Micro Four Thirds System mount",
+    "快门速度": "| shutterRange = 60–1/4000 sec",
+    "曝光测光": "| emode = Manual, Program, Automatic, Shutter Priority, Aperture Priority",
+    "闪光灯": "Built-in pop up, TTL, GN 11 equivalent (ISO100 · m)",
+    "存储": "SD, SDHC",
+    "电池": "Li-Ion 7.2 V, 1250 mAh",
+    "重量": "body 385 g, with 14–45mm lens 638 g"
   },
   "images": [
     {

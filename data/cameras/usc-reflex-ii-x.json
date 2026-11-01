@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "USC盒式相机，1960 年发布",
-  "description": "The Reflex II X is box camera, made of bakelite in the style of a pseudo TLR by the United States Camera Co..",
+  "description": "USC于1960年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "USC Reflex II X"
+    "Camera-wiki": "USC Reflex II X",
+    "英文简介": "The Reflex II X is box camera, made of bakelite in the style of a pseudo TLR by the United States Camera Co.."
   },
   "images": [],
   "sources": [

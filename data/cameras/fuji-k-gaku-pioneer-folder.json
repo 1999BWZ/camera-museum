@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji Kōgaku折叠相机，1955 年发布",
-  "description": "The Pioneer (パイオニア) is a Japanese 4.5×6 folding camera, sold in 1955 and 1956 by Pioneer Camera.",
+  "description": "Fuji Kōgaku于1955年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pioneer folder"
+    "Camera-wiki": "Pioneer folder",
+    "英文简介": "The Pioneer (パイオニア) is a Japanese 4.5×6 folding camera, sold in 1955 and 1956 by Pioneer Camera."
   },
   "images": [],
   "sources": [

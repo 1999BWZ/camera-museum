@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2010 年发布",
-  "description": "The Ricoh G700SE was introduced by Ricoh in 2010.",
+  "description": "理光于2010年推出的数码相机。配备f=5-25mm (like 28-140mm for 35mm film)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh G700SE"
+    "Camera-wiki": "Ricoh G700SE",
+    "传感器": "1/2.3-inch (total pixels: approx. 12.1 million pixels).",
+    "镜头": "f=5-25mm (like 28-140mm for 35mm film)",
+    "闪光灯": "built-in automatic electronic flash. Flash range up to 10 m for wide-angle and 6.2 m for telephoto.",
+    "尺寸": "118.8 mm (W) x 71.0 mm (H) x 41.0 mm (D) (excluding projecting parts).",
+    "重量": "Approx. 280g (excluding battery, SD memory card, strap).",
+    "英文简介": "The Ricoh G700SE was introduced by Ricoh in 2010."
   },
   "images": [],
   "sources": [

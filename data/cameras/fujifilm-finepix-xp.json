@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2010 年发布",
-  "description": "The Fujifilm FinePix XP cameras are digital compact cameras for outdoor usage.",
+  "description": "富士于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix XP"
+    "Camera-wiki": "Fujifilm FinePix XP",
+    "英文简介": "The Fujifilm FinePix XP cameras are digital compact cameras for outdoor usage."
   },
   "images": [],
   "sources": [

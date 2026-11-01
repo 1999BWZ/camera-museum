@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1979 年发布",
-  "description": "The Konica FS-1 is a Konica AR bayonet mount camera introduced in 1979.",
+  "description": "柯尼卡于1979年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica FS-1"
+    "Camera-wiki": "Konica FS-1",
+    "英文简介": "The Konica FS-1 is a Konica AR bayonet mount camera introduced in 1979."
   },
   "images": [],
   "sources": [

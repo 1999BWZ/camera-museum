@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Boots取景器相机，1960 年发布",
-  "description": "__NOTOC__\n\nA series of 35mm viewfinder cameras sold by Boots in the UK in the 1960-1970's.",
+  "description": "Boots于1960年推出的取景器相机。配备Isco-Göttingen Color-Isconar 1:2.8/45mm。快门速度Prontor 125 (speeds 1/30, 1/60 & 1/125 sec and B)。Zone focus with 3 pictograms on top of lens or scale focus on bottom。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Boots Pacemaker"
+    "Camera-wiki": "Boots Pacemaker",
+    "镜头": "Isco-Göttingen Color-Isconar 1:2.8/45mm",
+    "对焦": "Zone focus with 3 pictograms on top of lens or scale focus on bottom",
+    "快门": "Prontor 125 (speeds 1/30, 1/60 & 1/125 sec and B)",
+    "光圈": "f/2.8 to f/22",
+    "闪光灯": "By PC sync cable. Cold mount point on camera",
+    "英文简介": "__NOTOC__\n\nA series of 35mm viewfinder cameras sold by Boots in the UK in the 1960-1970's."
   },
   "images": [],
   "sources": [

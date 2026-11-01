@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1960 年发布",
-  "description": "The Ricoh Mate is a rangefinder camera that uses 35mm film and released by Ricoh in 1960.",
+  "description": "理光于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Mate"
+    "Camera-wiki": "Ricoh Mate",
+    "英文简介": "The Ricoh Mate is a rangefinder camera that uses 35mm film and released by Ricoh in 1960."
   },
   "images": [],
   "sources": [

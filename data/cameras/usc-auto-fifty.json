@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "USC胶片相机，1950 年发布",
-  "description": "The USC Auto Fifty was type 120 film TLR re-branded and sold by the United States Camera Corporation of Chicago, USA.",
+  "description": "USC于1950年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "USC Auto Fifty"
+    "Camera-wiki": "USC Auto Fifty",
+    "英文简介": "The USC Auto Fifty was type 120 film TLR re-branded and sold by the United States Camera Corporation of Chicago, USA."
   },
   "images": [],
   "sources": [

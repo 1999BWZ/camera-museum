@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2010 年发布",
-  "description": "The Olympus FE-5030 is a compact entry level digital camera released by Olympus in 2010.",
+  "description": "奥林巴斯于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus FE-5030"
+    "Camera-wiki": "Olympus FE-5030",
+    "英文简介": "The Olympus FE-5030 is a compact entry level digital camera released by Olympus in 2010."
   },
   "images": [],
   "sources": [

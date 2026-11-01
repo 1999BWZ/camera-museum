@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1969 年发布",
-  "description": "The 126C-Flex TLS is an SLR for 126 film, with interchangeable lenses.",
+  "description": "理光于1969年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 126C-Flex TLS"
+    "Camera-wiki": "Ricoh 126C-Flex TLS",
+    "英文简介": "The 126C-Flex TLS is an SLR for 126 film, with interchangeable lenses."
   },
   "images": [],
   "sources": [

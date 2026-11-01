@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士无反相机，2023 年发布",
-  "description": "富士于2023年发布的无反相机。",
+  "description": "富士于2023年推出的无反相机。配备Fujifilm X。快门速度| shutter_speeds = 4 s to 1/4000 s (mechanical), 4 s to 1/32000 s (electronic)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q118638176",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "镜头": "Fujifilm X",
+    "传感器": "APS-C",
+    "存储": "SD, SDHC, SDXC, UHS-II",
+    "对焦": "Intelligent Hybrid AF TTL contrast AF / TTL phase detection AF",
+    "曝光测光": "TTL 256-zone metering",
+    "闪光灯": "Manual pop-up flash Guidenumber 5",
+    "快门速度": "| shutter_speeds = 4 s to 1/4000 s (mechanical), 4 s to 1/32000 s (electronic)",
+    "取景器": "EVF viewfinder with eye sensor",
+    "屏幕": "3.0\" 1.84M dots (3:2. 720×480) touchscreenfree-angle monitor",
+    "电池": "NP-W235 Li-ion(USB rechargeable)",
+    "重量": "including battery and memory card"
   },
   "images": [
     {

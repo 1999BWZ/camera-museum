@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1965 年发布",
-  "description": "The Yashica EZ-matic is a stylish camera for 126 film.",
+  "description": "雅西卡于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica EZ-matic"
+    "Camera-wiki": "Yashica EZ-matic",
+    "英文简介": "The Yashica EZ-matic is a stylish camera for 126 film."
   },
   "images": [],
   "sources": [

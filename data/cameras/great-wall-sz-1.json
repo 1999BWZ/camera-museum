@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Great旁轴相机，1969 年发布",
-  "description": "More than 100.000 of the Great Wall SZ-1 rangefinder cameras with spring motor film advance were made from 1969 to 1977 by the Beijing Camera Factory.",
+  "description": "Great于1969年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Great Wall SZ-1"
+    "Camera-wiki": "Great Wall SZ-1",
+    "英文简介": "More than 100.000 of the Great Wall SZ-1 rangefinder cameras with spring motor film advance were made from 1969 to 1977 by the Beijing Camera Factory."
   },
   "images": [],
   "sources": [

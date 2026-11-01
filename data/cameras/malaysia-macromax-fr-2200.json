@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Malaysia便携相机，1997 年发布",
-  "description": "The Goko FR 2200, or Goko Macromax FR 2200, is a compact camera with 25mm lens for the Advanced Photo system.",
+  "description": "Malaysia于1997年推出的便携相机。配备1:6.7/25mm (3 elements), switchable from normal fixed focus 1 m-infinity to macro modes for 30-100 cm and for 10-30 cm distance。快门速度Speeds 1/90 to 1/300 sec., controlled electronically。使用motorized。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Goko Macromax FR 2200"
+    "Camera-wiki": "Goko Macromax FR 2200",
+    "镜头": "1:6.7/25mm (3 elements), switchable from normal fixed focus 1 m-infinity to macro modes for 30-100 cm and for 10-30 cm distance",
+    "快门": "Speeds 1/90 to 1/300 sec., controlled electronically",
+    "取景器": "Albada type, image framed by bright frame in chosen APS print format, indicators for image center in macro modes, color of macro mode shown in one corner",
+    "闪光灯": "built-in, reaching as far as 2.4 m with ISO 100 film",
+    "胶片/画幅": "motorized",
+    "尺寸": "109.5×63.0×42.5mm",
+    "重量": "170 g without CR2 battery",
+    "英文简介": "The Goko FR 2200, or Goko Macromax FR 2200, is a compact camera with 25mm lens for the Advanced Photo system."
   },
   "images": [],
   "sources": [

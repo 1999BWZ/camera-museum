@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1954 年发布",
-  "description": "The Retina IIc is a 35mm rangefinder camera made in Stuttgart, Germany by Kodak AG between the years 1954 - 1957.Coe, Brian, Kodak Cameras, The First Hundred Years, Hove Foto Books, 1988;however, [https://web.archive.org/web/20120415004927/http://www.kodak.com/global/en/consumer/products/techInfo/aa",
+  "description": "柯达于1954年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina IIc"
+    "Camera-wiki": "Kodak Retina IIc",
+    "尺寸": "width - 122mm; height - 85mm; depth - 90mm (open), 47mm (closed)",
+    "英文简介": "The Retina IIc is a 35mm rangefinder camera made in Stuttgart, Germany by Kodak AG between the years 1954 - 1957.Coe, Brian, Kodak Cameras, The First Hundred Years, Hove Foto Books, 1988;however, [https://web.archive.org/web/20120415004927/http://www.kodak.com/global/en/consumer/products/techInfo/aa13/aa13pg2.shtml History of Kodak Cameras] (archived), at Kodak.com lists 1955-58 Approximately 136,"
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda旁轴相机，1975 年发布",
-  "description": "The 1975 Miranda RE II was the last in a long line of cameras that started with the Miranda T.",
+  "description": "Miranda于1975年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda RE-II"
+    "Camera-wiki": "Miranda RE-II",
+    "英文简介": "The 1975 Miranda RE II was the last in a long line of cameras that started with the Miranda T."
   },
   "images": [],
   "sources": [

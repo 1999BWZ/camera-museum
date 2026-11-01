@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，1981 年发布",
-  "description": "In 1981 Pentax launched a derivative of the ME Super called Pentax ME-F.",
+  "description": "宾得于1981年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax ME-F"
+    "Camera-wiki": "Pentax ME-F",
+    "英文简介": "In 1981 Pentax launched a derivative of the ME Super called Pentax ME-F."
   },
   "images": [],
   "sources": [

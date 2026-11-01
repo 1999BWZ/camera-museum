@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1975 年发布",
-  "description": "The Polaroid Super Shooter is a rigid, plastic bodied instant camera, made in the US between 1975-77.",
+  "description": "宝丽来于1975年推出的一次成像相机。使用Peel-apart 80-Series Land Pack Films such as Polaroid 87, 88, Viva (all discontinued), or type 100 film, such as Fuji FP-100C.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Super Shooter"
+    "Camera-wiki": "Polaroid Super Shooter",
+    "胶片/画幅": "Peel-apart 80-Series Land Pack Films such as Polaroid 87, 88, Viva (all discontinued), or type 100 film, such as Fuji FP-100C.",
+    "英文简介": "The Polaroid Super Shooter is a rigid, plastic bodied instant camera, made in the US between 1975-77."
   },
   "images": [],
   "sources": [

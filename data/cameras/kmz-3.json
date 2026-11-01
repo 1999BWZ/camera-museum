@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1960 年发布",
-  "description": "__NOTOC__\nThe Zenit 3 is a 35mm film SLR camera manufactured by Krasnogorsky Mekhanichesky Zavod (KMZ: 'Mechanical Factory of Krasnogorsk') in Moscow, between 1960-62, quantity 81776 copies.",
+  "description": "KMZ于1960年推出的胶片单反相机。配备Industar-50 50mm f/3.5。快门速度rubberized silk double cloth curtain, horizontal-travel。使用bottom loading, w/ special removable take up spool; film should be cut with a 100mm leader.。fixed pentaprism with plain ground-glass screen。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 3"
+    "Camera-wiki": "Zenit 3",
+    "镜头": "Industar-50 50mm f/3.5",
+    "对焦": "fixed pentaprism with plain ground-glass screen",
+    "快门": "rubberized silk double cloth curtain, horizontal-travel",
+    "闪光灯": "on the front of the top-plate, only activates at 1/30 speed",
+    "胶片/画幅": "bottom loading, w/ special removable take up spool; film should be cut with a 100mm leader.",
+    "英文简介": "__NOTOC__\nThe Zenit 3 is a 35mm film SLR camera manufactured by Krasnogorsky Mekhanichesky Zavod (KMZ: 'Mechanical Factory of Krasnogorsk') in Moscow, between 1960-62, quantity 81776 copies."
   },
   "images": [],
   "sources": [

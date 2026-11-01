@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon取景器相机，1959 年发布",
-  "description": "The Symbolica was an attempt of Zeiss Ikon AG to establish a user-friendly versatile viewfinder camera with original Tessar lens and Prontormat shutter.",
+  "description": "Zeiss Ikon于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Symbolica"
+    "Camera-wiki": "Symbolica",
+    "英文简介": "The Symbolica was an attempt of Zeiss Ikon AG to establish a user-friendly versatile viewfinder camera with original Tessar lens and Prontormat shutter."
   },
   "images": [],
   "sources": [

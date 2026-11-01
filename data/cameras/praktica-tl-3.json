@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片相机，1978 年发布",
-  "description": "The Praktica Super TL 3 was introduced in March 1978, showing no fundamental changes when compared to its predecessors.",
+  "description": "潘泰康于1978年推出的胶片相机。快门速度B, 1/1, 1/2, 1/4, 1/8, 1/15 1/30, 1/60, 1/125, 1/250,1/500.。使用Quick-release lever, Pentacon Loading-System, fold-out rewind crank, auto-zeroing frame counter.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica Super TL 3"
+    "Camera-wiki": "Praktica Super TL 3",
+    "快门": "Mechanically controlled vertical-moving metal-blade focal plane shutter.",
+    "取景器": "Fixed eye-level viewfinder (Pentaprism) with Fresnel lens with microprism and split-image range-finder as focusing screen, needle metering indication with (+/-)-symbol.",
+    "胶片/画幅": "Quick-release lever, Pentacon Loading-System, fold-out rewind crank, auto-zeroing frame counter.",
+    "自拍": "None.",
+    "曝光测光": "TTL-metering using stopped-down metering controlled by a switch beside the lens mount above the shutter release knob.",
+    "快门速度": "B, 1/1, 1/2, 1/4, 1/8, 1/15 1/30, 1/60, 1/125, 1/250,1/500.",
+    "卡口": "M42x1.",
+    "闪光灯": "X-Synchronisation (1/125), accessory shoe at the top of the pentaprism, coaxial flash socket at the camera body for dual flash systems.",
+    "英文简介": "The Praktica Super TL 3 was introduced in March 1978, showing no fundamental changes when compared to its predecessors."
   },
   "images": [],
   "sources": [

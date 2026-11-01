@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2005 年发布",
-  "description": "The Cyber-shot DSC-T7 is a ultra compact digital camera released by Sony in 2005.",
+  "description": "索尼于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-T7"
+    "Camera-wiki": "Sony DSC-T7",
+    "尺寸": "92 x 60 x 15 mm",
+    "英文简介": "The Cyber-shot DSC-T7 is a ultra compact digital camera released by Sony in 2005."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mikker胶片相机，1953 年发布",
-  "description": "The Mikker 35 is a Japanese viewfinder camera for 24mm square exposures on Bolta-size film (unperforated film, 35mm wide).[https://www.leitz-auction.com/en/Miki-Camera-Co.-Mikker-35/AI-20220121-1128-41709 Mikker 35] serial no.",
+  "description": "Mikker于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mikker 35"
+    "Camera-wiki": "Mikker 35",
+    "英文简介": "The Mikker 35 is a Japanese viewfinder camera for 24mm square exposures on Bolta-size film (unperforated film, 35mm wide).[https://www.leitz-auction.com/en/Miki-Camera-Co.-Mikker-35/AI-20220121-1128-41709 Mikker 35] serial no."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary折叠相机，1952 年发布",
-  "description": "The Shinkoh Rabbit (シンコーラビット) is a Japanese 4.5&times;6 folding camera, made between 1952 and 1954 by Tougodo.",
+  "description": "Bestiary于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Shinkoh Rabbit"
+    "Camera-wiki": "Shinkoh Rabbit",
+    "英文简介": "The Shinkoh Rabbit (シンコーラビット) is a Japanese 4.5&times;6 folding camera, made between 1952 and 1954 by Tougodo."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡微型相机，1964 年发布",
-  "description": "The Yashica 16EE is a subminiature 16mm camera released by Yashica in 1964.",
+  "description": "雅西卡于1964年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 16 EE"
+    "Camera-wiki": "Yashica 16 EE",
+    "英文简介": "The Yashica 16EE is a subminiature 16mm camera released by Yashica in 1964."
   },
   "images": [],
   "sources": [

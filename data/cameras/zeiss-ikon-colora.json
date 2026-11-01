@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon取景器相机，1960 年发布",
-  "description": "The Colora is a 35mm viewfinder camera made in Germany by Zeiss Ikon, taking 24×36mm frames \"on usual cartridges\".Page from Zeiss' 1961 catalogue, formerly shown on the [https://web.archive.org/web/20160307004929/http://www.marriottcameras.co.uk/ Marriott site (archived)]\n\n=== 1960 model===\n\nThe fir",
+  "description": "Zeiss Ikon于1960年推出的取景器相机。配备Novar 45mm f/3.5。快门速度Pronto, 1/30–1/250 +B with self-timer and flash sync for bulbs (at 1/30) + electronic (at all speeds)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Colora"
+    "Camera-wiki": "Colora",
+    "镜头": "Novar 45mm f/3.5",
+    "快门": "Pronto, 1/30–1/250 +B with self-timer and flash sync for bulbs (at 1/30) + electronic (at all speeds)",
+    "英文简介": "The Colora is a 35mm viewfinder camera made in Germany by Zeiss Ikon, taking 24×36mm frames \"on usual cartridges\".Page from Zeiss' 1961 catalogue, formerly shown on the [https://web.archive.org/web/20160307004929/http://www.marriottcameras.co.uk/ Marriott site (archived)]\n\n=== 1960 model===\n\nThe first model was introduced in c.1960; p.1040."
   },
   "images": [],
   "sources": [

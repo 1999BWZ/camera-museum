@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1988 年发布",
-  "description": "The Yashica DF-10 or Kyocera J-Tele is a 1988 budget compact camera with two focal lengths: 35 and 55 mm.",
+  "description": "雅西卡于1988年推出的取景器相机。快门速度1/125 (35 mm), 1/60 (55 mm).。感光度100–400 (DX coded films). Non-DX film is set to ISO 100.。Fixed focus, 1,5 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica DF-10"
+    "Camera-wiki": "Yashica DF-10",
+    "快门": "1/125 (35 mm), 1/60 (55 mm).",
+    "对焦": "Fixed focus, 1,5 m to infinity.",
+    "感光度": "100–400 (DX coded films). Non-DX film is set to ISO 100.",
+    "闪光灯": "Built-in, manually activated. Under exposure warning lamp. Range (at ISO 100) 1–2,5 m (wide), 1,2–2 m (tele).",
+    "重量": "54 mm x 124 mm x 74,5 mm, 290g.",
+    "英文简介": "The Yashica DF-10 or Kyocera J-Tele is a 1988 budget compact camera with two focal lengths: 35 and 55 mm."
   },
   "images": [],
   "sources": [

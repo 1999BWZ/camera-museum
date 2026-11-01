@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1963 年发布",
-  "description": "The Vito Automatic F was produced by Voigtländer in the mid-1960's.",
+  "description": "Voigtländer于1963年推出的取景器相机。配备Unknown。快门速度Unknown。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito Automatic F and R"
+    "Camera-wiki": "Vito Automatic F and R",
+    "胶片/画幅": "35mm",
+    "镜头": "Unknown",
+    "快门": "Unknown",
+    "闪光灯": "X synchronized (socket under the shutter release)",
+    "英文简介": "The Vito Automatic F was produced by Voigtländer in the mid-1960's."
   },
   "images": [],
   "sources": [

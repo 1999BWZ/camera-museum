@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1999 年发布",
-  "description": "The Newpic XB is a fully-automatic APS film camera, with motor drive and auto-focus, manufactured by Olympus.",
+  "description": "奥林巴斯于1999年推出的胶片相机。配备24mm (equivalent to 30mm full frame), f4.5, 3 elements。快门速度1/250 - 1/3s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Newpic XB AF"
+    "Camera-wiki": "Olympus Newpic XB AF",
+    "镜头": "24mm (equivalent to 30mm full frame), f4.5, 3 elements",
+    "快门": "1/250 - 1/3s",
+    "英文简介": "The Newpic XB is a fully-automatic APS film camera, with motor drive and auto-focus, manufactured by Olympus."
   },
   "images": [],
   "sources": [

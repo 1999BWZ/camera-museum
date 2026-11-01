@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1969 年发布",
-  "description": "The Konica Electron is a fixed lens 35 mm rangefinder camera introduced by Konica in 1969.",
+  "description": "柯尼卡于1969年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Electron"
+    "Camera-wiki": "Konica Electron",
+    "英文简介": "The Konica Electron is a fixed lens 35 mm rangefinder camera introduced by Konica in 1969."
   },
   "images": [],
   "sources": [

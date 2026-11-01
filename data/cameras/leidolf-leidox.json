@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leidolf取景器相机，1950 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Leidox is a 1950 viewfinder camera from Leidolf, making 4x4 cm square images on 127 film.",
+  "description": "Leidolf于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leidox"
+    "Camera-wiki": "Leidox",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Leidox is a 1950 viewfinder camera from Leidolf, making 4x4 cm square images on 127 film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1993 年发布",
-  "description": "The Cardia Mini Elite OP is a compact dual focal length 35mm film camera released by Fuji in 1993.",
+  "description": "Fuji于1993年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji Cardia Mini Elite OP"
+    "Camera-wiki": "Fuji Cardia Mini Elite OP",
+    "英文简介": "The Cardia Mini Elite OP is a compact dual focal length 35mm film camera released by Fuji in 1993."
   },
   "images": [],
   "sources": [

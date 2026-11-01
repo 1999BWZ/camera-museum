@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时数码相机，2004 年发布",
-  "description": "The U4R is a swivel lens digital camera announced by Kyocera in 2004 using the Contax brand.",
+  "description": "康泰时于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax U4R"
+    "Camera-wiki": "Contax U4R",
+    "尺寸": "102 x 64 x 19 mm",
+    "英文简介": "The U4R is a swivel lens digital camera announced by Kyocera in 2004 using the Contax brand."
   },
   "images": [],
   "sources": [

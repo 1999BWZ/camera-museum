@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leonar折叠相机，1914 年发布",
-  "description": "The Leonar Model B I is folding plate camera, format 10x15 cm, produced by the German company Leonar-Werke Arndt & Löwengard in Wandsbek near Hamburg c.1914 Article \"Fotografische Nieuwigheden\" (Photography News) as published in the May 1914 issue of the Dutch photography magazine \"Lux\".",
+  "description": "Leonar于1914年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leonar B I"
+    "Camera-wiki": "Leonar B I",
+    "英文简介": "The Leonar Model B I is folding plate camera, format 10x15 cm, produced by the German company Leonar-Werke Arndt & Löwengard in Wandsbek near Hamburg c.1914 Article \"Fotografische Nieuwigheden\" (Photography News) as published in the May 1914 issue of the Dutch photography magazine \"Lux\"."
   },
   "images": [],
   "sources": [

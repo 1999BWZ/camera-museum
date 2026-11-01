@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO中画幅相机，1976 年发布",
-  "description": "Lomo made this plastic-bodied Twin lens reflex medium format camera beginning circa 1976.",
+  "description": "LOMO于1976年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lubitel 166"
+    "Camera-wiki": "Lubitel 166",
+    "英文简介": "Lomo made this plastic-bodied Twin lens reflex medium format camera beginning circa 1976."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beauty胶片相机，1954 年发布",
-  "description": "Beauty Flex and Beautyflex are two different series of Japanese 6&times;6 TLR cameras and made by Taiyōdō Kōki.",
+  "description": "Beauty于1954年推出的胶片相机。配备Beauty 80mm f3.5。快门速度NKS-FB MX 1 to 1/300。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beautyflex"
+    "Camera-wiki": "Beautyflex",
+    "镜头": "Beauty 80mm f3.5",
+    "快门": "NKS-FB MX 1 to 1/300",
+    "英文简介": "Beauty Flex and Beautyflex are two different series of Japanese 6&times;6 TLR cameras and made by Taiyōdō Kōki."
   },
   "images": [],
   "sources": [

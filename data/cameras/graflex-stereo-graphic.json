@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲立体相机，1955 年发布",
-  "description": "The Stereo Graphic is a 35mm stereo camera that was made by Graflex from 1955-1960.",
+  "description": "格拉菲于1955年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Graflex Stereo Graphic"
+    "Camera-wiki": "Graflex Stereo Graphic",
+    "英文简介": "The Stereo Graphic is a 35mm stereo camera that was made by Graflex from 1955-1960."
   },
   "images": [],
   "sources": [

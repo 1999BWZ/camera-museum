@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier便携相机，1970 年发布",
-  "description": "The Beirette SL 300 was made by the East German company Woldemar Beier KG in Freital from 1970 well into 1980s, being one of the more advanced cameras of the SL System.",
+  "description": "Beier于1970年推出的便携相机。配备E. Ludwig Meritar 45 mm 1:2.9, later 1:2.8。快门速度1/30 s, 1/60 s, 1/125 s and B。使用SL。0,6 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beirette SL 300"
+    "Camera-wiki": "Beirette SL 300",
+    "胶片/画幅": "SL",
+    "尺寸": "24x36 mm",
+    "镜头": "E. Ludwig Meritar 45 mm 1:2.9, later 1:2.8",
+    "快门速度": "1/30 s, 1/60 s, 1/125 s and B",
+    "光圈": "1:2,9 (1:2.8) - 1:22",
+    "曝光测光": "8 - 16 EV",
+    "对焦": "0,6 m",
+    "闪光灯": "full",
+    "重量": "280 g",
+    "英文简介": "The Beirette SL 300 was made by the East German company Woldemar Beier KG in Freital from 1970 well into 1980s, being one of the more advanced cameras of the SL System."
   },
   "images": [],
   "sources": [

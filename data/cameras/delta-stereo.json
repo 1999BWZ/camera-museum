@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Delta立体相机，1955 年发布",
-  "description": "__NOTOC__ \n{|class=floatleft\n|\n\n|-\n|colspan=3 align=center | image by \n |}\n\n\nThe Delta Stereo camera was made in 1955 by Lennor Engineering Co.",
+  "description": "Delta于1955年推出的立体相机。配备No-name 50mm f/6.7, matched pair。快门速度Dual horizontal guillotine/sliding shutter type, behind lens. Shutter speeds 1/100th-1/25th, B.。使用23x25mm interlaced stereo pairs.。感光度15-Infinity。Fixed。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Delta Stereo"
+    "Camera-wiki": "Delta Stereo",
+    "镜头": "No-name 50mm f/6.7, matched pair",
+    "胶片/画幅": "23x25mm interlaced stereo pairs.",
+    "快门": "Dual horizontal guillotine/sliding shutter type, behind lens. Shutter speeds 1/100th-1/25th, B.",
+    "曝光测光": "Manual",
+    "取景器": "Simple reverse-telescopic type",
+    "对焦": "Fixed",
+    "闪光灯": "Proprietary bulb flashgun, mounted to contact on tripod socket",
+    "感光度": "15-Infinity",
+    "英文简介": "__NOTOC__ \n{|class=floatleft\n|\n\n|-\n|colspan=3 align=center | image by \n |}\n\n\nThe Delta Stereo camera was made in 1955 by Lennor Engineering Co."
   },
   "images": [],
   "sources": [

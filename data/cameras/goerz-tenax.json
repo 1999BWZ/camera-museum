@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goerz折叠相机，1938 年发布",
-  "description": "Before its 1926 merger into Zeiss Ikon, the Berlin company C.",
+  "description": "Goerz于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tenax (folding bed camera)"
+    "Camera-wiki": "Tenax (folding bed camera)",
+    "英文简介": "Before its 1926 merger into Zeiss Ikon, the Berlin company C."
   },
   "images": [],
   "sources": [

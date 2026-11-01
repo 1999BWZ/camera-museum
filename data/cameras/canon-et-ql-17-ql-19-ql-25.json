@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能旁轴相机，1965 年发布",
-  "description": "The Canonet QL range was introduced by Canon in March 1965[http://global.canon/en/c-museum/product/film53.html Canon Museum], as a development of the Canonet.",
+  "description": "佳能于1965年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Canonet QL 17 / QL 19 / QL 25"
+    "Camera-wiki": "Canon Canonet QL 17 / QL 19 / QL 25",
+    "英文简介": "The Canonet QL range was introduced by Canon in March 1965[http://global.canon/en/c-museum/product/film53.html Canon Museum], as a development of the Canonet."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1975 年发布",
-  "description": "As its name says, the Pocket 400 is a pocketable camera by Konica, for use with 110 film.",
+  "description": "柯尼卡于1975年推出的胶片单反相机。配备Hexar 28 mm f/8 (3 elements, 3 groups)。快门速度4 – 1/450 s.。1 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Pocket 400"
+    "Camera-wiki": "Konica Pocket 400",
+    "镜头": "Hexar 28 mm f/8 (3 elements, 3 groups)",
+    "对焦": "1 m to infinity.",
+    "快门": "4 – 1/450 s.",
+    "重量": "108 x 52 x 26 mm, 160 g.",
+    "尺寸": "108 x 52 x 26 mm",
+    "英文简介": "As its name says, the Pocket 400 is a pocketable camera by Konica, for use with 110 film."
   },
   "images": [],
   "sources": [

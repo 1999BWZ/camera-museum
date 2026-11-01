@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo折叠相机，1929 年发布",
-  "description": "The Certosport is a double-extension folding plate camera, made by Certo in Dresden, Germany, from about 1929.",
+  "description": "Certo于1929年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Certosport"
+    "Camera-wiki": "Certosport",
+    "英文简介": "The Certosport is a double-extension folding plate camera, made by Certo in Dresden, Germany, from about 1929."
   },
   "images": [],
   "sources": [

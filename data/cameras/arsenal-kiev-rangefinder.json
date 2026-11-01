@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arsenal旁轴相机，1947 年发布",
-  "description": "The Kiev rangefinder cameras are derivatives of the pre-WW2 Contax rangefinder bodies, and were made after the War by the Zavod Arsenal factory in Kiev, Ukraine.",
+  "description": "Arsenal于1947年推出的旁轴相机。配备Jupiter-8 50mm f/2。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kiev rangefinder"
+    "Camera-wiki": "Kiev rangefinder",
+    "镜头": "Jupiter-8 50mm f/2",
+    "英文简介": "The Kiev rangefinder cameras are derivatives of the pre-WW2 Contax rangefinder bodies, and were made after the War by the Zavod Arsenal factory in Kiev, Ukraine."
   },
   "images": [],
   "sources": [

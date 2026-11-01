@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo取景器相机，1963 年发布",
-  "description": "The Fodor C-35 is a Japanese 35mm viewfinder camera made by Tougodo (unconfirmed) for the Dutch importer Fodor.",
+  "description": "Tougodo于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fodor C-35"
+    "Camera-wiki": "Fodor C-35",
+    "英文简介": "The Fodor C-35 is a Japanese 35mm viewfinder camera made by Tougodo (unconfirmed) for the Dutch importer Fodor."
   },
   "images": [],
   "sources": [

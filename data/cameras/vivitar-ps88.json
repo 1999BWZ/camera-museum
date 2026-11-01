@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar便携相机，1990 年发布",
-  "description": "Autofocus compact camera for 35mm film sold by Vivitar.",
+  "description": "Vivitar于1990年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar PS88"
+    "Camera-wiki": "Vivitar PS88",
+    "英文简介": "Autofocus compact camera for 35mm film sold by Vivitar."
   },
   "images": [],
   "sources": [

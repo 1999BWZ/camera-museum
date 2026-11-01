@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1934 年发布",
-  "description": "The Kodak Retina I, launched in 1934, is the first camera on a long line of 135 format cameras.",
+  "description": "柯达于1934年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina I"
+    "Camera-wiki": "Kodak Retina I",
+    "英文简介": "The Kodak Retina I, launched in 1934, is the first camera on a long line of 135 format cameras."
   },
   "images": [],
   "sources": [

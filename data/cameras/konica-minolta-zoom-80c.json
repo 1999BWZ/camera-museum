@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达便携相机，2004 年发布",
-  "description": "The Konica Minolta Zoom 80c has a lot in common with it's older sibling, the Minolta Zoom 80.",
+  "description": "柯尼卡美能达于2004年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta Zoom 80c"
+    "Camera-wiki": "Konica Minolta Zoom 80c",
+    "英文简介": "The Konica Minolta Zoom 80c has a lot in common with it's older sibling, the Minolta Zoom 80."
   },
   "images": [],
   "sources": [

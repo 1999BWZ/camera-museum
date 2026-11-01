@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Imperial胶片相机，1960 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Imperial Debonair is an idiosyncratically-styled plastic camera for 620 film made by Herbert George Co., Chicago around 1960.",
+  "description": "Imperial于1960年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Imperial Debonair"
+    "Camera-wiki": "Imperial Debonair",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Imperial Debonair is an idiosyncratically-styled plastic camera for 620 film made by Herbert George Co., Chicago around 1960."
   },
   "images": [],
   "sources": [

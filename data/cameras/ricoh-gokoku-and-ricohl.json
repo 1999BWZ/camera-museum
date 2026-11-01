@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1938 年发布",
-  "description": "The Gokoku (ゴコク) and Ricohl (リコール) are Japanese cameras taking 3×4cm pictures on 127 film, made by Riken Kōgaku Kōgyō (the predecessor of Ricoh) and originally announced in 1938 as the Riken No.1.",
+  "description": "理光于1938年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Gokoku and Ricohl"
+    "Camera-wiki": "Gokoku and Ricohl",
+    "英文简介": "The Gokoku (ゴコク) and Ricohl (リコール) are Japanese cameras taking 3×4cm pictures on 127 film, made by Riken Kōgaku Kōgyō (the predecessor of Ricoh) and originally announced in 1938 as the Riken No.1."
   },
   "images": [],
   "sources": [

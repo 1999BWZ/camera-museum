@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann盒式相机，1926 年发布",
-  "description": "{|class= \"floatright plainlinks\"\n||[http://www.flickr.com/photos/53230277@N07/5001149296/in/pool-camerawiki/ http://farm5.static.flickr.com/4153/5001149296_61ef04bdda_m_d.jpg]\n|rowspan=2|[http://www.flickr.com/photos/53230277@N07/5001148398/in/pool-camerawiki/ http://farm5.static.flickr.com/4085/500",
+  "description": "Ernemann于1926年推出的盒式相机。快门速度T&I。使用4.5×6; 6.5×9; 9×12cm for plates or film-packs。fixed focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Erni"
+    "Camera-wiki": "Ernemann Erni",
+    "胶片/画幅": "4.5×6; 6.5×9; 9×12cm for plates or film-packs",
+    "快门": "T&I",
+    "取景器": "Folding frame finder",
+    "对焦": "fixed focus",
+    "尺寸": "{|rules=rows",
+    "英文简介": "{|class= \"floatright plainlinks\"\n||[http://www.flickr.com/photos/53230277@N07/5001149296/in/pool-camerawiki/ http://farm5.static.flickr.com/4153/5001149296_61ef04bdda_m_d.jpg]\n|rowspan=2|[http://www.flickr.com/photos/53230277@N07/5001148398/in/pool-camerawiki/ http://farm5.static.flickr.com/4085/5001148398_c9341387f6_d.jpg]\n|-\n||[http://www.flickr.com/photos/53230277@N07/5000547159/in/pool-cameraw"
   },
   "images": [],
   "sources": [

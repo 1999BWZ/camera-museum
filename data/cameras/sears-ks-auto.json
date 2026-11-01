@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears数码单反相机，1979 年发布",
-  "description": "The KS Auto was introduced by US retailer Sears in 1979, joining the KS 500 and KS 1000See them on [https://christmas.musetechnical.com/ShowCatalogPage/1979-Sears-Fall-Winter-Catalog/1268 page 1268 of the scanned Fall/winter 1979 catalog] from [https://christmas.musetechnical.com/ Musetechnical's \"C",
+  "description": "Sears于1979年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sears KS Auto"
+    "Camera-wiki": "Sears KS Auto",
+    "重量": "560g",
+    "英文简介": "The KS Auto was introduced by US retailer Sears in 1979, joining the KS 500 and KS 1000See them on [https://christmas.musetechnical.com/ShowCatalogPage/1979-Sears-Fall-Winter-Catalog/1268 page 1268 of the scanned Fall/winter 1979 catalog] from [https://christmas.musetechnical.com/ Musetechnical's \"Christmas Catalogs & Holiday Wishbooks.\"] to become their top-end offering."
   },
   "images": [],
   "sources": [

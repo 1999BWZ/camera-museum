@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Anny取景器相机，1960 年发布",
-  "description": "The Anny 44 (アニー44) is an inexpensive Japanese camera taking 4×4cm pictures on 127 film, made by Hōei from 1960.",
+  "description": "Anny于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Anny 44"
+    "Camera-wiki": "Anny 44",
+    "英文简介": "The Anny 44 (アニー44) is an inexpensive Japanese camera taking 4×4cm pictures on 127 film, made by Hōei from 1960."
   },
   "images": [],
   "sources": [

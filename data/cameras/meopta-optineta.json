@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Meopta取景器相机，1959 年发布",
-  "description": "The Optineta is a viewfinder camera for 35 mm film, with a fixed lens and leaf shutter, made by Meopta in Czechoslovakia from about 1959.",
+  "description": "Meopta于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optineta"
+    "Camera-wiki": "Optineta",
+    "英文简介": "The Optineta is a viewfinder camera for 35 mm film, with a fixed lens and leaf shutter, made by Meopta in Czechoslovakia from about 1959."
   },
   "images": [],
   "sources": [

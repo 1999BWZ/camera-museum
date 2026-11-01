@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Detective cameras胶片相机，1932 年发布",
-  "description": "The Egorette (エゴレット) is a Japanese camera taking 4.5×6cm film plates.",
+  "description": "Detective cameras于1932年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Egorette"
+    "Camera-wiki": "Egorette",
+    "英文简介": "The Egorette (エゴレット) is a Japanese camera taking 4.5×6cm film plates."
   },
   "images": [],
   "sources": [

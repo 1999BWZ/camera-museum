@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2006 年发布",
-  "description": "The Caplio R4 is a digital camera produced by Ricoh and released in 2006.",
+  "description": "理光于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caplio R4"
+    "Camera-wiki": "Ricoh Caplio R4",
+    "英文简介": "The Caplio R4 is a digital camera produced by Ricoh and released in 2006."
   },
   "images": [],
   "sources": [

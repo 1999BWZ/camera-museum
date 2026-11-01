@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ranger取景器相机，1956 年发布",
-  "description": "__NOTOC__\nThe Ranger 35 is a Japanese 35mm viewfinder camera made c.1956.",
+  "description": "Ranger于1956年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ranger 35"
+    "Camera-wiki": "Ranger 35",
+    "英文简介": "__NOTOC__\nThe Ranger 35 is a Japanese 35mm viewfinder camera made c.1956."
   },
   "images": [],
   "sources": [

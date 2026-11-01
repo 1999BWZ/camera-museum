@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GOMZ胶片相机，1954 年发布",
-  "description": "Lubitel (cyrillic: Любитель) means \"amateur\" in Russian.",
+  "description": "GOMZ于1954年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lubitel 2"
+    "Camera-wiki": "Lubitel 2",
+    "英文简介": "Lubitel (cyrillic: Любитель) means \"amateur\" in Russian."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign胶片相机，1957 年发布",
-  "description": "Ross-Ensign's Fulvueflex Synchroflash is a pseudo TLR, made from 1957 to 1959.",
+  "description": "Ensign于1957年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fulvueflex"
+    "Camera-wiki": "Fulvueflex",
+    "英文简介": "Ross-Ensign's Fulvueflex Synchroflash is a pseudo TLR, made from 1957 to 1959."
   },
   "images": [],
   "sources": [

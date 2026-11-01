@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2014 年发布",
-  "description": "索尼于2014年发布的数码单反相机。",
+  "description": "索尼于2014年推出的数码单反相机。配备Sony A-mount。快门速度| shutter_speeds = 1/8000 to 30 seconds, bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q16856974",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "镜头": "Sony A-mount",
+    "传感器": "Exmor CMOS Sensor",
+    "存储": "Memory Stick PRO Duo, Pro-HG Duo, PRO-XC HG Duo media SD, SDHC and SDXC card",
+    "闪光灯": "Built-in pop-up flash",
+    "取景器": "EVF with eye sensor",
+    "快门速度": "| shutter_speeds = 1/8000 to 30 seconds, bulb",
+    "屏幕": "3.0\" 1.23M dots touchscreenvariable-angle monitor",
+    "电池": "NP-FM500H Li-ion",
+    "重量": "including battery and memory card"
   },
   "images": [
     {

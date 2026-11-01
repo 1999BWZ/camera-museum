@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1955 年发布",
-  "description": "The Ricoh Ricolet S is a viewfinder camera with fixed lens made in Japan by Ricoh from 1955.",
+  "description": "理光于1955年推出的取景器相机。配备Riken Ricoh f 3.5 / 4.5cm - 3 elements in 3 groups (Made by Tomioka Optical)。快门速度Riken, Speeds 1/10 - 1/200 sec + B。manual focusing。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricolet S"
+    "Camera-wiki": "Ricolet S",
+    "镜头": "Riken Ricoh f 3.5 / 4.5cm - 3 elements in 3 groups (Made by Tomioka Optical)",
+    "快门": "Riken, Speeds 1/10 - 1/200 sec + B",
+    "光圈": "1/3.5 - 1:16",
+    "对焦": "manual focusing",
+    "尺寸": "140mm x 77mm x 64mm",
+    "重量": "540 g",
+    "英文简介": "The Ricoh Ricolet S is a viewfinder camera with fixed lens made in Japan by Ricoh from 1955."
   },
   "images": [],
   "sources": [

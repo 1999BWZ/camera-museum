@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，1995 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Z-1p (aka PZ-1p) is a high-end 35mm SLR with autofocus introduced by Pentax in 1995.",
+  "description": "宾得于1995年推出的数码单反相机。快门速度Electronic; shutter speeds from 30s to 1/8000, B。感光度Auto DX; 6 to 6400 ASA。SAFOX II AF with sensitivity from -1 to 18 EV。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Z-1p"
+    "Camera-wiki": "Pentax Z-1p",
+    "卡口": "KAF2",
+    "对焦": "SAFOX II AF with sensitivity from -1 to 18 EV",
+    "曝光测光": "HyM, M, PK and M Lenses: spotA, F, and FA Lenses: 6-segment in P mode, spot: in M and HyM modes.",
+    "感光度": "Auto DX; 6 to 6400 ASA",
+    "快门": "Electronic; shutter speeds from 30s to 1/8000, B",
+    "取景器": "0.80 x [92%], with shutter and aperture LED",
+    "闪光灯": "Built-In; GN: 14",
+    "自拍": "12 seconds",
+    "尺寸": "152 x 95.5 x 74 mm",
+    "重量": "650 g",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Z-1p (aka PZ-1p) is a high-end 35mm SLR with autofocus introduced by Pentax in 1995."
   },
   "images": [],
   "sources": [

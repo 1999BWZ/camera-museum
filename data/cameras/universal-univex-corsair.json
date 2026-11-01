@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Universal取景器相机，1938 年发布",
-  "description": "The Corsair I and Corsair II were budget-priced, bakelite-bodied cameras sold by Universal (Univex) in the years before WWII.",
+  "description": "Universal于1938年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Univex Corsair"
+    "Camera-wiki": "Univex Corsair",
+    "英文简介": "The Corsair I and Corsair II were budget-priced, bakelite-bodied cameras sold by Universal (Univex) in the years before WWII."
   },
   "images": [],
   "sources": [

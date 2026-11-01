@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片单反相机，1963 年发布",
-  "description": "The Topcon Wink Mirror S is a 35mm film SLR camera manufactured by Tōkyō Kōgaku.",
+  "description": "Topcon于1963年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon Wink Mirror S"
+    "Camera-wiki": "Topcon Wink Mirror S",
+    "英文简介": "The Topcon Wink Mirror S is a 35mm film SLR camera manufactured by Tōkyō Kōgaku."
   },
   "images": [],
   "sources": [

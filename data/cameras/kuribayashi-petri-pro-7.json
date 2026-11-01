@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1964 年发布",
-  "description": "The Petri Pro 7 is a 35mm fixed-lens rangefinder camera made by Petri in 1964.",
+  "description": "Kuribayashi于1964年推出的旁轴相机。配备C.C. Petri 45mm F1.8. Coated, unit focusing。快门速度Petri MVE leafshutter. Speeds 1 to 1/500 sec. and B.。使用24 x 36 mm on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Pro 7"
+    "Camera-wiki": "Petri Pro 7",
+    "胶片/画幅": "24 x 36 mm on 35mm film",
+    "镜头": "C.C. Petri 45mm F1.8. Coated, unit focusing",
+    "快门": "Petri MVE leafshutter. Speeds 1 to 1/500 sec. and B.",
+    "英文简介": "The Petri Pro 7 is a 35mm fixed-lens rangefinder camera made by Petri in 1964."
   },
   "images": [],
   "sources": [

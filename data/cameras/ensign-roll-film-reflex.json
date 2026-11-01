@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign胶片单反相机，1925 年发布",
-  "description": "The Ensign Roll Film Reflex is a range of SLR cameras made in the 1920s by Houghton for 2¼x3¼-inch (6x9 cm) pictures on 120 roll film.",
+  "description": "Ensign于1925年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ensign Roll Film Reflex"
+    "Camera-wiki": "Ensign Roll Film Reflex",
+    "英文简介": "The Ensign Roll Film Reflex is a range of SLR cameras made in the 1920s by Houghton for 2¼x3¼-inch (6x9 cm) pictures on 120 roll film."
   },
   "images": [],
   "sources": [

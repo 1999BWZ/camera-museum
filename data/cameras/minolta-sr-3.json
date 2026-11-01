@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1960 年发布",
-  "description": "The Minolta SR-3 was launched in 1960 as the third 35mm SLR camera model from Chiyoda Kogaku.",
+  "description": "美能达于1960年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-3"
+    "Camera-wiki": "Minolta SR-3",
+    "英文简介": "The Minolta SR-3 was launched in 1960 as the third 35mm SLR camera model from Chiyoda Kogaku."
   },
   "images": [],
   "sources": [

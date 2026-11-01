@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Super取景器相机，1950 年发布",
-  "description": "The Super-Gap and Vog are similar simple viewfinder cameras made in France by Georges Paris (Gap), c.1950.",
+  "description": "Super于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Super-Gap and Vog"
+    "Camera-wiki": "Super-Gap and Vog",
+    "英文简介": "The Super-Gap and Vog are similar simple viewfinder cameras made in France by Georges Paris (Gap), c.1950."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，1995 年发布",
-  "description": "The Kodak DCS 400 series are DSLR cameras based upon the body of a Nikon N90 (F90) or N90s (F90X) if manufactured after 1994.",
+  "description": "柯达于1995年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak DCS 400 series"
+    "Camera-wiki": "Kodak DCS 400 series",
+    "英文简介": "The Kodak DCS 400 series are DSLR cameras based upon the body of a Nikon N90 (F90) or N90s (F90X) if manufactured after 1994."
   },
   "images": [
     {

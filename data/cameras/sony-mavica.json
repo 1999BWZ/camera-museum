@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼胶片单反相机，1981 年发布",
-  "description": "In 1981, Sony startled the photographic world by creating a filmless, electronic camera for stills called the Mavica (from magnetic video camera).",
+  "description": "索尼于1981年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica (1981)"
+    "Camera-wiki": "Sony Mavica (1981)",
+    "英文简介": "In 1981, Sony startled the photographic world by creating a filmless, electronic camera for stills called the Mavica (from magnetic video camera)."
   },
   "images": [
     {

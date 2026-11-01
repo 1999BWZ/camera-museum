@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1957 年发布",
-  "description": "The Brownie Starlet is a simple plastic fixed focus camera made by Kodak starting in 1957.",
+  "description": "柯达于1957年推出的取景器相机。配备Dakon, two apertures。使用127, 4x4cm images.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Starlet"
+    "Camera-wiki": "Kodak Brownie Starlet",
+    "胶片/画幅": "127, 4x4cm images.",
+    "镜头": "Dakon, two apertures",
+    "英文简介": "The Brownie Starlet is a simple plastic fixed focus camera made by Kodak starting in 1957."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1972 年发布",
-  "description": "The Kodak Pocket Instamatic 40 is one of Kodak's pocket cameras for the type No.",
+  "description": "柯达于1972年推出的便携相机。配备1:8/25mm 3 elements lens。快门速度CdS controlled with speeds 10 sec. to 1/225 sec., flash-synchronized for speeds 1/30 to 1/225 sec.。使用type No. 110 16mm film cartridges。2-zone, 1-2 meters or more than 2 meters。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Pocket Instamatic 40"
+    "Camera-wiki": "Kodak Pocket Instamatic 40",
+    "胶片/画幅": "type No. 110 16mm film cartridges",
+    "镜头": "1:8/25mm 3 elements lens",
+    "快门": "CdS controlled with speeds 10 sec. to 1/225 sec., flash-synchronized for speeds 1/30 to 1/225 sec.",
+    "对焦": "2-zone, 1-2 meters or more than 2 meters",
+    "闪光灯": "Flash cube connector",
+    "尺寸": "125×57×27 mm",
+    "英文简介": "The Kodak Pocket Instamatic 40 is one of Kodak's pocket cameras for the type No."
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲胶片单反相机，1912 年发布",
-  "description": "The Home Portrait Graflex was an SLR produced by Graflex from 1912–1942.",
+  "description": "格拉菲于1912年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Home Portrait Graflex"
+    "Camera-wiki": "Home Portrait Graflex",
+    "英文简介": "The Home Portrait Graflex was an SLR produced by Graflex from 1912–1942."
   },
   "images": [],
   "sources": [

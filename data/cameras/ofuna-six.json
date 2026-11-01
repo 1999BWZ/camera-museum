@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ofuna旁轴相机，1953 年发布",
-  "description": "Ofuna Six (オフナーシックス, Ofunā Shikkusu)Note the change of pronunciation from that of Ōfuna (大船), the manufacturer.",
+  "description": "Ofuna于1953年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ofuna Six"
+    "Camera-wiki": "Ofuna Six",
+    "英文简介": "Ofuna Six (オフナーシックス, Ofunā Shikkusu)Note the change of pronunciation from that of Ōfuna (大船), the manufacturer."
   },
   "images": [],
   "sources": [

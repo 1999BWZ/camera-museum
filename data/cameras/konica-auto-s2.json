@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1965 年发布",
-  "description": "The Konica Auto S2 is a Japanese 35mm fixed-lens rangefinder camera that was produced in 1965 by Konishiroku Photo Industry Company.",
+  "description": "柯尼卡于1965年推出的旁轴相机。配备Hexanon f/1.8, f=45mm 6 elements in 4 groups, 55mm filter。快门速度Copal SVA (B, 1, 2, 4, 8, 15, 30, 60, 125, 250, 500)。使用35 millimeter film in safety cartridge.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Auto S2"
+    "Camera-wiki": "Konica Auto S2",
+    "胶片/画幅": "35 millimeter film in safety cartridge.",
+    "镜头": "Hexanon f/1.8, f=45mm 6 elements in 4 groups, 55mm filter",
+    "快门": "Copal SVA (B, 1, 2, 4, 8, 15, 30, 60, 125, 250, 500)",
+    "尺寸": "138mm (width) x 82.2mm (height) x 73.5mm (thickness)",
+    "重量": "750 grams",
+    "英文简介": "The Konica Auto S2 is a Japanese 35mm fixed-lens rangefinder camera that was produced in 1965 by Konishiroku Photo Industry Company."
   },
   "images": [],
   "sources": [

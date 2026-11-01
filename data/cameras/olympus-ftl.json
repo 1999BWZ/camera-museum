@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片单反相机，1971 年发布",
-  "description": "===Introduction===\nThe Olympus FTL is a 35mm SLR camera launched by Olympus in 1971, U.S.",
+  "description": "奥林巴斯于1971年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus FTL"
+    "Camera-wiki": "Olympus FTL",
+    "英文简介": "===Introduction===\nThe Olympus FTL is a 35mm SLR camera launched by Olympus in 1971, U.S."
   },
   "images": [],
   "sources": [

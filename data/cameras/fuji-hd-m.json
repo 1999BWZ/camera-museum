@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1984 年发布",
-  "description": "Fuji presented the HD-M (Heavy Duty Motor) in 1984.",
+  "description": "Fuji于1984年推出的取景器相机。配备Fujinon 38mm, f/2.8 (Tessar type, 4 elements/3 groups).。快门速度1/8 to 1/500.。使用Auto advance and rewind with mid roll rewind.。感光度100 to 1600 ISO in half stops.。Scale focus with zone projections in the viewfinder, 1 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji HD-M"
+    "Camera-wiki": "Fuji HD-M",
+    "镜头": "Fujinon 38mm, f/2.8 (Tessar type, 4 elements/3 groups).",
+    "曝光测光": "Automatic; EV 6 to 17 (ISO 100).",
+    "快门": "1/8 to 1/500.",
+    "感光度": "100 to 1600 ISO in half stops.",
+    "对焦": "Scale focus with zone projections in the viewfinder, 1 m to infinity.",
+    "胶片/画幅": "Auto advance and rewind with mid roll rewind.",
+    "闪光灯": "Integrated flash, GN12.",
+    "自拍": "10 sec delay.",
+    "尺寸": "140.5 x 72.5 x 62 mm.",
+    "重量": "515g (with batt).",
+    "英文简介": "Fuji presented the HD-M (Heavy Duty Motor) in 1984."
   },
   "images": [],
   "sources": [

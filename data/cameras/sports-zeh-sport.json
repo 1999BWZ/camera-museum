@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sports折叠相机，1937 年发布",
-  "description": "There is also a folding plate camera called the Sport, also made by Zeh, in about 1933.",
+  "description": "Sports于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zeh Sport"
+    "Camera-wiki": "Zeh Sport",
+    "英文简介": "There is also a folding plate camera called the Sport, also made by Zeh, in about 1933."
   },
   "images": [],
   "sources": [

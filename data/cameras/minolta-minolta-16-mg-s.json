@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达微型相机，1970 年发布",
-  "description": "The Minolta-16 MG-S was the flagship of Minolta's subminiature camera series, and the penultimate Minolta 16.",
+  "description": "美能达于1970年推出的微型相机。配备fixed-focus Rokkor 1:2.8/23mm with 4 elements in 3 groups, a sliding door with an additional close-up element can be shifted into the position in front of the lens。快门速度Speeds set manually between 1/30 and 1/500 sec.; X sync at all speeds。使用Minolta 16mm film with speeds 25 to 400 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta-16 MG-S"
+    "Camera-wiki": "Minolta-16 MG-S",
+    "胶片/画幅": "Minolta 16mm film with speeds 25 to 400 ASA",
+    "尺寸": "12×17mm",
+    "镜头": "fixed-focus Rokkor 1:2.8/23mm with 4 elements in 3 groups, a sliding door with an additional close-up element can be shifted into the position in front of the lens",
+    "快门": "Speeds set manually between 1/30 and 1/500 sec.; X sync at all speeds",
+    "光圈": "set manually between 1:2.8 and 1:16, or fully automatically, controlled by a CdS meter close to the lens (EV 8–17)",
+    "取景器": "optical bright frame finder with parallax marks and control flags for low light and for close-up setting",
+    "重量": "210g",
+    "英文简介": "The Minolta-16 MG-S was the flagship of Minolta's subminiature camera series, and the penultimate Minolta 16."
   },
   "images": [],
   "sources": [

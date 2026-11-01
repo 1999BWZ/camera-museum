@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1985 年发布",
-  "description": "The KR-30 SP Program is an SLR for 35mm film which accepts K mount lenses, introduced by Ricoh in 1985.",
+  "description": "理光于1985年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh KR-30SP"
+    "Camera-wiki": "Ricoh KR-30SP",
+    "英文简介": "The KR-30 SP Program is an SLR for 35mm film which accepts K mount lenses, introduced by Ricoh in 1985."
   },
   "images": [],
   "sources": [

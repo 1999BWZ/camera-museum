@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2016 年发布",
-  "description": "尼康于2016年发布的数码单反相机。",
+  "description": "尼康于2016年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度| shutterRange = 1/4000 to 30 s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q27926624",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "传感器": "23.5 mm × 15.6 mm Nikon DX format RGB CMOS sensor, 1.5 × FOV crop",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "| shutterRange = 1/4000 to 30 s",
+    "曝光测光": "Multi-CAM 4800DX",
+    "取景器": "95% coverage, 0.82x magnification",
+    "闪光灯": "| WB =",
+    "电池": "Nikon EN-EL14A Lithium-Ion",
+    "屏幕": "| recording_medium = Secure Digital, SDSC, SDHC, SDXC, supports UHS-I bus."
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来旁轴相机，1976 年发布",
-  "description": "The Land Camera 2000 is the non-US name of the Pronto!, the model Polaroid introduced in 1976 as a lower-cost, rigid-bodied option accepting the same integral film as the premium SX-70.",
+  "description": "宝丽来于1976年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid 2000"
+    "Camera-wiki": "Polaroid 2000",
+    "英文简介": "The Land Camera 2000 is the non-US name of the Pronto!, the model Polaroid introduced in 1976 as a lower-cost, rigid-bodied option accepting the same integral film as the premium SX-70."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Alsaphot取景器相机，1949 年发布",
-  "description": "The Memox is a compact viewfinder camera, first developed by the French company SIAP and later by Alsaphot.",
+  "description": "Alsaphot于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Memox"
+    "Camera-wiki": "Memox",
+    "英文简介": "The Memox is a compact viewfinder camera, first developed by the French company SIAP and later by Alsaphot."
   },
   "images": [],
   "sources": [

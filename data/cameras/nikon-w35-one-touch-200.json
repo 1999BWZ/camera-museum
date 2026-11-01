@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1991 年发布",
-  "description": "The Nikon W35 (also known as One•Touch 200) is a 35mm compact camera with autofocus introduced by Nikon in 1991 as part of the One•Touch series.",
+  "description": "尼康于1991年推出的便携相机。配备35mm, f/3.5 (3 elements in 3 groups).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon W35/One•Touch 200 (QD)"
+    "Camera-wiki": "Nikon W35/One•Touch 200 (QD)",
+    "镜头": "35mm, f/3.5 (3 elements in 3 groups).",
+    "尺寸": "124x68x54mm",
+    "重量": "215g",
+    "英文简介": "The Nikon W35 (also known as One•Touch 200) is a 35mm compact camera with autofocus introduced by Nikon in 1991 as part of the One•Touch series."
   },
   "images": [],
   "sources": [

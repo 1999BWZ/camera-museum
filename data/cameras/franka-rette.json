@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Franka取景器相机，1956 年发布",
-  "description": "Four models of the Frankarette 35mm cameras were made by Franka-Kamerawerk from 1956-59 Page 317.",
+  "description": "Franka于1956年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Frankarette"
+    "Camera-wiki": "Frankarette",
+    "英文简介": "Four models of the Frankarette 35mm cameras were made by Franka-Kamerawerk from 1956-59 Page 317."
   },
   "images": [],
   "sources": [

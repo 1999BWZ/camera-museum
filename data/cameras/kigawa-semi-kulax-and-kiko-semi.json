@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kigawa折叠相机，1941 年发布",
-  "description": "The Semi Kulax (セミクラックス) and Kiko Semi (キコーセミ) are Japanese 4.5×6 folders made by Kigawa from 1941 to about 1946.",
+  "description": "Kigawa于1941年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Kulax and Kiko Semi"
+    "Camera-wiki": "Semi Kulax and Kiko Semi",
+    "英文简介": "The Semi Kulax (セミクラックス) and Kiko Semi (キコーセミ) are Japanese 4.5×6 folders made by Kigawa from 1941 to about 1946."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发胶片相机，1973 年发布",
-  "description": "The Agfamatic 2000 pocket sensor is a 110 cartridge film pocket camera made by Agfa and designed by Schlagheck & Schultes, introduced in 1973.",
+  "description": "爱克发于1973年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfamatic 2000 pocket sensor"
+    "Camera-wiki": "Agfamatic 2000 pocket sensor",
+    "英文简介": "The Agfamatic 2000 pocket sensor is a 110 cartridge film pocket camera made by Agfa and designed by Schlagheck & Schultes, introduced in 1973."
   },
   "images": [],
   "sources": [

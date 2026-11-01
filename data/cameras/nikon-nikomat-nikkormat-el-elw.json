@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片相机，1972 年发布",
-  "description": "The Nikon Nikomat EL (in Japan) or Nikkormat EL (elsewhere) was introduced in 1972.",
+  "description": "尼康于1972年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikomat/Nikkormat EL/ELW"
+    "Camera-wiki": "Nikomat/Nikkormat EL/ELW",
+    "英文简介": "The Nikon Nikomat EL (in Japan) or Nikkormat EL (elsewhere) was introduced in 1972."
   },
   "images": [],
   "sources": [

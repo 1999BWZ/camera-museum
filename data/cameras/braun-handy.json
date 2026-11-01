@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun取景器相机，1991 年发布",
-  "description": "The Handy is a very basic 35mm format viewfinder camera produced by the German company Braun c.1991Production year confirmation needed.",
+  "description": "Braun于1991年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Handy"
+    "Camera-wiki": "Handy",
+    "英文简介": "The Handy is a very basic 35mm format viewfinder camera produced by the German company Braun c.1991Production year confirmation needed."
   },
   "images": [],
   "sources": [

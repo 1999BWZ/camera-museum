@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1985 年发布",
-  "description": "The Konica MR.70 \"Power Shooter\" is a compact auto focus 35mm camera first seen at in 1985 at Salon de la Photo in Paris.",
+  "description": "柯尼卡于1985年推出的胶片单反相机。快门速度1/25 – 1/250 s. Electronic self timer.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica MR.70"
+    "Camera-wiki": "Konica MR.70",
+    "快门": "1/25 – 1/250 s. Electronic self timer.",
+    "重量": "138x80x58,5 mm, 445 g.",
+    "英文简介": "The Konica MR.70 \"Power Shooter\" is a compact auto focus 35mm camera first seen at in 1985 at Salon de la Photo in Paris."
   },
   "images": [],
   "sources": [

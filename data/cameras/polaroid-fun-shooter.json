@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次性相机，2006 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Polaroid Fun Shooter is a 35mm disposable one time use camera.",
+  "description": "宝丽来于2006年推出的一次性相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Fun Shooter"
+    "Camera-wiki": "Polaroid Fun Shooter",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Polaroid Fun Shooter is a 35mm disposable one time use camera."
   },
   "images": [],
   "sources": [

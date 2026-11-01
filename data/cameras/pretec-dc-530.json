@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pretec数码相机，2000 年发布",
-  "description": "The Pretec DC-530 is a digital camera from circa 2000.",
+  "description": "Pretec于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pretec DC-530"
+    "Camera-wiki": "Pretec DC-530",
+    "英文简介": "The Pretec DC-530 is a digital camera from circa 2000."
   },
   "images": [],
   "sources": [

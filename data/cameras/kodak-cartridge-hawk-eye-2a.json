@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1924 年发布",
-  "description": "The Cartridge Hawk-Eye 2A is a box camera manufactured by Kodak from\n1924 to 1925.",
+  "description": "柯达于1924年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cartridge Hawk-Eye 2A"
+    "Camera-wiki": "Cartridge Hawk-Eye 2A",
+    "英文简介": "The Cartridge Hawk-Eye 2A is a box camera manufactured by Kodak from\n1924 to 1925."
   },
   "images": [],
   "sources": [

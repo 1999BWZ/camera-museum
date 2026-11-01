@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来中画幅相机，1947 年发布",
-  "description": "The Rolleicord IId is a model in a long line of Rolleicords which started in 1933\nand ended in 1977 and were produced by Franke & Heidecke and later on by Rollei-Werke in Braunschweig, Germany.",
+  "description": "禄来于1947年推出的中画幅相机。配备Zeiss Triotar 1:3.5 f=7,5cm or Schneider Xenar 1:4.5 f=7,5cm or Schneider Xenar 1:3.5 f=7,5cm。快门速度1 to 1/500 sec., and B.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleicord IId"
+    "Camera-wiki": "Rolleicord IId",
+    "镜头": "Zeiss Triotar 1:3.5 f=7,5cm or Schneider Xenar 1:4.5 f=7,5cm or Schneider Xenar 1:3.5 f=7,5cm",
+    "快门": "Compur-Rapid CR00",
+    "快门速度": "1 to 1/500 sec., and B.",
+    "尺寸": "93 x 97 x 140 mm",
+    "重量": "815 grams",
+    "英文简介": "The Rolleicord IId is a model in a long line of Rolleicords which started in 1933\nand ended in 1977 and were produced by Franke & Heidecke and later on by Rollei-Werke in Braunschweig, Germany."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2000 年发布",
-  "description": "*Type: compact camera\n*Manufacturer: Kodak\n*Film: APS film cartridges with speeds 50 to 800 ASA\n*Year of launch: 2000\n*Lens: Kodak Ektanar 1:5.6/25mm (3 glass elements)\n*Viewfinder: reverse galilean, framed like chosen image format\n*Focusing: Autofocus\n*Display: Status information\n*Shutter: speeds 1",
+  "description": "柯达于2000年推出的便携相机。配备Kodak Ektanar 1:5.6/25mm (3 glass elements)。快门速度speeds 1/90 - 1/250 sec.。使用APS film cartridges with speeds 50 to 800 ASA。Autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix C400"
+    "Camera-wiki": "Kodak Advantix C400",
+    "胶片/画幅": "APS film cartridges with speeds 50 to 800 ASA",
+    "镜头": "Kodak Ektanar 1:5.6/25mm (3 glass elements)",
+    "取景器": "reverse galilean, framed like chosen image format",
+    "对焦": "Autofocus",
+    "快门": "speeds 1/90 - 1/250 sec.",
+    "光圈": "f/5.6 — f/12.6",
+    "闪光灯": "built into flip-up lens cover, reaching as far as 4 meters with 200 ASA film",
+    "尺寸": "111 mm × 39.6 mm × 62.7 mm",
+    "重量": "170 g",
+    "英文简介": "*Type: compact camera\n*Manufacturer: Kodak\n*Film: APS film cartridges with speeds 50 to 800 ASA\n*Year of launch: 2000\n*Lens: Kodak Ektanar 1:5.6/25mm (3 glass elements)\n*Viewfinder: reverse galilean, framed like chosen image format\n*Focusing: Autofocus\n*Display: Status information\n*Shutter: speeds 1/90 - 1/250 sec."
   },
   "images": [],
   "sources": [

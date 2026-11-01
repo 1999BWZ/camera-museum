@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kinka取景器相机，1935 年发布",
-  "description": "The Lucky (ラッキー) or Kinka Lucky (錦華ラッキー) is a Japanese camera taking 3×4cm exposures on 127 film.",
+  "description": "Kinka于1935年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kinka Lucky"
+    "Camera-wiki": "Kinka Lucky",
+    "英文简介": "The Lucky (ラッキー) or Kinka Lucky (錦華ラッキー) is a Japanese camera taking 3×4cm exposures on 127 film."
   },
   "images": [],
   "sources": [

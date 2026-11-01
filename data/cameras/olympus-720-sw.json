@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2006 年发布",
-  "description": "The Olympus Stylus 720SW &mdash; also known as mju μ 720 SW in some markets &mdash; is a 7.1-megapixel ultra-compact salt-water submersible digital camera introduced by Olympus Corporation in 2006.",
+  "description": "奥林巴斯于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus µ 720 SW"
+    "Camera-wiki": "Olympus µ 720 SW",
+    "尺寸": "91mm(w) × 58.7mm(h) × 19.8mm(d)",
+    "重量": "153g + 15g battery + 1g xD card",
+    "英文简介": "The Olympus Stylus 720SW &mdash; also known as mju μ 720 SW in some markets &mdash; is a 7.1-megapixel ultra-compact salt-water submersible digital camera introduced by Olympus Corporation in 2006."
   },
   "images": [],
   "sources": [

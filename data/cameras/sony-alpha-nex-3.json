@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2010 年发布",
-  "description": "{|class=floatright\n||\n \n|-\n||\n \n|}\nThe NEX-3 was Sony's first mirrorless camera body, introduced together with the NEX-5.",
+  "description": "索尼于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Alpha NEX-3"
+    "Camera-wiki": "Sony Alpha NEX-3",
+    "尺寸": "117x63x33",
+    "重量": "300gr.",
+    "英文简介": "{|class=floatright\n||\n \n|-\n||\n \n|}\nThe NEX-3 was Sony's first mirrorless camera body, introduced together with the NEX-5."
   },
   "images": [],
   "sources": [

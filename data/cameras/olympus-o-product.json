@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片单反相机，1988 年发布",
-  "description": "The O-Product was a retro-styled, aluminum-clad point and shoot camera introduced by Olympus in 1988 as a limited edition of 20,000 worldwide (half reserved for the Japanese home market).",
+  "description": "奥林巴斯于1988年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus O-Product"
+    "Camera-wiki": "Olympus O-Product",
+    "英文简介": "The O-Product was a retro-styled, aluminum-clad point and shoot camera introduced by Olympus in 1988 as a limited edition of 20,000 worldwide (half reserved for the Japanese home market)."
   },
   "images": [],
   "sources": [

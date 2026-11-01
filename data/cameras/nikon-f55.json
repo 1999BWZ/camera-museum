@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2002 年发布",
-  "description": "The Nikon F55 (N55 in the US), is an entry level 35mm SLR camera distributed by Nikon.",
+  "description": "尼康于2002年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon F55 (N55)"
+    "Camera-wiki": "Nikon F55 (N55)",
+    "英文简介": "The Nikon F55 (N55 in the US), is an entry level 35mm SLR camera distributed by Nikon."
   },
   "images": [],
   "sources": [

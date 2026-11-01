@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa数码单反相机，1965 年发布",
-  "description": "The SER is Kowa's interchangeable-lens counterpart to the SE.",
+  "description": "Kowa于1965年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kowa SER"
+    "Camera-wiki": "Kowa SER",
+    "英文简介": "The SER is Kowa's interchangeable-lens counterpart to the SE."
   },
   "images": [],
   "sources": [

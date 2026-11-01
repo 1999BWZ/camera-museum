@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，1998 年发布",
-  "description": "In 1998 the Minolta Dimâge EX was an avantgarde product among Minolta's early digital cameras.",
+  "description": "美能达于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dimâge EX"
+    "Camera-wiki": "Minolta Dimâge EX",
+    "英文简介": "In 1998 the Minolta Dimâge EX was an avantgarde product among Minolta's early digital cameras."
   },
   "images": [],
   "sources": [

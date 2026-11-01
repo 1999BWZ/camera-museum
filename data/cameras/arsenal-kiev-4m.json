@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arsenal旁轴相机，1976 年发布",
-  "description": "Kiev-4M ( = Киев-4M) is a 35mm rangefinder film camera manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR, and produced between 1976-87.",
+  "description": "Arsenal于1976年推出的旁轴相机。配备Jupiter-8M (ЮРИТЕП-8M), 53mm f/2 standard lens (or Helios-103 53mm f1.8)。快门速度Focal plane slotted type with hinged metal curtains, vertically travelling。Match the rangefinder images, via lens ring or via a wheel in the right-front of the top plate。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kiev-4M"
+    "Camera-wiki": "Kiev-4M",
+    "镜头": "Jupiter-8M (ЮРИТЕП-8M), 53mm f/2 standard lens (or Helios-103 53mm f1.8)",
+    "对焦": "Match the rangefinder images, via lens ring or via a wheel in the right-front of the top plate",
+    "快门": "Focal plane slotted type with hinged metal curtains, vertically travelling",
+    "取景器": "Coupled viewfinder / rangefinder The extreme distance (9 cm) between the windows on the front side, allows for very accurate focusing and makes the camera one of the most accurate rangefinders ever",
+    "曝光测光": "Uncoupled high-sensitive small-size selenium photo-electric exposure meter, w/ a lid on its window",
+    "重量": "771g with Jupiter-8",
+    "英文简介": "Kiev-4M ( = Киев-4M) is a 35mm rangefinder film camera manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR, and produced between 1976-87."
   },
   "images": [],
   "sources": [

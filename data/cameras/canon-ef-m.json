@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能无反相机，1991 年发布",
-  "description": "There is also a lens-mount known as EF-M, produced for (link to category) Canon's first range of mirrorless digital cameras beginning with the EOS M.",
+  "description": "佳能于1991年推出的无反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EF-M"
+    "Camera-wiki": "Canon EF-M",
+    "英文简介": "There is also a lens-mount known as EF-M, produced for (link to category) Canon's first range of mirrorless digital cameras beginning with the EOS M."
   },
   "images": [],
   "sources": [

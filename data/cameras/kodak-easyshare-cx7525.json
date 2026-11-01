@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2004 年发布",
-  "description": "The Kodak EasyShare CX7525 is a 5 megapixel digital camera made in China for Kodak.",
+  "description": "柯达于2004年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Easyshare CX7525"
+    "Camera-wiki": "Kodak Easyshare CX7525",
+    "英文简介": "The Kodak EasyShare CX7525 is a 5 megapixel digital camera made in China for Kodak."
   },
   "images": [],
   "sources": [

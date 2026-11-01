@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1964 年发布",
-  "description": "The Canon Demi-S is a half-frame 35mm viewfinder camera with shutter priority automatic exposure, made in Japan by Canon, introduced in September 1964.",
+  "description": "佳能于1964年推出的取景器相机。配备Canon 30mm f/1.7。快门速度Seiko, 1/8 - 1/500s + B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Demi S"
+    "Camera-wiki": "Canon Demi S",
+    "镜头": "Canon 30mm f/1.7",
+    "快门": "Seiko, 1/8 - 1/500s + B",
+    "英文简介": "The Canon Demi-S is a half-frame 35mm viewfinder camera with shutter priority automatic exposure, made in Japan by Canon, introduced in September 1964."
   },
   "images": [],
   "sources": [

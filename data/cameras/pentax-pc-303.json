@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得便携相机，1989 年发布",
-  "description": "The Pentax PC-303 is a light plastic 35mm compact point-and-shoot camera with autofocus, auto exposure and motor drive, made in Japan by the the Asahi Optical Co - part of their low-end \"PC\" range in c.1989[https://www.collection-appareils.fr/x/html/page_standard_eng.php?id_appareil=4778 Pentax PC-3",
+  "description": "宾得于1989年推出的便携相机。配备Pentax 35mm f4.5, 3 elements。快门速度leaf shutter, 1/125s。感光度ISO 100/200 or 400, set by switch underneath。Infra-red autofocus, 1.2m - infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax PC-303"
+    "Camera-wiki": "Pentax PC-303",
+    "快门": "leaf shutter, 1/125s",
+    "镜头": "Pentax 35mm f4.5, 3 elements",
+    "对焦": "Infra-red autofocus, 1.2m - infinity",
+    "感光度": "ISO 100/200 or 400, set by switch underneath",
+    "重量": "185g without batteries",
+    "英文简介": "The Pentax PC-303 is a light plastic 35mm compact point-and-shoot camera with autofocus, auto exposure and motor drive, made in Japan by the the Asahi Optical Co - part of their low-end \"PC\" range in c.1989[https://www.collection-appareils.fr/x/html/page_standard_eng.php?id_appareil=4778 Pentax PC-303 page] at [https://www.collection-appareils.fr/ Sylvain Halgand's www.collection-appareils.fr] (in"
   },
   "images": [],
   "sources": [

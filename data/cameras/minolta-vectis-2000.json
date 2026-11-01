@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，2000 年发布",
-  "description": "The Minolta Vectis 2000 is a well designed fine small compact zoom camera of Minolta's Vectis series for the Advanced Photo System (APS) with built-in flash.",
+  "description": "美能达于2000年推出的便携相机。配备1:5,4-1:6,6/22,5-45mm zoom (4 lenses)。快门速度lens shutter with speeds 8 sec down to 1/500 sec.。infrared (?)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis 2000"
+    "Camera-wiki": "Minolta Vectis 2000",
+    "镜头": "1:5,4-1:6,6/22,5-45mm zoom (4 lenses)",
+    "对焦": "infrared (?)",
+    "曝光测光": "dual-segment metering through meter window, range EV 4-17 (ASA 200)",
+    "快门": "lens shutter with speeds 8 sec down to 1/500 sec.",
+    "取景器": "magnification 0.32x - 0.57x, field of view 85% when distance is 3m",
+    "闪光灯": "reaching as far as 5.1 meters with ISO 400 film and the zoom lens in wide angle position",
+    "重量": "145g (5.1 oz.) without the CR-2 battery",
+    "英文简介": "The Minolta Vectis 2000 is a well designed fine small compact zoom camera of Minolta's Vectis series for the Advanced Photo System (APS) with built-in flash."
   },
   "images": [],
   "sources": [

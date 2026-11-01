@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1999 年发布",
-  "description": "The Konica Hexar RF is a rangefinder 35mm film camera introduced in 1999.",
+  "description": "柯尼卡于1999年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Hexar RF"
+    "Camera-wiki": "Konica Hexar RF",
+    "英文简介": "The Konica Hexar RF is a rangefinder 35mm film camera introduced in 1999."
   },
   "images": [],
   "sources": [

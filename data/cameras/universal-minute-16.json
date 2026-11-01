@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Universal胶片单反相机，1949 年发布",
-  "description": "The Minute 16 is a sub-miniature camera for 16mm perforated film in reloadable cartridges.",
+  "description": "Universal于1949年推出的胶片单反相机。配备meniscus lens。快门速度Guillotine shutter with speed 1/50 sec.。使用16mm film cassette/10×14mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Universal Minute 16"
+    "Camera-wiki": "Universal Minute 16",
+    "胶片/画幅": "16mm film cassette/10×14mm",
+    "快门": "Guillotine shutter with speed 1/50 sec.",
+    "镜头": "meniscus lens",
+    "光圈": "f/6.3, f/11 and f/16 (some versions also include f/8)",
+    "取景器": "two-piece foldable sports finder",
+    "英文简介": "The Minute 16 is a sub-miniature camera for 16mm perforated film in reloadable cartridges."
   },
   "images": [],
   "sources": [

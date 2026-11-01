@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon胶片相机，1952 年发布",
-  "description": "The Ikoflex Ia (854/16) is a TLR made by Zeiss Ikon from 1952-1956 Page 1051..",
+  "description": "Zeiss Ikon于1952年推出的胶片相机。配备Teronar-Anigstigmat f/3.5。快门速度854/16 Fpms : Novar 3.5/75 mm lens, coated, in a Prontor-SV shutter 854/16 Lpms : Tessar 3.5/75 mm lens, coated, in a Prontor-SV shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ikoflex Ia"
+    "Camera-wiki": "Ikoflex Ia",
+    "快门": "854/16 Fpms : Novar 3.5/75 mm lens, coated, in a Prontor-SV shutter 854/16 Lpms : Tessar 3.5/75 mm lens, coated, in a Prontor-SV shutter",
+    "镜头": "Teronar-Anigstigmat f/3.5",
+    "闪光灯": "Sync socket on right side panel. M and X synchronization",
+    "尺寸": "140 x 95 x 77 mm",
+    "重量": "c.980 grams",
+    "英文简介": "The Ikoflex Ia (854/16) is a TLR made by Zeiss Ikon from 1952-1956 Page 1051.."
   },
   "images": [],
   "sources": [

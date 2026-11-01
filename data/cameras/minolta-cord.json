@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1954 年发布",
-  "description": "The Minoltacord was Chiyoko's first TLR with rapid-focusing lever.",
+  "description": "美能达于1954年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minoltacord"
+    "Camera-wiki": "Minoltacord",
+    "英文简介": "The Minoltacord was Chiyoko's first TLR with rapid-focusing lever."
   },
   "images": [],
   "sources": [

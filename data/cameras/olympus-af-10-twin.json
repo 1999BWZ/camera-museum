@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片单反相机，1991 年发布",
-  "description": "The Olympus AF-10 Twin of 1991 has a biaxial (twin-lens) system so the user can switch between a 35mm wide-angle lens and a 70mm telephoto lens at the touch of a button.",
+  "description": "奥林巴斯于1991年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AF-10 Twin"
+    "Camera-wiki": "Olympus AF-10 Twin",
+    "英文简介": "The Olympus AF-10 Twin of 1991 has a biaxial (twin-lens) system so the user can switch between a 35mm wide-angle lens and a 70mm telephoto lens at the touch of a button."
   },
   "images": [],
   "sources": [

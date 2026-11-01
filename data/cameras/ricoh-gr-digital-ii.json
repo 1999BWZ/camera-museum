@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2007 年发布",
-  "description": "The Ricoh GR Digital II was introduced by Ricoh in 2007.",
+  "description": "理光于2007年推出的数码相机。配备Focal length 5.9 mm (equivalent to 28 mm for 135 film cameras), 6 elements in 5 groups (two aspherical lenses/three aspherical surfaces)。快门速度80, 120, 60, 30, 15, 8, 4, 2, 1 to 1/2000 sec.。感光度Auto, Auto-hi, 80, 100, 200, 400, 800, 1600。Multi-AF (CCD method), Spot-AF (CCD method), manual focus, snap, infinity (focus lock and AF auxiliary light also available)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh GR Digital II"
+    "Camera-wiki": "Ricoh GR Digital II",
+    "镜头": "Focal length 5.9 mm (equivalent to 28 mm for 135 film cameras), 6 elements in 5 groups (two aspherical lenses/three aspherical surfaces)",
+    "光圈": "f/2.4 to f/11 (+f/7.1 in auto mode is with ND filter)",
+    "快门": "80, 120, 60, 30, 15, 8, 4, 2, 1 to 1/2000 sec.",
+    "对焦": "Multi-AF (CCD method), Spot-AF (CCD method), manual focus, snap, infinity (focus lock and AF auxiliary light also available)",
+    "感光度": "Auto, Auto-hi, 80, 100, 200, 400, 800, 1600",
+    "尺寸": "107.0 x 58.0 x 25.0 mm (W x H x D); does not include protruding parts",
+    "重量": "Approx. 168 g (excluding battery, SD Memory Card, hand strap)",
+    "英文简介": "The Ricoh GR Digital II was introduced by Ricoh in 2007."
   },
   "images": [],
   "sources": [

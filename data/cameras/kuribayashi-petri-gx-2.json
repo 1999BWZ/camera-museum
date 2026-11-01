@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi胶片相机，1982 年发布",
-  "description": "The Petri GX-2 is a simple, mostly built of plastic, camera made by Cosina Japan, known as the CT-10.",
+  "description": "Kuribayashi于1982年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri GX-2"
+    "Camera-wiki": "Petri GX-2",
+    "英文简介": "The Petri GX-2 is a simple, mostly built of plastic, camera made by Cosina Japan, known as the CT-10."
   },
   "images": [],
   "sources": [

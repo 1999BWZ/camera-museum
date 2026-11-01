@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1991 年发布",
-  "description": "The Star 835AF is a compact camera for 35mm film made by Kodak .",
+  "description": "柯达于1991年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star 835AF"
+    "Camera-wiki": "Kodak Star 835AF",
+    "英文简介": "The Star 835AF is a compact camera for 35mm film made by Kodak ."
   },
   "images": [],
   "sources": [

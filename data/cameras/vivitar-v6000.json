@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码单反相机，1990 年发布",
-  "description": "The Vivitar V6000 is a Pentax K mount 35mm SLR markted by Vivitar.",
+  "description": "Vivitar于1990年推出的数码单反相机。快门速度1/1000 to 8 sec (automatic mode), 1/1000 to 2 sec (manual mode), Bulb。感光度25 - 1600。Horizontal split image。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar V6000"
+    "Camera-wiki": "Vivitar V6000",
+    "卡口": "Pentax K",
+    "感光度": "25 - 1600",
+    "快门": "Metal focal plane, electronic, vertical travel",
+    "快门速度": "1/1000 to 8 sec (automatic mode), 1/1000 to 2 sec (manual mode), Bulb",
+    "闪光灯": "Hot shoe, X-sync PC connector, 1/125",
+    "取景器": "0.9x magnification, eye-level pentaprism",
+    "对焦": "Horizontal split image",
+    "电池": "LR44, SR44, or equivalent (x2)",
+    "重量": "425 g (15 oz)",
+    "英文简介": "The Vivitar V6000 is a Pentax K mount 35mm SLR markted by Vivitar."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1962 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Minolta SR-7 is the first Minolta SLR to have a built-in exposure meter.",
+  "description": "美能达于1962年推出的胶片单反相机。快门速度Focal plane shutter with speeds 1 to 1/1000 sec. plus B, flash synchronized speeds 1 to 1/60 sec.。使用35mm film with speeds 6 to 3200 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-7"
+    "Camera-wiki": "Minolta SR-7",
+    "胶片/画幅": "35mm film with speeds 6 to 3200 ASA",
+    "卡口": "Minolta SR mount",
+    "取景器": "Pentaprism, Fresnel-lens with a microprism center as finder screen",
+    "快门": "Focal plane shutter with speeds 1 to 1/1000 sec. plus B, flash synchronized speeds 1 to 1/60 sec.",
+    "曝光测光": "built-in coupled dual range CdS meter, low range button on camera back (or on the front of the later version)",
+    "重量": "990 g",
+    "尺寸": "146×95×91 mm",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Minolta SR-7 is the first Minolta SLR to have a built-in exposure meter."
   },
   "images": [],
   "sources": [

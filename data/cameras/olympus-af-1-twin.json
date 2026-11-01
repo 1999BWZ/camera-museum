@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片单反相机，1988 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|-\n|\n\n|}\nThe Olympus AF-1 Twin (Infinity Twin in the US) of 1988 has a biaxial (two-lens) system so the user can switch between a 35mm wide-angle lens and a 70mm telephoto lens at the touch of a button.",
+  "description": "奥林巴斯于1988年推出的胶片单反相机。配备Switchable between 35mm, f/3.6 (3 elements, 3 groups) and 70mm, f/6.3 (5 elements, 5 groups).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AF-1 Twin"
+    "Camera-wiki": "Olympus AF-1 Twin",
+    "镜头": "Switchable between 35mm, f/3.6 (3 elements, 3 groups) and 70mm, f/6.3 (5 elements, 5 groups).",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|-\n|\n\n|}\nThe Olympus AF-1 Twin (Infinity Twin in the US) of 1988 has a biaxial (two-lens) system so the user can switch between a 35mm wide-angle lens and a 70mm telephoto lens at the touch of a button."
   },
   "images": [],
   "sources": [

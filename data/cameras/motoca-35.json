@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Motoca取景器相机，1948 年发布",
-  "description": "{| class=\"plainlinks\" align=\"right\" width=250px style=\"text-align: center;\"\n|-\n|| [http://www.flickr.com/photos/camerawiki/39838033393/in/pool-camerawiki/ http://farm8.staticflickr.com/7863/39838033393_9fca4c76e5_m_d.jpg] \n|-\n|| Motoca 35 in December 1949.",
+  "description": "Motoca于1948年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Motoca 35"
+    "Camera-wiki": "Motoca 35",
+    "英文简介": "{| class=\"plainlinks\" align=\"right\" width=250px style=\"text-align: center;\"\n|-\n|| [http://www.flickr.com/photos/camerawiki/39838033393/in/pool-camerawiki/ http://farm8.staticflickr.com/7863/39838033393_9fca4c76e5_m_d.jpg] \n|-\n|| Motoca 35 in December 1949."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1959 年发布",
-  "description": "The Ricohmatic 44 (リコマチック44) In the original documents, the \"o\" of \"Ricohmatic\" (リコマチック, Rikomachikku) is short, unlike the \"o\" of \"Ricoh\" (リコー, Rikō).",
+  "description": "理光于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricohmatic 44"
+    "Camera-wiki": "Ricohmatic 44",
+    "英文简介": "The Ricohmatic 44 (リコマチック44) In the original documents, the \"o\" of \"Ricohmatic\" (リコマチック, Rikomachikku) is short, unlike the \"o\" of \"Ricoh\" (リコー, Rikō)."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pinhole胶片相机，2000 年发布",
-  "description": "For the year 2000, Zero Image created a limited run of the Zero 2000, a teak wood pinhole camera using 120 roll film.",
+  "description": "Pinhole于2000年推出的胶片相机。使用F/138 for pinhole, F/47.6 for zone plate。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zero 2000"
+    "Camera-wiki": "Zero 2000",
+    "重量": "250 gm",
+    "尺寸": "0.18mm",
+    "胶片/画幅": "F/138 for pinhole, F/47.6 for zone plate",
+    "英文简介": "For the year 2000, Zero Image created a limited run of the Zero 2000, a teak wood pinhole camera using 120 roll film."
   },
   "images": [],
   "sources": [

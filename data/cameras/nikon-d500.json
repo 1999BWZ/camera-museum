@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2016 年发布",
-  "description": "尼康于2016年发布的数码单反相机。",
+  "description": "尼康于2016年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electronically controlled vertical-travel focal plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q21979928",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "传感器": "Nikon DX format, 23.5 mm x 15.7 mm CMOS; 4.2 μm pixel size",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically controlled vertical-travel focal plane shutter",
+    "曝光测光": "Three-mode through-the-lens (TTL) exposure metering",
+    "取景器": "Optical, 100% frame coverage",
+    "闪光灯": "External",
+    "电池": "EN-EL15",
+    "屏幕": "3.2-inch tilting TFT LCD with 2,359,000 dots with touchscreen",
+    "重量": "with battery and memory card"
   },
   "images": [
     {

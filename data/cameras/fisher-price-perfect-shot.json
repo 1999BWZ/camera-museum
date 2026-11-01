@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fisher-Price玩具相机，1994 年发布",
-  "description": "The Fisher-Price Perfect Shot is a camera sold from 1994 to 1997, and not surprisingly marketed as a kids camera.",
+  "description": "Fisher-Price于1994年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fisher-Price Perfect Shot"
+    "Camera-wiki": "Fisher-Price Perfect Shot",
+    "英文简介": "The Fisher-Price Perfect Shot is a camera sold from 1994 to 1997, and not surprisingly marketed as a kids camera."
   },
   "images": [
     {

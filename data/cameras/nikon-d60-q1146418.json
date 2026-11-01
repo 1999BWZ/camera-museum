@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2008 年发布",
-  "description": "尼康于2008年发布的数码单反相机。",
+  "description": "尼康于2008年推出的数码单反相机。配备Interchangeable Nikon F-mount。快门速度Combined mechanical and CCD electronic shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1146418",
-    "多语言词条数": "19"
+    "多语言词条数": "19",
+    "传感器": "23.6 × 15.8 mm Nikon DX format RGB CCD sensor, 1.5 × FOV crop",
+    "镜头": "Interchangeable Nikon F-mount",
+    "快门速度": "Combined mechanical and CCD electronic shutter",
+    "曝光测光": "TTL full-aperture exposure metering system",
+    "取景器": "Optical TTL",
+    "闪光灯": "Built-in TTL Speedlight with hotshoe (e.g. for the matching SB-400 Speedlight)",
+    "屏幕": "2.5 inch",
+    "电池": "Nikon EN-EL family",
+    "重量": "495 g without battery 522 g with EN-EL9 battery. 787 g with battery and Nikon DX 18–55mm 1:3.5-5.6 VR kit lensApprox. 126 × 94 × 64 mm (5.0 × 3.7 × 2.5 in.)",
+    "存储": "Secure Digital and Secure Digital High Capacity (max. 32GB)"
   },
   "images": [
     {

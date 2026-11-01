@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1982 年发布",
-  "description": "The Amigo 620 is one of Polaroid's 600-series cameras for integral-print film.",
+  "description": "宝丽来于1982年推出的一次成像相机。配备116mm (?) f/11 (?), Single-element plastic (?)。快门速度electronic; automatic speed between 1/4-1/200 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Amigo 620"
+    "Camera-wiki": "Polaroid Amigo 620",
+    "镜头": "116mm (?) f/11 (?), Single-element plastic (?)",
+    "快门": "electronic; automatic speed between 1/4-1/200 sec.",
+    "英文简介": "The Amigo 620 is one of Polaroid's 600-series cameras for integral-print film."
   },
   "images": [],
   "sources": [

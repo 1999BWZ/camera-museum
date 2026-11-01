@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rubix胶片相机，1949 年发布",
-  "description": "The Rubix and Rubina was a range of 16mm and 17.5mm film cameras made by Sugaya Optical Works in Japan.",
+  "description": "Rubix于1949年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rubix and Rubina"
+    "Camera-wiki": "Rubix and Rubina",
+    "英文简介": "The Rubix and Rubina was a range of 16mm and 17.5mm film cameras made by Sugaya Optical Works in Japan."
   },
   "images": [],
   "sources": [

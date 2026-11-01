@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1981 年发布",
-  "description": "The Agfa Optima Sensor Electronic Flash is the fifth model from the Optima Sensor Electronic series, and features a built-in, flip-up electronic flash.",
+  "description": "爱克发于1981年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Optima Flash Sensor"
+    "Camera-wiki": "Agfa Optima Flash Sensor",
+    "英文简介": "The Agfa Optima Sensor Electronic Flash is the fifth model from the Optima Sensor Electronic series, and features a built-in, flip-up electronic flash."
   },
   "images": [],
   "sources": [

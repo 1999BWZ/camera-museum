@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1982 年发布",
-  "description": "A fixed-lens, 35mm rangefinder camera made by Ricoh from the 1980s.",
+  "description": "理光于1982年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 500 RF"
+    "Camera-wiki": "Ricoh 500 RF",
+    "英文简介": "A fixed-lens, 35mm rangefinder camera made by Ricoh from the 1980s."
   },
   "images": [],
   "sources": [

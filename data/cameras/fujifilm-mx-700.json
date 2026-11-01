@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，1998 年发布",
-  "description": "The MX-700 is an early digital camera from Fuji, introduced in 1998.",
+  "description": "富士于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm MX-700"
+    "Camera-wiki": "Fujifilm MX-700",
+    "英文简介": "The MX-700 is an early digital camera from Fuji, introduced in 1998."
   },
   "images": [],
   "sources": [

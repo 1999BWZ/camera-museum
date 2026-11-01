@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能旁轴相机，1974 年发布",
-  "description": "The Canon Datematic was a compact rangefinder camera introduced by Canon in 1974, which offered programmed autoexposure (powered by two mercury cells) and a 5-element 40mm f/2.8 lens.",
+  "description": "佳能于1974年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Datematic"
+    "Camera-wiki": "Canon Datematic",
+    "英文简介": "The Canon Datematic was a compact rangefinder camera introduced by Canon in 1974, which offered programmed autoexposure (powered by two mercury cells) and a 5-element 40mm f/2.8 lens."
   },
   "images": [],
   "sources": [

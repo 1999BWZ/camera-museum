@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1986 年发布",
-  "description": "The AF-Z (or MAC-7 in Japan) was one of Minolta's higher-speced compact cameras upon its release in 1986.",
+  "description": "美能达于1986年推出的便携相机。配备35 mm f/2,8 (4 elements, 4 groups).。使用Automatic loading, advance and rewind. Continuous shooting mode available.。感光度0,65—4 m. Out of range warning.。Active infrared autofocus. Focus from 0,65 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta AF-Z"
+    "Camera-wiki": "Minolta AF-Z",
+    "镜头": "35 mm f/2,8 (4 elements, 4 groups).",
+    "对焦": "Active infrared autofocus. Focus from 0,65 m to infinity.",
+    "闪光灯": "Built-in, automatic with fill-flash button.",
+    "感光度": "0,65—4 m. Out of range warning.",
+    "曝光测光": "EV 8.4 (1/40 s, f/2,8) to EV 18 (1/800 s, f/18) with ISO 100 film. Narrow light metering angle.",
+    "胶片/画幅": "Automatic loading, advance and rewind. Continuous shooting mode available.",
+    "尺寸": "135 x 72 x 40 mm.",
+    "重量": "295 g without batteries.",
+    "英文简介": "The AF-Z (or MAC-7 in Japan) was one of Minolta's higher-speced compact cameras upon its release in 1986."
   },
   "images": [],
   "sources": [

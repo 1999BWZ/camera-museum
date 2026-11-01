@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "FED旁轴相机，1977 年发布",
-  "description": "The FED 5 (often marked in cyrillic, with several variations of font, ФЭД 5 {upper-case} or фэд 5 {lower-case}) is a 35mm rangefinder camera, produced by the FED factory in the Ukrainian city of Kharkov from 1977 until 1990.",
+  "description": "FED于1977年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "FED 5"
+    "Camera-wiki": "FED 5",
+    "英文简介": "The FED 5 (often marked in cyrillic, with several variations of font, ФЭД 5 {upper-case} or фэд 5 {lower-case}) is a 35mm rangefinder camera, produced by the FED factory in the Ukrainian city of Kharkov from 1977 until 1990."
   },
   "images": [],
   "sources": [

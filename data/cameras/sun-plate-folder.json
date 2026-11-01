@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sun折叠相机，1935 年发布",
-  "description": "The Sun is a Japanese 6.5×9cm plate folder about which almost nothing is known.",
+  "description": "Sun于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sun plate folder"
+    "Camera-wiki": "Sun plate folder",
+    "英文简介": "The Sun is a Japanese 6.5×9cm plate folder about which almost nothing is known."
   },
   "images": [],
   "sources": [

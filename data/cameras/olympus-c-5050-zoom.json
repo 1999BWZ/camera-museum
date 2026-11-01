@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2002 年发布",
-  "description": "The Camedia C-5050 Zoom is a digital camera from Japanese manufacturer Olympus and announced in 2002.",
+  "description": "奥林巴斯于2002年推出的数码相机。配备F1.8 - F10。快门速度1/1000 sec. - 16 sec。使用RAW(ORF), TIFF, JPEG & Motion JPEG Video。有效像素2560 × 1920。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-5050 Zoom"
+    "Camera-wiki": "Olympus C-5050 Zoom",
+    "像素": "2560 × 1920",
+    "胶片/画幅": "RAW(ORF), TIFF, JPEG & Motion JPEG Video",
+    "镜头": "F1.8 - F10",
+    "快门速度": "1/1000 sec. - 16 sec",
+    "变焦": "3x optical and 3.4x digital",
+    "英文简介": "The Camedia C-5050 Zoom is a digital camera from Japanese manufacturer Olympus and announced in 2002."
   },
   "images": [],
   "sources": [

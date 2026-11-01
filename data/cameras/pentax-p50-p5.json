@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1986 年发布",
-  "description": "The Pentax P50 (P5 in the US) is a manual focus SLR utilizing lenses with the KA mount.",
+  "description": "宾得于1986年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax P50/P5"
+    "Camera-wiki": "Pentax P50/P5",
+    "英文简介": "The Pentax P50 (P5 in the US) is a manual focus SLR utilizing lenses with the KA mount."
   },
   "images": [
     {

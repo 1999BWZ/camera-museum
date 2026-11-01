@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达微型相机，1980 年发布",
-  "description": "The Minolta Pocket Autopak 430E and 430EX are two of Minolta's Autopak subminiature cameras for type No.",
+  "description": "美能达于1980年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Pocket Autopak 430Ex"
+    "Camera-wiki": "Minolta Pocket Autopak 430Ex",
+    "英文简介": "The Minolta Pocket Autopak 430E and 430EX are two of Minolta's Autopak subminiature cameras for type No."
   },
   "images": [],
   "sources": [

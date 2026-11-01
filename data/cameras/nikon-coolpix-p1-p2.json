@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2005 年发布",
-  "description": "The Coolpix P1 and Coolpix P2 are compact digital cameras announced by Japanese manufacturer Nikon at the end of 2005.",
+  "description": "尼康于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix P1 & P2"
+    "Camera-wiki": "Nikon Coolpix P1 & P2",
+    "英文简介": "The Coolpix P1 and Coolpix P2 are compact digital cameras announced by Japanese manufacturer Nikon at the end of 2005."
   },
   "images": [],
   "sources": [

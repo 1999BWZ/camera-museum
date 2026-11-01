@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得便携相机，1996 年发布",
-  "description": "{|class=floatright plainlinks\n||\n\n|-\n||\n\n|-\n|}\nThe Pentax Espio 115(M) is a 35mm compact zoom camera with autofocus made by Pentax, introduced in 1996Copyright date on [https://www.cameramanuals.org/pentax_p&s/pentax_p&s_iqzoom115m.pdf the manual].",
+  "description": "宾得于1996年推出的便携相机。配备Pentax electronic power zoom 38-115mm f/3.9-10.5. 7 elements in 6 groups.。快门速度Programmed AE, 1/300-2 seconds. Bulb from 1/2-5 seconds.。使用Auto film speed setting with 35mm DX-coded cartridges from ISO 25-3200. Non DX set to ISO 25. Auto-loading, winding and rewinding.。Pentax phase-matching five-point autofocus, from 0.65m-infinity, with focus lock. Focus aid illuminator in low light.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Espio/IQZoom 115M"
+    "Camera-wiki": "Pentax Espio/IQZoom 115M",
+    "胶片/画幅": "Auto film speed setting with 35mm DX-coded cartridges from ISO 25-3200. Non DX set to ISO 25. Auto-loading, winding and rewinding.",
+    "镜头": "Pentax electronic power zoom 38-115mm f/3.9-10.5. 7 elements in 6 groups.",
+    "对焦": "Pentax phase-matching five-point autofocus, from 0.65m-infinity, with focus lock. Focus aid illuminator in low light.",
+    "快门": "Programmed AE, 1/300-2 seconds. Bulb from 1/2-5 seconds.",
+    "取景器": "standard/panorama, real image with lines for parallax correction, diopter adjustment. Focus lock and flash readiness indicators.",
+    "闪光灯": "Built-in, with red-eye reduction. 9.4m range at ISO 400. 5 second recycling time.",
+    "重量": "111x61x40.5mm. 215g without battery.",
+    "英文简介": "{|class=floatright plainlinks\n||\n\n|-\n||\n\n|-\n|}\nThe Pentax Espio 115(M) is a 35mm compact zoom camera with autofocus made by Pentax, introduced in 1996Copyright date on [https://www.cameramanuals.org/pentax_p&s/pentax_p&s_iqzoom115m.pdf the manual]."
   },
   "images": [],
   "sources": [

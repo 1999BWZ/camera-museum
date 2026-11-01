@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲胶片单反相机，1907 年发布",
-  "description": "The 3A Graflex was an SLR produced by Folmer & Schwing from 1907–1926.",
+  "description": "格拉菲于1907年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "3A Graflex"
+    "Camera-wiki": "3A Graflex",
+    "英文简介": "The 3A Graflex was an SLR produced by Folmer & Schwing from 1907–1926."
   },
   "images": [],
   "sources": [

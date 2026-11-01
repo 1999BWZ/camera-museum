@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus取景器相机，1947 年发布",
-  "description": "The Argus 21 is a 35mm film camera, manufactured from 1947-52.",
+  "description": "Argus于1947年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus 21"
+    "Camera-wiki": "Argus 21",
+    "英文简介": "The Argus 21 is a 35mm film camera, manufactured from 1947-52."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nobility立体相机，1996 年发布",
-  "description": "The Noblex P3 is a three-format camera for 135 film made as a prototype by Kamera Werk Dresden, but never manufactured.",
+  "description": "Nobility于1996年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Noblex P3"
+    "Camera-wiki": "Noblex P3",
+    "英文简介": "The Noblex P3 is a three-format camera for 135 film made as a prototype by Kamera Werk Dresden, but never manufactured."
   },
   "images": [],
   "sources": [

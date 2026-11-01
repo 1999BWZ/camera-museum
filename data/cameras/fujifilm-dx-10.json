@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，1999 年发布",
-  "description": "The DX-10 is a entry level digital camera released by Fujifilm in 1999.",
+  "description": "富士于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm DX-10"
+    "Camera-wiki": "Fujifilm DX-10",
+    "英文简介": "The DX-10 is a entry level digital camera released by Fujifilm in 1999."
   },
   "images": [],
   "sources": [

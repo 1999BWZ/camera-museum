@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1907 年发布",
-  "description": "柯达于1907年发布的盒式相机。",
+  "description": "柯达于1907年推出的盒式相机。配备Single element meniscus。快门速度Rotary type, Time and Instant (most likely 1/25th)。使用116 film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 2A Brownie camera"
+    "Camera-wiki": "No. 2A Brownie camera",
+    "胶片/画幅": "116 film",
+    "尺寸": "2½×4¼ in",
+    "镜头": "Single element meniscus",
+    "快门速度": "Rotary type, Time and Instant (most likely 1/25th)",
+    "取景器": "Two reflected window types, horizontal and vertical"
   },
   "images": [],
   "sources": [

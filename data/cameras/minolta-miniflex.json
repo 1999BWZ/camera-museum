@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1959 年发布",
-  "description": "The Minolta Miniflex (ミノルタ・ミニフレックス) is a 4×4 TLR made in 1959 by Chiyoda Kōgaku Seikō, predecessor of Minolta.",
+  "description": "美能达于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Miniflex"
+    "Camera-wiki": "Minolta Miniflex",
+    "英文简介": "The Minolta Miniflex (ミノルタ・ミニフレックス) is a 4×4 TLR made in 1959 by Chiyoda Kōgaku Seikō, predecessor of Minolta."
   },
   "images": [],
   "sources": [

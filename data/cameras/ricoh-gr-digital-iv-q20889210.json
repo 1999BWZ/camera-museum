@@ -1,0 +1,40 @@
+{
+  "id": "ricoh-gr-digital-iv-q20889210",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "GR Digital IV",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，2011 年发布",
+  "description": "理光于2011年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889210",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/My%20Dads%20Ricoh%20GR%20IV.jpg?width=800",
+      "caption": "GR Digital IV",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889210"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Ricoh GR Digital IV",
+      "url": "https://www.wikidata.org/wiki/Q20889210"
+    }
+  ],
+  "qid": "Q20889210",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

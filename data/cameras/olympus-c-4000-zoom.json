@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2002 年发布",
-  "description": "The Olympus Camedia C-4000 Zoom is a 4-megapixel digital camera made in Indonesia for Olympus.",
+  "description": "奥林巴斯于2002年推出的数码相机。配备Olympus 6.5-19.5mm, f2.8 (3x zoom)。快门速度1/1000 sec. – 16 sec.。感光度100/200/400。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-4000 Zoom"
+    "Camera-wiki": "Olympus C-4000 Zoom",
+    "镜头": "Olympus 6.5-19.5mm, f2.8 (3x zoom)",
+    "感光度": "100/200/400",
+    "快门速度": "1/1000 sec. – 16 sec.",
+    "英文简介": "The Olympus Camedia C-4000 Zoom is a 4-megapixel digital camera made in Indonesia for Olympus."
   },
   "images": [],
   "sources": [

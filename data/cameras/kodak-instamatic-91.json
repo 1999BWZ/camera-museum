@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1974 年发布",
-  "description": "The Kodak Instamatic 91 is a basic camera for 110 film.",
+  "description": "柯达于1974年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 91"
+    "Camera-wiki": "Kodak Instamatic 91",
+    "英文简介": "The Kodak Instamatic 91 is a basic camera for 110 film."
   },
   "images": [],
   "sources": [

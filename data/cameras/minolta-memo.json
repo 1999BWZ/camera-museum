@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1949 年发布",
-  "description": "The Chiyoko Minolta Memo is a 35mm camera made by Chiyoda Kōgaku Seikō in 1949, the first 35mm leaf shutter camera made by the company which later became Minolta.",
+  "description": "美能达于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Memo"
+    "Camera-wiki": "Minolta Memo",
+    "英文简介": "The Chiyoko Minolta Memo is a 35mm camera made by Chiyoda Kōgaku Seikō in 1949, the first 35mm leaf shutter camera made by the company which later became Minolta."
   },
   "images": [],
   "sources": [

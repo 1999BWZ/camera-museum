@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welta胶片相机，1956 年发布",
-  "description": "The Peerflekta was a version of Welta's TLR Reflekta.",
+  "description": "Welta于1956年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Peerflekta"
+    "Camera-wiki": "Peerflekta",
+    "英文简介": "The Peerflekta was a version of Welta's TLR Reflekta."
   },
   "images": [],
   "sources": [

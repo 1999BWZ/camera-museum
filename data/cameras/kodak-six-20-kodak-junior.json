@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1933 年发布",
-  "description": "The Six-20 'Kodak' Junior is a folding camera for 620 film rolls.",
+  "description": "柯达于1933年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Six-20 Kodak Junior"
+    "Camera-wiki": "Six-20 Kodak Junior",
+    "英文简介": "The Six-20 'Kodak' Junior is a folding camera for 620 film rolls."
   },
   "images": [],
   "sources": [

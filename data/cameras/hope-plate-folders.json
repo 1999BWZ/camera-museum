@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hope折叠相机，1935 年发布",
-  "description": "The Hope (ホープ) are Japanese 6.5×9cm plate folders, made by Ōhashi Kōki Seisakusho and distributed by Ōhashi Takeji Shōten around 1935.",
+  "description": "Hope于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hope plate folders"
+    "Camera-wiki": "Hope plate folders",
+    "英文简介": "The Hope (ホープ) are Japanese 6.5×9cm plate folders, made by Ōhashi Kōki Seisakusho and distributed by Ōhashi Takeji Shōten around 1935."
   },
   "images": [],
   "sources": [

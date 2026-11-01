@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aerial cameras全景相机，1936 年发布",
-  "description": "The Adrian Michel Pigeon Camera is a subminiature camera from the 1930s, designed by the Swiss Christian Adrian Michel to be attached to a trained pigeon for reconnaissance photographs.",
+  "description": "Aerial cameras于1936年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Adrian Michel Pigeon Camera"
+    "Camera-wiki": "Adrian Michel Pigeon Camera",
+    "英文简介": "The Adrian Michel Pigeon Camera is a subminiature camera from the 1930s, designed by the Swiss Christian Adrian Michel to be attached to a trained pigeon for reconnaissance photographs."
   },
   "images": [],
   "sources": [

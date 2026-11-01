@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1963 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Konica EE-Matic is a rangefinder camera with selenium meter controlled exposure.",
+  "description": "柯尼卡于1963年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica EE-Matic"
+    "Camera-wiki": "Konica EE-Matic",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Konica EE-Matic is a rangefinder camera with selenium meter controlled exposure."
   },
   "images": [],
   "sources": [

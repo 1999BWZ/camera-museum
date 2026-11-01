@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ducati取景器相机，1950 年发布",
-  "description": "The Simplex is a half-frame 35 mm viewfinder camera made by Ducati in about 1950; McKeown notes uncertainty about the exact date.",
+  "description": "Ducati于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ducati Simplex"
+    "Camera-wiki": "Ducati Simplex",
+    "英文简介": "The Simplex is a half-frame 35 mm viewfinder camera made by Ducati in about 1950; McKeown notes uncertainty about the exact date."
   },
   "images": [],
   "sources": [

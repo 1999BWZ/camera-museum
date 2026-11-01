@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Magazine cameras胶片相机，1907 年发布",
-  "description": "Le Roi-Soleil is a box-format magazine camera for 9x12cm glass or film plates[http://www.collection-appareils.fr/x/html/page_standard.php?id_appareil=1842 Girard ad on Sylvain Halgand's site] made in France by Girard, from c.1907.",
+  "description": "Magazine cameras于1907年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Le Roi-Soleil"
+    "Camera-wiki": "Le Roi-Soleil",
+    "英文简介": "Le Roi-Soleil is a box-format magazine camera for 9x12cm glass or film plates[http://www.collection-appareils.fr/x/html/page_standard.php?id_appareil=1842 Girard ad on Sylvain Halgand's site] made in France by Girard, from c.1907."
   },
   "images": [],
   "sources": [

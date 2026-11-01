@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon胶片相机，1988 年发布",
-  "description": "Chinon Splash AF is a weather-proof compact autofocus camera released in 1988.",
+  "description": "Chinon于1988年推出的胶片相机。配备35 mm f/3,9 (3 elements/3 groups).。快门速度Programmed electronic shutter, 1/90–1/410 s.。使用Automatic advance and rewind.。感光度DX coded films from ISO 100 to 1000. Non-DX films exposed as ISO 100.。Infrared autofocus, from 1,3 m to infinity. Prefocus possible.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon Splash AF"
+    "Camera-wiki": "Chinon Splash AF",
+    "镜头": "35 mm f/3,9 (3 elements/3 groups).",
+    "快门": "Programmed electronic shutter, 1/90–1/410 s.",
+    "对焦": "Infrared autofocus, from 1,3 m to infinity. Prefocus possible.",
+    "曝光测光": "EV 10,5–14,5.",
+    "闪光灯": "Built-in, manually activated. GN 10. Range: 1,3–3,5 m. Fill flash possible.",
+    "取景器": "Bright frames with LED indicators for low light and focus.",
+    "感光度": "DX coded films from ISO 100 to 1000. Non-DX films exposed as ISO 100.",
+    "胶片/画幅": "Automatic advance and rewind.",
+    "尺寸": "140 x 77 x 53 mm.",
+    "重量": "370 g.",
+    "英文简介": "Chinon Splash AF is a weather-proof compact autofocus camera released in 1988."
   },
   "images": [],
   "sources": [

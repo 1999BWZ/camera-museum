@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光全景相机，1994 年发布",
-  "description": "The Ricoh R1 is a compact and light weight 35mm autofocus point & shoot camera produced in 1994.",
+  "description": "理光于1994年推出的全景相机。配备30mm F3.5 / 24mm F8。快门速度2s – 1/500 with self-timer。感光度ISO 50–3200。Auto focus selection multi-object passive.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh R1"
+    "Camera-wiki": "Ricoh R1",
+    "镜头": "30mm F3.5 / 24mm F8",
+    "对焦": "Auto focus selection multi-object passive.",
+    "快门": "2s – 1/500 with self-timer",
+    "感光度": "ISO 50–3200",
+    "尺寸": "117×61×25mm (at the smallest section)",
+    "重量": "145g without battery.",
+    "英文简介": "The Ricoh R1 is a compact and light weight 35mm autofocus point & shoot camera produced in 1994."
   },
   "images": [],
   "sources": [

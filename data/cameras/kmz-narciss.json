@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ微型相机，1961 年发布",
-  "description": "{|\n\n|-\n\n|-\n\n|}\n\nThe Narciss is an SLR for 16mm film, made between c.1961 and c.1965 by KMZ.",
+  "description": "KMZ于1961年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Narciss"
+    "Camera-wiki": "Narciss",
+    "英文简介": "{|\n\n|-\n\n|-\n\n|}\n\nThe Narciss is an SLR for 16mm film, made between c.1961 and c.1965 by KMZ."
   },
   "images": [],
   "sources": [

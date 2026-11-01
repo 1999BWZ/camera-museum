@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1948 年发布",
-  "description": "Contina refers to a family of 35mm compact cameras made and sold by Zeiss Ikon between 1948 and 1965.",
+  "description": "Zeiss Ikon于1948年推出的折叠相机。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contina"
+    "Camera-wiki": "Contina",
+    "胶片/画幅": "35mm",
+    "英文简介": "Contina refers to a family of 35mm compact cameras made and sold by Zeiss Ikon between 1948 and 1965."
   },
   "images": [],
   "sources": [

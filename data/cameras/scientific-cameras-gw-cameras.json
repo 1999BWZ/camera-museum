@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Scientific cameras胶片相机，1946 年发布",
-  "description": "During the early period of the Cold War the United Kingdom carried out wide-ranging missile research, partly in collaboration with Australia (under the umbrella of the Anglo-Australian Joint Project, which ran from 1946 to 1980).",
+  "description": "Scientific cameras于1946年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "GW Cameras"
+    "Camera-wiki": "GW Cameras",
+    "英文简介": "During the early period of the Cold War the United Kingdom carried out wide-ranging missile research, partly in collaboration with Australia (under the umbrella of the Anglo-Australian Joint Project, which ran from 1946 to 1980)."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2005 年发布",
-  "description": "The Nikon Coolpix 7900 is a 7 megapixel compact digital camera made in China \nfor the Nikon Coporation, introduced in February 2005.",
+  "description": "尼康于2005年推出的数码相机。配备3x Zoom-Nikkor ED 7.8-23.4mm (38-114mm lens in 35mm format) + 4x digital zoom。5 automatic AF modes, + manual area select AF & face priority AF。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix 7900"
+    "Camera-wiki": "Nikon Coolpix 7900",
+    "镜头": "3x Zoom-Nikkor ED 7.8-23.4mm (38-114mm lens in 35mm format) + 4x digital zoom",
+    "对焦": "5 automatic AF modes, + manual area select AF & face priority AF",
+    "传感器": "1/1.8-inch CCD",
+    "英文简介": "The Nikon Coolpix 7900 is a 7 megapixel compact digital camera made in China \nfor the Nikon Coporation, introduced in February 2005."
   },
   "images": [],
   "sources": [

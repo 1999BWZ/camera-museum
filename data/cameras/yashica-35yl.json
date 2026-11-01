@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1959 年发布",
-  "description": "The Yashica YL is a 35mm rangefinder released by Yashica in 1959.",
+  "description": "雅西卡于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 35YL"
+    "Camera-wiki": "Yashica 35YL",
+    "英文简介": "The Yashica YL is a 35mm rangefinder released by Yashica in 1959."
   },
   "images": [],
   "sources": [

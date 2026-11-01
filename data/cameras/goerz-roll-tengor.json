@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goerz折叠相机，1921 年发布",
-  "description": "The Roll Tengor is a range of folding-bed cameras made by Optische Anstalt C.P.Goerz AG.",
+  "description": "Goerz于1921年推出的折叠相机。配备Symmetrical-doublet, 5 ins (127 mm) f/11, with aperture stops f/11-f/45。快门速度Goerz leaf shutter, speeds: 1/ 25, 1/50, 1/100, +B&T。Bellows focusing, Focus range: 5-50 feet, (1.5-15 m) +inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Roll-Tengor"
+    "Camera-wiki": "Roll-Tengor",
+    "镜头": "Symmetrical-doublet, 5 ins (127 mm) f/11, with aperture stops f/11-f/45",
+    "对焦": "Bellows focusing, Focus range: 5-50 feet, (1.5-15 m) +inf",
+    "快门": "Goerz leaf shutter, speeds: 1/ 25, 1/50, 1/100, +B&T",
+    "取景器": "Brilliant finder on top of the lens standard, turning 90 degrees left on its own axis for landscape pictures, w/ red sprit level",
+    "英文简介": "The Roll Tengor is a range of folding-bed cameras made by Optische Anstalt C.P.Goerz AG."
   },
   "images": [],
   "sources": [

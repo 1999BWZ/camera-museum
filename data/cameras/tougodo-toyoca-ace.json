@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo微型相机，1965 年发布",
-  "description": "The Toyoca Ace \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera.",
+  "description": "Tougodo于1965年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Toyoca Ace"
+    "Camera-wiki": "Toyoca Ace",
+    "英文简介": "The Toyoca Ace \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera."
   },
   "images": [],
   "sources": [

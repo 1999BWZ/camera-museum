@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arsenal胶片单反相机，1984 年发布",
-  "description": "Kiev 60 is a medium format SLR film system camera manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR, and produced between 1984-99.",
+  "description": "Arsenal于1984年推出的胶片单反相机。配备Arsenal Volna-3 MC (ВОЛНА), 80mm f/2.8, automatic diaphragm, interchangeable。快门速度Curtain-type cloth focal plane shutter, setting: dial on the left of the top plate, horizontal travel, speeds: 2-1/1000 +B。使用120 roll, picture size 6x6 cm。Fresnel matte screen w/ central microprism collar around the split image rangefinder, ring on the lens.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kiev 60 TTL"
+    "Camera-wiki": "Kiev 60 TTL",
+    "胶片/画幅": "120 roll, picture size 6x6 cm",
+    "镜头": "Arsenal Volna-3 MC (ВОЛНА), 80mm f/2.8, automatic diaphragm, interchangeable",
+    "对焦": "Fresnel matte screen w/ central microprism collar around the split image rangefinder, ring on the lens.",
+    "快门": "Curtain-type cloth focal plane shutter, setting: dial on the left of the top plate, horizontal travel, speeds: 2-1/1000 +B",
+    "取景器": "Eye-level SLR pentaprism finder, interchangeable with waist level finder",
+    "曝光测光": "Full aperture TTL, CdS cell in prism, metering zone is the oval shaped, central part of the viewfinder field, (full aperture metering depends on the shutter cocking)",
+    "电池": "4.5v (3x LR44/PX675/RM675), for metering only",
+    "英文简介": "Kiev 60 is a medium format SLR film system camera manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR, and produced between 1984-99."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康取景器相机，1980 年发布",
-  "description": "While the earlier Nikonos series of underwater cameras had been evolutionary refinements on the original French Calypso, the 1980 Nikonos IV-A was a design originating entirely from Nikon.",
+  "description": "尼康于1980年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikonos IV-A"
+    "Camera-wiki": "Nikonos IV-A",
+    "英文简介": "While the earlier Nikonos series of underwater cameras had been evolutionary refinements on the original French Calypso, the 1980 Nikonos IV-A was a design originating entirely from Nikon."
   },
   "images": [],
   "sources": [

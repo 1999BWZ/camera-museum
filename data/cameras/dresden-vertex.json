@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dresden折叠相机，1927 年发布",
-  "description": "Vertex was used by Willy Stübiger as product name for cameras, enlargers and projectors.",
+  "description": "Dresden于1927年推出的折叠相机。配备\"VERTEX\" Anastigmat 1:6.3 F = 12 cm.。快门速度Vario with 25, 50, 100, B, T speed settings。使用6.5x9 cm.。sliding bed。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vertex"
+    "Camera-wiki": "Vertex",
+    "胶片/画幅": "6.5x9 cm.",
+    "镜头": "\"VERTEX\" Anastigmat 1:6.3 F = 12 cm.",
+    "快门": "Vario with 25, 50, 100, B, T speed settings",
+    "取景器": "Reflex finder",
+    "对焦": "sliding bed",
+    "重量": "4.8x10x13 cm; 477 gr.",
+    "英文简介": "Vertex was used by Willy Stübiger as product name for cameras, enlargers and projectors."
   },
   "images": [],
   "sources": [

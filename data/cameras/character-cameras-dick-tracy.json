@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Character cameras取景器相机，1947 年发布",
-  "description": "{| align=\"right\"\n|-\n|\n\n|-\n|\n\n|}\n\nThe Dick Tracy is a small bakelite camera for 127 film, made c.1947 by Seymour Products Co, using a 1938 design by Jack Galter[http://www.freepatentsonline.com/D114324.pdf US design patent 114,324] from [http://www.freepatentsonline.com/ freepatentsonline.com].",
+  "description": "Character cameras于1947年推出的取景器相机。配备Fixed focus meniscus lens。快门速度unknown。使用127 roll film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dick Tracy"
+    "Camera-wiki": "Dick Tracy",
+    "胶片/画幅": "127 roll film",
+    "镜头": "Fixed focus meniscus lens",
+    "光圈": "unknown",
+    "快门": "mechanical leaf shutter",
+    "快门速度": "unknown",
+    "英文简介": "{| align=\"right\"\n|-\n|\n\n|-\n|\n\n|}\n\nThe Dick Tracy is a small bakelite camera for 127 film, made c.1947 by Seymour Products Co, using a 1938 design by Jack Galter[http://www.freepatentsonline.com/D114324.pdf US design patent 114,324] from [http://www.freepatentsonline.com/ freepatentsonline.com]."
   },
   "images": [],
   "sources": [

@@ -1,0 +1,40 @@
+{
+  "id": "unknown-q4389545",
+  "brand": "БелОМА",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "БелОМА",
+  "model": "Q4389545",
+  "year": 1980,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "БелОМА胶片相机，1980 年发布",
+  "description": "БелОМА于1980年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4389545",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rakurs672%206293.jpg?width=800",
+      "caption": "Q4389545",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4389545"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Q4389545",
+      "url": "https://www.wikidata.org/wiki/Q4389545"
+    }
+  ],
+  "qid": "Q4389545",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

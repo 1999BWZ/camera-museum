@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达全景相机，1994 年发布",
-  "description": "The Kodak Cameo afm, a 35mm film camera, featured a so-called \"panoramic\" mode and autofocus, and came out in 1994.[http://kodak.3106.net/index.php?p=210&cam=1311 Kodak Cameo afm] at [http://kodak.3106.net/index.php Kodak Classics] It was made in Hong Kong.",
+  "description": "柯达于1994年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Cameo afm"
+    "Camera-wiki": "Kodak Cameo afm",
+    "英文简介": "The Kodak Cameo afm, a 35mm film camera, featured a so-called \"panoramic\" mode and autofocus, and came out in 1994.[http://kodak.3106.net/index.php?p=210&cam=1311 Kodak Cameo afm] at [http://kodak.3106.net/index.php Kodak Classics] It was made in Hong Kong."
   },
   "images": [],
   "sources": [

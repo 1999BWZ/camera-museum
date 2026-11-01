@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon取景器相机，1980 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Bellami is a a compact 35mm camera from Chinon, introduced in 1980—perhaps as a response to the innovative Olympus XA.",
+  "description": "Chinon于1980年推出的取景器相机。配备Chinonex Color 35mm, f/2.8 (4 elements in 3 groups).。快门速度Built-In Red LED。使用35mm。Manual scale focusing with Zone Focus Marks - 3.3ft/1m - infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon Bellami"
+    "Camera-wiki": "Chinon Bellami",
+    "镜头": "Chinonex Color 35mm, f/2.8 (4 elements in 3 groups).",
+    "对焦": "Manual scale focusing with Zone Focus Marks - 3.3ft/1m - infinity",
+    "快门": "SEIKO Program EE Shutter, Speeds from 1/8 to 1/1000 sec.",
+    "曝光测光": "Cds EE Exposure System, EV6 - 17(ASA 100), ASA25-400 (DIN 15 - 27)",
+    "胶片/画幅": "35mm",
+    "闪光灯": "Dedicated Chinon S-120 Side Mounting",
+    "电池": "Built-In Green LED",
+    "快门速度": "Built-In Red LED",
+    "重量": "220g (8.8 oz.)",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Bellami is a a compact 35mm camera from Chinon, introduced in 1980—perhaps as a response to the innovative Olympus XA."
   },
   "images": [],
   "sources": [

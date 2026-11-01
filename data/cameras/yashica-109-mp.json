@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1989 年发布",
-  "description": "__NOTOC__\n\nThe Yashica 109 MP also known as Yashica 109 Multi Program, Yashica 109, or name variation incorporating Kyocera, Kyocera Yashica 109, etc.",
+  "description": "雅西卡于1989年推出的胶片单反相机。快门速度auto: 16s to 1/2000 manual: 1 to 1/2000 and B。使用automatic。感光度Auto DX 25 to 3200 ISO, non-DX 100 ISO。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 109 MP"
+    "Camera-wiki": "Yashica 109 MP",
+    "卡口": "Contax/Yashica or C/Y bayonet mount lenses",
+    "快门": "Vertical metal focal plane",
+    "快门速度": "auto: 16s to 1/2000 manual: 1 to 1/2000 and B",
+    "闪光灯": "X sync at 1/90 or slower",
+    "曝光测光": "TTL center weight with SPD sensor",
+    "感光度": "Auto DX 25 to 3200 ISO, non-DX 100 ISO",
+    "胶片/画幅": "automatic",
+    "自拍": "electronic 10 sec.",
+    "电池": "4x AA battery",
+    "重量": "about 510g",
+    "尺寸": "150.5 x 95.5 x 62 mm",
+    "英文简介": "__NOTOC__\n\nThe Yashica 109 MP also known as Yashica 109 Multi Program, Yashica 109, or name variation incorporating Kyocera, Kyocera Yashica 109, etc."
   },
   "images": [],
   "sources": [

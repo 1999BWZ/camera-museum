@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Franka折叠相机，1952 年发布",
-  "description": "{|class=\"plainlinks floatright\"\n||[https://www.flickr.com/photos/raulm/3255663867/in/pool-camerawiki/ https://farm4.static.flickr.com/3315/3255663867_5b5f6821dd_m.jpg]\n|-\n||[https://www.flickr.com/photos/raulm/3255663443/in/pool-camerawiki/ https://farm4.static.flickr.com/3256/3255663443_1b65fd3c49_",
+  "description": "Franka于1952年推出的折叠相机。配备Frankar Anastigmat 1:4.5 F=75mm V, or Frankar Anastigmat 1:6.3 F=75mm, or Frankar Anastigmat 1:5.6 F=75mm。快门速度Vario with speeds 1/100, 1/75, 1/25 sec. and B, release button on camera top, or similar Pronto shutter。使用Type No. 120 film rolls。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Solida I"
+    "Camera-wiki": "Solida I",
+    "胶片/画幅": "Type No. 120 film rolls",
+    "尺寸": "6x6cm",
+    "镜头": "Frankar Anastigmat 1:4.5 F=75mm V, or Frankar Anastigmat 1:6.3 F=75mm, or Frankar Anastigmat 1:5.6 F=75mm",
+    "快门": "Vario with speeds 1/100, 1/75, 1/25 sec. and B, release button on camera top, or similar Pronto shutter",
+    "取景器": "telescopic finder in top",
+    "英文简介": "{|class=\"plainlinks floatright\"\n||[https://www.flickr.com/photos/raulm/3255663867/in/pool-camerawiki/ https://farm4.static.flickr.com/3315/3255663867_5b5f6821dd_m.jpg]\n|-\n||[https://www.flickr.com/photos/raulm/3255663443/in/pool-camerawiki/ https://farm4.static.flickr.com/3256/3255663443_1b65fd3c49_m.jpg]\n|-\n||[https://www.flickr.com/photos/raulm/3255662785/in/pool-camerawiki/ https://farm4.static"
   },
   "images": [],
   "sources": [

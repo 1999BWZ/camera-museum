@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2011 年发布",
-  "description": "The GR Digital IV is a advanced autofocus digital compact camera released by Pentax Ricoh Imaging in 2011.",
+  "description": "理光于2011年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh GR Digital IV"
+    "Camera-wiki": "Ricoh GR Digital IV",
+    "英文简介": "The GR Digital IV is a advanced autofocus digital compact camera released by Pentax Ricoh Imaging in 2011."
   },
   "images": [],
   "sources": [

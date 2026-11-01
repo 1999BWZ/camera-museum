@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1936 年发布",
-  "description": "The Kodak Bantam Special was the rangefinder-focusing, top-end model in Kodak's Bantam range, designed for 828 film.",
+  "description": "柯达于1936年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Bantam Special"
+    "Camera-wiki": "Kodak Bantam Special",
+    "英文简介": "The Kodak Bantam Special was the rangefinder-focusing, top-end model in Kodak's Bantam range, designed for 828 film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2005 年发布",
-  "description": "The DiMAGE Z6 was one of the last products of the photo imaging division of Konica Minolta.",
+  "description": "柯尼卡美能达于2005年推出的数码相机。配备1:2.8–1:4.5/5.83–69.9 mm (35–420mm when compared with lenses for 35mm film), 13 lenses in 10 groups。快门速度4 - 1/1000 sec.。感光度50 - 320 ASA。video autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE Z6"
+    "Camera-wiki": "Konica Minolta DiMAGE Z6",
+    "镜头": "1:2.8–1:4.5/5.83–69.9 mm (35–420mm when compared with lenses for 35mm film), 13 lenses in 10 groups",
+    "对焦": "video autofocus",
+    "曝光测光": "multi segment or integral center-weighted or spot metering",
+    "感光度": "50 - 320 ASA",
+    "快门速度": "4 - 1/1000 sec.",
+    "取景器": "0.3\" digital finder with optical diopter correction, plus 2\" display, both devices showing 114000 pixels",
+    "闪光灯": "guide number 8 (ISO 100)",
+    "重量": "435 g (15,3 oz.)",
+    "尺寸": "109 x 80 x 84 mm (4,3´x 3,2 x 3,3 inch)",
+    "英文简介": "The DiMAGE Z6 was one of the last products of the photo imaging division of Konica Minolta."
   },
   "images": [],
   "sources": [

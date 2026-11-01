@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1957 年发布",
-  "description": "The Kodak Brownie Model I was a box camera for 620 roll film.",
+  "description": "柯达于1957年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Model I"
+    "Camera-wiki": "Kodak Brownie Model I",
+    "英文简介": "The Kodak Brownie Model I was a box camera for 620 roll film."
   },
   "images": [],
   "sources": [

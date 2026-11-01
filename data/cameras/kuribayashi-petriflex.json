@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi胶片单反相机，1953 年发布",
-  "description": "There are also similarly-named cameras, the Petri Flex V/Petri Penta series and Petri Flex 7 35mm SLRs.",
+  "description": "Kuribayashi于1953年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petriflex (TLR)"
+    "Camera-wiki": "Petriflex (TLR)",
+    "英文简介": "There are also similarly-named cameras, the Petri Flex V/Petri Penta series and Petri Flex 7 35mm SLRs."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1983 年发布",
-  "description": "A zone focusing compact camera from Fuji, released in 1983.",
+  "description": "Fuji于1983年推出的取景器相机。配备Fujinon 38 mm f/4, 3 elements/3 groups.。快门速度1/100 (ISO 100), 1/300 (ISO 400).。感光度100 or 400, switching between the two preset shutter speeds.。3-zone focusing.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica DL-20"
+    "Camera-wiki": "Fujica DL-20",
+    "镜头": "Fujinon 38 mm f/4, 3 elements/3 groups.",
+    "快门": "1/100 (ISO 100), 1/300 (ISO 400).",
+    "对焦": "3-zone focusing.",
+    "感光度": "100 or 400, switching between the two preset shutter speeds.",
+    "重量": "121 x 72 x 55 mm; 300 g.",
+    "尺寸": "121 x 72 x 55 mm",
+    "英文简介": "A zone focusing compact camera from Fuji, released in 1983."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来数码单反相机，1976 年发布",
-  "description": "== The SL35M ==\n\nThe Rolleiflex SL35M is a 35mm SLR camera launched by Rollei in 1976.",
+  "description": "禄来于1976年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex SL35M"
+    "Camera-wiki": "Rolleiflex SL35M",
+    "英文简介": "== The SL35M ==\n\nThe Rolleiflex SL35M is a 35mm SLR camera launched by Rollei in 1976."
   },
   "images": [],
   "sources": [

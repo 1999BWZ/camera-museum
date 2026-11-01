@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wirgin折叠相机，1937 年发布",
-  "description": "The Wirgin 6x9 is a medium format folder produced by the German company Wirgin c.1937.",
+  "description": "Wirgin于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wirgin 6x9"
+    "Camera-wiki": "Wirgin 6x9",
+    "英文简介": "The Wirgin 6x9 is a medium format folder produced by the German company Wirgin c.1937."
   },
   "images": [],
   "sources": [

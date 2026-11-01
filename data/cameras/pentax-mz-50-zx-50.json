@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1997 年发布",
-  "description": "The MZ-50 (sold as the ZX-50 in the USA) is an autofocus 35mm SLR introduced by Pentax in 1997.",
+  "description": "宾得于1997年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MZ-50/ZX-50"
+    "Camera-wiki": "Pentax MZ-50/ZX-50",
+    "英文简介": "The MZ-50 (sold as the ZX-50 in the USA) is an autofocus 35mm SLR introduced by Pentax in 1997."
   },
   "images": [],
   "sources": [

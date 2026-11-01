@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1915 年发布",
-  "description": "柯达于1915年发布的旁轴相机（折叠）。",
+  "description": "柯达于1915年推出的旁轴相机（折叠）。配备Kodar 122mm f/7.9。快门速度Kodex no.1 shutter with speeds B, T, 1/25, 1/50, or Kodak Ball Bearing shutter with an additional 1/100s speed for \"moving object\", as the shutter says.。使用Roll film (size 116)。By distance zone, 8, 25 & 100ft detents on bellows extension。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak No. 2A Folding Autographic Brownie"
+    "Camera-wiki": "Kodak No. 2A Folding Autographic Brownie",
+    "胶片/画幅": "Roll film (size 116)",
+    "尺寸": "2 1/4 × 4 1/4 inches",
+    "快门": "Kodex no.1 shutter with speeds B, T, 1/25, 1/50, or Kodak Ball Bearing shutter with an additional 1/100s speed for \"moving object\", as the shutter says.",
+    "镜头": "Kodar 122mm f/7.9",
+    "光圈": "\"1\", \"2\", \"3,\" \"4\" (early models); f7.9-f22 (later)",
+    "对焦": "By distance zone, 8, 25 & 100ft detents on bellows extension"
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dresden取景器相机，1961 年发布",
-  "description": "The Prakti is a sophisticated viewfinder camera for 35mm film introduced in 1961.",
+  "description": "Dresden于1961年推出的取景器相机。配备achromatic Meyer-Optik Görlitz Domiton 1:4/40 mm。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Prakti"
+    "Camera-wiki": "Prakti",
+    "胶片/画幅": "35mm",
+    "镜头": "achromatic Meyer-Optik Görlitz Domiton 1:4/40 mm",
+    "光圈": "1:4 to 1:16",
+    "取景器": "optical",
+    "尺寸": "133 × 88 × 60 mm",
+    "重量": "672 Gr (without film or batteries)",
+    "英文简介": "The Prakti is a sophisticated viewfinder camera for 35mm film introduced in 1961."
   },
   "images": [],
   "sources": [

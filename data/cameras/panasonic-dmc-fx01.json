@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2006 年发布",
-  "description": "The DMC-FX01 is a compact digital camera made by Panasonic in about 2006, the first of a series of models.",
+  "description": "松下于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic DMC-FX01"
+    "Camera-wiki": "Panasonic DMC-FX01",
+    "英文简介": "The DMC-FX01 is a compact digital camera made by Panasonic in about 2006, the first of a series of models."
   },
   "images": [],
   "sources": [

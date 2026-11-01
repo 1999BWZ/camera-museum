@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发胶片相机，1982 年发布",
-  "description": "There is also an Agfa Easy for APS film; a black-and-white disposable camera trialled but apparently never sold.",
+  "description": "爱克发于1982年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Easy (110)"
+    "Camera-wiki": "Agfa Easy (110)",
+    "英文简介": "There is also an Agfa Easy for APS film; a black-and-white disposable camera trialled but apparently never sold."
   },
   "images": [],
   "sources": [

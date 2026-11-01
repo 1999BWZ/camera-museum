@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1975 年发布",
-  "description": "The Yashica FX-1 was a 35mm film, mechanically operated, single lens reflex camera.",
+  "description": "雅西卡于1975年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica FX-1"
+    "Camera-wiki": "Yashica FX-1",
+    "英文简介": "The Yashica FX-1 was a 35mm film, mechanically operated, single lens reflex camera."
   },
   "images": [],
   "sources": [

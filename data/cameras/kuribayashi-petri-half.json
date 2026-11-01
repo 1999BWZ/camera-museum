@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi取景器相机，1960 年发布",
-  "description": "The Petri Half is a first half-frame 35mm viewfinder camera produced by Kuribayashi (later Petri) in 1960.",
+  "description": "Kuribayashi于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Half"
+    "Camera-wiki": "Petri Half",
+    "英文简介": "The Petri Half is a first half-frame 35mm viewfinder camera produced by Kuribayashi (later Petri) in 1960."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1998 年发布",
-  "description": "The Polaroid 3200AF autofocus compact for 35mm film was made in Thailand.",
+  "description": "宝丽来于1998年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid 3200AF"
+    "Camera-wiki": "Polaroid 3200AF",
+    "英文简介": "The Polaroid 3200AF autofocus compact for 35mm film was made in Thailand."
   },
   "images": [],
   "sources": [

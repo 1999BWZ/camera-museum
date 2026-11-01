@@ -1,0 +1,32 @@
+{
+  "id": "sony-mvc-cd300",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "MVC-CD300",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2001 年发布",
+  "description": "索尼于2001年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889288",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Sony MVC-CD300",
+      "url": "https://www.wikidata.org/wiki/Q20889288"
+    }
+  ],
+  "qid": "Q20889288",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

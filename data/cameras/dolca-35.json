@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dolca取景器相机，1952 年发布",
-  "description": "The Dolca 35 are a series of Japanese 35mm cameras made by Tōkyō Kōken in the 1950s.",
+  "description": "Dolca于1952年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dolca 35"
+    "Camera-wiki": "Dolca 35",
+    "英文简介": "The Dolca 35 are a series of Japanese 35mm cameras made by Tōkyō Kōken in the 1950s."
   },
   "images": [],
   "sources": [

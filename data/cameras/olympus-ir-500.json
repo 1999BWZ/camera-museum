@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2004 年发布",
-  "description": "The Olympus IR-500 is a 4.0-megapixel ultra-compact digital camera introduced by Olympus in 2004.",
+  "description": "奥林巴斯于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus IR-500"
+    "Camera-wiki": "Olympus IR-500",
+    "英文简介": "The Olympus IR-500 is a 4.0-megapixel ultra-compact digital camera introduced by Olympus in 2004."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1964 年发布",
-  "description": "The Fujica Mini is a fixed focus compact 35mm half frame film camera from Fuji Photo released in 1964.",
+  "description": "Fuji于1964年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica Mini"
+    "Camera-wiki": "Fujica Mini",
+    "英文简介": "The Fujica Mini is a fixed focus compact 35mm half frame film camera from Fuji Photo released in 1964."
   },
   "images": [],
   "sources": [

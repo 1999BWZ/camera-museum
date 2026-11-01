@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2006 年发布",
-  "description": "Nikon's entry level Digital Single Lens Reflex camera which has a 6.1 MP CCD sensor similar to that used in the Nikon D50, D70 and D70s.",
+  "description": "尼康于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon D40"
+    "Camera-wiki": "Nikon D40",
+    "尺寸": "133x102x76mm",
+    "英文简介": "Nikon's entry level Digital Single Lens Reflex camera which has a 6.1 MP CCD sensor similar to that used in the Nikon D50, D70 and D70s."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1985 年发布",
-  "description": "The Minolta X-7A is a 35mm manual focus SLR based on the MD mount released by Minolta in 1985.",
+  "description": "美能达于1985年推出的数码单反相机。使用24x36mm frames on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta X-7A"
+    "Camera-wiki": "Minolta X-7A",
+    "胶片/画幅": "24x36mm frames on 35mm film",
+    "卡口": "MD Mount (Minolta SR mount)",
+    "英文简介": "The Minolta X-7A is a 35mm manual focus SLR based on the MD mount released by Minolta in 1985."
   },
   "images": [],
   "sources": [

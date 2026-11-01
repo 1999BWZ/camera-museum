@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon胶片相机，1928 年发布",
-  "description": "There is a later model using the Ikonette name, using 35mm film.",
+  "description": "Zeiss Ikon于1928年推出的胶片相机。快门速度1/25 sec. and B.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ikonette"
+    "Camera-wiki": "Ikonette",
+    "快门": "Goerz Frontar 1:9 8Cm lens in an Everset shutter",
+    "快门速度": "1/25 sec. and B.",
+    "取景器": "Brilliant type",
+    "尺寸": "120 x 25 x 60 mm",
+    "重量": "c.300 grams",
+    "英文简介": "There is a later model using the Ikonette name, using 35mm film."
   },
   "images": [],
   "sources": [

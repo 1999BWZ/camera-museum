@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1977 年发布",
-  "description": "The 35 MF is a viewfinder camera made by Yashica in 1977.[http://www.collection-appareils.fr/x/html/page_standard_eng.php?id_appareil=11903 35 MF] at Sylvain Halgand's [http://www.collection-appareils.fr/carrousel/html/index.php Collection Appareils].",
+  "description": "雅西卡于1977年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 35 MF"
+    "Camera-wiki": "Yashica 35 MF",
+    "英文简介": "The 35 MF is a viewfinder camera made by Yashica in 1977.[http://www.collection-appareils.fr/x/html/page_standard_eng.php?id_appareil=11903 35 MF] at Sylvain Halgand's [http://www.collection-appareils.fr/carrousel/html/index.php Collection Appareils]."
   },
   "images": [],
   "sources": [

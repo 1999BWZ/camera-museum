@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo折叠相机，1924 年发布",
-  "description": "The Certoruf is a double-extension folding plate camera, made by Certo in Dresden, Germany, from about 1924.",
+  "description": "Certo于1924年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Certoruf"
+    "Camera-wiki": "Certoruf",
+    "英文简介": "The Certoruf is a double-extension folding plate camera, made by Certo in Dresden, Germany, from about 1924."
   },
   "images": [],
   "sources": [

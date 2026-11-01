@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1992 年发布",
-  "description": "The Minolta Riva 35 ST, known as the Freedom Holiday in America, is a basic fixed-focus compact camera released as the successor to the Minolta Riva 35 in 1992.",
+  "description": "美能达于1992年推出的取景器相机。配备35 mm f/4,5.。快门速度Behind-the-lens mechanical shutter, 1/35–1/100 s.。使用Automatic advance and rewind.。感光度DX coded films from ISO 100 to 400. Non-DX films exposed as ISO 100.。Fixed focus from 1,5 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva 35 ST"
+    "Camera-wiki": "Minolta Riva 35 ST",
+    "镜头": "35 mm f/4,5.",
+    "快门": "Behind-the-lens mechanical shutter, 1/35–1/100 s.",
+    "对焦": "Fixed focus from 1,5 m to infinity.",
+    "曝光测光": "f/4,5–11,1",
+    "闪光灯": "Built-in, automatically activated. Range: 1,5–2,8 m. Flash ready LED indicator.",
+    "感光度": "DX coded films from ISO 100 to 400. Non-DX films exposed as ISO 100.",
+    "胶片/画幅": "Automatic advance and rewind.",
+    "尺寸": "121 x 68 x 49 mm.",
+    "重量": "175 g without batteries.",
+    "英文简介": "The Minolta Riva 35 ST, known as the Freedom Holiday in America, is a basic fixed-focus compact camera released as the successor to the Minolta Riva 35 in 1992."
   },
   "images": [],
   "sources": [

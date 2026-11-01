@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1983 年发布",
-  "description": "The KR-10 Super was introduced by Ricoh in 1983, as a significant revision to the previous KR-10 (without suffix).",
+  "description": "理光于1983年推出的胶片相机。快门速度Electronically controlled. 16sec - 1/1000sec +B.。使用35mm film, 24x36mm.。感光度ASA 12-3200。Split-image spot in microprism band。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh KR-10 Super"
+    "Camera-wiki": "Ricoh KR-10 Super",
+    "胶片/画幅": "35mm film, 24x36mm.",
+    "卡口": "K Mount",
+    "曝光测光": "TTL full open metering for center-weighted average light reading coupled automatically to f-stop.",
+    "对焦": "Split-image spot in microprism band",
+    "感光度": "ASA 12-3200",
+    "快门": "Electronically controlled. 16sec - 1/1000sec +B.",
+    "取景器": "Field of view covers 93%. 0,88X magnification.",
+    "闪光灯": "X synchro contact",
+    "电池": "Two LR-44 Alkaline batteries or two SR-44 Silver Oxide batteries.",
+    "尺寸": "136 x 86 x 51mm",
+    "重量": "Approx.460g",
+    "英文简介": "The KR-10 Super was introduced by Ricoh in 1983, as a significant revision to the previous KR-10 (without suffix)."
   },
   "images": [],
   "sources": [

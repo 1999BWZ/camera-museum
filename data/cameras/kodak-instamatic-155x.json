@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1971 年发布",
-  "description": "Kodak's 155X Instamatic Camera or 155X Câmara Instamatic is a viewfinder camera for 126 (Kodapak) film cartridges - one a large range of Instamatics.",
+  "description": "柯达于1971年推出的便携相机。配备Kodar。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 155X"
+    "Camera-wiki": "Kodak Instamatic 155X",
+    "镜头": "Kodar",
+    "取景器": "optical",
+    "闪光灯": "Magicubes",
+    "英文简介": "Kodak's 155X Instamatic Camera or 155X Câmara Instamatic is a viewfinder camera for 126 (Kodapak) film cartridges - one a large range of Instamatics."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来旁轴相机，1971 年发布",
-  "description": "The Big Shot was one of the most unusual cameras Polaroid ever introduced.",
+  "description": "宝丽来于1971年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Big Shot"
+    "Camera-wiki": "Polaroid Big Shot",
+    "英文简介": "The Big Shot was one of the most unusual cameras Polaroid ever introduced."
   },
   "images": [],
   "sources": [

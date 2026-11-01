@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras大画幅相机，1965 年发布",
-  "description": "The Rittreck View is a 5x7-inch, metal-bodied technical field and studio camera, made from 1965 by Musashino of Tokyo.",
+  "description": "View cameras于1965年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rittreck View"
+    "Camera-wiki": "Rittreck View",
+    "尺寸": "328 x 252 x 88mm",
+    "重量": "3.2 kg (7 lbs) body only",
+    "英文简介": "The Rittreck View is a 5x7-inch, metal-bodied technical field and studio camera, made from 1965 by Musashino of Tokyo."
   },
   "images": [],
   "sources": [

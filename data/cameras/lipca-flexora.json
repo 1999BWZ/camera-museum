@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lipca旁轴相机（折叠），1952 年发布",
-  "description": "The Flexora was the first of that line of TLRs made by Lipca, Barntrup.",
+  "description": "Lipca于1952年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Flexora"
+    "Camera-wiki": "Flexora",
+    "英文简介": "The Flexora was the first of that line of TLRs made by Lipca, Barntrup."
   },
   "images": [],
   "sources": [

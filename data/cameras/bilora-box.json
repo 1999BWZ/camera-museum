@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bilora盒式相机，1935 年发布",
-  "description": "The Bilora Box was launched in 1935 by the German company Bilora.",
+  "description": "Bilora于1935年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bilora Box"
+    "Camera-wiki": "Bilora Box",
+    "英文简介": "The Bilora Box was launched in 1935 by the German company Bilora."
   },
   "images": [],
   "sources": [

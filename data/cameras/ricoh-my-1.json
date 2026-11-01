@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，2001 年发布",
-  "description": "The Ricoh my-1 is an ultra compact fully automatic 35mm point and shoot camera produced in 2001.",
+  "description": "理光于2001年推出的取景器相机。配备Ricoh 30mm F7。快门速度1/60 and 1/125 sec. Self timer.。使用100 to 400 ISO。Fixed focus, 1.2m - infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh my-1"
+    "Camera-wiki": "Ricoh my-1",
+    "镜头": "Ricoh 30mm F7",
+    "对焦": "Fixed focus, 1.2m - infinity",
+    "快门": "1/60 and 1/125 sec. Self timer.",
+    "曝光测光": "Cds.",
+    "闪光灯": "Fill-in flash, electronic activates automatically in dim light with Red-Eye reduction.",
+    "胶片/画幅": "100 to 400 ISO",
+    "尺寸": "99.9mm width 59mm height 26mm depth",
+    "重量": "105g without battery.",
+    "英文简介": "The Ricoh my-1 is an ultra compact fully automatic 35mm point and shoot camera produced in 2001."
   },
   "images": [],
   "sources": [

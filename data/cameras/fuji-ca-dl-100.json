@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1983 年发布",
-  "description": "The Fujica DL-100 (Auto Ace in Japan) is a compact autofocus camera released in 1983.",
+  "description": "Fuji于1983年推出的胶片相机。配备Fujinon 38 mm f/2,8, 4 elements/4 groups (UV filter incorporated).。快门速度1/8 — 1/500 Seiko ESF 2-blade electronic shutter.。感光度50–100–200–400 ISO. If set to auto-identification, the camera defaults to ISO 100.。0,9 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica DL-100"
+    "Camera-wiki": "Fujica DL-100",
+    "镜头": "Fujinon 38 mm f/2,8, 4 elements/4 groups (UV filter incorporated).",
+    "快门": "1/8 — 1/500 Seiko ESF 2-blade electronic shutter.",
+    "对焦": "0,9 m to infinity.",
+    "曝光测光": "EV 6 — EV 17 (ISO 100).",
+    "闪光灯": "0,9 — 4 m (ISO 100); 0,9 — 6 m (ISO 400).",
+    "感光度": "50–100–200–400 ISO. If set to auto-identification, the camera defaults to ISO 100.",
+    "重量": "129,5 x 79,5 x 58 mm; 445 g without batteries.",
+    "英文简介": "The Fujica DL-100 (Auto Ace in Japan) is a compact autofocus camera released in 1983."
   },
   "images": [],
   "sources": [

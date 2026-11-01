@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1982 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Konica Pop (aka C35 EFJ in Japan) was a popular 35mm compact camera by Konica, made from 1982.",
+  "description": "柯尼卡于1982年推出的取景器相机。配备36mm, maximum aperture f/4. Early models are marked 'Hexanon'; post 1985 are not.。快门速度fixed at 1/125s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica pop"
+    "Camera-wiki": "Konica pop",
+    "镜头": "36mm, maximum aperture f/4. Early models are marked 'Hexanon'; post 1985 are not.",
+    "快门速度": "fixed at 1/125s.",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Konica Pop (aka C35 EFJ in Japan) was a popular 35mm compact camera by Konica, made from 1982."
   },
   "images": [],
   "sources": [

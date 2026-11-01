@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1976 年发布",
-  "description": "The 1035 was one of Agfa's Optima Sensor Electronic series, and featured a self-timer (lever below the view finder), zone focusing information visible in the viewfinder, a top shutter speed of 1/1000th sec., and a multi-coated 40 mm f/2.8 Agfa Solitar lens (4 elements, 3 groups).",
+  "description": "爱克发于1976年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima Sensor 1035"
+    "Camera-wiki": "Optima Sensor 1035",
+    "英文简介": "The 1035 was one of Agfa's Optima Sensor Electronic series, and featured a self-timer (lever below the view finder), zone focusing information visible in the viewfinder, a top shutter speed of 1/1000th sec., and a multi-coated 40 mm f/2.8 Agfa Solitar lens (4 elements, 3 groups)."
   },
   "images": [],
   "sources": [

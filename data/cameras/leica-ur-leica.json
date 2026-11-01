@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1914 年发布",
-  "description": "The Ur-Leica was a prototype 35mm camera, using Kino film (35mm film) - designed by Oskar Barnack in 1913-14.",
+  "description": "徕卡于1914年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ur-Leica"
+    "Camera-wiki": "Ur-Leica",
+    "英文简介": "The Ur-Leica was a prototype 35mm camera, using Kino film (35mm film) - designed by Oskar Barnack in 1913-14."
   },
   "images": [],
   "sources": [

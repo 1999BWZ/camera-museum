@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，2013 年发布",
-  "description": "宾得于2013年发布的数码单反相机。",
+  "description": "宾得于2013年推出的数码单反相机。配备Interchangeable Pentax KAF3 and KAF2 mount compatible with Pentax auto-aperture lenses; older lenses supported in stop-down metering mode。快门速度30-1/6000 s, Bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q15055468",
-    "多语言词条数": "8"
+    "多语言词条数": "8",
+    "传感器": "APS-C 23.7×15.7 mm CMOS sensor",
+    "镜头": "Interchangeable Pentax KAF3 and KAF2 mount compatible with Pentax auto-aperture lenses; older lenses supported in stop-down metering mode",
+    "快门速度": "30-1/6000 s, Bulb",
+    "曝光测光": "TTL open-aperture metering with choice of: 77-segment evaluative, center-weighted & spot metering",
+    "屏幕": "3\", 921k pixels with AR coating, adjustable for brightness and color",
+    "闪光灯": "Built-in retractable P-TTL auto pop-up flash. 1/180s sync speed.",
+    "电池": "Lithium-Ion D-Li109 rechargeable battery or four AA batteries (with optional AA battery holder D-BH109)",
+    "取景器": "Eye-level pentaprism, near-100% coverage, 0.92x magnification",
+    "重量": "With battery and SD card: Without battery:"
   },
   "images": [
     {

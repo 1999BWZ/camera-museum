@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2012 年发布",
-  "description": "The D5200 is a digital SLR camera from Nikon released in 2012.",
+  "description": "尼康于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon D5200"
+    "Camera-wiki": "Nikon D5200",
+    "英文简介": "The D5200 is a digital SLR camera from Nikon released in 2012."
   },
   "images": [],
   "sources": [

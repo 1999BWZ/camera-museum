@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1936 年发布",
-  "description": "The Minolta Six (ミノルタ・シックス) is a bakelite collapsible 6×6 camera, made by Molta (the predecessor of Minolta) and distributed by Asanuma Shōkai from late 1936.",
+  "description": "美能达于1936年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Six"
+    "Camera-wiki": "Minolta Six",
+    "英文简介": "The Minolta Six (ミノルタ・シックス) is a bakelite collapsible 6×6 camera, made by Molta (the predecessor of Minolta) and distributed by Asanuma Shōkai from late 1936."
   },
   "images": [],
   "sources": [

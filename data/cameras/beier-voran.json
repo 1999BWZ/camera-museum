@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier折叠相机，1937 年发布",
-  "description": "The Voran is a self-erecting folder made by Beier in Germany.",
+  "description": "Beier于1937年推出的折叠相机。快门速度Steinheil Actinar 4.5/10.5 cm lens in a Pronto shutter Meyer Trioplan 4.5/10.5 cm lens in a Pronto shutter。使用8 images 6 x 9 cm on 120 type rollfilm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voran"
+    "Camera-wiki": "Voran",
+    "胶片/画幅": "8 images 6 x 9 cm on 120 type rollfilm",
+    "快门": "Steinheil Actinar 4.5/10.5 cm lens in a Pronto shutter Meyer Trioplan 4.5/10.5 cm lens in a Pronto shutter",
+    "尺寸": "??x??x?? mm (when folded)",
+    "重量": "??? grams",
+    "英文简介": "The Voran is a self-erecting folder made by Beier in Germany."
   },
   "images": [],
   "sources": [

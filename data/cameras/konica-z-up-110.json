@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡便携相机，1996 年发布",
-  "description": "The Konica Z-up 110 Super is a fully automatic compact camera with zoom lens.",
+  "description": "柯尼卡于1996年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Z-up 110"
+    "Camera-wiki": "Konica Z-up 110",
+    "英文简介": "The Konica Z-up 110 Super is a fully automatic compact camera with zoom lens."
   },
   "images": [],
   "sources": [

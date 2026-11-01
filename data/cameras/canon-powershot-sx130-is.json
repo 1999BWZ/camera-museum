@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2010 年发布",
-  "description": "Canon's PowerShot SX130 IS is a 12 megapixel digital compact camera with a 12x zoom lens.",
+  "description": "佳能于2010年推出的数码相机。配备5–60mm (35mm equivalent 28-336mm)。有效像素up to 4000x3000 pixels。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot SX130 IS"
+    "Camera-wiki": "Canon PowerShot SX130 IS",
+    "镜头": "5–60mm (35mm equivalent 28-336mm)",
+    "像素": "up to 4000x3000 pixels",
+    "英文简介": "Canon's PowerShot SX130 IS is a 12 megapixel digital compact camera with a 12x zoom lens."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fama取景器相机，1950 年发布",
-  "description": "The Fama II is a viewfinder camera for 35mm film, made in about 1950 by Cornu of Paris.",
+  "description": "Fama于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fama II"
+    "Camera-wiki": "Fama II",
+    "英文简介": "The Fama II is a viewfinder camera for 35mm film, made in about 1950 by Cornu of Paris."
   },
   "images": [],
   "sources": [

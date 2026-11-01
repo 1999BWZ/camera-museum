@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1897 年发布",
-  "description": "The Folding Pocket Kodak is a strut-folding camera made by Eastman Kodak Co.",
+  "description": "柯达于1897年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Folding Pocket Kodak"
+    "Camera-wiki": "Folding Pocket Kodak",
+    "英文简介": "The Folding Pocket Kodak is a strut-folding camera made by Eastman Kodak Co."
   },
   "images": [],
   "sources": [

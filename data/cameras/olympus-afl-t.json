@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1986 年发布",
-  "description": "AFL-T or Quick Shooter Tele, released in 1986, was Olympus's first camera with twin focal lengths, following in the steps of the Fuji TW-300 and Konica MR.70.",
+  "description": "奥林巴斯于1986年推出的胶片相机。快门速度1/30–1/500 s. Electronic self-timer.。使用Auto-loading, auto-winding, auto-rewind.。感光度DX coded films ISO 50–3200.。Active infrared autofocus with focus lock, 0.75 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AFL-T"
+    "Camera-wiki": "Olympus AFL-T",
+    "快门": "1/30–1/500 s. Electronic self-timer.",
+    "对焦": "Active infrared autofocus with focus lock, 0.75 m to infinity.",
+    "闪光灯": "Built-in, GN 12, quickly recharging, automatically activated.",
+    "感光度": "DX coded films ISO 50–3200.",
+    "胶片/画幅": "Auto-loading, auto-winding, auto-rewind.",
+    "尺寸": "136 x 71 x 58 mm (quartz date version).",
+    "重量": "380 g.",
+    "英文简介": "AFL-T or Quick Shooter Tele, released in 1986, was Olympus's first camera with twin focal lengths, following in the steps of the Fuji TW-300 and Konica MR.70."
   },
   "images": [],
   "sources": [

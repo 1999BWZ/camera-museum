@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sports盒式相机，1949 年发布",
-  "description": "The Vena Sport-Box camera was made in Amsterdam, Netherlands around 1949.",
+  "description": "Sports于1949年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vena Sport-Box"
+    "Camera-wiki": "Vena Sport-Box",
+    "英文简介": "The Vena Sport-Box camera was made in Amsterdam, Netherlands around 1949."
   },
   "images": [
     {

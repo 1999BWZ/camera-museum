@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1999 年发布",
-  "description": "The Olympus Newpic Zoom 600 of 1999 is a compact camera for the Advanced Photo System.",
+  "description": "奥林巴斯于1999年推出的便携相机。配备30-60mm f/4.5-8.5 (35mm equivalent is approx 38-75mm) with autofocus.。快门速度1/6-1/320s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Newpic Zoom 600"
+    "Camera-wiki": "Olympus Newpic Zoom 600",
+    "镜头": "30-60mm f/4.5-8.5 (35mm equivalent is approx 38-75mm) with autofocus.",
+    "曝光测光": "auto-flash, red-eye reduction, flash off, fill in, night scene, red-eye reduction night scene, landscape.",
+    "快门": "1/6-1/320s",
+    "尺寸": "4.5x2.2x1.5 inches.",
+    "重量": "7oz.",
+    "英文简介": "The Olympus Newpic Zoom 600 of 1999 is a compact camera for the Advanced Photo System."
   },
   "images": [],
   "sources": [

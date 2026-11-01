@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1991 年发布",
-  "description": "Dual-lensed compact auto-focus camera launched by Minolta in 1991, offering 28 mm and 40 mm focal lengths.",
+  "description": "美能达于1991年推出的便携相机。感光度0,65—3,4 m (wide angle); 0,65—2,5 m (normal).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva Twin 28"
+    "Camera-wiki": "Minolta Riva Twin 28",
+    "感光度": "0,65—3,4 m (wide angle); 0,65—2,5 m (normal).",
+    "曝光测光": "EV 6~16,2 (wide), EV 7~17,2 (normal) with ISO100 film.",
+    "重量": "270 grammes, 143x75x53 mm.",
+    "尺寸": "143x75x53 mm",
+    "英文简介": "Dual-lensed compact auto-focus camera launched by Minolta in 1991, offering 28 mm and 40 mm focal lengths."
   },
   "images": [],
   "sources": [

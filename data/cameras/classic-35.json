@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Classic取景器相机，1948 年发布",
-  "description": "The Classic 35 is a half-frame viewfinder camera produced by the US company Craftsmen's Guild in 1948[https://phsc.ca/camera/lets-try-small Classic 35 article] at [https://phsc.ca/camera/ The Photographic Historical Society of Canada]/.",
+  "description": "Classic于1948年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Classic 35"
+    "Camera-wiki": "Classic 35",
+    "英文简介": "The Classic 35 is a half-frame viewfinder camera produced by the US company Craftsmen's Guild in 1948[https://phsc.ca/camera/lets-try-small Classic 35 article] at [https://phsc.ca/camera/ The Photographic Historical Society of Canada]/."
   },
   "images": [],
   "sources": [

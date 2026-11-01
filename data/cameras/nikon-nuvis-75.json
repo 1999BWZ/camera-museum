@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1996 年发布",
-  "description": "The Nikon Nuvis 75 was one of the earlier compact cameras for the Advanced Photo System, introduced by Nikon in 1996.",
+  "description": "尼康于1996年推出的便携相机。配备30-60mm, f/4.5-8.5 (equivalent to 37.5-75mm in 35mm format).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Nuvis 75"
+    "Camera-wiki": "Nikon Nuvis 75",
+    "镜头": "30-60mm, f/4.5-8.5 (equivalent to 37.5-75mm in 35mm format).",
+    "英文简介": "The Nikon Nuvis 75 was one of the earlier compact cameras for the Advanced Photo System, introduced by Nikon in 1996."
   },
   "images": [],
   "sources": [

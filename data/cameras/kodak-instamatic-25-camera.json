@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1966 年发布",
-  "description": "The Kodak Instamatic 25 Camera is a viewfinder camera for Kodapak film cartridges.",
+  "description": "柯达于1966年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 25 Camera"
+    "Camera-wiki": "Kodak Instamatic 25 Camera",
+    "英文简介": "The Kodak Instamatic 25 Camera is a viewfinder camera for Kodapak film cartridges."
   },
   "images": [],
   "sources": [

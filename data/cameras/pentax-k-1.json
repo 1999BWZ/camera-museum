@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2016 年发布",
-  "description": "Pentax K-1 is the flagship full frame digital SLR by Ricoh Imaging introduced in 2016.",
+  "description": "宾得于2016年推出的数码相机。快门速度1/8,000 to 30s, Bulb.。感光度ISO equivalent 100-204,800; K-1 II: 100-819,200.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-1"
+    "Camera-wiki": "Pentax K-1",
+    "传感器": "36.4 MP (7,360 x 4,912) full frame (35.9x24.0mm) CMOS sensor, without an anti-aliasing filter.",
+    "卡口": "Pentax KAF2 and KAF3.",
+    "取景器": "Pentaprism with 100% coverage of the field of view. Magnification: 0.70X (with 50mm F1.4 at infinity).",
+    "感光度": "ISO equivalent 100-204,800; K-1 II: 100-819,200.",
+    "快门速度": "1/8,000 to 30s, Bulb.",
+    "电池": "D-LI90P lithium ion rechargable.",
+    "重量": "800g (1.76 lb/28.22 oz) with battery and SD card.",
+    "尺寸": "132.1 x 100 x 78.7mm (5.16 x 3.94 x 3.03 in)",
+    "英文简介": "Pentax K-1 is the flagship full frame digital SLR by Ricoh Imaging introduced in 2016."
   },
   "images": [],
   "sources": [

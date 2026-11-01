@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1950 年发布",
-  "description": "The Minox Model III was produced from 1950 to 1959.",
+  "description": "Minox于1950年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox III"
+    "Camera-wiki": "Minox III",
+    "英文简介": "The Minox Model III was produced from 1950 to 1959."
   },
   "images": [],
   "sources": [

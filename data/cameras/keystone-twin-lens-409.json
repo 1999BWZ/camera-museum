@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Keystone胶片相机，1976 年发布",
-  "description": "The Keystone Twin Lens 409 is a pocket camera for 110 film.",
+  "description": "Keystone于1976年推出的胶片相机。配备3 to 4 feet。使用110 (13 mm × 17 mm)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Keystone Twin Lens 409"
+    "Camera-wiki": "Keystone Twin Lens 409",
+    "胶片/画幅": "110 (13 mm × 17 mm)",
+    "镜头": "3 to 4 feet",
+    "闪光灯": "3 to 10 feet",
+    "英文简介": "The Keystone Twin Lens 409 is a pocket camera for 110 film."
   },
   "images": [],
   "sources": [

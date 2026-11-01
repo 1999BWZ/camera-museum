@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "卡西欧数码相机，2002 年发布",
-  "description": "The GV-20 is a weather resistant digital camera introduced from Casio in 2002.",
+  "description": "卡西欧于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Casio GV-20"
+    "Camera-wiki": "Casio GV-20",
+    "英文简介": "The GV-20 is a weather resistant digital camera introduced from Casio in 2002."
   },
   "images": [],
   "sources": [

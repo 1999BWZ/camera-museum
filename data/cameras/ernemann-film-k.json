@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann盒式相机，1915 年发布",
-  "description": "The Film K series of rollfilm box cameras with simple standard shutter and slow lens existed at least since 1915.",
+  "description": "Ernemann于1915年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Film K"
+    "Camera-wiki": "Ernemann Film K",
+    "英文简介": "The Film K series of rollfilm box cameras with simple standard shutter and slow lens existed at least since 1915."
   },
   "images": [],
   "sources": [

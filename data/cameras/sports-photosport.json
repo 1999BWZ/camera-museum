@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sports取景器相机，1925 年发布",
-  "description": "The Photosport is an early still camera for 35mm film, made by A.",
+  "description": "Sports于1925年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Photosport"
+    "Camera-wiki": "Photosport",
+    "英文简介": "The Photosport is an early still camera for 35mm film, made by A."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spartus折叠相机，1940 年发布",
-  "description": "This Spartus Folding Camera is a strut-folding camera for 127 film, giving eight exposures of 6&times;4.5 cm per roll.",
+  "description": "Spartus于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Spartus Folding Camera (bakelite 127)"
+    "Camera-wiki": "Spartus Folding Camera (bakelite 127)",
+    "英文简介": "This Spartus Folding Camera is a strut-folding camera for 127 film, giving eight exposures of 6&times;4.5 cm per roll."
   },
   "images": [],
   "sources": [

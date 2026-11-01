@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof折叠相机，1937 年发布",
-  "description": "The Linhof Precision Camera Standard II and Technika II are the standard and advanced versions of a new model of the Linhof Precision Camera, a folding field camera made in various sizes from about 1937 to the 1940s.McKeown dates the Standard model to 1936, as a new version of the Präzisions-Camera,",
+  "description": "Linhof于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Standard and Technika II"
+    "Camera-wiki": "Linhof Standard and Technika II",
+    "英文简介": "The Linhof Precision Camera Standard II and Technika II are the standard and advanced versions of a new model of the Linhof Precision Camera, a folding field camera made in various sizes from about 1937 to the 1940s.McKeown dates the Standard model to 1936, as a new version of the Präzisions-Camera, and gives 1939-46 for the Technika II; both are described in an English-language Linhof brochure wh"
   },
   "images": [],
   "sources": [

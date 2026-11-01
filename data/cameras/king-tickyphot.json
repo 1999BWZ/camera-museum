@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King取景器相机，1973 年发布",
-  "description": "The King produced Tickyphot viewfinder camera featured a combined aperture and shutter system called Rectamat.",
+  "description": "King于1973年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tickyphot"
+    "Camera-wiki": "Tickyphot",
+    "英文简介": "The King produced Tickyphot viewfinder camera featured a combined aperture and shutter system called Rectamat."
   },
   "images": [],
   "sources": [

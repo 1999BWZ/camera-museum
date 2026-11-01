@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1992 年发布",
-  "description": "The Konica Jump is a basic but weather-proof 35mm point and shoot introduced circa 1992.",
+  "description": "柯尼卡于1992年推出的取景器相机。感光度ISO 100, 200, 400.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Jump"
+    "Camera-wiki": "Konica Jump",
+    "感光度": "ISO 100, 200, 400.",
+    "英文简介": "The Konica Jump is a basic but weather-proof 35mm point and shoot introduced circa 1992."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA折叠相机，1914 年发布",
-  "description": "The ICA Orix is a folding plate camera made by ICA in Dresden in two different sizes: Orix 308 (10×15 cm, 1914-1926) and Orix 209 (9×12 cm, 1925-1926)KADLUBEK, Günther and HILLEBRAND, Rudolf.",
+  "description": "ICA于1914年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Orix"
+    "Camera-wiki": "Orix",
+    "英文简介": "The ICA Orix is a folding plate camera made by ICA in Dresden in two different sizes: Orix 308 (10×15 cm, 1914-1926) and Orix 209 (9×12 cm, 1925-1926)KADLUBEK, Günther and HILLEBRAND, Rudolf."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片相机，1991 年发布",
-  "description": "The Vivitar 110EF is yet another camera for 110 film, and probably sold under other brand names as well.",
+  "description": "Vivitar于1991年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 110EF"
+    "Camera-wiki": "Vivitar 110EF",
+    "英文简介": "The Vivitar 110EF is yet another camera for 110 film, and probably sold under other brand names as well."
   },
   "images": [],
   "sources": [

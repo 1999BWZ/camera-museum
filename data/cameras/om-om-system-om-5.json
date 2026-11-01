@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "OM数位解决方案数码相机，2022 年发布",
-  "description": "OM数位解决方案于2022年发布的数码相机。",
+  "description": "OM数位解决方案于2022年推出的数码相机。配备Micro Four Thirds。快门速度| speedRange = 64-6400(expandable 25600)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q114900532",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "镜头": "Micro Four Thirds",
+    "传感器": "Live MOS",
+    "胶片/画幅": "| DXcoding =",
+    "对焦": "High-speed Imager AF",
+    "曝光测光": "| mmode =",
+    "闪光灯": "none",
+    "快门速度": "| speedRange = 64-6400(expandable 25600)",
+    "取景器": "| ovf =",
+    "电池": "BLS-50(USB recheargeable)",
+    "重量": "(with battery, memory card)"
   },
   "images": [],
   "sources": [

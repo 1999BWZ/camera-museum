@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wittnauer胶片相机，1959 年发布",
-  "description": "The Wittnauer company put its own Wittnette branding onto this pseudo TLR c.1959, actually a USC Reflex III from United States Camera.",
+  "description": "Wittnauer于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wittnette Reflex"
+    "Camera-wiki": "Wittnette Reflex",
+    "英文简介": "The Wittnauer company put its own Wittnette branding onto this pseudo TLR c.1959, actually a USC Reflex III from United States Camera."
   },
   "images": [],
   "sources": [

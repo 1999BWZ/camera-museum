@@ -1,0 +1,32 @@
+{
+  "id": "nikon-f-401s",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F-401s",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1989 年发布",
+  "description": "尼康于1989年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20890647",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon F-401s",
+      "url": "https://www.wikidata.org/wiki/Q20890647"
+    }
+  ],
+  "qid": "Q20890647",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

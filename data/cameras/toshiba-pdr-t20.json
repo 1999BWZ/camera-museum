@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Toshiba数码相机，2002 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe PDR-T20 is a 2 mega pixel digital introduced by Toshiba in 2002.",
+  "description": "Toshiba于2002年推出的数码相机。配备5.8 to 11.6mm (38 to 76mm) 2x optical zoom; F3.1 to F8; 5 elements in 4 groups.。快门速度1/2 to 1/1000. (plus 4-1/1000 sec. in Landscape)。TTL Contrast Detection。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Toshiba PDR-T20"
+    "Camera-wiki": "Toshiba PDR-T20",
+    "传感器": "2 mega pixel 1/2.7\" CCD sensor",
+    "镜头": "5.8 to 11.6mm (38 to 76mm) 2x optical zoom; F3.1 to F8; 5 elements in 4 groups.",
+    "曝光测光": "TTL Metering, Programmed AE",
+    "光圈": "Automatic",
+    "快门速度": "1/2 to 1/1000. (plus 4-1/1000 sec. in Landscape)",
+    "对焦": "TTL Contrast Detection",
+    "闪光灯": "Built-in. Flash range: about 0.5 - 2.8m (in wide - ISO 200).",
+    "尺寸": "2.1 x 4.3 x 1.1\"",
+    "重量": "170 g",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe PDR-T20 is a 2 mega pixel digital introduced by Toshiba in 2002."
   },
   "images": [],
   "sources": [

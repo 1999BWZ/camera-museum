@@ -13,11 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "克拉斯诺戈尔斯克旁轴相机，1956 年发布",
-  "description": "克拉斯诺戈尔斯克于1956年发布的旁轴相机。",
+  "description": "克拉斯诺戈尔斯克于1956年推出的旁轴相机。配备39LTM。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q4194013",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "镜头": "39LTM",
+    "对焦": "Manual",
+    "曝光测光": "Manual",
+    "闪光灯": "Flash sync 1/30s"
   },
   "images": [
     {

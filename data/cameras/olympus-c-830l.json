@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，1998 年发布",
-  "description": "The Camedia C-830L is a early consumer digital camera from Olympus and introduced in 1998.",
+  "description": "奥林巴斯于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-830L"
+    "Camera-wiki": "Olympus C-830L",
+    "英文简介": "The Camedia C-830L is a early consumer digital camera from Olympus and introduced in 1998."
   },
   "images": [],
   "sources": [

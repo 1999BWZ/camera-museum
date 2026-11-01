@@ -1,0 +1,40 @@
+{
+  "id": "film-ferrania-ferrania-ibis",
+  "brand": "FILM Ferrania",
+  "brand_cn": "",
+  "brand_slug": "film-ferrania",
+  "country": "待补充",
+  "manufacturer": "FILM Ferrania",
+  "model": "Ferrania Ibis",
+  "year": 1952,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FILM Ferrania胶片相机，1952 年发布",
+  "description": "FILM Ferrania于1952年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q56327273",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferrania%20Ibis%2066.jpg?width=800",
+      "caption": "Ferrania Ibis",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q56327273"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Ferrania Ibis",
+      "url": "https://www.wikidata.org/wiki/Q56327273"
+    }
+  ],
+  "qid": "Q56327273",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1991 年发布",
-  "description": "The Olympus AF-10 Super (Infinity Jr.",
+  "description": "奥林巴斯于1991年推出的便携相机。配备35mm f/3.5。5-zone active IR, 0.7m to infinity with focus lock。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AF-10 Super"
+    "Camera-wiki": "Olympus AF-10 Super",
+    "镜头": "35mm f/3.5",
+    "对焦": "5-zone active IR, 0.7m to infinity with focus lock",
+    "尺寸": "117x63x46mm",
+    "重量": "210g",
+    "英文简介": "The Olympus AF-10 Super (Infinity Jr."
   },
   "images": [],
   "sources": [

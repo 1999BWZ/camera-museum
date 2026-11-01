@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi数码单反相机，1981 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Petri GX-1 exists in two flavors, both rebadged Cosina 35mm SLRs accepting K mount lenses.",
+  "description": "Kuribayashi于1981年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri GX-1"
+    "Camera-wiki": "Petri GX-1",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Petri GX-1 exists in two flavors, both rebadged Cosina 35mm SLRs accepting K mount lenses."
   },
   "images": [],
   "sources": [

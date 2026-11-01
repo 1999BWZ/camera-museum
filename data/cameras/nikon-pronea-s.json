@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1998 年发布",
-  "description": "The Nikon Pronea S is one of Nikon's light APS film autofocus SLR camera bodies for Nikon AF lenses.",
+  "description": "尼康于1998年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Pronea S"
+    "Camera-wiki": "Nikon Pronea S",
+    "英文简介": "The Nikon Pronea S is one of Nikon's light APS film autofocus SLR camera bodies for Nikon AF lenses."
   },
   "images": [],
   "sources": [

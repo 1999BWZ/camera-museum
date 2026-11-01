@@ -1,0 +1,32 @@
+{
+  "id": "canon-powershot-elph-185",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "PowerShot ELPH 185",
+  "year": 2017,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2017 年发布",
+  "description": "佳能于2017年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q136979086",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Canon PowerShot ELPH 185",
+      "url": "https://www.wikidata.org/wiki/Q136979086"
+    }
+  ],
+  "qid": "Q136979086",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

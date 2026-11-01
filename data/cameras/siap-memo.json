@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "SIAP取景器相机，1949 年发布",
-  "description": "The Memo is a camera produced by the French company SIAP.",
+  "description": "SIAP于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "SIAP Memo"
+    "Camera-wiki": "SIAP Memo",
+    "英文简介": "The Memo is a camera produced by the French company SIAP."
   },
   "images": [],
   "sources": [

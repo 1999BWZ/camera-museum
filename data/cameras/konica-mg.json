@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡便携相机，1983 年发布",
-  "description": "The Konica MG is a 35mm point and shoot compact camera released in 1983.",
+  "description": "柯尼卡于1983年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica MG"
+    "Camera-wiki": "Konica MG",
+    "英文简介": "The Konica MG is a 35mm point and shoot compact camera released in 1983."
   },
   "images": [],
   "sources": [

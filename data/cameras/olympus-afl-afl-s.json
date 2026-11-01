@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，1983 年发布",
-  "description": "The Olympus AFL Quick Flash series of 35mm compact cameras were some of the first mass-produced autofocus cameras manufactured by Olympus and were so advanced for their time that they were priced almost as highly as SLRs.",
+  "description": "奥林巴斯于1983年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AFL & AFL-S"
+    "Camera-wiki": "Olympus AFL & AFL-S",
+    "英文简介": "The Olympus AFL Quick Flash series of 35mm compact cameras were some of the first mass-produced autofocus cameras manufactured by Olympus and were so advanced for their time that they were priced almost as highly as SLRs."
   },
   "images": [],
   "sources": [

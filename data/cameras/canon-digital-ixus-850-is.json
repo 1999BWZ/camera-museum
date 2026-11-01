@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2006 年发布",
-  "description": "Canon's Digital IXUS 850 IS (also called PowerShot SD800 IS DIGITAL ELPH in America, or IXY DIGITAL 900 IS in Japan) is a 7.1 megapixel Japanese digital camera, introduced in October 2006.",
+  "description": "佳能于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Digital IXUS 850 IS"
+    "Camera-wiki": "Canon Digital IXUS 850 IS",
+    "英文简介": "Canon's Digital IXUS 850 IS (also called PowerShot SD800 IS DIGITAL ELPH in America, or IXY DIGITAL 900 IS in Japan) is a 7.1 megapixel Japanese digital camera, introduced in October 2006."
   },
   "images": [],
   "sources": [

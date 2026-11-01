@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1992 年发布",
-  "description": "The Riva Zoom 70c is a 35mm autofocus compact zoom camera produced by Minolta.",
+  "description": "美能达于1992年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva Zoom 70c"
+    "Camera-wiki": "Minolta Riva Zoom 70c",
+    "英文简介": "The Riva Zoom 70c is a 35mm autofocus compact zoom camera produced by Minolta."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来中画幅相机，1960 年发布",
-  "description": "The Rollei magic is a medium format TLR camera manufactured by Franke & Heidecke, Braunschweig, Germany.",
+  "description": "禄来于1960年推出的中画幅相机。配备Schneider-Kreuznach Xenar 1:3.5 f=75mm.。快门速度Prontor Prontormat-S model 565 k1.。感光度12 to 1600 ASA.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei Magic"
+    "Camera-wiki": "Rollei Magic",
+    "镜头": "Schneider-Kreuznach Xenar 1:3.5 f=75mm.",
+    "快门": "Prontor Prontormat-S model 565 k1.",
+    "曝光测光": "speeds 1/30 to 1/300 sec. at diaphragms 3.5 to 22.",
+    "感光度": "12 to 1600 ASA.",
+    "尺寸": "88 x 106 x 147 mm",
+    "重量": "1000 grams",
+    "英文简介": "The Rollei magic is a medium format TLR camera manufactured by Franke & Heidecke, Braunschweig, Germany."
   },
   "images": [],
   "sources": [

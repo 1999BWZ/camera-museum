@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topography胶片相机，1940 年发布",
-  "description": "The Longchamp is a 3x4 pseudo TLR sold by the French distributor Boumsell during World War II.",
+  "description": "Topography于1940年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Longchamp"
+    "Camera-wiki": "Longchamp",
+    "英文简介": "The Longchamp is a 3x4 pseudo TLR sold by the French distributor Boumsell during World War II."
   },
   "images": [],
   "sources": [

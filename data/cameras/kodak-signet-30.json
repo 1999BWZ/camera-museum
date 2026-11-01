@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1957 年发布",
-  "description": "The Kodak Signet 30 was the third model in the Kodak Signet line, introduced (along with the Signet 50) in August of 1957.",
+  "description": "柯达于1957年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Signet 30"
+    "Camera-wiki": "Kodak Signet 30",
+    "英文简介": "The Kodak Signet 30 was the third model in the Kodak Signet line, introduced (along with the Signet 50) in August of 1957."
   },
   "images": [],
   "sources": [

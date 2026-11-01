@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1998 年发布",
-  "description": "The Minolta Memory Maker III is a fixed focus camera which was released in 1998.",
+  "description": "美能达于1998年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Memory Maker III"
+    "Camera-wiki": "Minolta Memory Maker III",
+    "尺寸": "131 x 73 x 49 mm",
+    "英文简介": "The Minolta Memory Maker III is a fixed focus camera which was released in 1998."
   },
   "images": [],
   "sources": [

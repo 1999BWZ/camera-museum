@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2005 年发布",
-  "description": "The FinePix S9000 is a digital bridge camera that uses a 9 megapixel SuperCCD based sensor and introduced by Fujifilm in 2005.",
+  "description": "富士于2005年推出的数码相机。配备Fujinon 6.2-66.7mm f2.8-4.9 (10.7x zoom, 28-300mm equiv.)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix S9000/S9500"
+    "Camera-wiki": "Fujifilm FinePix S9000/S9500",
+    "镜头": "Fujinon 6.2-66.7mm f2.8-4.9 (10.7x zoom, 28-300mm equiv.)",
+    "尺寸": "4,864 x 3,648 pixels",
+    "传感器": "Fuji Super CCD, 9 megapixels",
+    "英文简介": "The FinePix S9000 is a digital bridge camera that uses a 9 megapixel SuperCCD based sensor and introduced by Fujifilm in 2005."
   },
   "images": [],
   "sources": [

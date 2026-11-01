@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1966 年发布",
-  "description": "Yashica replaced the selenium meter of the Yashica Lynx 1000 with a CdS cell when it introduced the Lynx 14 and Lynx 5000 in 1965.The standout feature of the Lynx 14 is a massive Yashinon 45mm F/1.4 lens, with a 58mm filter thread.",
+  "description": "雅西卡于1966年推出的旁轴相机。快门速度Copal SV leaf shutter from B to 1/500。感光度10–800。manual, with coupled rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Lynx 14E"
+    "Camera-wiki": "Yashica Lynx 14E",
+    "对焦": "manual, with coupled rangefinder",
+    "卡口": "fixed",
+    "快门": "Copal SV leaf shutter from B to 1/500",
+    "曝光测光": "CdS",
+    "感光度": "10–800",
+    "闪光灯": "no",
+    "卷片": "no",
+    "电池": "PX625A (for model 14) or PX640A (for model 14E)",
+    "英文简介": "Yashica replaced the selenium meter of the Yashica Lynx 1000 with a CdS cell when it introduced the Lynx 14 and Lynx 5000 in 1965.The standout feature of the Lynx 14 is a massive Yashinon 45mm F/1.4 lens, with a 58mm filter thread."
   },
   "images": [],
   "sources": [

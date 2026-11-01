@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1958 年发布",
-  "description": "The first nonfolding Retina from Kodak AG, the Retina IIIS, factory type 027, was made from 1958 to 1961.",
+  "description": "柯达于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina IIIS"
+    "Camera-wiki": "Kodak Retina IIIS",
+    "英文简介": "The first nonfolding Retina from Kodak AG, the Retina IIIS, factory type 027, was made from 1958 to 1961."
   },
   "images": [],
   "sources": [

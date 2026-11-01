@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来旁轴相机，1985 年发布",
-  "description": "The EE100 Special is one of Polaroid's second generation of folding, 100-series packfilm cameras, made for a few years from about 1985.",
+  "description": "宝丽来于1985年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid EE100 Special"
+    "Camera-wiki": "Polaroid EE100 Special",
+    "英文简介": "The EE100 Special is one of Polaroid's second generation of folding, 100-series packfilm cameras, made for a few years from about 1985."
   },
   "images": [],
   "sources": [

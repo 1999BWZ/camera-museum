@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯折叠相机，1948 年发布",
-  "description": "The Olympus Chrome Six is a series of dual-format folders, taking 6×6cm and 4.5×6cm exposures, made by Takachiho and later Olympus from 1948 to 1956.",
+  "description": "奥林巴斯于1948年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Chrome Six"
+    "Camera-wiki": "Olympus Chrome Six",
+    "英文简介": "The Olympus Chrome Six is a series of dual-format folders, taking 6×6cm and 4.5×6cm exposures, made by Takachiho and later Olympus from 1948 to 1956."
   },
   "images": [],
   "sources": [

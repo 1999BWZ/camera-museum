@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，2002 年发布",
-  "description": "At the start of the millennium Minolta showed for the last time its pride about its autofocus system SLRs with the Alpha-mount.",
+  "description": "美能达于2002年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 5"
+    "Camera-wiki": "Minolta Dynax 5",
+    "英文简介": "At the start of the millennium Minolta showed for the last time its pride about its autofocus system SLRs with the Alpha-mount."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，1997 年发布",
-  "description": "The Coolpix 100 is an early digital camera from Nikon released in 1997.",
+  "description": "尼康于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix 100"
+    "Camera-wiki": "Nikon Coolpix 100",
+    "英文简介": "The Coolpix 100 is an early digital camera from Nikon released in 1997."
   },
   "images": [],
   "sources": [

@@ -29,7 +29,7 @@ from import_wikipedia import (  # noqa: E402
 
 UA = {"User-Agent": "CameraMuseumBot/0.1 (5000-camera import)"}
 CLASS_QIDS = ["Q20888659", "Q20741022", "Q140559271"]
-TARGET_TOTAL = 5000
+TARGET_TOTAL = 5500
 
 
 def wd_search(srsearch, limit=500, offset=0, retries=3):

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码相机，2005 年发布",
-  "description": "A Leica compact digital camera; it is a variation on the Panasonic DMC-LX1.",
+  "description": "徕卡于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica D-Lux 2"
+    "Camera-wiki": "Leica D-Lux 2",
+    "英文简介": "A Leica compact digital camera; it is a variation on the Panasonic DMC-LX1."
   },
   "images": [],
   "sources": [

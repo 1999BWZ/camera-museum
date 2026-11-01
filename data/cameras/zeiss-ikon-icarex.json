@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon数码单反相机，1966 年发布",
-  "description": "The Icarex 35 was a 35mm SLR made by the German company Zeiss Ikon at the end of the 1960s and beginning of the 1970s.",
+  "description": "Zeiss Ikon于1966年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Icarex"
+    "Camera-wiki": "Icarex",
+    "英文简介": "The Icarex 35 was a 35mm SLR made by the German company Zeiss Ikon at the end of the 1960s and beginning of the 1970s."
   },
   "images": [],
   "sources": [

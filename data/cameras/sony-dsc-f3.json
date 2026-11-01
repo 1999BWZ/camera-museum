@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，1997 年发布",
-  "description": "The Cyber-shot DSC-F3 is a digital camera released by Sony in November 1997.",
+  "description": "索尼于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-F3"
+    "Camera-wiki": "Sony DSC-F3",
+    "英文简介": "The Cyber-shot DSC-F3 is a digital camera released by Sony in November 1997."
   },
   "images": [],
   "sources": [

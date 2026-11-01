@@ -1,0 +1,32 @@
+{
+  "id": "olympus-850-sw",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "µ 850 SW",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，2008 年发布",
+  "description": "奥林巴斯于2008年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11292737",
+    "多语言词条数": "3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus µ 850 SW",
+      "url": "https://www.wikidata.org/wiki/Q11292737"
+    }
+  ],
+  "qid": "Q11292737",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

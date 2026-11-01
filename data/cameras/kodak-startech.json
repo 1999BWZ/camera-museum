@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1959 年发布",
-  "description": "Similar to the Kodak Brownie Starflash, the Startech was made specifically for close-up photography; the instructions mention dental & medical, academic and industrial uses.",
+  "description": "柯达于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Startech"
+    "Camera-wiki": "Kodak Startech",
+    "英文简介": "Similar to the Kodak Brownie Starflash, the Startech was made specifically for close-up photography; the instructions mention dental & medical, academic and industrial uses."
   },
   "images": [],
   "sources": [

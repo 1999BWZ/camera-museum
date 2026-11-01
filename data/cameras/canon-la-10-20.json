@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1993 年发布",
-  "description": "Basic fixed focus 35mm film compacts from Canon.",
+  "description": "佳能于1993年推出的取景器相机。配备35mm, f/4.5 (3 elements in 3 groups).。快门速度1/125.。感光度100/200 and 400。Fixed。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon LA 10/20"
+    "Camera-wiki": "Canon LA 10/20",
+    "镜头": "35mm, f/4.5 (3 elements in 3 groups).",
+    "对焦": "Fixed",
+    "快门速度": "1/125.",
+    "感光度": "100/200 and 400",
+    "电池": "2x AA battery",
+    "英文简介": "Basic fixed focus 35mm film compacts from Canon."
   },
   "images": [],
   "sources": [

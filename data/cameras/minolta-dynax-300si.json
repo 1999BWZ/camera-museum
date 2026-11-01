@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1995 年发布",
-  "description": "The Dynax 300si is a 35mm SLR camera manufactured by Minolta and released in 1995.",
+  "description": "美能达于1995年推出的数码单反相机。快门速度Focal plane shutter with speeds from 30sec to 1/2000sec, 1 fps。使用35mm film with speeds of 25 to 5000 ISO, with auto DX (25 to 1000 ISO for flash photography)。CCD TTL phase detection autofocus with AF illuminator.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 300si"
+    "Camera-wiki": "Minolta Dynax 300si",
+    "卡口": "Minolta AF mount",
+    "胶片/画幅": "35mm film with speeds of 25 to 5000 ISO, with auto DX (25 to 1000 ISO for flash photography)",
+    "曝光测光": "TTL, 8 segment silicon photo cell.",
+    "对焦": "CCD TTL phase detection autofocus with AF illuminator.",
+    "闪光灯": "Guide number 12",
+    "快门": "Focal plane shutter with speeds from 30sec to 1/2000sec, 1 fps",
+    "取景器": "Pentamirror",
+    "电池": "1x 2CR5 6V Lithium battery",
+    "尺寸": "147 × 101 × 68mm",
+    "重量": "380g",
+    "英文简介": "The Dynax 300si is a 35mm SLR camera manufactured by Minolta and released in 1995."
   },
   "images": [],
   "sources": [

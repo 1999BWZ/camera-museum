@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2011 年发布",
-  "description": "The Lumix GF3 is a Micro Four Thirds based digital system camera introduced in 2011 by Panasonic.",
+  "description": "松下于2011年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-GF3"
+    "Camera-wiki": "Panasonic Lumix DMC-GF3",
+    "英文简介": "The Lumix GF3 is a Micro Four Thirds based digital system camera introduced in 2011 by Panasonic."
   },
   "images": [],
   "sources": [

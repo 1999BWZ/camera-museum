@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2019 年发布",
-  "description": "The EOS M50 (named the EOS Kiss M in Japan) is a mirrorless interchangeable-lens camera (MILC) with a 24.2-million pixel APS-C CMOS sensor, made by Canon in 2018.",
+  "description": "佳能于2019年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS M50"
+    "Camera-wiki": "Canon EOS M50",
+    "重量": "387g",
+    "英文简介": "The EOS M50 (named the EOS Kiss M in Japan) is a mirrorless interchangeable-lens camera (MILC) with a 24.2-million pixel APS-C CMOS sensor, made by Canon in 2018."
   },
   "images": [],
   "sources": [

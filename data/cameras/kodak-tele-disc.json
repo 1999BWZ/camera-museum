@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1985 年发布",
-  "description": "The Kodak Tele Disc combined the short-lived fad for disc film cameras with the decidedly much longer lived fad for cameras with a \"tele\" mode.",
+  "description": "柯达于1985年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Tele Disc"
+    "Camera-wiki": "Kodak Tele Disc",
+    "英文简介": "The Kodak Tele Disc combined the short-lived fad for disc film cameras with the decidedly much longer lived fad for cameras with a \"tele\" mode."
   },
   "images": [],
   "sources": [

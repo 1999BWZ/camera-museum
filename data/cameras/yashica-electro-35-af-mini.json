@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1989 年发布",
-  "description": "The Yashica Electro 35 AF-mini was a 35mm compact camera from Kyocera that utilized the name of a series of classic rangefinders, but was a small plastic camera with autofocus.",
+  "description": "雅西卡于1989年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Electro 35 AF-mini"
+    "Camera-wiki": "Yashica Electro 35 AF-mini",
+    "尺寸": "52.5×118×69mm",
+    "重量": "230g",
+    "英文简介": "The Yashica Electro 35 AF-mini was a 35mm compact camera from Kyocera that utilized the name of a series of classic rangefinders, but was a small plastic camera with autofocus."
   },
   "images": [],
   "sources": [

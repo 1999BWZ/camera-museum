@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun盒式相机，1961 年发布",
-  "description": "The Paxiflash is a plastic box camera for 4&times;4 cm pictures on 127 film, made by the German company Braun c.1961.",
+  "description": "Braun于1961年推出的盒式相机。配备Color 50mm f/??. Fixfocus 2m till infinity.。快门速度Everset type leaf shutter, single speed.。使用12 exp. 4x4 on 127 film.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Paxiflash"
+    "Camera-wiki": "Paxiflash",
+    "胶片/画幅": "12 exp. 4x4 on 127 film.",
+    "快门": "Everset type leaf shutter, single speed.",
+    "镜头": "Color 50mm f/??. Fixfocus 2m till infinity.",
+    "取景器": "Newton type",
+    "英文简介": "The Paxiflash is a plastic box camera for 4&times;4 cm pictures on 127 film, made by the German company Braun c.1961."
   },
   "images": [],
   "sources": [

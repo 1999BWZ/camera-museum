@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Detective cameras胶片相机，1889 年发布",
-  "description": "The Demon is a detective camera introduced in 1889.",
+  "description": "Detective cameras于1889年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Demon"
+    "Camera-wiki": "Demon",
+    "英文简介": "The Demon is a detective camera introduced in 1889."
   },
   "images": [],
   "sources": [

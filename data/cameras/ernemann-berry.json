@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1904 年发布",
-  "description": "The Berry is a budget-priced Reisekamera(tailboard camera) made by Ernemann in the early years of the twentieth century.Catalogue [http://www.cineressources.net/consultationPdf/web/o000/256.pdf Ernemann Cameras sind die Besten; Anleitung; Liste No.",
+  "description": "Ernemann于1904年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Berry"
+    "Camera-wiki": "Berry",
+    "英文简介": "The Berry is a budget-priced Reisekamera(tailboard camera) made by Ernemann in the early years of the twentieth century.Catalogue [http://www.cineressources.net/consultationPdf/web/o000/256.pdf Ernemann Cameras sind die Besten; Anleitung; Liste No."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus取景器相机，1937 年发布",
-  "description": "Like the Argus A but with an adjustable lens to provide full focusing abilities (1.25 feet to infinity).",
+  "description": "Argus于1937年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus AF"
+    "Camera-wiki": "Argus AF",
+    "英文简介": "Like the Argus A but with an adjustable lens to provide full focusing abilities (1.25 feet to infinity)."
   },
   "images": [],
   "sources": [

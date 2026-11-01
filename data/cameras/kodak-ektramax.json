@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1978 年发布",
-  "description": "Kodak Ektramax is a camera for 110 film.",
+  "description": "柯达于1978年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Ektramax"
+    "Camera-wiki": "Kodak Ektramax",
+    "英文简介": "Kodak Ektramax is a camera for 110 film."
   },
   "images": [],
   "sources": [

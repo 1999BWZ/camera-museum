@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1996 年发布",
-  "description": "Released in 1996, the Prima Super 135 (Sureshot Z135 in America) is an advanced compact autofocus camera by Canon.",
+  "description": "佳能于1996年推出的数码单反相机。配备38–135mm f/3,6–8,9 (10 elements, 9 groups)。使用1 fps (normal/action mode) and 0,8 fps (silent mode).。感光度EV 9,6 (1/60, f/3,6) – EV 18 (1/1200, f/15)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot Z135/Prima Super 135/Autoboy S (Super) II"
+    "Camera-wiki": "Canon Sure Shot Z135/Prima Super 135/Autoboy S (Super) II",
+    "镜头": "38–135mm f/3,6–8,9 (10 elements, 9 groups)",
+    "感光度": "EV 9,6 (1/60, f/3,6) – EV 18 (1/1200, f/15)",
+    "取景器": "Real-image zoom viewfinder. 0,46x (at 38mm) – 1,44x (at 135mm) Coverage 84 %.",
+    "胶片/画幅": "1 fps (normal/action mode) and 0,8 fps (silent mode).",
+    "重量": "133 x 70 x 65 mm, 375 g (with batteries)",
+    "尺寸": "133 x 70 x 65 mm",
+    "英文简介": "Released in 1996, the Prima Super 135 (Sureshot Z135 in America) is an advanced compact autofocus camera by Canon."
   },
   "images": [],
   "sources": [

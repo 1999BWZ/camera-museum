@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片单反相机，1976 年发布",
-  "description": "The Topcon RE 300 is a manual focus 35mm SLR from Tōkyō Kōgaku.",
+  "description": "Topcon于1976年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon RE 300"
+    "Camera-wiki": "Topcon RE 300",
+    "英文简介": "The Topcon RE 300 is a manual focus 35mm SLR from Tōkyō Kōgaku."
   },
   "images": [],
   "sources": [

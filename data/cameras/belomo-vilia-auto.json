@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1973 年发布",
-  "description": "The Vilia-Auto compact camera was produced by the Soviet company BelOMO of Minsk in Soviet Belorussia.",
+  "description": "BelOMO于1973年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vilia-Auto"
+    "Camera-wiki": "Vilia-Auto",
+    "英文简介": "The Vilia-Auto compact camera was produced by the Soviet company BelOMO of Minsk in Soviet Belorussia."
   },
   "images": [],
   "sources": [

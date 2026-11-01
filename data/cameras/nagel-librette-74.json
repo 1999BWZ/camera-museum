@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nagel折叠相机，1930 年发布",
-  "description": "Nagel Librette 74 is a Folding bed film camera, and manufactured by Nagel Werke, Stuttgart, Germany produced between 1930-33",
+  "description": "Nagel于1930年推出的折叠相机。配备Nagel-Anastigmat 105mm f/4.5, the front element of the lens has screw mount, Aperture: f/4.5-f/25,。快门速度Ibsor leaf shutter, speeds: 1-1/125 + B&T, (DRP marking on front of the lens-shutter barrel), setting: dial on top of the lens-shutter barrel。使用120 film roll, 6x9cm。bellows focusing, distance scale and lever on the right inside of the front cover; Focus range: 1.2-10m +inf.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nagel Librette 74"
+    "Camera-wiki": "Nagel Librette 74",
+    "胶片/画幅": "120 film roll, 6x9cm",
+    "镜头": "Nagel-Anastigmat 105mm f/4.5, the front element of the lens has screw mount, Aperture: f/4.5-f/25,",
+    "对焦": "bellows focusing, distance scale and lever on the right inside of the front cover; Focus range: 1.2-10m +inf.",
+    "快门": "Ibsor leaf shutter, speeds: 1-1/125 + B&T, (DRP marking on front of the lens-shutter barrel), setting: dial on top of the lens-shutter barrel",
+    "取景器": "** Waist level brilliant finder, turning 90 degrees to left on its own axis for landscape pictures, w/ a red spirit level",
+    "英文简介": "Nagel Librette 74 is a Folding bed film camera, and manufactured by Nagel Werke, Stuttgart, Germany produced between 1930-33"
   },
   "images": [],
   "sources": [

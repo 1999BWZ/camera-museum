@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1969 年发布",
-  "description": "The Revere 3M Automatic 1064 is a Kodapak film camera made by Minolta for 3M using the Revere label.",
+  "description": "美能达于1969年推出的胶片相机。配备Rokkor 1:8/38mm, fixed focusing。快门速度speeds 1/45 sec (flash) or 1/90 sec.。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revere 3M Automatic 1064"
+    "Camera-wiki": "Revere 3M Automatic 1064",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "Rokkor 1:8/38mm, fixed focusing",
+    "取景器": "optical",
+    "快门": "speeds 1/45 sec (flash) or 1/90 sec.",
+    "闪光灯": "flashcubes",
+    "英文简介": "The Revere 3M Automatic 1064 is a Kodapak film camera made by Minolta for 3M using the Revere label."
   },
   "images": [],
   "sources": [

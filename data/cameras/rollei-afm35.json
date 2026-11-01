@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，2002 年发布",
-  "description": "The AFM35 is a compact 35 mm camera distributed by Rollei.",
+  "description": "禄来于2002年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei AFM35"
+    "Camera-wiki": "Rollei AFM35",
+    "英文简介": "The AFM35 is a compact 35 mm camera distributed by Rollei."
   },
   "images": [],
   "sources": [

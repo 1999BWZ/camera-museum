@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1978 年发布",
-  "description": "The Agfa Optima Sensor Electronic 335 is the base model of the range of Optima Sensor Electronic Series cameras introduced by Agfa in 1978s (not to be confused with the Agfa optima sensor range of 1969).",
+  "description": "爱克发于1978年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima Sensor 335"
+    "Camera-wiki": "Optima Sensor 335",
+    "英文简介": "The Agfa Optima Sensor Electronic 335 is the base model of the range of Optima Sensor Electronic Series cameras introduced by Agfa in 1978s (not to be confused with the Agfa optima sensor range of 1969)."
   },
   "images": [],
   "sources": [

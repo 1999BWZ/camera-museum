@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sports取景器相机，1932 年发布",
-  "description": "The Baby Sport (ベビースポーツ) is a Japanese camera taking 3×4cm pictures on 127 film.",
+  "description": "Sports于1932年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Sport"
+    "Camera-wiki": "Baby Sport",
+    "英文简介": "The Baby Sport (ベビースポーツ) is a Japanese camera taking 3×4cm pictures on 127 film."
   },
   "images": [],
   "sources": [

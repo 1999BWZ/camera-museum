@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚中画幅相机，1974 年发布",
-  "description": "Like the Mamiya MSX series, the Mamiya DSX also came in DSX 500 or DSX 1000 models, the number corresponding to the top shutter speed.",
+  "description": "玛米亚于1974年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya DSX 1000"
+    "Camera-wiki": "Mamiya DSX 1000",
+    "英文简介": "Like the Mamiya MSX series, the Mamiya DSX also came in DSX 500 or DSX 1000 models, the number corresponding to the top shutter speed."
   },
   "images": [],
   "sources": [

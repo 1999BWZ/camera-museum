@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2008 年发布",
-  "description": "尼康于2008年发布的数码单反相机。",
+  "description": "尼康于2008年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electronically-controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1048177",
-    "多语言词条数": "23"
+    "多语言词条数": "23",
+    "传感器": "23.6 mm × 15.8 mm Nikon DX format RGB CMOS sensor, 1.5 × FOV crop",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically-controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL 3D Color Matrix Metering II metering with a 420-pixel RGB sensor",
+    "取景器": "Optical 0.94× Pentaprism",
+    "闪光灯": "Built in Pop-up, Guide number 13m at ISO 100, Standard ISO hot shoe, Compatible with the Nikon Creative Lighting System, featuring commander mode for wireless setups"
   },
   "images": [
     {

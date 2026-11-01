@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GOMZ胶片单反相机，1937 年发布",
-  "description": "The Sport (Cyrillic: \"Спорт\") is one of the two earliest SLR cameras using the 35mm film format, made by the Soviet camera manufacturer GOMZ, the other being the German Ihagee Kine Exakta.",
+  "description": "GOMZ于1937年推出的胶片单反相机。配备Industar-10 1:3.5/50mm。快门速度Opening blade attached to the mirror; closing blade is a metal blade in the focal plane; speeds from 1/25 to 1/500 sec. Shutter cocked by advancing the film.。使用35mm in special cartridges taking 2m, enough for 50 exposures of 24×36mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sport (SLR)"
+    "Camera-wiki": "Sport (SLR)",
+    "胶片/画幅": "35mm in special cartridges taking 2m, enough for 50 exposures of 24×36mm",
+    "镜头": "Industar-10 1:3.5/50mm",
+    "卡口": "special focusing bayonet",
+    "快门": "Opening blade attached to the mirror; closing blade is a metal blade in the focal plane; speeds from 1/25 to 1/500 sec. Shutter cocked by advancing the film.",
+    "取景器": "SLR, looking into the finder at the top, and a direct vision optical viewfinder",
+    "尺寸": "133 ×103 ×68mm",
+    "重量": "750g (with lens and one empty cassette)",
+    "英文简介": "The Sport (Cyrillic: \"Спорт\") is one of the two earliest SLR cameras using the 35mm film format, made by the Soviet camera manufacturer GOMZ, the other being the German Ihagee Kine Exakta."
   },
   "images": [],
   "sources": [

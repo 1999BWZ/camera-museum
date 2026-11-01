@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2025 年发布",
-  "description": "The PowerShot V1 is a compact camera intended for vlogging, though it can also be used for still photographs.",
+  "description": "佳能于2025年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot V1"
+    "Camera-wiki": "Canon PowerShot V1",
+    "重量": "426g",
+    "英文简介": "The PowerShot V1 is a compact camera intended for vlogging, though it can also be used for still photographs."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1931 年发布",
-  "description": "The Billy I is a folding viewfinder camera for 2¼x3¼-inch pictures on 120 roll film, made by Agfa in the 1950s (first variant in 1950, another in 1952).",
+  "description": "爱克发于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Billy I"
+    "Camera-wiki": "Agfa Billy I",
+    "英文简介": "The Billy I is a folding viewfinder camera for 2¼x3¼-inch pictures on 120 roll film, made by Agfa in the 1950s (first variant in 1950, another in 1952)."
   },
   "images": [],
   "sources": [

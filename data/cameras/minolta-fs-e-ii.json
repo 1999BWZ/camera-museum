@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1987 年发布",
-  "description": "Minolta FS-E II (called Freedom 100 in America) is a fixed-focus compact camera, largely based on the AF-E II.",
+  "description": "美能达于1987年推出的取景器相机。配备35 mm f/4,5.。使用Automatic loading, advance and rewind. Continuous shooting mode available.。感光度1,5—3,2 m.。Fixed focus from 1,5 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta FS-E II"
+    "Camera-wiki": "Minolta FS-E II",
+    "镜头": "35 mm f/4,5.",
+    "对焦": "Fixed focus from 1,5 m to infinity.",
+    "闪光灯": "Built-in, automatically activated with ready-light in finder. Shutter locked while recharging.",
+    "感光度": "1,5—3,2 m.",
+    "曝光测光": "EV 9,6–16,2 with ISO 100 film. Narrow metering angle.",
+    "胶片/画幅": "Automatic loading, advance and rewind. Continuous shooting mode available.",
+    "尺寸": "129 x 69,5 x 47 mm.",
+    "重量": "210 g without batteries.",
+    "英文简介": "Minolta FS-E II (called Freedom 100 in America) is a fixed-focus compact camera, largely based on the AF-E II."
   },
   "images": [],
   "sources": [

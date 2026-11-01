@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1991 年发布",
-  "description": "{|class=floatright\n||\n \n|-\n||\n \n|}\n\nThe Kodak Star 735 is a fixed focus 35mm camera with a Glass lens and plastic body made in Brazil for Kodak.",
+  "description": "柯达于1991年推出的取景器相机。配备4.5 3 element Glass Kodak Ektanar Lens。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star 735"
+    "Camera-wiki": "Kodak Star 735",
+    "镜头": "4.5 3 element Glass Kodak Ektanar Lens",
+    "英文简介": "{|class=floatright\n||\n \n|-\n||\n \n|}\n\nThe Kodak Star 735 is a fixed focus 35mm camera with a Glass lens and plastic body made in Brazil for Kodak."
   },
   "images": [],
   "sources": [

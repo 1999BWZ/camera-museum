@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Meopta取景器相机，1950 年发布",
-  "description": "The Opema is a 24&times;32mm camera made by the Czech company Meopta in the 1950s.",
+  "description": "Meopta于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Opema"
+    "Camera-wiki": "Opema",
+    "英文简介": "The Opema is a 24&times;32mm camera made by the Czech company Meopta in the 1950s."
   },
   "images": [],
   "sources": [

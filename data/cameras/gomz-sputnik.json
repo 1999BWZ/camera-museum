@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GOMZ立体相机，1955 年发布",
-  "description": "== Background Information ==\n\nThe Sputnik is a medium format triple lens reflex stereo camera introduced around 1955.",
+  "description": "GOMZ于1955年推出的立体相机。配备2.8, viewfinder hood and lens; frame finder.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sputnik"
+    "Camera-wiki": "Sputnik",
+    "镜头": "2.8, viewfinder hood and lens; frame finder.",
+    "英文简介": "== Background Information ==\n\nThe Sputnik is a medium format triple lens reflex stereo camera introduced around 1955."
   },
   "images": [],
   "sources": [

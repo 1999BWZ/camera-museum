@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears取景器相机，1961 年发布",
-  "description": "Sears offered this oddly-styled, autoexposure 35mm camera with a built-in flash reflector in 1961, as the Tower 39 Automatic 35.",
+  "description": "Sears于1961年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tower 39"
+    "Camera-wiki": "Tower 39",
+    "英文简介": "Sears offered this oddly-styled, autoexposure 35mm camera with a built-in flash reflector in 1961, as the Tower 39 Automatic 35."
   },
   "images": [],
   "sources": [

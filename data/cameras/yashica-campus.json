@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1962 年发布",
-  "description": "The Yashica Campus is a 1962 rangefinder camera from Yashica, of the same generation as the Lynx 1000 and Minister II.",
+  "description": "雅西卡于1962年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Campus"
+    "Camera-wiki": "Yashica Campus",
+    "英文简介": "The Yashica Campus is a 1962 rangefinder camera from Yashica, of the same generation as the Lynx 1000 and Minister II."
   },
   "images": [],
   "sources": [

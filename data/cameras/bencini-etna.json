@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bencini折叠相机，1940 年发布",
-  "description": "The Etna is a viewfinder folder produced by the Italian company \"CMF\" which later changed its name to Bencini.",
+  "description": "Bencini于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Etna"
+    "Camera-wiki": "Etna",
+    "英文简介": "The Etna is a viewfinder folder produced by the Italian company \"CMF\" which later changed its name to Bencini."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1991 年发布",
-  "description": "The Olympus AZ210 Superzoom (aka the Infinity 210 and IZM210) is a bulky point and shoot zoom camera taking 35mm film.",
+  "description": "奥林巴斯于1991年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AZ-210 Super Zoom/Infinity Zoom 210/IZM 210 (QD)"
+    "Camera-wiki": "Olympus AZ-210 Super Zoom/Infinity Zoom 210/IZM 210 (QD)",
+    "英文简介": "The Olympus AZ210 Superzoom (aka the Infinity 210 and IZM210) is a bulky point and shoot zoom camera taking 35mm film."
   },
   "images": [],
   "sources": [

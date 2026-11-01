@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2009 年发布",
-  "description": "徕卡于2009年发布的旁轴相机。",
+  "description": "徕卡于2009年推出的旁轴相机。配备| shutter = Focal plane, metal curtains, vertical travel。快门速度32s to 1/4000s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q349975",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "image sensor, 6.8 μm pixel size",
+    "镜头": "| shutter = Focal plane, metal curtains, vertical travel",
+    "快门速度": "32s to 1/4000s",
+    "曝光测光": "TTL, center weighted averaging",
+    "闪光灯": "Fixed hot shoe",
+    "屏幕": "| storage = SD up to 2GB and SDHC up to 32GB",
+    "电池": "Lithium ion",
+    "重量": "with battery (M9) with battery (M9-P)"
   },
   "images": [
     {

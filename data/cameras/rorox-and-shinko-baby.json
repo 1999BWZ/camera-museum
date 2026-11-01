@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rorox取景器相机，1939 年发布",
-  "description": "The Rorox is a Japanese camera taking 3×4cm exposures on 127 film.",
+  "description": "Rorox于1939年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rorox and Shinko Baby"
+    "Camera-wiki": "Rorox and Shinko Baby",
+    "英文简介": "The Rorox is a Japanese camera taking 3×4cm exposures on 127 film."
   },
   "images": [],
   "sources": [

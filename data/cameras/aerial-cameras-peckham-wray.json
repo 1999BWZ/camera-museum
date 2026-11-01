@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aerial cameras数码单反相机，1955 年发布",
-  "description": "The Peckham Wray Camera is an unusual SLR camera for 4x5-inch plates, made by the English maker Wray from 1955-62.",
+  "description": "Aerial cameras于1955年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Peckham Wray"
+    "Camera-wiki": "Peckham Wray",
+    "英文简介": "The Peckham Wray Camera is an unusual SLR camera for 4x5-inch plates, made by the English maker Wray from 1955-62."
   },
   "images": [],
   "sources": [

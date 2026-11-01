@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1935 年发布",
-  "description": "Because 35mm film originated as a stock for movie cameras, a large fraction of its width is taken up with sprocket holes—not a requirement in a stills camera.",
+  "description": "柯达于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Bantam"
+    "Camera-wiki": "Kodak Bantam",
+    "英文简介": "Because 35mm film originated as a stock for movie cameras, a large fraction of its width is taken up with sprocket holes—not a requirement in a stills camera."
   },
   "images": [],
   "sources": [

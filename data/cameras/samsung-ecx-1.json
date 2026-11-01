@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星便携相机，1994 年发布",
-  "description": "{|align=right\n||\n \n|-\n||\n \n|-\n||\n \n|-\n||\n \n|-\n|}\nThe Samsung ECX 1 is a 35mm auto focus point and shoot camera.",
+  "description": "三星于1994年推出的便携相机。配备38 to 140mm f3.8 to 10.5 zoom lens with 11 elements in 9 groups.。快门速度electronic AE, 1/3 to 1/400s with Bulb 1 to 60sec.。使用135, 35mm DX。感光度Auto DX, 50 to 3200 ISO。Auto focus 0.6m to inf; Macro 0.6 to 1.3m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samsung ECX 1"
+    "Camera-wiki": "Samsung ECX 1",
+    "胶片/画幅": "135, 35mm DX",
+    "尺寸": "24 x 36mm or 13 x 36mm in panorama mode",
+    "镜头": "38 to 140mm f3.8 to 10.5 zoom lens with 11 elements in 9 groups.",
+    "快门": "electronic AE, 1/3 to 1/400s with Bulb 1 to 60sec.",
+    "对焦": "Auto focus 0.6m to inf; Macro 0.6 to 1.3m",
+    "曝光测光": "Auto exposure. 38mm 5.4 to 17.6 EV; 140mm 8.2 to 17.6EV",
+    "取景器": "80% field of view with .37 to 1.36 manification",
+    "感光度": "Auto DX, 50 to 3200 ISO",
+    "闪光灯": "electronic: Auto, fill, off, pre-flash.",
+    "自拍": "single, double, remote",
+    "重量": "450g (wo batteries)",
+    "英文简介": "{|align=right\n||\n \n|-\n||\n \n|-\n||\n \n|-\n||\n \n|-\n|}\nThe Samsung ECX 1 is a 35mm auto focus point and shoot camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，1969 年发布",
-  "description": "The Pentax 6×7, and later the Pentax 67 and Pentax 67II, are streamlined SLR medium format camera systems introduced in 1969 with the original Pentax 6×7 and discontinued in 2009 with the Pentax 67II.",
+  "description": "宾得于1969年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax 67"
+    "Camera-wiki": "Pentax 67",
+    "英文简介": "The Pentax 6×7, and later the Pentax 67 and Pentax 67II, are streamlined SLR medium format camera systems introduced in 1969 with the original Pentax 6×7 and discontinued in 2009 with the Pentax 67II."
   },
   "images": [],
   "sources": [

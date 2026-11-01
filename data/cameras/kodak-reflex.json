@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1948 年发布",
-  "description": "__NOTOC__ \nIn 1946 Kodak presented a new TLR with a cast-aluminum body, and a geared pair of Kodak Anastar (Anastigmat) 80mm lenses, the Kodak Reflex.",
+  "description": "柯达于1948年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Reflex"
+    "Camera-wiki": "Kodak Reflex",
+    "英文简介": "__NOTOC__ \nIn 1946 Kodak presented a new TLR with a cast-aluminum body, and a geared pair of Kodak Anastar (Anastigmat) 80mm lenses, the Kodak Reflex."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2002 年发布",
-  "description": "The Sony Mavica MVC-CD400 (as this camera was formally known) is a 4 megapixel model from 2002 with a Carl Zeiss-branded 3&times; zoom lens.",
+  "description": "索尼于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica CD400"
+    "Camera-wiki": "Sony Mavica CD400",
+    "英文简介": "The Sony Mavica MVC-CD400 (as this camera was formally known) is a 4 megapixel model from 2002 with a Carl Zeiss-branded 3&times; zoom lens."
   },
   "images": [],
   "sources": [

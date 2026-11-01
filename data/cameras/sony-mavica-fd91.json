@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，1998 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe MVC-FD91 from Sony was the top-end model in the second generation of digital Mavica cameras, introduced in 1998 along with the Mavica FD71 and FD81.",
+  "description": "索尼于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD91"
+    "Camera-wiki": "Sony Mavica FD91",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe MVC-FD91 from Sony was the top-end model in the second generation of digital Mavica cameras, introduced in 1998 along with the Mavica FD71 and FD81."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1999 年发布",
-  "description": "The Nikon AF240SV (aka Fun•Touch 6) is a compact camera with autofocus introduced by Nikon in 1999[https://web.archive.org/web/20110415055503/https://imaging.nikon.com/lineup/filmcamera/compact/af240sv_sv_qd/index.htm AF240SV / SV QD (Fun•Touch 6) in the Nikon Archives] (archived).",
+  "description": "尼康于1999年推出的便携相机。配备Fixed 28mm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon AF240SV/Fun•Touch 6 (QD)"
+    "Camera-wiki": "Nikon AF240SV/Fun•Touch 6 (QD)",
+    "镜头": "Fixed 28mm.",
+    "英文简介": "The Nikon AF240SV (aka Fun•Touch 6) is a compact camera with autofocus introduced by Nikon in 1999[https://web.archive.org/web/20110415055503/https://imaging.nikon.com/lineup/filmcamera/compact/af240sv_sv_qd/index.htm AF240SV / SV QD (Fun•Touch 6) in the Nikon Archives] (archived)."
   },
   "images": [],
   "sources": [

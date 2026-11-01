@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下取景器相机，1985 年发布",
-  "description": "The C-300EF is a 35mm compact camera manufactured by Panasonic.",
+  "description": "松下于1985年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic C-300EF"
+    "Camera-wiki": "Panasonic C-300EF",
+    "英文简介": "The C-300EF is a 35mm compact camera manufactured by Panasonic."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1994 年发布",
-  "description": "Kodak Star 1075z is a cheap compact camera with a (very basic) zoom lens not usually find in its price class.",
+  "description": "柯达于1994年推出的便携相机。配备38–60 mm f/4,3–6,4 (4 elements/4 groups with one aspheric element)。快门速度1/40–1/500 s. Electronic self-timer.。感光度DX coded films from ISO 25–3200.。240 zone active autofocus, 0,6 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star 1075z"
+    "Camera-wiki": "Kodak Star 1075z",
+    "镜头": "38–60 mm f/4,3–6,4 (4 elements/4 groups with one aspheric element)",
+    "快门": "1/40–1/500 s. Electronic self-timer.",
+    "对焦": "240 zone active autofocus, 0,6 m to infinity.",
+    "曝光测光": "Programmed exposure from EV 6 (1/8 s, f/2,8) to EV 17 (1/430 s, f/17).",
+    "感光度": "DX coded films from ISO 25–3200.",
+    "闪光灯": "Built-in, flash range (ISO 100) 4 m (wide) 2,8 m (tele) Red-eye reduction.",
+    "英文简介": "Kodak Star 1075z is a cheap compact camera with a (very basic) zoom lens not usually find in its price class."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Press cameras胶片相机，1960 年发布",
-  "description": "The Weitwinkelkamera 65 is a medium-format press camera made in small numbersMcKeown estimates about 130 were made: p627.",
+  "description": "Press cameras于1960年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Weitwinkelkamera 65"
+    "Camera-wiki": "Linhof Weitwinkelkamera 65",
+    "英文简介": "The Weitwinkelkamera 65 is a medium-format press camera made in small numbersMcKeown estimates about 130 were made: p627."
   },
   "images": [],
   "sources": [

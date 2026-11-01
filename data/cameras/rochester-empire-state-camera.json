@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rochester大画幅相机，1894 年发布",
-  "description": "The Empire State Camera is a view camera for plates, made from mahogany wood.",
+  "description": "Rochester于1894年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Empire State Camera"
+    "Camera-wiki": "Empire State Camera",
+    "英文简介": "The Empire State Camera is a view camera for plates, made from mahogany wood."
   },
   "images": [],
   "sources": [

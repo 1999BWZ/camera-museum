@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码相机，1998 年发布",
-  "description": "The Digilux was the earliest digital camera offered by Leica, in very limited numbers, dating from 1998.",
+  "description": "徕卡于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica Digilux"
+    "Camera-wiki": "Leica Digilux",
+    "英文简介": "The Digilux was the earliest digital camera offered by Leica, in very limited numbers, dating from 1998."
   },
   "images": [],
   "sources": [

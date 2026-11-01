@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1963 年发布",
-  "description": "The Voigtländer Vitoret F was another version in the Vitoret model line that was produced between 1963 - 1969.",
+  "description": "Voigtländer于1963年推出的取景器相机。配备Lanthar f/2.8 50mm or Color Lanthar f/2.8 50mm。快门速度Prontor 125。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitoret F"
+    "Camera-wiki": "Vitoret F",
+    "胶片/画幅": "35mm",
+    "镜头": "Lanthar f/2.8 50mm or Color Lanthar f/2.8 50mm",
+    "快门": "Prontor 125",
+    "闪光灯": "Accessory Shoe or AG-1",
+    "英文简介": "The Voigtländer Vitoret F was another version in the Vitoret model line that was produced between 1963 - 1969."
   },
   "images": [],
   "sources": [

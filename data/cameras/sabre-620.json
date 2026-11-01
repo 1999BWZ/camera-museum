@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sabre盒式相机，1956 年发布",
-  "description": "The Sabre 620 is a simple plastic box camera for 620 film.",
+  "description": "Sabre于1956年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sabre 620"
+    "Camera-wiki": "Sabre 620",
+    "英文简介": "The Sabre 620 is a simple plastic box camera for 620 film."
   },
   "images": [],
   "sources": [

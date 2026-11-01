@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1980 年发布",
-  "description": "The Kodak Ektra 250 is a camera for 110 film.",
+  "description": "柯达于1980年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Ektra 250"
+    "Camera-wiki": "Kodak Ektra 250",
+    "英文简介": "The Kodak Ektra 250 is a camera for 110 film."
   },
   "images": [],
   "sources": [

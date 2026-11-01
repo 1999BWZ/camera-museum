@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1990 年发布",
-  "description": "The Star 235 is a compact camera introduced by Kodak in 1990.",
+  "description": "柯达于1990年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star 235"
+    "Camera-wiki": "Kodak Star 235",
+    "英文简介": "The Star 235 is a compact camera introduced by Kodak in 1990."
   },
   "images": [],
   "sources": [

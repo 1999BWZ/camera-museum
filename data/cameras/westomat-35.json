@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Westomat取景器相机，1956 年发布",
-  "description": "The Westomat 35 is a 35mm viewfinder camera made by Taisei Kōki c.1956.",
+  "description": "Westomat于1956年推出的取景器相机。快门速度1/25-1/200 + B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Westomat 35"
+    "Camera-wiki": "Westomat 35",
+    "快门": "1/25-1/200 + B",
+    "英文简介": "The Westomat 35 is a 35mm viewfinder camera made by Taisei Kōki c.1956."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spring motor取景器相机，1935 年发布",
-  "description": "The Robot was made by Otto Berning & Co.",
+  "description": "Spring motor于1935年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Robot"
+    "Camera-wiki": "Robot",
+    "英文简介": "The Robot was made by Otto Berning & Co."
   },
   "images": [],
   "sources": [

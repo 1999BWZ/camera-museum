@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1956 年发布",
-  "description": "The Kodak Signet 40 is a 35 mm rangefinder camera produced from 1956 to 1959 by Kodak in the USA.",
+  "description": "柯达于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Signet 40"
+    "Camera-wiki": "Kodak Signet 40",
+    "英文简介": "The Kodak Signet 40 is a 35 mm rangefinder camera produced from 1956 to 1959 by Kodak in the USA."
   },
   "images": [],
   "sources": [

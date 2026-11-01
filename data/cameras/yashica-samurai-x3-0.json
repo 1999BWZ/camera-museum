@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1987 年发布",
-  "description": "The unusual Samurai series was begun by Kyocera in 1987 with the X3.0.",
+  "description": "雅西卡于1987年推出的胶片单反相机。配备Yashica Zoom Lens 1:3,5-4,3/25-75mm using 14 elements (filter thread: 49mm)。快门速度Electronic central shutter with speeds 2 to 1/500 sec.。使用35mm / 18×24mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Samurai X3.0"
+    "Camera-wiki": "Yashica Samurai X3.0",
+    "胶片/画幅": "35mm / 18×24mm",
+    "镜头": "Yashica Zoom Lens 1:3,5-4,3/25-75mm using 14 elements (filter thread: 49mm)",
+    "快门": "Electronic central shutter with speeds 2 to 1/500 sec.",
+    "电池": "6v lithium (2CR5)",
+    "英文简介": "The unusual Samurai series was begun by Kyocera in 1987 with the X3.0."
   },
   "images": [],
   "sources": [

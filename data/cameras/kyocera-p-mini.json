@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera全景相机，1990 年发布",
-  "description": "The P-mini is a fixed-focus point-and-shoot camera introduced by the Japanese manufacturer Kyocera in 1990.",
+  "description": "Kyocera于1990年推出的全景相机。配备Kyocera Lens 32mm f/3.5, 4 elements in 3 groups。快门速度1/60 sec. and 1/125 sec. (two speeds)。感光度ISO 100 ~ 400 (DX-code system)。Fixed-focus with infinity focus facility。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera P-mini"
+    "Camera-wiki": "Kyocera P-mini",
+    "镜头": "Kyocera Lens 32mm f/3.5, 4 elements in 3 groups",
+    "对焦": "Fixed-focus with infinity focus facility",
+    "快门": "1/60 sec. and 1/125 sec. (two speeds)",
+    "取景器": "Albada-type",
+    "感光度": "ISO 100 ~ 400 (DX-code system)",
+    "闪光灯": "Fully-automatic, w/o flash-off facility",
+    "尺寸": "119 mm X 64 mm X 47 mm",
+    "重量": "205 g (without batteries)",
+    "英文简介": "The P-mini is a fixed-focus point-and-shoot camera introduced by the Japanese manufacturer Kyocera in 1990."
   },
   "images": [],
   "sources": [

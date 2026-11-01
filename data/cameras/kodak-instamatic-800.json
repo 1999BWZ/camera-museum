@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1964 年发布",
-  "description": "When introduced in 1964, the Instamatic 800 was the highest-spec model in the Instamatic series of cameras for 126 film cartridges from Kodak.",
+  "description": "柯达于1964年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 800"
+    "Camera-wiki": "Kodak Instamatic 800",
+    "英文简介": "When introduced in 1964, the Instamatic 800 was the highest-spec model in the Instamatic series of cameras for 126 film cartridges from Kodak."
   },
   "images": [],
   "sources": [

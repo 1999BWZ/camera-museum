@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1969 年发布",
-  "description": "The Polaroid Colorpack II was a rigid plastic bodied instant camera, made between 1969-1972.",
+  "description": "宝丽来于1969年推出的一次成像相机。配备114mm, f/9.2 3-element coated glass or uncoated plastic.。快门速度Electronic; range about 10s-1/500s。使用Peel-apart 100-Series Land Pack Films (discontinued) or Fujifilm FP-100C (still manufactured).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Colorpack II"
+    "Camera-wiki": "Polaroid Colorpack II",
+    "胶片/画幅": "Peel-apart 100-Series Land Pack Films (discontinued) or Fujifilm FP-100C (still manufactured).",
+    "镜头": "114mm, f/9.2 3-element coated glass or uncoated plastic.",
+    "快门": "Electronic; range about 10s-1/500s",
+    "英文简介": "The Polaroid Colorpack II was a rigid plastic bodied instant camera, made between 1969-1972."
   },
   "images": [],
   "sources": [

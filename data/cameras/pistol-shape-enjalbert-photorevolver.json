@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pistol shape胶片相机，1882 年发布",
-  "description": "Theophile-Ernest Enjalbert produced a camera in the shape of a revolver in Paris, France, c.",
+  "description": "Pistol shape于1882年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Enjalbert Photorevolver"
+    "Camera-wiki": "Enjalbert Photorevolver",
+    "英文简介": "Theophile-Ernest Enjalbert produced a camera in the shape of a revolver in Paris, France, c."
   },
   "images": [],
   "sources": [

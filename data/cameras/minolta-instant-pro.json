@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达一次成像相机，1990 年发布",
-  "description": "Introduced in 1990, the Minolta Instant Pro was very similar to the Polaroid Spectra Pro, and uses Polaroid Spectra film.",
+  "description": "美能达于1990年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Instant Pro"
+    "Camera-wiki": "Minolta Instant Pro",
+    "英文简介": "Introduced in 1990, the Minolta Instant Pro was very similar to the Polaroid Spectra Pro, and uses Polaroid Spectra film."
   },
   "images": [],
   "sources": [

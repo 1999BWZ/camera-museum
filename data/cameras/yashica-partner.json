@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1983 年发布",
-  "description": "The Yashica Partner is a cheap 35mm viewfinder camera made by or for Yashica in Hong Kong from about 1983 to 1986, also sold as the Perca Crest.",
+  "description": "雅西卡于1983年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Partner"
+    "Camera-wiki": "Yashica Partner",
+    "英文简介": "The Yashica Partner is a cheap 35mm viewfinder camera made by or for Yashica in Hong Kong from about 1983 to 1986, also sold as the Perca Crest."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron旁轴相机，1957 年发布",
-  "description": "McKeown's attests to a Taron 35 II from c.1957—which would fall logically between the Taron 35 and the Taron 35 III.",
+  "description": "Taron于1957年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron 35 II"
+    "Camera-wiki": "Taron 35 II",
+    "英文简介": "McKeown's attests to a Taron 35 II from c.1957—which would fall logically between the Taron 35 and the Taron 35 III."
   },
   "images": [],
   "sources": [

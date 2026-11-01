@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1987 年发布",
-  "description": "From the Kodak S-series point-and-shoot line, the S100EF featured a (plastic?) 35mm f/4.5 lens and 3 aperture settings.",
+  "description": "柯达于1987年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak S100"
+    "Camera-wiki": "Kodak S100",
+    "英文简介": "From the Kodak S-series point-and-shoot line, the S100EF featured a (plastic?) 35mm f/4.5 lens and 3 aperture settings."
   },
   "images": [],
   "sources": [

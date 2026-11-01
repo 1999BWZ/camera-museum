@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1953 年发布",
-  "description": "The Kodak Chevron is a 6&times;6cm coupled-rangefinder leaf-shutter camera for 620 film.",
+  "description": "柯达于1953年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Chevron"
+    "Camera-wiki": "Kodak Chevron",
+    "英文简介": "The Kodak Chevron is a 6&times;6cm coupled-rangefinder leaf-shutter camera for 620 film."
   },
   "images": [],
   "sources": [

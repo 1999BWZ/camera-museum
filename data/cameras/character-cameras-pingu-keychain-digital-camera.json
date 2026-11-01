@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Character cameras玩具相机，2026 年发布",
-  "description": "There are also several CCD-sensor character digital cameras, also by Martube, including one themed for Pingu.",
+  "description": "Character cameras于2026年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pingu keychain digital camera"
+    "Camera-wiki": "Pingu keychain digital camera",
+    "英文简介": "There are also several CCD-sensor character digital cameras, also by Martube, including one themed for Pingu."
   },
   "images": [],
   "sources": [

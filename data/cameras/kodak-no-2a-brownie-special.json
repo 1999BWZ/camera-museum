@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1933 年发布",
-  "description": "The Kodak 2A Brownie Special is an improved version of the normal No.",
+  "description": "柯达于1933年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 2A Brownie Special"
+    "Camera-wiki": "No. 2A Brownie Special",
+    "英文简介": "The Kodak 2A Brownie Special is an improved version of the normal No."
   },
   "images": [],
   "sources": [

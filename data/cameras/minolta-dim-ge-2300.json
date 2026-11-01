@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，2000 年发布",
-  "description": "This slow digital camera, the Minolta Dimâge 2300, is a taiwanese OEM product, badged as Minolta.",
+  "description": "美能达于2000年推出的数码相机。配备Minolta 8.2mm F3。Autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dimâge 2300"
+    "Camera-wiki": "Minolta Dimâge 2300",
+    "传感器": "1/1,75\" CCD with 2,300,000 pixels",
+    "镜头": "Minolta 8.2mm F3",
+    "对焦": "Autofocus",
+    "取景器": "optical bright frame finder of reverse Galilean type",
+    "闪光灯": "built-in",
+    "尺寸": "114×65×40 mm",
+    "重量": "300g (including 4 AA batteries)",
+    "英文简介": "This slow digital camera, the Minolta Dimâge 2300, is a taiwanese OEM product, badged as Minolta."
   },
   "images": [],
   "sources": [

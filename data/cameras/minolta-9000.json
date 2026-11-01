@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1985 年发布",
-  "description": "The Minolta 9000 was introduced in 1985 and was Minolta's first professional autofocus SLR.",
+  "description": "美能达于1985年推出的胶片单反相机。快门速度Focal plane shutter with speeds 30 sec. to 1/4000 sec.。使用DX-coded 35mm film with speeds from 6 to 6400 ASA。TTL phase detecting autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta 9000"
+    "Camera-wiki": "Minolta 9000",
+    "胶片/画幅": "DX-coded 35mm film with speeds from 6 to 6400 ASA",
+    "卡口": "Minolta AF-mount",
+    "对焦": "TTL phase detecting autofocus",
+    "快门": "Focal plane shutter with speeds 30 sec. to 1/4000 sec.",
+    "曝光测光": "TTL, center-weighted or spot-metering",
+    "闪光灯": "hot shoe for Minolta AF-flashes, TTL controlled operation, shutter synchronized for speed 1/60, 1/125 and 250 sec.",
+    "重量": "645 g",
+    "尺寸": "53×92×139mm",
+    "传感器": "2/3\" video CCD, resolution 640×480",
+    "英文简介": "The Minolta 9000 was introduced in 1985 and was Minolta's first professional autofocus SLR."
   },
   "images": [],
   "sources": [

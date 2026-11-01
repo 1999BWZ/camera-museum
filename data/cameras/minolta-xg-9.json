@@ -1,0 +1,40 @@
+{
+  "id": "minolta-xg-9",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "美能达",
+  "model": "XG 9",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1979 年发布",
+  "description": "美能达于1979年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q130240280",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minolta%20XG%209%20-%2002.jpg?width=800",
+      "caption": "XG 9",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q130240280"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Minolta XG 9",
+      "url": "https://www.wikidata.org/wiki/Q130240280"
+    }
+  ],
+  "qid": "Q130240280",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

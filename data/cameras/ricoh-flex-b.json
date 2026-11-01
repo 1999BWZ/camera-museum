@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1941 年发布",
-  "description": "The Ricohflex B (理光フレックスB型) is a Japanese 6×6 TLR made and sold by Riken Kōgaku Kōgyō in 1941 and 1942.",
+  "description": "理光于1941年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricohflex B"
+    "Camera-wiki": "Ricohflex B",
+    "英文简介": "The Ricohflex B (理光フレックスB型) is a Japanese 6×6 TLR made and sold by Riken Kōgaku Kōgyō in 1941 and 1942."
   },
   "images": [],
   "sources": [

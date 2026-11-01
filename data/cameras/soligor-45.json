@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Soligor取景器相机，1960 年发布",
-  "description": "The Soligor 45 is a Japanese 35mm viewfinder camera distributed by Allied Impex under the Soligor brand.",
+  "description": "Soligor于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Soligor 45"
+    "Camera-wiki": "Soligor 45",
+    "英文简介": "The Soligor 45 is a Japanese 35mm viewfinder camera distributed by Allied Impex under the Soligor brand."
   },
   "images": [],
   "sources": [

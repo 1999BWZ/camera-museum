@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1987 年发布",
-  "description": "The Pentax SFX (SF-1 in US), dating from 1987, was the world's first autofocus 35mm film SLR with built-in TTL auto flash.",
+  "description": "宾得于1987年推出的胶片单反相机。配备SMC Pentax 35-70mm zoom (with macro), max. aperture f/3.5.。快门速度B (up to 7 hours!) to 1/2000s. Flash sync at 1/100s.。AF single, AF servo and Manual. Autofocus in approx 0.3s. Minimum distance 0.7m. Spotbeam for low light to 4m.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax SFX (SF1)"
+    "Camera-wiki": "Pentax SFX (SF1)",
+    "曝光测光": "Programmed AE, aperture priority, shutter priority, metered manual. Metering range EV1-EV20 at ISO 100 with 50mm f/1.4 lens. Exposure compensation EV-4 to EV+4 in half steps.",
+    "快门速度": "B (up to 7 hours!) to 1/2000s. Flash sync at 1/100s.",
+    "卡口": "Pentax K-AF. (Can also accept all K-mount manual lenses, and M42 with an adaptor.)",
+    "镜头": "SMC Pentax 35-70mm zoom (with macro), max. aperture f/3.5.",
+    "对焦": "AF single, AF servo and Manual. Autofocus in approx 0.3s. Minimum distance 0.7m. Spotbeam for low light to 4m.",
+    "取景器": "Pentaprism with diopter adjustment. 92% field of view. Features LED for focus, exposure, shutter speed, flash readiness.",
+    "闪光灯": "guide number is 14m at ISO 100",
+    "重量": "665g (without battery).",
+    "英文简介": "The Pentax SFX (SF-1 in US), dating from 1987, was the world's first autofocus 35mm film SLR with built-in TTL auto flash."
   },
   "images": [],
   "sources": [

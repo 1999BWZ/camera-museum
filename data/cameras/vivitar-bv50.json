@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar取景器相机，1999 年发布",
-  "description": "The Vivitar BV50 dates from 1999,[https://web.archive.org/web/20000111200223/http://vivitar.com/pressrel/BV50pr.htm VIVITAR INTRODUCES BV50 35MM BIGVIEW CAMERA, Press Release], archived 11 January 2000 by Wayback Machine at Internet Archive.",
+  "description": "Vivitar于1999年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar BV50"
+    "Camera-wiki": "Vivitar BV50",
+    "英文简介": "The Vivitar BV50 dates from 1999,[https://web.archive.org/web/20000111200223/http://vivitar.com/pressrel/BV50pr.htm VIVITAR INTRODUCES BV50 35MM BIGVIEW CAMERA, Press Release], archived 11 January 2000 by Wayback Machine at Internet Archive."
   },
   "images": [],
   "sources": [

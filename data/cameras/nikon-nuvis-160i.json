@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1997 年发布",
-  "description": "The Nikon Nuvis 160i is a compact camera for the Advanced Photo System, introduced by Nikon in 1997.",
+  "description": "尼康于1997年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Nuvis 160i"
+    "Camera-wiki": "Nikon Nuvis 160i",
+    "英文简介": "The Nikon Nuvis 160i is a compact camera for the Advanced Photo System, introduced by Nikon in 1997."
   },
   "images": [],
   "sources": [

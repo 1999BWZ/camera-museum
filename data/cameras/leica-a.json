@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡取景器相机，1925 年发布",
-  "description": "The Leica I (A) was introduced in 1925.",
+  "description": "徕卡于1925年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica A"
+    "Camera-wiki": "Leica A",
+    "英文简介": "The Leica I (A) was introduced in 1925."
   },
   "images": [],
   "sources": [

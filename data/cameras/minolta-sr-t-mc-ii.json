@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1977 年发布",
-  "description": "The SR-T MC-II is a 35mm film SLR camera released by Minolta in 1977.",
+  "description": "美能达于1977年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-T MC-II"
+    "Camera-wiki": "Minolta SR-T MC-II",
+    "英文简介": "The SR-T MC-II is a 35mm film SLR camera released by Minolta in 1977."
   },
   "images": [],
   "sources": [

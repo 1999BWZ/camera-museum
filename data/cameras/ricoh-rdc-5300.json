@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，1999 年发布",
-  "description": "The Ricoh RDC-5300 has been introduced by Ricoh in 1999.",
+  "description": "理光于1999年推出的数码相机。配备f=8 - 24mm (equivalent to 38 - 114mm on 35mm camera format)。快门速度Mechanical, 1-1/500。Auto(TTL CCD AF)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RDC-5300"
+    "Camera-wiki": "Ricoh RDC-5300",
+    "镜头": "f=8 - 24mm (equivalent to 38 - 114mm on 35mm camera format)",
+    "光圈": "f3.2 - f3.7",
+    "变焦": "3x Optical",
+    "快门": "Mechanical, 1-1/500",
+    "对焦": "Auto(TTL CCD AF)",
+    "尺寸": "131.1 x 68.8 x 54 mm (5.2 x 2.7 x 2.1 in.) ( W x H x D )",
+    "重量": "Approx. 350g (12oz) (without battery)",
+    "英文简介": "The Ricoh RDC-5300 has been introduced by Ricoh in 1999."
   },
   "images": [],
   "sources": [

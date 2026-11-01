@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2012 年发布",
-  "description": "The Coolpix S6300 is a digital camera manufactured by Nikon and announced in 2012.",
+  "description": "尼康于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix S6300"
+    "Camera-wiki": "Nikon Coolpix S6300",
+    "英文简介": "The Coolpix S6300 is a digital camera manufactured by Nikon and announced in 2012."
   },
   "images": [],
   "sources": [

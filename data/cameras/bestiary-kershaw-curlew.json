@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary折叠相机，1950 年发布",
-  "description": "The Kershaw Eight-Twenty Curlew is a heavily-built folding camera taking eight 6x9cm exposures on 120 rollfilm.",
+  "description": "Bestiary于1950年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kershaw Curlew"
+    "Camera-wiki": "Kershaw Curlew",
+    "英文简介": "The Kershaw Eight-Twenty Curlew is a heavily-built folding camera taking eight 6x9cm exposures on 120 rollfilm."
   },
   "images": [],
   "sources": [

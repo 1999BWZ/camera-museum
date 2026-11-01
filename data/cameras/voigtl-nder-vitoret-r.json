@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer旁轴相机，1965 年发布",
-  "description": "The Voigtländer Vitoret R is another version of the Vitoret model line produced in 1965.",
+  "description": "Voigtländer于1965年推出的旁轴相机。配备Lanthar f/2.8 50mm。快门速度Prontor 125。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitoret R"
+    "Camera-wiki": "Vitoret R",
+    "胶片/画幅": "35mm",
+    "镜头": "Lanthar f/2.8 50mm",
+    "快门": "Prontor 125",
+    "闪光灯": "Accessory Shoe",
+    "英文简介": "The Voigtländer Vitoret R is another version of the Vitoret model line produced in 1965."
   },
   "images": [],
   "sources": [

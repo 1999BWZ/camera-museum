@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo胶片相机，1972 年发布",
-  "description": "The Viva 126 2000 is a plastic 126 cartridge camera made in France by Indo, from c.1972.",
+  "description": "Fex Indo于1972年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Viva 2000"
+    "Camera-wiki": "Viva 2000",
+    "英文简介": "The Viva 126 2000 is a plastic 126 cartridge camera made in France by Indo, from c.1972."
   },
   "images": [],
   "sources": [

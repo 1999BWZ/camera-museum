@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Seagull旁轴相机，1970 年发布",
-  "description": "The Seagull 203 is a rangefinder camera for rollfilm.",
+  "description": "Seagull于1970年推出的旁轴相机。配备S-111-2, 1:3.5/75mm。快门速度leaf shutter with speeds 1 sec. to 1/300 sec and selftimer.。使用roll film of type 120。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Seagull 203"
+    "Camera-wiki": "Seagull 203",
+    "胶片/画幅": "roll film of type 120",
+    "镜头": "S-111-2, 1:3.5/75mm",
+    "取景器": "optical viewfinder with superimposed coupled rangefinder",
+    "快门": "leaf shutter with speeds 1 sec. to 1/300 sec and selftimer.",
+    "光圈": "1:3.5 to 1:22",
+    "重量": "685 gram",
+    "英文简介": "The Seagull 203 is a rangefinder camera for rollfilm."
   },
   "images": [],
   "sources": [

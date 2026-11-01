@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2005 年发布",
-  "description": "The HP PhotoSmart M417 is a 2005 digital camera from Hewlett-Packard, with a 3x optical zoom and a 5.2 megapixel sensor.",
+  "description": "Hewlett-Packard于2005年推出的数码相机。配备Wide—f/2.91 to f/4.86 - Telephoto—f/4.86 to f/8.0。快门速度1/2000 to 2 seconds。使用JPEG & MPEG。有效像素5.2。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart M417"
+    "Camera-wiki": "HP PhotoSmart M417",
+    "像素": "5.2",
+    "胶片/画幅": "JPEG & MPEG",
+    "镜头": "Wide—f/2.91 to f/4.86 - Telephoto—f/4.86 to f/8.0",
+    "快门速度": "1/2000 to 2 seconds",
+    "变焦": "3x optical, 7x digital",
+    "英文简介": "The HP PhotoSmart M417 is a 2005 digital camera from Hewlett-Packard, with a 3x optical zoom and a 5.2 megapixel sensor."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1972 年发布",
-  "description": "The Minolta 16 QT was the last camera made for Minolta's 16mm film cartridges.",
+  "description": "美能达于1972年推出的胶片相机。配备Rokkor 1:3.5/23 mm with 3 elements, focusing 1.2m to infinity。快门速度Speeds 1/30 and 1/250 sec.。使用Minolta 16 mm film with speeds 50 to 400 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta 16 QT"
+    "Camera-wiki": "Minolta 16 QT",
+    "胶片/画幅": "Minolta 16 mm film with speeds 50 to 400 ASA",
+    "尺寸": "12×17mm",
+    "镜头": "Rokkor 1:3.5/23 mm with 3 elements, focusing 1.2m to infinity",
+    "快门": "Speeds 1/30 and 1/250 sec.",
+    "取景器": "optical with LED indicators for under and over exposure and shutter speed setting, symbols and indicator for zone-focusing and warning bar for camera shake.",
+    "电池": "1 3v. PX-30 or 2 1.5v PX-825 alkaline type batteries",
+    "重量": "150g",
+    "英文简介": "The Minolta 16 QT was the last camera made for Minolta's 16mm film cartridges."
   },
   "images": [],
   "sources": [

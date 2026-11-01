@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Gold折叠相机，1935 年发布",
-  "description": "The Gold plate folders are Japanese folding cameras taking 6.5×9cm pictures.",
+  "description": "Gold于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Gold plate folders"
+    "Camera-wiki": "Gold plate folders",
+    "英文简介": "The Gold plate folders are Japanese folding cameras taking 6.5×9cm pictures."
   },
   "images": [],
   "sources": [

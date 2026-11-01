@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Intreprinderea Optica Romana (IOR)取景器相机，1970 年发布",
-  "description": "The Orizont Optim-A viewfinder 35mm camera was made between 1970-1989, by Intreprinderea Optica Romana (IOR), the Romanian Optical Factory.",
+  "description": "Intreprinderea Optica Romana (IOR)于1970年推出的取景器相机。配备Fotoclar 500, 1:2,8 f=40mm。快门速度B, 1/30, 1/60, 1/125, 1/250, 1/500。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Orizont Optim-A"
+    "Camera-wiki": "Orizont Optim-A",
+    "镜头": "Fotoclar 500, 1:2,8 f=40mm",
+    "快门速度": "B, 1/30, 1/60, 1/125, 1/250, 1/500",
+    "英文简介": "The Orizont Optim-A viewfinder 35mm camera was made between 1970-1989, by Intreprinderea Optica Romana (IOR), the Romanian Optical Factory."
   },
   "images": [],
   "sources": [

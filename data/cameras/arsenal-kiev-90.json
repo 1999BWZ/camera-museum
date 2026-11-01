@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arsenal胶片单反相机，1983 年发布",
-  "description": "The Kiev 90 is an SLR camera for 4.5x6 cm exposures on 120 film, made briefly by the Arsenal in Kiev, Ukraine from about 1987.",
+  "description": "Arsenal于1983年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kiev 90"
+    "Camera-wiki": "Kiev 90",
+    "英文简介": "The Kiev 90 is an SLR camera for 4.5x6 cm exposures on 120 film, made briefly by the Arsenal in Kiev, Ukraine from about 1987."
   },
   "images": [],
   "sources": [

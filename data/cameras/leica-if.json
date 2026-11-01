@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1952 年发布",
-  "description": "The Leica If is a version of the Leica IIIf without a viewfinder, rangefinder or slow speeds.",
+  "description": "徕卡于1952年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica If"
+    "Camera-wiki": "Leica If",
+    "英文简介": "The Leica If is a version of the Leica IIIf without a viewfinder, rangefinder or slow speeds."
   },
   "images": [],
   "sources": [

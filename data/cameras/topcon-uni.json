@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片单反相机，1964 年发布",
-  "description": "The Topcon Uni 35mm SLR from Tokyo Kogaku released in 1964.",
+  "description": "Topcon于1964年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon Uni"
+    "Camera-wiki": "Topcon Uni",
+    "英文简介": "The Topcon Uni 35mm SLR from Tokyo Kogaku released in 1964."
   },
   "images": [],
   "sources": [

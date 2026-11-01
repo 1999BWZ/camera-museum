@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，2001 年发布",
-  "description": "The MZ-S was the flagship model of a range of 35mm SLRs with autofocus, and was introduced by Pentax in 2001.",
+  "description": "宾得于2001年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MZ-S"
+    "Camera-wiki": "Pentax MZ-S",
+    "英文简介": "The MZ-S was the flagship model of a range of 35mm SLRs with autofocus, and was introduced by Pentax in 2001."
   },
   "images": [],
   "sources": [

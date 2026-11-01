@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Meyer取景器相机，1925 年发布",
-  "description": "The Lunar is a 'night camera' for 4.5x6 cm plates, similar to the rigid version of the Ermanox, and of about the same age.",
+  "description": "Meyer于1925年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lunar"
+    "Camera-wiki": "Lunar",
+    "英文简介": "The Lunar is a 'night camera' for 4.5x6 cm plates, similar to the rigid version of the Ermanox, and of about the same age."
   },
   "images": [],
   "sources": [

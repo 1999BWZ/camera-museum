@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo取景器相机，1953 年发布",
-  "description": "The Semi Hobix is a Japanese 4.5&times;6 camera, made in 1953 and 1954 by Tougodo.",
+  "description": "Tougodo于1953年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Hobix"
+    "Camera-wiki": "Semi Hobix",
+    "英文简介": "The Semi Hobix is a Japanese 4.5&times;6 camera, made in 1953 and 1954 by Tougodo."
   },
   "images": [],
   "sources": [

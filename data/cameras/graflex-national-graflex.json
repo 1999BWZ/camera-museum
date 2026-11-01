@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲胶片单反相机，1933 年发布",
-  "description": "The National Graflex is a compact SLR camera made by Graflex from 1933.",
+  "description": "格拉菲于1933年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "National Graflex"
+    "Camera-wiki": "National Graflex",
+    "英文简介": "The National Graflex is a compact SLR camera made by Graflex from 1933."
   },
   "images": [],
   "sources": [

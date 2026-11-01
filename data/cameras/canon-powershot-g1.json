@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2001 年发布",
-  "description": "The Canon PowerShot G1 was Canon's first \"prosumer\" compact zoom model.",
+  "description": "佳能于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot G1"
+    "Camera-wiki": "Canon PowerShot G1",
+    "英文简介": "The Canon PowerShot G1 was Canon's first \"prosumer\" compact zoom model."
   },
   "images": [],
   "sources": [

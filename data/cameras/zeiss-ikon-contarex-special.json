@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon胶片单反相机，1960 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Contarex Special from Zeiss Ikon is a focal-plane shutter SLR launched in 1960, derived from the original Contarex I.",
+  "description": "Zeiss Ikon于1960年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contarex Special"
+    "Camera-wiki": "Contarex Special",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Contarex Special from Zeiss Ikon is a focal-plane shutter SLR launched in 1960, derived from the original Contarex I."
   },
   "images": [],
   "sources": [

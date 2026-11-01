@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco折叠相机，1931 年发布",
-  "description": "Ansco applied the name Readyset to a variety of simple folding rollfilm cameras throughout the company's existence.",
+  "description": "Ansco于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Readyset"
+    "Camera-wiki": "Ansco Readyset",
+    "英文简介": "Ansco applied the name Readyset to a variety of simple folding rollfilm cameras throughout the company's existence."
   },
   "images": [],
   "sources": [

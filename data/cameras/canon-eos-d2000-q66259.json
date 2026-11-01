@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1998 年发布",
-  "description": "佳能于1998年发布的数码单反相机。",
+  "description": "佳能于1998年推出的数码单反相机。配备Interchangeable。快门速度electronic focal plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q66259",
-    "多语言词条数": "8"
+    "多语言词条数": "8",
+    "传感器": "CCD, 1.6x crop factor (APS-C)",
+    "镜头": "Interchangeable",
+    "取景器": "Optical",
+    "存储": "340MB PCMCIA cards",
+    "快门速度": "electronic focal plane",
+    "曝光测光": "TTL, full aperture, zones",
+    "屏幕": "none",
+    "闪光灯": "Canon hotshoe",
+    "重量": "1650 g (body only)",
+    "电池": "Removable, rechargeable NiCD battery"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，1998 年发布",
-  "description": "The MVC-FD51 is a digital camera introduced in 1998 in the Mavica series from Sony.",
+  "description": "索尼于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD51"
+    "Camera-wiki": "Sony Mavica FD51",
+    "英文简介": "The MVC-FD51 is a digital camera introduced in 1998 in the Mavica series from Sony."
   },
   "images": [],
   "sources": [

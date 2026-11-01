@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron胶片相机，1943 年发布",
-  "description": "The Taroflex (タローフレックス) is a Japanese 6×6 TLR made by Nippon Kōsokki in 1943–4.",
+  "description": "Taron于1943年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taroflex"
+    "Camera-wiki": "Taroflex",
+    "英文简介": "The Taroflex (タローフレックス) is a Japanese 6×6 TLR made by Nippon Kōsokki in 1943–4."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1963 年发布",
-  "description": "The Agfa Parat family of cameras was introduced in 1963 with the basic Parat I and more advanced Paramat.",
+  "description": "爱克发于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Parat"
+    "Camera-wiki": "Parat",
+    "英文简介": "The Agfa Parat family of cameras was introduced in 1963 with the basic Parat I and more advanced Paramat."
   },
   "images": [],
   "sources": [

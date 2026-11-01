@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1964 年发布",
-  "description": "The Ricoh 35 Flex is a fixed-lens leaf shutter SLR camera produced by Ricoh in 1964[https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/35flex.html Ricoh 35 Flex page] at [https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/ Ricoh Film Camera list] (in J",
+  "description": "理光于1964年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 35 Flex"
+    "Camera-wiki": "Ricoh 35 Flex",
+    "英文简介": "The Ricoh 35 Flex is a fixed-lens leaf shutter SLR camera produced by Ricoh in 1964[https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/35flex.html Ricoh 35 Flex page] at [https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/ Ricoh Film Camera list] (in Japanese)."
   },
   "images": [],
   "sources": [

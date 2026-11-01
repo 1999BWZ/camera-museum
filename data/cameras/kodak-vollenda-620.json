@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1934 年发布",
-  "description": "The Kodak Vollenda 620 is a folding camera for 620 film.",
+  "description": "柯达于1934年推出的折叠相机。快门速度Compur T, B, 1-1/250。使用Roll film type 620, 8 frames 2¼x3¼ inch (6x9 cm)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Vollenda 620"
+    "Camera-wiki": "Kodak Vollenda 620",
+    "胶片/画幅": "Roll film type 620, 8 frames 2¼x3¼ inch (6x9 cm)",
+    "快门": "Compur T, B, 1-1/250",
+    "光圈": "f/4.5 - f/22",
+    "英文简介": "The Kodak Vollenda 620 is a folding camera for 620 film."
   },
   "images": [],
   "sources": [

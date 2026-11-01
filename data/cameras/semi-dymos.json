@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1935 年发布",
-  "description": "The Semi Dymos (セミダイモス) is a Japanese 4.5×6 folder, sold by Seibidō Advertisements reproduced in , p.78.",
+  "description": "Semi于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Dymos"
+    "Camera-wiki": "Semi Dymos",
+    "英文简介": "The Semi Dymos (セミダイモス) is a Japanese 4.5×6 folder, sold by Seibidō Advertisements reproduced in , p.78."
   },
   "images": [],
   "sources": [

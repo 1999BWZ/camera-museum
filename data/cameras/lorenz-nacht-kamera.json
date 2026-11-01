@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lorenz取景器相机，1926 年发布",
-  "description": "The Nacht Kamera is more-or-less a copy of Ernemann's Ermanox, made by Ernst Lorenz of Berlin in about 1926; a hand-held camera with a large-aperture lens of portrait length, and a focal plane shutter, designed to allow photography in poor light; both cameras' names refer to night-time.",
+  "description": "Lorenz于1926年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lorenz Nacht Kamera"
+    "Camera-wiki": "Lorenz Nacht Kamera",
+    "英文简介": "The Nacht Kamera is more-or-less a copy of Ernemann's Ermanox, made by Ernst Lorenz of Berlin in about 1926; a hand-held camera with a large-aperture lens of portrait length, and a focal plane shutter, designed to allow photography in poor light; both cameras' names refer to night-time."
   },
   "images": [],
   "sources": [

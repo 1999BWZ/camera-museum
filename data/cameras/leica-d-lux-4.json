@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码相机，2008 年发布",
-  "description": "The D-Lux 4 is a compact digital camera from Leica introduced in 2008.",
+  "description": "徕卡于2008年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica D-Lux 4"
+    "Camera-wiki": "Leica D-Lux 4",
+    "英文简介": "The D-Lux 4 is a compact digital camera from Leica introduced in 2008."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2001 年发布",
-  "description": "The Kodak Easyshare DX3215 is a digital point and shoot camera made by Kodak.",
+  "description": "柯达于2001年推出的便携相机。配备Kodak Ektanar 30-60mm。有效像素1.3。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Easyshare DX3215"
+    "Camera-wiki": "Kodak Easyshare DX3215",
+    "像素": "1.3",
+    "镜头": "Kodak Ektanar 30-60mm",
+    "变焦": "2x optical and 2x digital",
+    "英文简介": "The Kodak Easyshare DX3215 is a digital point and shoot camera made by Kodak."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ取景器相机，2000 年发布",
-  "description": "Russian company KMZ and Taiwan company Toptronic teamed together to produce some cheap 35mm film compact cameras.",
+  "description": "KMZ于2000年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 520"
+    "Camera-wiki": "Zenit 520",
+    "英文简介": "Russian company KMZ and Taiwan company Toptronic teamed together to produce some cheap 35mm film compact cameras."
   },
   "images": [],
   "sources": [

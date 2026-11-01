@@ -1,0 +1,40 @@
+{
+  "id": "kodak-easyshare-p850",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "伊士曼柯达公司",
+  "model": "EasyShare P850",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，2005 年发布",
+  "description": "柯达于2005年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889105",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak%20Easyshare%20P850.jpg?width=800",
+      "caption": "EasyShare P850",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889105"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Kodak EasyShare P850",
+      "url": "https://www.wikidata.org/wiki/Q20889105"
+    }
+  ],
+  "qid": "Q20889105",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

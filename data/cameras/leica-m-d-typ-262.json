@@ -13,11 +13,23 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2016 年发布",
-  "description": "徕卡于2016年发布的旁轴相机。",
+  "description": "徕卡于2016年推出的旁轴相机。配备Leica M-mount。快门速度| shutter_speeds =。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q76688901",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "镜头": "Leica M-mount",
+    "传感器": "CMOS",
+    "胶片/画幅": "| filmsize = ISO 200 to ISO 6400",
+    "对焦": "| fmode =",
+    "曝光测光": "| exbkt =",
+    "闪光灯": "| flashcomp =",
+    "快门速度": "| shutter_speeds =",
+    "取景器": "Large, bright, combined bright-line viewfinder with automatic parallax compensation",
+    "屏幕": "No LCD screen",
+    "电池": "1 lithium ion rechargeable battery, nominal voltage 7.4V",
+    "尺寸": "138.6 × 42 × 80 mm (5.45 × 1.65 × 3.15 in)",
+    "重量": "680 g (24 oz) (with battery)"
   },
   "images": [
     {

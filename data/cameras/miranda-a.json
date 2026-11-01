@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda胶片单反相机，1957 年发布",
-  "description": "The Miranda 35mm SLR camera developed very comprehensively over the twenty years of production.",
+  "description": "Miranda于1957年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda A"
+    "Camera-wiki": "Miranda A",
+    "英文简介": "The Miranda 35mm SLR camera developed very comprehensively over the twenty years of production."
   },
   "images": [],
   "sources": [

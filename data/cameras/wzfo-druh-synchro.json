@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "WZFO取景器相机，1956 年发布",
-  "description": "The Druh Synchro was a medium format camera made of bakelite by the Polish camera maker Warszawskie Zakłady Fotooptyczne (WZFO), it was advanced Druh with added PC sync port for flash and coldshoe.",
+  "description": "WZFO于1956年推出的取景器相机。配备Bilar 1:8/65mm。快门速度1/50 sec. or B。使用roll film of type No. 120。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Druh synchro"
+    "Camera-wiki": "Druh synchro",
+    "胶片/画幅": "roll film of type No. 120",
+    "镜头": "Bilar 1:8/65mm",
+    "快门速度": "1/50 sec. or B",
+    "光圈": "1:8 and 1:16",
+    "取景器": "optical",
+    "闪光灯": "Pc sync port with coldshoe",
+    "英文简介": "The Druh Synchro was a medium format camera made of bakelite by the Polish camera maker Warszawskie Zakłady Fotooptyczne (WZFO), it was advanced Druh with added PC sync port for flash and coldshoe."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，1983 年发布",
-  "description": "The Nikon FA is a 35mm manual focus SLR camera introduced in 1983.",
+  "description": "尼康于1983年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon FA"
+    "Camera-wiki": "Nikon FA",
+    "英文简介": "The Nikon FA is a 35mm manual focus SLR camera introduced in 1983."
   },
   "images": [],
   "sources": [

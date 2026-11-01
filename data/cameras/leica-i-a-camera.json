@@ -1,0 +1,40 @@
+{
+  "id": "leica-i-a-camera",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leitz",
+  "model": "I A camera",
+  "year": 2000,
+  "type": "scale_focus",
+  "type_cn": "估焦 135 相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡估焦 135 相机，2000 年发布",
+  "description": "徕卡于2000年发布的估焦 135 相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q113150271",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20I%20A%201926%20-%20Mus%C3%A9e%20des%20arts%20et%20m%C3%A9tiers.jpg?width=800",
+      "caption": "I A camera",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q113150271"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica I A camera",
+      "url": "https://www.wikidata.org/wiki/Q113150271"
+    }
+  ],
+  "qid": "Q113150271",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

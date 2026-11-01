@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1978 年发布",
-  "description": "The Fujica ST605 II, known as the \"Mark II\", was the last camera produced by Fuji to use the M42 derived screw lens mount.",
+  "description": "Fuji于1978年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica ST605 II"
+    "Camera-wiki": "Fujica ST605 II",
+    "英文简介": "The Fujica ST605 II, known as the \"Mark II\", was the last camera produced by Fuji to use the M42 derived screw lens mount."
   },
   "images": [],
   "sources": [

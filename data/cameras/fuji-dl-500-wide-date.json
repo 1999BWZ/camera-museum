@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji便携相机，1990 年发布",
-  "description": "{|style=\"float:right\"\n|colspan=\"2\"|\n\n|-\n|\n|\n|}\n\nReleased in 1990, the DL-500 is the dual-lensed compact camera from Fuji, offering 28mm and 45mm focal lengths.",
+  "description": "Fuji于1990年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-500 Wide Date"
+    "Camera-wiki": "Fuji DL-500 Wide Date",
+    "曝光测光": "EV 10,9) to EV 16,9 (45 mm: EV 18).",
+    "重量": "121x65x41 mm, 210 g.",
+    "尺寸": "121x65x41 mm",
+    "英文简介": "{|style=\"float:right\"\n|colspan=\"2\"|\n\n|-\n|\n|\n|}\n\nReleased in 1990, the DL-500 is the dual-lensed compact camera from Fuji, offering 28mm and 45mm focal lengths."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1990 年发布",
-  "description": "佳能于1990年发布的胶片单反相机。",
+  "description": "佳能于1990年推出的胶片单反相机。配备Canon EF。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q117715379",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "镜头": "Canon EF",
+    "胶片/画幅": "135 film",
+    "对焦": "Automatic",
+    "曝光测光": "| flash =",
+    "尺寸": "| made_in = Taiwan"
   },
   "images": [
     {

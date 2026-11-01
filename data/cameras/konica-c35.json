@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1968 年发布",
-  "description": "The Konica C35 of 1968 is a 35mm camera and first of a series of four cameras from Konishiroku that are dealt with in this article, the others being the C35 V (C35 E&L), C35 Automatic (C35 Flashmatic), and Auto S3 (C35FD).",
+  "description": "柯尼卡于1968年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica C35"
+    "Camera-wiki": "Konica C35",
+    "英文简介": "The Konica C35 of 1968 is a 35mm camera and first of a series of four cameras from Konishiroku that are dealt with in this article, the others being the C35 V (C35 E&L), C35 Automatic (C35 Flashmatic), and Auto S3 (C35FD)."
   },
   "images": [],
   "sources": [

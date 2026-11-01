@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Alpa旁轴相机，1944 年发布",
-  "description": "The Alpa Reflex was first made in 1944 using serial numbers starting with 120,000 Page 45.",
+  "description": "Alpa于1944年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Alpa Reflex"
+    "Camera-wiki": "Alpa Reflex",
+    "英文简介": "The Alpa Reflex was first made in 1944 using serial numbers starting with 120,000 Page 45."
   },
   "images": [],
   "sources": [

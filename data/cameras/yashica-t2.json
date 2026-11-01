@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡便携相机，1986 年发布",
-  "description": "The Yashica T2 (also known as the Kyocera T) was a 35mm compact camera from Kyocera with a high-quality lens.",
+  "description": "雅西卡于1986年推出的便携相机。配备Carl Zeiss T* (coated) 35mm f/3.5 lens (Tessar with 4 elements in 3 groups)。快门速度1/8-1/500s。使用Automatic motorwind.。感光度Automatic DX-decoding of ISO 50-1600 film.。1m to infinity with focus lock.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica T2"
+    "Camera-wiki": "Yashica T2",
+    "镜头": "Carl Zeiss T* (coated) 35mm f/3.5 lens (Tessar with 4 elements in 3 groups)",
+    "对焦": "1m to infinity with focus lock.",
+    "曝光测光": "Programmed autoexposure system with SPD sensor.",
+    "快门": "Electromagnetic.",
+    "快门速度": "1/8-1/500s",
+    "感光度": "Automatic DX-decoding of ISO 50-1600 film.",
+    "胶片/画幅": "Automatic motorwind.",
+    "闪光灯": "Automatic firing in low light (flashmatic type--full power, aperture changes according to focus distance). Range 1-2.5m (ISO 100) with daylight fill-in.",
+    "电池": "6V 2CR5 lithium battery capable of 1000 frames (50% with flash), equivalent to about 40 rolls of 24 exposure film.",
+    "英文简介": "The Yashica T2 (also known as the Kyocera T) was a 35mm compact camera from Kyocera with a high-quality lens."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2014 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe K-S1 is a compact DSLR produced by the Pentax brand of Ricoh Imaging featuring a 20 megapixel sensor in APS-C format.",
+  "description": "宾得于2014年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-S1"
+    "Camera-wiki": "Pentax K-S1",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe K-S1 is a compact DSLR produced by the Pentax brand of Ricoh Imaging featuring a 20 megapixel sensor in APS-C format."
   },
   "images": [],
   "sources": [

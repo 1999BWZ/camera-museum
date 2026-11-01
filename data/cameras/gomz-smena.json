@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GOMZ取景器相机，1953 年发布",
-  "description": "The Smena (смена: 'change') is a viewfinder camera for 35mm film developed and made by GOMZ.",
+  "description": "GOMZ于1953年推出的取景器相机。配备triplet T-22 1:4.5/40mm。快门速度Speeds 1/10 sec. to 1/200 sec. and B。使用35mm。1.3 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Smena"
+    "Camera-wiki": "Smena",
+    "胶片/画幅": "35mm",
+    "镜头": "triplet T-22 1:4.5/40mm",
+    "对焦": "1.3 m",
+    "快门": "Speeds 1/10 sec. to 1/200 sec. and B",
+    "光圈": "1:4.5 to 1:22",
+    "曝光测光": "8-17 EV",
+    "自拍": "none",
+    "英文简介": "The Smena (смена: 'change') is a viewfinder camera for 35mm film developed and made by GOMZ."
   },
   "images": [],
   "sources": [

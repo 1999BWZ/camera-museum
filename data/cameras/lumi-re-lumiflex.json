@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lumière胶片相机，1953 年发布",
-  "description": "The Lumiflex is a 'pseudo-TLR' camera made by Lumière in about 1953;[http://www.collection-appareils.fr/x/html/page_standard.php?id_appareil=1398 Lumiflex] on [http://www.collection-appareils.fr/general/html/francais.php www.collection-appareils.fr] by Sylvain Halgand.",
+  "description": "Lumière于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lumiflex"
+    "Camera-wiki": "Lumiflex",
+    "英文简介": "The Lumiflex is a 'pseudo-TLR' camera made by Lumière in about 1953;[http://www.collection-appareils.fr/x/html/page_standard.php?id_appareil=1398 Lumiflex] on [http://www.collection-appareils.fr/general/html/francais.php www.collection-appareils.fr] by Sylvain Halgand."
   },
   "images": [],
   "sources": [

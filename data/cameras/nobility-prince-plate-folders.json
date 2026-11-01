@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nobility折叠相机，1933 年发布",
-  "description": "The Prince is a Japanese 6.5×9cm plate folder, certainly distributed by Fukada Shōkai, owner of the Prince brand name and of the P.C.W.",
+  "description": "Nobility于1933年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Prince plate folders"
+    "Camera-wiki": "Prince plate folders",
+    "英文简介": "The Prince is a Japanese 6.5×9cm plate folder, certainly distributed by Fukada Shōkai, owner of the Prince brand name and of the P.C.W."
   },
   "images": [],
   "sources": [

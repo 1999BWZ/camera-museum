@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1986 年发布",
-  "description": "The Kodak 35 AF1 is a 35mm film camera produced by Kodak\n\n\n\n35 AF1\nCategory:K\nCategory:1986\nCategory:35mm autofocus",
+  "description": "柯达于1986年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak 35 AF1"
+    "Camera-wiki": "Kodak 35 AF1",
+    "英文简介": "The Kodak 35 AF1 is a 35mm film camera produced by Kodak\n\n\n\n35 AF1\nCategory:K\nCategory:1986\nCategory:35mm autofocus"
   },
   "images": [],
   "sources": [

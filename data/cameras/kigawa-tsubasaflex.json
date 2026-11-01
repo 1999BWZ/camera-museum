@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kigawa胶片相机，1951 年发布",
-  "description": "The Tsubasaflex or Tubasaflex These are merely alternative romanizations of the katakana ツバサフレックス.",
+  "description": "Kigawa于1951年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tsubasaflex"
+    "Camera-wiki": "Tsubasaflex",
+    "英文简介": "The Tsubasaflex or Tubasaflex These are merely alternative romanizations of the katakana ツバサフレックス."
   },
   "images": [],
   "sources": [

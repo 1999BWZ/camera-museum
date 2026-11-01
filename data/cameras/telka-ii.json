@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Telka折叠相机，1950 年发布",
-  "description": "The Telka II is a 4.5x6 viewfinder folding rollfilm camera made by Demaria-Lapierre c.1950.",
+  "description": "Telka于1950年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Telka II"
+    "Camera-wiki": "Telka II",
+    "英文简介": "The Telka II is a 4.5x6 viewfinder folding rollfilm camera made by Demaria-Lapierre c.1950."
   },
   "images": [],
   "sources": [

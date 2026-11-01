@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Buckeye盒式相机，1895 年发布",
-  "description": "The Buckeye Camera is a box camera for rollfilm, made by American Camera Manufacturing Co.",
+  "description": "Buckeye于1895年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Buckeye Camera"
+    "Camera-wiki": "Buckeye Camera",
+    "英文简介": "The Buckeye Camera is a box camera for rollfilm, made by American Camera Manufacturing Co."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡数码单反相机，1968 年发布",
-  "description": "The Yashica TL Electro-X is part of the TL series of SLR cameras.",
+  "description": "雅西卡于1968年推出的数码单反相机。快门速度Electrically operated vertical travelling metal focal-plane shutter with speeds from 2 sec to 1/1000th sec., stepless, + B and self-timer with mirror lock-up.。使用Ratchet type single-stroke wind lever.。感光度25 to 800 ASA.。Reflex viewfinder with micro prism focusing spot, ground-glass collar. DOF preview button.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica TL Electro-X"
+    "Camera-wiki": "Yashica TL Electro-X",
+    "卡口": "M42 screw.",
+    "对焦": "Reflex viewfinder with micro prism focusing spot, ground-glass collar. DOF preview button.",
+    "快门": "Electrically operated vertical travelling metal focal-plane shutter with speeds from 2 sec to 1/1000th sec., stepless, + B and self-timer with mirror lock-up.",
+    "曝光测光": "Manual.",
+    "感光度": "25 to 800 ASA.",
+    "闪光灯": "Standard X and FP synch, with X-synch hot shoe at 1/90th (X) or 1/125th (ITS).",
+    "胶片/画幅": "Ratchet type single-stroke wind lever.",
+    "英文简介": "The Yashica TL Electro-X is part of the TL series of SLR cameras."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士全景相机，1998 年发布",
-  "description": "The Fujifilm TX-1 is a interchangeable lens 35mm panoramic rangefinder camera released in 1998.",
+  "description": "富士于1998年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm TX-1"
+    "Camera-wiki": "Fujifilm TX-1",
+    "英文简介": "The Fujifilm TX-1 is a interchangeable lens 35mm panoramic rangefinder camera released in 1998."
   },
   "images": [],
   "sources": [

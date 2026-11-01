@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Daguerreotype camera盒式相机，1839 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nLe Daguerreotype was Louis Jacques Mandé Daguerre's main contribution to camera history: The sliding box camera was designed by him for his Daguerreotype process.",
+  "description": "Daguerreotype camera于1839年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Le Daguerreotype"
+    "Camera-wiki": "Le Daguerreotype",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nLe Daguerreotype was Louis Jacques Mandé Daguerre's main contribution to camera history: The sliding box camera was designed by him for his Daguerreotype process."
   },
   "images": [],
   "sources": [

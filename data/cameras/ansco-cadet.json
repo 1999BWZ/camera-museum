@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco取景器相机，1959 年发布",
-  "description": "The Cadet is a simple snapshot camera introduced circa 1959, making 4&times;4 cm exposures on 127 film.",
+  "description": "Ansco于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Cadet (127)"
+    "Camera-wiki": "Ansco Cadet (127)",
+    "英文简介": "The Cadet is a simple snapshot camera introduced circa 1959, making 4&times;4 cm exposures on 127 film."
   },
   "images": [],
   "sources": [

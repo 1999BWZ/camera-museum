@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1960 年发布",
-  "description": "{| class=\"plainlinks floatright\" width=250px style=\"text-align: center;\"\n|-\n|| [https://www.flickr.com/photos/camerawiki/49328392818/in/pool-camerawiki https://live.staticflickr.com/65535/49328392818_f51a2c7d04_m_d.jpg]\n|-\n|| Top cover.",
+  "description": "美能达于1960年推出的旁轴相机。配备1:1.8/45mm ROKKOR - PF。快门速度B, 1 sec. down to 1/3000 sec. (leaf shutter!)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta V3"
+    "Camera-wiki": "Minolta V3",
+    "镜头": "1:1.8/45mm ROKKOR - PF",
+    "快门": "Optiper-Citizen-HS M-13",
+    "快门速度": "B, 1 sec. down to 1/3000 sec. (leaf shutter!)",
+    "光圈": "1.8 to 22, 4 to 22 with speed 1/2000, 8 to 22 with 1/3000",
+    "英文简介": "{| class=\"plainlinks floatright\" width=250px style=\"text-align: center;\"\n|-\n|| [https://www.flickr.com/photos/camerawiki/49328392818/in/pool-camerawiki https://live.staticflickr.com/65535/49328392818_f51a2c7d04_m_d.jpg]\n|-\n|| Top cover."
   },
   "images": [],
   "sources": [

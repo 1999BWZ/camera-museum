@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa双镜头反光相机，1954 年发布",
-  "description": "The Kalloflex Automat was a twin-lens reflex produced by Kowa Optical Works, in two versions beginning in 1954.",
+  "description": "Kowa于1954年推出的双镜头反光相机。配备Prominar 1:3.5 f=75mm, coated.。快门速度Seikosha-Rapid leafshutter. Speeds 1 to 1/500 sec. and B.。使用12 exposures of 6 x 6 cm on 120 type rollfilm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kalloflex"
+    "Camera-wiki": "Kalloflex",
+    "胶片/画幅": "12 exposures of 6 x 6 cm on 120 type rollfilm.",
+    "镜头": "Prominar 1:3.5 f=75mm, coated.",
+    "快门": "Seikosha-Rapid leafshutter. Speeds 1 to 1/500 sec. and B.",
+    "闪光灯": "Sync socket on frontpanel. X synchronization",
+    "尺寸": "105 x 95 x 140 mm",
+    "重量": "1080 grams",
+    "英文简介": "The Kalloflex Automat was a twin-lens reflex produced by Kowa Optical Works, in two versions beginning in 1954."
   },
   "images": [],
   "sources": [

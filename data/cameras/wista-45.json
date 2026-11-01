@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wista折叠相机，1972 年发布",
-  "description": "The Wista 45 cameras are a range of 4x5-inch technical cameras, made in Japan by Wista since 1972.[http://www.wista.co.jp/e_wista/e_show/e_camera/e_camera.htm Wista cameras] (English-language version) at the [http://www.wista.co.jp/ Wista website].",
+  "description": "Wista于1972年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wista 45"
+    "Camera-wiki": "Wista 45",
+    "英文简介": "The Wista 45 cameras are a range of 4x5-inch technical cameras, made in Japan by Wista since 1972.[http://www.wista.co.jp/e_wista/e_show/e_camera/e_camera.htm Wista cameras] (English-language version) at the [http://www.wista.co.jp/ Wista website]."
   },
   "images": [],
   "sources": [

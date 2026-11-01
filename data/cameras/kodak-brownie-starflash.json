@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1957 年发布",
-  "description": "The Kodak Brownie Starflash was one of the Kodak Brownie Star series, made from 1957-1965 in the US and France, featuring a large built-in flashgun.",
+  "description": "柯达于1957年推出的取景器相机。使用4x4cm images on 127 film.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Starflash"
+    "Camera-wiki": "Kodak Brownie Starflash",
+    "胶片/画幅": "4x4cm images on 127 film.",
+    "英文简介": "The Kodak Brownie Starflash was one of the Kodak Brownie Star series, made from 1957-1965 in the US and France, featuring a large built-in flashgun."
   },
   "images": [],
   "sources": [

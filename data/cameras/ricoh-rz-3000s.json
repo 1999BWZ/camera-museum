@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1997 年发布",
-  "description": "The Ricoh RZ-3000S is a 35mm zoom camera made by Ricoh from 1997.",
+  "description": "理光于1997年推出的胶片相机。配备38mm f4.5 - 130mm f9.5 multi-coated zoom lens with aspheric elements (6 elements in 3 groups).。快门速度Speeds 2s - 1/330 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RZ-3000S"
+    "Camera-wiki": "Ricoh RZ-3000S",
+    "镜头": "38mm f4.5 - 130mm f9.5 multi-coated zoom lens with aspheric elements (6 elements in 3 groups).",
+    "快门": "Speeds 2s - 1/330 sec",
+    "尺寸": "128mm x 72mm x 52mm",
+    "重量": "295 g",
+    "英文简介": "The Ricoh RZ-3000S is a 35mm zoom camera made by Ricoh from 1997."
   },
   "images": [],
   "sources": [

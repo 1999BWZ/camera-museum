@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，2003 年发布",
-  "description": "The camera with the futuristic design was launched in September 2003, one month before Minolta's merger with Konica.",
+  "description": "美能达于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta DiMAGE Z1"
+    "Camera-wiki": "Minolta DiMAGE Z1",
+    "英文简介": "The camera with the futuristic design was launched in September 2003, one month before Minolta's merger with Konica."
   },
   "images": [],
   "sources": [

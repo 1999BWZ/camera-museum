@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vokar折叠相机，1940 年发布",
-  "description": "{|class=floatright plainlinks\n||\n\n |-\n ||\n\n |-\n |}\nThe Vokar B followed the original Folding Vokar as a simple 6×6 rollfilm camera made by Electronic Products Mfg.",
+  "description": "Vokar于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vokar B"
+    "Camera-wiki": "Vokar B",
+    "英文简介": "{|class=floatright plainlinks\n||\n\n |-\n ||\n\n |-\n |}\nThe Vokar B followed the original Folding Vokar as a simple 6×6 rollfilm camera made by Electronic Products Mfg."
   },
   "images": [],
   "sources": [

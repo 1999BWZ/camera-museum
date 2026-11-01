@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vredeborch取景器相机，1958 年发布",
-  "description": "A simple viewfinder camera for 120 film, offered by the German company Vredeborch circa 1958.",
+  "description": "Vredeborch于1958年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Stafetta Duo"
+    "Camera-wiki": "Stafetta Duo",
+    "英文简介": "A simple viewfinder camera for 120 film, offered by the German company Vredeborch circa 1958."
   },
   "images": [],
   "sources": [

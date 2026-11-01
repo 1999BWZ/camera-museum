@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡便携相机，1993 年发布",
-  "description": "The Big Mini SR BM-100 is a fully automatic compact camera with built-in flash produced by Konica.",
+  "description": "柯尼卡于1993年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Big Mini SR BM-100"
+    "Camera-wiki": "Konica Big Mini SR BM-100",
+    "英文简介": "The Big Mini SR BM-100 is a fully automatic compact camera with built-in flash produced by Konica."
   },
   "images": [],
   "sources": [

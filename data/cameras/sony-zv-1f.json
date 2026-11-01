@@ -1,0 +1,40 @@
+{
+  "id": "sony-zv-1f",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "ZV-1F",
+  "year": 2022,
+  "type": "compact",
+  "type_cn": "便携数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携数码相机，2022 年发布",
+  "description": "索尼于2022年发布的便携数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q115554841",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20ZV-1F%20-%20front%20view%20-%20by%20Henry%20S%C3%B6derlund%20%2852475295349%29.jpg?width=800",
+      "caption": "ZV-1F",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q115554841"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony ZV-1F",
+      "url": "https://www.wikidata.org/wiki/Q115554841"
+    }
+  ],
+  "qid": "Q115554841",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

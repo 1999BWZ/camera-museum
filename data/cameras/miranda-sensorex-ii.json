@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda胶片相机，1971 年发布",
-  "description": "In 1971 the Sensorex was discontinued and followed up by the Sensorex II.",
+  "description": "Miranda于1971年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda Sensorex II"
+    "Camera-wiki": "Miranda Sensorex II",
+    "英文简介": "In 1971 the Sensorex was discontinued and followed up by the Sensorex II."
   },
   "images": [],
   "sources": [

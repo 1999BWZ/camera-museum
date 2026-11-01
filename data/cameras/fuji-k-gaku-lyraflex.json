@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji Kōgaku胶片相机，1953 年发布",
-  "description": "For the prewar and wartime Lyra Flex, see Lyra Flex.",
+  "description": "Fuji Kōgaku于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lyraflex (postwar)"
+    "Camera-wiki": "Lyraflex (postwar)",
+    "英文简介": "For the prewar and wartime Lyra Flex, see Lyra Flex."
   },
   "images": [],
   "sources": [

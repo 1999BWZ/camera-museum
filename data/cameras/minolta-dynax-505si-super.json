@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1998 年发布",
-  "description": "The Minolta Dynax 505si Super is a light autofocus SLR camera for 35mm film made by Minolta.",
+  "description": "美能达于1998年推出的胶片单反相机。快门速度electronically controlled, 30 sec to 1/4000 sec. with bulb。使用35mm。感光度25 to 5000 ASA DX-coded (6 to 6400 manually)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 505si Super"
+    "Camera-wiki": "Minolta Dynax 505si Super",
+    "胶片/画幅": "35mm",
+    "卡口": "Minolta A-Lenses bayonet",
+    "快门": "electronically controlled, 30 sec to 1/4000 sec. with bulb",
+    "感光度": "25 to 5000 ASA DX-coded (6 to 6400 manually)",
+    "曝光测光": "14 field TTL measuring, spontaneously switchable to spot metering via central field",
+    "取景器": "pentamirror showing 90% of image",
+    "闪光灯": "guide number 12, selectable as autofocus support light",
+    "重量": "350 g without lens, film, or batteries",
+    "尺寸": "135 x 90 x 58,5 mm",
+    "英文简介": "The Minolta Dynax 505si Super is a light autofocus SLR camera for 35mm film made by Minolta."
   },
   "images": [],
   "sources": [

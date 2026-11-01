@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Iloca旁轴相机，1959 年发布",
-  "description": "Introduced in 1959 at a price a shade under the Leica M2 and with no name \"cachet\" Iloca had entered a market far above the one they had been familiar with.",
+  "description": "Iloca于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Iloca Electric"
+    "Camera-wiki": "Iloca Electric",
+    "英文简介": "Introduced in 1959 at a price a shade under the Leica M2 and with no name \"cachet\" Iloca had entered a market far above the one they had been familiar with."
   },
   "images": [],
   "sources": [

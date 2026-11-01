@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1999 年发布",
-  "description": "The Zoom 400 AF is a 35mm compact camera from Nikon.",
+  "description": "尼康于1999年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Zoom 400AF/Lite•Touch Zoom 80AF"
+    "Camera-wiki": "Nikon Zoom 400AF/Lite•Touch Zoom 80AF",
+    "英文简介": "The Zoom 400 AF is a 35mm compact camera from Nikon."
   },
   "images": [],
   "sources": [

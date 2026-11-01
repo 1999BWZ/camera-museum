@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片单反相机，1974 年发布",
-  "description": "The Fujica ST901 was made in Japan by Fuji, and introduced in 1974.",
+  "description": "Fuji于1974年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica ST901"
+    "Camera-wiki": "Fujica ST901",
+    "英文简介": "The Fujica ST901 was made in Japan by Fuji, and introduced in 1974."
   },
   "images": [],
   "sources": [

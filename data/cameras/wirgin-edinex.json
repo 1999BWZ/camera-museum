@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wirgin取景器相机，1936 年发布",
-  "description": "{| class=\"plainlinks floatright\" width=500px style=\"text-align: center;\"\n|| [https://www.flickr.com/photos/myimagehost/8055932655/in/pool-camerawiki/ https://farm9.staticflickr.com/8175/8055932655_3713b38b6f_w.jpg]\n|-\n|| Early Edinex, Schneider-Kreuznach Radionar 1:2,9/50in Prontor II shutter.",
+  "description": "Wirgin于1936年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Edinex"
+    "Camera-wiki": "Edinex",
+    "英文简介": "{| class=\"plainlinks floatright\" width=500px style=\"text-align: center;\"\n|| [https://www.flickr.com/photos/myimagehost/8055932655/in/pool-camerawiki/ https://farm9.staticflickr.com/8175/8055932655_3713b38b6f_w.jpg]\n|-\n|| Early Edinex, Schneider-Kreuznach Radionar 1:2,9/50in Prontor II shutter."
   },
   "images": [],
   "sources": [

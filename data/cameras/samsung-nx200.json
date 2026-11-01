@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星无反相机，2011 年发布",
-  "description": "三星于2011年发布的无反相机。",
+  "description": "三星于2011年推出的无反相机。配备Interchangeable (Samsung NX-mount)。快门速度Electronically controlled vertical-run focal plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q313859",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "传感器": "23.4 mm × 15.6 mm; CMOS, APS-C Format (20.3 effective megapixels)C_f=1,54",
+    "镜头": "Interchangeable (Samsung NX-mount)",
+    "快门速度": "Electronically controlled vertical-run focal plane shutter",
+    "曝光测光": "221-segment TTL",
+    "取景器": "live preview",
+    "屏幕": "3.0 in, 614,000 dots Active-Matrix OLED (PenTile)",
+    "闪光灯": "Hot shoe and included external flash (SEF8A)",
+    "存储": "Secure Digital, SDHC",
+    "尺寸": "116.5 x 62.5 x 36.2mm (excluding the projecting parts)",
+    "重量": "220.4 g (body only, no battery or card)",
+    "电池": "BP1030 1030 mAh"
   },
   "images": [],
   "sources": [

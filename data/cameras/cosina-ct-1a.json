@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina胶片单反相机，1980 年发布",
-  "description": "The Cosina CT-1A is a manual-focus 35mm SLR from Cosina.",
+  "description": "Cosina于1980年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cosina CT-1A"
+    "Camera-wiki": "Cosina CT-1A",
+    "英文简介": "The Cosina CT-1A is a manual-focus 35mm SLR from Cosina."
   },
   "images": [],
   "sources": [

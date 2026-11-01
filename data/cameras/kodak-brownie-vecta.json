@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1963 年发布",
-  "description": "The Kodak Brownie Vecta is a moulded plastic 127 film camera made in the UK by Kodak Ltd.",
+  "description": "柯达于1963年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Vecta"
+    "Camera-wiki": "Kodak Brownie Vecta",
+    "英文简介": "The Kodak Brownie Vecta is a moulded plastic 127 film camera made in the UK by Kodak Ltd."
   },
   "images": [],
   "sources": [

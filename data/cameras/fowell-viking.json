@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fowell取景器相机，1960 年发布",
-  "description": "Category: Spain\nViking\nCategory: 35mm viewfinder\n\nThe Viking is a simple 35mm viewfinder camera made in Spain by Fowell, c.1960-1965.",
+  "description": "Fowell于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fowell Viking"
+    "Camera-wiki": "Fowell Viking",
+    "英文简介": "Category: Spain\nViking\nCategory: 35mm viewfinder\n\nThe Viking is a simple 35mm viewfinder camera made in Spain by Fowell, c.1960-1965."
   },
   "images": [],
   "sources": [

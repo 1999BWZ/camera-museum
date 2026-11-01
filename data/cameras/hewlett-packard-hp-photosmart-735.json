@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2003 年发布",
-  "description": "The HP PhotoSmart 735 is a 2003 digital camera from Hewlett-Packard, with a 3x optical zoom and a 3.2 megapixel sensor.",
+  "description": "Hewlett-Packard于2003年推出的数码相机。配备Pentax® precision f2.6 to f4.9 (wide), f5.0 to f9.0 (telephoto)。快门速度1/1500 to 2 sec。使用JPEG & MPEG。有效像素3.2。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart 735"
+    "Camera-wiki": "HP PhotoSmart 735",
+    "像素": "3.2",
+    "胶片/画幅": "JPEG & MPEG",
+    "镜头": "Pentax® precision f2.6 to f4.9 (wide), f5.0 to f9.0 (telephoto)",
+    "快门速度": "1/1500 to 2 sec",
+    "变焦": "Optical zoom",
+    "英文简介": "The HP PhotoSmart 735 is a 2003 digital camera from Hewlett-Packard, with a 3x optical zoom and a 3.2 megapixel sensor."
   },
   "images": [],
   "sources": [

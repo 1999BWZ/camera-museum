@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welta旁轴相机，1933 年发布",
-  "description": "The Welta Solida is a combined 6×9cm and 6x4.5cm folding camera released in 1933.",
+  "description": "Welta于1933年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Welta Solida"
+    "Camera-wiki": "Welta Solida",
+    "英文简介": "The Welta Solida is a combined 6×9cm and 6x4.5cm folding camera released in 1933."
   },
   "images": [],
   "sources": [

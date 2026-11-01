@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Magazine cameras盒式相机，1902 年发布",
-  "description": "The Gnom is a magazine camera made by Hüttig.",
+  "description": "Magazine cameras于1902年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Gnom"
+    "Camera-wiki": "Gnom",
+    "英文简介": "The Gnom is a magazine camera made by Hüttig."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来胶片单反相机，1996 年发布",
-  "description": "The Polaroid 690 (or SLR 690) was the final Polaroid model with SLR viewing derived from the original Polaroid SX-70 in 1996.",
+  "description": "宝丽来于1996年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid SLR 690"
+    "Camera-wiki": "Polaroid SLR 690",
+    "英文简介": "The Polaroid 690 (or SLR 690) was the final Polaroid model with SLR viewing derived from the original Polaroid SX-70 in 1996."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1988 年发布",
-  "description": "The Kodak S900 Tele is a camera for 35mm film.",
+  "description": "柯达于1988年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak S900 Tele"
+    "Camera-wiki": "Kodak S900 Tele",
+    "英文简介": "The Kodak S900 Tele is a camera for 35mm film."
   },
   "images": [],
   "sources": [

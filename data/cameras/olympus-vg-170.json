@@ -1,0 +1,32 @@
+{
+  "id": "olympus-vg-170",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "VG-170",
+  "year": 2012,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，2012 年发布",
+  "description": "奥林巴斯于2012年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q136724193",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus VG-170",
+      "url": "https://www.wikidata.org/wiki/Q136724193"
+    }
+  ],
+  "qid": "Q136724193",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

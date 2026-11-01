@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1996 年发布",
-  "description": "The Advantix 4100 ix zoom is a compact zoom camera mad eby Kodak for the APS film system in about 1996.The user's manual at Kodak (linked below) includes a 1995 copyright statement; however, the Advantix cameras were not introduced until 1996.",
+  "description": "柯达于1996年推出的便携相机。配备1:4.5-1:8.5/30-60mm zoom lens, glass hybrid aspheric。快门速度programmed electronic shutter with speeds 1/6 - 1/270 sec.。active autofocus (infrared?)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix 4100ix zoom"
+    "Camera-wiki": "Kodak Advantix 4100ix zoom",
+    "镜头": "1:4.5-1:8.5/30-60mm zoom lens, glass hybrid aspheric",
+    "快门": "programmed electronic shutter with speeds 1/6 - 1/270 sec.",
+    "对焦": "active autofocus (infrared?)",
+    "取景器": "real image finder with parallax marks and autofocus indicator",
+    "闪光灯": "flash on, off or automatic, long time synchronization",
+    "尺寸": "124 x 64 x 39 mm",
+    "重量": "230g without film and CR123A 3V battery",
+    "英文简介": "The Advantix 4100 ix zoom is a compact zoom camera mad eby Kodak for the APS film system in about 1996.The user's manual at Kodak (linked below) includes a 1995 copyright statement; however, the Advantix cameras were not introduced until 1996."
   },
   "images": [],
   "sources": [

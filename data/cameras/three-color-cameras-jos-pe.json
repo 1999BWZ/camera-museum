@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Three-color cameras胶片相机，1924 年发布",
-  "description": "Jos-Pe Farben-Photo GmbH was a camera-maker in Hamburg and later Munich.",
+  "description": "Three-color cameras于1924年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Jos-Pe"
+    "Camera-wiki": "Jos-Pe",
+    "英文简介": "Jos-Pe Farben-Photo GmbH was a camera-maker in Hamburg and later Munich."
   },
   "images": [],
   "sources": [

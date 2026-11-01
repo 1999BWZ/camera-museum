@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1997 年发布",
-  "description": "Not to be confused with the earlier One Step that used SX-70 film, or the later rounded body 670AF, the Polaroid One Step Autofocus (with curved corners) was part of a new generation of models (circa 1997) in Polaroid's 600-series.",
+  "description": "宝丽来于1997年推出的一次成像相机。配备116mm, f/11, Single-element plastic.。快门速度electronic; automatic speed between 1/4-1/200 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid One Step Autofocus"
+    "Camera-wiki": "Polaroid One Step Autofocus",
+    "镜头": "116mm, f/11, Single-element plastic.",
+    "快门": "electronic; automatic speed between 1/4-1/200 sec.",
+    "英文简介": "Not to be confused with the earlier One Step that used SX-70 film, or the later rounded body 670AF, the Polaroid One Step Autofocus (with curved corners) was part of a new generation of models (circa 1997) in Polaroid's 600-series."
   },
   "images": [],
   "sources": [

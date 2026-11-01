@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo取景器相机，1955 年发布",
-  "description": "A camera from the French company Fex for 620 film.",
+  "description": "Fex Indo于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mosquito I"
+    "Camera-wiki": "Mosquito I",
+    "英文简介": "A camera from the French company Fex for 620 film."
   },
   "images": [],
   "sources": [

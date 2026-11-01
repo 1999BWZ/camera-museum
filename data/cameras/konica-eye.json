@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1964 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Konica EYE cameras are a series half frame viewfinder cameras for 35mm film which were made by Konica from 1964.",
+  "description": "柯尼卡于1964年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica EYE"
+    "Camera-wiki": "Konica EYE",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Konica EYE cameras are a series half frame viewfinder cameras for 35mm film which were made by Konica from 1964."
   },
   "images": [],
   "sources": [

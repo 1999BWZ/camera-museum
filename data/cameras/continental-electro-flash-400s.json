@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Continental胶片相机，1979 年发布",
-  "description": "The Continental Electro-Flash 400S (marked on box as \"Electroflash 400 S\") is a fixed-focus 1970s-era camera for the successful (and still available as of 2018) 110 film format.",
+  "description": "Continental于1979年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Continental Electro-Flash 400S"
+    "Camera-wiki": "Continental Electro-Flash 400S",
+    "英文简介": "The Continental Electro-Flash 400S (marked on box as \"Electroflash 400 S\") is a fixed-focus 1970s-era camera for the successful (and still available as of 2018) 110 film format."
   },
   "images": [],
   "sources": [

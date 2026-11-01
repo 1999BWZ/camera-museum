@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1979 年发布",
-  "description": "The Praktika Super TL 1000 was made by Pentacon from 1979-86 Page 589.",
+  "description": "潘泰康于1979年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica super TL 1000"
+    "Camera-wiki": "Praktica super TL 1000",
+    "英文简介": "The Praktika Super TL 1000 was made by Pentacon from 1979-86 Page 589."
   },
   "images": [],
   "sources": [

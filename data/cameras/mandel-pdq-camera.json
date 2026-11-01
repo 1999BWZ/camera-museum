@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mandel一次成像相机，1935 年发布",
-  "description": "The Mandel PDQ Model G and Model H are instant cameras; wooden-bodied cameras which used waterproof \"Super Speed\" direct-positive photo-paper instead of film or plates.",
+  "description": "Mandel于1935年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mandel PDQ Camera"
+    "Camera-wiki": "Mandel PDQ Camera",
+    "英文简介": "The Mandel PDQ Model G and Model H are instant cameras; wooden-bodied cameras which used waterproof \"Super Speed\" direct-positive photo-paper instead of film or plates."
   },
   "images": [],
   "sources": [

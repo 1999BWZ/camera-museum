@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2001 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nIn the year 2001, the CyberShot DSC-S75 was a great deal for the money.",
+  "description": "索尼于2001年推出的数码相机。有效像素2048x1536。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-S75"
+    "Camera-wiki": "Sony DSC-S75",
+    "像素": "2048x1536",
+    "尺寸": "120 x 74 x 63mm",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nIn the year 2001, the CyberShot DSC-S75 was a great deal for the money."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1964 年发布",
-  "description": "The Voigtländer Vitoret Rapid D was produced in 1964 for a limited time.",
+  "description": "Voigtländer于1964年推出的取景器相机。配备Color Lanthar f/2.8 40mm。快门速度Prontor 300。使用35mm Agfa Rapid Cassettes。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitoret Rapid D"
+    "Camera-wiki": "Vitoret Rapid D",
+    "胶片/画幅": "35mm Agfa Rapid Cassettes",
+    "镜头": "Color Lanthar f/2.8 40mm",
+    "快门": "Prontor 300",
+    "闪光灯": "Accessory Shoe",
+    "英文简介": "The Voigtländer Vitoret Rapid D was produced in 1964 for a limited time."
   },
   "images": [],
   "sources": [

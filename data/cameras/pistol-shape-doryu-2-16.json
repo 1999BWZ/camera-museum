@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pistol shape胶片相机，1954 年发布",
-  "description": "The Doryu 2-16 (ドリウ2-16型) is a pistol-shaped camera taking 16mm film, made from 1954 to 1956 by the Doryu company (certainly renamed Nihon 16-miri Shashin Kōgyō at some time).",
+  "description": "Pistol shape于1954年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Doryu 2-16"
+    "Camera-wiki": "Doryu 2-16",
+    "英文简介": "The Doryu 2-16 (ドリウ2-16型) is a pistol-shaped camera taking 16mm film, made from 1954 to 1956 by the Doryu company (certainly renamed Nihon 16-miri Shashin Kōgyō at some time)."
   },
   "images": [],
   "sources": [

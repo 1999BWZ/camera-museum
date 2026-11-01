@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda数码单反相机，1959 年发布",
-  "description": "Miranda introduced the Miranda B in 1959.",
+  "description": "Miranda于1959年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda B"
+    "Camera-wiki": "Miranda B",
+    "英文简介": "Miranda introduced the Miranda B in 1959."
   },
   "images": [],
   "sources": [

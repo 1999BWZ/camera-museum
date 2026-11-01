@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1979 年发布",
-  "description": "The MF-1 is a viewfinder camera made by Yashica in 1979.",
+  "description": "雅西卡于1979年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica MF-1"
+    "Camera-wiki": "Yashica MF-1",
+    "英文简介": "The MF-1 is a viewfinder camera made by Yashica in 1979."
   },
   "images": [],
   "sources": [

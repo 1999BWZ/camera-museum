@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2005 年发布",
-  "description": "The EOS 20Da was offered by Canon beginning in 2005, as a variant of their standard 8-megapixel 20D but optimized for astronomical photography.",
+  "description": "佳能于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 20Da"
+    "Camera-wiki": "Canon EOS 20Da",
+    "英文简介": "The EOS 20Da was offered by Canon beginning in 2005, as a variant of their standard 8-megapixel 20D but optimized for astronomical photography."
   },
   "images": [],
   "sources": [

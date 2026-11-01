@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goko取景器相机，1991 年发布",
-  "description": "UF-70 Tele by Goko is a low-cost compact camera with twin focal lengths, released in 1991.",
+  "description": "Goko于1991年推出的取景器相机。快门速度Behind-the-lens-shutter, 1/90 s.。使用Auto-loading, auto-winding, auto rewind.。感光度DX coded films in two steps – ISO 100/200 or ISO 400 and above.。Fixed focus, 1.5/1.8 m (wide/tele) to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Goko UF-70 Tele"
+    "Camera-wiki": "Goko UF-70 Tele",
+    "快门": "Behind-the-lens-shutter, 1/90 s.",
+    "对焦": "Fixed focus, 1.5/1.8 m (wide/tele) to infinity.",
+    "曝光测光": "Aperture stops down if fast film is used.",
+    "闪光灯": "Built-in, GN 10. Low light warning lamp.",
+    "感光度": "DX coded films in two steps – ISO 100/200 or ISO 400 and above.",
+    "胶片/画幅": "Auto-loading, auto-winding, auto rewind.",
+    "尺寸": "129 x 72 x 60 mm.",
+    "重量": "265 g.",
+    "英文简介": "UF-70 Tele by Goko is a low-cost compact camera with twin focal lengths, released in 1991."
   },
   "images": [],
   "sources": [

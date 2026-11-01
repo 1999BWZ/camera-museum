@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon取景器相机，1952 年发布",
-  "description": "The East German VEB Zeiss Ikon resumed production of folder cameras after the war in 1948 with the Ercona.",
+  "description": "Zeiss Ikon于1952年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ercona"
+    "Camera-wiki": "Ercona",
+    "英文简介": "The East German VEB Zeiss Ikon resumed production of folder cameras after the war in 1948 with the Ercona."
   },
   "images": [],
   "sources": [

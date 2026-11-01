@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1985 年发布",
-  "description": "Dual-lensed compact auto-focus camera launched by Minolta in 1985, offering 38 mm and 60 mm focal lengths.",
+  "description": "美能达于1985年推出的便携相机。感光度0,8—5,5 m (wide angle); 0,8—4 m (tele). Warns if subject is out of range.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta AF-Tele"
+    "Camera-wiki": "Minolta AF-Tele",
+    "感光度": "0,8—5,5 m (wide angle); 0,8—4 m (tele). Warns if subject is out of range.",
+    "曝光测光": "EV 8.4~18,5 (wide), EV 9.6~19,7 (tele) with ISO100 film. Narrow light metering angle.",
+    "英文简介": "Dual-lensed compact auto-focus camera launched by Minolta in 1985, offering 38 mm and 60 mm focal lengths."
   },
   "images": [],
   "sources": [

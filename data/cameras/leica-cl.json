@@ -6,24 +6,28 @@
   "country": "德国",
   "manufacturer": "Leica",
   "model": "CL",
-  "year": 1973,
-  "type": "rangefinder",
-  "type_cn": "旁轴相机",
+  "year": 2017,
+  "type": "compact",
+  "type_cn": "数码相机",
   "format": "待补充",
   "mount": "待补充",
   "milestone": true,
-  "tagline": "徕卡旁轴相机，1973 年发布",
-  "description": "The Leica CL is a 35mm compact rangefinder camera made by Leitz with interchangeable lenses in the Leica M mount.",
+  "tagline": "徕卡数码相机，2017 年发布",
+  "description": "徕卡于2017年发布的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica CL"
+    "Wikidata": "Q55616736",
+    "多语言词条数": "2",
+    "年份来源": "据英文描述推断"
   },
   "images": [],
   "sources": [
     {
-      "title": "Camera-wiki – Leica CL",
-      "url": "https://camera-wiki.org/wiki/Leica%20CL"
+      "title": "Wikidata – Leica CL",
+      "url": "https://www.wikidata.org/wiki/Q55616736"
     }
   ],
-  "imported": "camera-wiki-2026-11-01"
+  "qid": "Q55616736",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
 }

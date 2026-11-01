@@ -1,0 +1,32 @@
+{
+  "id": "unknown-jvc-gz-mg335",
+  "brand": "日本胜利株式会社",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "日本胜利株式会社",
+  "model": "JVC GZ-MG335",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "日本胜利株式会社数码相机，2008 年发布",
+  "description": "日本胜利株式会社于2008年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11865446",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – JVC GZ-MG335",
+      "url": "https://www.wikidata.org/wiki/Q11865446"
+    }
+  ],
+  "qid": "Q11865446",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

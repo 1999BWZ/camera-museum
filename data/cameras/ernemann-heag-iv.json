@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1925 年发布",
-  "description": "Ernemann于1925年发布的折叠相机。",
+  "description": "Ernemann于1925年推出的折叠相机。使用various: 6.5x9; 9x12; 9x18。by sliding bed。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Heag IV"
+    "Camera-wiki": "Ernemann Heag IV",
+    "胶片/画幅": "various: 6.5x9; 9x12; 9x18",
+    "取景器": "Reflex finder",
+    "对焦": "by sliding bed",
+    "重量": "**6.5x9 type; 19 cm extended; 5x10x13 cm; 0.700kg"
   },
   "images": [],
   "sources": [

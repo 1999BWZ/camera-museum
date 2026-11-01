@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Thornton-Pickard折叠相机，1925 年发布",
-  "description": "The Klippa is a strut-folding hand camera of the chambre à joues type, with side-boards which act as struts, holding the lens-board in place, and fold over the front when the camera is collapsed.",
+  "description": "Thornton-Pickard于1925年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Klippa"
+    "Camera-wiki": "Klippa",
+    "英文简介": "The Klippa is a strut-folding hand camera of the chambre à joues type, with side-boards which act as struts, holding the lens-board in place, and fold over the front when the camera is collapsed."
   },
   "images": [],
   "sources": [

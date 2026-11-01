@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1982 年发布",
-  "description": "The Konica disc 10 is a camera for the disc film format.",
+  "description": "柯尼卡于1982年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica disc 10"
+    "Camera-wiki": "Konica disc 10",
+    "英文简介": "The Konica disc 10 is a camera for the disc film format."
   },
   "images": [],
   "sources": [

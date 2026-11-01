@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1985 年发布",
-  "description": "The Yashica FX-103 Program is a 35mm SLR camera from Kyocera.",
+  "description": "雅西卡于1985年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica FX-103 Program"
+    "Camera-wiki": "Yashica FX-103 Program",
+    "英文简介": "The Yashica FX-103 Program is a 35mm SLR camera from Kyocera."
   },
   "images": [],
   "sources": [

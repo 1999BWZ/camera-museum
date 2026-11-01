@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1888 年发布",
-  "description": "The Kodak is George Eastman's legendary first rollfilm camera bearing the new brand name \"Kodak\", patented and introduced in 1888.",
+  "description": "柯达于1888年推出的盒式相机。配备Bausch & Lomb 57mm f/9 Rapid Rectilinear wide angle lens。快门速度string set; cylindrical (Kodak), sector 'T' and 'I' shutter (Kodak No.1)。使用paper rolls - changed by manufacturer, alternate loading with transparent film (only Kodak No. 1)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak No. 1"
+    "Camera-wiki": "Kodak No. 1",
+    "胶片/画幅": "paper rolls - changed by manufacturer, alternate loading with transparent film (only Kodak No. 1)",
+    "镜头": "Bausch & Lomb 57mm f/9 Rapid Rectilinear wide angle lens",
+    "快门": "string set; cylindrical (Kodak), sector 'T' and 'I' shutter (Kodak No.1)",
+    "重量": "900 g",
+    "尺寸": "8.3×9.6×16.5cm",
+    "英文简介": "The Kodak is George Eastman's legendary first rollfilm camera bearing the new brand name \"Kodak\", patented and introduced in 1888."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发数码单反相机，1980 年发布",
-  "description": "Three Selectronic SLRs featuring the K mount were introduced in 1980.",
+  "description": "爱克发于1980年推出的数码单反相机。使用Single stroke in an arc of 130° with 25° stand off. Coupling for motorized film advance with Chinon Power Winder. Multiple Exposure switch disengages film advance and frame counter.。感光度25 to 3200 ASA.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Selectronic 3"
+    "Camera-wiki": "Agfa Selectronic 3",
+    "卡口": "Pentax K bayonet.",
+    "曝光测光": "Auto aperture priority, or match-the-LED manual exposure (where the camera suggested speed LED is lit, and the user selected speed flashes).",
+    "感光度": "25 to 3200 ASA.",
+    "闪光灯": "Standard X-synch hot shoe at 1/60th",
+    "胶片/画幅": "Single stroke in an arc of 130° with 25° stand off. Coupling for motorized film advance with Chinon Power Winder. Multiple Exposure switch disengages film advance and frame counter.",
+    "尺寸": "135.5 X 85 X 50.5mm (W x H x D).",
+    "重量": "485g.",
+    "电池": "Three 1.5V Alkaline batteries (LR44) or 1.5V silver oxide batteries (SR44). Battery test with LED indicator.",
+    "英文简介": "Three Selectronic SLRs featuring the K mount were introduced in 1980."
   },
   "images": [],
   "sources": [

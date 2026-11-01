@@ -1,0 +1,40 @@
+{
+  "id": "fujifilm-finepix-s100fs",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "FinePix S100FS",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士便携相机，2008 年发布",
+  "description": "富士于2008年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889093",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20FinePix%20S100FS%2C%20-2%20Aug.%202009%20a.jpg?width=800",
+      "caption": "FinePix S100FS",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889093"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Fujifilm FinePix S100FS",
+      "url": "https://www.wikidata.org/wiki/Q20889093"
+    }
+  ],
+  "qid": "Q20889093",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

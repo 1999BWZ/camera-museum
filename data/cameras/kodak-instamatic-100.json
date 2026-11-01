@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1963 年发布",
-  "description": "The model 100 was one of Kodak's first Instamatic cameras released in the USA, along with Kodak's introduction of the drop-in 126 film (Kodapak) cartridge.",
+  "description": "柯达于1963年推出的便携相机。配备43mm f/11。快门速度mechanical leaf, 1/90 sec. and 1/40 sec. with flash popped up。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 100"
+    "Camera-wiki": "Kodak Instamatic 100",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "43mm f/11",
+    "快门": "mechanical leaf, 1/90 sec. and 1/40 sec. with flash popped up",
+    "卡口": "none",
+    "英文简介": "The model 100 was one of Kodak's first Instamatic cameras released in the USA, along with Kodak's introduction of the drop-in 126 film (Kodapak) cartridge."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2002 年发布",
-  "description": "The Kodak Advantix C370 is a compact APS film camera released by Kodak in about 2002.Estimated from the date, 19 March 2002, that the camera's manual (linked below) was posted at Kodak website.",
+  "description": "柯达于2002年推出的便携相机。快门速度1/70 to 1/200 second。使用APS film。感光度1.0 to 4.0m。Fixed focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix C370"
+    "Camera-wiki": "Kodak Advantix C370",
+    "胶片/画幅": "APS film",
+    "对焦": "Fixed focus",
+    "取景器": "Reverse galilean with C, H, & P format display",
+    "闪光灯": "Built-in flip-up flash",
+    "感光度": "1.0 to 4.0m",
+    "光圈": "f/5.6 to f/12.6",
+    "快门": "1/70 to 1/200 second",
+    "尺寸": "101.4 x 38 x 60.5 mm",
+    "重量": "150 g",
+    "英文简介": "The Kodak Advantix C370 is a compact APS film camera released by Kodak in about 2002.Estimated from the date, 19 March 2002, that the camera's manual (linked below) was posted at Kodak website."
   },
   "images": [],
   "sources": [

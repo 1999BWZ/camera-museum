@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mec微型相机，1958 年发布",
-  "description": "The Mec 16 is a viewfinder camera for 10&times;14mm-sized shots on 16mm film in special cartridges.",
+  "description": "Mec于1958年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mec 16"
+    "Camera-wiki": "Mec 16",
+    "英文简介": "The Mec 16 is a viewfinder camera for 10&times;14mm-sized shots on 16mm film in special cartridges."
   },
   "images": [],
   "sources": [

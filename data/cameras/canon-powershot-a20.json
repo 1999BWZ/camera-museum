@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2001 年发布",
-  "description": "The PowerShot A20 is a digital camera announced in 2001 by Canon.",
+  "description": "佳能于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A20"
+    "Camera-wiki": "Canon PowerShot A20",
+    "英文简介": "The PowerShot A20 is a digital camera announced in 2001 by Canon."
   },
   "images": [],
   "sources": [

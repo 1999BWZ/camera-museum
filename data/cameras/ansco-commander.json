@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco折叠相机，1950 年发布",
-  "description": "The Ansco Commander is a medium format folding viewfinder camera produced by the US company Ansco in the mid 1950's.",
+  "description": "Ansco于1950年推出的折叠相机。配备Agfa Agnar 1:6.3 f=105mm, Coated.。快门速度Gauthier Vario leaf shutter. Speeds 1/25 to 1/200 sec. and B.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Commander"
+    "Camera-wiki": "Ansco Commander",
+    "镜头": "Agfa Agnar 1:6.3 f=105mm, Coated.",
+    "快门": "Gauthier Vario leaf shutter. Speeds 1/25 to 1/200 sec. and B.",
+    "闪光灯": "Sync socket on shutter. X synchronization",
+    "英文简介": "The Ansco Commander is a medium format folding viewfinder camera produced by the US company Ansco in the mid 1950's."
   },
   "images": [],
   "sources": [

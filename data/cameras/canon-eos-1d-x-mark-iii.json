@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2020 年发布",
-  "description": "佳能于2020年发布的数码单反相机。",
+  "description": "佳能于2020年推出的数码单反相机。配备Interchangeable。快门速度Electromechanical carbon fiber focal-plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q72934580",
-    "多语言词条数": "9"
+    "多语言词条数": "9",
+    "屏幕": "TFT LCD touchscreen with 2,100,000 dots",
+    "存储": "Dual slots: CFexpress card",
+    "电池": "LP-E19",
+    "重量": "including battery and CFexpress card, body only",
+    "闪光灯": "Not built in",
+    "传感器": "CMOS",
+    "镜头": "Interchangeable",
+    "对焦": "| exposure =",
+    "快门速度": "Electromechanical carbon fiber focal-plane",
+    "曝光测光": "approx. 400,000 pixel RGB+IR sensor",
+    "取景器": "Eye-level pentaprism with 100% coverage and 0.76x magnification / LCD (Live View)"
   },
   "images": [
     {

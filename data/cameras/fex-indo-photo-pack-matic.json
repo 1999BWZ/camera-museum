@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo一次性相机，1966 年发布",
-  "description": "Disposable camera made in France by Fex from 1966.",
+  "description": "Fex Indo于1966年推出的一次性相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Photo Pack Matic"
+    "Camera-wiki": "Photo Pack Matic",
+    "英文简介": "Disposable camera made in France by Fex from 1966."
   },
   "images": [],
   "sources": [

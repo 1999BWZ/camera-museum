@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1926 年发布",
-  "description": "The Lloyd-Camera made by Zeiss Ikon A.G.",
+  "description": "Zeiss Ikon于1926年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lloyd"
+    "Camera-wiki": "Lloyd",
+    "英文简介": "The Lloyd-Camera made by Zeiss Ikon A.G."
   },
   "images": [],
   "sources": [

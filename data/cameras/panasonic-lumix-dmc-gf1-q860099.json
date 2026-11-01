@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2009 年发布",
-  "description": "松下于2009年发布的便携相机。",
+  "description": "松下于2009年推出的便携相机。配备Micro Four Thirds system mount。快门速度| shutterRange = 60–1/4000 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q860099",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "传感器": "4/3 type MOS ('Live MOS sensor')",
+    "镜头": "Micro Four Thirds system mount",
+    "快门速度": "| shutterRange = 60–1/4000 sec",
+    "曝光测光": "144-zone multi-pattern sensing system",
+    "取景器": "Optional External Electronic Viewfinder",
+    "屏幕": "3.0\" Low temperature Polycrystalline TFT LCD",
+    "存储": "SD /SDHC /MMC",
+    "电池": "1250 mAh 7.2v Lithium-Ion rechargeable battery",
+    "尺寸": "119 mm × 71 mm × 36.3 mm (4.69 × 2.8 × 1.43 inches)",
+    "重量": "Approx. (camera body),Approx. ) (incl. 20 mm lens, card and battery)"
   },
   "images": [
     {

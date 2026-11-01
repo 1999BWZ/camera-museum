@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1935 年发布",
-  "description": "This article describes the 620 rollfilm Regent sold by Kodak; Ansco gave the name Regent to a folding 35mm camera.",
+  "description": "柯达于1935年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Regent"
+    "Camera-wiki": "Kodak Regent",
+    "英文简介": "This article describes the 620 rollfilm Regent sold by Kodak; Ansco gave the name Regent to a folding 35mm camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1958 年发布",
-  "description": "The Minolta Autowide is a 35mm viewfinder camera with coupled selenium meter made by Chiyoda Kōgaku Seikō in Japan.",
+  "description": "美能达于1958年推出的取景器相机。配备Minolta Rokkor 35mm/f2.8 with 6 elements in 4 groups. Zone focusing with 'P' setting for close up Portrait, 'G' for midrange Group, and 'S' for Scenery to infinity.。快门速度Optiper Citizen MVL , B, 1 to 1/500 sec with M and X flash sync. Thumb wheel self-timer.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Autowide"
+    "Camera-wiki": "Minolta Autowide",
+    "镜头": "Minolta Rokkor 35mm/f2.8 with 6 elements in 4 groups. Zone focusing with 'P' setting for close up Portrait, 'G' for midrange Group, and 'S' for Scenery to infinity.",
+    "快门": "Optiper Citizen MVL , B, 1 to 1/500 sec with M and X flash sync. Thumb wheel self-timer.",
+    "曝光测光": "coupled selenium meter supports manual aperture/speed choice for ASA 10-1600 range. An accessory windowed diffuser for the metercell allowed for bright light reading.",
+    "英文简介": "The Minolta Autowide is a 35mm viewfinder camera with coupled selenium meter made by Chiyoda Kōgaku Seikō in Japan."
   },
   "images": [],
   "sources": [

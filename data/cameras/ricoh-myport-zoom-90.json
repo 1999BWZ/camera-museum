@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1992 年发布",
-  "description": "The Myport Zoom 90 is an autofocus compact camera for 35mm film, introduced by Ricoh in 1992 as the successor to their Myport Zoom RZ-800.",
+  "description": "理光于1992年推出的便携相机。配备38mm f/4.5 - 90mm f/7.2, 2.4X Zoom, 7 elements in 7 groups。快门速度1 - 1/400 sec.。感光度ISO 64 - 3200 (DX-code system)。5 point Multi-Beam Active AF, 650 focusing steps, 0.5 m - inf., Macro Mode focuses at fixed 0.25m.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Myport Zoom 90"
+    "Camera-wiki": "Ricoh Myport Zoom 90",
+    "镜头": "38mm f/4.5 - 90mm f/7.2, 2.4X Zoom, 7 elements in 7 groups",
+    "对焦": "5 point Multi-Beam Active AF, 650 focusing steps, 0.5 m - inf., Macro Mode focuses at fixed 0.25m.",
+    "快门": "1 - 1/400 sec.",
+    "感光度": "ISO 64 - 3200 (DX-code system)",
+    "闪光灯": "G.N. 24 m (ISO 100), Auto Fill-in, Soft Flash, Red-eye Reduction, Auto / On / Off",
+    "尺寸": "142 mm x 73.5 mm x 57 mm",
+    "重量": "355 g (without battery)",
+    "英文简介": "The Myport Zoom 90 is an autofocus compact camera for 35mm film, introduced by Ricoh in 1992 as the successor to their Myport Zoom RZ-800."
   },
   "images": [],
   "sources": [

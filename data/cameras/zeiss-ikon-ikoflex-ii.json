@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "蔡司胶片相机，1936 年发布",
-  "description": "The Ikoflex II (851/16) is a TLR camera that was made by Zeiss Ikon from 1936 till 1951.",
+  "description": "蔡司于1936年推出的胶片相机。配备Teronar-Anigstigmat f/3.5。快门速度850/16 Fps (Ikoflex I) : Novar 3.5/7.5 cm lens in a Prontor-S shutter 850/16 Lps (Ikoflex I) : Carl Zeiss Jena, or Zeiss-Opton T (coated) Tessar 3.5/7.5 cm lens in a Prontor-S shutter。3 feet 6 inches to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zeiss Ikon Ikoflex II"
+    "Camera-wiki": "Zeiss Ikon Ikoflex II",
+    "快门": "850/16 Fps (Ikoflex I) : Novar 3.5/7.5 cm lens in a Prontor-S shutter 850/16 Lps (Ikoflex I) : Carl Zeiss Jena, or Zeiss-Opton T (coated) Tessar 3.5/7.5 cm lens in a Prontor-S shutter",
+    "镜头": "Teronar-Anigstigmat f/3.5",
+    "对焦": "3 feet 6 inches to infinity.",
+    "英文简介": "The Ikoflex II (851/16) is a TLR camera that was made by Zeiss Ikon from 1936 till 1951."
   },
   "images": [],
   "sources": [

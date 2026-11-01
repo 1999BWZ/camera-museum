@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1958 年发布",
-  "description": "The Start is a 35mm SLR film camera that manufactured by Mechanical Factory of Krasnogorsk (Krasnogorsky Mekhanichesky Zavod) (KMZ), near Moscov, former USSR, between 1958-64.",
+  "description": "KMZ于1958年推出的胶片单反相机。配备KMZ Helios-44 (ГЕЛИОС) 58mm f/2, automatic diaphragm (aluminium barrelled standard lens)。快门速度focal-plane shutter, horizontally run double rubberized silk curtain。使用removable take-up spool。by Fresnel matte glass screen with split-image rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Start (SLR)"
+    "Camera-wiki": "Start (SLR)",
+    "镜头": "KMZ Helios-44 (ГЕЛИОС) 58mm f/2, automatic diaphragm (aluminium barrelled standard lens)",
+    "对焦": "by Fresnel matte glass screen with split-image rangefinder",
+    "快门": "focal-plane shutter, horizontally run double rubberized silk curtain",
+    "取景器": "SLR pentaprism, matte glass with split-image rangefinder in the central focusing area, 100% frame coverage, finder and screen are interchangeable, there is a waist level finder",
+    "闪光灯": "two, for X and M, on the left front of the top plate, synch: 1/30s,",
+    "胶片/画幅": "removable take-up spool",
+    "英文简介": "The Start is a 35mm SLR film camera that manufactured by Mechanical Factory of Krasnogorsk (Krasnogorsky Mekhanichesky Zavod) (KMZ), near Moscov, former USSR, between 1958-64."
   },
   "images": [],
   "sources": [

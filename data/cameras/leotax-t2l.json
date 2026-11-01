@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leotax旁轴相机，1959 年发布",
-  "description": "The Leotax T2L also known as the Elite is a Japanese 35mm rangefinder camera produced by Shōwa Kōgaku c.1959.",
+  "description": "Leotax于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leotax T2L"
+    "Camera-wiki": "Leotax T2L",
+    "英文简介": "The Leotax T2L also known as the Elite is a Japanese 35mm rangefinder camera produced by Shōwa Kōgaku c.1959."
   },
   "images": [],
   "sources": [

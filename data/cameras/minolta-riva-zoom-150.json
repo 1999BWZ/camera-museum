@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，2000 年发布",
-  "description": "The Minolta Riva Zoom 150 is a compact camera for 35mm film made in the year 2000.",
+  "description": "美能达于2000年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva Zoom 150"
+    "Camera-wiki": "Minolta Riva Zoom 150",
+    "尺寸": "112 x 60 x 44 mm",
+    "英文简介": "The Minolta Riva Zoom 150 is a compact camera for 35mm film made in the year 2000."
   },
   "images": [],
   "sources": [

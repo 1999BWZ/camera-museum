@@ -1,0 +1,32 @@
+{
+  "id": "kodak-easyshare-z1012-is",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "伊士曼柯达公司",
+  "model": "EasyShare Z1012 IS",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，2007 年发布",
+  "description": "柯达于2007年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q113030446",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Kodak EasyShare Z1012 IS",
+      "url": "https://www.wikidata.org/wiki/Q113030446"
+    }
+  ],
+  "qid": "Q113030446",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

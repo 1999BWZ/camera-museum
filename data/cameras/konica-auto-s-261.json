@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1968 年发布",
-  "description": "The Auto S 261 is a c.1968 camera from Konica designed to accept drop-in 126 film cartridges.",
+  "description": "柯尼卡于1968年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Auto S 261"
+    "Camera-wiki": "Konica Auto S 261",
+    "英文简介": "The Auto S 261 is a c.1968 camera from Konica designed to accept drop-in 126 film cartridges."
   },
   "images": [],
   "sources": [

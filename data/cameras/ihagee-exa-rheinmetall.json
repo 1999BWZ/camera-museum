@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee数码单反相机，1956 年发布",
-  "description": "The Exa Rheinmetall is a version of the Exa 35 mm SLR camera.",
+  "description": "Ihagee于1956年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exa Rheinmetall"
+    "Camera-wiki": "Exa Rheinmetall",
+    "英文简介": "The Exa Rheinmetall is a version of the Exa 35 mm SLR camera."
   },
   "images": [],
   "sources": [

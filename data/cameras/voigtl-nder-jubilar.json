@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer折叠相机，1931 年发布",
-  "description": "The Jubilar is a folding camera produced by the German company Voigtländer.",
+  "description": "Voigtländer于1931年推出的折叠相机。配备Voigtländer Voigtar 1:9 f=10.5cm. Frontcell focusing.。快门速度Singlo everset leafshutter. Speeds 1/25 and 1/50 sec. plus B and T.。使用8 exposures of 6x9 cm on 120 type rollfilm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Jubilar"
+    "Camera-wiki": "Jubilar",
+    "胶片/画幅": "8 exposures of 6x9 cm on 120 type rollfilm.",
+    "镜头": "Voigtländer Voigtar 1:9 f=10.5cm. Frontcell focusing.",
+    "尺寸": "Push-on 28mm.",
+    "快门": "Singlo everset leafshutter. Speeds 1/25 and 1/50 sec. plus B and T.",
+    "重量": "470 grams.",
+    "英文简介": "The Jubilar is a folding camera produced by the German company Voigtländer."
   },
   "images": [],
   "sources": [

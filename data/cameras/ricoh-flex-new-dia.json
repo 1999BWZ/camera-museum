@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1956 年发布",
-  "description": "The Ricohflex New Dia is a 6x6 TLR camera made in Japan by Ricoh from 1956.",
+  "description": "理光于1956年推出的胶片相机。配备Riken Riconar f 3.5 / 80mm - 3 elements in 3 groups。快门速度Citizen MVX, Speeds 1 - 1/400 sec + B。manual focusing。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricohflex New Dia"
+    "Camera-wiki": "Ricohflex New Dia",
+    "镜头": "Riken Riconar f 3.5 / 80mm - 3 elements in 3 groups",
+    "快门": "Citizen MVX, Speeds 1 - 1/400 sec + B",
+    "光圈": "1/3.5",
+    "对焦": "manual focusing",
+    "尺寸": "77mm x 207mm x 101mm",
+    "重量": "1000 g",
+    "英文简介": "The Ricohflex New Dia is a 6x6 TLR camera made in Japan by Ricoh from 1956."
   },
   "images": [],
   "sources": [

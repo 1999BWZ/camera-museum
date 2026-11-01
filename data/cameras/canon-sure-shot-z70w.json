@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1995 年发布",
-  "description": "A March 1995 model from Canon's Sure Shot series, the Sure Shot Z70W (Euro: Prima Super 28) is a compact camera with fully automatic autofocus and a zoom lens.",
+  "description": "佳能于1995年推出的便携相机。配备28-70mm f/5.6-7.8 (8 elements in 7 groups). Zoom retracts fully into the body.。使用Autoload, motordrive and rewind. MRC also available.。45cm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot Z70W (Caption)/Prima Super 28 (Caption)"
+    "Camera-wiki": "Canon Sure Shot Z70W (Caption)/Prima Super 28 (Caption)",
+    "镜头": "28-70mm f/5.6-7.8 (8 elements in 7 groups). Zoom retracts fully into the body.",
+    "对焦": "45cm.",
+    "胶片/画幅": "Autoload, motordrive and rewind. MRC also available.",
+    "尺寸": "123×64×43.8mm.",
+    "重量": "250g (with CR123A lithium battery)",
+    "英文简介": "A March 1995 model from Canon's Sure Shot series, the Sure Shot Z70W (Euro: Prima Super 28) is a compact camera with fully automatic autofocus and a zoom lens."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Iloca立体相机，1951 年发布",
-  "description": "{|class=floatright\n|\n\n|}\nThe Iloca Stereo II is a 35mm stereo camera made by Iloca from 1951 to 1953.",
+  "description": "Iloca于1951年推出的立体相机。配备Approx 70 mm。快门速度Prontor–S with speeds 'B', 1, 1/2, 1/5, 1/10, 1/25, 1/50, 1/100, 1/300 sec, Delayed Action Lever。使用135 Film; Realist (5p) format producing image sizes 24mm x 23mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Iloca Stereo II"
+    "Camera-wiki": "Iloca Stereo II",
+    "胶片/画幅": "135 Film; Realist (5p) format producing image sizes 24mm x 23mm",
+    "快门": "Prontor–S with speeds 'B', 1, 1/2, 1/5, 1/10, 1/25, 1/50, 1/100, 1/300 sec, Delayed Action Lever",
+    "镜头": "Approx 70 mm",
+    "尺寸": "II: 185 x 75 x 58 mm - Weight: 770g IIa: 183 x 75 x 58 mm - Weight 800 g",
+    "英文简介": "{|class=floatright\n|\n\n|}\nThe Iloca Stereo II is a 35mm stereo camera made by Iloca from 1951 to 1953."
   },
   "images": [],
   "sources": [

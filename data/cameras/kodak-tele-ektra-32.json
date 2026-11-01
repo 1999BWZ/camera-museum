@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1978 年发布",
-  "description": "The Tele-Ektra 32 was a product of the British Kodak Ltd..",
+  "description": "柯达于1978年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Tele-Ektra 32"
+    "Camera-wiki": "Kodak Tele-Ektra 32",
+    "英文简介": "The Tele-Ektra 32 was a product of the British Kodak Ltd.."
   },
   "images": [],
   "sources": [

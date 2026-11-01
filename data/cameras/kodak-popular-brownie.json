@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1937 年发布",
-  "description": "The Kodak Popular Brownie is a box camera for 620 film sold around 1937-1938 and made in the UK.",
+  "description": "柯达于1937年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Popular Brownie"
+    "Camera-wiki": "Kodak Popular Brownie",
+    "英文简介": "The Kodak Popular Brownie is a box camera for 620 film sold around 1937-1938 and made in the UK."
   },
   "images": [],
   "sources": [

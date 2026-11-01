@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1993 年发布",
-  "description": "The Big Mini Jr BM-20 is a fully automatic compact camera with built-in flash produced by Konica.",
+  "description": "柯尼卡于1993年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Big Mini Jr BM-20"
+    "Camera-wiki": "Konica Big Mini Jr BM-20",
+    "英文简介": "The Big Mini Jr BM-20 is a fully automatic compact camera with built-in flash produced by Konica."
   },
   "images": [],
   "sources": [

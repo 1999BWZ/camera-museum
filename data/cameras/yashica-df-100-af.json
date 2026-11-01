@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡便携相机，1989 年发布",
-  "description": "The Yashica DF-100 or Yashica Ninja Star Tele Wide (America) Kyocera Campus Tele (Japan) is a 1989 compact camera with two focal lengths: 35 and 55 mm.",
+  "description": "雅西卡于1989年推出的便携相机。快门速度1/125 (35 mm), 1/60 (55 mm).。感光度100–400 (DX coded films).。Infrared autofocus, focusing in 3 steps.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica DF-100 AF"
+    "Camera-wiki": "Yashica DF-100 AF",
+    "快门": "1/125 (35 mm), 1/60 (55 mm).",
+    "对焦": "Infrared autofocus, focusing in 3 steps.",
+    "闪光灯": "Built-in, manually activated.",
+    "感光度": "100–400 (DX coded films).",
+    "重量": "54 mm x 124 mm x 74,5 mm, 305 g.",
+    "英文简介": "The Yashica DF-100 or Yashica Ninja Star Tele Wide (America) Kyocera Campus Tele (Japan) is a 1989 compact camera with two focal lengths: 35 and 55 mm."
   },
   "images": [],
   "sources": [

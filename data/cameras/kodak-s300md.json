@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1989 年发布",
-  "description": "The Kodak S300MD is a compact camera for 35mm film.",
+  "description": "柯达于1989年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak S300MD"
+    "Camera-wiki": "Kodak S300MD",
+    "英文简介": "The Kodak S300MD is a compact camera for 35mm film."
   },
   "images": [],
   "sources": [

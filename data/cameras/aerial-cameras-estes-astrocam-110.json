@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aerial cameras胶片相机，1979 年发布",
-  "description": "The Estes AstroCam 110 is a model rocket camera for amateurs.",
+  "description": "Aerial cameras于1979年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Estes AstroCam 110"
+    "Camera-wiki": "Estes AstroCam 110",
+    "英文简介": "The Estes AstroCam 110 is a model rocket camera for amateurs."
   },
   "images": [],
   "sources": [

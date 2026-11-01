@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1966 年发布",
-  "description": "The Vitessa 500 AE is a fixed lens 35mm compact camera introduced in 1966 and produced till 1970Prochnow, Claus Voigtländer Report 1.",
+  "description": "Voigtländer于1966年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitessa 500 AE"
+    "Camera-wiki": "Vitessa 500 AE",
+    "英文简介": "The Vitessa 500 AE is a fixed lens 35mm compact camera introduced in 1966 and produced till 1970Prochnow, Claus Voigtländer Report 1."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2006 年发布",
-  "description": "The HP PhotoSmart M627 is a 2006 digital camera from Hewlett-Packard, with a 3x optical zoom and a 7 megapixel sensor.",
+  "description": "Hewlett-Packard于2006年推出的数码相机。配备Wide—f/2.8 to f/4.7 - Telephoto—f/4.86 to f/8.0。快门速度1/1000 to 2 seconds。使用JPEG & MPEG。有效像素3072 x 2304。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart M627"
+    "Camera-wiki": "HP PhotoSmart M627",
+    "像素": "3072 x 2304",
+    "胶片/画幅": "JPEG & MPEG",
+    "镜头": "Wide—f/2.8 to f/4.7 - Telephoto—f/4.86 to f/8.0",
+    "快门速度": "1/1000 to 2 seconds",
+    "变焦": "3x optical, 8x digital",
+    "英文简介": "The HP PhotoSmart M627 is a 2006 digital camera from Hewlett-Packard, with a 3x optical zoom and a 7 megapixel sensor."
   },
   "images": [],
   "sources": [

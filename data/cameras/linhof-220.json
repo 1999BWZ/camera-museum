@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof旁轴相机，1967 年发布",
-  "description": "The Linhof 220 is a uniquely-styled camera from Linhof Präzisions-Kamera-Werke of Munich, taking nominal 2&frac14; &times; 2&frac34; frames (56 &times; 72mm), introduced c.1967.",
+  "description": "Linhof于1967年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof 220"
+    "Camera-wiki": "Linhof 220",
+    "英文简介": "The Linhof 220 is a uniquely-styled camera from Linhof Präzisions-Kamera-Werke of Munich, taking nominal 2&frac14; &times; 2&frac34; frames (56 &times; 72mm), introduced c.1967."
   },
   "images": [],
   "sources": [

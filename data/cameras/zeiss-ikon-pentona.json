@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon取景器相机，1956 年发布",
-  "description": "__NOTOC__\nThe Pentona is a viewfinder camera for 35mm film.",
+  "description": "Zeiss Ikon于1956年推出的取景器相机。配备achromatic Meyer-Optik Görlitz Trioplan 1:3.5/45 or Ludwig Meritar 1:3.5/45。快门速度Priomat leaf shutter, flash-synchronized with speeds 1:/30 to 1/125 sec. plus B。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentona"
+    "Camera-wiki": "Pentona",
+    "胶片/画幅": "35mm",
+    "镜头": "achromatic Meyer-Optik Görlitz Trioplan 1:3.5/45 or Ludwig Meritar 1:3.5/45",
+    "快门": "Priomat leaf shutter, flash-synchronized with speeds 1:/30 to 1/125 sec. plus B",
+    "光圈": "1:3.5 to 1:22",
+    "取景器": "optical",
+    "尺寸": "125 × 84 × 67 mm",
+    "英文简介": "__NOTOC__\nThe Pentona is a viewfinder camera for 35mm film."
   },
   "images": [],
   "sources": [

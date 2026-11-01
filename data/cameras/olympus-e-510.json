@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，2007 年发布",
-  "description": "奥林巴斯于2007年发布的数码单反相机。",
+  "description": "奥林巴斯于2007年推出的数码单反相机。配备Interchangeable Four Thirds System|。快门速度Computerized focal-plane shutter |。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1324379",
-    "多语言词条数": "12"
+    "多语言词条数": "12",
+    "传感器": "17.30 × 13.00 mm Live MOS|",
+    "镜头": "Interchangeable Four Thirds System|",
+    "快门速度": "Computerized focal-plane shutter |",
+    "曝光测光": "TTL open-aperture metering system 49-point multi-pattern metering|",
+    "取景器": "Optical TTL|",
+    "闪光灯": "Retractable flash TTL Auto, Manual|",
+    "屏幕": "2.5\" TFT LCD, 230,000 pixels, live preview capable |",
+    "存储": "CompactFlash (CF) (Type I or Type II) + xD Picture Card|",
+    "电池": "Lithium-Ion rechargeable|",
+    "尺寸": "136 mm (W) × 91.5 mm (H) × 68 mm (D) / 5.35 in.(W) × 3.6 in. (W) × 2.67 in. (D) (excluding protrusions)|",
+    "重量": "(body only)|"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1990 年发布",
-  "description": "Designed for Polaroid's 600-series integral film, the Impulse AF models are similar in body design to the autofocus models released for SX-70 film (usually known as OneStep AF models) in that they feature a non-folding plastic body, plastic lens and sonar focusing.",
+  "description": "宝丽来于1990年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Impulse AF"
+    "Camera-wiki": "Polaroid Impulse AF",
+    "英文简介": "Designed for Polaroid's 600-series integral film, the Impulse AF models are similar in body design to the autofocus models released for SX-70 film (usually known as OneStep AF models) in that they feature a non-folding plastic body, plastic lens and sonar focusing."
   },
   "images": [],
   "sources": [

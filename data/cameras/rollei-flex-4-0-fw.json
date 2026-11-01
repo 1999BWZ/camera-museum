@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来中画幅相机，2003 年发布",
-  "description": "The Rolleiflex 4.0 FW is a medium format Wide-angle TLR camera manufactured by Rollei and later on by DHW Fototechnik from 2003 till 2014.",
+  "description": "禄来于2003年推出的中画幅相机。配备Schneider Super-Angulon 1:4 f=50mm, HFT coating.The lens name was later changed in Apogon by DHW Fototechnik.。快门速度Copal leafshutter. Speeds 1 to 1/500 sec. and B.。使用12 exposures of 6 x 6 cm on 120 type rollfilm.。感光度25 to 6400 ISO.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex 4.0 FW"
+    "Camera-wiki": "Rolleiflex 4.0 FW",
+    "胶片/画幅": "12 exposures of 6 x 6 cm on 120 type rollfilm.",
+    "镜头": "Schneider Super-Angulon 1:4 f=50mm, HFT coating.The lens name was later changed in Apogon by DHW Fototechnik.",
+    "快门": "Copal leafshutter. Speeds 1 to 1/500 sec. and B.",
+    "闪光灯": "Accessory shoe with system contacts. X-sync socket.On film flash measurement with a single SI photo element.",
+    "感光度": "25 to 6400 ISO.",
+    "尺寸": "109 x 118 x 147 mm",
+    "重量": "1400 grams",
+    "英文简介": "The Rolleiflex 4.0 FW is a medium format Wide-angle TLR camera manufactured by Rollei and later on by DHW Fototechnik from 2003 till 2014."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arette取景器相机，1959 年发布",
-  "description": "The Arette W was made by Apparate & Kamerabau c.1959 and was one of the Arette series.",
+  "description": "Arette于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Arette W"
+    "Camera-wiki": "Arette W",
+    "英文简介": "The Arette W was made by Apparate & Kamerabau c.1959 and was one of the Arette series."
   },
   "images": [],
   "sources": [

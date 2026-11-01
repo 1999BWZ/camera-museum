@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡便携相机，1983 年发布",
-  "description": "The Yashica Partner AF is a autofocus auto exposure 35mm film compact camera manufactured by Kyocera.",
+  "description": "雅西卡于1983年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Partner AF"
+    "Camera-wiki": "Yashica Partner AF",
+    "英文简介": "The Yashica Partner AF is a autofocus auto exposure 35mm film compact camera manufactured by Kyocera."
   },
   "images": [],
   "sources": [

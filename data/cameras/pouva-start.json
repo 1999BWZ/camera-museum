@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pouva胶片相机，1951 年发布",
-  "description": "The Pouva Start is a simple Bakelite camera for square pictures on 120 film, with a screw-out lens and shutter unit.",
+  "description": "Pouva于1951年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pouva Start"
+    "Camera-wiki": "Pouva Start",
+    "英文简介": "The Pouva Start is a simple Bakelite camera for square pictures on 120 film, with a screw-out lens and shutter unit."
   },
   "images": [],
   "sources": [

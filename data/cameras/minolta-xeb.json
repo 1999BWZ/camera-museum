@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1976 年发布",
-  "description": "The Minolta XEb was introduced in 1976 for the domestic Japanese market.",
+  "description": "美能达于1976年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta XEb"
+    "Camera-wiki": "Minolta XEb",
+    "英文简介": "The Minolta XEb was introduced in 1976 for the domestic Japanese market."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片相机，1989 年发布",
-  "description": "The Yashica Samurai Z and Z-L were introduced in 1989 by Kyocera, continuing the series begun with the Samurai X3.0 and X4.0 but in a slightly smaller and lighter body.",
+  "description": "雅西卡于1989年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Samurai Z / Z-L / Z2"
+    "Camera-wiki": "Yashica Samurai Z / Z-L / Z2",
+    "英文简介": "The Yashica Samurai Z and Z-L were introduced in 1989 by Kyocera, continuing the series begun with the Samurai X3.0 and X4.0 but in a slightly smaller and lighter body."
   },
   "images": [],
   "sources": [

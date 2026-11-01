@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welmy旁轴相机，1959 年发布",
-  "description": "The Welmy 44 (ウエルミー44) is a Japanese coupled-rangefinder camera taking 4×4cm exposures on 127 film.",
+  "description": "Welmy于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Welmy 44"
+    "Camera-wiki": "Welmy 44",
+    "英文简介": "The Welmy 44 (ウエルミー44) is a Japanese coupled-rangefinder camera taking 4×4cm exposures on 127 film."
   },
   "images": [],
   "sources": [

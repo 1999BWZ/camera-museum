@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1955 年发布",
-  "description": "The Minolta A-2 was launched by Chiyoda Kōgaku Seikō in 1955 as the advanced variant of the Minolta A rangefinder camera for 35mm film.",
+  "description": "美能达于1955年推出的旁轴相机。配备Chiyoko Rokkor 1:3.5/45mm (4 elements in 3 groups like a Tessar), or Chiyoko Rokkor 1:2.8/45mm (5 elements in 3 groups)。快门速度leaf shutter, Citizen MVX with speeds B, 1sec to 1/400sec and M/F/X flash sync, or Optiper MVL with speeds B, 1sec to 1/500sec and M/X sync, plus B, both variants with self-timer。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta A-2"
+    "Camera-wiki": "Minolta A-2",
+    "胶片/画幅": "35mm",
+    "镜头": "Chiyoko Rokkor 1:3.5/45mm (4 elements in 3 groups like a Tessar), or Chiyoko Rokkor 1:2.8/45mm (5 elements in 3 groups)",
+    "快门": "leaf shutter, Citizen MVX with speeds B, 1sec to 1/400sec and M/F/X flash sync, or Optiper MVL with speeds B, 1sec to 1/500sec and M/X sync, plus B, both variants with self-timer",
+    "取景器": "reverse Galilean bright frame finder with superimposed coupled rangefinder and mechanical parallax correction",
+    "尺寸": "132×86×65mm",
+    "重量": "620 g",
+    "英文简介": "The Minolta A-2 was launched by Chiyoda Kōgaku Seikō in 1955 as the advanced variant of the Minolta A rangefinder camera for 35mm film."
   },
   "images": [],
   "sources": [

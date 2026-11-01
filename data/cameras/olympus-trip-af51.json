@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，2002 年发布",
-  "description": "The Trip AF 51 was launched in 2002 by Olympus alongside the Trip AF 50 and the fixed focus Trip 500 & Trip 500.",
+  "description": "奥林巴斯于2002年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip AF51"
+    "Camera-wiki": "Olympus Trip AF51",
+    "英文简介": "The Trip AF 51 was launched in 2002 by Olympus alongside the Trip AF 50 and the fixed focus Trip 500 & Trip 500."
   },
   "images": [],
   "sources": [

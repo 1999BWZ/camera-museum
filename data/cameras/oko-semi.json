@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Oko折叠相机，1940 年发布",
-  "description": "The Oko Semi (オコーセミ or オーコーセミ) In the only advertisement observed, the name of the camera is written オコーセミ (with a short \"O\") but the title is オーコーカメラ (Oko cameras, with a long \"O\").",
+  "description": "Oko于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Oko Semi"
+    "Camera-wiki": "Oko Semi",
+    "英文简介": "The Oko Semi (オコーセミ or オーコーセミ) In the only advertisement observed, the name of the camera is written オコーセミ (with a short \"O\") but the title is オーコーカメラ (Oko cameras, with a long \"O\")."
   },
   "images": [],
   "sources": [

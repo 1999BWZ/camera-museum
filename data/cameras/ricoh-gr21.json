@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，2001 年发布",
-  "description": "{|align=right\n||\n \n|-\n||\n \n|}\nThe Ricoh GR21 is a high end 35mm camera introduced in 2001.",
+  "description": "理光于2001年推出的便携相机。配备GR Lens 21mm f/3.5 (9 elements, 6 groups)。快门速度Electronic shutter - 2 to 1/500 second.。感光度ISO 25 to ISO 3200 (DX)。Autofocus multi-subject。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh GR21"
+    "Camera-wiki": "Ricoh GR21",
+    "镜头": "GR Lens 21mm f/3.5 (9 elements, 6 groups)",
+    "对焦": "Autofocus multi-subject",
+    "快门速度": "Electronic shutter - 2 to 1/500 second.",
+    "曝光测光": "Aperture Priority Mode",
+    "感光度": "ISO 25 to ISO 3200 (DX)",
+    "电池": "1xCR-2",
+    "尺寸": "117mm x 64mm x 26.5mm (Grip: 38.5mm)",
+    "重量": "200gr",
+    "英文简介": "{|align=right\n||\n \n|-\n||\n \n|}\nThe Ricoh GR21 is a high end 35mm camera introduced in 2001."
   },
   "images": [],
   "sources": [

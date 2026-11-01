@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来旁轴相机，1974 年发布",
-  "description": "Released in 1974, the XF35 was a more conventional design than the Rollei 35 miniature 35 mm camera.",
+  "description": "禄来于1974年推出的旁轴相机。1 m.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei XF35"
+    "Camera-wiki": "Rollei XF35",
+    "尺寸": "46 x 0.75mm",
+    "对焦": "1 m.",
+    "重量": "112x71x32 mm, 355 g.",
+    "英文简介": "Released in 1974, the XF35 was a more conventional design than the Rollei 35 miniature 35 mm camera."
   },
   "images": [],
   "sources": [

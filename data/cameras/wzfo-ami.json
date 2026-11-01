@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "WZFO取景器相机，1965 年发布",
-  "description": "The Ami is a toy viewfinder camera made of plastic by the Polish firm Warszawskie Zakłady Fotooptyczne (WZFO).",
+  "description": "WZFO于1965年推出的取景器相机。配备fixed, meniscus, 75 mm 1:8。快门速度two leaf everset shutter, one 1/50 s shutter speed。使用manual, with red window。fix focus, from 2 m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ami (WZFO)"
+    "Camera-wiki": "Ami (WZFO)",
+    "尺寸": "56x56 mm (120 film type)",
+    "胶片/画幅": "manual, with red window",
+    "镜头": "fixed, meniscus, 75 mm 1:8",
+    "对焦": "fix focus, from 2 m to infinity",
+    "光圈": "1:8, 1:16",
+    "快门": "two leaf everset shutter, one 1/50 s shutter speed",
+    "闪光灯": "flashbulbs only",
+    "英文简介": "The Ami is a toy viewfinder camera made of plastic by the Polish firm Warszawskie Zakłady Fotooptyczne (WZFO)."
   },
   "images": [],
   "sources": [

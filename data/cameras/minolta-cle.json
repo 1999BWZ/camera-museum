@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1981 年发布",
-  "description": "The Minolta CLE is a TTL-metering aperture-priority automatic 35mm rangefinder camera taking Leica M lenses, introduced by Minolta in 1981.",
+  "description": "美能达于1981年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta CLE"
+    "Camera-wiki": "Minolta CLE",
+    "英文简介": "The Minolta CLE is a TTL-metering aperture-priority automatic 35mm rangefinder camera taking Leica M lenses, introduced by Minolta in 1981."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1989 年发布",
-  "description": "From the Kodak S-series point-and-shoot line, the S500AF had a 35mm f3.5 lens with autofocus, autoexposure and power winding.",
+  "description": "柯达于1989年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak S500AF"
+    "Camera-wiki": "Kodak S500AF",
+    "英文简介": "From the Kodak S-series point-and-shoot line, the S500AF had a 35mm f3.5 lens with autofocus, autoexposure and power winding."
   },
   "images": [],
   "sources": [

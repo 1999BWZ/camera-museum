@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码相机，1997 年发布",
-  "description": "The Konica Q-Mini was a early digital released by Konica in 1997.",
+  "description": "柯尼卡于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Q-Mini"
+    "Camera-wiki": "Konica Q-Mini",
+    "英文简介": "The Konica Q-Mini was a early digital released by Konica in 1997."
   },
   "images": [],
   "sources": [

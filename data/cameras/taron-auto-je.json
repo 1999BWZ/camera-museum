@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron取景器相机，1965 年发布",
-  "description": "The Taron Auto JE is a zone focus 35mm viewfinder camera by Taron with selenium \"programmed\" AE, circa 1965?.",
+  "description": "Taron于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron Auto JE"
+    "Camera-wiki": "Taron Auto JE",
+    "英文简介": "The Taron Auto JE is a zone focus 35mm viewfinder camera by Taron with selenium \"programmed\" AE, circa 1965?."
   },
   "images": [],
   "sources": [

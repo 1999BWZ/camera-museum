@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1981 年发布",
-  "description": "__NOTOC__\nZenit ET is a 35mm film SLR camera manufactured by Vileiskiy Zavod Zenit, (Vileiskiy Plant Zenit), A Soviet times plant for producing Zenit cameras for MMZ of BelOMO, near Minsk, former USSR, produced between 1982-1993 with a quantity 3,000,000.",
+  "description": "KMZ于1981年推出的胶片单反相机。配备MC Helios-44M-6 58mm f/2, automatic diaphragm, filter thread 52mm。快门速度Horizontally-travelling, cloth focal-plane shutter, speeds 1/30 - 1/500 +B,。Fresnel matte glass screen。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit ET"
+    "Camera-wiki": "Zenit ET",
+    "镜头": "MC Helios-44M-6 58mm f/2, automatic diaphragm, filter thread 52mm",
+    "对焦": "Fresnel matte glass screen",
+    "快门": "Horizontally-travelling, cloth focal-plane shutter, speeds 1/30 - 1/500 +B,",
+    "取景器": "of the 24x36mm area on the resulting negative, the actual area seen through the viewfinder is only 20x28mm",
+    "曝光测光": "uncoupled Selenium cell lightmeter",
+    "自拍": "activates by a small knob above the lever",
+    "闪光灯": "on front of the top plate, X sync.1/30, marked 30-X on the speed dial",
+    "英文简介": "__NOTOC__\nZenit ET is a 35mm film SLR camera manufactured by Vileiskiy Zavod Zenit, (Vileiskiy Plant Zenit), A Soviet times plant for producing Zenit cameras for MMZ of BelOMO, near Minsk, former USSR, produced between 1982-1993 with a quantity 3,000,000."
   },
   "images": [],
   "sources": [

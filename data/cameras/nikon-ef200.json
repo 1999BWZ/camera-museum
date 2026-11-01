@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康取景器相机，1995 年发布",
-  "description": "The EF200 is a fixed focus compact camera for 35mm film.",
+  "description": "尼康于1995年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon EF200"
+    "Camera-wiki": "Nikon EF200",
+    "英文简介": "The EF200 is a fixed focus compact camera for 35mm film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1971 年发布",
-  "description": "The EF is a 35 mm SLR camera introduced by Canon in 1973.",
+  "description": "佳能于1971年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EF"
+    "Camera-wiki": "Canon EF",
+    "英文简介": "The EF is a 35 mm SLR camera introduced by Canon in 1973."
   },
   "images": [],
   "sources": [

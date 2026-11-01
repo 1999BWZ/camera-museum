@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码单反相机，1978 年发布",
-  "description": "The Vivitar XC-3 is an M42 mount, 35mm SLR, marketed by Vivitar and manufactured by Cosina.",
+  "description": "Vivitar于1978年推出的数码单反相机。快门速度1/1000 to 4 sec, 1/50 mechanical backup, Bulb。感光度25 - 3200。Horizontal split image w/micro-prism collar。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar XC-3"
+    "Camera-wiki": "Vivitar XC-3",
+    "卡口": "M42",
+    "感光度": "25 - 3200",
+    "快门": "Horizontal travel, electronic focal plane shutter",
+    "快门速度": "1/1000 to 4 sec, 1/50 mechanical backup, Bulb",
+    "闪光灯": "Hot shoe, X-sync PC connector, 1/60",
+    "取景器": "eye-level pentaprism, -1.0 diopter, match LED display",
+    "对焦": "Horizontal split image w/micro-prism collar",
+    "电池": "1.5v S-76, MS-76, G-13, SMC357 or equivalent (x2)",
+    "重量": "530 g (18.6 oz)",
+    "英文简介": "The Vivitar XC-3 is an M42 mount, 35mm SLR, marketed by Vivitar and manufactured by Cosina."
   },
   "images": [],
   "sources": [

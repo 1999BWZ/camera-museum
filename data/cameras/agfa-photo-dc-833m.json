@@ -1,0 +1,32 @@
+{
+  "id": "agfa-photo-dc-833m",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "AgfaPhoto",
+  "model": "Photo DC-833m",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发数码相机，2009 年发布",
+  "description": "爱克发于2009年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q28519408",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – AgfaPhoto DC-833m",
+      "url": "https://www.wikidata.org/wiki/Q28519408"
+    }
+  ],
+  "qid": "Q28519408",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

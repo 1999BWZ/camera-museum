@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1937 年发布",
-  "description": "The Isolette is the name of a series of compact horizontal-folding camera for twelve 6×6 cm (2¼-inch square) pictures or sixteen 4.5×6 cm (2¼×1⅝ inch) pictures (only on the first model of the camera), on 120 film.",
+  "description": "爱克发于1937年推出的折叠相机。配备8.5 cm f/6.3 Igestar, f/4.5 Agnar, f/4.5 Apotar or f/4.5 Solinar.。快门速度Vario, Pronto, Prontor II, Compur or Compur-Rapid.。使用12 exp. 6x6 or 16 exp. 4.5x6 on 120 type rollfilm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Isolette"
+    "Camera-wiki": "Isolette",
+    "胶片/画幅": "12 exp. 6x6 or 16 exp. 4.5x6 on 120 type rollfilm.",
+    "快门": "Vario, Pronto, Prontor II, Compur or Compur-Rapid.",
+    "镜头": "8.5 cm f/6.3 Igestar, f/4.5 Agnar, f/4.5 Apotar or f/4.5 Solinar.",
+    "取景器": "reverse-Galilean viewfinder",
+    "英文简介": "The Isolette is the name of a series of compact horizontal-folding camera for twelve 6×6 cm (2¼-inch square) pictures or sixteen 4.5×6 cm (2¼×1⅝ inch) pictures (only on the first model of the camera), on 120 film."
   },
   "images": [],
   "sources": [

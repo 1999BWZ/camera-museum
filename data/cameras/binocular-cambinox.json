@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Binocular胶片相机，1956 年发布",
-  "description": "The Cambinox is a camera combined with a pair of binoculars, made by J.D.",
+  "description": "Binocular于1956年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cambinox"
+    "Camera-wiki": "Cambinox",
+    "英文简介": "The Cambinox is a camera combined with a pair of binoculars, made by J.D."
   },
   "images": [],
   "sources": [

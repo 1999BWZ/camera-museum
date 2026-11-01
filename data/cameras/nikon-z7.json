@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2018 年发布",
-  "description": "In September 2018 Nikon answered the challenge which was given since 2013 by the 35mm (=&nbsp;\"full-frame\" =&nbsp;small format) CSCs of the Sony α system.",
+  "description": "尼康于2018年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Z7"
+    "Camera-wiki": "Nikon Z7",
+    "英文简介": "In September 2018 Nikon answered the challenge which was given since 2013 by the 35mm (=&nbsp;\"full-frame\" =&nbsp;small format) CSCs of the Sony α system."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲胶片单反相机，1915 年发布",
-  "description": "The Graflex Compact Graphic is a 3&frac14;&times;5&frac12; reflex camera made by Graflex in the U.S from 1915 to 1925.",
+  "description": "格拉菲于1915年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Compact Graflex"
+    "Camera-wiki": "Compact Graflex",
+    "英文简介": "The Graflex Compact Graphic is a 3&frac14;&times;5&frac12; reflex camera made by Graflex in the U.S from 1915 to 1925."
   },
   "images": [],
   "sources": [

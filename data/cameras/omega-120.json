@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Omega旁轴相机，1954 年发布",
-  "description": "The Simmon Brothers, known for their line of enlargers, built one camera for the civilian market, the Simmon Omega 120 rangefinder camera, for 6x7cm exposures on 120 roll film.",
+  "description": "Omega于1954年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Omega 120"
+    "Camera-wiki": "Omega 120",
+    "英文简介": "The Simmon Brothers, known for their line of enlargers, built one camera for the civilian market, the Simmon Omega 120 rangefinder camera, for 6x7cm exposures on 120 roll film."
   },
   "images": [],
   "sources": [

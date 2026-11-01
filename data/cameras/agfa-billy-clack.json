@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1938 年发布",
-  "description": "{| class=\"floatright plainlinks\" style=\"margin:0px 0px 20px 20px;\"\n||\n\n|-\n||\n\n|}\nThe Billy-Clack is either of two strut-folding cameras made by Agfa from about 1934 to 1940.",
+  "description": "爱克发于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Billy-Clack"
+    "Camera-wiki": "Agfa Billy-Clack",
+    "英文简介": "{| class=\"floatright plainlinks\" style=\"margin:0px 0px 20px 20px;\"\n||\n\n|-\n||\n\n|}\nThe Billy-Clack is either of two strut-folding cameras made by Agfa from about 1934 to 1940."
   },
   "images": [],
   "sources": [

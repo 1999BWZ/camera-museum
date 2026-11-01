@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1958 年发布",
-  "description": "The Ricoh 519 Deluxe (FiveOneNine) is a rangefinder camera with fixed lens made in Japan by Ricoh from 1958.",
+  "description": "理光于1958年推出的旁轴相机。配备Riken Optical Rikenon f 1.9 / 4.5cm - 6 elements in 4 groups (Made by Tomioka Optical)。快门速度Seikosha MXL, Speeds 1/10 - 1/500 sec + B。manual focusing with help of coupled rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 519 Deluxe (FiveOneNine)"
+    "Camera-wiki": "Ricoh 519 Deluxe (FiveOneNine)",
+    "镜头": "Riken Optical Rikenon f 1.9 / 4.5cm - 6 elements in 4 groups (Made by Tomioka Optical)",
+    "快门": "Seikosha MXL, Speeds 1/10 - 1/500 sec + B",
+    "光圈": "1:1.9 - 1:16",
+    "曝光测光": "Light Value system with external light meter (The Light Value system was first adopted in Japan on the Ricoh 500)",
+    "对焦": "manual focusing with help of coupled rangefinder",
+    "尺寸": "140mm x 83mm x 67mm",
+    "重量": "670 g",
+    "英文简介": "The Ricoh 519 Deluxe (FiveOneNine) is a rangefinder camera with fixed lens made in Japan by Ricoh from 1958."
   },
   "images": [],
   "sources": [

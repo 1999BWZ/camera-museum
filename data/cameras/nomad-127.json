@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nomad取景器相机，1957 年发布",
-  "description": "The Sawyer's Nomad 127 is a brown bakelite camera that produces eight 4x6.5cm images on 127 film.",
+  "description": "Nomad于1957年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nomad 127"
+    "Camera-wiki": "Nomad 127",
+    "英文简介": "The Sawyer's Nomad 127 is a brown bakelite camera that produces eight 4x6.5cm images on 127 film."
   },
   "images": [],
   "sources": [

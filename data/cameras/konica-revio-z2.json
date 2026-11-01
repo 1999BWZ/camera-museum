@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1999 年发布",
-  "description": "The Revio Z2 is a point and shoot APS film zoom camera produced by Konica.",
+  "description": "柯尼卡于1999年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Revio Z2"
+    "Camera-wiki": "Konica Revio Z2",
+    "英文简介": "The Revio Z2 is a point and shoot APS film zoom camera produced by Konica."
   },
   "images": [],
   "sources": [

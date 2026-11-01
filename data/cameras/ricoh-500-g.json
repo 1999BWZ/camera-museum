@@ -13,10 +13,23 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1972 年发布",
-  "description": "The Ricoh 500 G is a compact coupled rangefinder camera, introduced by Ricoh in 1972.",
+  "description": "理光于1972年推出的旁轴相机。配备fixed-mount Rikenon 40mm f/2.8 with 46 mm filter thread。快门速度Mechanical, B, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500。使用135 (24mm x 36mm negative)。感光度64-800。3 ft. (0.9m) to inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 500 G"
+    "Camera-wiki": "Ricoh 500 G",
+    "胶片/画幅": "135 (24mm x 36mm negative)",
+    "镜头": "fixed-mount Rikenon 40mm f/2.8 with 46 mm filter thread",
+    "取景器": "coupled rangefinder, framelines with parallax markings",
+    "对焦": "3 ft. (0.9m) to inf",
+    "光圈": "f/2.8 to f/16 (in viewfinder display)",
+    "快门": "Mechanical, B, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500",
+    "感光度": "64-800",
+    "曝光测光": "lens-mounted CdS cell",
+    "闪光灯": "hot shoe and PC",
+    "自拍": "8s delay",
+    "电池": "1.35v PX675 mercury or equivalent",
+    "卡口": "metal",
+    "英文简介": "The Ricoh 500 G is a compact coupled rangefinder camera, introduced by Ricoh in 1972."
   },
   "images": [],
   "sources": [

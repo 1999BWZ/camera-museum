@@ -13,11 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士便携相机，2011 年发布",
-  "description": "富士于2011年发布的便携相机。",
+  "description": "富士于2011年推出的便携相机。配备6.1mm-158.6mm (24-624mm 35mm equivalent; 26x optical zoom) f/2.8 to f/5.6。快门速度Manual。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q5507410",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "镜头": "6.1mm-158.6mm (24-624mm 35mm equivalent; 26x optical zoom) f/2.8 to f/5.6",
+    "快门速度": "Manual",
+    "取景器": "EVF and 3.0 inch colour LCD (460,000 pixels)",
+    "闪光灯": "Built-in pop up and hotshoe",
+    "电池": "| weight ="
   },
   "images": [
     {

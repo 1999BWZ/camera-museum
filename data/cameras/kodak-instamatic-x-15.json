@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1970 年发布",
-  "description": "*Type: Viewfinder Film Camera\n*Years of production: 1970 - 1976\n*Film: 126 film cartridge\n*Lens: 43mm fixed focus\n*Aperture: f/11\n*Shutter speeds: 1/45 and 1/90\n*Flash connector: Magicube",
+  "description": "柯达于1970年推出的便携相机。配备43mm fixed focus。快门速度1/45 and 1/90。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic X-15"
+    "Camera-wiki": "Kodak Instamatic X-15",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "43mm fixed focus",
+    "光圈": "f/11",
+    "快门速度": "1/45 and 1/90",
+    "闪光灯": "Magicube",
+    "英文简介": "*Type: Viewfinder Film Camera\n*Years of production: 1970 - 1976\n*Film: 126 film cartridge\n*Lens: 43mm fixed focus\n*Aperture: f/11\n*Shutter speeds: 1/45 and 1/90\n*Flash connector: Magicube"
   },
   "images": [],
   "sources": [

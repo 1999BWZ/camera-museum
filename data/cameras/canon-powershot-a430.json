@@ -1,0 +1,40 @@
+{
+  "id": "canon-powershot-a430",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "PowerShot A430",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2006 年发布",
+  "description": "佳能于2006年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889013",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20power%20shot%20a430IMG%202608.jpg?width=800",
+      "caption": "PowerShot A430",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889013"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon PowerShot A430",
+      "url": "https://www.wikidata.org/wiki/Q20889013"
+    }
+  ],
+  "qid": "Q20889013",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

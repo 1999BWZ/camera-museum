@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina数码单反相机，1975 年发布",
-  "description": "The 420/SL was an SLR accepting 42mm screw lenses offered by Vivitar in 1974.",
+  "description": "Cosina于1975年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 420/SL"
+    "Camera-wiki": "Vivitar 420/SL",
+    "英文简介": "The 420/SL was an SLR accepting 42mm screw lenses offered by Vivitar in 1974."
   },
   "images": [],
   "sources": [

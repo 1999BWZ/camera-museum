@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1995 年发布",
-  "description": "The Riva Zoom 70W (also known as the Freedom Zoom Explorer 70W or in Japan as the Minolta Capios 25) was a compact camera with a wide-angle zoom lens introduced by Minolta in 1995.",
+  "description": "美能达于1995年推出的便携相机。配备Minolta 28-70mm motorized zoom. Four elements in four groups. Max. aperture f/3.5-8.4.。使用Auto-loading, motorwind and rewind of DX-coded film (Automatic Film speeds: ISO 25-3200).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva Zoom 70W"
+    "Camera-wiki": "Minolta Riva Zoom 70W",
+    "镜头": "Minolta 28-70mm motorized zoom. Four elements in four groups. Max. aperture f/3.5-8.4.",
+    "胶片/画幅": "Auto-loading, motorwind and rewind of DX-coded film (Automatic Film speeds: ISO 25-3200).",
+    "尺寸": "121×66.5×44mm",
+    "重量": "240g",
+    "英文简介": "The Riva Zoom 70W (also known as the Freedom Zoom Explorer 70W or in Japan as the Minolta Capios 25) was a compact camera with a wide-angle zoom lens introduced by Minolta in 1995."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发旁轴相机，1957 年发布",
-  "description": "__NOTOC__\n\nAGFA Ambi Silette is an interchangeable-lens 35mm film rangefinder camera manufactured by Agfa Kamerawerk AG in Munich, West Germany, between 1957 and 1961.",
+  "description": "爱克发于1957年推出的旁轴相机。快门速度Synchro-Compur behind the lens leaf shutter. Speeds: B, 1-1/500; Setting: ring set close to camera body, with two little handles.。使用135 film cartridges (perforated 35mm film) with a 24x36mm image。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ambi Silette"
+    "Camera-wiki": "Ambi Silette",
+    "胶片/画幅": "135 film cartridges (perforated 35mm film) with a 24x36mm image",
+    "快门": "Synchro-Compur behind the lens leaf shutter. Speeds: B, 1-1/500; Setting: ring set close to camera body, with two little handles.",
+    "卡口": "bayonet, very easy mounting 43.5mm register distance",
+    "自拍": "~8s, when the small green lever above the shutter is set to V after winding. Lever resets to X after pressing shutter release.",
+    "尺寸": "125x90x40mm (5.0x3.5x1.6\") LxHxD without lens",
+    "重量": "530g (~18.5 oz) without lens",
+    "英文简介": "__NOTOC__\n\nAGFA Ambi Silette is an interchangeable-lens 35mm film rangefinder camera manufactured by Agfa Kamerawerk AG in Munich, West Germany, between 1957 and 1961."
   },
   "images": [],
   "sources": [

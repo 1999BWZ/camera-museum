@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pinhole胶片相机，2013 年发布",
-  "description": "The Harman TiTAN is a 4x5 pinhole camera designed and manufactured in the UK by Walker Cameras and distributed by Harman Technology as the Ilford Pinhole Photography Kit.",
+  "description": "Pinhole于2013年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Harman Titan"
+    "Camera-wiki": "Harman Titan",
+    "英文简介": "The Harman TiTAN is a 4x5 pinhole camera designed and manufactured in the UK by Walker Cameras and distributed by Harman Technology as the Ilford Pinhole Photography Kit."
   },
   "images": [],
   "sources": [

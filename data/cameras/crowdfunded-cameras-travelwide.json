@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Crowdfunded cameras大画幅相机，2015 年发布",
-  "description": "The Travelwide is a small and lightweight 4x5-inch camera body by Wanderlust Cameras.",
+  "description": "Crowdfunded cameras于2015年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Travelwide"
+    "Camera-wiki": "Travelwide",
+    "英文简介": "The Travelwide is a small and lightweight 4x5-inch camera body by Wanderlust Cameras."
   },
   "images": [],
   "sources": [

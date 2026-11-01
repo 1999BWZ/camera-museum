@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1969 年发布",
-  "description": "The Minox Model C was introduced in 1969.",
+  "description": "Minox于1969年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox C"
+    "Camera-wiki": "Minox C",
+    "英文简介": "The Minox Model C was introduced in 1969."
   },
   "images": [],
   "sources": [

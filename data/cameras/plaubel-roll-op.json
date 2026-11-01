@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Plaubel折叠相机，1934 年发布",
-  "description": "This is not the Rollop by Lipca.",
+  "description": "Plaubel于1934年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Roll-Op"
+    "Camera-wiki": "Roll-Op",
+    "英文简介": "This is not the Rollop by Lipca."
   },
   "images": [],
   "sources": [

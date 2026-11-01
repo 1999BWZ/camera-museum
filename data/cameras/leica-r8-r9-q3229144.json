@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡胶片单反相机，1990 年发布",
-  "description": "徕卡于1990年发布的胶片单反相机。",
+  "description": "徕卡于1990年推出的胶片单反相机。配备Leica R mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q3229144",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "胶片/画幅": "35 mm",
+    "镜头": "Leica R mount",
+    "对焦": "Manual focus",
+    "曝光测光": "Shutter, Aperture priority autoexposure; manual",
+    "闪光灯": "Hot shoe and PC terminal",
+    "尺寸": "51 × 86 × 136 mm, 560 g"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Okada/Daiichi旁轴相机，1956 年发布",
-  "description": "The Honor 35 (オーナー35) or Honor S1 (オーナーS1) is a Japanese Leica copy, made from 1956 to 1959 by Mejiro Kōgaku, later Zuihō Kōgaku.",
+  "description": "Okada/Daiichi于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Honor S1"
+    "Camera-wiki": "Honor S1",
+    "英文简介": "The Honor 35 (オーナー35) or Honor S1 (オーナーS1) is a Japanese Leica copy, made from 1956 to 1959 by Mejiro Kōgaku, later Zuihō Kōgaku."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1961 年发布",
-  "description": "The Rapide is a 35mm half frame viewfinder camera produced by the Japanese company Yashica c.1961.",
+  "description": "雅西卡于1961年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Rapide"
+    "Camera-wiki": "Yashica Rapide",
+    "英文简介": "The Rapide is a 35mm half frame viewfinder camera produced by the Japanese company Yashica c.1961."
   },
   "images": [],
   "sources": [

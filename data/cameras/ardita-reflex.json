@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ardita胶片单反相机，1934 年发布",
-  "description": "The Ardita Reflex is an SLR camera for square exposures on 120 film, made in Milan by Pellegatta in the mid-1930s.",
+  "description": "Ardita于1934年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ardita Reflex"
+    "Camera-wiki": "Ardita Reflex",
+    "英文简介": "The Ardita Reflex is an SLR camera for square exposures on 120 film, made in Milan by Pellegatta in the mid-1930s."
   },
   "images": [],
   "sources": [

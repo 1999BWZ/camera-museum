@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来取景器相机，1999 年发布",
-  "description": "The Prego 125 is a compact autofocus camera for 35 mm film, made by Rollei.",
+  "description": "禄来于1999年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei Prego 125"
+    "Camera-wiki": "Rollei Prego 125",
+    "英文简介": "The Prego 125 is a compact autofocus camera for 35 mm film, made by Rollei."
   },
   "images": [],
   "sources": [

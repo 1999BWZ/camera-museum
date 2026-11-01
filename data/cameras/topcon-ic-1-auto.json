@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片单反相机，1973 年发布",
-  "description": "The Topcon IC-1 Auto is a 1973-1978 35mm SLR from Tokyo Kogaku named for the Integrated Circuit which controlled its shutter priority auto exposure.",
+  "description": "Topcon于1973年推出的胶片单反相机。使用Single stroke lever (120°).。感光度25 to 3200 ASA (plus DIN scale).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon IC-1 Auto"
+    "Camera-wiki": "Topcon IC-1 Auto",
+    "卡口": "Topcon UV bayonet. The mount included a locking facility when Topcor UV lenses are attached.",
+    "曝光测光": "Automatic shutter speed priority (1/8th to 1/500th), or fully manual.",
+    "感光度": "25 to 3200 ASA (plus DIN scale).",
+    "闪光灯": "Electronic flash units sync at 1/60th.",
+    "胶片/画幅": "Single stroke lever (120°).",
+    "尺寸": "141 x 93 x 59mm (W x H x D).",
+    "电池": "2 x 1.35v PX625A mercury battery (use the equivalent WeinCELL MRB625 zinc air cell).",
+    "英文简介": "The Topcon IC-1 Auto is a 1973-1978 35mm SLR from Tokyo Kogaku named for the Integrated Circuit which controlled its shutter priority auto exposure."
   },
   "images": [],
   "sources": [

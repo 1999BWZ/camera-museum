@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary胶片相机，1938 年发布",
-  "description": "The Falcon Super-Action Candid Camera was made in New York by the Utility Manufacturing Company from c.1938.",
+  "description": "Bestiary于1938年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Falcon Super-Action Candid"
+    "Camera-wiki": "Falcon Super-Action Candid",
+    "英文简介": "The Falcon Super-Action Candid Camera was made in New York by the Utility Manufacturing Company from c.1938."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1988 年发布",
-  "description": "__NOTOC__\n\nThe Yashica 108 MP also known as Yashica 108 Multi Program, Yashica 108, or name variation incorporating Kyocera, Kyocera Yashica 108, etc.",
+  "description": "雅西卡于1988年推出的胶片单反相机。快门速度auto: 16s to 1/2000 manual: 1 to 1/2000 and B。使用automatic。感光度Auto DX 25 to 3200 ISO, non-DX 100 ISO。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 108 MP"
+    "Camera-wiki": "Yashica 108 MP",
+    "卡口": "Contax/Yashica or C/Y bayonet mount lenses",
+    "快门": "Vertical metal focal plane",
+    "快门速度": "auto: 16s to 1/2000 manual: 1 to 1/2000 and B",
+    "闪光灯": "X sync at 1/90 or slower",
+    "曝光测光": "TTL center weight with SPD sensor",
+    "感光度": "Auto DX 25 to 3200 ISO, non-DX 100 ISO",
+    "自拍": "electronic 10 sec.",
+    "胶片/画幅": "automatic",
+    "电池": "4x AAA battery",
+    "重量": "about 500g",
+    "尺寸": "149 x 93 x 52 mm",
+    "英文简介": "__NOTOC__\n\nThe Yashica 108 MP also known as Yashica 108 Multi Program, Yashica 108, or name variation incorporating Kyocera, Kyocera Yashica 108, etc."
   },
   "images": [],
   "sources": [

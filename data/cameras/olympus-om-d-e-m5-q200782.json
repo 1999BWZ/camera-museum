@@ -13,11 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯无反相机，2012 年发布",
-  "description": "奥林巴斯于2012年发布的无反相机。",
+  "description": "奥林巴斯于2012年推出的无反相机。配备Micro Four Thirds System mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q200782",
-    "多语言词条数": "9"
+    "多语言词条数": "9",
+    "传感器": "Four Thirds System 16MP Live MOS",
+    "镜头": "Micro Four Thirds System mount",
+    "闪光灯": "Detachable and can trigger remote flash",
+    "曝光测光": "Intelligent Multiple",
+    "屏幕": "VGA-equivalent 3in OLED touchscreen tilts upwards and downwards with live preview",
+    "存储": "SD, SDHC, SDXC",
+    "电池": "Li-ion Battery Pack"
   },
   "images": [
     {

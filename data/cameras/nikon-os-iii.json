@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康取景器相机，1975 年发布",
-  "description": "The Nikonos III underwater camera from Nikon succeeded the Nikonos II in 1975.",
+  "description": "尼康于1975年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikonos III"
+    "Camera-wiki": "Nikonos III",
+    "英文简介": "The Nikonos III underwater camera from Nikon succeeded the Nikonos II in 1975."
   },
   "images": [],
   "sources": [

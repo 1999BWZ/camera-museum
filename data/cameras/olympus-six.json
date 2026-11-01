@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯折叠相机，1940 年发布",
-  "description": "The Olympus Six (オリンパス・シックス) is a dual-format folding camera, taking 6×6cm and 4.5×6cm pictures, released in 1940 by Takachiho (later Olympus).",
+  "description": "奥林巴斯于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Six"
+    "Camera-wiki": "Olympus Six",
+    "英文简介": "The Olympus Six (オリンパス・シックス) is a dual-format folding camera, taking 6×6cm and 4.5×6cm pictures, released in 1940 by Takachiho (later Olympus)."
   },
   "images": [],
   "sources": [

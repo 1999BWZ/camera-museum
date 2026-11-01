@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1991 年发布",
-  "description": "This camera should not be confused with Ricoh's 1960's scale focus focus viewfinder camera of the same name.",
+  "description": "理光于1991年推出的便携相机。配备Ricoh Lens 35mm f/4.5, 3 elements in 3 groups。快门速度mechanical, 1/125s (fixed speed)。感光度manual setting, ISO 100 / 200 / 400。fixed-focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Auto 35 Date"
+    "Camera-wiki": "Ricoh Auto 35 Date",
+    "镜头": "Ricoh Lens 35mm f/4.5, 3 elements in 3 groups",
+    "对焦": "fixed-focus",
+    "快门": "mechanical, 1/125s (fixed speed)",
+    "感光度": "manual setting, ISO 100 / 200 / 400",
+    "尺寸": "132 mm X 68 mm X 50 mm",
+    "重量": "220 g (without batteries)",
+    "英文简介": "This camera should not be confused with Ricoh's 1960's scale focus focus viewfinder camera of the same name."
   },
   "images": [],
   "sources": [

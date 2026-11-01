@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Thornton-Pickard盒式相机，1925 年发布",
-  "description": "The Puck is a wooden 6x9 box camera, finished in an alligator-leather effect.",
+  "description": "Thornton-Pickard于1925年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Puck (Box)"
+    "Camera-wiki": "Puck (Box)",
+    "英文简介": "The Puck is a wooden 6x9 box camera, finished in an alligator-leather effect."
   },
   "images": [],
   "sources": [

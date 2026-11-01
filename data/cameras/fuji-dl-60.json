@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji便携相机，1989 年发布",
-  "description": "The DL-60 is a fixed focal length (35mm) compact camera, with auto-focus, made by Fuji.",
+  "description": "Fuji于1989年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-60"
+    "Camera-wiki": "Fuji DL-60",
+    "英文简介": "The DL-60 is a fixed focal length (35mm) compact camera, with auto-focus, made by Fuji."
   },
   "images": [],
   "sources": [

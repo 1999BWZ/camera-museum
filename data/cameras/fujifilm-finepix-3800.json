@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2002 年发布",
-  "description": "The FinePix 3800 or FinePix S304 is in the FinePix line of digital cameras released by Fujifilm in 2002.",
+  "description": "富士于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix 3800"
+    "Camera-wiki": "Fujifilm FinePix 3800",
+    "英文简介": "The FinePix 3800 or FinePix S304 is in the FinePix line of digital cameras released by Fujifilm in 2002."
   },
   "images": [
     {

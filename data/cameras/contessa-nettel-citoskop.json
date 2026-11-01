@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Contessa-Nettel立体相机，1914 年发布",
-  "description": "The Citoskop is a stereo plate camera with a reflex waist-level viewfinder (a stereo TLR), made by Contessa-Nettel from about 1924, and continued in production after the merger that created Zeiss Ikon.",
+  "description": "Contessa-Nettel于1914年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Citoskop"
+    "Camera-wiki": "Citoskop",
+    "英文简介": "The Citoskop is a stereo plate camera with a reflex waist-level viewfinder (a stereo TLR), made by Contessa-Nettel from about 1924, and continued in production after the merger that created Zeiss Ikon."
   },
   "images": [],
   "sources": [

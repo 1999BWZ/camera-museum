@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1992 年发布",
-  "description": "The Canon EOS 5 of 1992-2000 was an advanced 35mm film SLR.",
+  "description": "佳能于1992年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 5"
+    "Camera-wiki": "Canon EOS 5",
+    "英文简介": "The Canon EOS 5 of 1992-2000 was an advanced 35mm film SLR."
   },
   "images": [],
   "sources": [

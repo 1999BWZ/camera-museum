@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2012 年发布",
-  "description": "宾得于2012年发布的数码相机。",
+  "description": "宾得于2012年推出的数码相机。配备4mm-104mm (22.3-580mm 35mm equivalent; 26x optical zoom) f/3.1 to f/5.9。快门速度Manual。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q7165092",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "传感器": "1/2.33\" (6.08 x 4.56 mm) BSI-CMOS",
+    "镜头": "4mm-104mm (22.3-580mm 35mm equivalent; 26x optical zoom) f/3.1 to f/5.9",
+    "快门速度": "Manual",
+    "曝光测光": "Manual",
+    "取景器": "EVF and 3.0 inch colour LCD (460,000 pixels)",
+    "闪光灯": "Built-in pop up",
+    "电池": "4 AA batteries (alkaline, lithium, nickel, or NiMH rechargeables)",
+    "重量": "595g"
   },
   "images": [],
   "sources": [

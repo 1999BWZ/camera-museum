@@ -1,0 +1,32 @@
+{
+  "id": "hasselblad-h3d-39",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "哈苏",
+  "model": "H3D-39",
+  "year": 2006,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏中画幅相机，2006 年发布",
+  "description": "哈苏于2006年发布的中画幅相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q106204863",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Hasselblad H3D-39",
+      "url": "https://www.wikidata.org/wiki/Q106204863"
+    }
+  ],
+  "qid": "Q106204863",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

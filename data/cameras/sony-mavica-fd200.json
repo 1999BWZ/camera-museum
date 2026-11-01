@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2002 年发布",
-  "description": "The MVC-FD200 is another Sony digital camera in the Mavica series, using floppy disks for image storage, or optionally using a Memory Stick slot.",
+  "description": "索尼于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD200"
+    "Camera-wiki": "Sony Mavica FD200",
+    "英文简介": "The MVC-FD200 is another Sony digital camera in the Mavica series, using floppy disks for image storage, or optionally using a Memory Stick slot."
   },
   "images": [],
   "sources": [

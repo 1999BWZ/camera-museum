@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1911 年发布",
-  "description": "== Ernemann Klapp-Camera Mod.I ==\n\n\n\n\n\nThe Ernemann’s Klapp-Camera Mod.I was in production from 1901 to c.1911, in 3 types.",
+  "description": "Ernemann于1911年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Klapp-Camera"
+    "Camera-wiki": "Ernemann Klapp-Camera",
+    "英文简介": "== Ernemann Klapp-Camera Mod.I ==\n\n\n\n\n\nThe Ernemann’s Klapp-Camera Mod.I was in production from 1901 to c.1911, in 3 types."
   },
   "images": [],
   "sources": [

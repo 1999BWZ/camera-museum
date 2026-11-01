@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1984 年发布",
-  "description": "The Recorder is a 35mm half frame point and shoot camera introduced in 1984 by Konica.",
+  "description": "柯尼卡于1984年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Recorder"
+    "Camera-wiki": "Konica Recorder",
+    "尺寸": "112x77x30,5 mm (closed)",
+    "重量": "250 g without batteries",
+    "英文简介": "The Recorder is a 35mm half frame point and shoot camera introduced in 1984 by Konica."
   },
   "images": [],
   "sources": [

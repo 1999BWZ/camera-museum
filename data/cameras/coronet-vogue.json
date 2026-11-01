@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Coronet折叠相机，1936 年发布",
-  "description": "Coronet offered this small, quirky Bakelite folder beginning in 1936, which required special \"Vogue 35\" film for images of 3x5cm on 828 film.",
+  "description": "Coronet于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Coronet Vogue"
+    "Camera-wiki": "Coronet Vogue",
+    "英文简介": "Coronet offered this small, quirky Bakelite folder beginning in 1936, which required special \"Vogue 35\" film for images of 3x5cm on 828 film."
   },
   "images": [],
   "sources": [

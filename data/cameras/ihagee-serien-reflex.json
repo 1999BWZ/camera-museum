@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee数码单反相机，1928 年发布",
-  "description": "The Serien-Reflex (series reflex) is a medium- to large-format plate SLR camera, made by Ihagee from about 1928.[http://www.ihagee.org/cat/IHGcat1928E.pdf English-language Ihagee catalogue, 1928] at [http://www.ihagee.org/ Ihagee.org].",
+  "description": "Ihagee于1928年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ihagee Serien-Reflex"
+    "Camera-wiki": "Ihagee Serien-Reflex",
+    "英文简介": "The Serien-Reflex (series reflex) is a medium- to large-format plate SLR camera, made by Ihagee from about 1928.[http://www.ihagee.org/cat/IHGcat1928E.pdf English-language Ihagee catalogue, 1928] at [http://www.ihagee.org/ Ihagee.org]."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，2006 年发布",
-  "description": "奥林巴斯于2006年发布的数码单反相机。",
+  "description": "奥林巴斯于2006年推出的数码单反相机。配备Interchangeable Four Thirds mount。快门速度Computerised focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1067227",
-    "多语言词条数": "9"
+    "多语言词条数": "9",
+    "传感器": "17.3 x 13.0 mm Four Thirds System Live MOS sensor2x FOV crop",
+    "镜头": "Interchangeable Four Thirds mount",
+    "快门速度": "Computerised focal-plane shutter",
+    "曝光测光": "TTL open-aperture metering system",
+    "取景器": "Optical 0.93x Porro prism",
+    "闪光灯": "Built in Pop-up, Guide number 13m at ISO 100, hotshoe",
+    "屏幕": "2.5\" (63.5 mm) TFT LCD, 215,000 pixels",
+    "存储": "CompactFlash Type I/II, Microdrive, xD-Picture Card",
+    "电池": "BLM-1 Li-ion battery",
+    "重量": "Approx. 550g ( body only)"
   },
   "images": [
     {

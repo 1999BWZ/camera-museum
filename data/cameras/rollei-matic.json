@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来取景器相机，1980 年发布",
-  "description": "The Rolleimatic was designed by Heinz Waaske.",
+  "description": "禄来于1980年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleimatic"
+    "Camera-wiki": "Rolleimatic",
+    "英文简介": "The Rolleimatic was designed by Heinz Waaske."
   },
   "images": [],
   "sources": [

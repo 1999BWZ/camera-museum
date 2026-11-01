@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1987 年发布",
-  "description": "Point and shoot compact camera for 35mm film with integral flash and fixed focus, manufactured in Taiwan for Ricoh in 1987.",
+  "description": "理光于1987年推出的取景器相机。配备Rikenon 35mm, f/4。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh YF-20"
+    "Camera-wiki": "Ricoh YF-20",
+    "镜头": "Rikenon 35mm, f/4",
+    "尺寸": "121x66x45mm",
+    "重量": "230g (without batteries).",
+    "英文简介": "Point and shoot compact camera for 35mm film with integral flash and fixed focus, manufactured in Taiwan for Ricoh in 1987."
   },
   "images": [],
   "sources": [

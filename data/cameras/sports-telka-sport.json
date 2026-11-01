@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sports折叠相机，1960 年发布",
-  "description": "The Telka Sport is a folding 120 film camera made by Demaria-Lapierre in France, introduced c.1960.",
+  "description": "Sports于1960年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Telka Sport"
+    "Camera-wiki": "Telka Sport",
+    "英文简介": "The Telka Sport is a folding 120 film camera made by Demaria-Lapierre in France, introduced c.1960."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1994 年发布",
-  "description": "The Konica Big Mini BM-302 is a full automatic compact viewfinder camera.",
+  "description": "柯尼卡于1994年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Big Mini BM-302"
+    "Camera-wiki": "Konica Big Mini BM-302",
+    "英文简介": "The Konica Big Mini BM-302 is a full automatic compact viewfinder camera."
   },
   "images": [],
   "sources": [

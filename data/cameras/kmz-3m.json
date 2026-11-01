@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1962 年发布",
-  "description": "The Zenit 3M is a 35mm SLR made in the USSR by KMZ between 1962 and 1970 as part of the long-running Zenit series.",
+  "description": "KMZ于1962年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 3M"
+    "Camera-wiki": "Zenit 3M",
+    "英文简介": "The Zenit 3M is a 35mm SLR made in the USSR by KMZ between 1962 and 1970 as part of the long-running Zenit series."
   },
   "images": [],
   "sources": [

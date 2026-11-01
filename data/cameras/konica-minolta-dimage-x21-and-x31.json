@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2004 年发布",
-  "description": "Konica Minolta X31: A 3.2 megapixel, point and shoot, compact digicam that incorporates the unique 'folded' 3x optical zoom first offered in the DiMAGE X.",
+  "description": "柯尼卡美能达于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE X21 and X31"
+    "Camera-wiki": "Konica Minolta DiMAGE X21 and X31",
+    "英文简介": "Konica Minolta X31: A 3.2 megapixel, point and shoot, compact digicam that incorporates the unique 'folded' 3x optical zoom first offered in the DiMAGE X."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1959 年发布",
-  "description": "The Minolta A3 was a radical design change compared to the Minolta A-2.",
+  "description": "美能达于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta A3"
+    "Camera-wiki": "Minolta A3",
+    "英文简介": "The Minolta A3 was a radical design change compared to the Minolta A-2."
   },
   "images": [],
   "sources": [

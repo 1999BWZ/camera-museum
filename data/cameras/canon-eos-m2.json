@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2013 年发布",
-  "description": "The EOS M2 is a mirrorless camera with interchangeable lens with Canon's EF-M mount.",
+  "description": "佳能于2013年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS M2"
+    "Camera-wiki": "Canon EOS M2",
+    "英文简介": "The EOS M2 is a mirrorless camera with interchangeable lens with Canon's EF-M mount."
   },
   "images": [],
   "sources": [

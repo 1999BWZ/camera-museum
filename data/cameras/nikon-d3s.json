@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2009 年发布",
-  "description": "尼康于2009年发布的数码单反相机。",
+  "description": "尼康于2009年推出的数码单反相机。配备Interchangeable。快门速度Electronically controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1351406",
-    "多语言词条数": "13"
+    "多语言词条数": "13",
+    "传感器": "36.0 mm × 23.9 mm CMOS, Nikon FX formatDX format",
+    "镜头": "Interchangeable",
+    "快门速度": "Electronically controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL full aperture exposure metering system",
+    "取景器": "Optical-type fixed eye level pentaprism",
+    "闪光灯": "n/a",
+    "屏幕": "3-inch diagonal, 307,000 pixels (920,000 dots), TFT VGA",
+    "存储": "Two CompactFlash (Type I) card slots",
+    "电池": "Li-ion EN-EL4a"
   },
   "images": [
     {

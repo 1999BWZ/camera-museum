@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1999 年发布",
-  "description": "The Polaroid 900Z Super Macro is a small camera for 35mm film from 1999.",
+  "description": "宝丽来于1999年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid 900Z Super Macro"
+    "Camera-wiki": "Polaroid 900Z Super Macro",
+    "光圈": "f/5.3-f/10",
+    "英文简介": "The Polaroid 900Z Super Macro is a small camera for 35mm film from 1999."
   },
   "images": [],
   "sources": [

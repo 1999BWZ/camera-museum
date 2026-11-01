@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片单反相机，1998 年发布",
-  "description": "The DL-320 Zoom is a compact 35mm zoom camera from Fuji released in 1998.",
+  "description": "富士于1998年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm DL-320 Zoom"
+    "Camera-wiki": "Fujifilm DL-320 Zoom",
+    "英文简介": "The DL-320 Zoom is a compact 35mm zoom camera from Fuji released in 1998."
   },
   "images": [],
   "sources": [

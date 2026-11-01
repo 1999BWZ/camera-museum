@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，2004 年发布",
-  "description": "The Dynax 60 is a autofocus 35mm SLR camera from Minolta in 2004.",
+  "description": "美能达于2004年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 60"
+    "Camera-wiki": "Minolta Dynax 60",
+    "英文简介": "The Dynax 60 is a autofocus 35mm SLR camera from Minolta in 2004."
   },
   "images": [],
   "sources": [

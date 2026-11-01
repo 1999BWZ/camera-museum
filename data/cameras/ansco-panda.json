@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco胶片相机，1939 年发布",
-  "description": "The Ansco Panda is a plastic 620 film camera made in Binghampton, NY, by Ansco between c.1939 and 1950.",
+  "description": "Ansco于1939年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Panda"
+    "Camera-wiki": "Ansco Panda",
+    "英文简介": "The Ansco Panda is a plastic 620 film camera made in Binghampton, NY, by Ansco between c.1939 and 1950."
   },
   "images": [],
   "sources": [

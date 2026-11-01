@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji数码单反相机，1980 年发布",
-  "description": "The Fujica AX-3 was manufactured by Fuji during the 1980s and was their mid line SLR during that time, just below the top of the line Fujica AX-5.",
+  "description": "Fuji于1980年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica AX-3"
+    "Camera-wiki": "Fujica AX-3",
+    "英文简介": "The Fujica AX-3 was manufactured by Fuji during the 1980s and was their mid line SLR during that time, just below the top of the line Fujica AX-5."
   },
   "images": [],
   "sources": [

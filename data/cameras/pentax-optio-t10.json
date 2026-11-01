@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2006 年发布",
-  "description": "The Optio T10 is a digital ultra compact camera by Japanese manufacturer Pentax released in 2006.",
+  "description": "宾得于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Optio T10"
+    "Camera-wiki": "Pentax Optio T10",
+    "英文简介": "The Optio T10 is a digital ultra compact camera by Japanese manufacturer Pentax released in 2006."
   },
   "images": [],
   "sources": [

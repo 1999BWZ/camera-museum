@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kinka折叠相机，1931 年发布",
-  "description": "The Kinka (錦華カメラ) 6.5×9cm plate folders were made in the early 1930s by Yamamoto Shashinki Kōsakusho.",
+  "description": "Kinka于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kinka plate folders"
+    "Camera-wiki": "Kinka plate folders",
+    "英文简介": "The Kinka (錦華カメラ) 6.5×9cm plate folders were made in the early 1930s by Yamamoto Shashinki Kōsakusho."
   },
   "images": [],
   "sources": [

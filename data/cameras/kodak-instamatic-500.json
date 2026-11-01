@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1963 年发布",
-  "description": "The Kodak Typ 048 Instamatic 500 was a manual-exposure viewfinder camera for 126 film cartridges—one of the highest-specification models ever to be offered in the Instamatic range.",
+  "description": "柯达于1963年推出的便携相机。配备Schneider-Kreuznach Xenar f/2.8 38mm 4-element glass; stopping to f/22。快门速度Compur leaf with speeds 1/30 to 1/500 sec. plus bulb。使用Type 126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 500"
+    "Camera-wiki": "Kodak Instamatic 500",
+    "胶片/画幅": "Type 126 film cartridge",
+    "镜头": "Schneider-Kreuznach Xenar f/2.8 38mm 4-element glass; stopping to f/22",
+    "快门": "Compur leaf with speeds 1/30 to 1/500 sec. plus bulb",
+    "光圈": "1:2.8 to 1:22",
+    "取景器": "Optical viewfinder with bright frame and parallax correction marks",
+    "曝光测光": "Gossen selenium cell meter with exposure compensation (+/-) indicator in viewfinder",
+    "英文简介": "The Kodak Typ 048 Instamatic 500 was a manual-exposure viewfinder camera for 126 film cartridges—one of the highest-specification models ever to be offered in the Instamatic range."
   },
   "images": [],
   "sources": [

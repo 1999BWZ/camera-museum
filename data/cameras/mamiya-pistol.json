@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚中画幅相机，1954 年发布",
-  "description": "The Mamiya Pistol (マミヤピストル) or Fast-action camera (速写カメラ) is a pistol-shaped half-frame camera made by Mamiya in 1954, for the Japanese police.",
+  "description": "玛米亚于1954年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya Pistol"
+    "Camera-wiki": "Mamiya Pistol",
+    "英文简介": "The Mamiya Pistol (マミヤピストル) or Fast-action camera (速写カメラ) is a pistol-shaped half-frame camera made by Mamiya in 1954, for the Japanese police."
   },
   "images": [],
   "sources": [

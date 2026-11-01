@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus胶片相机，1946 年发布",
-  "description": "The Argus Argoflex E is a geared-lens TLR made from 1940 to 1948, with production interrupted when Argus diverted its resources to WWII military contracts.",
+  "description": "Argus于1946年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus Argoflex E"
+    "Camera-wiki": "Argus Argoflex E",
+    "英文简介": "The Argus Argoflex E is a geared-lens TLR made from 1940 to 1948, with production interrupted when Argus diverted its resources to WWII military contracts."
   },
   "images": [],
   "sources": [

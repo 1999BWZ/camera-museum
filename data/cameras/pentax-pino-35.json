@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得取景器相机，1984 年发布",
-  "description": "Plastic fixed focus compact 35mm camera with built in flash from Pentax.",
+  "description": "宾得于1984年推出的取景器相机。配备38mm 1:3.8 pentax lens, 3 elments, 3 lens group-composition。快门速度Fixed, 1/125s。使用Manual, thumbwheel on rear。感光度100, 200 & 400 ASA。Fixed, range 1.5m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Pino 35"
+    "Camera-wiki": "Pentax Pino 35",
+    "镜头": "38mm 1:3.8 pentax lens, 3 elments, 3 lens group-composition",
+    "对焦": "Fixed, range 1.5m to infinity",
+    "光圈": "f/3.8 to f/19",
+    "快门": "Mechanical leaf",
+    "快门速度": "Fixed, 1/125s",
+    "曝光测光": "CdS low light warning only",
+    "闪光灯": "GN 12 (ISO 100, in metres)",
+    "电池": "2xAA alkaline (not NiCd). Good for 360 flash discharges with new manganese alkali batteries",
+    "胶片/画幅": "Manual, thumbwheel on rear",
+    "感光度": "100, 200 & 400 ASA",
+    "英文简介": "Plastic fixed focus compact 35mm camera with built in flash from Pentax."
   },
   "images": [],
   "sources": [

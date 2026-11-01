@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡取景器相机，1930 年发布",
-  "description": "The Leica I (C) was made by Leitz in 1930 after the initial Leica I (A), to which it added lens interchangeability.",
+  "description": "徕卡于1930年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica C"
+    "Camera-wiki": "Leica C",
+    "英文简介": "The Leica I (C) was made by Leitz in 1930 after the initial Leica I (A), to which it added lens interchangeability."
   },
   "images": [],
   "sources": [

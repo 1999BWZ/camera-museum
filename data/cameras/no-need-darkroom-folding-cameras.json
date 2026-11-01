@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "No-need-darkroom折叠相机，1932 年发布",
-  "description": "See also the postwar Toyoca Six 6×6 folder and Toyoca B35 35mm folder.",
+  "description": "No-need-darkroom于1932年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tougodo folding cameras"
+    "Camera-wiki": "Tougodo folding cameras",
+    "英文简介": "See also the postwar Toyoca Six 6×6 folder and Toyoca B35 35mm folder."
   },
   "images": [],
   "sources": [

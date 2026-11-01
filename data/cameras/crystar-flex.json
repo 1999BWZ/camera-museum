@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Crystar胶片相机，1953 年发布",
-  "description": "The Crystar Flex (クリスターフレックス) is a moderate-priced Japanese TLR using a geared coupling between the focusing and taking lenses.",
+  "description": "Crystar于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Crystar Flex"
+    "Camera-wiki": "Crystar Flex",
+    "英文简介": "The Crystar Flex (クリスターフレックス) is a moderate-priced Japanese TLR using a geared coupling between the focusing and taking lenses."
   },
   "images": [],
   "sources": [

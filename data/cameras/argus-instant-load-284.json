@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus胶片相机，1967 年发布",
-  "description": "As the Argus brand struggled to regain relevance in the late 1960s, the company launched a series of Instant Load cameras for 126 film, the format made hugely popular by Kodak's line of Instamatics.",
+  "description": "Argus于1967年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus Instant Load 284"
+    "Camera-wiki": "Argus Instant Load 284",
+    "英文简介": "As the Argus brand struggled to regain relevance in the late 1960s, the company launched a series of Instant Load cameras for 126 film, the format made hugely popular by Kodak's line of Instamatics."
   },
   "images": [],
   "sources": [

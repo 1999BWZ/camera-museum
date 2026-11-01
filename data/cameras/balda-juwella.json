@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda折叠相机，1933 年发布",
-  "description": "The Juwella is a folding camera made by Balda in the 1930s.",
+  "description": "Balda于1933年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Balda Juwella"
+    "Camera-wiki": "Balda Juwella",
+    "英文简介": "The Juwella is a folding camera made by Balda in the 1930s."
   },
   "images": [],
   "sources": [

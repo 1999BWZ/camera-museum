@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达微型相机，1962 年发布",
-  "description": "The Minolta-16 EE from 1962 was Minolta's first 16mm subminiature camera with built-in light-meter.",
+  "description": "美能达于1962年推出的微型相机。配备Rokkor 1:2.8/25mm,。快门速度shifter shutter with one speed for every ASA film speed setting: 1/30 sec. (25 ASA) to 1/500 sec. (400 ASA), flash synchronized for the two lowest speeds。使用Minolta 16 mm film cartridges, speeds 25 to 400 ASA。two-zone switch: near and far。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta-16 EE"
+    "Camera-wiki": "Minolta-16 EE",
+    "胶片/画幅": "Minolta 16 mm film cartridges, speeds 25 to 400 ASA",
+    "尺寸": "10×14 mm",
+    "镜头": "Rokkor 1:2.8/25mm,",
+    "对焦": "two-zone switch: near and far",
+    "快门": "shifter shutter with one speed for every ASA film speed setting: 1/30 sec. (25 ASA) to 1/500 sec. (400 ASA), flash synchronized for the two lowest speeds",
+    "取景器": "optical, green indicator for sufficient light",
+    "重量": "230 g",
+    "英文简介": "The Minolta-16 EE from 1962 was Minolta's first 16mm subminiature camera with built-in light-meter."
   },
   "images": [],
   "sources": [

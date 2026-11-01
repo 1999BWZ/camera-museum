@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1979 年发布",
-  "description": "The EK20 is a instant camera manufactured by Kodak in 1979 and cost $35 (USD).",
+  "description": "柯达于1979年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EK20"
+    "Camera-wiki": "Kodak EK20",
+    "英文简介": "The EK20 is a instant camera manufactured by Kodak in 1979 and cost $35 (USD)."
   },
   "images": [],
   "sources": [

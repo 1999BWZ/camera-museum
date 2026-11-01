@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bolsey旁轴相机，1953 年发布",
-  "description": "{|align=right\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Bolsey C is a 35mm TLR introduced by Bolsey in 1950.",
+  "description": "Bolsey于1953年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bolsey C"
+    "Camera-wiki": "Bolsey C",
+    "英文简介": "{|align=right\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Bolsey C is a 35mm TLR introduced by Bolsey in 1950."
   },
   "images": [],
   "sources": [

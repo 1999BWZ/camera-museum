@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1977 年发布",
-  "description": "The Pocket Autopak 250 is a camera that takes 110 film and introduced by Minolta in 1977.",
+  "description": "美能达于1977年推出的胶片相机。配备Rokkor 1:8/26mm (3 glass elements in 3 groups)。快门速度Electronic, stepless speeds from 1/330 to 10 secs.。感光度ASA 64 to 125。two distance zones selectable。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Pocket Autopak 250"
+    "Camera-wiki": "Minolta Pocket Autopak 250",
+    "镜头": "Rokkor 1:8/26mm (3 glass elements in 3 groups)",
+    "对焦": "two distance zones selectable",
+    "快门": "Electronic, stepless speeds from 1/330 to 10 secs.",
+    "感光度": "ASA 64 to 125",
+    "电池": "4.5v K-size battery",
+    "取景器": "bright frame finder, LED indicator for insufficient light, and distance symbols",
+    "闪光灯": "Electronic; magi-cubes",
+    "尺寸": "132×58×26mm",
+    "重量": "190 g",
+    "英文简介": "The Pocket Autopak 250 is a camera that takes 110 film and introduced by Minolta in 1977."
   },
   "images": [],
   "sources": [

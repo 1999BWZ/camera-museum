@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spring motor旁轴相机，1956 年发布",
-  "description": "__NOTOC__\n\nThe Leningrad (Ленинград) is a 35mm rangefinder camera manufactured by GOMZ, (ГОМЗ, Государственный оптико-механический завод, Ленинград = Gosularstvennyi Optiko-Mekhanicheskii Zavod =State Optical-Mechanical Factory), Leningrad, USSR.",
+  "description": "Spring motor于1956年推出的旁轴相机。配备Jupiter-8 (ИНДУСТАР), 50mm f/2, coated, Mount: M39 screw, filter thread 35mm, made by KMZ。快门速度Focal plane shutter, rubberized silk double cloth curtain, travelling horizontally, speeds 1- 1/1000 +B, plus bulb sync. 1/25s。matching rangefinder split images in the viewfinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leningrad"
+    "Camera-wiki": "Leningrad",
+    "镜头": "Jupiter-8 (ИНДУСТАР), 50mm f/2, coated, Mount: M39 screw, filter thread 35mm, made by KMZ",
+    "对焦": "matching rangefinder split images in the viewfinder",
+    "快门": "Focal plane shutter, rubberized silk double cloth curtain, travelling horizontally, speeds 1- 1/1000 +B, plus bulb sync. 1/25s",
+    "英文简介": "__NOTOC__\n\nThe Leningrad (Ленинград) is a 35mm rangefinder camera manufactured by GOMZ, (ГОМЗ, Государственный оптико-механический завод, Ленинград = Gosularstvennyi Optiko-Mekhanicheskii Zavod =State Optical-Mechanical Factory), Leningrad, USSR."
   },
   "images": [],
   "sources": [

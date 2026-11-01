@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mentor胶片单反相机，1929 年发布",
-  "description": "The Mentor Compur-Reflex is an SLR for 6.5&times;9cm film plates or for type 120 film roll adapter.",
+  "description": "Mentor于1929年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mentor Compur-Reflex"
+    "Camera-wiki": "Mentor Compur-Reflex",
+    "英文简介": "The Mentor Compur-Reflex is an SLR for 6.5&times;9cm film plates or for type 120 film roll adapter."
   },
   "images": [],
   "sources": [

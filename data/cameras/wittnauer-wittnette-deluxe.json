@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wittnauer胶片相机，1959 年发布",
-  "description": "This pseudo TLR was marketed by Wittnauer under its own Wittnette branding c.1959.",
+  "description": "Wittnauer于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wittnette Deluxe"
+    "Camera-wiki": "Wittnette Deluxe",
+    "英文简介": "This pseudo TLR was marketed by Wittnauer under its own Wittnette branding c.1959."
   },
   "images": [],
   "sources": [

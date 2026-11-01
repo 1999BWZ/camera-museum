@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2007 年发布",
-  "description": "The PowerShot A460 is a compact digital camera which was introduced by Canon in September 2007.",
+  "description": "佳能于2007年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A460"
+    "Camera-wiki": "Canon PowerShot A460",
+    "英文简介": "The PowerShot A460 is a compact digital camera which was introduced by Canon in September 2007."
   },
   "images": [],
   "sources": [

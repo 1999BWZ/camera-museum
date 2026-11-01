@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Okada/Daiichi微型相机，1950 年发布",
-  "description": "The Kolt is a Japanese subminiature camera made by Okada in the late 1940s or early 1950s.",
+  "description": "Okada/Daiichi于1950年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kolt"
+    "Camera-wiki": "Kolt",
+    "英文简介": "The Kolt is a Japanese subminiature camera made by Okada in the late 1940s or early 1950s."
   },
   "images": [],
   "sources": [

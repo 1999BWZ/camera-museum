@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来旁轴相机，1960 年发布",
-  "description": "The Polaroid Land Camera Model 900 Electric Eye is a Type-40 instant roll film camera made between 1960-1963 by Polaroid.",
+  "description": "宝丽来于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Model 900"
+    "Camera-wiki": "Polaroid Model 900",
+    "英文简介": "The Polaroid Land Camera Model 900 Electric Eye is a Type-40 instant roll film camera made between 1960-1963 by Polaroid."
   },
   "images": [],
   "sources": [

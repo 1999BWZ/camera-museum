@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue胶片相机，1994 年发布",
-  "description": "The Revue 410 AF is a small, plastic auto focus camera for 35mm film.",
+  "description": "Revue于1994年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue 410 AF"
+    "Camera-wiki": "Revue 410 AF",
+    "英文简介": "The Revue 410 AF is a small, plastic auto focus camera for 35mm film."
   },
   "images": [],
   "sources": [

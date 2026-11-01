@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar取景器相机，1982 年发布",
-  "description": "The Vivitar EF35 is yet another 35mm film camera by Vivitar.",
+  "description": "Vivitar于1982年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar EF35"
+    "Camera-wiki": "Vivitar EF35",
+    "英文简介": "The Vivitar EF35 is yet another 35mm film camera by Vivitar."
   },
   "images": [],
   "sources": [

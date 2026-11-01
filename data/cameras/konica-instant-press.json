@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡一次成像相机，1983 年发布",
-  "description": "The Konica Instant Press is a professional-quality instant camera sold circa 1983-84 by Konica.",
+  "description": "柯尼卡于1983年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Instant Press"
+    "Camera-wiki": "Konica Instant Press",
+    "英文简介": "The Konica Instant Press is a professional-quality instant camera sold circa 1983-84 by Konica."
   },
   "images": [],
   "sources": [

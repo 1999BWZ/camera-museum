@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1937 年发布",
-  "description": "The Semi Elega is a Japanese 4.5×6 folding camera, advertised in 1937 and 1938 by the company Elega.",
+  "description": "Semi于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Elega"
+    "Camera-wiki": "Semi Elega",
+    "英文简介": "The Semi Elega is a Japanese 4.5×6 folding camera, advertised in 1937 and 1938 by the company Elega."
   },
   "images": [],
   "sources": [

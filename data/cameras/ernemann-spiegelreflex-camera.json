@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann数码单反相机，1906 年发布",
-  "description": "Category:1906-1910\nSpiegelreflex-Camera\nSpiegelreflex-Camera Ernemann\nCategory:German SLR",
+  "description": "Ernemann于1906年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Spiegelreflex-Camera"
+    "Camera-wiki": "Ernemann Spiegelreflex-Camera",
+    "英文简介": "Category:1906-1910\nSpiegelreflex-Camera\nSpiegelreflex-Camera Ernemann\nCategory:German SLR"
   },
   "images": [],
   "sources": [

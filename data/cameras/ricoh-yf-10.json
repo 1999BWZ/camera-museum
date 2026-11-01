@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1994 年发布",
-  "description": "The YF-10 is a fixed-focus point-and-shoot camera introduced by Japanese manufacturer Ricoh in 1994.",
+  "description": "理光于1994年推出的便携相机。配备34mm f/4.5。快门速度fixed speed。感光度ISO 100/400 (DX-code system)。fixed-focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh YF-10"
+    "Camera-wiki": "Ricoh YF-10",
+    "镜头": "34mm f/4.5",
+    "对焦": "fixed-focus",
+    "快门": "fixed speed",
+    "曝光测光": "fixed exposureA particular aperture is selected according to the film speed regardless of the light conditions",
+    "取景器": "Albada-type viewfinder",
+    "感光度": "ISO 100/400 (DX-code system)",
+    "闪光灯": "activates by sliding the flash-switch",
+    "尺寸": "127.5 mm X 73.5 mm X 46 mm",
+    "重量": "180 g (without batteries)",
+    "英文简介": "The YF-10 is a fixed-focus point-and-shoot camera introduced by Japanese manufacturer Ricoh in 1994."
   },
   "images": [],
   "sources": [

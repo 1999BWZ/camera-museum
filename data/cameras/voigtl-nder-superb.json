@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer胶片相机，1933 年发布",
-  "description": "The Superb is a well-engineered but somewhat quirky metal-bodied TLR for 6x6 cm pictures on 120 roll film, made by Voigtländer.",
+  "description": "Voigtländer于1933年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Superb"
+    "Camera-wiki": "Superb",
+    "英文简介": "The Superb is a well-engineered but somewhat quirky metal-bodied TLR for 6x6 cm pictures on 120 roll film, made by Voigtländer."
   },
   "images": [],
   "sources": [

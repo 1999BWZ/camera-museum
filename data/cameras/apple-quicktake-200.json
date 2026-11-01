@@ -1,0 +1,40 @@
+{
+  "id": "apple-quicktake-200",
+  "brand": "Apple",
+  "brand_cn": "苹果",
+  "brand_slug": "apple",
+  "country": "美国",
+  "manufacturer": "Apple",
+  "model": "QuickTake 200",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "苹果数码相机，1997 年发布",
+  "description": "苹果于1997年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20888961",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Museum%20%28Prague%29%20QuickTake%20200.jpg?width=800",
+      "caption": "QuickTake 200",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20888961"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Apple QuickTake 200",
+      "url": "https://www.wikidata.org/wiki/Q20888961"
+    }
+  ],
+  "qid": "Q20888961",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

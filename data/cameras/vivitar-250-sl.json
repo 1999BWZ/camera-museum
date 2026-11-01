@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码单反相机，1976 年发布",
-  "description": "The Vivitar 250/SL is a Cosina-made M42 mount, 35mm SLR, marketed by Vivitar circa 1976.",
+  "description": "Vivitar于1976年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 250/SL"
+    "Camera-wiki": "Vivitar 250/SL",
+    "英文简介": "The Vivitar 250/SL is a Cosina-made M42 mount, 35mm SLR, marketed by Vivitar circa 1976."
   },
   "images": [],
   "sources": [

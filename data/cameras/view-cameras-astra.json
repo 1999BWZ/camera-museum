@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras大画幅相机，1948 年发布",
-  "description": "for Dutch photo supply brand „Astra“ see E.",
+  "description": "View cameras于1948年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Astra"
+    "Camera-wiki": "Astra",
+    "英文简介": "for Dutch photo supply brand „Astra“ see E."
   },
   "images": [],
   "sources": [

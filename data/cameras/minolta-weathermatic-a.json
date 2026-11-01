@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1980 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Weathermatic A is a watertight pocket camera taking 110 film.",
+  "description": "美能达于1980年推出的胶片相机。配备Rokkor 1:3.5/26mm (4 coated glass elements in 3 groups)。快门速度metal blade shutter with fixed speed 1/200 sec.。使用by lever。five distances selectable by turning the knob with the 5 distance symbols。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Weathermatic-A"
+    "Camera-wiki": "Minolta Weathermatic-A",
+    "镜头": "Rokkor 1:3.5/26mm (4 coated glass elements in 3 groups)",
+    "对焦": "five distances selectable by turning the knob with the 5 distance symbols",
+    "快门": "metal blade shutter with fixed speed 1/200 sec.",
+    "光圈": "3 apertures selectable with a knob, one for sun, one for clouds or one for flashlight",
+    "取景器": "bright frame finder with parallax correction marks, low light indicator and focusing symbols",
+    "闪光灯": "bult-in, selectable with aperture switch",
+    "胶片/画幅": "by lever",
+    "电池": "1 × AA 1.5V for the CdS-meter",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Weathermatic A is a watertight pocket camera taking 110 film."
   },
   "images": [],
   "sources": [

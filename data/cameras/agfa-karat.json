@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1946 年发布",
-  "description": "{|class=\"floatright\"\n|\n|-\n|\n|}\n\nThe Agfa Karats are a series of of strut-folding 35mm cameras made by Agfa.",
+  "description": "爱克发于1946年推出的取景器相机。配备Igestar 6.3/50 (three elements)。快门速度Agfa Automat B 25 50 100 (self cocking)。使用35mm 12 exp in Karat cassette。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Karat"
+    "Camera-wiki": "Karat",
+    "胶片/画幅": "35mm 12 exp in Karat cassette",
+    "快门": "Agfa Automat B 25 50 100 (self cocking)",
+    "镜头": "Igestar 6.3/50 (three elements)",
+    "光圈": "6.3 to 22",
+    "取景器": "optical direct vision viewfinder",
+    "闪光灯": "None",
+    "英文简介": "{|class=\"floatright\"\n|\n|-\n|\n|}\n\nThe Agfa Karats are a series of of strut-folding 35mm cameras made by Agfa."
   },
   "images": [],
   "sources": [

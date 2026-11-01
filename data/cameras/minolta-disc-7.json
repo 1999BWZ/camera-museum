@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1983 年发布",
-  "description": "The Minolta Disc-7 was one of the better cameras designed for disc film.",
+  "description": "美能达于1983年推出的胶片相机。配备1:2.8/12.5mm。快门速度speeds 1/100 and 1/200 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Disc-7"
+    "Camera-wiki": "Minolta Disc-7",
+    "镜头": "1:2.8/12.5mm",
+    "快门": "speeds 1/100 and 1/200 sec.",
+    "光圈": "CdS-controlled",
+    "自拍": "with control LED",
+    "闪光灯": "guide number 9",
+    "重量": "200g",
+    "尺寸": "129.5×78×21mm",
+    "英文简介": "The Minolta Disc-7 was one of the better cameras designed for disc film."
   },
   "images": [],
   "sources": [

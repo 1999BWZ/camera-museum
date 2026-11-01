@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来取景器相机，2001 年发布",
-  "description": "The Polaroid PZ2001 is a compact 35mm film camera from Polaroid, part of their 'zoom' series of conventional film cameras.",
+  "description": "宝丽来于2001年推出的取景器相机。配备35mm-70mm zoom, f/5.6-f/11 maximum aperture.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid PZ2001"
+    "Camera-wiki": "Polaroid PZ2001",
+    "镜头": "35mm-70mm zoom, f/5.6-f/11 maximum aperture.",
+    "英文简介": "The Polaroid PZ2001 is a compact 35mm film camera from Polaroid, part of their 'zoom' series of conventional film cameras."
   },
   "images": [],
   "sources": [

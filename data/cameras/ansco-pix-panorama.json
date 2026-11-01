@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco取景器相机，1986 年发布",
-  "description": "The Ansco Pix Panorama is an all-plastic, focus-free 35mm camera made in ChinaA sample has also been seen labeled \"Made in Thailand.\".",
+  "description": "Ansco于1986年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Pix Panorama"
+    "Camera-wiki": "Ansco Pix Panorama",
+    "英文简介": "The Ansco Pix Panorama is an all-plastic, focus-free 35mm camera made in ChinaA sample has also been seen labeled \"Made in Thailand.\"."
   },
   "images": [],
   "sources": [

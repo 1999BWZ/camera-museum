@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1986 年发布",
-  "description": "Kodak's VR35-Series was a line of 35mm point-and-shoot cameras, introduced in 1986, marking Kodak's return to making 35mm cameras after a 17 year gap.",
+  "description": "柯达于1986年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak VR35"
+    "Camera-wiki": "Kodak VR35",
+    "英文简介": "Kodak's VR35-Series was a line of 35mm point-and-shoot cameras, introduced in 1986, marking Kodak's return to making 35mm cameras after a 17 year gap."
   },
   "images": [],
   "sources": [

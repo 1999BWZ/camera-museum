@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康无反相机，2018 年发布",
-  "description": "尼康于2018年发布的无反相机。",
+  "description": "尼康于2018年推出的无反相机。配备Nikon Z-mount。快门速度Electronically controlled vertical-travel focal-plane mechanical shutter, Electronic front-curtain shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q56239870",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "Back-illuminated CMOS sensor",
+    "镜头": "Nikon Z-mount",
+    "快门速度": "Electronically controlled vertical-travel focal-plane mechanical shutter, Electronic front-curtain shutter",
+    "存储": "| oacc = MB-N10 battery grip (no controls)MC-N10 remote grip",
+    "电池": "EN-EL15b",
+    "重量": "585 g (body only)675 g (including battery and memory card)"
   },
   "images": [
     {

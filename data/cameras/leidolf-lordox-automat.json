@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leidolf取景器相机，1960 年发布",
-  "description": "Leidolf offered the Lordox Automat (and Super Automat) in the early 1960s.",
+  "description": "Leidolf于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lordox Automat"
+    "Camera-wiki": "Lordox Automat",
+    "英文简介": "Leidolf offered the Lordox Automat (and Super Automat) in the early 1960s."
   },
   "images": [],
   "sources": [

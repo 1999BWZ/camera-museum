@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，1978 年发布",
-  "description": "The Nikon FE is a 35mmm SLR manual focus camera introduced by Nikon in 1978, as a compliment to the Nikon FM launched the previous year.",
+  "description": "尼康于1978年推出的数码单反相机。快门速度Electronic vertical metallic focal plane shutter, speeds: 1-1/2000 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon FE"
+    "Camera-wiki": "Nikon FE",
+    "卡口": "Nikon F bayonet AI-s (compatible with Non-AI lenses)",
+    "取景器": "Fixed eye level pentaprism, 0.85x magnification, 92% frame coverage, needle match exposure meter displays shutter speed and small window displays lens aperture",
+    "曝光测光": "TTL center-weighted (60/40), meter activated by lightly pressing shutter release button, EV 1 - 18 at ISO 100, f 1.4",
+    "快门": "Electronic vertical metallic focal plane shutter, speeds: 1-1/2000 sec",
+    "尺寸": "142×89.5×57.5mm",
+    "重量": "590g",
+    "英文简介": "The Nikon FE is a 35mmm SLR manual focus camera introduced by Nikon in 1978, as a compliment to the Nikon FM launched the previous year."
   },
   "images": [],
   "sources": [

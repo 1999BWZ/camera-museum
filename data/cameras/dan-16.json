@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dan微型相机，1947 年发布",
-  "description": "The Dan 16 is a Japanese 16mm subminiature made by Hagimoto around 1947–8.",
+  "description": "Dan于1947年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dan 16"
+    "Camera-wiki": "Dan 16",
+    "英文简介": "The Dan 16 is a Japanese 16mm subminiature made by Hagimoto around 1947–8."
   },
   "images": [],
   "sources": [

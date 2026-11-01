@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Porst胶片相机，1978 年发布",
-  "description": "The Porst Pocketpak 1000 is a viewfinder pocket camera for type 110 film.",
+  "description": "Porst于1978年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Porst Pocketpak 1000"
+    "Camera-wiki": "Porst Pocketpak 1000",
+    "英文简介": "The Porst Pocketpak 1000 is a viewfinder pocket camera for type 110 film."
   },
   "images": [],
   "sources": [

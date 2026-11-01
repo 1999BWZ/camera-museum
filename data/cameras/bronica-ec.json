@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "勃朗尼卡胶片单反相机，1972 年发布",
-  "description": "__NOTOC__ \n\nThe Bronica EC is a 6x6 SLR camera manufactured by Bronica and was released in 1972.",
+  "description": "勃朗尼卡于1972年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bronica EC"
+    "Camera-wiki": "Bronica EC",
+    "英文简介": "__NOTOC__ \n\nThe Bronica EC is a 6x6 SLR camera manufactured by Bronica and was released in 1972."
   },
   "images": [],
   "sources": [

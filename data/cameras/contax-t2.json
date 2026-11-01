@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时旁轴相机，1991 年发布",
-  "description": "The Contax T2 is a autofocus 35mm compact camera released in 1991 by Kyocera under the Contax brand.",
+  "description": "康泰时于1991年推出的旁轴相机。感光度EV~EV17。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax T2"
+    "Camera-wiki": "Contax T2",
+    "曝光测光": "Aperture priority program AE.",
+    "感光度": "EV~EV17",
+    "英文简介": "The Contax T2 is a autofocus 35mm compact camera released in 1991 by Kyocera under the Contax brand."
   },
   "images": [
     {

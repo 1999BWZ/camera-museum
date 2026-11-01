@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1984 年发布",
-  "description": "The XR-P Multi-Program is a full-featured SLR for 35mm film introduced by Ricoh in 1984.",
+  "description": "理光于1984年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh XR-P"
+    "Camera-wiki": "Ricoh XR-P",
+    "英文简介": "The XR-P Multi-Program is a full-featured SLR for 35mm film introduced by Ricoh in 1984."
   },
   "images": [],
   "sources": [

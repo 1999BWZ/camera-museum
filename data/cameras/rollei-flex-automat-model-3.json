@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1939 年发布",
-  "description": "Rolleiflex Automat Model 3 is a TLR film camera and manufactured by Franke & Heidecke, Braunschweig, Germany.Engravings beneath the Rolleiflex logo: D.R.P.",
+  "description": "禄来于1939年推出的胶片相机。配备Carl Zeiss Tessar 1:3.5 f=7.5cm. or : Carl Zeiss Oberkochen Opton Tessar 1:3.5 f=7.5cm. or : Schneider-Kreuznach Xenar 1:3.5 f=7.5cm. filter: Bayonet size 1; Aperture: f/3.5 - f/16。快门速度Compur - Rapid; speeds: 1 - 1/500 + T & B。使用120 roll (B2), picture size 6x6cm The camera could be used with Rolleikin I to use 35mm film or with the special glass plate film adapter。on matte glass screen, via a big knob on the left side of the camera, w/ DOF scale; Focus range: 0.85-20m +inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex Automat Model 3"
+    "Camera-wiki": "Rolleiflex Automat Model 3",
+    "胶片/画幅": "120 roll (B2), picture size 6x6cm The camera could be used with Rolleikin I to use 35mm film or with the special glass plate film adapter",
+    "镜头": "Carl Zeiss Tessar 1:3.5 f=7.5cm. or : Carl Zeiss Oberkochen Opton Tessar 1:3.5 f=7.5cm. or : Schneider-Kreuznach Xenar 1:3.5 f=7.5cm. filter: Bayonet size 1; Aperture: f/3.5 - f/16",
+    "对焦": "on matte glass screen, via a big knob on the left side of the camera, w/ DOF scale; Focus range: 0.85-20m +inf",
+    "快门": "Compur - Rapid; speeds: 1 - 1/500 + T & B",
+    "闪光灯": "on the left lower corner of the camera, w /M-X lever; Flash sync at all speeds",
+    "英文简介": "Rolleiflex Automat Model 3 is a TLR film camera and manufactured by Franke & Heidecke, Braunschweig, Germany.Engravings beneath the Rolleiflex logo: D.R.P."
   },
   "images": [],
   "sources": [

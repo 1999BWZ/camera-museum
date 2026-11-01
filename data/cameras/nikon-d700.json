@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2008 年发布",
-  "description": "尼康于2008年发布的数码单反相机。",
+  "description": "尼康于2008年推出的数码单反相机。配备Interchangeable, Nikon F mount。快门速度Electronically controlled focal-plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q430861",
-    "多语言词条数": "19"
+    "多语言词条数": "19",
+    "传感器": "36 mm × 23.9 mm CMOS, 8.45 µm pixel size",
+    "镜头": "Interchangeable, Nikon F mount",
+    "取景器": "Optical pentaprism, 95% coverage",
+    "存储": "CompactFlash (Type I only)",
+    "快门速度": "Electronically controlled focal-plane",
+    "曝光测光": "TTL 3D Color Matrix Metering II with a 1005-pixel RGB sensor",
+    "闪光灯": "Manual pop-up with button release Guide number 12/39 (ISO 100, m/ft)",
+    "屏幕": ", VGA resolution, 307,200 pixels (921,600 dots)",
+    "重量": ", body only",
+    "电池": "Nikon EN-EL3e rechargeable Lithium-Ion battery"
   },
   "images": [
     {

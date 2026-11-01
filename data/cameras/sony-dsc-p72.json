@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2003 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Cyber-shot DSC-P72 is a digital camera released by Sony in 2003.",
+  "description": "索尼于2003年推出的数码相机。配备6 to 18mm (39 to 117mm); 3x zoom.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-P72"
+    "Camera-wiki": "Sony DSC-P72",
+    "传感器": "3.2 mega pixel 1/1.8\" CCD",
+    "镜头": "6 to 18mm (39 to 117mm); 3x zoom.",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Cyber-shot DSC-P72 is a digital camera released by Sony in 2003."
   },
   "images": [],
   "sources": [

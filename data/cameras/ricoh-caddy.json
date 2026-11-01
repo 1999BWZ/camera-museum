@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1961 年发布",
-  "description": "The Caddy is a half-frame 35mm camera made in 1961 by Ricoh.",
+  "description": "理光于1961年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caddy"
+    "Camera-wiki": "Ricoh Caddy",
+    "英文简介": "The Caddy is a half-frame 35mm camera made in 1961 by Ricoh."
   },
   "images": [],
   "sources": [

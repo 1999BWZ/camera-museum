@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1988 年发布",
-  "description": "Nikon F-801 is a 35mm film SLR autofocus electronic camera, manufactured by Nikon Corporation, Japan and produced between 1988-1991.",
+  "description": "尼康于1988年推出的胶片单反相机。配备button on the left side of the lens mount。快门速度Electromagnetically controlled vertical-travel focal-plane metal shutter,。使用film automatically advances to first frame when shutter release button is depressed once。感光度6-6400 ASA, setting: DX code or by manual override, setting by the LCD display and the mode knob on the multi-settings dial on the left of the top plate。Autofocus and Manual with electronic rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon F-801 (N8008)"
+    "Camera-wiki": "Nikon F-801 (N8008)",
+    "镜头": "button on the left side of the lens mount",
+    "对焦": "Autofocus and Manual with electronic rangefinder",
+    "快门": "Electromagnetically controlled vertical-travel focal-plane metal shutter,",
+    "取景器": "by pressing button on the back side of the top plate",
+    "曝光测光": "Matrix metering, centre-weighted metering (75/25) (spot metering on F-801S/N8008S)",
+    "感光度": "6-6400 ASA, setting: DX code or by manual override, setting by the LCD display and the mode knob on the multi-settings dial on the left of the top plate",
+    "胶片/画幅": "film automatically advances to first frame when shutter release button is depressed once",
+    "电池": "4 AA alkaline batteries, battery chamber opens by a screw on the right bottom side of the camera and the battery holder slides out",
+    "卡口": "Nikon F bayonet",
+    "光圈": "f/3.3-f/22, setting: auto or manual by the ring and scale on the lens, w/ a lock button on it, locks at f/22",
+    "英文简介": "Nikon F-801 is a 35mm film SLR autofocus electronic camera, manufactured by Nikon Corporation, Japan and produced between 1988-1991."
   },
   "images": [],
   "sources": [

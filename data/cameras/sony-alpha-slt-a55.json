@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2010 年发布",
-  "description": "索尼于2010年发布的数码单反相机。",
+  "description": "索尼于2010年推出的数码单反相机。配备Interchangeable, A-mount。快门速度Electronically controlled, Vertical-traverse, Focal-plane Shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1186048",
-    "多语言词条数": "8"
+    "多语言词条数": "8",
+    "传感器": "APS-C CMOS Sensor",
+    "镜头": "Interchangeable, A-mount",
+    "快门速度": "Electronically controlled, Vertical-traverse, Focal-plane Shutter",
+    "曝光测光": "TTL full aperture exposure metering system 1200-zone evaluative",
+    "取景器": "EVF, 100% coverage, 1.10× magnification",
+    "闪光灯": "GN 10 at ISO 100",
+    "存储": "SD/SDHC/SDXC/Memory Stick Pro Duo",
+    "电池": "NP-FW50 Lithium-ion battery rechargeable battery",
+    "尺寸": "124 × 92 × 85 mm"
   },
   "images": [
     {

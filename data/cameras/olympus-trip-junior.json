@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1990 年发布",
-  "description": "The Trip Junior is a fully-automatic 35mm compact camera, with motor drive and fixed focus - manufactured by Olympus.",
+  "description": "奥林巴斯于1990年推出的取景器相机。配备33mm, f/4.5。感光度Switchable - 100/200/400。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip Junior"
+    "Camera-wiki": "Olympus Trip Junior",
+    "镜头": "33mm, f/4.5",
+    "感光度": "Switchable - 100/200/400",
+    "英文简介": "The Trip Junior is a fully-automatic 35mm compact camera, with motor drive and fixed focus - manufactured by Olympus."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tiger取景器相机，1999 年发布",
-  "description": "The Star Wars Episode 1 Picture Plus Image Camera is a 35mm toy camera released in 1999 by Tiger Electronics.",
+  "description": "Tiger于1999年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tiger Electronics Star Wars Episode 1 Picture Plus Image"
+    "Camera-wiki": "Tiger Electronics Star Wars Episode 1 Picture Plus Image",
+    "英文简介": "The Star Wars Episode 1 Picture Plus Image Camera is a 35mm toy camera released in 1999 by Tiger Electronics."
   },
   "images": [],
   "sources": [

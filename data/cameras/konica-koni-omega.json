@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1954 年发布",
-  "description": "The Koni-Omega is a class of medium format rangefinder cameras.",
+  "description": "柯尼卡于1954年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Koni-Omega"
+    "Camera-wiki": "Koni-Omega",
+    "英文简介": "The Koni-Omega is a class of medium format rangefinder cameras."
   },
   "images": [],
   "sources": [

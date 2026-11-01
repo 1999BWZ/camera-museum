@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2005 年发布",
-  "description": "The Ricoh Caplio GX8 was introduced by Ricoh in 2005.",
+  "description": "理光于2005年推出的数码相机。配备Focal length f:5.8-17.4mm (equivalent to 28-85mm for 35mm film cameras), Lens structure 9 glass elements in 7 groups.。快门速度Still 30, 15, 8, 4, 2, 1-1/2000 sec (electronic/mechanical shutter), During long-term exposure, has noise Elimination function.。感光度Auto, ISO64, ISO100, ISO200, ISO400, ISO800, ISO1600。Autofocus, Manual Focus, Fixed Focus (Snap), ∞ (includes AF auxiliary light)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caplio GX8"
+    "Camera-wiki": "Ricoh Caplio GX8",
+    "镜头": "Focal length f:5.8-17.4mm (equivalent to 28-85mm for 35mm film cameras), Lens structure 9 glass elements in 7 groups.",
+    "光圈": "F:2.5(W)-4.3(T)",
+    "变焦": "Optical 3x",
+    "快门": "Still 30, 15, 8, 4, 2, 1-1/2000 sec (electronic/mechanical shutter), During long-term exposure, has noise Elimination function.",
+    "对焦": "Autofocus, Manual Focus, Fixed Focus (Snap), ∞ (includes AF auxiliary light)",
+    "感光度": "Auto, ISO64, ISO100, ISO200, ISO400, ISO800, ISO1600",
+    "尺寸": "113.6 x 29.0 x 58.0mm (excluding projections)",
+    "重量": "Approx. 205g (excluding battery, SD Memory Card, hand strap)",
+    "英文简介": "The Ricoh Caplio GX8 was introduced by Ricoh in 2005."
   },
   "images": [],
   "sources": [

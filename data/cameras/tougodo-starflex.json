@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo胶片相机，1955 年发布",
-  "description": "For the Kodak 127 twin-lens camera, see Kodak Brownie Starflex.",
+  "description": "Tougodo于1955年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Starflex (postwar)"
+    "Camera-wiki": "Starflex (postwar)",
+    "英文简介": "For the Kodak 127 twin-lens camera, see Kodak Brownie Starflex."
   },
   "images": [],
   "sources": [

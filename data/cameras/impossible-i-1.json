@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Impossible一次成像相机，2016 年发布",
-  "description": "The I-1 is a auto focus instant camera made by Impossible and released in Spring 2016.",
+  "description": "Impossible于2016年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Impossible I-1"
+    "Camera-wiki": "Impossible I-1",
+    "英文简介": "The I-1 is a auto focus instant camera made by Impossible and released in Spring 2016."
   },
   "images": [],
   "sources": [

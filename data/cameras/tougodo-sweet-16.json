@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo微型相机，1955 年发布",
-  "description": "The Sweet 16 is a Japanese subminiature camera taking 17.5mm rollfilm, made in the mid or late 1950s by Tougodo.",
+  "description": "Tougodo于1955年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sweet 16"
+    "Camera-wiki": "Sweet 16",
+    "英文简介": "The Sweet 16 is a Japanese subminiature camera taking 17.5mm rollfilm, made in the mid or late 1950s by Tougodo."
   },
   "images": [],
   "sources": [

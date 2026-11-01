@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1977 年发布",
-  "description": "In 1977, Pentax introduced two small 35mm SLRs, the MX and the ME.",
+  "description": "宾得于1977年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax ME"
+    "Camera-wiki": "Pentax ME",
+    "尺寸": "130 x 82 x 71mm",
+    "英文简介": "In 1977, Pentax introduced two small 35mm SLRs, the MX and the ME."
   },
   "images": [],
   "sources": [

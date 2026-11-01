@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士无反相机，2018 年发布",
-  "description": "富士于2018年发布的无反相机。",
+  "description": "富士于2018年推出的无反相机。配备Fujifilm X。快门速度4 s to 1/4000 s (mechanical), 4 s to 1/32000 s (electronic)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q55391870",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "传感器": "CMOS with Bayer filter",
+    "存储": "SD card",
+    "镜头": "Fujifilm X",
+    "曝光测光": "TTL 256-zones metering",
+    "闪光灯": "Manual pop-up flash",
+    "快门速度": "4 s to 1/4000 s (mechanical), 4 s to 1/32000 s (electronic)",
+    "取景器": "none",
+    "电池": "NP-W126S Li-ion",
+    "重量": "including battery and memory card"
   },
   "images": [
     {

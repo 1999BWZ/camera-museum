@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1997 年发布",
-  "description": "The Pentax MZ-5N (ZX-5N in US) from 1997, is autofocus 35mm film SLR.",
+  "description": "宾得于1997年推出的胶片单反相机。快门速度Focal plane shutter with speeds from 30 to 1/2000 sec. B, 2 to 1/2000 sec manual。使用35mm film with speeds of 25 to 5000 ISO, with auto DX, 6 to 6400 ISO manual。autofocus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MZ-5N/ZX-5N"
+    "Camera-wiki": "Pentax MZ-5N/ZX-5N",
+    "卡口": "Pentax KAF2",
+    "胶片/画幅": "35mm film with speeds of 25 to 5000 ISO, with auto DX, 6 to 6400 ISO manual",
+    "曝光测光": "silicon photo cell.",
+    "对焦": "autofocus.",
+    "闪光灯": "Built-in, Guide number 11",
+    "快门": "Focal plane shutter with speeds from 30 to 1/2000 sec. B, 2 to 1/2000 sec manual",
+    "取景器": "0.8 magnification x 92% coverage, shutter and aperture LED display.",
+    "尺寸": "approx 135 × 90 × 61mm",
+    "重量": "410g",
+    "英文简介": "The Pentax MZ-5N (ZX-5N in US) from 1997, is autofocus 35mm film SLR."
   },
   "images": [],
   "sources": [

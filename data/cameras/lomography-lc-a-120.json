@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography玩具相机，2014 年发布",
-  "description": "The LC-A 120 is a medium format 6x6 camera that uses 120 film and released by Lomography in 2014.",
+  "description": "Lomography于2014年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomography LC-A 120"
+    "Camera-wiki": "Lomography LC-A 120",
+    "英文简介": "The LC-A 120 is a medium format 6x6 camera that uses 120 film and released by Lomography in 2014."
   },
   "images": [],
   "sources": [

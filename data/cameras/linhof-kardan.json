@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof胶片相机，1960 年发布",
-  "description": "The Linhof Kardan cameras are a series of classical monorail cameras (Linhof would say: optical bench cameras).",
+  "description": "Linhof于1960年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Kardan"
+    "Camera-wiki": "Linhof Kardan",
+    "英文简介": "The Linhof Kardan cameras are a series of classical monorail cameras (Linhof would say: optical bench cameras)."
   },
   "images": [],
   "sources": [

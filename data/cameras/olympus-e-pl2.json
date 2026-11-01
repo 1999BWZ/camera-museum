@@ -1,0 +1,32 @@
+{
+  "id": "olympus-e-pl2",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-PL2",
+  "year": 2011,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2011 年发布",
+  "description": "奥林巴斯于2011年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889160",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus E-PL2",
+      "url": "https://www.wikidata.org/wiki/Q20889160"
+    }
+  ],
+  "qid": "Q20889160",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

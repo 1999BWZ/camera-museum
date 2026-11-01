@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo胶片相机，1970 年发布",
-  "description": "The Safari is a simple, plastic box-type camera taking square images on 127 roll film, made in France by Fex-Indo, c.1970.",
+  "description": "Fex Indo于1970年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Safari 127 and Comodor 127"
+    "Camera-wiki": "Safari 127 and Comodor 127",
+    "英文简介": "The Safari is a simple, plastic box-type camera taking square images on 127 roll film, made in France by Fex-Indo, c.1970."
   },
   "images": [],
   "sources": [

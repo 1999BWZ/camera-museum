@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码相机，2019 年发布",
-  "description": "The Leica S3 is a medium-format digital system camera.",
+  "description": "徕卡于2019年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica S3"
+    "Camera-wiki": "Leica S3",
+    "英文简介": "The Leica S3 is a medium-format digital system camera."
   },
   "images": [],
   "sources": [

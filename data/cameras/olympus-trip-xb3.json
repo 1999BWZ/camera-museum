@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1996 年发布",
-  "description": "The Trip XB3 is a straightforward fully automatic compact camera introduced by Olympus in 1996 with a bright, extra-large viewfinder, integrated flash with red-eye reduction, and a self-timer.",
+  "description": "奥林巴斯于1996年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip XB3"
+    "Camera-wiki": "Olympus Trip XB3",
+    "英文简介": "The Trip XB3 is a straightforward fully automatic compact camera introduced by Olympus in 1996 with a bright, extra-large viewfinder, integrated flash with red-eye reduction, and a self-timer."
   },
   "images": [],
   "sources": [

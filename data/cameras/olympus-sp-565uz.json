@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2008 年发布",
-  "description": "The Olympus SP-565 UltraZoom (UZ) is a handsome light super zoom bridge camera.",
+  "description": "奥林巴斯于2008年推出的数码相机。配备Olympus ED lens AF Zoom 4.6-92mm 1:2.8-4.5 (Olympus)。快门速度Speeds 60 to 1/2000 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus SP-565UZ"
+    "Camera-wiki": "Olympus SP-565UZ",
+    "传感器": "10 Megapixel 1/2,33\" CCD, emulated film speeds ISO 64 to 6400, image stabilizer added",
+    "镜头": "Olympus ED lens AF Zoom 4.6-92mm 1:2.8-4.5 (Olympus)",
+    "快门": "Speeds 60 to 1/2000 sec.",
+    "取景器": "electronic viewfinder (color screen behind ocular)",
+    "闪光灯": "built-in, no flash shoe",
+    "尺寸": "116×83.3×80.8 mm",
+    "重量": "373 g",
+    "英文简介": "The Olympus SP-565 UltraZoom (UZ) is a handsome light super zoom bridge camera."
   },
   "images": [],
   "sources": [

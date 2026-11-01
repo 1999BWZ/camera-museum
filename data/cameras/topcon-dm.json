@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片单反相机，1973 年发布",
-  "description": "The Topcon Super DM or Super Dm is a manual focus 35mm film SLR camera from Tōkyō Kōgaku.",
+  "description": "Topcon于1973年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon Super DM"
+    "Camera-wiki": "Topcon Super DM",
+    "英文简介": "The Topcon Super DM or Super Dm is a manual focus 35mm film SLR camera from Tōkyō Kōgaku."
   },
   "images": [],
   "sources": [

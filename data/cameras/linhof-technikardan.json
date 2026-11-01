@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof胶片相机，1983 年发布",
-  "description": "The Linhof Technikardan is a monorail camera (or better: optical bench camera) specially designed for the Technika System.",
+  "description": "Linhof于1983年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Technikardan"
+    "Camera-wiki": "Linhof Technikardan",
+    "英文简介": "The Linhof Technikardan is a monorail camera (or better: optical bench camera) specially designed for the Technika System."
   },
   "images": [],
   "sources": [

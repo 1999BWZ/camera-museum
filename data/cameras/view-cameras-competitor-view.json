@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras大画幅相机，1907 年发布",
-  "description": "The Competitor View is a view camera made by Seneca from about 1907-25, p886.",
+  "description": "View cameras于1907年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Competitor View"
+    "Camera-wiki": "Competitor View",
+    "英文简介": "The Competitor View is a view camera made by Seneca from about 1907-25, p886."
   },
   "images": [],
   "sources": [

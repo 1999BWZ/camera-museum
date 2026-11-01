@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pax旁轴相机，1958 年发布",
-  "description": "The Pax Ruby is a fixed-lens leaf-shutter rangefinder camera made by Yamato in the 1950s.",
+  "description": "Pax于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pax Ruby"
+    "Camera-wiki": "Pax Ruby",
+    "英文简介": "The Pax Ruby is a fixed-lens leaf-shutter rangefinder camera made by Yamato in the 1950s."
   },
   "images": [],
   "sources": [

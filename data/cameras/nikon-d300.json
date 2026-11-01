@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2007 年发布",
-  "description": "尼康于2007年发布的数码单反相机。",
+  "description": "尼康于2007年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electronically controlled vertical-travel focal plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q743366",
-    "多语言词条数": "24"
+    "多语言词条数": "24",
+    "传感器": "Nikon DX format 23.6 mm × 15.8 mm CMOS",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically controlled vertical-travel focal plane shutter",
+    "曝光测光": "Three-mode through-the-lens (TTL) exposure metering",
+    "取景器": "Optical, 100% frame coverage",
+    "闪光灯": "Manual pop-up with button release Guide number 12/39 (ISO 100, m/ft)",
+    "电池": "Nikon EN-EL3e Lithium-Ion battery",
+    "屏幕": "3-inch TFT LCD with 307,200 pixels (921,600 dots)",
+    "重量": "About without battery, memory card, body cap, or monitor cover"
   },
   "images": [
     {

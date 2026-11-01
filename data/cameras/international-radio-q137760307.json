@@ -1,0 +1,40 @@
+{
+  "id": "international-radio-q137760307",
+  "brand": "International Radio",
+  "brand_cn": "",
+  "brand_slug": "international-radio",
+  "country": "待补充",
+  "manufacturer": "International Radio Corporation",
+  "model": "Q137760307",
+  "year": 1936,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "International Radio胶片相机，1936 年发布",
+  "description": "International Radio于1936年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q137760307",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Argus%20%28257003761%29.jpg?width=800",
+      "caption": "Q137760307",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q137760307"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Q137760307",
+      "url": "https://www.wikidata.org/wiki/Q137760307"
+    }
+  ],
+  "qid": "Q137760307",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

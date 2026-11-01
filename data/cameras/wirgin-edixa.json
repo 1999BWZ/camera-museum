@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wirgin取景器相机，1952 年发布",
-  "description": "In 1953 Wirgin intended to replace its successful Edinex viewfinder cameras with a more up-to-date model of viewfinder camera, which they named Edina.",
+  "description": "Wirgin于1952年推出的取景器相机。配备Isco-Göttingen Jsconar 1:2.8/43mm。快门速度Prontor S with speeds 1 sec. to 1/300 sec and B, opens only with film in camera, speed 1/50 or slower flash synchronized, a variant of the camera had a Prontor-SVS shutter instead。使用35mm。turnable front lens element adjustable for distances from 1m to infinity with help of split image rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wirgin Edixa"
+    "Camera-wiki": "Wirgin Edixa",
+    "胶片/画幅": "35mm",
+    "镜头": "Isco-Göttingen Jsconar 1:2.8/43mm",
+    "取景器": "optical",
+    "对焦": "turnable front lens element adjustable for distances from 1m to infinity with help of split image rangefinder",
+    "快门": "Prontor S with speeds 1 sec. to 1/300 sec and B, opens only with film in camera, speed 1/50 or slower flash synchronized, a variant of the camera had a Prontor-SVS shutter instead",
+    "光圈": "1:2.8 to 1:16",
+    "英文简介": "In 1953 Wirgin intended to replace its successful Edinex viewfinder cameras with a more up-to-date model of viewfinder camera, which they named Edina."
   },
   "images": [],
   "sources": [

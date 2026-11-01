@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡一次成像相机，2017 年发布",
-  "description": "The Sofort is a camera for instant prints 62 x 46mm, made by (or for) Leica for a short time from 2017.As of July 2021 neither the camera nor film-packs are available at Leica's web-shop.",
+  "description": "徕卡于2017年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica Sofort"
+    "Camera-wiki": "Leica Sofort",
+    "英文简介": "The Sofort is a camera for instant prints 62 x 46mm, made by (or for) Leica for a short time from 2017.As of July 2021 neither the camera nor film-packs are available at Leica's web-shop."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2001 年发布",
-  "description": "The Lumix DMC-LC5 is a digital camera from Japanese company Panasonic released in 2001.",
+  "description": "松下于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-LC5"
+    "Camera-wiki": "Panasonic Lumix DMC-LC5",
+    "英文简介": "The Lumix DMC-LC5 is a digital camera from Japanese company Panasonic released in 2001."
   },
   "images": [
     {

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ旁轴相机，1959 年发布",
-  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "description": "KMZ于1959年推出的旁轴相机。Matching yellow rangefinder images。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mir"
+    "Camera-wiki": "Mir",
+    "对焦": "Matching yellow rangefinder images",
+    "取景器": "Combined view/range finder, large and bright",
+    "自拍": "Activates by a small silver knob above the lever, 9-15 seconds delay",
+    "闪光灯": "On the front of the top plate, flash sync at 1/30",
+    "英文简介": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!"
   },
   "images": [],
   "sources": [

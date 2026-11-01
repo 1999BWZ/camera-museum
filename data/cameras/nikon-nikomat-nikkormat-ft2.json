@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片相机，1975 年发布",
-  "description": "The Nikomat FT2 (in Japan) or Nikkormat FT2 (elsewhere) is the last of the pre-AI mechanical-shutter Nikomat/Nikkormat bodies, sold 1975&ndash;1977.",
+  "description": "尼康于1975年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikomat/Nikkormat FT2"
+    "Camera-wiki": "Nikomat/Nikkormat FT2",
+    "英文简介": "The Nikomat FT2 (in Japan) or Nikkormat FT2 (elsewhere) is the last of the pre-AI mechanical-shutter Nikomat/Nikkormat bodies, sold 1975&ndash;1977."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Contessa-Nettel折叠相机，1920 年发布",
-  "description": "Contessa-Nettel Donata was manufactured by Contessa-Nettel AG, Stuttgart, Germany.It is a folder bed plate film camera.",
+  "description": "Contessa-Nettel于1920年推出的折叠相机。配备Contessa-Nettel Nettar-Anastigmat 105mm, f/4.5, filter slip-on, with apertures f/4.5-f/38.。快门速度Ibsor leaf shutter, speeds: 1-1/100 +T & B.。使用6.5x9cm and 9x12cm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Donata"
+    "Camera-wiki": "Donata",
+    "胶片/画幅": "6.5x9cm and 9x12cm",
+    "镜头": "Contessa-Nettel Nettar-Anastigmat 105mm, f/4.5, filter slip-on, with apertures f/4.5-f/38.",
+    "快门": "Ibsor leaf shutter, speeds: 1-1/100 +T & B.",
+    "英文简介": "Contessa-Nettel Donata was manufactured by Contessa-Nettel AG, Stuttgart, Germany.It is a folder bed plate film camera."
   },
   "images": [],
   "sources": [

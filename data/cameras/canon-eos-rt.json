@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1989 年发布",
-  "description": "The Canon EOS RT is a member of the Canon EOS system of autofocus SLR cameras introduced in the late 1980s as a replacement of the T series manual focus SLRs.",
+  "description": "佳能于1989年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS RT"
+    "Camera-wiki": "Canon EOS RT",
+    "英文简介": "The Canon EOS RT is a member of the Canon EOS system of autofocus SLR cameras introduced in the late 1980s as a replacement of the T series manual focus SLRs."
   },
   "images": [],
   "sources": [

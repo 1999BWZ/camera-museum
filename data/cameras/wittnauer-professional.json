@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wittnauer旁轴相机，1958 年发布",
-  "description": "The Professional is a 35mm coupled rangefinder camera, sold by the New York company Wittnauer, better known for watches, from around 1958.",
+  "description": "Wittnauer于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wittnauer Professional"
+    "Camera-wiki": "Wittnauer Professional",
+    "英文简介": "The Professional is a 35mm coupled rangefinder camera, sold by the New York company Wittnauer, better known for watches, from around 1958."
   },
   "images": [],
   "sources": [

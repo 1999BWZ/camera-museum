@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡折叠相机，1901 年发布",
-  "description": "The Moment Camera is any of a few folding-bed plate cameras sold by Leitz of Wetzlar for a few years in the first years of the 20th century.",
+  "description": "徕卡于1901年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leitz Moment Camera"
+    "Camera-wiki": "Leitz Moment Camera",
+    "英文简介": "The Moment Camera is any of a few folding-bed plate cameras sold by Leitz of Wetzlar for a few years in the first years of the 20th century."
   },
   "images": [],
   "sources": [

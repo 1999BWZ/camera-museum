@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1929 年发布",
-  "description": "The Boy Scout Kodak was based on the Vest Pocket Kodak Model B, a simple folding bed camera.",
+  "description": "柯达于1929年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Boy Scout Kodak"
+    "Camera-wiki": "Boy Scout Kodak",
+    "英文简介": "The Boy Scout Kodak was based on the Vest Pocket Kodak Model B, a simple folding bed camera."
   },
   "images": [],
   "sources": [

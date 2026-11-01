@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Underwater取景器相机，1997 年发布",
-  "description": "The Mauritius is an underwater camera produced by (or for) the German company Cullmann in about 1997.",
+  "description": "Underwater于1997年推出的取景器相机。配备F3.5 / 34mm (3 elements in 3 groups)。快门速度Mechanical, behind the lens。使用24x36mm。感光度ISO 100 or ISO 400, DX code auto recognized.。Fixfocus, 1 meter till infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mauritius"
+    "Camera-wiki": "Mauritius",
+    "胶片/画幅": "24x36mm",
+    "镜头": "F3.5 / 34mm (3 elements in 3 groups)",
+    "快门": "Mechanical, behind the lens",
+    "对焦": "Fixfocus, 1 meter till infinity",
+    "曝光测光": "Underexposure warning by red LED; 3 diaphragm settings",
+    "感光度": "ISO 100 or ISO 400, DX code auto recognized.",
+    "取景器": "Optical viewfinder; 0.45x magnification; 80% frame coverage.",
+    "闪光灯": "Built-in flash. Guide number (above water) 10 with ISO 100; Recharge time 6 seconds",
+    "尺寸": "Height 100mm, Width 167mm, Depth 66mm",
+    "重量": "600 grams",
+    "英文简介": "The Mauritius is an underwater camera produced by (or for) the German company Cullmann in about 1997."
   },
   "images": [],
   "sources": [

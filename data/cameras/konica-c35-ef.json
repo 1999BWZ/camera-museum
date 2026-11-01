@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1974 年发布",
-  "description": "The Konica C35 EF is a compact camera.",
+  "description": "柯尼卡于1974年推出的取景器相机。配备Konica Hexanon 38mm, f/2.8。快门速度1/60, 1/125。感光度ASA/ISO 25-400, set manually by turning disc around lens.。1.0 m to infinity, with display of zone shown in viewfinder.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica C35 EF"
+    "Camera-wiki": "Konica C35 EF",
+    "镜头": "Konica Hexanon 38mm, f/2.8",
+    "尺寸": "46mm",
+    "快门速度": "1/60, 1/125",
+    "对焦": "1.0 m to infinity, with display of zone shown in viewfinder.",
+    "感光度": "ASA/ISO 25-400, set manually by turning disc around lens.",
+    "英文简介": "The Konica C35 EF is a compact camera."
   },
   "images": [],
   "sources": [

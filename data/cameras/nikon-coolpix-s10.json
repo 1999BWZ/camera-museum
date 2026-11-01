@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2006 年发布",
-  "description": "The Coolpix S10 is a compact digital camera manufactured by Nikon and announced at the end of 2006.",
+  "description": "尼康于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix S10"
+    "Camera-wiki": "Nikon Coolpix S10",
+    "英文简介": "The Coolpix S10 is a compact digital camera manufactured by Nikon and announced at the end of 2006."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Press cameras折叠相机，1951 年发布",
-  "description": "This press camera of MPP was based on the Pacemaker Speed Graphic.",
+  "description": "Press cameras于1951年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Micro-Press"
+    "Camera-wiki": "Micro-Press",
+    "英文简介": "This press camera of MPP was based on the Pacemaker Speed Graphic."
   },
   "images": [],
   "sources": [

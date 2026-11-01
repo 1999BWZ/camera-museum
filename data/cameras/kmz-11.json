@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ数码单反相机，1981 年发布",
-  "description": "The KMZ and Belomo manufactured[http://www.ussrphoto.com/wiki/default.asp?ParentID=1&WikiCatID=69&ContentID=241 USSRPhoto: Zenit 11] Zenit 11 (Зенит 11) 35mm SLR was a member of the Zenit E family derived from the Zenit ET but with different control placement and generally in all black[http://www.co",
+  "description": "KMZ于1981年推出的数码单反相机。快门速度1/30, 1/60, 1/125, 1/250, 1/500 and Bulb mode[http://www.xs4all.nl/~tomtiger/zenit11.html Tiger's Lair: Zenit 11] -->.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 11"
+    "Camera-wiki": "Zenit 11",
+    "尺寸": "24x36mm",
+    "快门速度": "1/30, 1/60, 1/125, 1/250, 1/500 and Bulb mode[http://www.xs4all.nl/~tomtiger/zenit11.html Tiger's Lair: Zenit 11] -->.",
+    "卡口": "M42.",
+    "英文简介": "The KMZ and Belomo manufactured[http://www.ussrphoto.com/wiki/default.asp?ParentID=1&WikiCatID=69&ContentID=241 USSRPhoto: Zenit 11] Zenit 11 (Зенит 11) 35mm SLR was a member of the Zenit E family derived from the Zenit ET but with different control placement and generally in all black[http://www.commiecameras.com/sov/35mmsinglelensreflexcameras/cameras/zenit/index.htm Commiecameras.com] but examp"
   },
   "images": [],
   "sources": [

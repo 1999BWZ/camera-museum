@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1959 年发布",
-  "description": "The Optima is a family of 35mm cameras made by Agfa in the 1960s and beyond.",
+  "description": "爱克发于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima"
+    "Camera-wiki": "Optima",
+    "英文简介": "The Optima is a family of 35mm cameras made by Agfa in the 1960s and beyond."
   },
   "images": [],
   "sources": [

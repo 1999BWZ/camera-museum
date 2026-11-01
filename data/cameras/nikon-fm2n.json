@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，1983 年发布",
-  "description": "After having launched the original Nikon FM in 1977, succeeded by the FM2 in 1982, the FM2n followed one year later in 1983 together with the electronic FE2 and Nikon’s first multimode auto exposure FA.",
+  "description": "尼康于1983年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon FM2n"
+    "Camera-wiki": "Nikon FM2n",
+    "英文简介": "After having launched the original Nikon FM in 1977, succeeded by the FM2 in 1982, the FM2n followed one year later in 1983 together with the electronic FE2 and Nikon’s first multimode auto exposure FA."
   },
   "images": [],
   "sources": [

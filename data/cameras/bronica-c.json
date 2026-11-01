@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "勃朗尼卡胶片单反相机，1964 年发布",
-  "description": "The Bronica C is a 6×6 format focal plane shutter SLR introduced by Bronica in 1964.",
+  "description": "勃朗尼卡于1964年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bronica C"
+    "Camera-wiki": "Bronica C",
+    "英文简介": "The Bronica C is a 6×6 format focal plane shutter SLR introduced by Bronica in 1964."
   },
   "images": [],
   "sources": [

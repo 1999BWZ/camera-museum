@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nagel折叠相机，1930 年发布",
-  "description": "The Vollenda 68 is a self-erecting vertical folder manufactured by Nagel, fitted with a 10.5cm f/6.3 Dr.",
+  "description": "Nagel于1930年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vollenda 68"
+    "Camera-wiki": "Vollenda 68",
+    "英文简介": "The Vollenda 68 is a self-erecting vertical folder manufactured by Nagel, fitted with a 10.5cm f/6.3 Dr."
   },
   "images": [],
   "sources": [

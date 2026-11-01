@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kenngott折叠相机，1928 年发布",
-  "description": "The Matador is a self-erecting folding plate camera made by Willhelm Kenngott in Stuttgart in about 1928.",
+  "description": "Kenngott于1928年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kenngott Matador"
+    "Camera-wiki": "Kenngott Matador",
+    "英文简介": "The Matador is a self-erecting folding plate camera made by Willhelm Kenngott in Stuttgart in about 1928."
   },
   "images": [],
   "sources": [

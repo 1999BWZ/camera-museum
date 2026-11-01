@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda胶片相机，1966 年发布",
-  "description": "{| \n|\n\n|\n\n|}\nMiranda launched the Sensorex in September 1966.",
+  "description": "Miranda于1966年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda Sensorex"
+    "Camera-wiki": "Miranda Sensorex",
+    "英文简介": "{| \n|\n\n|\n\n|}\nMiranda launched the Sensorex in September 1966."
   },
   "images": [],
   "sources": [

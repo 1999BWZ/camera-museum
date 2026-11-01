@@ -1,0 +1,40 @@
+{
+  "id": "state-enterprise-kharkiv-machinery-plant-fed-fed-1",
+  "brand": "State enterprise Kharkiv Machinery Plant \"FED\"",
+  "brand_cn": "",
+  "brand_slug": "state-enterprise-kharkiv-machinery-plant-fed",
+  "country": "待补充",
+  "manufacturer": "State enterprise Kharkiv Machinery Plant \"FED\"",
+  "model": "FED 1",
+  "year": 1934,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "State enterprise Kharkiv Machinery Plant \"FED\"胶片相机，1934 年发布",
+  "description": "State enterprise Kharkiv Machinery Plant \"FED\"于1934年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4480265",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%AD%D0%94%20-%20Fed%201%20model%20IV%20%28upper%20right%20side%20view%29.jpg?width=800",
+      "caption": "FED 1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4480265"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – FED 1",
+      "url": "https://www.wikidata.org/wiki/Q4480265"
+    }
+  ],
+  "qid": "Q4480265",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

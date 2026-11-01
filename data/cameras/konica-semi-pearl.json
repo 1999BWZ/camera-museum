@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1938 年发布",
-  "description": "The Semi Pearl is a 4.5×6cm folder, released by Konishiroku (the later Konica) in 1938, and succeeded in 1949 by the Pearl (I).",
+  "description": "柯尼卡于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Pearl"
+    "Camera-wiki": "Semi Pearl",
+    "英文简介": "The Semi Pearl is a 4.5×6cm folder, released by Konishiroku (the later Konica) in 1938, and succeeded in 1949 by the Pearl (I)."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚中画幅相机，1952 年发布",
-  "description": "The Mamiyaflex II is a 6x6 TLR camera that takes 120 film and released by Mamiya.",
+  "description": "玛米亚于1952年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiyaflex II"
+    "Camera-wiki": "Mamiyaflex II",
+    "英文简介": "The Mamiyaflex II is a 6x6 TLR camera that takes 120 film and released by Mamiya."
   },
   "images": [],
   "sources": [

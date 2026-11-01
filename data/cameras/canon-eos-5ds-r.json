@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-5ds-r",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS 5DS R",
+  "year": 2015,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2015 年发布",
+  "description": "佳能于2015年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20888994",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20EOS%205Ds%20R%202015%20CP%2B.jpg?width=800",
+      "caption": "EOS 5DS R",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20888994"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon EOS 5DS R",
+      "url": "https://www.wikidata.org/wiki/Q20888994"
+    }
+  ],
+  "qid": "Q20888994",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

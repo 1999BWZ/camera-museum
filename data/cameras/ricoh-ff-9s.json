@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1990 年发布",
-  "description": "The Ricoh FF-9s is a compact camera with an 1:3.5 f=35mm lens which is protected by a sliding door when the camera is switched off.",
+  "description": "理光于1990年推出的便携相机。配备35mm f/3.5, 4 elements in 4 groups。快门速度1/4 - 1/400 sec.。感光度ISO 100 - 1600 (DX-code system)。Active Spot AF, 6 focusing steps, 0.8 m - inf.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh FF-9s"
+    "Camera-wiki": "Ricoh FF-9s",
+    "镜头": "35mm f/3.5, 4 elements in 4 groups",
+    "对焦": "Active Spot AF, 6 focusing steps, 0.8 m - inf.",
+    "快门": "1/4 - 1/400 sec.",
+    "感光度": "ISO 100 - 1600 (DX-code system)",
+    "闪光灯": "0.8 - 3.2 m (ISO100)",
+    "尺寸": "121mm X 67mm X 44mm",
+    "重量": "220g (without battery)",
+    "英文简介": "The Ricoh FF-9s is a compact camera with an 1:3.5 f=35mm lens which is protected by a sliding door when the camera is switched off."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Conley折叠相机，1906 年发布",
-  "description": "Conley's Model XIII plate single extension folding bed camera was also sold as Conley A.",
+  "description": "Conley于1906年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Conley Model XIII"
+    "Camera-wiki": "Conley Model XIII",
+    "英文简介": "Conley's Model XIII plate single extension folding bed camera was also sold as Conley A."
   },
   "images": [],
   "sources": [

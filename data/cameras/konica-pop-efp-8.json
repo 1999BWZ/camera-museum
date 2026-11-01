@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1996 年发布",
-  "description": "The EFP-8 made by Konica is a very basic full plastic viewfinder with flash.",
+  "description": "柯尼卡于1996年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica POP EFP-8"
+    "Camera-wiki": "Konica POP EFP-8",
+    "尺寸": "128x72x49 mm",
+    "重量": "194gr. (without batteries and film)",
+    "英文简介": "The EFP-8 made by Konica is a very basic full plastic viewfinder with flash."
   },
   "images": [],
   "sources": [

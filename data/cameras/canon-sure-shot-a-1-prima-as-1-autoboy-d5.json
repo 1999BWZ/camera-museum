@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1994 年发布",
-  "description": "Part of the Canon Sure Shot/Prima/Autoboy series of compact cameras from Canon.",
+  "description": "佳能于1994年推出的便携相机。配备32mm, f/3.5 (6 elements in 6 groups)。快门速度1/250-1/60s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot A-1/Prima AS-1/Autoboy D5"
+    "Camera-wiki": "Canon Sure Shot A-1/Prima AS-1/Autoboy D5",
+    "镜头": "32mm, f/3.5 (6 elements in 6 groups)",
+    "快门": "1/250-1/60s.",
+    "取景器": "large and bright for use with swimming goggles, autofocus frame, ready light, flash warning.",
+    "闪光灯": "Automatic, but can be disabled. GN: 7.5m at ISO 100.",
+    "重量": "133x88x56 mm, 385 g (with battery)",
+    "尺寸": "133x88x56 mm",
+    "英文简介": "Part of the Canon Sure Shot/Prima/Autoboy series of compact cameras from Canon."
   },
   "images": [],
   "sources": [

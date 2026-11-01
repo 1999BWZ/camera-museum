@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "TDC立体相机，1954 年发布",
-  "description": "The TDC Stereo Colorist was introduced in 1954 as a competitor in the stereo market to the popular Stereo Realist.",
+  "description": "TDC于1954年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "TDC Stereo Colorist"
+    "Camera-wiki": "TDC Stereo Colorist",
+    "英文简介": "The TDC Stereo Colorist was introduced in 1954 as a competitor in the stereo market to the popular Stereo Realist."
   },
   "images": [],
   "sources": [

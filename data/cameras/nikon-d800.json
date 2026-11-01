@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2012 年发布",
-  "description": "尼康于2012年发布的数码单反相机。",
+  "description": "尼康于2012年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electronically controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1992016",
-    "多语言词条数": "17"
+    "多语言词条数": "17",
+    "传感器": "35.9 × 24 mm Full Frame FX format CMOS, 4.88 μm pixel size",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL 3D Color Matrix Metering III with a 91,000-pixel RGB sensor",
+    "取景器": "Optical pentaprism, 100% coverage, approx. 0.70× magnification",
+    "闪光灯": "Manual pop-up with button release Guide number 12/39 (ISO 100, m/ft)",
+    "电池": "Nikon EN-EL15 rechargeable lithium-ion battery",
+    "屏幕": "3.2 inch, VGA resolution (921,600 pixels)",
+    "重量": ", body only"
   },
   "images": [
     {

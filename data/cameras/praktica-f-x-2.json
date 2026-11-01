@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1956 年发布",
-  "description": "The Praktica F.X 2 is a relatively early member of the Praktica family, a 35mm SLR introduced by KW in 1956.",
+  "description": "潘泰康于1956年推出的胶片单反相机。快门速度1/2 to 1/500 sec. + B.。使用Knob, double exposure prevention.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica F.X 2"
+    "Camera-wiki": "Praktica F.X 2",
+    "卡口": "M42 screw mount, no aperture linkage (some variants have a linkage, which can be disengaged if an older lens interferes with it.)",
+    "快门": "Focal-plane",
+    "快门速度": "1/2 to 1/500 sec. + B.",
+    "胶片/画幅": "Knob, double exposure prevention.",
+    "曝光测光": "None.",
+    "取景器": "SLR, waist-level type, auxiliary sport finder.",
+    "闪光灯": "Dual PC sockets for \"F.\" and X focal plane sync.",
+    "英文简介": "The Praktica F.X 2 is a relatively early member of the Praktica family, a 35mm SLR introduced by KW in 1956."
   },
   "images": [],
   "sources": [

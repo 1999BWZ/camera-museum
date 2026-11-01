@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1994 年发布",
-  "description": "The Shotmaster 110-ZP is a autofocus compact 35mm film camera from Ricoh.",
+  "description": "理光于1994年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Shotmaster 110-ZP"
+    "Camera-wiki": "Ricoh Shotmaster 110-ZP",
+    "英文简介": "The Shotmaster 110-ZP is a autofocus compact 35mm film camera from Ricoh."
   },
   "images": [],
   "sources": [

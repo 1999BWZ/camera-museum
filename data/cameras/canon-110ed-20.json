@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片相机，1977 年发布",
-  "description": "The Canon 110ED20 is a 110 film camera released from Canon in 1977.",
+  "description": "佳能于1977年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon 110ED 20"
+    "Camera-wiki": "Canon 110ED 20",
+    "英文简介": "The Canon 110ED20 is a 110 film camera released from Canon in 1977."
   },
   "images": [
     {

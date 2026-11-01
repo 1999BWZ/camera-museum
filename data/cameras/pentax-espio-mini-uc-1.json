@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得便携相机，1994 年发布",
-  "description": "The Pentax Espio mini is a pocketable 35mm compact camera with autofocus and a wide-angle prime lens by Pentax.",
+  "description": "宾得于1994年推出的便携相机。配备Pentax 32mm, f/3.5, 3 elements in 3 groups.。快门速度Programmed AE electric shutter with speed aprox. 1/400s -2 sec. Bulb: 1/2 sec. - 5 min, Electromagnetic release.。使用Auto film speed setting with 35mm perforated DX-decoding film with ISO rating from 25 to 3200. Non-DX coded films are automatically set to ISO25.。Pentax phase-matching autofocus system with focus lock.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Espio Mini/UC-1"
+    "Camera-wiki": "Pentax Espio Mini/UC-1",
+    "镜头": "Pentax 32mm, f/3.5, 3 elements in 3 groups.",
+    "对焦": "Pentax phase-matching autofocus system with focus lock.",
+    "快门": "Programmed AE electric shutter with speed aprox. 1/400s -2 sec. Bulb: 1/2 sec. - 5 min, Electromagnetic release.",
+    "胶片/画幅": "Auto film speed setting with 35mm perforated DX-decoding film with ISO rating from 25 to 3200. Non-DX coded films are automatically set to ISO25.",
+    "重量": "155g (5.4oz) without battery",
+    "英文简介": "The Pentax Espio mini is a pocketable 35mm compact camera with autofocus and a wide-angle prime lens by Pentax."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2001 年发布",
-  "description": "The FinePix 40i is part of a line of Fujifilm digital cameras release in 2000.",
+  "description": "富士于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix 40i"
+    "Camera-wiki": "Fujifilm FinePix 40i",
+    "英文简介": "The FinePix 40i is part of a line of Fujifilm digital cameras release in 2000."
   },
   "images": [],
   "sources": [

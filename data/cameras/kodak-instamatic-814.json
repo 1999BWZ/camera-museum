@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1968 年发布",
-  "description": "The Kodak Instamatic 814 is a coupled coincident rangefinder camera for 126 (Kodapak) film cartridges - one of a large range of Instamatics.",
+  "description": "柯达于1968年推出的旁轴相机。配备Ektar f/2.8 38mm。快门速度1/60 - 1/250, B (bulb)。使用126 Cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 814"
+    "Camera-wiki": "Kodak Instamatic 814",
+    "镜头": "Ektar f/2.8 38mm",
+    "快门": "1/60 - 1/250, B (bulb)",
+    "曝光测光": "Automatic",
+    "胶片/画幅": "126 Cartridge",
+    "尺寸": "28 x 28 mm",
+    "电池": "PX825 Mercury cell (2)",
+    "闪光灯": "type N (2)",
+    "英文简介": "The Kodak Instamatic 814 is a coupled coincident rangefinder camera for 126 (Kodapak) film cartridges - one of a large range of Instamatics."
   },
   "images": [],
   "sources": [

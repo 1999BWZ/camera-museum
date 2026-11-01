@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2008 年发布",
-  "description": "The G600 is a rugged shock, dirt and water resistant digital camera from Ricoh introduced in 2008.",
+  "description": "理光于2008年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh G600"
+    "Camera-wiki": "Ricoh G600",
+    "英文简介": "The G600 is a rugged shock, dirt and water resistant digital camera from Ricoh introduced in 2008."
   },
   "images": [],
   "sources": [

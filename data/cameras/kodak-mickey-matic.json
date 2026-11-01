@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1988 年发布",
-  "description": "Kodak released two cameras under the Mickey-Matic name, themed around Mickey Mouse.",
+  "description": "柯达于1988年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Mickey-Matic"
+    "Camera-wiki": "Kodak Mickey-Matic",
+    "英文简介": "Kodak released two cameras under the Mickey-Matic name, themed around Mickey Mouse."
   },
   "images": [],
   "sources": [

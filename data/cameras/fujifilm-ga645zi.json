@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士中画幅相机，1998 年发布",
-  "description": "The Fujifilm GA645zi Professional is a autofocus medium format camera released by Fujifilm in 1998.",
+  "description": "富士于1998年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm GA645Zi"
+    "Camera-wiki": "Fujifilm GA645Zi",
+    "英文简介": "The Fujifilm GA645zi Professional is a autofocus medium format camera released by Fujifilm in 1998."
   },
   "images": [],
   "sources": [

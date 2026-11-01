@@ -13,11 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1933 年发布",
-  "description": "徕卡于1933年发布的旁轴相机。",
+  "description": "徕卡于1933年推出的旁轴相机。配备M39 lens mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q3229141",
-    "多语言词条数": "8"
+    "多语言词条数": "8",
+    "镜头": "M39 lens mount",
+    "对焦": "manual",
+    "曝光测光": "manual",
+    "闪光灯": "cold shoe"
   },
   "images": [
     {

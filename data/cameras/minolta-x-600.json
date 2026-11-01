@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1983 年发布",
-  "description": "The Minolta X-600 SF is a manual focus 35mm SLR, which uses the Minolta SR mount.",
+  "description": "美能达于1983年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta X-600"
+    "Camera-wiki": "Minolta X-600",
+    "英文简介": "The Minolta X-600 SF is a manual focus 35mm SLR, which uses the Minolta SR mount."
   },
   "images": [],
   "sources": [

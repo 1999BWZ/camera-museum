@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1975 年发布",
-  "description": "The Pentax K2 is a 35mm SLR camera introduced by Pentax in 1975.",
+  "description": "宾得于1975年推出的胶片单反相机。快门速度1/125 or Bulb。使用135 (35mm)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K2"
+    "Camera-wiki": "Pentax K2",
+    "胶片/画幅": "135 (35mm)",
+    "尺寸": "24mm x 36mm",
+    "快门": "Vertical, metal focal-plane (electronic or mechanical operation)",
+    "快门速度": "1/125 or Bulb",
+    "闪光灯": "X sync at 1/125",
+    "自拍": "5 - 9 seconds",
+    "取景器": "Pentaprism with cross-microprism or split-image focusing screen, 0.88x magnification",
+    "曝光测光": "Silicon photo-diode, aperture-preferred, TTL metering",
+    "电池": "1.5V S76E, MS76H or equivalent",
+    "重量": "680 g (24.2 oz) with no lens",
+    "英文简介": "The Pentax K2 is a 35mm SLR camera introduced by Pentax in 1975."
   },
   "images": [],
   "sources": [

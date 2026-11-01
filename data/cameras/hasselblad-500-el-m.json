@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "哈苏胶片单反相机，1971 年发布",
-  "description": "The Hasselblad 500 EL/M is a medium format film SLR system camera with motor drive, manufactured by Victor Hasselblad Aktiebolag, Göteborg, Sweden, and produced between 1971-84.",
+  "description": "哈苏于1971年推出的胶片单反相机。配备The standard lens of this camera was Carl Zeiss Planar 80mm f/2.8。快门速度Synchro-Compur, central leaf shutter in the lens。使用120 roll, picture size: 6x6cm, or 6x4.5 format with special magazine。via Fresnel matte screen。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hasselblad 500 EL/M"
+    "Camera-wiki": "Hasselblad 500 EL/M",
+    "胶片/画幅": "120 roll, picture size: 6x6cm, or 6x4.5 format with special magazine",
+    "镜头": "The standard lens of this camera was Carl Zeiss Planar 80mm f/2.8",
+    "对焦": "via Fresnel matte screen",
+    "快门": "Synchro-Compur, central leaf shutter in the lens",
+    "曝光测光": "aperture and speeds rings move together with the lock catch on the lens; 2-18 EV index, red scale numbers and locking catch on the lens; unlock the catch for manual settings",
+    "卷片": "dial on the right side of the camera",
+    "取景器": "Waist level finder, Fresnel lens and grainless ground-glass screen, w/central cross , w/ black lines for 6x4.5 format",
+    "闪光灯": "fully sync, on the lens, select M X V by the lever after moving the catch on the lens forward just beside it",
+    "自拍": "by M X V selector lever on the lens, set to V",
+    "电池": "two 3V Ni-Cad rechargeable battery (not manufacturing anymore), serial connection",
+    "英文简介": "The Hasselblad 500 EL/M is a medium format film SLR system camera with motor drive, manufactured by Victor Hasselblad Aktiebolag, Göteborg, Sweden, and produced between 1971-84."
   },
   "images": [],
   "sources": [

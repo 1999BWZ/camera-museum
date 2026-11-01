@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1963 年发布",
-  "description": "Introduced in 1963, the 50 was the first of Kodak's long and successful line of Instamatic “instant load” cameras.",
+  "description": "柯达于1963年推出的便携相机。配备1:11/43 meniscus lens, focusing fixed。快门速度switchable to speeds 1/40 (flash synch.) and 1/90 sec.。使用type 126 film cartridges for 28×28 mm exposures。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 50"
+    "Camera-wiki": "Kodak Instamatic 50",
+    "胶片/画幅": "type 126 film cartridges for 28×28 mm exposures",
+    "镜头": "1:11/43 meniscus lens, focusing fixed",
+    "快门": "switchable to speeds 1/40 (flash synch.) and 1/90 sec.",
+    "闪光灯": "connector for special flash",
+    "英文简介": "Introduced in 1963, the 50 was the first of Kodak's long and successful line of Instamatic “instant load” cameras."
   },
   "images": [],
   "sources": [

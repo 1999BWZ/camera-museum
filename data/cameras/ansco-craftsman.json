@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco盒式相机，1950 年发布",
-  "description": "The Craftsman is a box camera sold by Ansco for 2¼&times;3¼ inch exposures on 120 film.",
+  "description": "Ansco于1950年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Craftsman"
+    "Camera-wiki": "Ansco Craftsman",
+    "英文简介": "The Craftsman is a box camera sold by Ansco for 2¼&times;3¼ inch exposures on 120 film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda折叠相机，1935 年发布",
-  "description": "The Hapo 10 is a 6&times;9 camera distributed by the German retailer Photo Porst.",
+  "description": "Balda于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hapo 10"
+    "Camera-wiki": "Hapo 10",
+    "英文简介": "The Hapo 10 is a 6&times;9 camera distributed by the German retailer Photo Porst."
   },
   "images": [],
   "sources": [

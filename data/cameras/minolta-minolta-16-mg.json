@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达微型相机，1966 年发布",
-  "description": "The Minolta-16 MG was an exciting item of Minolta's subminiature camera series.",
+  "description": "美能达于1966年推出的微型相机。配备Rokkor 1:2.8/20 mm with 4 elements, a sliding door with an additional portrait element can be shifted into the position in front of the lens。快门速度Speeds of flash synchronized shifter shutter set manually between 1/30 and 1/250 sec.。使用Minolta 16 mm film with ISO speeds 25-400。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta-16 MG"
+    "Camera-wiki": "Minolta-16 MG",
+    "胶片/画幅": "Minolta 16 mm film with ISO speeds 25-400",
+    "尺寸": "10×14 mm",
+    "镜头": "Rokkor 1:2.8/20 mm with 4 elements, a sliding door with an additional portrait element can be shifted into the position in front of the lens",
+    "快门": "Speeds of flash synchronized shifter shutter set manually between 1/30 and 1/250 sec.",
+    "光圈": "stops f/2.8 – f/16",
+    "曝光测光": "coupled selenium meter, match needle exposure setting system",
+    "重量": "160 g",
+    "英文简介": "The Minolta-16 MG was an exciting item of Minolta's subminiature camera series."
   },
   "images": [],
   "sources": [

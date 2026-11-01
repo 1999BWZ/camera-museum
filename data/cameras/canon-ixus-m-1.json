@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1998 年发布",
-  "description": "The Canon IXUS M-1 is a compact APS film camera made by Canon, introduced in September 1998.",
+  "description": "佳能于1998年推出的便携相机。配备Canon 23mm f4.8, 3 elements/3 groups (35mm equivalent: 29mm)。快门速度down to 1/2 second。感光度ISO 25 to 10000。Green LED indicates \"in focus\".。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon IXUS M-1"
+    "Camera-wiki": "Canon IXUS M-1",
+    "镜头": "Canon 23mm f4.8, 3 elements/3 groups (35mm equivalent: 29mm)",
+    "对焦": "Green LED indicates \"in focus\".",
+    "快门速度": "down to 1/2 second",
+    "自拍": "Electronic, 10-second delay",
+    "曝光测光": "EV 5.5 to 17",
+    "感光度": "ISO 25 to 10000",
+    "闪光灯": "6.6 (ISO 100)",
+    "重量": "115g (no battery)",
+    "尺寸": "85 x 55 x 34.5mm",
+    "英文简介": "The Canon IXUS M-1 is a compact APS film camera made by Canon, introduced in September 1998."
   },
   "images": [],
   "sources": [

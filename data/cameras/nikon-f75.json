@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，2003 年发布",
-  "description": "The F75 was released in 2003 by Nikon.",
+  "description": "尼康于2003年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon F75 (N75)"
+    "Camera-wiki": "Nikon F75 (N75)",
+    "英文简介": "The F75 was released in 2003 by Nikon."
   },
   "images": [],
   "sources": [

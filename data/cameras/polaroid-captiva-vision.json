@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来胶片单反相机，1993 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Captiva (or Vision) series of cameras from Polaroid were SLRs in a rather odd shape.",
+  "description": "宝丽来于1993年推出的胶片单反相机。配备107mm f/12 (3 plastic elements).。快门速度electronic; range 1/4 - 1/180 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Captiva/Vision"
+    "Camera-wiki": "Polaroid Captiva/Vision",
+    "镜头": "107mm f/12 (3 plastic elements).",
+    "快门": "electronic; range 1/4 - 1/180 sec.",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Captiva (or Vision) series of cameras from Polaroid were SLRs in a rather odd shape."
   },
   "images": [],
   "sources": [

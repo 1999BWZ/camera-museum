@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得无反相机，2009 年发布",
-  "description": "The K-7 succeeded the K20D in 2009 as the top DSLR model from Pentax, using K-mount lenses.",
+  "description": "宾得于2009年推出的无反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-7"
+    "Camera-wiki": "Pentax K-7",
+    "英文简介": "The K-7 succeeded the K20D in 2009 as the top DSLR model from Pentax, using K-mount lenses."
   },
   "images": [
     {

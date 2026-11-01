@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1982 年发布",
-  "description": "This 35mm compact viewfinder camera with a built in flash unit was produced by Belomo between 1982 and 1990.",
+  "description": "BelOMO于1982年推出的取景器相机。配备Industar-95 38mm 1:2.8。快门速度1/8-1/500sec。感光度Marked in DIN and GOST(or ISO) DIN 15-27。Manual. From less than 1m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Elikon 35C"
+    "Camera-wiki": "Elikon 35C",
+    "镜头": "Industar-95 38mm 1:2.8",
+    "对焦": "Manual. From less than 1m to infinity.",
+    "光圈": "f/2.8-f/32",
+    "快门速度": "1/8-1/500sec",
+    "曝光测光": "CdS",
+    "电池": "2xAA",
+    "感光度": "Marked in DIN and GOST(or ISO) DIN 15-27",
+    "英文简介": "This 35mm compact viewfinder camera with a built in flash unit was produced by Belomo between 1982 and 1990."
   },
   "images": [],
   "sources": [

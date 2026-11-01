@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，1992 年发布",
-  "description": "The Kodak DCS 200 was the second digital SLR released by Kodak, in 1992.",
+  "description": "柯达于1992年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak DCS 200"
+    "Camera-wiki": "Kodak DCS 200",
+    "英文简介": "The Kodak DCS 200 was the second digital SLR released by Kodak, in 1992."
   },
   "images": [],
   "sources": [

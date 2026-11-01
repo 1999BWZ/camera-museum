@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco取景器相机，1940 年发布",
-  "description": "The Pioneer is a rollfilm camera manufactured in Ansco's Binghamton, New York, factory beginning around 1940.",
+  "description": "Ansco于1940年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Pioneer"
+    "Camera-wiki": "Ansco Pioneer",
+    "英文简介": "The Pioneer is a rollfilm camera manufactured in Ansco's Binghamton, New York, factory beginning around 1940."
   },
   "images": [],
   "sources": [

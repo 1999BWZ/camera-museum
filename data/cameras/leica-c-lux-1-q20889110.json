@@ -1,0 +1,40 @@
+{
+  "id": "leica-c-lux-1-q20889110",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "C-Lux 1",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2006 年发布",
+  "description": "徕卡于2006年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889110",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20img%200746.jpg?width=800",
+      "caption": "C-Lux 1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889110"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica C-Lux 1",
+      "url": "https://www.wikidata.org/wiki/Q20889110"
+    }
+  ],
+  "qid": "Q20889110",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

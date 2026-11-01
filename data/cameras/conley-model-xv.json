@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Conley折叠相机，1912 年发布",
-  "description": "Conley's Model XV plate folding bed camera was made from 1905 to 1915.",
+  "description": "Conley于1912年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Conley Model XV"
+    "Camera-wiki": "Conley Model XV",
+    "英文简介": "Conley's Model XV plate folding bed camera was made from 1905 to 1915."
   },
   "images": [],
   "sources": [

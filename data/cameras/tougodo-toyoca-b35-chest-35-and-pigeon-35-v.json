@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo折叠相机，1955 年发布",
-  "description": "The Toyoca B35 \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera.",
+  "description": "Tougodo于1955年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Toyoca B35, Chest 35 and Pigeon 35 V"
+    "Camera-wiki": "Toyoca B35, Chest 35 and Pigeon 35 V",
+    "英文简介": "The Toyoca B35 \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera."
   },
   "images": [],
   "sources": [

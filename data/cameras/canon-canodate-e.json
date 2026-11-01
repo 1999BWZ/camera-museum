@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能旁轴相机，1973 年发布",
-  "description": "A 1970 compact rangefinder camera from Canon, similar to the Canonet series but with an early date-imprinting function.",
+  "description": "佳能于1973年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Canodate E"
+    "Camera-wiki": "Canon Canodate E",
+    "英文简介": "A 1970 compact rangefinder camera from Canon, similar to the Canonet series but with an early date-imprinting function."
   },
   "images": [],
   "sources": [

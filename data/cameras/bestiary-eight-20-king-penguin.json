@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary旁轴相机（折叠），1951 年发布",
-  "description": "The Eight-20 King Penguin is a folding camera made by Kershaw-Soho in England, from c.1951.",
+  "description": "Bestiary于1951年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Eight-20 King Penguin"
+    "Camera-wiki": "Eight-20 King Penguin",
+    "英文简介": "The Eight-20 King Penguin is a folding camera made by Kershaw-Soho in England, from c.1951."
   },
   "images": [],
   "sources": [

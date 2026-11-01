@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina数码单反相机，1974 年发布",
-  "description": "Distributor Ponder & Best announced the 650/SLX in 1974 as one of their SLR offerings for 42mm screw lenses.",
+  "description": "Cosina于1974年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 650/SLX"
+    "Camera-wiki": "Vivitar 650/SLX",
+    "英文简介": "Distributor Ponder & Best announced the 650/SLX in 1974 as one of their SLR offerings for 42mm screw lenses."
   },
   "images": [],
   "sources": [

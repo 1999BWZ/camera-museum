@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King取景器相机，1962 年发布",
-  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "description": "King于1962年推出的取景器相机。配备Isco Gottingen Color Isconar 45mm f/2.8。快门速度Pronto-LK - Bulb, 1/15, 1/30, 1/60, 1/125, 1/250 and 1/500th.。感光度ASA 10-800。1 meter to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula LKB"
+    "Camera-wiki": "Regula LKB",
+    "镜头": "Isco Gottingen Color Isconar 45mm f/2.8",
+    "快门": "Pronto-LK - Bulb, 1/15, 1/30, 1/60, 1/125, 1/250 and 1/500th.",
+    "光圈": "f/2.8 to f/22 in 1 stop increments",
+    "感光度": "ASA 10-800",
+    "对焦": "1 meter to infinity",
+    "自拍": "Yes, around 10 seconds, lever on top of the lens",
+    "闪光灯": "No PC socket or hot shoe.",
+    "英文简介": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!"
   },
   "images": [],
   "sources": [

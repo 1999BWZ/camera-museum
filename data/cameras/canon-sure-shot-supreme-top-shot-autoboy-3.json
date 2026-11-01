@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片相机，1986 年发布",
-  "description": "Canon Sure Shot Supreme\nA 1986 model from Canon's phenomenally successful Sure Shot range, this compact 35mm film camera - known as the Top Shot in continental Europe and Autoboy 3 in Japan - was voted European Camera of the Year for putting some very advanced features into an ergonomic package at a",
+  "description": "佳能于1986年推出的胶片相机。使用Auto-loading, advancing and rewinding.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot Supreme/Top Shot/Autoboy 3"
+    "Camera-wiki": "Canon Sure Shot Supreme/Top Shot/Autoboy 3",
+    "闪光灯": "8 metres at ISO 100) fires in low-light and backlight situations. Can be disabled.",
+    "胶片/画幅": "Auto-loading, advancing and rewinding.",
+    "重量": "315g without 2CR5 battery.",
+    "英文简介": "Canon Sure Shot Supreme\nA 1986 model from Canon's phenomenally successful Sure Shot range, this compact 35mm film camera - known as the Top Shot in continental Europe and Autoboy 3 in Japan - was voted European Camera of the Year for putting some very advanced features into an ergonomic package at a reasonable price."
   },
   "images": [],
   "sources": [

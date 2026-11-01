@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1955 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Brownie Cresta was made by Kodak Ltd.",
+  "description": "柯达于1955年推出的取景器相机。使用120 film, 6x6cm images.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Cresta"
+    "Camera-wiki": "Kodak Brownie Cresta",
+    "胶片/画幅": "120 film, 6x6cm images.",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Brownie Cresta was made by Kodak Ltd."
   },
   "images": [],
   "sources": [

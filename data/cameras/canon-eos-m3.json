@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2015 年发布",
-  "description": "The EOS M3 is a mirrorless interchangeable-lens camera (MILC) with a 24.2-million pixel APS-C CMOS sensor, made by Canon in 2015, about a year after the M2.",
+  "description": "佳能于2015年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS M3"
+    "Camera-wiki": "Canon EOS M3",
+    "英文简介": "The EOS M3 is a mirrorless interchangeable-lens camera (MILC) with a 24.2-million pixel APS-C CMOS sensor, made by Canon in 2015, about a year after the M2."
   },
   "images": [],
   "sources": [

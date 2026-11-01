@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡便携相机，1986 年发布",
-  "description": "The top of the MT (Multi) range of compact cameras from Konica, the MT-11 featured the fastest lens of the series, as well as a closeup mode, focusing down to 0,45 m.",
+  "description": "柯尼卡于1986年推出的便携相机。配备Konica 35 mm, f/2.8 (Tessar-style 4 elements in 3 groups).。快门速度1/4–1/500 s.。使用Motorwind.。Autofocus, 1 m to infinity. Focus lock.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica MT-11"
+    "Camera-wiki": "Konica MT-11",
+    "镜头": "Konica 35 mm, f/2.8 (Tessar-style 4 elements in 3 groups).",
+    "对焦": "Autofocus, 1 m to infinity. Focus lock.",
+    "取景器": "Contains several framelines for parallax reminders at a range of distances. Zone symbols for head shot, group and infinity (mountains) appear in viewfinder. Focus lock available.",
+    "快门": "1/4–1/500 s.",
+    "闪光灯": "Built-in, manually activated. Low-light LED warning.",
+    "胶片/画幅": "Motorwind.",
+    "尺寸": "128,5 x 71,5 x 53,5 mm.",
+    "重量": "290 g.",
+    "英文简介": "The top of the MT (Multi) range of compact cameras from Konica, the MT-11 featured the fastest lens of the series, as well as a closeup mode, focusing down to 0,45 m."
   },
   "images": [],
   "sources": [

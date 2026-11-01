@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来取景器相机，2001 年发布",
-  "description": "The Rollei Giro 28 AFS is a modern, plastic autofocus compact camera with a 28mm f/4.5 prime lens.",
+  "description": "禄来于2001年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei Giro 28 AFS"
+    "Camera-wiki": "Rollei Giro 28 AFS",
+    "英文简介": "The Rollei Giro 28 AFS is a modern, plastic autofocus compact camera with a 28mm f/4.5 prime lens."
   },
   "images": [],
   "sources": [

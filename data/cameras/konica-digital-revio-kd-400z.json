@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码相机，2002 年发布",
-  "description": "The KD-400Z Digital Revio is a compact point and shoot digital camera announced in 2002 by Japanese manufacturer Konica.",
+  "description": "柯尼卡于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Digital Revio KD-400Z"
+    "Camera-wiki": "Konica Digital Revio KD-400Z",
+    "英文简介": "The KD-400Z Digital Revio is a compact point and shoot digital camera announced in 2002 by Japanese manufacturer Konica."
   },
   "images": [],
   "sources": [

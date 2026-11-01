@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1968 年发布",
-  "description": "The Praktica PL electronic is a milestone SLR featuring the first electronically controlled shutter.",
+  "description": "潘泰康于1968年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica PL electronic"
+    "Camera-wiki": "Praktica PL electronic",
+    "尺寸": "150x95x47mm, 636g (with battery, w/o lens)",
+    "英文简介": "The Praktica PL electronic is a milestone SLR featuring the first electronically controlled shutter."
   },
   "images": [],
   "sources": [

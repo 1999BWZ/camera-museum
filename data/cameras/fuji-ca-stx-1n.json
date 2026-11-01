@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji数码单反相机，1982 年发布",
-  "description": "The Fujica STX-1N is a 35mm SLR marketed Fuji, from c.1982.",
+  "description": "Fuji于1982年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica STX-1N"
+    "Camera-wiki": "Fujica STX-1N",
+    "英文简介": "The Fujica STX-1N is a 35mm SLR marketed Fuji, from c.1982."
   },
   "images": [],
   "sources": [

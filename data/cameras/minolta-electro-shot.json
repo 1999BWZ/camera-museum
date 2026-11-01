@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1965 年发布",
-  "description": "The Minolta Electro Shot was Minolta's first rangefinder camera with CdS meter controlled exposure.",
+  "description": "美能达于1965年推出的旁轴相机。配备Rokkor-QF 1:1.8 f=40mm with 6 elements。快门速度Electromagnetic leaf shutter allowing speed/aperture combinations in a range from f1.8 1/16 sec. to f16 1/512 sec.。使用35mm with speeds 25 ASA to 400 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Electro Shot"
+    "Camera-wiki": "Minolta Electro Shot",
+    "胶片/画幅": "35mm with speeds 25 ASA to 400 ASA",
+    "镜头": "Rokkor-QF 1:1.8 f=40mm with 6 elements",
+    "快门": "Electromagnetic leaf shutter allowing speed/aperture combinations in a range from f1.8 1/16 sec. to f16 1/512 sec.",
+    "闪光灯": "flash gun connectable on hot shoe, X/M flash synchronization of shutter at speed 1/25 sec., aperture coupled to distance control",
+    "尺寸": "139×79×67mm",
+    "重量": "660 g",
+    "英文简介": "The Minolta Electro Shot was Minolta's first rangefinder camera with CdS meter controlled exposure."
   },
   "images": [],
   "sources": [

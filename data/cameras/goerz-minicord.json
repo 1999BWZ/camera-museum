@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goerz微型相机，1951 年发布",
-  "description": "The Goerz Minicord was introduced in 1951 by Optische Anstalt C.",
+  "description": "Goerz于1951年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minicord"
+    "Camera-wiki": "Minicord",
+    "英文简介": "The Goerz Minicord was introduced in 1951 by Optische Anstalt C."
   },
   "images": [],
   "sources": [

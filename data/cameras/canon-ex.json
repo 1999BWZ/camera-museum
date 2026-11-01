@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1963 年发布",
-  "description": "The Canonex was Canon's first auto-exposure SLR and their only fixed lens SLR.",
+  "description": "佳能于1963年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canonex"
+    "Camera-wiki": "Canonex",
+    "英文简介": "The Canonex was Canon's first auto-exposure SLR and their only fixed lens SLR."
   },
   "images": [],
   "sources": [

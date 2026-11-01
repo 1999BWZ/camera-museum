@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pilot胶片单反相机，1936 年发布",
-  "description": "There is also the Pilot Six, a 6×6 folding camera made in the '40s by Tachibana Shōkai in Japan.",
+  "description": "Pilot于1936年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pilot 6"
+    "Camera-wiki": "Pilot 6",
+    "英文简介": "There is also the Pilot Six, a 6×6 folding camera made in the '40s by Tachibana Shōkai in Japan."
   },
   "images": [],
   "sources": [

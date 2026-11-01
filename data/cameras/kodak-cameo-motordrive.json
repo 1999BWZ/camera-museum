@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1995 年发布",
-  "description": "The Kodak Cameo Motordrive was introduced in 1995 with a price of $US99.95[http://kodak.3106.net/index.php?p=210&cam=1316 Kodak Cameo Motordrive] at [http://kodak.3106.net/index.php Kodak Classics].",
+  "description": "柯达于1995年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Cameo Motordrive"
+    "Camera-wiki": "Kodak Cameo Motordrive",
+    "英文简介": "The Kodak Cameo Motordrive was introduced in 1995 with a price of $US99.95[http://kodak.3106.net/index.php?p=210&cam=1316 Kodak Cameo Motordrive] at [http://kodak.3106.net/index.php Kodak Classics]."
   },
   "images": [],
   "sources": [

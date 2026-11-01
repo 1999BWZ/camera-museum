@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1963 年发布",
-  "description": "The Kodak Retina I BS (type 040) is a viewfinder 35mm camera produced by Kodak AG launched in late 1960.",
+  "description": "柯达于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina IBS"
+    "Camera-wiki": "Kodak Retina IBS",
+    "英文简介": "The Kodak Retina I BS (type 040) is a viewfinder 35mm camera produced by Kodak AG launched in late 1960."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得取景器相机，2024 年发布",
-  "description": "{| class=\"floatright\" \n|\n|}\nThe Pentax 17The name presumably refers to the image format, which is said to be 17x24mm, not the familiar 18x24mm.",
+  "description": "宾得于2024年推出的取景器相机。配备Pentax HD 25mm f/3.5。快门速度Focal plane shutter with speeds from 4s to 1/350 sec. B。使用35mm film with speeds of 50 to 3200 ISO。Zone Focusing。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax 17"
+    "Camera-wiki": "Pentax 17",
+    "镜头": "Pentax HD 25mm f/3.5",
+    "胶片/画幅": "35mm film with speeds of 50 to 3200 ISO",
+    "曝光测光": "silicon photo cell.",
+    "对焦": "Zone Focusing",
+    "闪光灯": "Built-in, Guide number 6, red eye reduction",
+    "快门": "Focal plane shutter with speeds from 4s to 1/350 sec. B",
+    "尺寸": "approx 127 × 78 × 52mm",
+    "重量": "290g (without battery)",
+    "英文简介": "{| class=\"floatright\" \n|\n|}\nThe Pentax 17The name presumably refers to the image format, which is said to be 17x24mm, not the familiar 18x24mm."
   },
   "images": [],
   "sources": [

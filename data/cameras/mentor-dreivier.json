@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mentor取景器相机，1930 年发布",
-  "description": "The Mentor Dreivier (German: three-four) is a viewfinder camera for 3x4 cm pictures on 127 rollfilm, made by Mentor (Goltz & Breutmann) in Dresden in about 1930.",
+  "description": "Mentor于1930年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mentor Dreivier"
+    "Camera-wiki": "Mentor Dreivier",
+    "英文简介": "The Mentor Dreivier (German: three-four) is a viewfinder camera for 3x4 cm pictures on 127 rollfilm, made by Mentor (Goltz & Breutmann) in Dresden in about 1930."
   },
   "images": [],
   "sources": [

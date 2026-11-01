@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kunik微型相机，1956 年发布",
-  "description": "The Petie is a subminiature viewfinder camera sold by the German company Walter Kunik KG, Frankfurt c.1956.",
+  "description": "Kunik于1956年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kunik Petie"
+    "Camera-wiki": "Kunik Petie",
+    "英文简介": "The Petie is a subminiature viewfinder camera sold by the German company Walter Kunik KG, Frankfurt c.1956."
   },
   "images": [],
   "sources": [

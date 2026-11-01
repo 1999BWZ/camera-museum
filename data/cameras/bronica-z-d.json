@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "勃朗尼卡胶片单反相机，1958 年发布",
-  "description": "The first model Bronica 6x6 is a focal plane SLR camera.",
+  "description": "勃朗尼卡于1958年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bronica Z / D"
+    "Camera-wiki": "Bronica Z / D",
+    "英文简介": "The first model Bronica 6x6 is a focal plane SLR camera."
   },
   "images": [],
   "sources": [

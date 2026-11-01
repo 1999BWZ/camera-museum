@@ -1,0 +1,40 @@
+{
+  "id": "olympus-om-4-ti",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "OM-4 Ti",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片单反相机，1983 年发布",
+  "description": "奥林巴斯于1983年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2022920",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20OM4%20ti%2001.jpg?width=800",
+      "caption": "OM-4 Ti",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2022920"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus OM-4 Ti",
+      "url": "https://www.wikidata.org/wiki/Q2022920"
+    }
+  ],
+  "qid": "Q2022920",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Gallus折叠相机，1938 年发布",
-  "description": "The Gallus Bakélite was a 6x9 folding camera made by the French maker Gallus at the end of the 1930s.",
+  "description": "Gallus于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Gallus Bakélite"
+    "Camera-wiki": "Gallus Bakélite",
+    "英文简介": "The Gallus Bakélite was a 6x9 folding camera made by the French maker Gallus at the end of the 1930s."
   },
   "images": [],
   "sources": [

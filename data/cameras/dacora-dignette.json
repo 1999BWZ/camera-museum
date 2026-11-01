@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dacora取景器相机，1962 年发布",
-  "description": "The Dacora Dignette is a series of viewfinder cameras from Dacora-Kamerawerk in Reutlingen, Germany.",
+  "description": "Dacora于1962年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dacora Dignette"
+    "Camera-wiki": "Dacora Dignette",
+    "英文简介": "The Dacora Dignette is a series of viewfinder cameras from Dacora-Kamerawerk in Reutlingen, Germany."
   },
   "images": [],
   "sources": [

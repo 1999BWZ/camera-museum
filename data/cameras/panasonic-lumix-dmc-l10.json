@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2007 年发布",
-  "description": "松下于2007年发布的便携相机。",
+  "description": "松下于2007年推出的便携相机。配备Interchangeable Four Thirds mount。快门速度Focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q2049116",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "传感器": "17.3 x 13.0 mm Four Thirds System RGB Live MOS sensor2x FOV crop",
+    "镜头": "Interchangeable Four Thirds mount",
+    "快门速度": "Focal-plane shutter",
+    "曝光测光": "TTL",
+    "取景器": "95% Field of View, Optical 0.92x Magnification, 14mm Eyepoint Penta Mirror Optical Viewfinder",
+    "闪光灯": "Built in Pop-up, GN11 (ISO100,m), hotshoe TTL Auto with FL360 / FL500 (Optional)",
+    "存储": "Secure Digital, SDHC, MultiMediaCard",
+    "电池": "Li-ion Battery Pack (7.2 V, 1320 mAh) DMW-BLA13PP",
+    "重量": "approx. 480g"
   },
   "images": [
     {

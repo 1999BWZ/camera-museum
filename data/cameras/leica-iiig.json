@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1956 年发布",
-  "description": "The Leica IIIg is a 35mm rangefinder camera introduced by Leica in 1956.",
+  "description": "徕卡于1956年推出的旁轴相机。快门速度T, 1 second, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, B.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica IIIg"
+    "Camera-wiki": "Leica IIIg",
+    "快门速度": "T, 1 second, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, B.",
+    "英文简介": "The Leica IIIg is a 35mm rangefinder camera introduced by Leica in 1956."
   },
   "images": [],
   "sources": [

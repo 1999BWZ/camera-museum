@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Plaubel旁轴相机，1979 年发布",
-  "description": "The Makina 67 is a 6&times;7 strut folding camera with a coupled rangefinder.",
+  "description": "Plaubel于1979年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Makina 67"
+    "Camera-wiki": "Makina 67",
+    "尺寸": "160x128x120mm",
+    "英文简介": "The Makina 67 is a 6&times;7 strut folding camera with a coupled rangefinder."
   },
   "images": [],
   "sources": [

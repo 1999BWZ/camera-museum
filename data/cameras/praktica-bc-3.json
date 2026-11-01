@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1987 年发布",
-  "description": "Late eighties PB mount (Praktica bayonet) SLR made by Pentacon VEB Dresden.",
+  "description": "潘泰康于1987年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica BC 3"
+    "Camera-wiki": "Praktica BC 3",
+    "英文简介": "Late eighties PB mount (Praktica bayonet) SLR made by Pentacon VEB Dresden."
   },
   "images": [],
   "sources": [

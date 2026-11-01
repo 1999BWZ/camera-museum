@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1934 年发布",
-  "description": "The Agfa Billy Compur is a folding 120 film 6×9 format camera by Agfa.",
+  "description": "爱克发于1934年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Billy Compur"
+    "Camera-wiki": "Agfa Billy Compur",
+    "英文简介": "The Agfa Billy Compur is a folding 120 film 6×9 format camera by Agfa."
   },
   "images": [],
   "sources": [

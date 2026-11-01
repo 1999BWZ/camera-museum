@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1997 年发布",
-  "description": "The Minolta Vectis S-100 was the lightest and smallest APS interchangeable lens auto-focus SLR camera for Minolta's V-mount lenses (and a with an adapter could mount popular Minolta Alpha/Dynax/Maxxum-mount lenses), with a splash-proof body, and Advanced Photo System film cartridges.",
+  "description": "美能达于1997年推出的胶片单反相机。快门速度30 sec down to 1/1000 sec。使用APS film cartridges, film speeds 25 to 6400 ASA (available films had 100 to 800 ASA)。TTL phase detecting auto-focus with CCD image sensor, switchable to manual focusing by pushing a button on the lens tube。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis S-100"
+    "Camera-wiki": "Minolta Vectis S-100",
+    "胶片/画幅": "APS film cartridges, film speeds 25 to 6400 ASA (available films had 100 to 800 ASA)",
+    "卡口": "Minolta V-Lenses bayonet",
+    "曝光测光": "two-zone measuring",
+    "对焦": "TTL phase detecting auto-focus with CCD image sensor, switchable to manual focusing by pushing a button on the lens tube",
+    "快门速度": "30 sec down to 1/1000 sec",
+    "闪光灯": "guide number 17 at film speed ISO 200, also used as auto-focus support light",
+    "重量": "315 g without Lens + Film + 2× Cr2-Battery",
+    "尺寸": "124,5 x 78,5 x 55,5 mm",
+    "英文简介": "The Minolta Vectis S-100 was the lightest and smallest APS interchangeable lens auto-focus SLR camera for Minolta's V-mount lenses (and a with an adapter could mount popular Minolta Alpha/Dynax/Maxxum-mount lenses), with a splash-proof body, and Advanced Photo System film cartridges."
   },
   "images": [],
   "sources": [

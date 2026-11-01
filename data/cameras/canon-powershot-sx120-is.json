@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2009 年发布",
-  "description": "Canon's PowerShot SX120 IS is a 10 megapixel Japanese digital camera, announced in August 2009.",
+  "description": "佳能于2009年推出的数码相机。配备6.0-60.0mm, f2.8-4.3; 35mm equivalent: 36–360mm。感光度80-1600。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot SX120 IS"
+    "Camera-wiki": "Canon PowerShot SX120 IS",
+    "镜头": "6.0-60.0mm, f2.8-4.3; 35mm equivalent: 36–360mm",
+    "传感器": "10.3 megapixels; 1/2.5-inch CCD",
+    "尺寸": "(still) Large: 3648 x 2736 pixels; Medium 1: 2816 x 2112; Medium 2: 2272 x 1704; Medium 3: 1600 x 1200; Small: 640 x 480; Widescreen: 3648 x 2048",
+    "感光度": "80-1600",
+    "英文简介": "Canon's PowerShot SX120 IS is a 10 megapixel Japanese digital camera, announced in August 2009."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pentacon微型相机，1978 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n||\n\n|}\nThe Pentacon K 16 is a small camera for cassettes with mid-perforated 16mm film, made by the East German maker Pentacon.",
+  "description": "Pentacon于1978年推出的微型相机。配备27 mm (as 54.6 mm for the 35 mm film), 1:8, coated triplet。快门速度1/30 s - 1/250 s, B。使用Kassette 16。fix focus, from 1.5 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentacon K 16"
+    "Camera-wiki": "Pentacon K 16",
+    "胶片/画幅": "Kassette 16",
+    "尺寸": "13x17 mm",
+    "镜头": "27 mm (as 54.6 mm for the 35 mm film), 1:8, coated triplet",
+    "快门速度": "1/30 s - 1/250 s, B",
+    "光圈": "1:8, fixed",
+    "曝光测光": "11-14 EV",
+    "对焦": "fix focus, from 1.5 m",
+    "闪光灯": "1/30 - 1/125 s",
+    "重量": "approx. 250 g",
+    "英文简介": "{|class=floatright\n|\n\n|-\n||\n\n|}\nThe Pentacon K 16 is a small camera for cassettes with mid-perforated 16mm film, made by the East German maker Pentacon."
   },
   "images": [],
   "sources": [

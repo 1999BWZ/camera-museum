@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯折叠相机，1937 年发布",
-  "description": "The Semi Olympus II (セミ・オリンパス・Ⅱ型) is a 4.5×6cm folder, made from 1937 by Takachiho (later Olympus).",
+  "description": "奥林巴斯于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Olympus II"
+    "Camera-wiki": "Semi Olympus II",
+    "英文简介": "The Semi Olympus II (セミ・オリンパス・Ⅱ型) is a 4.5×6cm folder, made from 1937 by Takachiho (later Olympus)."
   },
   "images": [],
   "sources": [

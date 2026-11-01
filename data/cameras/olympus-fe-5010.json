@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2009 年发布",
-  "description": "The Olympus FE-5010 is a compact digital camera produced by Olympus in 2009.",
+  "description": "奥林巴斯于2009年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus FE-5010"
+    "Camera-wiki": "Olympus FE-5010",
+    "英文简介": "The Olympus FE-5010 is a compact digital camera produced by Olympus in 2009."
   },
   "images": [],
   "sources": [

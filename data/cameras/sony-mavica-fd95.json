@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2000 年发布",
-  "description": "The MVC-FD95 is a digital camera in the Mavica series from Sony, introduced in 2000.",
+  "description": "索尼于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD95"
+    "Camera-wiki": "Sony Mavica FD95",
+    "英文简介": "The MVC-FD95 is a digital camera in the Mavica series from Sony, introduced in 2000."
   },
   "images": [],
   "sources": [

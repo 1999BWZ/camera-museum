@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Regula旁轴相机，1956 年发布",
-  "description": "The King Regula III series were a range of 35mm viewfinder and rangefinder cameras made by King between 1956-1959.",
+  "description": "Regula于1956年推出的旁轴相机。配备Steinheil Munchen Cassar 45mm f/2.8。快门速度Prontor-SVS - Bulb, 1s, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125 and 1/300th.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula III series"
+    "Camera-wiki": "Regula III series",
+    "镜头": "Steinheil Munchen Cassar 45mm f/2.8",
+    "快门": "Prontor-SVS - Bulb, 1s, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125 and 1/300th.",
+    "自拍": "Yes, around 10 seconds, use V mode on the lens",
+    "闪光灯": "PC socket on the body, flash synchronization at all speeds, X and M modes",
+    "光圈": "Supports lenses from f/2 to f/22 in 1 stop increments",
+    "英文简介": "The King Regula III series were a range of 35mm viewfinder and rangefinder cameras made by King between 1956-1959."
   },
   "images": [],
   "sources": [

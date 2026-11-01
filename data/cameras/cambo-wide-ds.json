@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cambo大画幅相机，2000 年发布",
-  "description": "The Cambo Wide DS is a 4x5\" large format camera made by the Dutch company Cambo.",
+  "description": "Cambo于2000年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cambo Wide DS"
+    "Camera-wiki": "Cambo Wide DS",
+    "尺寸": "220x219x120 mm",
+    "英文简介": "The Cambo Wide DS is a 4x5\" large format camera made by the Dutch company Cambo."
   },
   "images": [],
   "sources": [

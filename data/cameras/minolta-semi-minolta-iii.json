@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达折叠相机，1946 年发布",
-  "description": "The Semi Minolta III is a Japanese 4.5×6 folding camera, made by Chiyoda Kōgaku (the predecessor of Minolta) and released in 1946.",
+  "description": "美能达于1946年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Minolta III"
+    "Camera-wiki": "Semi Minolta III",
+    "英文简介": "The Semi Minolta III is a Japanese 4.5×6 folding camera, made by Chiyoda Kōgaku (the predecessor of Minolta) and released in 1946."
   },
   "images": [],
   "sources": [

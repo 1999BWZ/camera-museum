@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1940 年发布",
-  "description": "{|align=\"right\"\n|-\n||\n|\n\n|-\n||\n\n|\n\n|}\nThe Kodak Brownie Reflex non-synchronized camera was manufactured from May 1940 to Aug 1942 in the US.",
+  "description": "柯达于1940年推出的便携相机。配备fixed-focus meniscus, 5 feet to infinity。快门速度I (instantaneous) 1/30 sec and B (bulb mode)。使用127 roll film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Reflex"
+    "Camera-wiki": "Kodak Brownie Reflex",
+    "胶片/画幅": "127 roll film",
+    "曝光测光": "12",
+    "光圈": "fixed",
+    "镜头": "fixed-focus meniscus, 5 feet to infinity",
+    "快门": "I (instantaneous) 1/30 sec and B (bulb mode)",
+    "英文简介": "{|align=\"right\"\n|-\n||\n|\n\n|-\n||\n\n|\n\n|}\nThe Kodak Brownie Reflex non-synchronized camera was manufactured from May 1940 to Aug 1942 in the US."
   },
   "images": [],
   "sources": [

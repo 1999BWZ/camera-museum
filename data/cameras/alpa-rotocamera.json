@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Alpa全景相机，1980 年发布",
-  "description": "The Alpa RotocameraThere is evidently more than one model of the camera, probably reflecting improvements over time.",
+  "description": "Alpa于1980年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Alpa Rotocamera"
+    "Camera-wiki": "Alpa Rotocamera",
+    "英文简介": "The Alpa RotocameraThere is evidently more than one model of the camera, probably reflecting improvements over time."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达全景相机，1991 年发布",
-  "description": "Minolta autoexposure compact camera from 1991, part of the \"panorama\" boom of the early 90s.",
+  "description": "美能达于1991年推出的全景相机。快门速度1/4 to 1/200 s.。感光度0,9—2,7 m.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva Panorama"
+    "Camera-wiki": "Minolta Riva Panorama",
+    "快门速度": "1/4 to 1/200 s.",
+    "感光度": "0,9—2,7 m.",
+    "重量": "185 g, 11,6 x 6,2 x 3,4 cm",
+    "英文简介": "Minolta autoexposure compact camera from 1991, part of the \"panorama\" boom of the early 90s."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚中画幅相机，1956 年发布",
-  "description": "The Mamiyaflex Automat BII is a 6x6 TLR, released in 1956.",
+  "description": "玛米亚于1956年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiyaflex Automat BII"
+    "Camera-wiki": "Mamiyaflex Automat BII",
+    "英文简介": "The Mamiyaflex Automat BII is a 6x6 TLR, released in 1956."
   },
   "images": [],
   "sources": [

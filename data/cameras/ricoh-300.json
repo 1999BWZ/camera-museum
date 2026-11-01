@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1958 年发布",
-  "description": "Ricoh introduced the rangefinder Ricoh 300 in 1958[https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/ricoh300.html Ricoh 300 page] at [https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/ the Ricoh Filmcamera list].",
+  "description": "理光于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 300"
+    "Camera-wiki": "Ricoh 300",
+    "英文简介": "Ricoh introduced the rangefinder Ricoh 300 in 1958[https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/ricoh300.html Ricoh 300 page] at [https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/ the Ricoh Filmcamera list]."
   },
   "images": [],
   "sources": [

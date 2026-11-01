@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1975 年发布",
-  "description": "{| class=\"table floatright\" \n|\n\n|-\n|\n\n|}\nThe Yashica MG-1 was introduced the MG-1 in 1975 as a successor of its Electro 35 series.",
+  "description": "雅西卡于1975年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica MG-1"
+    "Camera-wiki": "Yashica MG-1",
+    "英文简介": "{| class=\"table floatright\" \n|\n\n|-\n|\n\n|}\nThe Yashica MG-1 was introduced the MG-1 in 1975 as a successor of its Electro 35 series."
   },
   "images": [],
   "sources": [

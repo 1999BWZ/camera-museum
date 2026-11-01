@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dan取景器相机，1948 年发布",
-  "description": "The Dan 35 I (ダン35Ⅰ型) and Dan 35 II (ダン35Ⅱ型) are Japanese cameras taking twelve exposures on Bolta film, released in 1948.",
+  "description": "Dan于1948年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dan 35 I and II"
+    "Camera-wiki": "Dan 35 I and II",
+    "英文简介": "The Dan 35 I (ダン35Ⅰ型) and Dan 35 II (ダン35Ⅱ型) are Japanese cameras taking twelve exposures on Bolta film, released in 1948."
   },
   "images": [],
   "sources": [

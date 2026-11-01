@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次性相机，2001 年发布",
-  "description": "The Kodak Water & Sport is a one-time-use camera for 135 (35mm) film.",
+  "description": "柯达于2001年推出的一次性相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Water & Sport Single-Use"
+    "Camera-wiki": "Kodak Water & Sport Single-Use",
+    "英文简介": "The Kodak Water & Sport is a one-time-use camera for 135 (35mm) film."
   },
   "images": [],
   "sources": [

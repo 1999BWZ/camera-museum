@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1962 年发布",
-  "description": "The Yashica 72-E is a small half-frame camera.",
+  "description": "雅西卡于1962年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 72-E"
+    "Camera-wiki": "Yashica 72-E",
+    "英文简介": "The Yashica 72-E is a small half-frame camera."
   },
   "images": [],
   "sources": [

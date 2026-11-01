@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun胶片相机，1959 年发布",
-  "description": "The Paxina Electromatic is a viewfinder camera for 4&times;4 cm pictures on 127 film, made by Braun from 1959-63.",
+  "description": "Braun于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Paxina Electromatic"
+    "Camera-wiki": "Paxina Electromatic",
+    "英文简介": "The Paxina Electromatic is a viewfinder camera for 4&times;4 cm pictures on 127 film, made by Braun from 1959-63."
   },
   "images": [],
   "sources": [

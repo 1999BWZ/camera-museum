@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Postcard format胶片相机，1918 年发布",
-  "description": "The Palko (sometimes given as Pal Ko, as illustrated here) is an unusual camera for postcard-size (3¼x5½ inch) images (or images one-third or two-thirds that size) on 122 roll film, made in Chicago from about 1920 until 1935.",
+  "description": "Postcard format于1918年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Palko"
+    "Camera-wiki": "Palko",
+    "英文简介": "The Palko (sometimes given as Pal Ko, as illustrated here) is an unusual camera for postcard-size (3¼x5½ inch) images (or images one-third or two-thirds that size) on 122 roll film, made in Chicago from about 1920 until 1935."
   },
   "images": [
     {

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2007 年发布",
-  "description": "The Canon Digital IXUS 75 is a compact digital camera introduced in 2007.",
+  "description": "佳能于2007年推出的数码相机。配备Canon zoom lens 3× 5.8-17.4mm 1:2.8-4.9 with macro mode。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Digital IXUS 75"
+    "Camera-wiki": "Canon Digital IXUS 75",
+    "镜头": "Canon zoom lens 3× 5.8-17.4mm 1:2.8-4.9 with macro mode",
+    "传感器": "1/2.5\" CCD with resolution 2.592×1.944 pixels (7.1 megapixels) and \"film speed\" up to ISO 1600",
+    "曝光测光": "15 - 1/1500 sec., controlled by one of 17 selectable programs",
+    "闪光灯": "built-in",
+    "尺寸": "91.6×56.8×19.6 mm",
+    "重量": "130g",
+    "英文简介": "The Canon Digital IXUS 75 is a compact digital camera introduced in 2007."
   },
   "images": [],
   "sources": [

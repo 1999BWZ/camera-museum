@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片单反相机，1963 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n|}\nThe Topcon RE Super was one of Tokyo Optical Company's SLR camera bodies with Exakta lens mount.",
+  "description": "Topcon于1963年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon RE Super"
+    "Camera-wiki": "Topcon RE Super",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n|}\nThe Topcon RE Super was one of Tokyo Optical Company's SLR camera bodies with Exakta lens mount."
   },
   "images": [],
   "sources": [

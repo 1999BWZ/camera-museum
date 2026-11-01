@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来立体相机，1926 年发布",
-  "description": "The Rolleidoscop is a stereo camera with a reflex viewfinder, made by Franke and Heidecke (later Rollei-Werke Franke & Heidecke).",
+  "description": "禄来于1926年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleidoscop"
+    "Camera-wiki": "Rolleidoscop",
+    "英文简介": "The Rolleidoscop is a stereo camera with a reflex viewfinder, made by Franke and Heidecke (later Rollei-Werke Franke & Heidecke)."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1936 年发布",
-  "description": "The Bobette II is one of the Ernemann cameras that was continued in production after the merger that created Zeiss Ikon in 1926.",
+  "description": "Zeiss Ikon于1936年推出的折叠相机。快门速度Cronos everset shutter (though not engraved with the name); 1/5 - 1/100 second, plus 'B' and 'T'. Cable release socket. No delayed action.。Sliding rails on bed, with radial lever. Scale in metres, from 1.1 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bobette II"
+    "Camera-wiki": "Bobette II",
+    "快门": "Cronos everset shutter (though not engraved with the name); 1/5 - 1/100 second, plus 'B' and 'T'. Cable release socket. No delayed action.",
+    "取景器": "Folding frame finder and brilliant finder",
+    "对焦": "Sliding rails on bed, with radial lever. Scale in metres, from 1.1 m to infinity.",
+    "尺寸": "112 x 62 x 36 mm (folded); depth when erected approx. 90 mm",
+    "重量": "375 g",
+    "英文简介": "The Bobette II is one of the Ernemann cameras that was continued in production after the merger that created Zeiss Ikon in 1926."
   },
   "images": [],
   "sources": [

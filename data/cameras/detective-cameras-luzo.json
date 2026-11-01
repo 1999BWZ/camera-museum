@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Detective cameras胶片相机，1889 年发布",
-  "description": "The Luzo is a detective camera, apparently the first camera to be made for roll-film in England.This is stated in the auctioneer's notes at Westlicht, and at Early photography, cited below.",
+  "description": "Detective cameras于1889年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Luzo"
+    "Camera-wiki": "Luzo",
+    "英文简介": "The Luzo is a detective camera, apparently the first camera to be made for roll-film in England.This is stated in the auctioneer's notes at Westlicht, and at Early photography, cited below."
   },
   "images": [],
   "sources": [

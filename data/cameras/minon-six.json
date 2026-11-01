@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minon旁轴相机，1950 年发布",
-  "description": "The Minon Six (ミノンシックス) is a series of Japanese 6×6 folders of the 1950s, evolution of the Poppy Six (which was itself a derivative of the Gotex made by Kigawa from 1941).",
+  "description": "Minon于1950年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minon Six"
+    "Camera-wiki": "Minon Six",
+    "英文简介": "The Minon Six (ミノンシックス) is a series of Japanese 6×6 folders of the 1950s, evolution of the Poppy Six (which was itself a derivative of the Gotex made by Kigawa from 1941)."
   },
   "images": [],
   "sources": [

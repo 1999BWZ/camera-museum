@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下无反相机，2013 年发布",
-  "description": "松下于2013年发布的无反相机。",
+  "description": "松下于2013年推出的无反相机。配备Micro Four Thirds system mount。快门速度Mechanical shutter / Electronic shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q17049295",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "传感器": "4/3 type MOS ('Live MOS sensor')",
+    "镜头": "Micro Four Thirds system mount",
+    "快门速度": "Mechanical shutter / Electronic shutter",
+    "取景器": "built-in 2.7MP, tilting LCV Live View Finder, with eye sensor",
+    "闪光灯": "Built-in flash + hot shoe for external",
+    "屏幕": "tilting 3 inch (3:2 aspect ratio), 1,040,000 dots",
+    "存储": "SD /SDHC / SDXC",
+    "电池": "1025 mAh 7.2v Lithium-Ion rechargeable battery",
+    "尺寸": "123 mm × 71 mm × 54 mm (4.83 × 2.78 × 2.15 inches)",
+    "重量": "Approx. (camera body with battery and SD card)"
   },
   "images": [
     {

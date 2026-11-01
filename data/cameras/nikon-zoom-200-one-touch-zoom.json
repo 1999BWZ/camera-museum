@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1995 年发布",
-  "description": "The Nikon Zoom 200 is a fully automated compact camera for 35mm film.",
+  "description": "尼康于1995年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Zoom 200/One•Touch Zoom (QD)"
+    "Camera-wiki": "Nikon Zoom 200/One•Touch Zoom (QD)",
+    "英文简介": "The Nikon Zoom 200 is a fully automated compact camera for 35mm film."
   },
   "images": [],
   "sources": [

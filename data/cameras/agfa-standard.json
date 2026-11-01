@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1926 年发布",
-  "description": "Agfa Standard cameras are a range of metal-bodied folding cameras, some models for plates and pack film, and others for roll film.",
+  "description": "爱克发于1926年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Standard"
+    "Camera-wiki": "Agfa Standard",
+    "英文简介": "Agfa Standard cameras are a range of metal-bodied folding cameras, some models for plates and pack film, and others for roll film."
   },
   "images": [],
   "sources": [

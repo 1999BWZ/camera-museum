@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo取景器相机，1961 年发布",
-  "description": "Camera made by the French company Fex.",
+  "description": "Fex Indo于1961年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Manufrance Luminor"
+    "Camera-wiki": "Manufrance Luminor",
+    "英文简介": "Camera made by the French company Fex."
   },
   "images": [],
   "sources": [

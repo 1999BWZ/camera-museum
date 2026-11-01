@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary折叠相机，1927 年发布",
-  "description": "The Eagle is a camera made by Kuribayashi in the late 1920s.",
+  "description": "Bestiary于1927年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Eagle (Kuribayashi)"
+    "Camera-wiki": "Eagle (Kuribayashi)",
+    "英文简介": "The Eagle is a camera made by Kuribayashi in the late 1920s."
   },
   "images": [],
   "sources": [

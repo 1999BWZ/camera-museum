@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "No-need-darkroom盒式相机，1950 年发布",
-  "description": "The Kamerette is a simple box camera, made in Japan around 1930.",
+  "description": "No-need-darkroom于1950年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kamerette"
+    "Camera-wiki": "Kamerette",
+    "英文简介": "The Kamerette is a simple box camera, made in Japan around 1930."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码单反相机，1907 年发布",
-  "description": "The Sakura Reflex Prano (さくらレフレックスプラノ) The name \"Prano\" is sometimes written \"Plano\" by mistake.",
+  "description": "柯尼卡于1907年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sakura Reflex Prano and Idea Reflex"
+    "Camera-wiki": "Sakura Reflex Prano and Idea Reflex",
+    "英文简介": "The Sakura Reflex Prano (さくらレフレックスプラノ) The name \"Prano\" is sometimes written \"Plano\" by mistake."
   },
   "images": [],
   "sources": [

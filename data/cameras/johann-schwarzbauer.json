@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Johann胶片相机，1954 年发布",
-  "description": "Johann Schwarzbauer was an Austrian camera manufacturer from Vienna about which little is known.",
+  "description": "Johann于1954年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Johann Schwarzbauer"
+    "Camera-wiki": "Johann Schwarzbauer",
+    "英文简介": "Johann Schwarzbauer was an Austrian camera manufacturer from Vienna about which little is known."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon中画幅相机，1951 年发布",
-  "description": "The Ikoflex IIa is a model in a long line of Ikoflexes which started in 1934\nand ended in 1960.",
+  "description": "Zeiss Ikon于1951年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ikoflex IIa"
+    "Camera-wiki": "Ikoflex IIa",
+    "英文简介": "The Ikoflex IIa is a model in a long line of Ikoflexes which started in 1934\nand ended in 1960."
   },
   "images": [],
   "sources": [

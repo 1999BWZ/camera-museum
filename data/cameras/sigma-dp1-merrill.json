@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "适马便携相机，2012 年发布",
-  "description": "适马于2012年发布的便携相机。",
+  "description": "适马于2012年推出的便携相机。配备19 mm (35 mm equivalent 28 mm) f/2.8。快门速度Electronically controlled lens shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q18358535",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "镜头": "19 mm (35 mm equivalent 28 mm) f/2.8",
+    "快门速度": "Electronically controlled lens shutter",
+    "曝光测光": "TTL Full Aperture Metering",
+    "取景器": "none",
+    "闪光灯": "Hotshoe",
+    "存储": "SD card",
+    "电池": "Lithium Ion battery BP-41",
+    "尺寸": "121.5 × 66.7 × 64.3 mm",
+    "重量": "360 g empty (no battery, no memory card)"
   },
   "images": [],
   "sources": [

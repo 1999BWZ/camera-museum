@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1959 年发布",
-  "description": "The Retina IIS is a non-folding 35mm coupled-rangefinder camera, from Kodak AG, their factory type 024.",
+  "description": "柯达于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina IIS"
+    "Camera-wiki": "Kodak Retina IIS",
+    "英文简介": "The Retina IIS is a non-folding 35mm coupled-rangefinder camera, from Kodak AG, their factory type 024."
   },
   "images": [],
   "sources": [

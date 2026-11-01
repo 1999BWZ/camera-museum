@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1955 年发布",
-  "description": "{|class=floatright\n||\n\nThe Olympus 35-S and 35-S II are fixed-lens rangefinders made by Olympus from 1955 to 1959.",
+  "description": "奥林巴斯于1955年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus 35-S"
+    "Camera-wiki": "Olympus 35-S",
+    "英文简介": "{|class=floatright\n||\n\nThe Olympus 35-S and 35-S II are fixed-lens rangefinders made by Olympus from 1955 to 1959."
   },
   "images": [],
   "sources": [

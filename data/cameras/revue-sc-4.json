@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue数码单反相机，1983 年发布",
-  "description": "Another 35mm SLR sold by the German Foto-Quelle stores c.1983[https://www.photo-foto.eu/revue/revue-sc-4/ Revue SC 4 page] at [https://www.photo-foto.eu/ Cameras and More by Wolfgang Bongardt] (in German) : the Revue SC 4.",
+  "description": "Revue于1983年推出的数码单反相机。使用Cosina CT1 Super, this is the same model.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue SC 4"
+    "Camera-wiki": "Revue SC 4",
+    "胶片/画幅": "Cosina CT1 Super, this is the same model.",
+    "英文简介": "Another 35mm SLR sold by the German Foto-Quelle stores c.1983[https://www.photo-foto.eu/revue/revue-sc-4/ Revue SC 4 page] at [https://www.photo-foto.eu/ Cameras and More by Wolfgang Bongardt] (in German) : the Revue SC 4."
   },
   "images": [],
   "sources": [

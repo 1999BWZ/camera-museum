@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2002 年发布",
-  "description": "The Nikon Coolpix 4300 is part of the Coolpix series of digital cameras announced by Nikon on Aug 29, 2002 and released on October 1, 2002.",
+  "description": "尼康于2002年推出的数码相机。配备f/2.8-4.9 or f/7.6-13.4 (depending on zoom position).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix 4300"
+    "Camera-wiki": "Nikon Coolpix 4300",
+    "镜头": "f/2.8-4.9 or f/7.6-13.4 (depending on zoom position).",
+    "英文简介": "The Nikon Coolpix 4300 is part of the Coolpix series of digital cameras announced by Nikon on Aug 29, 2002 and released on October 1, 2002."
   },
   "images": [],
   "sources": [

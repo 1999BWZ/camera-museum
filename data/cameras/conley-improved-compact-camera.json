@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Conley折叠相机，1906 年发布",
-  "description": "The Conley Improved Compact Camera was a fine offer in Sears 1908 catalog.",
+  "description": "Conley于1906年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Conley Improved Compact Camera"
+    "Camera-wiki": "Conley Improved Compact Camera",
+    "英文简介": "The Conley Improved Compact Camera was a fine offer in Sears 1908 catalog."
   },
   "images": [],
   "sources": [

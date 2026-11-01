@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1916 年发布",
-  "description": "{|class=\"floatright plainlinks\" style=\"margin:0px 0px 10px 15px;\"\n|\n|\n\n|-\n|colspan=2|Two examples of the No.",
+  "description": "柯达于1916年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Folding Cartridge Premo"
+    "Camera-wiki": "Kodak Folding Cartridge Premo",
+    "英文简介": "{|class=\"floatright plainlinks\" style=\"margin:0px 0px 10px 15px;\"\n|\n|\n\n|-\n|colspan=2|Two examples of the No."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2005 年发布",
-  "description": "The Konica Minolta DiMAGE E500 was made by Premier for Konica Minolta.",
+  "description": "柯尼卡美能达于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE E500"
+    "Camera-wiki": "Konica Minolta DiMAGE E500",
+    "英文简介": "The Konica Minolta DiMAGE E500 was made by Premier for Konica Minolta."
   },
   "images": [],
   "sources": [

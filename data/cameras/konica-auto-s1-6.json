@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1967 年发布",
-  "description": "The 1967 Konica Auto S1.6 is - for all practical purposes - the last of the Auto S series and an update the earlier Auto S2 offering a 1/3-stop faster f/1.6 lens.",
+  "description": "柯尼卡于1967年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Auto S1.6"
+    "Camera-wiki": "Konica Auto S1.6",
+    "英文简介": "The 1967 Konica Auto S1.6 is - for all practical purposes - the last of the Auto S series and an update the earlier Auto S2 offering a 1/3-stop faster f/1.6 lens."
   },
   "images": [],
   "sources": [

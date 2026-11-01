@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码相机，2010 年发布",
-  "description": "The D-Lux 5 is a compact digital camera from Leica introduced in 2010.",
+  "description": "徕卡于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica D-Lux 5"
+    "Camera-wiki": "Leica D-Lux 5",
+    "英文简介": "The D-Lux 5 is a compact digital camera from Leica introduced in 2010."
   },
   "images": [
     {

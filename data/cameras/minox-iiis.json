@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1954 年发布",
-  "description": "The Minox Model IIIS was introduced in 1954.",
+  "description": "Minox于1954年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox IIIS"
+    "Camera-wiki": "Minox IIIS",
+    "英文简介": "The Minox Model IIIS was introduced in 1954."
   },
   "images": [],
   "sources": [

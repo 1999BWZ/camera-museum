@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1974 年发布",
-  "description": "The Minolta XE is an electronic 35mm SLR camera introduced in 1974, just one year after the professional Minolta SLR X-1.",
+  "description": "美能达于1974年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta XE"
+    "Camera-wiki": "Minolta XE",
+    "英文简介": "The Minolta XE is an electronic 35mm SLR camera introduced in 1974, just one year after the professional Minolta SLR X-1."
   },
   "images": [],
   "sources": [

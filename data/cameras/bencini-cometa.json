@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bencini胶片相机，1960 年发布",
-  "description": "The Cometa is a cast-metal camera for 127 film made in Italy by Bencini, c.1960.",
+  "description": "Bencini于1960年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bencini Cometa"
+    "Camera-wiki": "Bencini Cometa",
+    "英文简介": "The Cometa is a cast-metal camera for 127 film made in Italy by Bencini, c.1960."
   },
   "images": [],
   "sources": [

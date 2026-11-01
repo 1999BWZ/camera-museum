@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1926 年发布",
-  "description": "柯达于1926年发布的旁轴相机。",
+  "description": "柯达于1926年推出的旁轴相机。配备Kodak Anastigmat 127mm f/6.3。快门速度Bulb, Time, 1/25th and 1/50th。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 1A Pocket Kodak"
+    "Camera-wiki": "No. 1A Pocket Kodak",
+    "镜头": "Kodak Anastigmat 127mm f/6.3",
+    "快门速度": "Bulb, Time, 1/25th and 1/50th",
+    "光圈": "f/6.3 to f/45, infinity adjustable",
+    "取景器": "Brilliant finder, adjustable for landscape or portrait"
   },
   "images": [],
   "sources": [

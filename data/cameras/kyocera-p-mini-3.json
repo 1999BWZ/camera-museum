@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera便携相机，1995 年发布",
-  "description": "Kyocera于1995年发布的便携相机。",
+  "description": "Kyocera于1995年推出的便携相机。配备Kyocera Lens 32mm f/3.9, 3 elements in 3 groups。快门速度Programmed, 1/15 sec. ~ 1/400 sec. (normal-mode) & 2 sec. (night-mode)。感光度ISO 100 ~ 800 (DX-code system)。Active auto-focusing system, 100 focusing zones。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera P. mini 3"
+    "Camera-wiki": "Kyocera P. mini 3",
+    "镜头": "Kyocera Lens 32mm f/3.9, 3 elements in 3 groups",
+    "对焦": "Active auto-focusing system, 100 focusing zones",
+    "快门": "Programmed, 1/15 sec. ~ 1/400 sec. (normal-mode) & 2 sec. (night-mode)",
+    "取景器": "Albada-type",
+    "感光度": "ISO 100 ~ 800 (DX-code system)",
+    "闪光灯": "Auto / On / Off / red-eye reduction",
+    "尺寸": "115 mm X 63 mm X 45 mm",
+    "重量": "180 g (without batteries)"
   },
   "images": [],
   "sources": [

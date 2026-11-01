@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发胶片相机，1974 年发布",
-  "description": "The Optima 5000 pocket sensor is a viewfinder camera for type 110 pocket film cartridges produced by the German company Agfa.",
+  "description": "爱克发于1974年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima 5000 pocket sensor"
+    "Camera-wiki": "Optima 5000 pocket sensor",
+    "英文简介": "The Optima 5000 pocket sensor is a viewfinder camera for type 110 pocket film cartridges produced by the German company Agfa."
   },
   "images": [],
   "sources": [

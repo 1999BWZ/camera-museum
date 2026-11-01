@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1948 年发布",
-  "description": "The Leica IIc has the same camera body as the Leica IIIc but without the slow shutter speeds.",
+  "description": "徕卡于1948年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica IIc"
+    "Camera-wiki": "Leica IIc",
+    "英文简介": "The Leica IIc has the same camera body as the Leica IIIc but without the slow shutter speeds."
   },
   "images": [],
   "sources": [

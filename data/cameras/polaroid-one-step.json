@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1993 年发布",
-  "description": "Not to be confused with the original OneStep for SX-70 film (sold in most non-US markets as the Polaroid Land Camera 1000), the later Polaroid One Step (with curved corners) introduced a new generation of models in Polaroid's 600-series in c.1993[https://resolver.kb.nl/resolve?urn=KBPERS01:003113014",
+  "description": "宝丽来于1993年推出的一次成像相机。配备116mm, f/11, Single-element plastic, with sliding close-up attachment.。快门速度electronic; automatic speed between 1/4-1/200 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid One Step (curved corners)"
+    "Camera-wiki": "Polaroid One Step (curved corners)",
+    "镜头": "116mm, f/11, Single-element plastic, with sliding close-up attachment.",
+    "快门": "electronic; automatic speed between 1/4-1/200 sec.",
+    "英文简介": "Not to be confused with the original OneStep for SX-70 film (sold in most non-US markets as the Polaroid Land Camera 1000), the later Polaroid One Step (with curved corners) introduced a new generation of models in Polaroid's 600-series in c.1993[https://resolver.kb.nl/resolve?urn=KBPERS01:003113014:mpeg21:a00314 Polaroid 636 Closeup advertisement in Dutch newspaper \"Algemeen Dagblad\" 16-09-1993]."
   },
   "images": [],
   "sources": [

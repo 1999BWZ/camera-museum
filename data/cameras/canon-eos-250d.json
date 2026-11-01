@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2019 年发布",
-  "description": "佳能于2019年发布的数码单反相机。",
+  "description": "佳能于2019年推出的数码单反相机。配备Canon EF-S。快门速度Electronic focal-plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q63115982",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "传感器": "| sensor_type = CMOS",
+    "镜头": "Canon EF-S",
+    "快门速度": "Electronic focal-plane",
+    "曝光测光": "Full aperture TTL, 63 zones",
+    "取景器": "Eye-level pentamirror with 95% coverage and 0.87× magnification / LCD (Live View)",
+    "闪光灯": "E-TTL II auto-pop-up built-in / External",
+    "屏幕": "3\" (7.62 cm) 3:2 aspect ratio color TFT vari-angle LCD touchscreen with 1,040,000 dots",
+    "存储": "SD/SDHC/SDXC card",
+    "电池": "Li-Ion LP-E17 rechargeable",
+    "重量": "CIPA"
   },
   "images": [
     {

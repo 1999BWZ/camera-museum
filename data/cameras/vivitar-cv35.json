@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar玩具相机，1999 年发布",
-  "description": "The Vivitar CV35 is a fixed-focus, plastic 35mm film camera marketed by Vivitar.",
+  "description": "Vivitar于1999年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar CV35"
+    "Camera-wiki": "Vivitar CV35",
+    "英文简介": "The Vivitar CV35 is a fixed-focus, plastic 35mm film camera marketed by Vivitar."
   },
   "images": [],
   "sources": [

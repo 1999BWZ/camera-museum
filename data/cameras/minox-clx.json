@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1998 年发布",
-  "description": "Properties of the Minox CLX:\n* All technical data as of Minox TLX\n* Brass body, chrome-plated and polished surface (called \"Guillochierung\")\n* Engraved with a Walter Zapp signature and the dates 1938-1998",
+  "description": "Minox于1998年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox CLX"
+    "Camera-wiki": "Minox CLX",
+    "英文简介": "Properties of the Minox CLX:\n* All technical data as of Minox TLX\n* Brass body, chrome-plated and polished surface (called \"Guillochierung\")\n* Engraved with a Walter Zapp signature and the dates 1938-1998"
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Foth胶片相机，1935 年发布",
-  "description": "The Foth-Flex is a TLR camera for 6&times;6 cm exposures on 120 film, produced by Foth in Germany in 1935.",
+  "description": "Foth于1935年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Foth-Flex"
+    "Camera-wiki": "Foth-Flex",
+    "英文简介": "The Foth-Flex is a TLR camera for 6&times;6 cm exposures on 120 film, produced by Foth in Germany in 1935."
   },
   "images": [],
   "sources": [

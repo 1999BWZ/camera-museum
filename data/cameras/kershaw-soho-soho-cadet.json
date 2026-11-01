@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kershaw-Soho折叠相机，1930 年发布",
-  "description": "The Soho Cadet is a folding bed camera with a body made of bakelite and a brilliant finder for type No.",
+  "description": "Kershaw-Soho于1930年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Soho Cadet"
+    "Camera-wiki": "Soho Cadet",
+    "英文简介": "The Soho Cadet is a folding bed camera with a body made of bakelite and a brilliant finder for type No."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kershaw-Soho折叠相机，1948 年发布",
-  "description": "The Peregrine is a verticalThat is, the front unfolds sideways, not downwards, with the camera seen as pictured.",
+  "description": "Kershaw-Soho于1948年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kershaw Peregrine"
+    "Camera-wiki": "Kershaw Peregrine",
+    "英文简介": "The Peregrine is a verticalThat is, the front unfolds sideways, not downwards, with the camera seen as pictured."
   },
   "images": [],
   "sources": [

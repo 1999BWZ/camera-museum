@@ -13,11 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1994 年发布",
-  "description": "尼康于1994年发布的胶片单反相机。",
+  "description": "尼康于1994年推出的胶片单反相机。配备interchangeable lens, Nikon F-mount。快门速度electromagnetically controlled。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q3341822",
-    "多语言词条数": "7"
+    "多语言词条数": "7",
+    "胶片/画幅": "35mm",
+    "镜头": "interchangeable lens, Nikon F-mount",
+    "快门速度": "electromagnetically controlled",
+    "闪光灯": "| flashcomp =",
+    "尺寸": "| weight ="
   },
   "images": [
     {

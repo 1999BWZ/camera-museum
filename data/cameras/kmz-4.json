@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1964 年发布",
-  "description": "The Zenit 4 is a 35 mm SLR camera made by KMZ from 1964 to '68.",
+  "description": "KMZ于1964年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 4"
+    "Camera-wiki": "Zenit 4",
+    "英文简介": "The Zenit 4 is a 35 mm SLR camera made by KMZ from 1964 to '68."
   },
   "images": [],
   "sources": [

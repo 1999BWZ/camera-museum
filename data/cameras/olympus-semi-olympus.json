@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯折叠相机，1936 年发布",
-  "description": "The Semi Olympus (セミ・オリンパス) is a 4.5×6cm folder.",
+  "description": "奥林巴斯于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Olympus"
+    "Camera-wiki": "Semi Olympus",
+    "英文简介": "The Semi Olympus (セミ・オリンパス) is a 4.5×6cm folder."
   },
   "images": [],
   "sources": [

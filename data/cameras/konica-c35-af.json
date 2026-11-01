@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1977 年发布",
-  "description": "__NOTOC__ \n{|align=right\n||\n\n|-\n||\n\n|}\nThe Konica C35 AF (nicknamed \"Jasupin\"'Jasupin' means 'in sharp focus' and can be found in Japanese photo-blogs etc.",
+  "description": "柯尼卡于1977年推出的胶片单反相机。配备Hexanon 38mm f/2.8, 4 elements in 3 groups。快门速度Programmed Leaf shutter with 3 speeds - 1/60s, 1/125s & 1/250s。使用Manual - Lever wind + rewind crank。感光度EV 9 ~ EV 17 with 100 asa film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica C35 AF"
+    "Camera-wiki": "Konica C35 AF",
+    "镜头": "Hexanon 38mm f/2.8, 4 elements in 3 groups",
+    "快门": "Programmed Leaf shutter with 3 speeds - 1/60s, 1/125s & 1/250s",
+    "曝光测光": "Fully automatic - 25 ~ 400ASA",
+    "感光度": "EV 9 ~ EV 17 with 100 asa film",
+    "取景器": "Bright Line 0.41 Magnification",
+    "闪光灯": "GN14 - Exposure determined by range measured by autofocus",
+    "胶片/画幅": "Manual - Lever wind + rewind crank",
+    "尺寸": "132 x 76 x 54mm",
+    "重量": "375 grams",
+    "英文简介": "__NOTOC__ \n{|align=right\n||\n\n|-\n||\n\n|}\nThe Konica C35 AF (nicknamed \"Jasupin\"'Jasupin' means 'in sharp focus' and can be found in Japanese photo-blogs etc."
   },
   "images": [],
   "sources": [

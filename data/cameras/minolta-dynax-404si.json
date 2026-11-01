@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1999 年发布",
-  "description": "The Dynax 404si is an entry level autofocus 35mm film SLR camera using the Minolta AF mount, manufactured by Minolta and released in 1999.",
+  "description": "美能达于1999年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 404si"
+    "Camera-wiki": "Minolta Dynax 404si",
+    "英文简介": "The Dynax 404si is an entry level autofocus 35mm film SLR camera using the Minolta AF mount, manufactured by Minolta and released in 1999."
   },
   "images": [],
   "sources": [

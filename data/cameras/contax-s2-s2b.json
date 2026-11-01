@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时数码单反相机，1992 年发布",
-  "description": "The Contax S2 was originally introduced in October 1992 to commemorate the 60th anniversary of Contax cameras.",
+  "description": "康泰时于1992年推出的数码单反相机。快门速度Manual: 1 to 1/4000 sec, B, X 1/250 sec. Self-timer: Mechanical; 10 sec delay。使用advance and rewind is manual by lever and winder。感光度ISO 12 to 6400。Interchangeable, FU4: horizontal split image micro prism; with optional:。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax S2 / S2b"
+    "Camera-wiki": "Contax S2 / S2b",
+    "卡口": "Contax/Yashica MM mount",
+    "快门": "Mechanical, vertical travel, metal shutter",
+    "快门速度": "Manual: 1 to 1/4000 sec, B, X 1/250 sec. Self-timer: Mechanical; 10 sec delay",
+    "曝光测光": "Manual exposure w/ meter",
+    "传感器": "SPD cell",
+    "感光度": "ISO 12 to 6400",
+    "取景器": "Fixed eye-level pentaprism finder w/ diopter adjustment and 8 optional diopter lenses",
+    "对焦": "Interchangeable, FU4: horizontal split image micro prism; with optional:",
+    "胶片/画幅": "advance and rewind is manual by lever and winder",
+    "尺寸": "134.5 x 89 x 51 mm",
+    "重量": "565g without battery",
+    "英文简介": "The Contax S2 was originally introduced in October 1992 to commemorate the 60th anniversary of Contax cameras."
   },
   "images": [],
   "sources": [

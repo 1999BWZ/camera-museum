@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，1998 年发布",
-  "description": "The Olympus D-620L / C-1400XL is a early fixed lens SLR digital camera announced in 1998.",
+  "description": "奥林巴斯于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus D-620L / C-1400XL"
+    "Camera-wiki": "Olympus D-620L / C-1400XL",
+    "尺寸": "114 x 84 x 130 mm",
+    "重量": "471g",
+    "英文简介": "The Olympus D-620L / C-1400XL is a early fixed lens SLR digital camera announced in 1998."
   },
   "images": [],
   "sources": [

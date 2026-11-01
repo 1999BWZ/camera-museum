@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1957 年发布",
-  "description": "There were four generations of Voigtlander Vitomatic cameras, all of which had coupled light meters.",
+  "description": "Voigtländer于1957年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitomatic I"
+    "Camera-wiki": "Vitomatic I",
+    "英文简介": "There were four generations of Voigtlander Vitomatic cameras, all of which had coupled light meters."
   },
   "images": [],
   "sources": [

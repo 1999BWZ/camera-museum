@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus旁轴相机，1971 年发布",
-  "description": "For the company whose Argus C3 had brought rangefinder cameras to the US masses, it was doubtless bittersweet to have this diminutive model rebadging the Cosina 35 as the sole example left in Argus's early-70s lineup.",
+  "description": "Argus于1971年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus/Cosina 35"
+    "Camera-wiki": "Argus/Cosina 35",
+    "英文简介": "For the company whose Argus C3 had brought rangefinder cameras to the US masses, it was doubtless bittersweet to have this diminutive model rebadging the Cosina 35 as the sole example left in Argus's early-70s lineup."
   },
   "images": [],
   "sources": [

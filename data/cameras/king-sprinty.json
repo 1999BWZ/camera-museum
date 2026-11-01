@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King取景器相机，1963 年发布",
-  "description": "{|align=right\n|-\n|__TOC__\n|}\nThe Regula Sprinty was a long-running series of 35mm cameras made by King KG starting in 1963 and sold through the 1960's and 1970's as part of their Regula range.",
+  "description": "King于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula Sprinty"
+    "Camera-wiki": "Regula Sprinty",
+    "重量": "350g",
+    "英文简介": "{|align=right\n|-\n|__TOC__\n|}\nThe Regula Sprinty was a long-running series of 35mm cameras made by King KG starting in 1963 and sold through the 1960's and 1970's as part of their Regula range."
   },
   "images": [],
   "sources": [

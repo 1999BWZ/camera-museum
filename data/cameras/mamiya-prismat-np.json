@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚数码单反相机，1961 年发布",
-  "description": "The Prismat NP is an early interchangeable lens 35mm SLR camera from Mamiya released in 1961.",
+  "description": "玛米亚于1961年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya Prismat NP"
+    "Camera-wiki": "Mamiya Prismat NP",
+    "英文简介": "The Prismat NP is an early interchangeable lens 35mm SLR camera from Mamiya released in 1961."
   },
   "images": [],
   "sources": [

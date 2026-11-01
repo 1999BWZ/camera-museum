@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1948 年发布",
-  "description": "The Kodak Tourists were the last in a long line of American-made folding roll film cameras from Eastman Kodak.",
+  "description": "柯达于1948年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Tourist"
+    "Camera-wiki": "Kodak Tourist",
+    "英文简介": "The Kodak Tourists were the last in a long line of American-made folding roll film cameras from Eastman Kodak."
   },
   "images": [],
   "sources": [

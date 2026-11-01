@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Haking取景器相机，1974 年发布",
-  "description": "The Halina 3000 is a viewfinder camera for 35mm film, with a built-in meter, made by Hakings in Hong Kong - introduced c.1974.",
+  "description": "Haking于1974年推出的取景器相机。配备45mm f/2.8, stopping to f/16。快门速度1/30-1/250 +B Leaf shutter。使用36x24mm on 135 film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Halina 3000"
+    "Camera-wiki": "Halina 3000",
+    "镜头": "45mm f/2.8, stopping to f/16",
+    "快门": "1/30-1/250 +B Leaf shutter",
+    "闪光灯": "at all speeds, via PC connector or hot shoe",
+    "胶片/画幅": "36x24mm on 135 film",
+    "英文简介": "The Halina 3000 is a viewfinder camera for 35mm film, with a built-in meter, made by Hakings in Hong Kong - introduced c.1974."
   },
   "images": [],
   "sources": [

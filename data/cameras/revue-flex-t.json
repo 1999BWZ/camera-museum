@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue数码单反相机，1971 年发布",
-  "description": "The Revueflex T is a version of the Cosina SLR sold by Foto-Quelle in the early 70's.",
+  "description": "Revue于1971年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revueflex T"
+    "Camera-wiki": "Revueflex T",
+    "英文简介": "The Revueflex T is a version of the Cosina SLR sold by Foto-Quelle in the early 70's."
   },
   "images": [],
   "sources": [

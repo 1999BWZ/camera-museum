@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nons一次成像相机，2023 年发布",
-  "description": "The SL645 is an SLR camera for Instax Mini media (62x46mm), made by the Hong Kong/Shenzhen maker Nons in 2023.",
+  "description": "Nons于2023年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nons SL645"
+    "Camera-wiki": "Nons SL645",
+    "尺寸": "135 x 124 x 92mm",
+    "重量": "795g",
+    "英文简介": "The SL645 is an SLR camera for Instax Mini media (62x46mm), made by the Hong Kong/Shenzhen maker Nons in 2023."
   },
   "images": [],
   "sources": [

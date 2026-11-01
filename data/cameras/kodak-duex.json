@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1940 年发布",
-  "description": "* Type: viewfinder rollfilm camera\n\n* Manufacturer: produced by Kodak in Rochester as well as by Canadian Kodak Company, Ltd.",
+  "description": "柯达于1940年推出的取景器相机。配备f11 periscopic doublet。快门速度I (instant) and B (bulb) mode。使用620。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Duex"
+    "Camera-wiki": "Kodak Duex",
+    "胶片/画幅": "620",
+    "快门": "I (instant) and B (bulb) mode",
+    "镜头": "f11 periscopic doublet",
+    "取景器": "optical",
+    "英文简介": "* Type: viewfinder rollfilm camera\n\n* Manufacturer: produced by Kodak in Rochester as well as by Canadian Kodak Company, Ltd."
   },
   "images": [],
   "sources": [

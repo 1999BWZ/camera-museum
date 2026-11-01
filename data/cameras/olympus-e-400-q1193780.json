@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，2006 年发布",
-  "description": "奥林巴斯于2006年发布的数码单反相机。",
+  "description": "奥林巴斯于2006年推出的数码单反相机。配备Interchangeable Four Thirds mount。快门速度| shutterRange = 60–1/4000 s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1193780",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "17.3 x 13.0 mm Four Thirds System Kodak KAI-10100 RGB CCD sensor2x FOV crop",
+    "镜头": "Interchangeable Four Thirds mount",
+    "快门速度": "| shutterRange = 60–1/4000 s",
+    "曝光测光": "TTL open-aperture49-zone multi-patternRange: 1 to 20 EV (50 mm F2, ISO 100)",
+    "取景器": "Optical 0.92x Pentaprism",
+    "闪光灯": "Built in Pop-up, Guide number 10 m at ISO 100, hotshoe",
+    "存储": "Compact Flash (Type I and II), xD Picture card",
+    "电池": "Lithium-Ion rechargeable",
+    "重量": "375 g (body only)"
   },
   "images": [
     {

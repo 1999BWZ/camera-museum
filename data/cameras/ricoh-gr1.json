@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1996 年发布",
-  "description": "The Ricoh GR1 is a high end 35mm camera introduced in 1996, it received the 1997 TIPA award for best 35mm Compact Camera.",
+  "description": "理光于1996年推出的便携相机。配备GR Lens 28mm f/2.8 (7 elements, 4 groups)。快门速度Electronic shutter - 2 to 1/500 second.。感光度ISO25 to ISO3200 (DX)。Autofocus multi-subject。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh GR1"
+    "Camera-wiki": "Ricoh GR1",
+    "镜头": "GR Lens 28mm f/2.8 (7 elements, 4 groups)",
+    "对焦": "Autofocus multi-subject",
+    "快门速度": "Electronic shutter - 2 to 1/500 second.",
+    "曝光测光": "Aperture Priority Mode, Program Mode",
+    "感光度": "ISO25 to ISO3200 (DX)",
+    "电池": "1x CR2",
+    "尺寸": "117mm x 61mm x 26,5mm (Grip: 34mm)",
+    "重量": "175gr",
+    "英文简介": "The Ricoh GR1 is a high end 35mm camera introduced in 1996, it received the 1997 TIPA award for best 35mm Compact Camera."
   },
   "images": [],
   "sources": [

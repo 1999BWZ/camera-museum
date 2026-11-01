@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1995 年发布",
-  "description": "A March 1995 model from Canon's very successful Sure Shot range, the Sure Shot Del Sol - known as the Prima Sol in continental Europe and Autoboy SE in Japan - was the world's first camera using solar energy for all its power requirements.[http://global.canon/en/c-museum/product/film178.html Canon C",
+  "description": "佳能于1995年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot Del Sol/Prima Sol/Autoboy SE"
+    "Camera-wiki": "Canon Sure Shot Del Sol/Prima Sol/Autoboy SE",
+    "重量": "124x67x46 mm, 260g",
+    "尺寸": "124x67x46 mm",
+    "英文简介": "A March 1995 model from Canon's very successful Sure Shot range, the Sure Shot Del Sol - known as the Prima Sol in continental Europe and Autoboy SE in Japan - was the world's first camera using solar energy for all its power requirements.[http://global.canon/en/c-museum/product/film178.html Canon Camera Museum] Its front is covered with a solar panel that recharges an internal lithium ion battery"
   },
   "images": [],
   "sources": [

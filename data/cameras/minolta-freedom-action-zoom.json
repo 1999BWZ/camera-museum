@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1993 年发布",
-  "description": "The Freedom Action Zoom is a 35mm autofocus compact camera from Minolta.",
+  "description": "美能达于1993年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Freedom Action Zoom"
+    "Camera-wiki": "Minolta Freedom Action Zoom",
+    "英文简介": "The Freedom Action Zoom is a 35mm autofocus compact camera from Minolta."
   },
   "images": [],
   "sources": [

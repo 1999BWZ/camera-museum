@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "view cameras大画幅相机，1969 年发布",
-  "description": "{|\n|\n|-\n|\n|}\n\nFKD cameras (ФКД - sometimes only labelled FK)The name is a shortening of Фотокамера Дорожная (Fotokamera Dorozhnaya; 'road camera', or Reisekamera) - see the manual linked below.",
+  "description": "view cameras于1969年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "FKD view cameras"
+    "Camera-wiki": "FKD view cameras",
+    "英文简介": "{|\n|\n|-\n|\n|}\n\nFKD cameras (ФКД - sometimes only labelled FK)The name is a shortening of Фотокамера Дорожная (Fotokamera Dorozhnaya; 'road camera', or Reisekamera) - see the manual linked below."
   },
   "images": [],
   "sources": [

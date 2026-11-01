@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi胶片单反相机，1971 年发布",
-  "description": "The Petri FT II is a 35mm film SLR camera from Petri released in 1971, it is a successor of Petri FT.",
+  "description": "Kuribayashi于1971年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri FT II"
+    "Camera-wiki": "Petri FT II",
+    "尺寸": "149x94x104mm",
+    "英文简介": "The Petri FT II is a 35mm film SLR camera from Petri released in 1971, it is a successor of Petri FT."
   },
   "images": [],
   "sources": [

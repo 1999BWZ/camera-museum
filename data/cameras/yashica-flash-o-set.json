@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1961 年发布",
-  "description": "{|class=\"plainlinks\" align=\"right\" style=\"text-align: center;margin:0px 0px 15px 15px;\"\n|[http://www.flickr.com/photos/heritagefutures/4284933726/in/pool-camerawiki/ http://farm5.static.flickr.com/4042/4284933726_37d0c7c79b_n.jpg]\n|[http://www.flickr.com/photos/heritagefutures/4284196911/in/pool-cam",
+  "description": "雅西卡于1961年推出的取景器相机。配备Yashinon 40mm f4, fixed focus。快门速度fixed 1/60。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Flash-O-Set"
+    "Camera-wiki": "Yashica Flash-O-Set",
+    "镜头": "Yashinon 40mm f4, fixed focus",
+    "快门": "fixed 1/60",
+    "曝光测光": "Selenium cell",
+    "闪光灯": "built-in AG-1 bulb holder + x-sync PC socket",
+    "英文简介": "{|class=\"plainlinks\" align=\"right\" style=\"text-align: center;margin:0px 0px 15px 15px;\"\n|[http://www.flickr.com/photos/heritagefutures/4284933726/in/pool-camerawiki/ http://farm5.static.flickr.com/4042/4284933726_37d0c7c79b_n.jpg]\n|[http://www.flickr.com/photos/heritagefutures/4284196911/in/pool-camerawiki/ http://farm5.static.flickr.com/4041/4284196911_0848d94dd7_n.jpg]\n|-\n|[http://www.flickr.com"
   },
   "images": [],
   "sources": [

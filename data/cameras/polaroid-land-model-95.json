@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1948 年发布",
-  "description": "The Model 95 is the first of Edwin Land's instant picture cameras.",
+  "description": "宝丽来于1948年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Land Model 95"
+    "Camera-wiki": "Polaroid Land Model 95",
+    "英文简介": "The Model 95 is the first of Edwin Land's instant picture cameras."
   },
   "images": [],
   "sources": [

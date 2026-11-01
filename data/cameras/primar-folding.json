@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Primar旁轴相机（折叠），1930 年发布",
-  "description": "Compact folding camera for 6.5&times;9cm plates made by Bentzin c.1930.",
+  "description": "Primar于1930年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Primar Folding"
+    "Camera-wiki": "Primar Folding",
+    "英文简介": "Compact folding camera for 6.5&times;9cm plates made by Bentzin c.1930."
   },
   "images": [],
   "sources": [

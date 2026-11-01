@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron取景器相机，1963 年发布",
-  "description": "The JL is a 35mm viewfinder camera from Taron aimed at less technically-minded buyers.",
+  "description": "Taron于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron JL"
+    "Camera-wiki": "Taron JL",
+    "英文简介": "The JL is a 35mm viewfinder camera from Taron aimed at less technically-minded buyers."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1976 年发布",
-  "description": "The Kodak Instamatic 177x is one in a huge family of 126 film Instamatics produced from 1976-1984.",
+  "description": "柯达于1976年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 177X"
+    "Camera-wiki": "Kodak Instamatic 177X",
+    "英文简介": "The Kodak Instamatic 177x is one in a huge family of 126 film Instamatics produced from 1976-1984."
   },
   "images": [],
   "sources": [

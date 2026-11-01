@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2001 年发布",
-  "description": "The Camedia E-10 from Olympus is a digital camera with SLR viewing but a non-interchangeable zoom lens, introduced in 2001.",
+  "description": "奥林巴斯于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus E-10"
+    "Camera-wiki": "Olympus E-10",
+    "英文简介": "The Camedia E-10 from Olympus is a digital camera with SLR viewing but a non-interchangeable zoom lens, introduced in 2001."
   },
   "images": [],
   "sources": [

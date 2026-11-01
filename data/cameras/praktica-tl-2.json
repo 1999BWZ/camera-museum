@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1975 年发布",
-  "description": "The Super TL2 is a 35mm SLR in the Praktica line.",
+  "description": "潘泰康于1975年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica super TL 2"
+    "Camera-wiki": "Praktica super TL 2",
+    "英文简介": "The Super TL2 is a 35mm SLR in the Praktica line."
   },
   "images": [],
   "sources": [

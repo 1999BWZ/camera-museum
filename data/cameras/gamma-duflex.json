@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Gamma数码单反相机，1948 年发布",
-  "description": "The Duflex is a technologically advanced 35mm camera developed by Jenő Dulovits and patented in 1942, and licensed to Gamma Optikail Művek of Budapest for production.",
+  "description": "Gamma于1948年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Gamma Duflex"
+    "Camera-wiki": "Gamma Duflex",
+    "英文简介": "The Duflex is a technologically advanced 35mm camera developed by Jenő Dulovits and patented in 1942, and licensed to Gamma Optikail Művek of Budapest for production."
   },
   "images": [],
   "sources": [

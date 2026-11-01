@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1960 年发布",
-  "description": "In the period 1960-1971, Agfa offered a series of simple cameras for shooting 16 exposures of 4x4 cm on 120 film.",
+  "description": "爱克发于1960年推出的取景器相机。配备Achromat 1:3.9 ??mm。快门速度Everset type, speeds 1/30 and 1/100 sec.。使用11 to 25 DIN, 10 to 250 ASA.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Isoly"
+    "Camera-wiki": "Isoly",
+    "镜头": "Achromat 1:3.9 ??mm",
+    "快门": "Everset type, speeds 1/30 and 1/100 sec.",
+    "曝光测光": "Yes",
+    "闪光灯": "Hotshoe on top, left",
+    "胶片/画幅": "11 to 25 DIN, 10 to 250 ASA.",
+    "英文简介": "In the period 1960-1971, Agfa offered a series of simple cameras for shooting 16 exposures of 4x4 cm on 120 film."
   },
   "images": [],
   "sources": [

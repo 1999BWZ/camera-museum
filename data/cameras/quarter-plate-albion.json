@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Quarter plate胶片相机，1890 年发布",
-  "description": "There is also a folding quarter-plate field camera named the Albion, sold by the high-street chemist Taylor's Drug Company Ltd of Leeds and London, at about the same time.",
+  "description": "Quarter plate于1890年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Albion"
+    "Camera-wiki": "Albion",
+    "英文简介": "There is also a folding quarter-plate field camera named the Albion, sold by the high-street chemist Taylor's Drug Company Ltd of Leeds and London, at about the same time."
   },
   "images": [],
   "sources": [

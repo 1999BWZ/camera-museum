@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1916 年发布",
-  "description": "A historically significant model, this is thought to be the first coupled rangefinder camera model ever sold, beginning circa 1916[https://www.kodak.com/en/company/page/milestones History of Kodak Cameras] at [https://www.kodak.com/en/company/home the Kodak Company].",
+  "description": "柯达于1916年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 3A Autographic Kodak Special"
+    "Camera-wiki": "No. 3A Autographic Kodak Special",
+    "英文简介": "A historically significant model, this is thought to be the first coupled rangefinder camera model ever sold, beginning circa 1916[https://www.kodak.com/en/company/page/milestones History of Kodak Cameras] at [https://www.kodak.com/en/company/home the Kodak Company]."
   },
   "images": [],
   "sources": [

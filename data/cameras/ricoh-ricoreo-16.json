@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光立体相机，1957 年发布",
-  "description": "The Ricoreo 16 is a prototype camera made by Riken around 1957, taking stereo pairs on 16mm film.",
+  "description": "理光于1957年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoreo 16"
+    "Camera-wiki": "Ricoreo 16",
+    "英文简介": "The Ricoreo 16 is a prototype camera made by Riken around 1957, taking stereo pairs on 16mm film."
   },
   "images": [],
   "sources": [

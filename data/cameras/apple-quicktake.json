@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "苹果数码相机，1994 年发布",
-  "description": "苹果于1994年发布的数码相机。",
+  "description": "苹果于1994年推出的数码相机。快门速度| shutter_speeds =。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q621335",
-    "多语言词条数": "13"
+    "多语言词条数": "13",
+    "传感器": "<!-- Size of the image sensor (physical dimensions of film or digital sensor;",
+    "对焦": "| fmode =",
+    "曝光测光": "| exbkt =",
+    "闪光灯": "| flashcomp =",
+    "快门速度": "| shutter_speeds =",
+    "取景器": "| ovf =",
+    "屏幕": "| battery =",
+    "尺寸": "| weight ="
   },
   "images": [
     {

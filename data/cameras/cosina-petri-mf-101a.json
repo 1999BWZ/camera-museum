@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina数码单反相机，1981 年发布",
-  "description": "By the late 1970s, Petri (Kuribayashi) had ceased manufacturing cameras, but the familiar brand was taken over for use on a series of rebadged products.",
+  "description": "Cosina于1981年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri MF-101A"
+    "Camera-wiki": "Petri MF-101A",
+    "英文简介": "By the late 1970s, Petri (Kuribayashi) had ceased manufacturing cameras, but the familiar brand was taken over for use on a series of rebadged products."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1962 年发布",
-  "description": "The Yashica J-3 is a 35mm film SLR camera introduced in late 1962.",
+  "description": "雅西卡于1962年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica J-3"
+    "Camera-wiki": "Yashica J-3",
+    "英文简介": "The Yashica J-3 is a 35mm film SLR camera introduced in late 1962."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2004 年发布",
-  "description": "A 4-megapixel digital compact introduced by Canon in 2004, the PowerShot S410 was one of the many models in the popular series spawned by the Canon PowerShot S100.",
+  "description": "佳能于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot S410"
+    "Camera-wiki": "Canon PowerShot S410",
+    "英文简介": "A 4-megapixel digital compact introduced by Canon in 2004, the PowerShot S410 was one of the many models in the popular series spawned by the Canon PowerShot S100."
   },
   "images": [],
   "sources": [

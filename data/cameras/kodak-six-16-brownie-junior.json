@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1934 年发布",
-  "description": "Kodak's Six-16 Brownie Junior is a camera for 616 film.",
+  "description": "柯达于1934年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Six-16 Brownie Junior"
+    "Camera-wiki": "Kodak Six-16 Brownie Junior",
+    "英文简介": "Kodak's Six-16 Brownie Junior is a camera for 616 film."
   },
   "images": [],
   "sources": [

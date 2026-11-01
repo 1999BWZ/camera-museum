@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发胶片相机，1926 年发布",
-  "description": "The Agfa PD16 Clipper is a 616 film camera made by Agfa Ansco in Binghampton, USA c.1926(?).",
+  "description": "爱克发于1926年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa PD16 Clipper"
+    "Camera-wiki": "Agfa PD16 Clipper",
+    "英文简介": "The Agfa PD16 Clipper is a 616 film camera made by Agfa Ansco in Binghampton, USA c.1926(?)."
   },
   "images": [],
   "sources": [

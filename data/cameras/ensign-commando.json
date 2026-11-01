@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign旁轴相机，1945 年发布",
-  "description": "The Ensign Commando is a folding coupled-rangefinder camera made by Houghton-Butcher and its successor companies for a few years just after the Second World War.",
+  "description": "Ensign于1945年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ensign Commando"
+    "Camera-wiki": "Ensign Commando",
+    "英文简介": "The Ensign Commando is a folding coupled-rangefinder camera made by Houghton-Butcher and its successor companies for a few years just after the Second World War."
   },
   "images": [],
   "sources": [

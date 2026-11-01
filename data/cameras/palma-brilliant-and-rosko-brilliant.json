@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Palma胶片相机，1955 年发布",
-  "description": "__NOTOC__\n\nThe Palma Brilliant and Rosko Brilliant are Japanese 6×6 pseudo TLR cameras.",
+  "description": "Palma于1955年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Palma Brilliant and Rosko Brilliant"
+    "Camera-wiki": "Palma Brilliant and Rosko Brilliant",
+    "英文简介": "__NOTOC__\n\nThe Palma Brilliant and Rosko Brilliant are Japanese 6×6 pseudo TLR cameras."
   },
   "images": [],
   "sources": [

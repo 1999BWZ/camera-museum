@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士一次成像相机，1999 年发布",
-  "description": "An instant film camera from Fuji, an 1998 early model in their Instax Mini series for 3.4 x 2.1\" (8.6 x 5.4cm) prints.",
+  "description": "富士于1999年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Instax Mini 10"
+    "Camera-wiki": "Fujifilm Instax Mini 10",
+    "英文简介": "An instant film camera from Fuji, an 1998 early model in their Instax Mini series for 3.4 x 2.1\" (8.6 x 5.4cm) prints."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nicca旁轴相机，1958 年发布",
-  "description": "The Nicca III-L is a late model 35mm Leica thread mount camera with projected frame lines for 50mm, a top speed of 1/1000s, a pop-up film-rewind knob, exposure counter like the Leica M3, and a unique film advance level.",
+  "description": "Nicca于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nicca III-L"
+    "Camera-wiki": "Nicca III-L",
+    "英文简介": "The Nicca III-L is a late model 35mm Leica thread mount camera with projected frame lines for 50mm, a top speed of 1/1000s, a pop-up film-rewind knob, exposure counter like the Leica M3, and a unique film advance level."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zenit取景器相机，2000 年发布",
-  "description": "The Zenit 610 is a compact 35mm film camera.",
+  "description": "Zenit于2000年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 610"
+    "Camera-wiki": "Zenit 610",
+    "英文简介": "The Zenit 610 is a compact 35mm film camera."
   },
   "images": [],
   "sources": [

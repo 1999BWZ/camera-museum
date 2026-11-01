@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "WZFO胶片相机，1951 年发布",
-  "description": "__NOTOC__\nThere is also a Russian Start Single-Lens-Reflex camera, and the Pouva Start Bakelite camera.",
+  "description": "WZFO于1951年推出的胶片相机。快门速度B, 1/10, 1/25, 1/50, 1/100, 1/200 , Lens: Euktar 75/4 taking, 75/3.5 vieving.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Start (TLR)"
+    "Camera-wiki": "Start (TLR)",
+    "快门": "B, 1/10, 1/25, 1/50, 1/100, 1/200 , Lens: Euktar 75/4 taking, 75/3.5 vieving.",
+    "英文简介": "__NOTOC__\nThere is also a Russian Start Single-Lens-Reflex camera, and the Pouva Start Bakelite camera."
   },
   "images": [],
   "sources": [

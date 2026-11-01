@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee胶片相机，1959 年发布",
-  "description": "The Exa II is a completely revised Exa model, introduced by Ihagee in 1959.",
+  "description": "Ihagee于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exa II"
+    "Camera-wiki": "Exa II",
+    "英文简介": "The Exa II is a completely revised Exa model, introduced by Ihagee in 1959."
   },
   "images": [],
   "sources": [

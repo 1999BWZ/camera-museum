@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Barn door旁轴相机，1950 年发布",
-  "description": "The Vitessa is an innovative 35mm folding rangefinder camera made by Voigtländer in the 1950s.",
+  "description": "Barn door于1950年推出的旁轴相机。配备Ultron 50mm f/2.0, six element, bayonet filter mount。快门速度Compur-Rapid 1-1/500。match the rangefinder images in the finder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitessa"
+    "Camera-wiki": "Vitessa",
+    "快门": "Compur-Rapid 1-1/500",
+    "镜头": "Ultron 50mm f/2.0, six element, bayonet filter mount",
+    "对焦": "match the rangefinder images in the finder",
+    "曝光测光": "Selenium cell",
+    "闪光灯": "on the left side of the bellows-door, synchro. all speeds,",
+    "自拍": "setting via MXV lever and dial on the lens-shutter barrel, V for the self-timer",
+    "英文简介": "The Vitessa is an innovative 35mm folding rangefinder camera made by Voigtländer in the 1950s."
   },
   "images": [],
   "sources": [

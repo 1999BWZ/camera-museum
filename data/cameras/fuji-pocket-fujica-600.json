@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji旁轴相机，1974 年发布",
-  "description": "Not all 110 film cameras have low specs.",
+  "description": "Fuji于1974年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pocket Fujica 600"
+    "Camera-wiki": "Pocket Fujica 600",
+    "英文简介": "Not all 110 film cameras have low specs."
   },
   "images": [],
   "sources": [

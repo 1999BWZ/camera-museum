@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bencini取景器相机，1972 年发布",
-  "description": "The Comet NK 135 was a 1972 introduction from Bencini which revived the earlier \"Comet\" brand, but for 35mm film rather than the 127 used in earlier Comets.",
+  "description": "Bencini于1972年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bencini Comet NK 135"
+    "Camera-wiki": "Bencini Comet NK 135",
+    "英文简介": "The Comet NK 135 was a 1972 introduction from Bencini which revived the earlier \"Comet\" brand, but for 35mm film rather than the 127 used in earlier Comets."
   },
   "images": [],
   "sources": [

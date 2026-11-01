@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo便携相机，1964 年发布",
-  "description": "The KB 24 compact camera, a very simple camera intended for beginners or children, was produced by the German maker Certo-Kamera-Werk of Dresden in the late 1960s.",
+  "description": "Certo于1964年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Certo KB 24"
+    "Camera-wiki": "Certo KB 24",
+    "英文简介": "The KB 24 compact camera, a very simple camera intended for beginners or children, was produced by the German maker Certo-Kamera-Werk of Dresden in the late 1960s."
   },
   "images": [],
   "sources": [

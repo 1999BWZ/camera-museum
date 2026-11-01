@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1934 年发布",
-  "description": "Kodak's Brownie Pliant Six-16 is a folding camera for the 616 film format.",
+  "description": "柯达于1934年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Pliant Six-16"
+    "Camera-wiki": "Kodak Brownie Pliant Six-16",
+    "英文简介": "Kodak's Brownie Pliant Six-16 is a folding camera for the 616 film format."
   },
   "images": [],
   "sources": [

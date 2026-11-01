@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras大画幅相机，1883 年发布",
-  "description": "The New Model was one of the first camera models of Rochester Optical Co..",
+  "description": "View cameras于1883年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rochester Optical New Model"
+    "Camera-wiki": "Rochester Optical New Model",
+    "英文简介": "The New Model was one of the first camera models of Rochester Optical Co.."
   },
   "images": [],
   "sources": [

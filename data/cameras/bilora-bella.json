@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bilora取景器相机，1953 年发布",
-  "description": "The Bella is a line of cheap but attractive and well-built 120, 127 roll film and 35mm cameras made by Bilora in Germany.",
+  "description": "Bilora于1953年推出的取景器相机。快门速度B, 1/50, 1/100s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bilora Bella"
+    "Camera-wiki": "Bilora Bella",
+    "快门": "B, 1/50, 1/100s",
+    "英文简介": "The Bella is a line of cheap but attractive and well-built 120, 127 roll film and 35mm cameras made by Bilora in Germany."
   },
   "images": [],
   "sources": [

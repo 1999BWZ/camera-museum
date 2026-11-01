@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1985 年发布",
-  "description": "Introduced in the market in 1985, the MF-3 was the first Yashica camera produced exclusively in Brazil where 1.2 million units were manufactured.",
+  "description": "雅西卡于1985年推出的取景器相机。配备38mm, f/3.5, 3 elements in 3 groups。快门速度Mechanical with a fixed speed of 1/125。感光度100, 200, 400, and 1000 ASA.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica MF-3"
+    "Camera-wiki": "Yashica MF-3",
+    "镜头": "38mm, f/3.5, 3 elements in 3 groups",
+    "光圈": "f/4-f/22",
+    "快门": "Mechanical with a fixed speed of 1/125",
+    "感光度": "100, 200, 400, and 1000 ASA.",
+    "闪光灯": "GN 12 (ASA/ISO 100)",
+    "英文简介": "Introduced in the market in 1985, the MF-3 was the first Yashica camera produced exclusively in Brazil where 1.2 million units were manufactured."
   },
   "images": [],
   "sources": [

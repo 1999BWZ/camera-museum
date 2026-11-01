@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pistol shape微型相机，1938 年发布",
-  "description": "see also other cameras called Merlin.",
+  "description": "Pistol shape于1938年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "ERAC Mercury"
+    "Camera-wiki": "ERAC Mercury",
+    "英文简介": "see also other cameras called Merlin."
   },
   "images": [],
   "sources": [

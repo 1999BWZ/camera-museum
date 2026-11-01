@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，2002 年发布",
-  "description": "The Canon 3000N released in 2002, was one of Canon's last 35mm film consumer SLR bodies for Canon EF autofocus system lenses.",
+  "description": "佳能于2002年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 3000N"
+    "Camera-wiki": "Canon EOS 3000N",
+    "英文简介": "The Canon 3000N released in 2002, was one of Canon's last 35mm film consumer SLR bodies for Canon EF autofocus system lenses."
   },
   "images": [],
   "sources": [

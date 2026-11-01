@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1908 年发布",
-  "description": "The Noble Hand Camera (ノーブル手提暗函) The phrase tesage anbako (手提暗函) is rendered as \"Hand Camera\" in the Konishi catalogue dated December 1911.",
+  "description": "柯尼卡于1908年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Noble"
+    "Camera-wiki": "Noble",
+    "英文简介": "The Noble Hand Camera (ノーブル手提暗函) The phrase tesage anbako (手提暗函) is rendered as \"Hand Camera\" in the Konishi catalogue dated December 1911."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina胶片单反相机，1970 年发布",
-  "description": "The Cosina Hi-Lite DL is a manual focus 35mm SLR from Cosina from c.1970 It revises the earlier Hi-Lite (no suffix) by moving the shutter speed dial to the more conventional position on the top deck of the camera.",
+  "description": "Cosina于1970年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cosina Hi-Lite DL"
+    "Camera-wiki": "Cosina Hi-Lite DL",
+    "英文简介": "The Cosina Hi-Lite DL is a manual focus 35mm SLR from Cosina from c.1970 It revises the earlier Hi-Lite (no suffix) by moving the shutter speed dial to the more conventional position on the top deck of the camera."
   },
   "images": [],
   "sources": [

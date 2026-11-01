@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2007 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Ricoh Caplio R6 was introduced by Ricoh in 2007.",
+  "description": "理光于2007年推出的数码相机。快门速度Still 8,4,2,1-1/2000 sec.。感光度Auto, Auto-Hi, Iso64 / Iso100 / Iso200 / Iso400 / Iso800 / Iso1600。Autofocus, Manual Focus, Fixed Focus (Snap), ∞(includes AF auxiliary light)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caplio R6"
+    "Camera-wiki": "Ricoh Caplio R6",
+    "光圈": "F 3.3 (Wide-angle)-5.2 (Telephoto)",
+    "快门速度": "Still 8,4,2,1-1/2000 sec.",
+    "对焦": "Autofocus, Manual Focus, Fixed Focus (Snap), ∞(includes AF auxiliary light)",
+    "感光度": "Auto, Auto-Hi, Iso64 / Iso100 / Iso200 / Iso400 / Iso800 / Iso1600",
+    "尺寸": "99.6(W) x 55.0 (H) x 23.3mm(20.6 at the thinnest part) (D) (excluding projections)",
+    "重量": "Approx. 135g (excluding battery, SD memory card, strap), Accessories. approx. 26g (battery, strap)",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Ricoh Caplio R6 was introduced by Ricoh in 2007."
   },
   "images": [],
   "sources": [

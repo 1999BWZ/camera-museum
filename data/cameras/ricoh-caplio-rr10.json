@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2001 年发布",
-  "description": "The Ricoh Caplio RR10 has been introduced by Ricoh in 2001.",
+  "description": "理光于2001年推出的数码相机。配备F:2.8-3.8, 6 glass elements in 5 groups。快门速度Still: 4,2,1-1/1000sec. (mechanical shutter), Motion: 1/30-1/4000sec. (electronic shutter)。感光度AUTO/Selectable ISO(Equivalent to 200/400)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caplio RR10"
+    "Camera-wiki": "Ricoh Caplio RR10",
+    "镜头": "F:2.8-3.8, 6 glass elements in 5 groups",
+    "变焦": "Optical 2x zoom, f=5.9-11.8mm(38-76mm in 35mm camera format), Digital 2x zoom",
+    "快门": "Still: 4,2,1-1/1000sec. (mechanical shutter), Motion: 1/30-1/4000sec. (electronic shutter)",
+    "感光度": "AUTO/Selectable ISO(Equivalent to 200/400)",
+    "尺寸": "116.8 x 29.5 x 53.8mm, 4.6 x 1.2 x 2.1 inch (excluding projections)",
+    "重量": "Approx. 172g(6.0 oz.) (without battery)",
+    "英文简介": "The Ricoh Caplio RR10 has been introduced by Ricoh in 2001."
   },
   "images": [],
   "sources": [

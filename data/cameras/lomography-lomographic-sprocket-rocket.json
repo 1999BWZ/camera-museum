@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography全景相机，2010 年发布",
-  "description": "The Lomography Sprocket Rocket is a 35mm film \"point and shoot\" plastic camera launched in 2010 by Lomography Society International.",
+  "description": "Lomography于2010年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomographic Sprocket Rocket"
+    "Camera-wiki": "Lomographic Sprocket Rocket",
+    "英文简介": "The Lomography Sprocket Rocket is a 35mm film \"point and shoot\" plastic camera launched in 2010 by Lomography Society International."
   },
   "images": [],
   "sources": [

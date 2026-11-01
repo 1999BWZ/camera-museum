@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2006 年发布",
-  "description": "松下于2006年发布的便携相机。",
+  "description": "松下于2006年推出的便携相机。配备Four Thirds mount。快门速度Focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q905447",
-    "多语言词条数": "7"
+    "多语言词条数": "7",
+    "传感器": "17.3 × 13.0 mm Four Thirds System RGB Live MOS sensor2× FOV crop",
+    "镜头": "Four Thirds mount",
+    "快门速度": "Focal-plane shutter",
+    "曝光测光": "TTL",
+    "取景器": "Optical 0.93× Porro prism",
+    "闪光灯": "Built in Pop-up, Guide number 10m at ISO 100, hotshoe",
+    "存储": "Secure Digital, SDHC, MultiMediaCard",
+    "电池": "Li-ion battery pack (7.2 V, 1,500 mAh)",
+    "重量": "approx. 530 g (18.7 oz)"
   },
   "images": [
     {

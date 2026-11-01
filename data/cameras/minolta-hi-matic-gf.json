@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1984 年发布",
-  "description": "The Minolta Hi-Matic GF from 1984 is the last model in the Hi-Matic series.",
+  "description": "美能达于1984年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic GF"
+    "Camera-wiki": "Minolta Hi-Matic GF",
+    "英文简介": "The Minolta Hi-Matic GF from 1984 is the last model in the Hi-Matic series."
   },
   "images": [],
   "sources": [

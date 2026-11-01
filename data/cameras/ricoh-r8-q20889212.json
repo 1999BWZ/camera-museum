@@ -1,0 +1,32 @@
+{
+  "id": "ricoh-r8-q20889212",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "R8",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2008 年发布",
+  "description": "理光于2008年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889212",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Ricoh R8",
+      "url": "https://www.wikidata.org/wiki/Q20889212"
+    }
+  ],
+  "qid": "Q20889212",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

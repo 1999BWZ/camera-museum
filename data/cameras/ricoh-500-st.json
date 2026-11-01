@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1980 年发布",
-  "description": "In 1980 Ricoh presented four new models of the popular \"500\" compact camera series for 35mm film at the Photokina in Cologne: The 500 ST and the 500 ZF, both viewfinder, the latter one without self-timer.",
+  "description": "理光于1980年推出的取景器相机。配备Color-Rikenon 2.8/40, 4 elements in 3 groups。感光度25 to 800。0.9 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 500 ST"
+    "Camera-wiki": "Ricoh 500 ST",
+    "镜头": "Color-Rikenon 2.8/40, 4 elements in 3 groups",
+    "感光度": "25 to 800",
+    "对焦": "0.9 m",
+    "曝光测光": "shutter priority AE when f-stop ring set to \"A\"",
+    "尺寸": "111 x 71 x 55 mm",
+    "重量": "365 g",
+    "英文简介": "In 1980 Ricoh presented four new models of the popular \"500\" compact camera series for 35mm film at the Photokina in Cologne: The 500 ST and the 500 ZF, both viewfinder, the latter one without self-timer."
   },
   "images": [],
   "sources": [

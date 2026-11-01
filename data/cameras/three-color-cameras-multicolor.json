@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "three-color cameras胶片相机，1900 年发布",
-  "description": "The Ernemann Multicolor is a falling-plate magazine camera optimized for color separation.",
+  "description": "three-color cameras于1900年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Multicolor"
+    "Camera-wiki": "Ernemann Multicolor",
+    "英文简介": "The Ernemann Multicolor is a falling-plate magazine camera optimized for color separation."
   },
   "images": [],
   "sources": [

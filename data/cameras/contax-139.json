@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时数码单反相机，1979 年发布",
-  "description": "The Contax 139 Quartz is a 35mm SLR that was introduced in 1979 and manufactured up until 1987 with something over 200,000 being built in that time.",
+  "description": "康泰时于1979年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax 139"
+    "Camera-wiki": "Contax 139",
+    "英文简介": "The Contax 139 Quartz is a 35mm SLR that was introduced in 1979 and manufactured up until 1987 with something over 200,000 being built in that time."
   },
   "images": [],
   "sources": [

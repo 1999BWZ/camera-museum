@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片相机，1977 年发布",
-  "description": "The Vivitar Tele 603 takes the 110 film format.",
+  "description": "Vivitar于1977年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar Tele 603"
+    "Camera-wiki": "Vivitar Tele 603",
+    "英文简介": "The Vivitar Tele 603 takes the 110 film format."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon胶片单反相机，1977 年发布",
-  "description": "The Revueflex 3003 is one of a series of SLRs made by Chinon but distinctively restyled for private-label sale.",
+  "description": "Chinon于1977年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revueflex 3003"
+    "Camera-wiki": "Revueflex 3003",
+    "英文简介": "The Revueflex 3003 is one of a series of SLRs made by Chinon but distinctively restyled for private-label sale."
   },
   "images": [],
   "sources": [

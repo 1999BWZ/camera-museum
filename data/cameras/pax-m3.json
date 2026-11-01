@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pax旁轴相机，1957 年发布",
-  "description": "The Pax M3 is one of the 'Pax' series of compact 35 mm rangefinder cameras made by Yamato Kōki Kōgyō in the 1950s.",
+  "description": "Pax于1957年推出的旁轴相机。配备Luminor Anastigmat 1:2.8 F=45 mm; a coated Tessar-type lens.。快门速度**Rim-set leaf shutter. 1/10 - 1/300 sec plus B. Cocked by film advance. No delayed action. Shutter-cocked indicator (red spot in window on top of lens)。使用24x36mm on 135 cartridge film.。**Coupled rangefinder under the top plate, giving double-image focusing in the viewfinder. Rangefinder baseline approx. 40 mm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pax M3"
+    "Camera-wiki": "Pax M3",
+    "胶片/画幅": "24x36mm on 135 cartridge film.",
+    "镜头": "Luminor Anastigmat 1:2.8 F=45 mm; a coated Tessar-type lens.",
+    "快门": "**Rim-set leaf shutter. 1/10 - 1/300 sec plus B. Cocked by film advance. No delayed action. Shutter-cocked indicator (red spot in window on top of lens)",
+    "取景器": "Reverse-galilean viewfinder.",
+    "对焦": "**Coupled rangefinder under the top plate, giving double-image focusing in the viewfinder. Rangefinder baseline approx. 40 mm.",
+    "尺寸": "110 x 65 x 64 mm",
+    "重量": "475 g",
+    "英文简介": "The Pax M3 is one of the 'Pax' series of compact 35 mm rangefinder cameras made by Yamato Kōki Kōgyō in the 1950s."
   },
   "images": [],
   "sources": [

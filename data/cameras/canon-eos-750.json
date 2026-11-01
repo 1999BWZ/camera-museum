@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1988 年发布",
-  "description": "The EOS 750 and EOS 750QD are autofocus SLRs for 35mm film introduced by Canon in 1988.",
+  "description": "佳能于1988年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 750"
+    "Camera-wiki": "Canon EOS 750",
+    "英文简介": "The EOS 750 and EOS 750QD are autofocus SLRs for 35mm film introduced by Canon in 1988."
   },
   "images": [],
   "sources": [

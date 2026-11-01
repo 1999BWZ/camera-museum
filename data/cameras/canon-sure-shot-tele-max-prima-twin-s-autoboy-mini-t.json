@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1991 年发布",
-  "description": "The Canon Sure Shot TELEMAX (Euro: Prima Twin S, Japan: Autoboy Mini T) was a September 1991 model from Canon's very successful Sure Shot range.",
+  "description": "佳能于1991年推出的便携相机。配备Switches between 38mm, f/3.5 (3 elements in 3 groups) and 70mm f/6 (6 elements in 6 groups).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot Tele Max/Prima Twin S/Autoboy Mini T (Tele)"
+    "Camera-wiki": "Canon Sure Shot Tele Max/Prima Twin S/Autoboy Mini T (Tele)",
+    "镜头": "Switches between 38mm, f/3.5 (3 elements in 3 groups) and 70mm f/6 (6 elements in 6 groups).",
+    "闪光灯": "Flash-Auto with red eye reduction, Flash-On, Flash-Off.",
+    "英文简介": "The Canon Sure Shot TELEMAX (Euro: Prima Twin S, Japan: Autoboy Mini T) was a September 1991 model from Canon's very successful Sure Shot range."
   },
   "images": [],
   "sources": [

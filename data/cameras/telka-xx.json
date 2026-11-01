@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Telka折叠相机，1950 年发布",
-  "description": "A folding 6&times;9cm rollfilm camera made by Demaria-Lapierre c.1950.",
+  "description": "Telka于1950年推出的折叠相机。快门速度Demaria-Lapierre Anastigmat Manar 4.5/110mm in a Gitzo leaf shutterSpeeds : B-25-50-100-200。使用6 x 9 cm on 120 type rollfilm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Telka XX"
+    "Camera-wiki": "Telka XX",
+    "胶片/画幅": "6 x 9 cm on 120 type rollfilm",
+    "快门": "Demaria-Lapierre Anastigmat Manar 4.5/110mm in a Gitzo leaf shutterSpeeds : B-25-50-100-200",
+    "尺寸": "a 32mm push-on is just too big. 31mm?",
+    "闪光灯": "Socket on shutter, X-synchronisation.",
+    "曝光测光": "none",
+    "重量": "690 grams (topcover version)",
+    "英文简介": "A folding 6&times;9cm rollfilm camera made by Demaria-Lapierre c.1950."
   },
   "images": [],
   "sources": [

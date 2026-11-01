@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来双镜头反光相机，1929 年发布",
-  "description": "Franke and Heidecke introduced the original Rolleiflex 6×6 TLR in January 1929 after eleven prototypes had been built from 1927 to 1928 and twelve production samples in late 1928.",
+  "description": "禄来于1929年推出的双镜头反光相机。配备Zeiss Tessar 1:4.5/7.5 cm。快门速度F.Deckel-Compur 1-1/300, B, T。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Original Rolleiflex 6×6"
+    "Camera-wiki": "Original Rolleiflex 6×6",
+    "镜头": "Zeiss Tessar 1:4.5/7.5 cm",
+    "快门": "F.Deckel-Compur 1-1/300, B, T",
+    "尺寸": "28.5 mm push-on",
+    "英文简介": "Franke and Heidecke introduced the original Rolleiflex 6×6 TLR in January 1929 after eleven prototypes had been built from 1927 to 1928 and twelve production samples in late 1928."
   },
   "images": [],
   "sources": [

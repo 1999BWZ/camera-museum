@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1984 年发布",
-  "description": "__NOTOC__\nNikon FG-20 is a 35mm film SLR camera, manufactured by Nippon Kogaku K.",
+  "description": "尼康于1984年推出的胶片单反相机。配备by button on the left of the lens flange。快门速度electronically-controlled vertical-travel, metal focal plane shutter。Matte Fresnel lens focusing screen with central split-image rangefinder spot and microprism collar (Nikon Type K clear-matte screen), ring and dial on the lens。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon FG-20"
+    "Camera-wiki": "Nikon FG-20",
+    "镜头": "by button on the left of the lens flange",
+    "对焦": "Matte Fresnel lens focusing screen with central split-image rangefinder spot and microprism collar (Nikon Type K clear-matte screen), ring and dial on the lens",
+    "快门": "electronically-controlled vertical-travel, metal focal plane shutter",
+    "取景器": "fixed eyelevel pentaprism type, meter needle and scale, manuel setting's indication M red led and flash ready signals on the left side of the finder",
+    "曝光测光": "aperture-priority automatic exposure with manual override and backup mechanical control; through-the-lens full aperture center-weighted metering",
+    "电池": "one 3V lithium battery or 1.55V silver-oxide batteries (SR44) or two 1.5V alkaline-manganese batteries (LR-44)",
+    "卡口": "Nikon bayonet, filter thread: 52mm, (a late Ai-S lens)",
+    "光圈": "f/3.5-f/22",
+    "英文简介": "__NOTOC__\nNikon FG-20 is a 35mm film SLR camera, manufactured by Nippon Kogaku K."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1969 年发布",
-  "description": "In 1969, when Neil Armstrong set foot on the Moon, there was a great demand for easy-to-use cameras on Earth that may have been set off some years earlier by Kodak's 126 film cartridge system.",
+  "description": "美能达于1969年推出的旁轴相机。配备Rokkor 1:2.8/38mm 4-element glass。快门速度speeds 1/45 sec. in flash mode, otherwise 1/90 sec.。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Autopak 800"
+    "Camera-wiki": "Minolta Autopak 800",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "Rokkor 1:2.8/38mm 4-element glass",
+    "取景器": "bright frame finder with coupled rangefinder",
+    "快门": "speeds 1/45 sec. in flash mode, otherwise 1/90 sec.",
+    "光圈": "automatically controlled by CdS light sensor over the lens",
+    "尺寸": "125 × 78 × 58mm",
+    "重量": "520 g",
+    "英文简介": "In 1969, when Neil Armstrong set foot on the Moon, there was a great demand for easy-to-use cameras on Earth that may have been set off some years earlier by Kodak's 126 film cartridge system."
   },
   "images": [],
   "sources": [

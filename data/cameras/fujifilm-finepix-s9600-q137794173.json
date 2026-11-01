@@ -1,0 +1,32 @@
+{
+  "id": "fujifilm-finepix-s9600-q137794173",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "FinePix S9600",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士便携相机，2006 年发布",
+  "description": "富士于2006年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q137794173",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Fujifilm FinePix S9600",
+      "url": "https://www.wikidata.org/wiki/Q137794173"
+    }
+  ],
+  "qid": "Q137794173",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

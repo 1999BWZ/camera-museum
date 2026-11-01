@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1959 年发布",
-  "description": "The Olympus Eye 44 (オリンパス・アイ44) or Olympus Eye Flex (オリンパス・アイフレックス) The name \"Olympus Eye 44\" was used in the original press release, notably in June 1959, p.594, where it was presented as a provisional name.",
+  "description": "奥林巴斯于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Eye 44"
+    "Camera-wiki": "Olympus Eye 44",
+    "英文简介": "The Olympus Eye 44 (オリンパス・アイ44) or Olympus Eye Flex (オリンパス・アイフレックス) The name \"Olympus Eye 44\" was used in the original press release, notably in June 1959, p.594, where it was presented as a provisional name."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Epson数码相机，2001 年发布",
-  "description": "The Epson Photo PC 2100Z was introduced in 2001 as a point-and-shoot digital camera.",
+  "description": "Epson于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Epson PhotoPC 2100Z"
+    "Camera-wiki": "Epson PhotoPC 2100Z",
+    "英文简介": "The Epson Photo PC 2100Z was introduced in 2001 as a point-and-shoot digital camera."
   },
   "images": [],
   "sources": [

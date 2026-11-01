@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1964 年发布",
-  "description": "The Kodak World's Fair Flash is a camera for 127 film.",
+  "description": "柯达于1964年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak World's Fair Flash"
+    "Camera-wiki": "Kodak World's Fair Flash",
+    "英文简介": "The Kodak World's Fair Flash is a camera for 127 film."
   },
   "images": [],
   "sources": [

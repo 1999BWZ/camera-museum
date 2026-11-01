@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1966 年发布",
-  "description": "美能达于1966年发布的旁轴相机。",
+  "description": "美能达于1966年推出的旁轴相机。配备Rokkor 1:1.8/45mm with 6 elements。快门速度Seikosha-SLV leaf-shutter with speeds 1 sec. to 1/500 sec. and B, with X and M flash synchronization。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta ALS"
+    "Camera-wiki": "Minolta ALS",
+    "胶片/画幅": "35mm",
+    "镜头": "Rokkor 1:1.8/45mm with 6 elements",
+    "快门": "Seikosha-SLV leaf-shutter with speeds 1 sec. to 1/500 sec. and B, with X and M flash synchronization",
+    "曝光测光": "coupled match-needle CdS meter",
+    "取景器": "optical, with superimposed coupled rangefinder",
+    "尺寸": "128×74×60mm",
+    "重量": "530g"
   },
   "images": [],
   "sources": [

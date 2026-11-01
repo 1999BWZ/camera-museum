@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1991 年发布",
-  "description": "The Pentax PZ-10 (Z-10 in US), dating from 1991, is an autofocus 35mm film SLR.",
+  "description": "宾得于1991年推出的胶片单反相机。快门速度Electronic; shutter speeds from 30s to 1/2000, B。感光度Auto DX; 25 to 5000 ASA。AF with sensitivity from 1 to 18 EV。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Z-10/PZ-10"
+    "Camera-wiki": "Pentax Z-10/PZ-10",
+    "卡口": "KAF2",
+    "对焦": "AF with sensitivity from 1 to 18 EV",
+    "曝光测光": "HyM, M, PK and M Lenses: spotA, F, and FA Lenses: 6-segment in P mode, spot: in M and HyM modes.",
+    "感光度": "Auto DX; 25 to 5000 ASA",
+    "快门": "Electronic; shutter speeds from 30s to 1/2000, B",
+    "取景器": "0.77 x [92%], with shutter and aperture LED",
+    "闪光灯": "Built-In; GN: 12",
+    "自拍": "12 seconds",
+    "尺寸": "146 x 92.5 x 66.5 mm",
+    "重量": "490 g",
+    "英文简介": "The Pentax PZ-10 (Z-10 in US), dating from 1991, is an autofocus 35mm film SLR."
   },
   "images": [],
   "sources": [

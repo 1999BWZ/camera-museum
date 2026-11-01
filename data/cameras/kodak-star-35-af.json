@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1995 年发布",
-  "description": "The Kodak Star 35 af is a 1990s-era camera for 35mm film.",
+  "description": "柯达于1995年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star 35 af"
+    "Camera-wiki": "Kodak Star 35 af",
+    "英文简介": "The Kodak Star 35 af is a 1990s-era camera for 35mm film."
   },
   "images": [],
   "sources": [

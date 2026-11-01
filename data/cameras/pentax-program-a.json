@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，1984 年发布",
-  "description": "{|class=floatright\n|\n\n|}\nPentax introduced the Program A (or Program Plus in North America) in 1984.",
+  "description": "宾得于1984年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Program A"
+    "Camera-wiki": "Pentax Program A",
+    "曝光测光": "lens aperture set to 'A', shutter dial set to 'Auto'",
+    "闪光灯": "lens aperture set to 'Auto' for programmed flash with a KA lens, or to a value for normal auto flash with any other lens. Shutter dial set to 'Auto' with dedicated flashes, or '100' for others.",
+    "英文简介": "{|class=floatright\n|\n\n|}\nPentax introduced the Program A (or Program Plus in North America) in 1984."
   },
   "images": [],
   "sources": [

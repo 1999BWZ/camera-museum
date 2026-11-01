@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1965 年发布",
-  "description": "The Demi C is a 35mm half-frame viewfinder camera introduced in 1965 by Canon.",
+  "description": "佳能于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Demi C"
+    "Camera-wiki": "Canon Demi C",
+    "英文简介": "The Demi C is a 35mm half-frame viewfinder camera introduced in 1965 by Canon."
   },
   "images": [],
   "sources": [

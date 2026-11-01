@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zenit胶片单反相机，1992 年发布",
-  "description": "The Zenit APk is a 35mm film SLR camera made by KMZ and introduced in 1992.",
+  "description": "Zenit于1992年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit APK"
+    "Camera-wiki": "Zenit APK",
+    "英文简介": "The Zenit APk is a 35mm film SLR camera made by KMZ and introduced in 1992."
   },
   "images": [],
   "sources": [

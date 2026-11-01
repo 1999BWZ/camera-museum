@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1978 年发布",
-  "description": "The Kodak Ektra 12 is yet another camera by Kodak for 110 film.",
+  "description": "柯达于1978年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Ektra 12"
+    "Camera-wiki": "Kodak Ektra 12",
+    "英文简介": "The Kodak Ektra 12 is yet another camera by Kodak for 110 film."
   },
   "images": [],
   "sources": [

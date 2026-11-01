@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1948 年发布",
-  "description": "The Speed-O-Matic Corporation was a camera maker based in Boston, Massachusetts, U.S.A.",
+  "description": "宝丽来于1948年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Speed-O-Matic"
+    "Camera-wiki": "Speed-O-Matic",
+    "英文简介": "The Speed-O-Matic Corporation was a camera maker based in Boston, Massachusetts, U.S.A."
   },
   "images": [],
   "sources": [

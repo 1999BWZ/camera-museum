@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears旁轴相机，1961 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nSears offered this oddly-styled, autoexposure camera with a built-in flash reflector in 1961, as the Tower 41 Auto 35mm.",
+  "description": "Sears于1961年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tower 41"
+    "Camera-wiki": "Tower 41",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nSears offered this oddly-styled, autoexposure camera with a built-in flash reflector in 1961, as the Tower 41 Auto 35mm."
   },
   "images": [],
   "sources": [

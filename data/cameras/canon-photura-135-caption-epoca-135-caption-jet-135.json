@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片相机，1992 年发布",
-  "description": "The Canon Photura 135 (Caption) was an updated version of the oddly-shaped Photura/Epoca model from Canon's very successful Sure Shot range.",
+  "description": "佳能于1992年推出的胶片相机。配备Power zoom 38-135mm f/3.2-8 (10 elements in 9 groups).。快门速度2-1/350s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Photura 135 Caption/Epoca 135 Caption/Jet 135"
+    "Camera-wiki": "Canon Photura 135 Caption/Epoca 135 Caption/Jet 135",
+    "镜头": "Power zoom 38-135mm f/3.2-8 (10 elements in 9 groups).",
+    "快门速度": "2-1/350s.",
+    "闪光灯": "14-30 (at ISO 100 in meters).",
+    "尺寸": "100×74×170mm.",
+    "重量": "700g (with battery).",
+    "英文简介": "The Canon Photura 135 (Caption) was an updated version of the oddly-shaped Photura/Epoca model from Canon's very successful Sure Shot range."
   },
   "images": [],
   "sources": [

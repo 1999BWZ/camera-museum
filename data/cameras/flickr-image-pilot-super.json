@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Flickr image胶片单反相机，1939 年发布",
-  "description": "The Pilot Super is a medium format SLR camera made by KW in Dresden, Germany, from c.1939-1941 p585., during the period that the company was owned by Charles Noble.",
+  "description": "Flickr image于1939年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pilot Super"
+    "Camera-wiki": "Pilot Super",
+    "英文简介": "The Pilot Super is a medium format SLR camera made by KW in Dresden, Germany, from c.1939-1941 p585., during the period that the company was owned by Charles Noble."
   },
   "images": [],
   "sources": [

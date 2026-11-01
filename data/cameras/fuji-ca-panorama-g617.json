@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1985 年发布",
-  "description": "The Fujica Panorama G617 is a medium format roll film panorama camera introduced by Fuji in 1983.",
+  "description": "Fuji于1985年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica Panorama G617"
+    "Camera-wiki": "Fujica Panorama G617",
+    "英文简介": "The Fujica Panorama G617 is a medium format roll film panorama camera introduced by Fuji in 1983."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier取景器相机，1970 年发布",
-  "description": "Beirette was a name applied to a long sequence of compact 35mm viewfinder camera models, made from 1958 to the 1980s in East Germany by Beier.",
+  "description": "Beier于1970年推出的取景器相机。配备Meyer Trioplan 1:3.5/45mm or Ludwig Meritar 1:2.8/45mm。快门速度Junior-II, Modell II or Priomat with speeds 30, 60, 125, and B。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beirette"
+    "Camera-wiki": "Beirette",
+    "胶片/画幅": "35mm",
+    "镜头": "Meyer Trioplan 1:3.5/45mm or Ludwig Meritar 1:2.8/45mm",
+    "快门": "Junior-II, Modell II or Priomat with speeds 30, 60, 125, and B",
+    "取景器": "optical, early versions were ocular shiftable for parallax correction",
+    "英文简介": "Beirette was a name applied to a long sequence of compact 35mm viewfinder camera models, made from 1958 to the 1980s in East Germany by Beier."
   },
   "images": [],
   "sources": [

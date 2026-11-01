@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji便携相机，1983 年发布",
-  "description": "The Fuji DL-200, released in 1983.",
+  "description": "Fuji于1983年推出的便携相机。配备Fujinon 32 mm f/2,8 (4 elements/4 groups)。快门速度Programmed electronic, 1/40–1/400 s, self-timer.。感光度ISO 50–1600, set by DX code. Non-DX films exposed at ISO 100.。Autofocus with focus lock, 0,6 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-200"
+    "Camera-wiki": "Fuji DL-200",
+    "镜头": "Fujinon 32 mm f/2,8 (4 elements/4 groups)",
+    "对焦": "Autofocus with focus lock, 0,6 m to infinity.",
+    "快门": "Programmed electronic, 1/40–1/400 s, self-timer.",
+    "曝光测光": "Through-the-lens off-the-film direct metering.",
+    "感光度": "ISO 50–1600, set by DX code. Non-DX films exposed at ISO 100.",
+    "闪光灯": "Built-in TTL flash, GN 10. Fill-in button on back, but no flash disable button.",
+    "尺寸": "134 x 69 x 42,5 mm.",
+    "重量": "265 g.",
+    "英文简介": "The Fuji DL-200, released in 1983."
   },
   "images": [],
   "sources": [

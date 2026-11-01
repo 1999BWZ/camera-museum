@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1905 年发布",
-  "description": "The No.1 Folding Pocket Kodak Model C is a folding camera that produced 2¼ x 3¼ inch exposures on type No.",
+  "description": "柯达于1905年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 1 Folding Pocket Kodak Model C"
+    "Camera-wiki": "No. 1 Folding Pocket Kodak Model C",
+    "英文简介": "The No.1 Folding Pocket Kodak Model C is a folding camera that produced 2¼ x 3¼ inch exposures on type No."
   },
   "images": [],
   "sources": [

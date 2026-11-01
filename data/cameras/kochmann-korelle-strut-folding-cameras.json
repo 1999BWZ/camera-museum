@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kochmann折叠相机，1931 年发布",
-  "description": "This page is about Korelle strut-folding cameras in 4×6.5cm, 4.5×6cm and 6×6cm formats.",
+  "description": "Kochmann于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Korelle strut-folding cameras"
+    "Camera-wiki": "Korelle strut-folding cameras",
+    "英文简介": "This page is about Korelle strut-folding cameras in 4×6.5cm, 4.5×6cm and 6×6cm formats."
   },
   "images": [],
   "sources": [

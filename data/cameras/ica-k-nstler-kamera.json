@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA数码单反相机，1905 年发布",
-  "description": "The Künstler-Kamera ('artist's camera') is a SLR plate camera produced by the German company Hüttig from c.1905 onwards.",
+  "description": "ICA于1905年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Künstler-Kamera"
+    "Camera-wiki": "Künstler-Kamera",
+    "英文简介": "The Künstler-Kamera ('artist's camera') is a SLR plate camera produced by the German company Hüttig from c.1905 onwards."
   },
   "images": [],
   "sources": [

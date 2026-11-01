@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1999 年发布",
-  "description": "The AF-10 is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1999.",
+  "description": "理光于1999年推出的便携相机。配备34mm f/5.6。感光度ISO 100 ~ 400。single-point active autofocusing system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh AF-10"
+    "Camera-wiki": "Ricoh AF-10",
+    "镜头": "34mm f/5.6",
+    "对焦": "single-point active autofocusing system",
+    "取景器": "Albada-type",
+    "曝光测光": "programmed auto",
+    "感光度": "ISO 100 ~ 400",
+    "尺寸": "125 mm X 70 mm X 46 mm",
+    "重量": "190 g (without batteries)",
+    "英文简介": "The AF-10 is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1999."
   },
   "images": [],
   "sources": [

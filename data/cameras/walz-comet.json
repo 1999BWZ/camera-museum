@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Walz旁轴相机，1958 年发布",
-  "description": "A Walz rangefinder camera for 35mm film c.1958.",
+  "description": "Walz于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Walz Comet"
+    "Camera-wiki": "Walz Comet",
+    "英文简介": "A Walz rangefinder camera for 35mm film c.1958."
   },
   "images": [],
   "sources": [

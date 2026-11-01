@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1989 年发布",
-  "description": "Designed as a \"party camera\", the Konica Kanpai (or Konica Kanpa!), meaning \"cheers\" in Japanese, reacts to voices and tries to shoot the source of the sound.",
+  "description": "柯尼卡于1989年推出的取景器相机。配备34 mm f/5,6 (3 elements/3 groups)。快门速度1–1/200 s. Electronic self-timer.。使用Motor wind and auto rewind.。Fixed focus from 1,1 m to infinity; voice activated mode switches to close focusing (0,9–1,8 m).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Kanpai"
+    "Camera-wiki": "Konica Kanpai",
+    "镜头": "34 mm f/5,6 (3 elements/3 groups)",
+    "对焦": "Fixed focus from 1,1 m to infinity; voice activated mode switches to close focusing (0,9–1,8 m).",
+    "快门": "1–1/200 s. Electronic self-timer.",
+    "曝光测光": "CdS cell, EV6–EV15,6",
+    "闪光灯": "Built-in, flash-matic exposure, automatically activated or forced. Can be turned off. Slow synchro up to one second. Range 1,1–3,3 m (ISO 100).",
+    "胶片/画幅": "Motor wind and auto rewind.",
+    "重量": "126x67x48,5 mm, 195 g (without battery).",
+    "英文简介": "Designed as a \"party camera\", the Konica Kanpai (or Konica Kanpa!), meaning \"cheers\" in Japanese, reacts to voices and tries to shoot the source of the sound."
   },
   "images": [],
   "sources": [

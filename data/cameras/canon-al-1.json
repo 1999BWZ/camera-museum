@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1982 年发布",
-  "description": "The Canon AL-1 was a new type of manual focusing SLR.",
+  "description": "佳能于1982年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon AL-1"
+    "Camera-wiki": "Canon AL-1",
+    "英文简介": "The Canon AL-1 was a new type of manual focusing SLR."
   },
   "images": [],
   "sources": [

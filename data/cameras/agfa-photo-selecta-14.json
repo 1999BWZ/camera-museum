@@ -1,0 +1,32 @@
+{
+  "id": "agfa-photo-selecta-14",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Photo Selecta 14",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发数码相机，2011 年发布",
+  "description": "爱克发于2011年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3954719",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – AgfaPhoto Selecta 14",
+      "url": "https://www.wikidata.org/wiki/Q3954719"
+    }
+  ],
+  "qid": "Q3954719",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

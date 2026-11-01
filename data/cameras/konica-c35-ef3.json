@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1981 年发布",
-  "description": "The Konica C35 EF3 is an automatic exposure, zone focus camera with four settings for distance.",
+  "description": "柯尼卡于1981年推出的取景器相机。配备HEXANON 35mm F2.8, 5 elements in 4 groups。快门速度Programmed, 1/60 - 1/500 sec.。感光度ISO 25 - 400。Zonefocus (4 settings)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica C35 EF3"
+    "Camera-wiki": "Konica C35 EF3",
+    "镜头": "HEXANON 35mm F2.8, 5 elements in 4 groups",
+    "光圈": "F2.8 - F16",
+    "对焦": "Zonefocus (4 settings)",
+    "快门": "Programmed, 1/60 - 1/500 sec.",
+    "感光度": "ISO 25 - 400",
+    "取景器": "Albada type bright frame finder",
+    "闪光灯": "G.N.14 m (ISO100), Flashmatic",
+    "尺寸": "43 mm",
+    "重量": "275g (without battery)",
+    "英文简介": "The Konica C35 EF3 is an automatic exposure, zone focus camera with four settings for distance."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1986 年发布",
-  "description": "Although the AS-6 was part of Canon's low-cost Snappy series, it has retained cult appeal due to it being capable of shooting up to 10m underwater.",
+  "description": "佳能于1986年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Aqua Snappy/AS-6"
+    "Camera-wiki": "Canon Aqua Snappy/AS-6",
+    "英文简介": "Although the AS-6 was part of Canon's low-cost Snappy series, it has retained cult appeal due to it being capable of shooting up to 10m underwater."
   },
   "images": [
     {

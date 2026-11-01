@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1966 年发布",
-  "description": "The Fujica Compact 35 is a 35mm compact camera released from Fuji in 1966.",
+  "description": "Fuji于1966年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica Compact 35"
+    "Camera-wiki": "Fujica Compact 35",
+    "英文简介": "The Fujica Compact 35 is a 35mm compact camera released from Fuji in 1966."
   },
   "images": [],
   "sources": [

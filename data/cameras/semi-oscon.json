@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1953 年发布",
-  "description": "The Semi Oscon (セミ・オスコン) is a Japanese 4.5×6 folding camera distributed by Ōsawa Shōkai in 1953 and 1954.",
+  "description": "Semi于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Oscon"
+    "Camera-wiki": "Semi Oscon",
+    "英文简介": "The Semi Oscon (セミ・オスコン) is a Japanese 4.5×6 folding camera distributed by Ōsawa Shōkai in 1953 and 1954."
   },
   "images": [],
   "sources": [

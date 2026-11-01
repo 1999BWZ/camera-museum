@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pilot折叠相机，1942 年发布",
-  "description": "There is also the Pilot 6 6×6 SLR, made in the '30s by KW in Germany.",
+  "description": "Pilot于1942年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pilot Six"
+    "Camera-wiki": "Pilot Six",
+    "英文简介": "There is also the Pilot 6 6×6 SLR, made in the '30s by KW in Germany."
   },
   "images": [],
   "sources": [

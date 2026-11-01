@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达微型相机，1957 年发布",
-  "description": "After the success of the Konan cameras for 16mm film the Minolta-16 for Chiyoda's 16mm film cartridges had been introduced in 1956 or 1957.",
+  "description": "美能达于1957年推出的微型相机。配备Rokkor 1:3.5/25mm (3 elements)。快门速度speeds 1/25 sec., 1/50 sec, and 1/200 sec.。使用Minolta 16mm film cartridges。fixed (15 ft.)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta-16"
+    "Camera-wiki": "Minolta-16",
+    "胶片/画幅": "Minolta 16mm film cartridges",
+    "镜头": "Rokkor 1:3.5/25mm (3 elements)",
+    "快门": "speeds 1/25 sec., 1/50 sec, and 1/200 sec.",
+    "光圈": "f/3.5, f/4, f/5.6, f/8, and f/11",
+    "对焦": "fixed (15 ft.)",
+    "取景器": "optical",
+    "尺寸": "collapsed 82×45×24mm, otherwise 107×45×24mm",
+    "重量": "150 g",
+    "英文简介": "After the success of the Konan cameras for 16mm film the Minolta-16 for Chiyoda's 16mm film cartridges had been introduced in 1956 or 1957."
   },
   "images": [],
   "sources": [

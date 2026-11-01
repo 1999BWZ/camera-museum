@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Coronet折叠相机，1926 年发布",
-  "description": "Coronet is a folding bed or self-erecting 120 film camera series, manufactured by Coronet Camera Co., Birmingham, UK and produced between 1920s-1940s.",
+  "description": "Coronet于1926年推出的折叠相机。配备Coronet, Made in England, Patented, Use 21/4x31/4 inch - 6x9cm Films。快门速度spring rotary, speeds: Instant (about 1/50) and Time。使用120 roll, picture size: 6x9cm。bellows focusing。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Coronet (folding 120)"
+    "Camera-wiki": "Coronet (folding 120)",
+    "胶片/画幅": "120 roll, picture size: 6x9cm",
+    "镜头": "Coronet, Made in England, Patented, Use 21/4x31/4 inch - 6x9cm Films",
+    "对焦": "bellows focusing",
+    "快门": "spring rotary, speeds: Instant (about 1/50) and Time",
+    "取景器": "brilliant waist level, turnable to left on its own axis for landscape frame",
+    "英文简介": "Coronet is a folding bed or self-erecting 120 film camera series, manufactured by Coronet Camera Co., Birmingham, UK and produced between 1920s-1940s."
   },
   "images": [],
   "sources": [

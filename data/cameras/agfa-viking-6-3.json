@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1952 年发布",
-  "description": "The Ansco Viking 6.3 is a folding 6&times;9 cm medium format camera manufactured by Agfa in 1952.",
+  "description": "爱克发于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Viking 6.3"
+    "Camera-wiki": "Ansco Viking 6.3",
+    "英文简介": "The Ansco Viking 6.3 is a folding 6&times;9 cm medium format camera manufactured by Agfa in 1952."
   },
   "images": [],
   "sources": [

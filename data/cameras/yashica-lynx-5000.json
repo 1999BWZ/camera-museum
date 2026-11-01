@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1964 年发布",
-  "description": "The Lynx 5000 is the less-renowned sister to the Yashica Lynx 14, lacking that model's massive f/1.4 lens.",
+  "description": "雅西卡于1964年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Lynx 5000"
+    "Camera-wiki": "Yashica Lynx 5000",
+    "英文简介": "The Lynx 5000 is the less-renowned sister to the Yashica Lynx 14, lacking that model's massive f/1.4 lens."
   },
   "images": [],
   "sources": [

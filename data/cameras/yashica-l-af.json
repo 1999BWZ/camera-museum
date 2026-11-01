@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片相机，1986 年发布",
-  "description": "The Yashica L AF is a autofocus compact 35mm film camera manufactured by Kyocera in 1986.",
+  "description": "雅西卡于1986年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica L AF"
+    "Camera-wiki": "Yashica L AF",
+    "英文简介": "The Yashica L AF is a autofocus compact 35mm film camera manufactured by Kyocera in 1986."
   },
   "images": [],
   "sources": [

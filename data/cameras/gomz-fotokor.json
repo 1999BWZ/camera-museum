@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GOMZ折叠相机，1930 年发布",
-  "description": "Fotokor (or Photocor, or Photokor) was the name of folding-bed plate cameras made by the Soviet manufacturer GOMZ, starting in the 1930s.",
+  "description": "GOMZ于1930年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fotokor"
+    "Camera-wiki": "Fotokor",
+    "英文简介": "Fotokor (or Photocor, or Photokor) was the name of folding-bed plate cameras made by the Soviet manufacturer GOMZ, starting in the 1930s."
   },
   "images": [],
   "sources": [

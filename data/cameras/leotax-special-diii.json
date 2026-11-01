@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leotax旁轴相机，1947 年发布",
-  "description": "The Leotax Special D III is a 35mm rangefinder camera produced in Japan around 1947 by Shōwa Kōgaku.",
+  "description": "Leotax于1947年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leotax Special DIII"
+    "Camera-wiki": "Leotax Special DIII",
+    "英文简介": "The Leotax Special D III is a 35mm rangefinder camera produced in Japan around 1947 by Shōwa Kōgaku."
   },
   "images": [],
   "sources": [

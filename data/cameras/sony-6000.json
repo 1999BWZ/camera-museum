@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2014 年发布",
-  "description": "Sony's most successful compact system camera Sony α6000 was introduced in 2014 and listed as actual Sony product until 2021.",
+  "description": "索尼于2014年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony α6000"
+    "Camera-wiki": "Sony α6000",
+    "英文简介": "Sony's most successful compact system camera Sony α6000 was introduced in 2014 and listed as actual Sony product until 2021."
   },
   "images": [],
   "sources": [

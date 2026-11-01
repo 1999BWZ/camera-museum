@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Belgium盒式相机，1950 年发布",
-  "description": "{|class=\"floatright plainlinks\"\n|-valign=bottom\n|\n\n|\n\n|-\n|\n\n|\n\n|}\nThere are (at least) three versions of the Gevabox:\n\n* A Bakelite-moulded version, very similar to the Adox 66, taking 6x6 images on 120 film; made c.1950 for Gevaert by Hermann Wolf GmbH, Wuppertal, Germany.",
+  "description": "Belgium于1950年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Gevabox"
+    "Camera-wiki": "Gevabox",
+    "英文简介": "{|class=\"floatright plainlinks\"\n|-valign=bottom\n|\n\n|\n\n|-\n|\n\n|\n\n|}\nThere are (at least) three versions of the Gevabox:\n\n* A Bakelite-moulded version, very similar to the Adox 66, taking 6x6 images on 120 film; made c.1950 for Gevaert by Hermann Wolf GmbH, Wuppertal, Germany."
   },
   "images": [],
   "sources": [

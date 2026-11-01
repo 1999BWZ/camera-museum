@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1999 年发布",
-  "description": "The Dynax 9Ti (Maxxum 9Ti in the USA, α9Ti in Japan) is a special edition of the Dynax 9, made by Minolta in 1999, a year after the release of the standard camera.",
+  "description": "美能达于1999年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 9Ti"
+    "Camera-wiki": "Minolta Dynax 9Ti",
+    "英文简介": "The Dynax 9Ti (Maxxum 9Ti in the USA, α9Ti in Japan) is a special edition of the Dynax 9, made by Minolta in 1999, a year after the release of the standard camera."
   },
   "images": [],
   "sources": [

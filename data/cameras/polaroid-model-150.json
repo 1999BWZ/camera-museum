@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来旁轴相机，1957 年发布",
-  "description": "The Polaroid Land Camera Model 150 was a circa-1957 entry in Polaroid's original series of folding cameras, which used instant film in rolls.",
+  "description": "宝丽来于1957年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Model 150"
+    "Camera-wiki": "Polaroid Model 150",
+    "英文简介": "The Polaroid Land Camera Model 150 was a circa-1957 entry in Polaroid's original series of folding cameras, which used instant film in rolls."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vero取景器相机，1938 年发布",
-  "description": "The Vero Four (ヴェロ・フォアー) is a Japanese camera taking 4×4cm pictures on 127 film.",
+  "description": "Vero于1938年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vero Four"
+    "Camera-wiki": "Vero Four",
+    "英文简介": "The Vero Four (ヴェロ・フォアー) is a Japanese camera taking 4×4cm pictures on 127 film."
   },
   "images": [],
   "sources": [

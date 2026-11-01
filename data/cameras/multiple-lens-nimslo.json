@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Multiple lens立体相机，1980 年发布",
-  "description": "The Nimslo is a lenticular stereo camera produced and released commercially in the early 1980s.",
+  "description": "Multiple lens于1980年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nimslo"
+    "Camera-wiki": "Nimslo",
+    "英文简介": "The Nimslo is a lenticular stereo camera produced and released commercially in the early 1980s."
   },
   "images": [],
   "sources": [

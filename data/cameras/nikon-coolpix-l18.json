@@ -1,0 +1,32 @@
+{
+  "id": "nikon-coolpix-l18",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Coolpix L18",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2008 年发布",
+  "description": "尼康于2008年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20872142",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Coolpix L18",
+      "url": "https://www.wikidata.org/wiki/Q20872142"
+    }
+  ],
+  "qid": "Q20872142",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

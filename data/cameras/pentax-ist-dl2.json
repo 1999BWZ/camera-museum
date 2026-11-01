@@ -1,0 +1,32 @@
+{
+  "id": "pentax-ist-dl2",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "*ist DL2",
+  "year": 2006,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，2006 年发布",
+  "description": "宾得于2006年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4046596",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax *ist DL2",
+      "url": "https://www.wikidata.org/wiki/Q4046596"
+    }
+  ],
+  "qid": "Q4046596",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

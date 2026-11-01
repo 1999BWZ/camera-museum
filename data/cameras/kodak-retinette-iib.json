@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1958 年发布",
-  "description": "The Retinette IIB (type 031) is a rigid-bodied 35mm viewfinder camera, made from 1958-1959 by Kodak AG in Germany.",
+  "description": "柯达于1958年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retinette IIB"
+    "Camera-wiki": "Kodak Retinette IIB",
+    "英文简介": "The Retinette IIB (type 031) is a rigid-bodied 35mm viewfinder camera, made from 1958-1959 by Kodak AG in Germany."
   },
   "images": [],
   "sources": [

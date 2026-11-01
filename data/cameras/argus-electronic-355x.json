@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus胶片相机，1972 年发布",
-  "description": "After a decade of corporate turmoil, the Argus brand attempted to revive their fortunes with a series of Instant Load cameras for 126 film, the format made hugely popular by Kodak's line of Instamatics.",
+  "description": "Argus于1972年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus Electronic 355X"
+    "Camera-wiki": "Argus Electronic 355X",
+    "英文简介": "After a decade of corporate turmoil, the Argus brand attempted to revive their fortunes with a series of Instant Load cameras for 126 film, the format made hugely popular by Kodak's line of Instamatics."
   },
   "images": [],
   "sources": [

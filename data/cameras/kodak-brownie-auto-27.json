@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1963 年发布",
-  "description": "The Brownie Super Auto 27 is a viewfinder camera taking 4x4cm images on 127 film - an automatic-exposure version of the Brownie Super 27.",
+  "description": "柯达于1963年推出的取景器相机。配备Kodar, f8。快门速度Fixed 1/80th or 1/40th。使用127。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Auto 27"
+    "Camera-wiki": "Kodak Brownie Auto 27",
+    "镜头": "Kodar, f8",
+    "快门": "Fixed 1/80th or 1/40th",
+    "胶片/画幅": "127",
+    "英文简介": "The Brownie Super Auto 27 is a viewfinder camera taking 4x4cm images on 127 film - an automatic-exposure version of the Brownie Super 27."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Coronet微型相机，1935 年发布",
-  "description": "The Coronet Midget is a tiny box camera made of Bakelite by the Coronet Camera Co.",
+  "description": "Coronet于1935年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Coronet Midget"
+    "Camera-wiki": "Coronet Midget",
+    "英文简介": "The Coronet Midget is a tiny box camera made of Bakelite by the Coronet Camera Co."
   },
   "images": [],
   "sources": [

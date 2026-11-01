@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pontiac折叠相机，1938 年发布",
-  "description": "The Pontiac Bakélite is a 6x9 folding camera made by the French maker Pontiac from 1938 to 1941.",
+  "description": "Pontiac于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pontiac Bakélite"
+    "Camera-wiki": "Pontiac Bakélite",
+    "英文简介": "The Pontiac Bakélite is a 6x9 folding camera made by the French maker Pontiac from 1938 to 1941."
   },
   "images": [],
   "sources": [

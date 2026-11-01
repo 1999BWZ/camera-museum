@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，1963 年发布",
-  "description": "__NOTOC__\n\n\n\nThe Pen F is a half-frame single lens reflex camera introduced in 1963 by Olympus.",
+  "description": "奥林巴斯于1963年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Pen F"
+    "Camera-wiki": "Olympus Pen F",
+    "英文简介": "__NOTOC__\n\n\n\nThe Pen F is a half-frame single lens reflex camera introduced in 1963 by Olympus."
   },
   "images": [],
   "sources": [

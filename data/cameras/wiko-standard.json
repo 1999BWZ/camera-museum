@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wiko微型相机，1934 年发布",
-  "description": "The Wiko Standard is a viewfinder camera for 13x17mm exposures on 16mm roll-film, made by Konrad Köhnlein of Nuremberg in 1934.",
+  "description": "Wiko于1934年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wiko Standard"
+    "Camera-wiki": "Wiko Standard",
+    "英文简介": "The Wiko Standard is a viewfinder camera for 13x17mm exposures on 16mm roll-film, made by Konrad Köhnlein of Nuremberg in 1934."
   },
   "images": [],
   "sources": [

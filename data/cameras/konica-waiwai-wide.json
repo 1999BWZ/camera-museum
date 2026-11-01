@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡一次性相机，2003 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe WaiWai Wide or WaiWai as it's commonly known is a disposable one time use camera originally released in 2003 and manufactured by Konica.",
+  "description": "柯尼卡于2003年推出的一次性相机。配备17mm f8。快门速度Fixed at 1/100s。使用35mm. 27 exposures, ISO 800。0.4m to inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica WaiWai Wide"
+    "Camera-wiki": "Konica WaiWai Wide",
+    "胶片/画幅": "35mm. 27 exposures, ISO 800",
+    "镜头": "17mm f8",
+    "对焦": "0.4m to inf",
+    "快门速度": "Fixed at 1/100s",
+    "光圈": "fixed at f/8",
+    "闪光灯": "Built-in Flash, 0.4m to 2.5m",
+    "尺寸": "133 x 55 x 36mm",
+    "重量": "113g",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe WaiWai Wide or WaiWai as it's commonly known is a disposable one time use camera originally released in 2003 and manufactured by Konica."
   },
   "images": [
     {

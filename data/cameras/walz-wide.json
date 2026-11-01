@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Walz取景器相机，1957 年发布",
-  "description": "The Walz Wide is a 35 mm wide-angle-lens viewfinder camera built and sold from 1957 to 1959 by the Japanese company Walz.",
+  "description": "Walz于1957年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Walz Wide"
+    "Camera-wiki": "Walz Wide",
+    "英文简介": "The Walz Wide is a 35 mm wide-angle-lens viewfinder camera built and sold from 1957 to 1959 by the Japanese company Walz."
   },
   "images": [],
   "sources": [

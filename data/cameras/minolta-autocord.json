@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达双镜头反光相机，1945 年发布",
-  "description": "Twin-lens reflexes bearing the Minolta name had been offered as early as 1937, starting with the Minoltaflex (I).",
+  "description": "美能达于1945年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Autocord"
+    "Camera-wiki": "Minolta Autocord",
+    "英文简介": "Twin-lens reflexes bearing the Minolta name had been offered as early as 1937, starting with the Minoltaflex (I)."
   },
   "images": [],
   "sources": [

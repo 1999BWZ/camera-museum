@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco折叠相机，1950 年发布",
-  "description": "Speedex was the name used by Ansco in Binghamton, NY, for a series of 6x6 format folding cameras which are very similar to the AGFA Isolette family.",
+  "description": "Ansco于1950年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco Speedex"
+    "Camera-wiki": "Ansco Speedex",
+    "英文简介": "Speedex was the name used by Ansco in Binghamton, NY, for a series of 6x6 format folding cameras which are very similar to the AGFA Isolette family."
   },
   "images": [],
   "sources": [

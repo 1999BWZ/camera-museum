@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rochester胶片相机，1906 年发布",
-  "description": "The Korona Petit is a small wooden folding plate camera made by Gundlach in Rochester, N.Y.",
+  "description": "Rochester于1906年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Korona Petit"
+    "Camera-wiki": "Korona Petit",
+    "英文简介": "The Korona Petit is a small wooden folding plate camera made by Gundlach in Rochester, N.Y."
   },
   "images": [],
   "sources": [

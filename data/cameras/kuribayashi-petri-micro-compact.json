@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi取景器相机，1976 年发布",
-  "description": "A late model from Petri, the Micro Compact is a merely 100mm wide camera accepting 35mm film.",
+  "description": "Kuribayashi于1976年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Micro Compact"
+    "Camera-wiki": "Petri Micro Compact",
+    "英文简介": "A late model from Petri, the Micro Compact is a merely 100mm wide camera accepting 35mm film."
   },
   "images": [],
   "sources": [

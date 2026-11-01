@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Butcher's盒式相机，1903 年发布",
-  "description": "The MaximsThe name is presumably a reference to the Maxim machine gun; Butcher's folding cameras were named Carbines.",
+  "description": "Butcher's于1903年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Butcher's Maxim"
+    "Camera-wiki": "Butcher's Maxim",
+    "英文简介": "The MaximsThe name is presumably a reference to the Maxim machine gun; Butcher's folding cameras were named Carbines."
   },
   "images": [],
   "sources": [

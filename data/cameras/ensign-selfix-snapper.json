@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign折叠相机，1953 年发布",
-  "description": "The Ross-Ensign Selfix Snapper is a medium format, self-erecting folding camera designed to take 6x9cm (2 &frac14; x 3 &frac14;\") on 620 film made by Ensign c.1953.",
+  "description": "Ensign于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ensign Selfix Snapper"
+    "Camera-wiki": "Ensign Selfix Snapper",
+    "英文简介": "The Ross-Ensign Selfix Snapper is a medium format, self-erecting folding camera designed to take 6x9cm (2 &frac14; x 3 &frac14;\") on 620 film made by Ensign c.1953."
   },
   "images": [],
   "sources": [

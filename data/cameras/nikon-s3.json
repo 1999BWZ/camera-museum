@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康旁轴相机，1958 年发布",
-  "description": "尼康于1958年发布的旁轴相机。",
+  "description": "尼康于1958年推出的旁轴相机。配备interchangeable lens。快门速度mechanically timed。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q7036542",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "胶片/画幅": "35mm",
+    "镜头": "interchangeable lens",
+    "快门速度": "mechanically timed",
+    "曝光测光": "no integrated meter",
+    "取景器": "Etched frameline viewfinder",
+    "闪光灯": "| flbkt =",
+    "尺寸": "136mm width×81mm height×43mm depth",
+    "重量": "590 g [http://www.nikonhs.org/article_archive/translation/S3.html] Nikon S3 2000 Commemoration model"
   },
   "images": [
     {

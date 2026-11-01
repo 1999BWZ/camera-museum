@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1984 年发布",
-  "description": "{|style=\"float:right\"\n|colspan=\"2\"|\n\n|-\n|\n|\n|}\nA compact autofocus camera released around 1984, the Minolta AF-S is basically an AF-Sv (Talker) without the voice chip (or the other way around), with the other difference being a blue line on the right side instead of a red line.",
+  "description": "美能达于1984年推出的胶片相机。配备35 mm f/2,8 (4 elements/3 groups). 40,5 mm filter thread.。快门速度1/8–1/625 s.。使用Automatic loading, advance and rewind.。感光度Manually set at range of ISO 25–1000.。Active autofocus, 0,85 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta AF-S"
+    "Camera-wiki": "Minolta AF-S",
+    "镜头": "35 mm f/2,8 (4 elements/3 groups). 40,5 mm filter thread.",
+    "对焦": "Active autofocus, 0,85 m to infinity.",
+    "快门": "1/8–1/625 s.",
+    "曝光测光": "Programmed exposure from EV 6 (1/8 s, f/2,8) to EV 17 (1/625, f/14,5).",
+    "感光度": "Manually set at range of ISO 25–1000.",
+    "胶片/画幅": "Automatic loading, advance and rewind.",
+    "闪光灯": "Built-in, max range at ISO 100 4,80 m. Out of range warning with beep and LED in finder. X synchronisation at 1/40 s.",
+    "尺寸": "123x73,5x47,5 mm.",
+    "重量": "290 g with batteries.",
+    "英文简介": "{|style=\"float:right\"\n|colspan=\"2\"|\n\n|-\n|\n|\n|}\nA compact autofocus camera released around 1984, the Minolta AF-S is basically an AF-Sv (Talker) without the voice chip (or the other way around), with the other difference being a blue line on the right side instead of a red line."
   },
   "images": [],
   "sources": [

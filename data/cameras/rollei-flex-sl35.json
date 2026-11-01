@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来数码单反相机，1970 年发布",
-  "description": "The Rolleiflex SL35 and SL350 are 35mm SLR cameras made by Rollei in the 1970s.",
+  "description": "禄来于1970年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex SL35"
+    "Camera-wiki": "Rolleiflex SL35",
+    "英文简介": "The Rolleiflex SL35 and SL350 are 35mm SLR cameras made by Rollei in the 1970s."
   },
   "images": [],
   "sources": [

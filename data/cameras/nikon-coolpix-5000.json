@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2001 年发布",
-  "description": "The Nikon Coolpix 5000 is a 5 megapixel digital camera with a 3x optical zoom lens\nannounced by Nikon on September 18, 2001.",
+  "description": "尼康于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix 5000"
+    "Camera-wiki": "Nikon Coolpix 5000",
+    "英文简介": "The Nikon Coolpix 5000 is a 5 megapixel digital camera with a 3x optical zoom lens\nannounced by Nikon on September 18, 2001."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford胶片相机，1958 年发布",
-  "description": "The KI Monobar is a 35mm monorail camera, made by Kennedy Instruments Ltd, a division of Ilford, from 1958 until 1965.[http://www.photomemorabilia.co.uk/Ilford/KI_Monobar.html Notes on the K.I.",
+  "description": "Ilford于1958年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford KI Monobar"
+    "Camera-wiki": "Ilford KI Monobar",
+    "英文简介": "The KI Monobar is a 35mm monorail camera, made by Kennedy Instruments Ltd, a division of Ilford, from 1958 until 1965.[http://www.photomemorabilia.co.uk/Ilford/KI_Monobar.html Notes on the K.I."
   },
   "images": [],
   "sources": [

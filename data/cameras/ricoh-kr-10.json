@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1980 年发布",
-  "description": "Note: the Ricoh KR-10M and KR-10 Super are different models\n\nThe KR-10 is an SLR for 35mm film made by Ricoh, beginning in 1980.",
+  "description": "理光于1980年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh KR-10"
+    "Camera-wiki": "Ricoh KR-10",
+    "英文简介": "Note: the Ricoh KR-10M and KR-10 Super are different models\n\nThe KR-10 is an SLR for 35mm film made by Ricoh, beginning in 1980."
   },
   "images": [],
   "sources": [

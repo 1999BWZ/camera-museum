@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时数码单反相机，1949 年发布",
-  "description": "== Contax S ==\n{|class=floatleft\n|\n \n|\n \n|}\n\nThe Contax S is a 35mm SLR camera introduced by the East German VEB Zeiss Ikon in 1949.",
+  "description": "康泰时于1949年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax S"
+    "Camera-wiki": "Contax S",
+    "英文简介": "== Contax S ==\n{|class=floatleft\n|\n \n|\n \n|}\n\nThe Contax S is a 35mm SLR camera introduced by the East German VEB Zeiss Ikon in 1949."
   },
   "images": [],
   "sources": [

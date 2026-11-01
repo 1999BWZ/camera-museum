@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron取景器相机，1961 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Chic is a half frame 35mm camera released in 1961 from Taron of Japan.",
+  "description": "Taron于1961年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron Chic"
+    "Camera-wiki": "Taron Chic",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Chic is a half frame 35mm camera released in 1961 from Taron of Japan."
   },
   "images": [],
   "sources": [

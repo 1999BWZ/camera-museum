@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2018 年发布",
-  "description": "徕卡于2018年发布的旁轴相机。",
+  "description": "徕卡于2018年推出的旁轴相机。快门速度| shutter_speeds =。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q76735772",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "传感器": "CMOS",
+    "胶片/画幅": "| filmsize = ISO 100 to ISO 50000",
+    "对焦": "| fmode =",
+    "曝光测光": "| exbkt =",
+    "闪光灯": "| flashcomp =",
+    "快门速度": "| shutter_speeds =",
+    "取景器": "Large, bright, combined bright-line viewfinder with automatic parallax compensation",
+    "屏幕": "No LCD screen",
+    "电池": "1 lithium ion rechargeable battery, nominal voltage 7.4V",
+    "尺寸": "139 x 38 x 80 mm (5.47 x 1.5 x 3.15″)",
+    "重量": "660 g (24 oz) (with battery)"
   },
   "images": [
     {

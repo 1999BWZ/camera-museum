@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1976 年发布",
-  "description": "In 1976, Polaroid introduced a lower-cost, rigid plastic-bodied camera which could accept the same integral film as the pioneering SX-70.",
+  "description": "宝丽来于1976年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Pronto!"
+    "Camera-wiki": "Polaroid Pronto!",
+    "英文简介": "In 1976, Polaroid introduced a lower-cost, rigid plastic-bodied camera which could accept the same integral film as the pioneering SX-70."
   },
   "images": [],
   "sources": [

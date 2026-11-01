@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier折叠相机，1931 年发布",
-  "description": "The Beira are 35mm folding cameras made by the young camera manufacturer Beier in Freital, Germany during the 1930s.",
+  "description": "Beier于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beira"
+    "Camera-wiki": "Beira",
+    "英文简介": "The Beira are 35mm folding cameras made by the young camera manufacturer Beier in Freital, Germany during the 1930s."
   },
   "images": [
     {

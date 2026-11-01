@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能旁轴相机，1933 年发布",
-  "description": "The Canon S-II was first marketed in late 1946 and was Canon's first camera with a combined rangefinder/viewfinder, and probably the first generally available Japanese 35mm with this feature.Dechert, Peter.",
+  "description": "佳能于1933年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon S-II"
+    "Camera-wiki": "Canon S-II",
+    "英文简介": "The Canon S-II was first marketed in late 1946 and was Canon's first camera with a combined rangefinder/viewfinder, and probably the first generally available Japanese 35mm with this feature.Dechert, Peter."
   },
   "images": [],
   "sources": [

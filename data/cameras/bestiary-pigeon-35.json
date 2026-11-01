@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary取景器相机，1952 年发布",
-  "description": "__NOTOC__\nThe Pigeon 35 is a 35 mm viewfinder introduced by Shinano in 1952.",
+  "description": "Bestiary于1952年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pigeon 35"
+    "Camera-wiki": "Pigeon 35",
+    "英文简介": "__NOTOC__\nThe Pigeon 35 is a 35 mm viewfinder introduced by Shinano in 1952."
   },
   "images": [],
   "sources": [

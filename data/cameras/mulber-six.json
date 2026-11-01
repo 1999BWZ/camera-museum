@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mulber折叠相机，1935 年发布",
-  "description": "The Mulber Six (マルバシックス [http://sts.kahaku.go.jp/sts/detail.php?18=&no=103310371052 This page] of the JCII says マルバーシックス, but the advertisements have no long vowel, except on rare occasions about the Mulber shutter written マルバーシャッター.",
+  "description": "Mulber于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mulber Six"
+    "Camera-wiki": "Mulber Six",
+    "英文简介": "The Mulber Six (マルバシックス [http://sts.kahaku.go.jp/sts/detail.php?18=&no=103310371052 This page] of the JCII says マルバーシックス, but the advertisements have no long vowel, except on rare occasions about the Mulber shutter written マルバーシャッター."
   },
   "images": [],
   "sources": [

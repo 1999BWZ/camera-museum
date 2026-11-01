@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1991 年发布",
-  "description": "Although announced in 1988, the VC-100 was finally put in production by Olympus in 1991 as its entrant into the short-lived still-video camera category.",
+  "description": "奥林巴斯于1991年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus VC-100"
+    "Camera-wiki": "Olympus VC-100",
+    "英文简介": "Although announced in 1988, the VC-100 was finally put in production by Olympus in 1991 as its entrant into the short-lived still-video camera category."
   },
   "images": [],
   "sources": [

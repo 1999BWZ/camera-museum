@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光微型相机，1950 年发布",
-  "description": "The Teleca is binoculars and 16-mm subminiature camera combined, made by the Tōkō Shashin K.K.",
+  "description": "理光于1950年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Teleca"
+    "Camera-wiki": "Teleca",
+    "英文简介": "The Teleca is binoculars and 16-mm subminiature camera combined, made by the Tōkō Shashin K.K."
   },
   "images": [],
   "sources": [

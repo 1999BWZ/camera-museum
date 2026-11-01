@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，2001 年发布",
-  "description": "The DCS 720x is a DSLR camera based upon the body of a Nikon F5 35mm film camera and built by Kodak in 2001.",
+  "description": "柯达于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak DCS 720x"
+    "Camera-wiki": "Kodak DCS 720x",
+    "英文简介": "The DCS 720x is a DSLR camera based upon the body of a Nikon F5 35mm film camera and built by Kodak in 2001."
   },
   "images": [],
   "sources": [

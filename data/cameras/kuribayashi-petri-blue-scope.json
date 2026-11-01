@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1962 年发布",
-  "description": "The Petri Blue-Scope is a fixed-lens 35mm rangefinder camera made starting in 1962.",
+  "description": "Kuribayashi于1962年推出的旁轴相机。快门速度** Speeds from 1 to 1/500 second, plus 'B'。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Blue-Scope"
+    "Camera-wiki": "Petri Blue-Scope",
+    "快门": "** Speeds from 1 to 1/500 second, plus 'B'",
+    "英文简介": "The Petri Blue-Scope is a fixed-lens 35mm rangefinder camera made starting in 1962."
   },
   "images": [],
   "sources": [

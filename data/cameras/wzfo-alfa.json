@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "WZFO取景器相机，1962 年发布",
-  "description": "For the Japanese roll-film camera manufacturer, see Alfa Camera.",
+  "description": "WZFO于1962年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Alfa"
+    "Camera-wiki": "Alfa",
+    "英文简介": "For the Japanese roll-film camera manufacturer, see Alfa Camera."
   },
   "images": [],
   "sources": [

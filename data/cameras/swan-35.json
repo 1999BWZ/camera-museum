@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Swan旁轴相机，1955 年发布",
-  "description": "The Swan 35 was made in 1955 by a Japanese camera maker named Teiho.",
+  "description": "Swan于1955年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Swan 35"
+    "Camera-wiki": "Swan 35",
+    "英文简介": "The Swan 35 was made in 1955 by a Japanese camera maker named Teiho."
   },
   "images": [],
   "sources": [

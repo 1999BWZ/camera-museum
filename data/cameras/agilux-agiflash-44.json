@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Agilux取景器相机，1959 年发布",
-  "description": "The Agiflash 44 was made in Croydon, England by the Agilux company from 1959-64.",
+  "description": "Agilux于1959年推出的取景器相机。配备plastic meniscus; two apertures (\"colour\" & \"B-W\").。使用127 film, 4x4cm frames。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agiflash 44"
+    "Camera-wiki": "Agiflash 44",
+    "胶片/画幅": "127 film, 4x4cm frames",
+    "镜头": "plastic meniscus; two apertures (\"colour\" & \"B-W\").",
+    "英文简介": "The Agiflash 44 was made in Croydon, England by the Agilux company from 1959-64."
   },
   "images": [],
   "sources": [

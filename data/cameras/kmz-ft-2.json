@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ全景相机，1958 年发布",
-  "description": "__NOTOC__\n\nThe FT-2 (Cyrillic: ФТ-2) is a Russian panorama camera,The FT stands for Fotoapparat Tokareva ( Фотоаппарат Токарева; translates to: Tokarev's camera), named after the camera's designer, the Soviet weapons designer Vasilievich Tokarev.",
+  "description": "KMZ于1958年推出的全景相机。配备50mm f/5 Industar-50, fixed aperture。快门速度1/100, 1/200, 1/400sA shutter speed of about 1/60th in undocumented but can be achieved by having both brake levers in the horizontal position.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "FT-2"
+    "Camera-wiki": "FT-2",
+    "镜头": "50mm f/5 Industar-50, fixed aperture",
+    "快门": "1/100, 1/200, 1/400sA shutter speed of about 1/60th in undocumented but can be achieved by having both brake levers in the horizontal position.",
+    "英文简介": "__NOTOC__\n\nThe FT-2 (Cyrillic: ФТ-2) is a Russian panorama camera,The FT stands for Fotoapparat Tokareva ( Фотоаппарат Токарева; translates to: Tokarev's camera), named after the camera's designer, the Soviet weapons designer Vasilievich Tokarev."
   },
   "images": [],
   "sources": [

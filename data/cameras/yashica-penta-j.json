@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1961 年发布",
-  "description": "The Penta J is a 35 mm SLR camera made by Yashica from late 1961 to 1964, p.1029..",
+  "description": "雅西卡于1961年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Penta J"
+    "Camera-wiki": "Yashica Penta J",
+    "英文简介": "The Penta J is a 35 mm SLR camera made by Yashica from late 1961 to 1964, p.1029.."
   },
   "images": [],
   "sources": [

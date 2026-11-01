@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2005 年发布",
-  "description": "The Coolpix S3 is a ultra compact digital camera manufactured by Nikon and announced in Sept 2005.",
+  "description": "尼康于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix S3"
+    "Camera-wiki": "Nikon Coolpix S3",
+    "英文简介": "The Coolpix S3 is a ultra compact digital camera manufactured by Nikon and announced in Sept 2005."
   },
   "images": [],
   "sources": [

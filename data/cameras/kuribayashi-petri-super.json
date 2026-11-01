@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1954 年发布",
-  "description": "The Petri Super (ペトリスーパー) is a Japanese 4.5×6 folding camera with a coupled rangefinder, made by Kuribayashi in 1954–5.",
+  "description": "Kuribayashi于1954年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Super"
+    "Camera-wiki": "Petri Super",
+    "英文简介": "The Petri Super (ペトリスーパー) is a Japanese 4.5×6 folding camera with a coupled rangefinder, made by Kuribayashi in 1954–5."
   },
   "images": [],
   "sources": [

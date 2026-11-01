@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2014 年发布",
-  "description": "尼康于2014年发布的数码单反相机。",
+  "description": "尼康于2014年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electronically controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q17280707",
-    "多语言词条数": "15"
+    "多语言词条数": "15",
+    "传感器": "35.9×24 mm Full Frame FX format CMOS, 4.88 μm pixel size",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL 3D Color Matrix Metering III with a 91,000-pixel RGB sensor",
+    "取景器": "Optical pentaprism, 100% coverage, approx. 0.70× magnification",
+    "闪光灯": "Integrated manual pop-up with button release Guide number 12/39 (ISO 100, m/ft)",
+    "电池": "Nikon EN-EL15a/EN-EL15 rechargeable lithium-ion battery",
+    "屏幕": "3.2 inch, 1229k-dot RGBW VGA resolution",
+    "存储": "CompactFlash (Type I, UDMA compliant) and Secure Digital (UHS-I compliant; SDHC, SDXC compatible and with Eye-Fi WLAN support)",
+    "重量": ", with battery"
   },
   "images": [
     {

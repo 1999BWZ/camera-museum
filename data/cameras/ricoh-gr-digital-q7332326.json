@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，2005 年发布",
-  "description": "理光于2005年发布的便携相机。",
+  "description": "理光于2005年推出的便携相机。配备28 mm (in 35 mm full frame equivalent)。快门速度| shutterRange = 180–1/2000 s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q7332326",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "传感器": "1/1.8\" CCD (8.1 Megapixels)",
+    "镜头": "28 mm (in 35 mm full frame equivalent)",
+    "快门速度": "| shutterRange = 180–1/2000 s",
+    "曝光测光": "256 multi-point, Spot, Center-weighted",
+    "闪光灯": "| flbkt =",
+    "存储": "SD card, 26 MB internal memory",
+    "电池": "1 rechargeable D-60 battery or 2 AAA batteries",
+    "重量": "(with batteries and strap)"
   },
   "images": [
     {

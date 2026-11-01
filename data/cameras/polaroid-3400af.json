@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，2000 年发布",
-  "description": "The Polaroid 3400AF is a straight forward camera for 35mm film.",
+  "description": "宝丽来于2000年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid 3400AF"
+    "Camera-wiki": "Polaroid 3400AF",
+    "英文简介": "The Polaroid 3400AF is a straight forward camera for 35mm film."
   },
   "images": [],
   "sources": [

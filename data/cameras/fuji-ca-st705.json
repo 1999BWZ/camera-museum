@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1976 年发布",
-  "description": "{|class=floatright\n|\n\n\n|-\n|\n\n|-\n|\n\n|}\n\n\nThe Fujica ST705 is a fully-manual single-lens reflex camera first produced in 1976 by Fuji.",
+  "description": "Fuji于1976年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica ST705"
+    "Camera-wiki": "Fujica ST705",
+    "英文简介": "{|class=floatright\n|\n\n\n|-\n|\n\n|-\n|\n\n|}\n\n\nThe Fujica ST705 is a fully-manual single-lens reflex camera first produced in 1976 by Fuji."
   },
   "images": [],
   "sources": [

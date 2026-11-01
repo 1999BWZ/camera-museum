@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "USC盒式相机，1951 年发布",
-  "description": "This camera is the United States Camera name variant of the otherwise identical Pho-Tak Traveler 120.",
+  "description": "USC于1951年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vagabond 120"
+    "Camera-wiki": "Vagabond 120",
+    "英文简介": "This camera is the United States Camera name variant of the otherwise identical Pho-Tak Traveler 120."
   },
   "images": [],
   "sources": [

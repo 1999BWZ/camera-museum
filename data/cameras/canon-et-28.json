@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1968 年发布",
-  "description": "==Viewfinder camera, 1968==\nThe original Canon Canonet 28, introduced in 1968 is a viewfinder camera, with scale focus and automatic exposure.",
+  "description": "佳能于1968年推出的取景器相机。配备1:2.8/40mm (5 elements in 4 groups)。快门速度programmed shutter with speed/aperture combination 1/30 sec./1:2.8 to 1/620 sec./1:14.5。使用35mm with speeds 25 to 400 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Canonet 28"
+    "Camera-wiki": "Canon Canonet 28",
+    "胶片/画幅": "35mm with speeds 25 to 400 ASA",
+    "镜头": "1:2.8/40mm (5 elements in 4 groups)",
+    "快门": "programmed shutter with speed/aperture combination 1/30 sec./1:2.8 to 1/620 sec./1:14.5",
+    "光圈": "automatically or manually, 1:2.8 to 1:16",
+    "取景器": "bright frame finder with 0.6× magnification, superimposed coupled rangefinder, shutter speed control meter scale and parallax marks",
+    "曝光测光": "CdS photo cell above the lens within the filter ring (EV 8 to 17 at film speed ASA 100). The shutter is locked when the meter indicates over- or under-exposure",
+    "电池": "1.3 V battery type PX625",
+    "重量": "550g",
+    "英文简介": "==Viewfinder camera, 1968==\nThe original Canon Canonet 28, introduced in 1968 is a viewfinder camera, with scale focus and automatic exposure."
   },
   "images": [],
   "sources": [

@@ -1,0 +1,40 @@
+{
+  "id": "apple-quicktake-150",
+  "brand": "Apple",
+  "brand_cn": "苹果",
+  "brand_slug": "apple",
+  "country": "美国",
+  "manufacturer": "Apple",
+  "model": "QuickTake 150",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "苹果数码相机，1995 年发布",
+  "description": "苹果于1995年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20888960",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quicktake%20150.jpg?width=800",
+      "caption": "QuickTake 150",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20888960"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Apple QuickTake 150",
+      "url": "https://www.wikidata.org/wiki/Q20888960"
+    }
+  ],
+  "qid": "Q20888960",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

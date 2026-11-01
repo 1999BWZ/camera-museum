@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1978 年发布",
-  "description": "The Minox Model LX is the most long-lived Minox model.",
+  "description": "Minox于1978年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox LX"
+    "Camera-wiki": "Minox LX",
+    "英文简介": "The Minox Model LX is the most long-lived Minox model."
   },
   "images": [],
   "sources": [

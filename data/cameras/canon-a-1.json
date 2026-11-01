@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1978 年发布",
-  "description": "The A-1 is a 35mm SLR camera from Canon that, like its predecessor the AE-1, was innovative when released in 1978.",
+  "description": "佳能于1978年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon A-1"
+    "Camera-wiki": "Canon A-1",
+    "尺寸": "141 x 92 x 48 mm",
+    "英文简介": "The A-1 is a 35mm SLR camera from Canon that, like its predecessor the AE-1, was innovative when released in 1978."
   },
   "images": [
     {

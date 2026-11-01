@@ -1,0 +1,32 @@
+{
+  "id": "canon-digital-ixus-105",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "Digital IXUS 105",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2010 年发布",
+  "description": "佳能于2010年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20888963",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Canon Digital IXUS 105",
+      "url": "https://www.wikidata.org/wiki/Q20888963"
+    }
+  ],
+  "qid": "Q20888963",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

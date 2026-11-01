@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Character cameras玩具相机，1999 年发布",
-  "description": "The Pokémon Camera is a plastic 35mm toy camera, based on the popular Japanese TV & toy series and created by Tiger Electronics in 1999.",
+  "description": "Character cameras于1999年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pokémon Camera"
+    "Camera-wiki": "Pokémon Camera",
+    "英文简介": "The Pokémon Camera is a plastic 35mm toy camera, based on the popular Japanese TV & toy series and created by Tiger Electronics in 1999."
   },
   "images": [],
   "sources": [

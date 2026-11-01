@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1992 年发布",
-  "description": "Yashica Micro Elite AF is a 35mm compact point and shoot camera produced by Kyocera around 1992.",
+  "description": "雅西卡于1992年推出的胶片单反相机。配备3.5, Multi Coated, 4 element Tessar-type lenses。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Micro Elite AF"
+    "Camera-wiki": "Yashica Micro Elite AF",
+    "镜头": "3.5, Multi Coated, 4 element Tessar-type lenses",
+    "英文简介": "Yashica Micro Elite AF is a 35mm compact point and shoot camera produced by Kyocera around 1992."
   },
   "images": [],
   "sources": [

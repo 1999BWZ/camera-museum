@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Portrait cameras大画幅相机，1948 年发布",
-  "description": "AB Hela-Kameror was a Swedish camera maker, a company set up in Uppsala, Sweden by photographer Lars Henrik Larsson; the company name presumably from his name (HeLa).[https://www.uppsalaindustriminnesforening.se/hela-kameran/ Hela-Kameror page] at [https://www.uppsalaindustriminnesforening.se/ Uppsa",
+  "description": "Portrait cameras于1948年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hela-Kameror"
+    "Camera-wiki": "Hela-Kameror",
+    "英文简介": "AB Hela-Kameror was a Swedish camera maker, a company set up in Uppsala, Sweden by photographer Lars Henrik Larsson; the company name presumably from his name (HeLa).[https://www.uppsalaindustriminnesforening.se/hela-kameran/ Hela-Kameror page] at [https://www.uppsalaindustriminnesforening.se/ Uppsala Industriminnesforening] (Uppsala Industrial History Society - in Swedish)."
   },
   "images": [],
   "sources": [

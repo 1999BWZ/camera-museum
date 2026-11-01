@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2004 年发布",
-  "description": "奥林巴斯于2004年发布的数码相机。",
+  "description": "奥林巴斯于2004年推出的数码相机。配备5x opt. zoom 28 - 140 mm equiv. F 2.4 - 3.5。快门速度| emode = Night, Landscape, Sports, Portrait。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q7089222",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "传感器": "2/3-inch type CCD",
+    "取景器": "EV 240 k pixels",
+    "存储": "CF (Type I or Type II), xD, IBM microdrive",
+    "镜头": "5x opt. zoom 28 - 140 mm equiv. F 2.4 - 3.5",
+    "曝光测光": "DESP, spot, multi-spot, center-weighted",
+    "快门速度": "| emode = Night, Landscape, Sports, Portrait",
+    "闪光灯": "Build in pop up, W: 0.8-5.3 m",
+    "电池": "Li - Ion 1500 mA/7.2 V",
+    "重量": "incl batt."
   },
   "images": [
     {

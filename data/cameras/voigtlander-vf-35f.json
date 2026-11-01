@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "福伦达旁轴相机，1981 年发布",
-  "description": "The Voigtländer VF 35F is a 35mm film size compact rangefinder camera with a built-in flash.",
+  "description": "福伦达于1981年推出的旁轴相机。配备Voigtländer Voigtar 1:2.8 f=38mm, Coated. 4 Elements in 3 groups.。快门速度Copal leaf shutter (behind the lens). Speeds 1/60, 1/125 and 1/250 sec.。使用24 x 36 mm on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voigtländer VF 35F"
+    "Camera-wiki": "Voigtländer VF 35F",
+    "胶片/画幅": "24 x 36 mm on 35mm film",
+    "镜头": "Voigtländer Voigtar 1:2.8 f=38mm, Coated. 4 Elements in 3 groups.",
+    "尺寸": "M46 x 0.75",
+    "快门": "Copal leaf shutter (behind the lens). Speeds 1/60, 1/125 and 1/250 sec.",
+    "闪光灯": "Built-in flash, guide number 12 at 100 ASA.",
+    "电池": "2x AA size, 1.5V",
+    "重量": "380 grams",
+    "英文简介": "The Voigtländer VF 35F is a 35mm film size compact rangefinder camera with a built-in flash."
   },
   "images": [],
   "sources": [

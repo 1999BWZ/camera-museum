@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GAF旁轴相机，1975 年发布",
-  "description": "The GAF Memo 35ET is a compact 35mm rangefinder dating from 1975.",
+  "description": "GAF于1975年推出的旁轴相机。配备GAF Xytar 38 mm, f/2.8 (4 elements, 3 groups)。快门速度1/30-1/650s, plus B. (B setting only works at maximum aperture).。使用24x36mm (35mm)。感光度Manually set ISO 25-500.。1m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "GAF Memo 35 ET"
+    "Camera-wiki": "GAF Memo 35 ET",
+    "胶片/画幅": "24x36mm (35mm)",
+    "镜头": "GAF Xytar 38 mm, f/2.8 (4 elements, 3 groups)",
+    "对焦": "1m to infinity.",
+    "快门速度": "1/30-1/650s, plus B. (B setting only works at maximum aperture).",
+    "感光度": "Manually set ISO 25-500.",
+    "取景器": "Framelines, parallax correction mark",
+    "闪光灯": "\"X\" sync @ 1/25 Second; contacts on hot shoe and PC socket. Uses \"flashmatic\" system that utilizes the Guide Number (GN) of an attached electronic flash and the focus distance (10-40m).",
+    "尺寸": "113x77x55mm",
+    "重量": "420g",
+    "英文简介": "The GAF Memo 35ET is a compact 35mm rangefinder dating from 1975."
   },
   "images": [],
   "sources": [

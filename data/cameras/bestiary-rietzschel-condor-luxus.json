@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary折叠相机，1925 年发布",
-  "description": "The Condor Luxus is a folding double-extension plate camera made by Rietzschel in Munich, Germany, in the 1920s.} p824-5.",
+  "description": "Bestiary于1925年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rietzschel Condor Luxus"
+    "Camera-wiki": "Rietzschel Condor Luxus",
+    "英文简介": "The Condor Luxus is a folding double-extension plate camera made by Rietzschel in Munich, Germany, in the 1920s.} p824-5."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof胶片相机，1972 年发布",
-  "description": "The Aero Technika cameras are aerial cameras made by Linhof.",
+  "description": "Linhof于1972年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Aero Technika"
+    "Camera-wiki": "Linhof Aero Technika",
+    "英文简介": "The Aero Technika cameras are aerial cameras made by Linhof."
   },
   "images": [],
   "sources": [

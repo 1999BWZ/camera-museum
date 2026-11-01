@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1957 年发布",
-  "description": "== Minolta Sky ==\nThe Minolta Sky was an advanced 35mm rangefinder prototype, and as such only the one hundred or so pre-production units were finished.",
+  "description": "美能达于1957年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Sky"
+    "Camera-wiki": "Minolta Sky",
+    "英文简介": "== Minolta Sky ==\nThe Minolta Sky was an advanced 35mm rangefinder prototype, and as such only the one hundred or so pre-production units were finished."
   },
   "images": [],
   "sources": [

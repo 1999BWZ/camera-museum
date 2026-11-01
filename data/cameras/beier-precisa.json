@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier折叠相机，1936 年发布",
-  "description": "The Beier Precisa is a self-erecting folding camera for 120 film, introduced by Beier in 1936 Page 119-120.",
+  "description": "Beier于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beier Precisa"
+    "Camera-wiki": "Beier Precisa",
+    "英文简介": "The Beier Precisa is a self-erecting folding camera for 120 film, introduced by Beier in 1936 Page 119-120."
   },
   "images": [],
   "sources": [

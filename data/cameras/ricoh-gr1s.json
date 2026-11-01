@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1998 年发布",
-  "description": "The Ricoh GR1s is a high end 35mm compact camera introduced in 1998, noteable for its excellent 28mm lens quality.",
+  "description": "理光于1998年推出的便携相机。配备GR Lens 28mm f/2.8 (7 elements, 4 groups) multi-coating aspherical glass lenses.。快门速度Programed mode Approx 2 to 1/500 second.。感光度ISO25 to ISO3200 (DX) ISO 100 for non-DX.。Passive type multi-autofocus (with focus lock, automatic auxiliary AF light under low lighting, distance measuring range: 0.35m - infinity, Single AF mode, Fixed focus mode.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh GR1s"
+    "Camera-wiki": "Ricoh GR1s",
+    "镜头": "GR Lens 28mm f/2.8 (7 elements, 4 groups) multi-coating aspherical glass lenses.",
+    "对焦": "Passive type multi-autofocus (with focus lock, automatic auxiliary AF light under low lighting, distance measuring range: 0.35m - infinity, Single AF mode, Fixed focus mode.",
+    "快门速度": "Programed mode Approx 2 to 1/500 second.",
+    "光圈": "Approx. 2 to 1/250 second, 1/500 (at f/16), Time Mode.",
+    "取景器": "Reverse Galilean type with LCD bright frame, in-finder illumination under low lighting.",
+    "曝光测光": "+/- 2EV (1/2EV Steps)",
+    "感光度": "ISO25 to ISO3200 (DX) ISO 100 for non-DX.",
+    "闪光灯": "7 (ISO 100)",
+    "电池": "Approx 500 shots (50% flash)",
+    "英文简介": "The Ricoh GR1s is a high end 35mm compact camera introduced in 1998, noteable for its excellent 28mm lens quality."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2007 年发布",
-  "description": "The Nikon D3 is a Nikon flagship camera, aimed at professional photographers.",
+  "description": "尼康于2007年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon D3"
+    "Camera-wiki": "Nikon D3",
+    "英文简介": "The Nikon D3 is a Nikon flagship camera, aimed at professional photographers."
   },
   "images": [],
   "sources": [

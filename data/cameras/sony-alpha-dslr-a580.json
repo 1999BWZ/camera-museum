@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2010 年发布",
-  "description": "The Sony Alpha DSLR-A580 was proudly presented as new DSLR model by Sony at the Photokina 2010.",
+  "description": "索尼于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Alpha DSLR-A580"
+    "Camera-wiki": "Sony Alpha DSLR-A580",
+    "英文简介": "The Sony Alpha DSLR-A580 was proudly presented as new DSLR model by Sony at the Photokina 2010."
   },
   "images": [],
   "sources": [

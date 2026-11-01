@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer折叠相机，1938 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Voigtländer Bessa 46 is a folding 120 rollfilm camera made in Germany by Voigtländer, it was introduced in 1938 and takes 16 4.5&times;6cm in 120 or 620 film.",
+  "description": "Voigtländer于1938年推出的折叠相机。配备Voigtar 75mm f/3.5, Skopar 75mm f/3.5, or Heliar 75mm f/3.5。使用16 6×4.5cm exposures on 120 film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bessa 46"
+    "Camera-wiki": "Bessa 46",
+    "胶片/画幅": "16 6×4.5cm exposures on 120 film",
+    "镜头": "Voigtar 75mm f/3.5, Skopar 75mm f/3.5, or Heliar 75mm f/3.5",
+    "取景器": "Sports finder and optical-viewfinder in \"Deluxe\" models",
+    "尺寸": "128 × 80 × 97mm (35mm folded); weight 480g",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Voigtländer Bessa 46 is a folding 120 rollfilm camera made in Germany by Voigtländer, it was introduced in 1938 and takes 16 4.5&times;6cm in 120 or 620 film."
   },
   "images": [],
   "sources": [

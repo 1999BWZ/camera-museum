@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Contessa-Nettel折叠相机，1921 年发布",
-  "description": "The Tropen Adoro was made from 1921 to 1926 by Contessa-Nettel.",
+  "description": "Contessa-Nettel于1921年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tropen Adoro"
+    "Camera-wiki": "Tropen Adoro",
+    "英文简介": "The Tropen Adoro was made from 1921 to 1926 by Contessa-Nettel."
   },
   "images": [],
   "sources": [

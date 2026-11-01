@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片相机，1989 年发布",
-  "description": "The Vivitar 320 Z is a camera for 35mm film.",
+  "description": "Vivitar于1989年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 320 Z"
+    "Camera-wiki": "Vivitar 320 Z",
+    "英文简介": "The Vivitar 320 Z is a camera for 35mm film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sun胶片相机，1977 年发布",
-  "description": "The Orinox is a bino/cam manufactured by the Japanese lens maker Sun.",
+  "description": "Sun于1977年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Orinox"
+    "Camera-wiki": "Orinox",
+    "英文简介": "The Orinox is a bino/cam manufactured by the Japanese lens maker Sun."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1937 年发布",
-  "description": "A series of 620 film box cameras made of sheet metal, by Kodak Ltd.",
+  "description": "柯达于1937年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Six-20 Brownie, Models C, D, E, and F"
+    "Camera-wiki": "Kodak Six-20 Brownie, Models C, D, E, and F",
+    "英文简介": "A series of 620 film box cameras made of sheet metal, by Kodak Ltd."
   },
   "images": [],
   "sources": [

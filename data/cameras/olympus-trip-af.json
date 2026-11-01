@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1984 年发布",
-  "description": "The Trip AF of 1984 was an automatic 35mm compact camera, with manual winding and 2-point autofocus manufactured by Olympus.",
+  "description": "奥林巴斯于1984年推出的便携相机。配备Zuiko 35mm, f/3.5。快门速度Automatically chosen between 1/85 and 1/250s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip AF"
+    "Camera-wiki": "Olympus Trip AF",
+    "镜头": "Zuiko 35mm, f/3.5",
+    "快门速度": "Automatically chosen between 1/85 and 1/250s.",
+    "光圈": "f3.5 - f11",
+    "英文简介": "The Trip AF of 1984 was an automatic 35mm compact camera, with manual winding and 2-point autofocus manufactured by Olympus."
   },
   "images": [
     {

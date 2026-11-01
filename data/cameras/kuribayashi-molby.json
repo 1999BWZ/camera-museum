@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1941 年发布",
-  "description": "The Molby (モルビー) is a Japanese rangefinder camera taking 3×4cm exposures on 127 film, made by Kuribayashi and distributed by Minagawa Shōten at the beginning of the 1940s.",
+  "description": "Kuribayashi于1941年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Molby"
+    "Camera-wiki": "Molby",
+    "英文简介": "The Molby (モルビー) is a Japanese rangefinder camera taking 3×4cm exposures on 127 film, made by Kuribayashi and distributed by Minagawa Shōten at the beginning of the 1940s."
   },
   "images": [],
   "sources": [

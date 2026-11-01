@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography胶片单反相机，2013 年发布",
-  "description": "{|class=floatright\n||\n \n|-\n||\n \n|-\n||\n \n|-\n||\n\n|}\nThe Konstruktor is a 35mm SLR film camera kit with bayonet 50mm lens by Lomography.",
+  "description": "Lomography于2013年推出的胶片单反相机。配备Bayonet mount 50mm。快门速度1/80s or bulb with multiple exposure capabiltyThe online pages for both cameras list it at 1/60s。使用34mm (135)。0.5m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomography Konstruktor"
+    "Camera-wiki": "Lomography Konstruktor",
+    "胶片/画幅": "34mm (135)",
+    "镜头": "Bayonet mount 50mm",
+    "光圈": "f/10 fixed",
+    "快门": "1/80s or bulb with multiple exposure capabiltyThe online pages for both cameras list it at 1/60s",
+    "闪光灯": "PC socket (F model only)",
+    "对焦": "0.5m to infinity",
+    "尺寸": "121 x 33 x 65mm",
+    "英文简介": "{|class=floatright\n||\n \n|-\n||\n \n|-\n||\n \n|-\n||\n\n|}\nThe Konstruktor is a 35mm SLR film camera kit with bayonet 50mm lens by Lomography."
   },
   "images": [],
   "sources": [

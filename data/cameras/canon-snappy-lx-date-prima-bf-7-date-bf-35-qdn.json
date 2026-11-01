@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1994 年发布",
-  "description": "The Canon Snappy LX Date (Prima BF-7 Date in Europe, BF 35 QDN in Japan) of October 1994 was a 35mm compact camera with a big viewfinder and a low price.",
+  "description": "佳能于1994年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Snappy LX Date/Prima BF-7 Date/BF 35 QDN"
+    "Camera-wiki": "Canon Snappy LX Date/Prima BF-7 Date/BF 35 QDN",
+    "重量": "123x76x50 mm, 280g (with batteries).",
+    "尺寸": "123x76x50 mm",
+    "英文简介": "The Canon Snappy LX Date (Prima BF-7 Date in Europe, BF 35 QDN in Japan) of October 1994 was a 35mm compact camera with a big viewfinder and a low price."
   },
   "images": [],
   "sources": [

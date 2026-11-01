@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda胶片单反相机，1966 年发布",
-  "description": "The Miranda Fv belonged to group of Miranda cameras made between 1963 and 1969 - starting with the F - which was modified to become the Fv (via the FM).",
+  "description": "Miranda于1966年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda Fv"
+    "Camera-wiki": "Miranda Fv",
+    "尺寸": "146 x 95 x 45mm",
+    "英文简介": "The Miranda Fv belonged to group of Miranda cameras made between 1963 and 1969 - starting with the F - which was modified to become the Fv (via the FM)."
   },
   "images": [],
   "sources": [

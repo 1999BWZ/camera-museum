@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1971 年发布",
-  "description": "The Canon FTb was introduced by Canon in March 1971.",
+  "description": "佳能于1971年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon FTb"
+    "Camera-wiki": "Canon FTb",
+    "英文简介": "The Canon FTb was introduced by Canon in March 1971."
   },
   "images": [],
   "sources": [

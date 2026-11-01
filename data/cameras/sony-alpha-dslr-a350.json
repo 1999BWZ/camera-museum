@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2008 年发布",
-  "description": "A top model of Sony's &alpha; DSLR line, the DSLR A350 is an innovative camera, with many a feature which is sure to be emulated by rivals in the future.",
+  "description": "索尼于2008年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Alpha DSLR-A350"
+    "Camera-wiki": "Sony Alpha DSLR-A350",
+    "英文简介": "A top model of Sony's &alpha; DSLR line, the DSLR A350 is an innovative camera, with many a feature which is sure to be emulated by rivals in the future."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1999 年发布",
-  "description": "The Advantix F300 is a compact camera for the APS film system, made by Kodak from about 1999.Chris Eve/Mischa Konig's [http://kodak.3106.net/index.php?p=202&cam=902 table of dates] for Advantix cameras, at [http://kodak.3106.net/index.php Kodak Classics], states the camera was announced in a 1998 pr",
+  "description": "柯达于1999年推出的便携相机。配备Kodak Ektanar 1:6.6/23mm (3 elements)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix F300"
+    "Camera-wiki": "Kodak Advantix F300",
+    "镜头": "Kodak Ektanar 1:6.6/23mm (3 elements)",
+    "取景器": "Reverse Galilean with C, H, and P format display",
+    "曝光测光": "1/100 sec.",
+    "闪光灯": "Automatic flash",
+    "尺寸": "4.5 x 2.3 x 1.4 inch (115 x 58 x 35 mm)",
+    "重量": "4.6 oz. (130 g) without film and AAA batteries",
+    "英文简介": "The Advantix F300 is a compact camera for the APS film system, made by Kodak from about 1999.Chris Eve/Mischa Konig's [http://kodak.3106.net/index.php?p=202&cam=902 table of dates] for Advantix cameras, at [http://kodak.3106.net/index.php Kodak Classics], states the camera was announced in a 1998 press release for introduction in '99."
   },
   "images": [],
   "sources": [

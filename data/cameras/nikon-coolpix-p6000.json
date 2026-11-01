@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，2008 年发布",
-  "description": "尼康于2008年发布的便携相机。",
+  "description": "尼康于2008年推出的便携相机。配备NIKKOR ED Glass Lens4X Wide-Angle Optical Zoom。快门速度| shutterRange =。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q12064123",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "镜头": "NIKKOR ED Glass Lens4X Wide-Angle Optical Zoom",
+    "快门速度": "| shutterRange =",
+    "曝光测光": "| emode =",
+    "取景器": "Optical",
+    "闪光灯": "| flbkt =",
+    "存储": "SD – SDHC Memory cards",
+    "电池": "EN-EL5 Lithium-ion Battery (SAME AS IN THE P5100)",
+    "尺寸": "Height: Width: Depth:"
   },
   "images": [
     {

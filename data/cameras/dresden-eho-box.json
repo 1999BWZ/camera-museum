@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dresden盒式相机，1930 年发布",
-  "description": "From 1930 onwards Eho-Altissa in Dresden produced a whole series of box cameras known as EHO box followed by a model number.",
+  "description": "Dresden于1930年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "EHO Box"
+    "Camera-wiki": "EHO Box",
+    "英文简介": "From 1930 onwards Eho-Altissa in Dresden produced a whole series of box cameras known as EHO box followed by a model number."
   },
   "images": [],
   "sources": [

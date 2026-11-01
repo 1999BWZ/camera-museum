@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kookie玩具相机，1968 年发布",
-  "description": "The Kookie Camera was made by the Ideal Toy Corporation, of Hollis, New York, in c.1968.",
+  "description": "Kookie于1968年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kookie Camera"
+    "Camera-wiki": "Kookie Camera",
+    "英文简介": "The Kookie Camera was made by the Ideal Toy Corporation, of Hollis, New York, in c.1968."
   },
   "images": [
     {

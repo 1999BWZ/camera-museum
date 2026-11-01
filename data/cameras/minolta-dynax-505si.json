@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1998 年发布",
-  "description": "The Minolta Dynax 505si or Maxxum HTsi Plus is a simplified version of the Dynax 505si Super / Maxxum XTsi / α Sweet.",
+  "description": "美能达于1998年推出的胶片单反相机。快门速度electronically controlled focal plane shutter with speeds 30 sec. to 1/4000 sec.。使用35mm。感光度25 to 5000 ASA DX-coded (6 to 6400 manually)。TTL phase-detecting autofocus based on 2 vertical AF-sensors and a central cross-sensor, switchable to manual focusing or single sensor usage。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 505si"
+    "Camera-wiki": "Minolta Dynax 505si",
+    "卡口": "Minolta A-Lenses bayonet",
+    "胶片/画幅": "35mm",
+    "感光度": "25 to 5000 ASA DX-coded (6 to 6400 manually)",
+    "曝光测光": "14 field TTL measuring with Si photo diode, switchable to spot metering via central field, manual correction +-3EV",
+    "对焦": "TTL phase-detecting autofocus based on 2 vertical AF-sensors and a central cross-sensor, switchable to manual focusing or single sensor usage",
+    "快门": "electronically controlled focal plane shutter with speeds 30 sec. to 1/4000 sec.",
+    "取景器": "pentamirror showing 90% of image, plus additional info in LCD sector, micro prism focusing aid for manual fosusing",
+    "闪光灯": "guide number 12, controlled by second Si photo diode, serves in dim light as autofocus support light",
+    "重量": "350 g without Lens + Film + Cr2-Batteries",
+    "尺寸": "135 x 90 x 59 mm",
+    "英文简介": "The Minolta Dynax 505si or Maxxum HTsi Plus is a simplified version of the Dynax 505si Super / Maxxum XTsi / α Sweet."
   },
   "images": [],
   "sources": [

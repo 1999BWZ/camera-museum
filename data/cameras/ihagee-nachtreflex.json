@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee胶片单反相机，1929 年发布",
-  "description": "The Nachtreflex (Night Reflex; named in English-language catalogues as Nocturnal Reflex Camera[http://www.ihagee.org/cat/IHGcat1930-31-4.pdf Ihagee catalogue in four languages including English] for 1930-31, p.83; at ihagee.org) is an SLR camera, made by Ihagee to exploit the low-light capability of",
+  "description": "Ihagee于1929年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nachtreflex"
+    "Camera-wiki": "Nachtreflex",
+    "英文简介": "The Nachtreflex (Night Reflex; named in English-language catalogues as Nocturnal Reflex Camera[http://www.ihagee.org/cat/IHGcat1930-31-4.pdf Ihagee catalogue in four languages including English] for 1930-31, p.83; at ihagee.org) is an SLR camera, made by Ihagee to exploit the low-light capability of the very fast Plasmat lenses designed by Paul Rudolph for Meyer: a competitor to the Ermanox Reflex"
   },
   "images": [],
   "sources": [

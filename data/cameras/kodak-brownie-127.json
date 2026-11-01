@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1952 年发布",
-  "description": "__NOTOC__\n\n\nThe Kodak Brownie 127 is a plastic box camera for eight 4x6 cm pictures on 127 film, made in England by Kodak Ltd.",
+  "description": "柯达于1952年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie 127"
+    "Camera-wiki": "Kodak Brownie 127",
+    "英文简介": "__NOTOC__\n\n\nThe Kodak Brownie 127 is a plastic box camera for eight 4x6 cm pictures on 127 film, made in England by Kodak Ltd."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1961 年发布",
-  "description": "Konica introduced the Konica FS in 1961 or 1962 and it is a more affordable, less feature-laden model than the original Konica F model.",
+  "description": "柯尼卡于1961年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica FS"
+    "Camera-wiki": "Konica FS",
+    "英文简介": "Konica introduced the Konica FS in 1961 or 1962 and it is a more affordable, less feature-laden model than the original Konica F model."
   },
   "images": [],
   "sources": [

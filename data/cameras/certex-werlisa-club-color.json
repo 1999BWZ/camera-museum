@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certex取景器相机，1976 年发布",
-  "description": "Simple plastic viewfinder camera made by Certex in Spain from 1976[http://lascamarasdefernando.blogspot.com/search/label/Werlisa%20club%20color%201976 Werlisa Color 1976 page at Las Camaras de Fernando].",
+  "description": "Certex于1976年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Werlisa Club Color"
+    "Camera-wiki": "Werlisa Club Color",
+    "英文简介": "Simple plastic viewfinder camera made by Certex in Spain from 1976[http://lascamarasdefernando.blogspot.com/search/label/Werlisa%20club%20color%201976 Werlisa Color 1976 page at Las Camaras de Fernando]."
   },
   "images": [],
   "sources": [

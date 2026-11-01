@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Holga取景器相机，2003 年发布",
-  "description": "The Holga 120N is a toy camera that uses medium format 120 film and introduced by Universal Electronics ( Holga ) around 2003.",
+  "description": "Holga于2003年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Holga 120N"
+    "Camera-wiki": "Holga 120N",
+    "英文简介": "The Holga 120N is a toy camera that uses medium format 120 film and introduced by Universal Electronics ( Holga ) around 2003."
   },
   "images": [],
   "sources": [

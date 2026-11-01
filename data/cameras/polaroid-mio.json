@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，2001 年发布",
-  "description": "The Polaroid mio instant camera was released by Polaroid corporation during Christmas of 2001.",
+  "description": "宝丽来于2001年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid mio"
+    "Camera-wiki": "Polaroid mio",
+    "英文简介": "The Polaroid mio instant camera was released by Polaroid corporation during Christmas of 2001."
   },
   "images": [],
   "sources": [

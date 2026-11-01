@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1991 年发布",
-  "description": "The Ricoh Mirai Zoom 3 is an oddly-shaped autofocus 35mm film camera with a zoom lens, made by Ricoh from 1991.",
+  "description": "理光于1991年推出的胶片相机。配备Ricoh Zoom Lens 35-105mm, f3.5 - 7.5。快门速度Electronic shutter 1/4-1/500s with self-timer.。Phase difference detection autofocus system, with macro capability.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Mirai Zoom 3"
+    "Camera-wiki": "Ricoh Mirai Zoom 3",
+    "镜头": "Ricoh Zoom Lens 35-105mm, f3.5 - 7.5",
+    "快门": "Electronic shutter 1/4-1/500s with self-timer.",
+    "对焦": "Phase difference detection autofocus system, with macro capability.",
+    "尺寸": "143×65mm×82mm",
+    "重量": "520g",
+    "英文简介": "The Ricoh Mirai Zoom 3 is an oddly-shaped autofocus 35mm film camera with a zoom lens, made by Ricoh from 1991."
   },
   "images": [],
   "sources": [

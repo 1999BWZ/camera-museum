@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina便携相机，1983 年发布",
-  "description": "The CX7 is a simple compact camera for 35 mm film released by Cosina in 1983.",
+  "description": "Cosina于1983年推出的便携相机。配备Cosinon f/3.8, 33 mm, 4 elements in 3 groups。感光度No DX-encoding, 64 to 400 ASA (the copy in the image: 100 to 1000 ASA)。active autofocus, \"CIRS\" = Cosina Infra Red System。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cosina CX7"
+    "Camera-wiki": "Cosina CX7",
+    "镜头": "Cosinon f/3.8, 33 mm, 4 elements in 3 groups",
+    "感光度": "No DX-encoding, 64 to 400 ASA (the copy in the image: 100 to 1000 ASA)",
+    "对焦": "active autofocus, \"CIRS\" = Cosina Infra Red System",
+    "尺寸": "117 x 72 x 43.5 mm, weight: 280 g without batteries",
+    "英文简介": "The CX7 is a simple compact camera for 35 mm film released by Cosina in 1983."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1972 年发布",
-  "description": "In 1972 Minolta released a new version of their Hi-Matic consumer rangefinder cameras, the HI-MATIC F, with the less sophisticated 38mm (f2.7) Rokkor lens.",
+  "description": "美能达于1972年推出的旁轴相机。配备1:2.7/38mm (4 elements)。快门速度4 - 1/724 sec. ( 1/20 sec. with flash )。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic F"
+    "Camera-wiki": "Minolta Hi-Matic F",
+    "镜头": "1:2.7/38mm (4 elements)",
+    "曝光测光": "CdS-meter coupled with shutter, meter window within the filter connection ring",
+    "快门速度": "4 - 1/724 sec. ( 1/20 sec. with flash )",
+    "取景器": "simple rangefinder",
+    "重量": "360 g without the RM-640 battery",
+    "尺寸": "113 x 73 x 54 mm",
+    "英文简介": "In 1972 Minolta released a new version of their Hi-Matic consumer rangefinder cameras, the HI-MATIC F, with the less sophisticated 38mm (f2.7) Rokkor lens."
   },
   "images": [],
   "sources": [

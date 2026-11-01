@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1989 年发布",
-  "description": "The Minolta AF-Tele 60 was an easy-to-use all-automatic compact cameras for 35mm film introduced by Minolta circa 1989.",
+  "description": "美能达于1989年推出的便携相机。配备1:4/65mm, switchable to 1:7/60mm。感光度Crippled DX decoding — either ISO 100 or 400.。Active infrared autofocus from 75 cm to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta AF-Tele 60"
+    "Camera-wiki": "Minolta AF-Tele 60",
+    "镜头": "1:4/65mm, switchable to 1:7/60mm",
+    "对焦": "Active infrared autofocus from 75 cm to infinity.",
+    "曝光测光": "EV 9,4–16,5 (wide, ISO 100); EV 10,9–17,6 (tele, ISO 100).",
+    "感光度": "Crippled DX decoding — either ISO 100 or 400.",
+    "取景器": "Magnification changes when lens is switched.",
+    "闪光灯": "Built-in, automatically activated in low light or with close-ups.",
+    "重量": "270 g.",
+    "尺寸": "132 x 69,5 x 55,5 mm",
+    "英文简介": "The Minolta AF-Tele 60 was an easy-to-use all-automatic compact cameras for 35mm film introduced by Minolta circa 1989."
   },
   "images": [],
   "sources": [

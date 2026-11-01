@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dacora旁轴相机，1962 年发布",
-  "description": "The Ilford Sportsman Auto RF was made by Dacora in Germany for British company Ilford - one of a range of Sportsman 35mm cameras.",
+  "description": "Dacora于1962年推出的旁轴相机。配备Steinheil Cassar 45mm f2.8。快门速度Prontor 500LK, speeds 1/15-1/500 +B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Sportsman Auto RF"
+    "Camera-wiki": "Ilford Sportsman Auto RF",
+    "镜头": "Steinheil Cassar 45mm f2.8",
+    "快门": "Prontor 500LK, speeds 1/15-1/500 +B",
+    "英文简介": "The Ilford Sportsman Auto RF was made by Dacora in Germany for British company Ilford - one of a range of Sportsman 35mm cameras."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lexa盒式相机，1948 年发布",
-  "description": "There are few Australian made cameras.",
+  "description": "Lexa于1948年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lexa 20"
+    "Camera-wiki": "Lexa 20",
+    "英文简介": "There are few Australian made cameras."
   },
   "images": [],
   "sources": [

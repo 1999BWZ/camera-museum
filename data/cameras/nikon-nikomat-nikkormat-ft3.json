@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，1977 年发布",
-  "description": "This camera, released as the Nikomat FT3 in Japan, was released as the Nikkormat FT3 elsewhere.",
+  "description": "尼康于1977年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikomat/Nikkormat FT3"
+    "Camera-wiki": "Nikomat/Nikkormat FT3",
+    "英文简介": "This camera, released as the Nikomat FT3 in Japan, was released as the Nikkormat FT3 elsewhere."
   },
   "images": [],
   "sources": [

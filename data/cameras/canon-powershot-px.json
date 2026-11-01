@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2021 年发布",
-  "description": "The PowerShot PX (Powershot PICK in Japan) is an automated digital still- and video camera made by Canon, introduced late in 2021.From the date on Canon's [https://www.youtube.com/watch?v=rUqWnn8q7IY YouTube video introducing the product], in October '21.",
+  "description": "佳能于2021年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot PX"
+    "Camera-wiki": "Canon PowerShot PX",
+    "英文简介": "The PowerShot PX (Powershot PICK in Japan) is an automated digital still- and video camera made by Canon, introduced late in 2021.From the date on Canon's [https://www.youtube.com/watch?v=rUqWnn8q7IY YouTube video introducing the product], in October '21."
   },
   "images": [],
   "sources": [

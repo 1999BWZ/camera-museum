@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，1996 年发布",
-  "description": "The DC50 is a early digital camera released by Kodak in 1996.",
+  "description": "柯达于1996年推出的数码相机。配备7 to 21 mm zoom lens。infrared autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak DC50 Zoom"
+    "Camera-wiki": "Kodak DC50 Zoom",
+    "传感器": "756×504 pixel 24bit color CCD",
+    "镜头": "7 to 21 mm zoom lens",
+    "曝光测光": "programmed automatic exposure with shutter speeds 1/16 to 1/500 sec.",
+    "对焦": "infrared autofocus",
+    "闪光灯": "built-in, guide number 10.4",
+    "尺寸": "152×119×64 mm",
+    "重量": "525 g without batteries",
+    "英文简介": "The DC50 is a early digital camera released by Kodak in 1996."
   },
   "images": [],
   "sources": [

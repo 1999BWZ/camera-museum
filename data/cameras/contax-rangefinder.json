@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时旁轴相机，1932 年发布",
-  "description": "Contax are a range of cameras with a proprietary bayonet mount made by Zeiss Ikon.",
+  "description": "康泰时于1932年推出的旁轴相机。快门速度the cloth connecting straps of the II/III shutter curtains were replaced with gears in the IIa/IIIa. Painted aluminum slats replaced the brass shutter slats of the II/III.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax rangefinder"
+    "Camera-wiki": "Contax rangefinder",
+    "快门": "the cloth connecting straps of the II/III shutter curtains were replaced with gears in the IIa/IIIa. Painted aluminum slats replaced the brass shutter slats of the II/III.",
+    "闪光灯": "1/25 second.",
+    "英文简介": "Contax are a range of cameras with a proprietary bayonet mount made by Zeiss Ikon."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片单反相机，1992 年发布",
-  "description": "The Vivitar V4000 is a 35mm SLR marketed by Vivitar in the mid-1990s.",
+  "description": "Vivitar于1992年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar V4000"
+    "Camera-wiki": "Vivitar V4000",
+    "英文简介": "The Vivitar V4000 is a 35mm SLR marketed by Vivitar in the mid-1990s."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来取景器相机，2001 年发布",
-  "description": "The Prego 115 is a compact autofocus 35 mm camera made by Rollei.",
+  "description": "禄来于2001年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei Prego 115"
+    "Camera-wiki": "Rollei Prego 115",
+    "英文简介": "The Prego 115 is a compact autofocus 35 mm camera made by Rollei."
   },
   "images": [],
   "sources": [

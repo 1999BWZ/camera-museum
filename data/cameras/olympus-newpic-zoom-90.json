@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，2001 年发布",
-  "description": "The Olympus Newpic Zoom 90 is a fixed lens compact camera for the APS film system introduced by Olympus in June 2001.",
+  "description": "奥林巴斯于2001年推出的便携相机。配备30-90mm。autofocus, 24 in (60 cm) – ∞。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Newpic Zoom 90"
+    "Camera-wiki": "Olympus Newpic Zoom 90",
+    "镜头": "30-90mm",
+    "取景器": "optical finder",
+    "曝光测光": "automatic",
+    "对焦": "autofocus, 24 in (60 cm) – ∞",
+    "闪光灯": "Automatic flash",
+    "英文简介": "The Olympus Newpic Zoom 90 is a fixed lens compact camera for the APS film system introduced by Olympus in June 2001."
   },
   "images": [],
   "sources": [

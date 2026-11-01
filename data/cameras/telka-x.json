@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Telka折叠相机，1950 年发布",
-  "description": "The Telka X is a self-erecting folding camera for type No.",
+  "description": "Telka于1950年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Telka X"
+    "Camera-wiki": "Telka X",
+    "英文简介": "The Telka X is a self-erecting folding camera for type No."
   },
   "images": [],
   "sources": [

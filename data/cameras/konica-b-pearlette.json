@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1935 年发布",
-  "description": "The B&nbsp;Pearlette or Pearlette&nbsp;B is a Japanese folding camera taking 4×6.5cm exposures on 127 film, released by Konishiroku (predecessor of Konica) at the end of 1935.",
+  "description": "柯尼卡于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "B Pearlette"
+    "Camera-wiki": "B Pearlette",
+    "英文简介": "The B&nbsp;Pearlette or Pearlette&nbsp;B is a Japanese folding camera taking 4×6.5cm exposures on 127 film, released by Konishiroku (predecessor of Konica) at the end of 1935."
   },
   "images": [],
   "sources": [

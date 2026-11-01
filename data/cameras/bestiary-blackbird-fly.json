@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary玩具相机，2008 年发布",
-  "description": "Blackbird, fly is a Pseudo TLR camera introduced in 2008.",
+  "description": "Bestiary于2008年推出的玩具相机。配备33mm。快门速度1/125 and Bulb。使用135 (35mm)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Blackbird, fly"
+    "Camera-wiki": "Blackbird, fly",
+    "快门": "1/125 and Bulb",
+    "镜头": "33mm",
+    "光圈": "f/7 or f/11",
+    "胶片/画幅": "135 (35mm)",
+    "重量": "210 g (7.4 oz)",
+    "英文简介": "Blackbird, fly is a Pseudo TLR camera introduced in 2008."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Photo数码单反相机，1929 年发布",
-  "description": "The Photo Deluxe (ホトデルックス) or Photo Deluxe Reflex (ホトデルックスレフレックス) The name in the advertisements is either \"Photo Deluxe\", \"Photo Deluxe Reflex\" or \"Photo Deluxe Reflex ¼ Plate\".",
+  "description": "Photo于1929年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Photo Deluxe Reflex"
+    "Camera-wiki": "Photo Deluxe Reflex",
+    "英文简介": "The Photo Deluxe (ホトデルックス) or Photo Deluxe Reflex (ホトデルックスレフレックス) The name in the advertisements is either \"Photo Deluxe\", \"Photo Deluxe Reflex\" or \"Photo Deluxe Reflex ¼ Plate\"."
   },
   "images": [],
   "sources": [

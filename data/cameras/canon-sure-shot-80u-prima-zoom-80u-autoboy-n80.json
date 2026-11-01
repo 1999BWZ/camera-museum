@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，2003 年发布",
-  "description": "One of Canon's last 35 mm compact cameras, the Prima Zoom 80u (or Sure Shot 80u in America) from 2003 integrates a 2x zoom in a compact silver case.",
+  "description": "佳能于2003年推出的便携相机。配备38–80 mm f/4.7–9.4 (6 elements in 6 groups, including an aspherical lens element)。快门速度1/480 ~ 2 sec.。感光度25–3200 ISO using DX coded film.。0.6 m to infinity (close-up mode: 0.45 m)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot 80u/Prima Zoom 80u/Autoboy N80"
+    "Camera-wiki": "Canon Sure Shot 80u/Prima Zoom 80u/Autoboy N80",
+    "镜头": "38–80 mm f/4.7–9.4 (6 elements in 6 groups, including an aspherical lens element)",
+    "取景器": "Zooming viewfinder with 0.37x–0.88x magnification.",
+    "对焦": "0.6 m to infinity (close-up mode: 0.45 m)",
+    "快门速度": "1/480 ~ 2 sec.",
+    "曝光测光": "±1.5 stops",
+    "感光度": "25–3200 ISO using DX coded film.",
+    "闪光灯": "Zooming flash, GN 10.6 (wide) to 12.5 (tele), flash range 0.6–3.8 m (wide); 0.6–2.2 m (tele). Recycles in 6 s. *Automatic fill flash, separate lamp for red eye reduction.",
+    "重量": "107.2 x 58.7 x 42.8 mm, 185 g (without battery).",
+    "英文简介": "One of Canon's last 35 mm compact cameras, the Prima Zoom 80u (or Sure Shot 80u in America) from 2003 integrates a 2x zoom in a compact silver case."
   },
   "images": [],
   "sources": [

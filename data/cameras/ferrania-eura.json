@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ferrania取景器相机，1960 年发布",
-  "description": "The Ferrania Eura from 1960 is an inexpensive consumer box camera made of plastic and aluminium that produces 6x6cm exposures on 120 rollfilm.",
+  "description": "Ferrania于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Eura"
+    "Camera-wiki": "Eura",
+    "英文简介": "The Ferrania Eura from 1960 is an inexpensive consumer box camera made of plastic and aluminium that produces 6x6cm exposures on 120 rollfilm."
   },
   "images": [],
   "sources": [

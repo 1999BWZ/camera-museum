@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光折叠相机，1935 年发布",
-  "description": "The Baby Rosen and Rosen Four are Japanese folding cameras using 127 film, made from 1935 by the company Proud.",
+  "description": "理光于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Rosen, Rosen Four and Adler Four"
+    "Camera-wiki": "Baby Rosen, Rosen Four and Adler Four",
+    "英文简介": "The Baby Rosen and Rosen Four are Japanese folding cameras using 127 film, made from 1935 by the company Proud."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kigawa胶片相机，1952 年发布",
-  "description": "__NOTOC__\nThe Graceflex The name is written in uppercase in one word on the cameras.",
+  "description": "Kigawa于1952年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Graceflex"
+    "Camera-wiki": "Graceflex",
+    "英文简介": "__NOTOC__\nThe Graceflex The name is written in uppercase in one word on the cameras."
   },
   "images": [],
   "sources": [

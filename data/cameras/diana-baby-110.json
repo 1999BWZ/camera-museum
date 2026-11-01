@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Diana玩具相机，2012 年发布",
-  "description": "The Diana Baby 110 is a very small toy camera for 110 film issued by Lomography in 2012.",
+  "description": "Diana于2012年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Diana Baby 110"
+    "Camera-wiki": "Diana Baby 110",
+    "英文简介": "The Diana Baby 110 is a very small toy camera for 110 film issued by Lomography in 2012."
   },
   "images": [],
   "sources": [

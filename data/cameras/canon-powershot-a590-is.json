@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2008 年发布",
-  "description": "The PowerShot A590 IS is a compact digital camera which was introduced by Canon in early 2008, with a 8 megapixel CCD sensor.",
+  "description": "佳能于2008年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A590 IS"
+    "Camera-wiki": "Canon PowerShot A590 IS",
+    "英文简介": "The PowerShot A590 IS is a compact digital camera which was introduced by Canon in early 2008, with a 8 megapixel CCD sensor."
   },
   "images": [],
   "sources": [

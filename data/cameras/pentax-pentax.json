@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1957 年发布",
-  "description": "The Asahi Pentax, to camera collectors the AP or Asahi Pentax AP, was a major progress in the 35mm SLR field of cameras when introduced in 1957.",
+  "description": "宾得于1957年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax (original)"
+    "Camera-wiki": "Pentax (original)",
+    "英文简介": "The Asahi Pentax, to camera collectors the AP or Asahi Pentax AP, was a major progress in the 35mm SLR field of cameras when introduced in 1957."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Baby折叠相机，1941 年发布",
-  "description": "The Baby Doris (ベビードリス) is a Japanese 3×4cm folding camera, distributed from 1941 to 1943 by Fukada Shōkai.",
+  "description": "Baby于1941年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Doris"
+    "Camera-wiki": "Baby Doris",
+    "英文简介": "The Baby Doris (ベビードリス) is a Japanese 3×4cm folding camera, distributed from 1941 to 1943 by Fukada Shōkai."
   },
   "images": [],
   "sources": [

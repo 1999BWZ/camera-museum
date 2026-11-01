@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tanack旁轴相机，1957 年发布",
-  "description": "The Tanack SD (タナックSD) is a Japanese 35mm rangefinder camera, made from 1957 by Tanaka Kōgaku and supplied with Tanar lenses.",
+  "description": "Tanack于1957年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tanack SD"
+    "Camera-wiki": "Tanack SD",
+    "尺寸": "134×79×32mm",
+    "英文简介": "The Tanack SD (タナックSD) is a Japanese 35mm rangefinder camera, made from 1957 by Tanaka Kōgaku and supplied with Tanar lenses."
   },
   "images": [],
   "sources": [

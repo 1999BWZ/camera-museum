@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2004 年发布",
-  "description": "The DiMAGE Z10 is a 3.2 megapixel digital camera introduced by Konica Minolta in 2004, with somewhat futuristic styling.",
+  "description": "柯尼卡美能达于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE Z10"
+    "Camera-wiki": "Konica Minolta DiMAGE Z10",
+    "英文简介": "The DiMAGE Z10 is a 3.2 megapixel digital camera introduced by Konica Minolta in 2004, with somewhat futuristic styling."
   },
   "images": [],
   "sources": [

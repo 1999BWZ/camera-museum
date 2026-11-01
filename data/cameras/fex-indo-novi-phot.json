@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo取景器相机，1964 年发布",
-  "description": "The Novi-Phot is a 6x9 620 film camera made by French company Fex.",
+  "description": "Fex Indo于1964年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Novi-Phot"
+    "Camera-wiki": "Novi-Phot",
+    "英文简介": "The Novi-Phot is a 6x9 620 film camera made by French company Fex."
   },
   "images": [],
   "sources": [

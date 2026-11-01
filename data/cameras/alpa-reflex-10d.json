@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Alpa胶片单反相机，1968 年发布",
-  "description": "The 10 d is an Alpa 35mm SLR introduced in 1968, with the pentaprism housing now integrated into the body, rather than the separate black crinkle-finish housing of the Alpa 9d.",
+  "description": "Alpa于1968年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Alpa Reflex 10d"
+    "Camera-wiki": "Alpa Reflex 10d",
+    "英文简介": "The 10 d is an Alpa 35mm SLR introduced in 1968, with the pentaprism housing now integrated into the body, rather than the separate black crinkle-finish housing of the Alpa 9d."
   },
   "images": [],
   "sources": [

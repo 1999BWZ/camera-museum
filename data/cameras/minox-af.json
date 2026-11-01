@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox胶片相机，1988 年发布",
-  "description": "The Minox 35 AF, released in 1988, was Minox's first departure from its line of ultra-compact 35 mm scale focusing cameras first introduced with the 35 EL in 1974.",
+  "description": "Minox于1988年推出的胶片相机。配备Minoxar 32 mm ƒ/3,5 (4 elements, 3 groups, Tessar style).。快门速度1/30~1/500 s.。使用Manual lever wind, rewind crank.。Active 4-zone autofocus, 0.7 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox AF"
+    "Camera-wiki": "Minox AF",
+    "镜头": "Minoxar 32 mm ƒ/3,5 (4 elements, 3 groups, Tessar style).",
+    "对焦": "Active 4-zone autofocus, 0.7 m to infinity.",
+    "快门": "1/30~1/500 s.",
+    "曝光测光": "EV 8~16 with ISO 100 film. If required shutter speed is below 1/30 s, the shutter is locked until the flash is mounted.",
+    "闪光灯": "Dedicated clip-on AF-F flash.",
+    "胶片/画幅": "Manual lever wind, rewind crank.",
+    "尺寸": "107x68x41 mm, 190 g.",
+    "英文简介": "The Minox 35 AF, released in 1988, was Minox's first departure from its line of ultra-compact 35 mm scale focusing cameras first introduced with the 35 EL in 1974."
   },
   "images": [],
   "sources": [

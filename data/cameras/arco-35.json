@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arco旁轴相机，1952 年发布",
-  "description": "The Arco 35 (アルコ35) is a series of Japanese 35mm folders with a coupled rangefinder, made by Arco from 1952 to 1957.",
+  "description": "Arco于1952年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Arco 35"
+    "Camera-wiki": "Arco 35",
+    "英文简介": "The Arco 35 (アルコ35) is a series of Japanese 35mm folders with a coupled rangefinder, made by Arco from 1952 to 1957."
   },
   "images": [],
   "sources": [

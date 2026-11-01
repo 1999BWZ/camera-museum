@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Exakta胶片单反相机，1966 年发布",
-  "description": "The Exa 500 - also known as the Exakta 500 and VX 200 - was introduced in 1966 by Ihagee of Dresden, Germany (then DDR/East Germany).",
+  "description": "Exakta于1966年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exa 500"
+    "Camera-wiki": "Exa 500",
+    "英文简介": "The Exa 500 - also known as the Exakta 500 and VX 200 - was introduced in 1966 by Ihagee of Dresden, Germany (then DDR/East Germany)."
   },
   "images": [],
   "sources": [

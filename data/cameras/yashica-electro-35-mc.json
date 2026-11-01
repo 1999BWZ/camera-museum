@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1972 年发布",
-  "description": "The Yashica Electro 35 MC is a small viewfinder camera for 35mm film, introduced in 1972.",
+  "description": "雅西卡于1972年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Electro 35 MC"
+    "Camera-wiki": "Yashica Electro 35 MC",
+    "英文简介": "The Yashica Electro 35 MC is a small viewfinder camera for 35mm film, introduced in 1972."
   },
   "images": [],
   "sources": [

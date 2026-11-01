@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1986 年发布",
-  "description": "The Kodak VR35 K5 is a basic but well-made camera for 35mm film.",
+  "description": "柯达于1986年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak VR35 K5"
+    "Camera-wiki": "Kodak VR35 K5",
+    "英文简介": "The Kodak VR35 K5 is a basic but well-made camera for 35mm film."
   },
   "images": [],
   "sources": [

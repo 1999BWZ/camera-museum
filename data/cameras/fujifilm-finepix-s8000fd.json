@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2007 年发布",
-  "description": "The Fuji Finepix S8000 fd Zoom is an 8 megapixel digital \"Bridge camera\" with an 18x zoom lens made by Fuji, introduced in 2007.",
+  "description": "富士于2007年推出的数码相机。配备4.7-84.2mm, f/2.8-4.5, 35mm equivalent 27-486mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix S8000fd"
+    "Camera-wiki": "Fujifilm FinePix S8000fd",
+    "镜头": "4.7-84.2mm, f/2.8-4.5, 35mm equivalent 27-486mm",
+    "英文简介": "The Fuji Finepix S8000 fd Zoom is an 8 megapixel digital \"Bridge camera\" with an 18x zoom lens made by Fuji, introduced in 2007."
   },
   "images": [],
   "sources": [

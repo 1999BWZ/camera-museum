@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View-Master立体相机，1952 年发布",
-  "description": "The View-Master Personal Camera is a stereoscopic camera used for the creation of View-Master slide reels, usable in any View-Master viewer.",
+  "description": "View-Master于1952年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "View-Master Personal"
+    "Camera-wiki": "View-Master Personal",
+    "尺寸": "154 x 86 x 53 mm",
+    "英文简介": "The View-Master Personal Camera is a stereoscopic camera used for the creation of View-Master slide reels, usable in any View-Master viewer."
   },
   "images": [],
   "sources": [

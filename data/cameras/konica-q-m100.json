@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码相机，1997 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Q-M100 is a digital camera released by Konica in 1997 with a price of 99,800 yen.",
+  "description": "柯尼卡于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Q-M100"
+    "Camera-wiki": "Konica Q-M100",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Q-M100 is a digital camera released by Konica in 1997 with a price of 99,800 yen."
   },
   "images": [],
   "sources": [

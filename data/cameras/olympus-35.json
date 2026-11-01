@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1948 年发布",
-  "description": "The original Olympus 35 was the company's first 35mm film model built and sold in Japan.",
+  "description": "奥林巴斯于1948年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus 35"
+    "Camera-wiki": "Olympus 35",
+    "英文简介": "The original Olympus 35 was the company's first 35mm film model built and sold in Japan."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo胶片相机，1959 年发布",
-  "description": "The Toyoca-44 is a Japanese 4×4 TLR made by Tougodo at the end of the 1950s, during the brief 4×4 camera boom.",
+  "description": "Tougodo于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tougodo 4×4 TLR"
+    "Camera-wiki": "Tougodo 4×4 TLR",
+    "英文简介": "The Toyoca-44 is a Japanese 4×4 TLR made by Tougodo at the end of the 1950s, during the brief 4×4 camera boom."
   },
   "images": [],
   "sources": [

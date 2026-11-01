@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Military胶片相机，1919 年发布",
-  "description": "The Military Vest Pocket Seneca was made by the US company Seneca in c.1919[https://www.historiccamera.com/cgi-bin/librarium2/pm.cgi?action=app_display&app=datasheet&app_id=1470 Military Vest Pocket Seneca page] at [http://historiccamera.com/ Historic Camera].",
+  "description": "Military于1919年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Military Vest Pocket Seneca"
+    "Camera-wiki": "Military Vest Pocket Seneca",
+    "英文简介": "The Military Vest Pocket Seneca was made by the US company Seneca in c.1919[https://www.historiccamera.com/cgi-bin/librarium2/pm.cgi?action=app_display&app=datasheet&app_id=1470 Military Vest Pocket Seneca page] at [http://historiccamera.com/ Historic Camera]."
   },
   "images": [],
   "sources": [

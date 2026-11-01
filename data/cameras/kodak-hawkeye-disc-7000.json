@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1985 年发布",
-  "description": "The Hawkeye Disc 7000 by Kodak was the premium sales version of the Kodak Disc 3100, but is significant as one of the last Kodak cameras to use the long-running \"Hawkeye\" name.",
+  "description": "柯达于1985年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Hawkeye Disc 7000"
+    "Camera-wiki": "Kodak Hawkeye Disc 7000",
+    "英文简介": "The Hawkeye Disc 7000 by Kodak was the premium sales version of the Kodak Disc 3100, but is significant as one of the last Kodak cameras to use the long-running \"Hawkeye\" name."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士便携相机，2000 年发布",
-  "description": "The FinePix 4900 Zoom is a 4.3 megapixel digital camera made by Fuji, introduced in 2000.",
+  "description": "富士于2000年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix 4900"
+    "Camera-wiki": "Fujifilm FinePix 4900",
+    "英文简介": "The FinePix 4900 Zoom is a 4.3 megapixel digital camera made by Fuji, introduced in 2000."
   },
   "images": [],
   "sources": [

@@ -1,0 +1,32 @@
+{
+  "id": "hasselblad-h2d-39",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "哈苏",
+  "model": "H2D-39",
+  "year": 2005,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏中画幅相机，2005 年发布",
+  "description": "哈苏于2005年发布的中画幅相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1441357",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Hasselblad H2D-39",
+      "url": "https://www.wikidata.org/wiki/Q1441357"
+    }
+  ],
+  "qid": "Q1441357",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Univex取景器相机，1948 年发布",
-  "description": "The UniveX Supra is a Bakelite camera produced by the Spanish company Casa Univex c.1948.",
+  "description": "Univex于1948年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Univex Supra"
+    "Camera-wiki": "Univex Supra",
+    "英文简介": "The UniveX Supra is a Bakelite camera produced by the Spanish company Casa Univex c.1948."
   },
   "images": [],
   "sources": [

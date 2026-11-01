@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King取景器相机，1958 年发布",
-  "description": "The Mastra V35 35mm viewfinder camera was made in Germany by King, c.1958 as a simpler version of the Regula IIIa.",
+  "description": "King于1958年推出的取景器相机。配备Steinheil Cassar 45mm f/2.8。快门速度Vero - Bulb, 1/25, 1/50, 1/100 and 1/200th.。使用Lever for the advance。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mastra V35"
+    "Camera-wiki": "Mastra V35",
+    "镜头": "Steinheil Cassar 45mm f/2.8",
+    "快门": "Vero - Bulb, 1/25, 1/50, 1/100 and 1/200th.",
+    "胶片/画幅": "Lever for the advance",
+    "闪光灯": "PC socket on the side of the lens, accessory shoe on top of the camera",
+    "英文简介": "The Mastra V35 35mm viewfinder camera was made in Germany by King, c.1958 as a simpler version of the Regula IIIa."
   },
   "images": [],
   "sources": [

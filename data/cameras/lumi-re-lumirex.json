@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lumière折叠相机，1934 年发布",
-  "description": "The Lumirex is a French camera made by Lumière, both before and after WWII.",
+  "description": "Lumière于1934年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lumirex"
+    "Camera-wiki": "Lumirex",
+    "英文简介": "The Lumirex is a French camera made by Lumière, both before and after WWII."
   },
   "images": [],
   "sources": [

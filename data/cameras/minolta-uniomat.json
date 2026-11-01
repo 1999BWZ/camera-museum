@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1960 年发布",
-  "description": "In 1960 Chiyoda (after 1962, Minolta) launched its Uniomat series of rangefinder cameras with coupled match-needle selenium meter.",
+  "description": "美能达于1960年推出的旁轴相机。配备Rokkor 1:2.8/45mm, 4 elements。快门速度Citizen Optiper Uni leaf shutter with speeds from 1/8 sec. to 1/1000 sec. plus Bulb, X and M flash synchronization, self timer; leaf shutter also functions as aperture control。使用35mm with speeds 6 to 1600 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Uniomat"
+    "Camera-wiki": "Minolta Uniomat",
+    "胶片/画幅": "35mm with speeds 6 to 1600 ASA",
+    "镜头": "Rokkor 1:2.8/45mm, 4 elements",
+    "快门": "Citizen Optiper Uni leaf shutter with speeds from 1/8 sec. to 1/1000 sec. plus Bulb, X and M flash synchronization, self timer; leaf shutter also functions as aperture control",
+    "取景器": "bright frame finder with superimposed coupled rangefinder",
+    "尺寸": "137×80×73mm",
+    "重量": "710 g",
+    "英文简介": "In 1960 Chiyoda (after 1962, Minolta) launched its Uniomat series of rangefinder cameras with coupled match-needle selenium meter."
   },
   "images": [],
   "sources": [

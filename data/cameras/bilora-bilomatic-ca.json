@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bilora胶片相机，1969 年发布",
-  "description": "The Bilomatic CA is a camera taking 126 film, made by Bilora from 1969.",
+  "description": "Bilora于1969年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bilomatic CA"
+    "Camera-wiki": "Bilomatic CA",
+    "英文简介": "The Bilomatic CA is a camera taking 126 film, made by Bilora from 1969."
   },
   "images": [],
   "sources": [

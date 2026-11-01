@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1953 年发布",
-  "description": "The Brownie Holiday is a small, simple viewfinder camera for 127 film made of Bakelite by Kodak in the US and Canada from 1953-1962 to a design by Arthur H Crapsey.",
+  "description": "柯达于1953年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Holiday"
+    "Camera-wiki": "Kodak Brownie Holiday",
+    "英文简介": "The Brownie Holiday is a small, simple viewfinder camera for 127 film made of Bakelite by Kodak in the US and Canada from 1953-1962 to a design by Arthur H Crapsey."
   },
   "images": [],
   "sources": [

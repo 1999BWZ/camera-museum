@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Haking胶片相机，1969 年发布",
-  "description": "The GAF 136 XF is a 126 cartridge snapshot camera made by Haking for GAF, c.1969.",
+  "description": "Haking于1969年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "GAF 136 XF"
+    "Camera-wiki": "GAF 136 XF",
+    "英文简介": "The GAF 136 XF is a 126 cartridge snapshot camera made by Haking for GAF, c.1969."
   },
   "images": [],
   "sources": [

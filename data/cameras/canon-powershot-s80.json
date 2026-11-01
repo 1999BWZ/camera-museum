@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2005 年发布",
-  "description": "The PowerShot S80 was an upper-level digital point & shoot introduced by Canon in September 2005.",
+  "description": "佳能于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot S80"
+    "Camera-wiki": "Canon PowerShot S80",
+    "英文简介": "The PowerShot S80 was an upper-level digital point & shoot introduced by Canon in September 2005."
   },
   "images": [],
   "sources": [

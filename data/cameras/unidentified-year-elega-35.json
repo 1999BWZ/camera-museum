@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Unidentified year取景器相机，1954 年发布",
-  "description": "A Japanese Leica I clone made by Elega-sha (エレガ社) in 1951-1954?",
+  "description": "Unidentified year于1954年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Elega-35"
+    "Camera-wiki": "Elega-35",
+    "英文简介": "A Japanese Leica I clone made by Elega-sha (エレガ社) in 1951-1954?"
   },
   "images": [],
   "sources": [

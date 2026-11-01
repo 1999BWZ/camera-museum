@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Verascope立体相机，1938 年发布",
-  "description": "The Verascope f40 stereo camera by Richard was introduced about 1938, and was designed to take pairs of 24 x30mm images on 35mm film.",
+  "description": "Verascope于1938年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Verascope f40"
+    "Camera-wiki": "Verascope f40",
+    "英文简介": "The Verascope f40 stereo camera by Richard was introduced about 1938, and was designed to take pairs of 24 x30mm images on 35mm film."
   },
   "images": [],
   "sources": [

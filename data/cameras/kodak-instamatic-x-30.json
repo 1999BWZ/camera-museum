@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1971 年发布",
-  "description": "The Kodak Instamatic X-30 was a viewfinder camera with automatic exposure.",
+  "description": "柯达于1971年推出的便携相机。配备f11/43mm。快门速度Photo-electronically controlled shutter with speeds 10 to 1/125 sec.。使用Type No. 126 film cassettes for frame size 28×28mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic X-30"
+    "Camera-wiki": "Kodak Instamatic X-30",
+    "胶片/画幅": "Type No. 126 film cassettes for frame size 28×28mm",
+    "镜头": "f11/43mm",
+    "快门": "Photo-electronically controlled shutter with speeds 10 to 1/125 sec.",
+    "取景器": "optical",
+    "英文简介": "The Kodak Instamatic X-30 was a viewfinder camera with automatic exposure."
   },
   "images": [],
   "sources": [

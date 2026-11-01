@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片相机，1958 年发布",
-  "description": "The Primo Jr is a 4×4 TLR camera made by Tōkyō Kōgaku (maker of the Topcon cameras) in 1958–60.",
+  "description": "Topcon于1958年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Primo Jr"
+    "Camera-wiki": "Primo Jr",
+    "英文简介": "The Primo Jr is a 4×4 TLR camera made by Tōkyō Kōgaku (maker of the Topcon cameras) in 1958–60."
   },
   "images": [],
   "sources": [

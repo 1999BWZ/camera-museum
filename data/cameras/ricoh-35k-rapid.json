@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1964 年发布",
-  "description": "The 35K Rapid is a 1964 Ricoh camera giving 12 exposures 24&times;36 mm on Rapid film.",
+  "description": "理光于1964年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 35K Rapid"
+    "Camera-wiki": "Ricoh 35K Rapid",
+    "英文简介": "The 35K Rapid is a 1964 Ricoh camera giving 12 exposures 24&times;36 mm on Rapid film."
   },
   "images": [],
   "sources": [

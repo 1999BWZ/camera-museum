@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，2000 年发布",
-  "description": "The Kodak KB28 is a fixed-focus 35mm film camera from 2000.",
+  "description": "柯达于2000年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak KB28"
+    "Camera-wiki": "Kodak KB28",
+    "英文简介": "The Kodak KB28 is a fixed-focus 35mm film camera from 2000."
   },
   "images": [],
   "sources": [

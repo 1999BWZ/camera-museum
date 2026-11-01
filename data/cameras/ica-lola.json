@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA折叠相机，1912 年发布",
-  "description": "__NOTOC__\n\nICA Lola was manufactured by Internationale Camera AG (ICA), Dresden, Germany.",
+  "description": "ICA于1912年推出的折叠相机。配备Ica Akt-Ges. Extra-Rapid-Aplanat \"Helios\" 135mm f/8, filter slip-on, Aperture range f/8-f/36。快门速度Ica leaf shutter, speeds 1/25-1/100th plus B&Z。使用9x12cm plate。2-16m +inf.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lola"
+    "Camera-wiki": "Lola",
+    "胶片/画幅": "9x12cm plate",
+    "镜头": "Ica Akt-Ges. Extra-Rapid-Aplanat \"Helios\" 135mm f/8, filter slip-on, Aperture range f/8-f/36",
+    "对焦": "2-16m +inf.",
+    "快门": "Ica leaf shutter, speeds 1/25-1/100th plus B&Z",
+    "英文简介": "__NOTOC__\n\nICA Lola was manufactured by Internationale Camera AG (ICA), Dresden, Germany."
   },
   "images": [],
   "sources": [

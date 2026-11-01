@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1989 年发布",
-  "description": "The EOS 600 (known as the EOS 630 in the Americas and EOS630 QD in Japan) is an autofocus SLR from Canon introduced 1989.",
+  "description": "佳能于1989年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 600"
+    "Camera-wiki": "Canon EOS 600",
+    "英文简介": "The EOS 600 (known as the EOS 630 in the Americas and EOS630 QD in Japan) is an autofocus SLR from Canon introduced 1989."
   },
   "images": [],
   "sources": [

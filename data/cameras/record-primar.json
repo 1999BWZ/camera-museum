@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Record胶片相机，1927 年发布",
-  "description": "The Record Primar is a camera for 6.5x9 cm plates or film packs, made by Bentzin between 1927 and 1937.",
+  "description": "Record于1927年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Record Primar"
+    "Camera-wiki": "Record Primar",
+    "英文简介": "The Record Primar is a camera for 6.5x9 cm plates or film packs, made by Bentzin between 1927 and 1937."
   },
   "images": [],
   "sources": [

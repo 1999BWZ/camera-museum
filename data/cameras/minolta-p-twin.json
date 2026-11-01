@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1992 年发布",
-  "description": "The Minolta P-Twin is a bi-focal compact autofocus camera, ostensibly released only in Japan in 1992.",
+  "description": "美能达于1992年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta P-Twin"
+    "Camera-wiki": "Minolta P-Twin",
+    "重量": "121x66x44 mm, 210 g.",
+    "尺寸": "121x66x44 mm",
+    "英文简介": "The Minolta P-Twin is a bi-focal compact autofocus camera, ostensibly released only in Japan in 1992."
   },
   "images": [],
   "sources": [

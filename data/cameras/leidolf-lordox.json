@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leidolf取景器相机，1957 年发布",
-  "description": "In 1957 the Leidolf company redesigned their 1952 Lordox 24x36mm with a body shaped like the Lordomat but it still had only a fixed lens.",
+  "description": "Leidolf于1957年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lordox (1957)"
+    "Camera-wiki": "Lordox (1957)",
+    "英文简介": "In 1957 the Leidolf company redesigned their 1952 Lordox 24x36mm with a body shaped like the Lordomat but it still had only a fixed lens."
   },
   "images": [],
   "sources": [

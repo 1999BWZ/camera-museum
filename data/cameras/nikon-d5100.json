@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2011 年发布",
-  "description": "The Nikon D5100 is a mid-level consumer DSLR camera and was released in 2011 by Nikon.",
+  "description": "尼康于2011年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon D5100"
+    "Camera-wiki": "Nikon D5100",
+    "尺寸": "128 x 97 x 79 mm",
+    "英文简介": "The Nikon D5100 is a mid-level consumer DSLR camera and was released in 2011 by Nikon."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Picny胶片相机，1948 年发布",
-  "description": "See also the Picny (3×4cm) and the Picny 35.",
+  "description": "Picny于1948年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Picny B"
+    "Camera-wiki": "Picny B",
+    "英文简介": "See also the Picny (3×4cm) and the Picny 35."
   },
   "images": [],
   "sources": [

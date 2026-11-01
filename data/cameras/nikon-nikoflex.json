@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片相机，1946 年发布",
-  "description": "The Nikoflex (ニコフレックス) was a TLR project developed by Nippon Kōgaku immediately after World War II.",
+  "description": "尼康于1946年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikoflex"
+    "Camera-wiki": "Nikoflex",
+    "英文简介": "The Nikoflex (ニコフレックス) was a TLR project developed by Nippon Kōgaku immediately after World War II."
   },
   "images": [],
   "sources": [

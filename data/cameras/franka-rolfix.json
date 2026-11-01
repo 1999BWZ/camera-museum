@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Franka折叠相机，1935 年发布",
-  "description": "The Franka Rolfix is a series of self-erecting folding cameras for 120 film.",
+  "description": "Franka于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolfix"
+    "Camera-wiki": "Rolfix",
+    "英文简介": "The Franka Rolfix is a series of self-erecting folding cameras for 120 film."
   },
   "images": [],
   "sources": [

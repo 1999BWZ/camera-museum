@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1996 年发布",
-  "description": "The Trip 300 is one of the models in a series of simpler 35mm Trip cameras with fixed focus from Olympus.",
+  "description": "奥林巴斯于1996年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip 300"
+    "Camera-wiki": "Olympus Trip 300",
+    "英文简介": "The Trip 300 is one of the models in a series of simpler 35mm Trip cameras with fixed focus from Olympus."
   },
   "images": [],
   "sources": [

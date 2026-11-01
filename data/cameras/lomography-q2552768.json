@@ -13,11 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography玩具相机，1960 年发布",
-  "description": "Lomography于1960年发布的玩具相机。",
+  "description": "Lomography于1960年推出的玩具相机。配备| focus_type =。快门速度| f_numbers = , ,。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q2552768",
-    "多语言词条数": "13"
+    "多语言词条数": "13",
+    "传感器": "Film",
+    "镜头": "| focus_type =",
+    "快门速度": "| f_numbers = , ,"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Character cameras玩具相机，2025 年发布",
-  "description": "There is also the Pingu keychain digital camera also by Martube; and the Danish Pingo camera for 35mm film.",
+  "description": "Character cameras于2025年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pingu CCD digital camera"
+    "Camera-wiki": "Pingu CCD digital camera",
+    "英文简介": "There is also the Pingu keychain digital camera also by Martube; and the Danish Pingo camera for 35mm film."
   },
   "images": [],
   "sources": [

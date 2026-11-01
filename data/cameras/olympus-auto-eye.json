@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1960 年发布",
-  "description": "The Olympus Auto Eye is a 35mm rangefinder camera produced by the Japanese company Olympus starting in 1960.",
+  "description": "奥林巴斯于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Auto Eye"
+    "Camera-wiki": "Olympus Auto Eye",
+    "英文简介": "The Olympus Auto Eye is a 35mm rangefinder camera produced by the Japanese company Olympus starting in 1960."
   },
   "images": [],
   "sources": [

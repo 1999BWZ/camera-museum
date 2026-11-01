@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zenix胶片相机，1977 年发布",
-  "description": "The Zenix 110 Camera is one of the few cameras for 110 film cassettes with a zoom lens.",
+  "description": "Zenix于1977年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenix 110"
+    "Camera-wiki": "Zenix 110",
+    "英文简介": "The Zenix 110 Camera is one of the few cameras for 110 film cassettes with a zoom lens."
   },
   "images": [],
   "sources": [

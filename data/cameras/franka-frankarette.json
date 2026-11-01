@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Franka旁轴相机，1956 年发布",
-  "description": "The specialty of Franka's Super Frankarette was the coupled pair of setting rings for aperture and shutter speed.",
+  "description": "Franka于1956年推出的旁轴相机。配备Schneider-Kreuznach Xenar 1:2,8/45。快门速度Prontor-SVS with speeds 1 sec. to 1/300 sec plus B, flash sync. X, A and M selectable。使用35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Super Frankarette"
+    "Camera-wiki": "Super Frankarette",
+    "胶片/画幅": "35mm film",
+    "镜头": "Schneider-Kreuznach Xenar 1:2,8/45",
+    "尺寸": "30.5mm thread",
+    "取景器": "reverse Galilean with superimposed coupled match-image-center rangefinder",
+    "快门": "Prontor-SVS with speeds 1 sec. to 1/300 sec plus B, flash sync. X, A and M selectable",
+    "重量": "585 grams",
+    "英文简介": "The specialty of Franka's Super Frankarette was the coupled pair of setting rings for aperture and shutter speed."
   },
   "images": [],
   "sources": [

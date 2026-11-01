@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee数码单反相机，1951 年发布",
-  "description": "The Exa is a 35mm SLR made in Dresden, Germany by Ihagee.",
+  "description": "Ihagee于1951年推出的数码单反相机。配备via an exposed lever on the left of the lens flange。快门速度vertically acting guillotine using the mirror as one component; due to this maximum speed is limited to 1/150, speeds: 1/25-1/150 +B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exa (original)"
+    "Camera-wiki": "Exa (original)",
+    "镜头": "via an exposed lever on the left of the lens flange",
+    "快门": "vertically acting guillotine using the mirror as one component; due to this maximum speed is limited to 1/150, speeds: 1/25-1/150 +B",
+    "取景器": "standard Varex finders, with option for exposure interlock (WLF have prong that blocks exposure if the hood is closed.)",
+    "英文简介": "The Exa is a 35mm SLR made in Dresden, Germany by Ihagee."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1962 年发布",
-  "description": "The dark bakelite 1950s Brownie Fiesta (including its \"Flash model\") is a name variant of the Kodak Brownie Hawkeye.",
+  "description": "柯达于1962年推出的取景器相机。配备1:11 meniscus lens。使用roll film of type No. 127。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Fiesta"
+    "Camera-wiki": "Kodak Brownie Fiesta",
+    "胶片/画幅": "roll film of type No. 127",
+    "镜头": "1:11 meniscus lens",
+    "英文简介": "The dark bakelite 1950s Brownie Fiesta (including its \"Flash model\") is a name variant of the Kodak Brownie Hawkeye."
   },
   "images": [],
   "sources": [

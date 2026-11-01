@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能旁轴相机，1957 年发布",
-  "description": "__NOTOC__ \nCanon L refers to a line of 35mm rangefinder cameras made by Canon and launched in 1957.",
+  "description": "佳能于1957年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon L"
+    "Camera-wiki": "Canon L",
+    "英文简介": "__NOTOC__ \nCanon L refers to a line of 35mm rangefinder cameras made by Canon and launched in 1957."
   },
   "images": [],
   "sources": [

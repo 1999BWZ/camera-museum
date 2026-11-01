@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片相机，2000 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Nikon Nuvis S 2000 was one of the cutest compact zoom cameras made ever.",
+  "description": "尼康于2000年推出的胶片相机。配备24-48mm ultra-quiet zoom lens。wide-area passive-type autofocus system with automatic AF-Assist illuminator in the dark。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Nuvis S 2000"
+    "Camera-wiki": "Nikon Nuvis S 2000",
+    "镜头": "24-48mm ultra-quiet zoom lens",
+    "对焦": "wide-area passive-type autofocus system with automatic AF-Assist illuminator in the dark",
+    "取景器": "focus-dependent",
+    "闪光灯": "built-in",
+    "尺寸": "approximate to a cigarette packet",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Nikon Nuvis S 2000 was one of the cutest compact zoom cameras made ever."
   },
   "images": [],
   "sources": [

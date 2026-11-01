@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1996 年发布",
-  "description": "The Advantix 3600ix by Kodak is a camera for APS film.",
+  "description": "柯达于1996年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix 3600ix"
+    "Camera-wiki": "Kodak Advantix 3600ix",
+    "英文简介": "The Advantix 3600ix by Kodak is a camera for APS film."
   },
   "images": [],
   "sources": [

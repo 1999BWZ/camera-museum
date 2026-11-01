@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1989 年发布",
-  "description": "The Minolta FS-35, known as the Freedom 50 in America, is a basic fixed-focus compact camera released circa 1989.",
+  "description": "美能达于1989年推出的取景器相机。配备35 mm f/4,5。快门速度Behind-the-lens mechanical shutter, fixed at 1/125 s.。使用Automatic advance and rewind.。感光度DX coded films, ISO 100 or 400. Non-DX films exposed as ISO 100.。Fixed focus from 1,5 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta FS-35"
+    "Camera-wiki": "Minolta FS-35",
+    "镜头": "35 mm f/4,5",
+    "快门": "Behind-the-lens mechanical shutter, fixed at 1/125 s.",
+    "对焦": "Fixed focus from 1,5 m to infinity.",
+    "曝光测光": "f/8 without flash, f/4,5 with flash.",
+    "闪光灯": "Built-in, manually activated. Range: 1,5–4 m. LED indicator for low light and flash ready signal.",
+    "感光度": "DX coded films, ISO 100 or 400. Non-DX films exposed as ISO 100.",
+    "胶片/画幅": "Automatic advance and rewind.",
+    "尺寸": "127 x 73 x 49 mm.",
+    "重量": "200 g without batteries.",
+    "英文简介": "The Minolta FS-35, known as the Freedom 50 in America, is a basic fixed-focus compact camera released circa 1989."
   },
   "images": [],
   "sources": [

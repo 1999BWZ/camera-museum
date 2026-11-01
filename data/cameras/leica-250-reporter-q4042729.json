@@ -13,11 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡胶片相机，1942 年发布",
-  "description": "徕卡于1942年发布的胶片相机。",
+  "description": "徕卡于1942年推出的胶片相机。配备Leica screw mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q4042729",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "镜头": "Leica screw mount",
+    "对焦": "manual",
+    "曝光测光": "manual",
+    "闪光灯": "cold shoe"
   },
   "images": [
     {

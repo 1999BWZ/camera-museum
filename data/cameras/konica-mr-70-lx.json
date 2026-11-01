@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1987 年发布",
-  "description": "The MR.70 LX is a 1987 autofocus camera with two focal lengths by Konica.",
+  "description": "柯尼卡于1987年推出的胶片单反相机。快门速度1/8 – 1/250 s. Electronic self timer.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica MR.70 LX"
+    "Camera-wiki": "Konica MR.70 LX",
+    "快门": "1/8 – 1/250 s. Electronic self timer.",
+    "重量": "140x79,5x60 mm, 455 g.",
+    "英文简介": "The MR.70 LX is a 1987 autofocus camera with two focal lengths by Konica."
   },
   "images": [],
   "sources": [

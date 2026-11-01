@@ -13,10 +13,23 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera便携相机，2000 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Socius is a compact camera for APS film offered by Kyocera, circa 2000.",
+  "description": "Kyocera于2000年推出的便携相机。配备21mm to 42mm f/4.9 to 7.3。快门速度2 seconds to 1/300 second.。使用Drop in auto load, auto advance, auto rewind, mid-roll rewind.。感光度DX ISO range 50 to 3200。5-Point Auto Focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera Socius"
+    "Camera-wiki": "Kyocera Socius",
+    "镜头": "21mm to 42mm f/4.9 to 7.3",
+    "快门": "Programmed electronic shutter.",
+    "快门速度": "2 seconds to 1/300 second.",
+    "曝光测光": "Programmed auto exposure.",
+    "感光度": "DX ISO range 50 to 3200",
+    "对焦": "5-Point Auto Focus",
+    "胶片/画幅": "Drop in auto load, auto advance, auto rewind, mid-roll rewind.",
+    "自拍": "with 10s delay.",
+    "闪光灯": "Built-in with auto flash mode, red eye reduction, fill flash, flash off, and night mode.",
+    "电池": "1x 3V CR2 Lithium Battery",
+    "尺寸": "4”W x 2”H x 1.2”D",
+    "重量": "4.2 oz",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Socius is a compact camera for APS film offered by Kyocera, circa 2000."
   },
   "images": [],
   "sources": [

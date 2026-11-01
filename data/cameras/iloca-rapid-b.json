@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Iloca旁轴相机，1954 年发布",
-  "description": "The Iloca Rapid B is a fixed lens viewfinder camera made by Iloca from 1954 to about 1958.",
+  "description": "Iloca于1954年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Iloca Rapid B"
+    "Camera-wiki": "Iloca Rapid B",
+    "英文简介": "The Iloca Rapid B is a fixed lens viewfinder camera made by Iloca from 1954 to about 1958."
   },
   "images": [
     {

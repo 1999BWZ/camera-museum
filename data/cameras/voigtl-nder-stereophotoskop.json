@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer立体相机，1914 年发布",
-  "description": "The Stereophotoskop is a stereo camera made by Voigtländer, from 1904 until the 1920s.",
+  "description": "Voigtländer于1914年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Stereophotoskop"
+    "Camera-wiki": "Stereophotoskop",
+    "英文简介": "The Stereophotoskop is a stereo camera made by Voigtländer, from 1904 until the 1920s."
   },
   "images": [],
   "sources": [

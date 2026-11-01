@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Coronet盒式相机，1950 年发布",
-  "description": "The Coronet Twelve-20 is a pseudo-TLR made by Coronet in Birmingham, UK, c.1950.",
+  "description": "Coronet于1950年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Coronet Twelve-20"
+    "Camera-wiki": "Coronet Twelve-20",
+    "英文简介": "The Coronet Twelve-20 is a pseudo-TLR made by Coronet in Birmingham, UK, c.1950."
   },
   "images": [],
   "sources": [

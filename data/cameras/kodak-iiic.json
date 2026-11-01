@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1954 年发布",
-  "description": "Introduced at Photokina Cologne in 1954, the Retina IIIc was the most expensive of the new range of the Retina models.",
+  "description": "柯达于1954年推出的旁轴相机。配备Schneider Retina-Xenar f/2.8 50mm。快门速度Synchro-Compur (Light Value) 1 sec - 1/500。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina IIIc"
+    "Camera-wiki": "Kodak Retina IIIc",
+    "镜头": "Schneider Retina-Xenar f/2.8 50mm",
+    "光圈": "f/2.8 to f/22 ( 4-element Tessar-type design )",
+    "快门": "Synchro-Compur (Light Value) 1 sec - 1/500",
+    "取景器": "Bright line + parallax correction marks",
+    "尺寸": "width - 122mm; height - 85mm; depth - 90mm (open), 47mm (closed)",
+    "英文简介": "Introduced at Photokina Cologne in 1954, the Retina IIIc was the most expensive of the new range of the Retina models."
   },
   "images": [],
   "sources": [

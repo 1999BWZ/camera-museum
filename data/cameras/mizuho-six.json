@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mizuho旁轴相机，1951 年发布",
-  "description": "The Mizuho Six (ミヅホシックス) are 6×6 folders, made between 1951 and 1955 by a Japanese company that was Mizuho at the start and Neoca by the end.",
+  "description": "Mizuho于1951年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mizuho Six"
+    "Camera-wiki": "Mizuho Six",
+    "英文简介": "The Mizuho Six (ミヅホシックス) are 6×6 folders, made between 1951 and 1955 by a Japanese company that was Mizuho at the start and Neoca by the end."
   },
   "images": [],
   "sources": [

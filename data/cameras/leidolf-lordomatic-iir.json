@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leidolf旁轴相机，1958 年发布",
-  "description": "Leidolf improved upon the Lordomatic by including a rangefinder.",
+  "description": "Leidolf于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lordomatic IIR"
+    "Camera-wiki": "Lordomatic IIR",
+    "英文简介": "Leidolf improved upon the Lordomatic by including a rangefinder."
   },
   "images": [],
   "sources": [

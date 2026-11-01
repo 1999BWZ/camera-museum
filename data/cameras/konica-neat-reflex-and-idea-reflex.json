@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码单反相机，1926 年发布",
-  "description": "The Neat Reflex are Japanese SLR cameras made from 1926 by Rokuoh-sha, the manufacturing branch of Konishiroku.",
+  "description": "柯尼卡于1926年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Neat Reflex and Idea Reflex"
+    "Camera-wiki": "Neat Reflex and Idea Reflex",
+    "英文简介": "The Neat Reflex are Japanese SLR cameras made from 1926 by Rokuoh-sha, the manufacturing branch of Konishiroku."
   },
   "images": [],
   "sources": [

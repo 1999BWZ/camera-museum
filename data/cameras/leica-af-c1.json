@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡胶片相机，1989 年发布",
-  "description": "The AF-C1 (not to be confused with the later Leica C1) was Leica's first compact autofocus camera.",
+  "description": "徕卡于1989年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica AF-C1"
+    "Camera-wiki": "Leica AF-C1",
+    "英文简介": "The AF-C1 (not to be confused with the later Leica C1) was Leica's first compact autofocus camera."
   },
   "images": [],
   "sources": [

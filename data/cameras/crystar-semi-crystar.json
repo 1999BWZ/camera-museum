@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Crystar折叠相机，1953 年发布",
-  "description": "The Semi Crystar (セミクリスター) is a Japanese 4.5×6 folding camera announced by Crystar Kōki in 1953.",
+  "description": "Crystar于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Crystar"
+    "Camera-wiki": "Semi Crystar",
+    "英文简介": "The Semi Crystar (セミクリスター) is a Japanese 4.5×6 folding camera announced by Crystar Kōki in 1953."
   },
   "images": [],
   "sources": [

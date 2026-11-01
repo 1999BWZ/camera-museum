@@ -13,10 +13,24 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1970 年发布",
-  "description": "The Electro 35 CC is a compact 35mm rangefinder camera from Yashica released in 1970.",
+  "description": "雅西卡于1970年推出的旁轴相机。配备35mm, f/1.8, 6 elements in 4 groups.。快门速度8 sec - 1/250 sec.。使用Overexposure and slow (<1/30s) shutter speed warning arrows.。感光度ISO 25-500.。Superimposed rectangle, rangefinder-type.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Electro 35 CC"
+    "Camera-wiki": "Yashica Electro 35 CC",
+    "镜头": "35mm, f/1.8, 6 elements in 4 groups.",
+    "快门": "Inter-lens, electronically controlled leaf-type.",
+    "快门速度": "8 sec - 1/250 sec.",
+    "曝光测光": "CdS cell located above front lens element.",
+    "感光度": "ISO 25-500.",
+    "闪光灯": "Built-in X-synchronization via PC socket, no hot-shoe.",
+    "对焦": "Superimposed rectangle, rangefinder-type.",
+    "胶片/画幅": "Overexposure and slow (<1/30s) shutter speed warning arrows.",
+    "自拍": "Mechanical, 10-sec. delay.",
+    "卡口": "screw-on, 52 mm.",
+    "电池": "Single 6V PX28, battery check illuminates frame counter.",
+    "尺寸": "120 x 74 x 59 mm",
+    "重量": "550 g.",
+    "英文简介": "The Electro 35 CC is a compact 35mm rangefinder camera from Yashica released in 1970."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "FED立体相机，1988 年发布",
-  "description": "FED于1988年发布的立体相机。",
+  "description": "FED于1988年推出的立体相机。快门速度leaf shutter with speeds 1/30 to 1/650 sec. plus B (B only in manual mode)。使用35mm (around 20 image pairs on one film possible)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fed Boy Stereo"
+    "Camera-wiki": "Fed Boy Stereo",
+    "胶片/画幅": "35mm (around 20 image pairs on one film possible)",
+    "快门": "leaf shutter with speeds 1/30 to 1/650 sec. plus B (B only in manual mode)",
+    "光圈": "2.8 to 14 in automatic and 2.8 to 16 in manual mode",
+    "曝光测光": "light-value dependent programmed exposure control"
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Underwater胶片相机，1960 年发布",
-  "description": "The Siluro (meaning \"catfish\") is an underwater camera made by Nemrod Metzeler in Barcelona, Spain between c.1960 and 1966 p.711; other sources (e.g.",
+  "description": "Underwater于1960年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Siluro"
+    "Camera-wiki": "Siluro",
+    "英文简介": "The Siluro (meaning \"catfish\") is an underwater camera made by Nemrod Metzeler in Barcelona, Spain between c.1960 and 1966 p.711; other sources (e.g."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nerasport取景器相机，1960 年发布",
-  "description": "The Nerasport 3x4 is a very simple camera for 127 film marketed by Negra Industrial SA in the late 1960ies.",
+  "description": "Nerasport于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nerasport 3x4"
+    "Camera-wiki": "Nerasport 3x4",
+    "光圈": "Cloudy, Sunny with symbols",
+    "尺寸": "114 x 88 x 61 mm",
+    "英文简介": "The Nerasport 3x4 is a very simple camera for 127 film marketed by Negra Industrial SA in the late 1960ies."
   },
   "images": [],
   "sources": [

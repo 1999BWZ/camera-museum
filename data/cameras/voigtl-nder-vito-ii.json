@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1950 年发布",
-  "description": "The Voigtländer Vito II is a folding camera for 35mm film.",
+  "description": "Voigtländer于1950年推出的取景器相机。配备coated Color-Skopar 50mm f3.5 (4 elements in 3 groups)。快门速度T, B, 1, 2, 5, 10, 25, 50, 100, 250 or 300. 500 was available in some models with Compur shutter。使用135mm (24x36mm image)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito II"
+    "Camera-wiki": "Vito II",
+    "胶片/画幅": "135mm (24x36mm image)",
+    "重量": "14.6 oz (413.9g)",
+    "镜头": "coated Color-Skopar 50mm f3.5 (4 elements in 3 groups)",
+    "快门": "Prontor-S, -SV, Compur-Rapid or Synchro-Compur",
+    "快门速度": "T, B, 1, 2, 5, 10, 25, 50, 100, 250 or 300. 500 was available in some models with Compur shutter",
+    "英文简介": "The Voigtländer Vito II is a folding camera for 35mm film."
   },
   "images": [],
   "sources": [

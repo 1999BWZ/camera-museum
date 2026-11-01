@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bilora胶片相机，1969 年发布",
-  "description": "The Bilomatic F is a 126 film camera with a pop-up flashbulb holder, made by Bilora in Germany, from 1969.",
+  "description": "Bilora于1969年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bilomatic F"
+    "Camera-wiki": "Bilomatic F",
+    "英文简介": "The Bilomatic F is a 126 film camera with a pop-up flashbulb holder, made by Bilora in Germany, from 1969."
   },
   "images": [],
   "sources": [

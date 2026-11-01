@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡便携相机，1997 年发布",
-  "description": "The Leica Z2X is a zoom point-and-shoot camera made for Leica, perhaps by Panasonic, in about 1997.",
+  "description": "徕卡于1997年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica Z2X"
+    "Camera-wiki": "Leica Z2X",
+    "英文简介": "The Leica Z2X is a zoom point-and-shoot camera made for Leica, perhaps by Panasonic, in about 1997."
   },
   "images": [],
   "sources": [

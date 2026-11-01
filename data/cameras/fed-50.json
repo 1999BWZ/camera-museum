@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "FED取景器相机，1986 年发布",
-  "description": "{|class=floatright\n|\n \n|-\n|\n \n|-\n|\n \n|-\n|align=center | images by \n|}\nThe FED 50 (ФЭД-50 in Cyrillic) is a 35mm film viewfinder camera with fixed lens made by the Ukrainian factory FED.",
+  "description": "FED于1986年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "FED 50"
+    "Camera-wiki": "FED 50",
+    "英文简介": "{|class=floatright\n|\n \n|-\n|\n \n|-\n|\n \n|-\n|align=center | images by \n|}\nThe FED 50 (ФЭД-50 in Cyrillic) is a 35mm film viewfinder camera with fixed lens made by the Ukrainian factory FED."
   },
   "images": [],
   "sources": [

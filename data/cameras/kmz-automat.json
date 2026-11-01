@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1984 年发布",
-  "description": "The Zenit Automat (sometimes marked in cyrillic: ЗЕНИТ-автомат) is a Russian 35mm SLR, a late model in the Zenit series.",
+  "description": "KMZ于1984年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit Automat"
+    "Camera-wiki": "Zenit Automat",
+    "英文简介": "The Zenit Automat (sometimes marked in cyrillic: ЗЕНИТ-автомат) is a Russian 35mm SLR, a late model in the Zenit series."
   },
   "images": [],
   "sources": [

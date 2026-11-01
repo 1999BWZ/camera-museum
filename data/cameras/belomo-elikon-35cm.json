@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO旁轴相机，1990 年发布",
-  "description": "The Elikon 35CM is a 35mm range-finder camera from the former Soviet Union.",
+  "description": "BelOMO于1990年推出的旁轴相机。配备Industar-95 2.8/38。快门速度1/8 sec. – 1/500 sec.。使用35mm。Manual。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Elikon 35CM"
+    "Camera-wiki": "Elikon 35CM",
+    "胶片/画幅": "35mm",
+    "尺寸": "24x36",
+    "镜头": "Industar-95 2.8/38",
+    "快门": "1/8 sec. – 1/500 sec.",
+    "闪光灯": "Built-in",
+    "对焦": "Manual",
+    "英文简介": "The Elikon 35CM is a 35mm range-finder camera from the former Soviet Union."
   },
   "images": [],
   "sources": [

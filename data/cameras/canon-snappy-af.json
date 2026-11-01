@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1989 年发布",
-  "description": "An autofocus compact camera on a budget, the Snappy AF was released by Canon in 1989.",
+  "description": "佳能于1989年推出的便携相机。配备35mm f/4.5 (3 elements in 3 groups)。快门速度Electronic programmed shutter and aperture. Built-in electronic self-timer.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Snappy AF"
+    "Camera-wiki": "Canon Snappy AF",
+    "镜头": "35mm f/4.5 (3 elements in 3 groups)",
+    "快门": "Electronic programmed shutter and aperture. Built-in electronic self-timer.",
+    "取景器": "Reversed Galilean viewfinder with image-area frame. 0.42x magnification and 85% coverage.",
+    "曝光测光": "EV 10 (f/4.5 at 1/40 sec.) - EV 17 (f/32 at 1/125 sec.). Film speed range: ISO 50 - 1600 (with DX code).",
+    "闪光灯": "Fixed built-in flash. Guide no. 9. Fires automatically in low-light conditions.",
+    "卷片": "Automatic film advance (0.6 sec. per frame) and rewind.",
+    "重量": "139 x 72 x 46 mm, 275 g.",
+    "尺寸": "139 x 72 x 46 mm",
+    "英文简介": "An autofocus compact camera on a budget, the Snappy AF was released by Canon in 1989."
   },
   "images": [],
   "sources": [

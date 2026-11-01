@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Montanus取景器相机，1956 年发布",
-  "description": "The Montanus Montana was a 35mm viewfinder camera made in Germany by the Montanus company - introduced in 1956.",
+  "description": "Montanus于1956年推出的取景器相机。配备Deltamon Anastigmat 45mm / f3.5 (possibly made by Enna or Staeble, who made lenses for Montanus)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Montanus Montana"
+    "Camera-wiki": "Montanus Montana",
+    "镜头": "Deltamon Anastigmat 45mm / f3.5 (possibly made by Enna or Staeble, who made lenses for Montanus)",
+    "英文简介": "The Montanus Montana was a 35mm viewfinder camera made in Germany by the Montanus company - introduced in 1956."
   },
   "images": [],
   "sources": [

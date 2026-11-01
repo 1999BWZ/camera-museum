@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1962 年发布",
-  "description": "The Vito Automatic II was produced by Voigtländer and made a brief appearance in about 1963 as successor of the Vito Automatic I.",
+  "description": "Voigtländer于1962年推出的取景器相机。配备Lanthar f/2.8 50mm。快门速度Prontormatic 1/500 (Speed priority)。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito Automatic II"
+    "Camera-wiki": "Vito Automatic II",
+    "胶片/画幅": "35mm",
+    "镜头": "Lanthar f/2.8 50mm",
+    "快门": "Prontormatic 1/500 (Speed priority)",
+    "曝光测光": "Selenium with Automatic coupling",
+    "英文简介": "The Vito Automatic II was produced by Voigtländer and made a brief appearance in about 1963 as successor of the Vito Automatic I."
   },
   "images": [],
   "sources": [

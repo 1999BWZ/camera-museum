@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1933 年发布",
-  "description": "The Six-20 Brownie box camera was made by Kodak in the US and Kodak Ltd.",
+  "description": "柯达于1933年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Six-20 Brownie"
+    "Camera-wiki": "Kodak Six-20 Brownie",
+    "英文简介": "The Six-20 Brownie box camera was made by Kodak in the US and Kodak Ltd."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1999 年发布",
-  "description": "The Advantix F600 is part of the Kodak Advantix range of APS film cameras, introduced by Kodak c.1999.The user's manual was posted at kodak.com on 10 May 1999 (in the web page info).",
+  "description": "柯达于1999年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix F600"
+    "Camera-wiki": "Kodak Advantix F600",
+    "英文简介": "The Advantix F600 is part of the Kodak Advantix range of APS film cameras, introduced by Kodak c.1999.The user's manual was posted at kodak.com on 10 May 1999 (in the web page info)."
   },
   "images": [],
   "sources": [

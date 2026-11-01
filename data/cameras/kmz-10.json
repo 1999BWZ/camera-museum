@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ旁轴相机，1964 年发布",
-  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "description": "KMZ于1964年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zorki 10"
+    "Camera-wiki": "Zorki 10",
+    "取景器": "0.65x",
+    "曝光测光": "external with selenium meter",
+    "光圈": "f/2.8 – f/22",
+    "闪光灯": "1/30th",
+    "自拍": "Mechanical, 8 to 15 second delay",
+    "尺寸": "129 x 77 x 76 mm",
+    "英文简介": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!"
   },
   "images": [],
   "sources": [

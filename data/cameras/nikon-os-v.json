@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康取景器相机，1984 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Nikonos V is an underwater 35mm viewfinder camera made by Nikon in Japan, introduced in June 1984.",
+  "description": "尼康于1984年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikonos V"
+    "Camera-wiki": "Nikonos V",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Nikonos V is an underwater 35mm viewfinder camera made by Nikon in Japan, introduced in June 1984."
   },
   "images": [],
   "sources": [

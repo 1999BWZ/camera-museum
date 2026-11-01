@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚旁轴相机，1977 年发布",
-  "description": "The Mamiya 135 EE is a compact rangefinder camera from Mamiya.",
+  "description": "玛米亚于1977年推出的旁轴相机。配备Mamiya Sekor 38 mm f/2,8 (4 elements, 3 groups), filter Size 46 mm。快门速度1/30-1/650s.。使用35mm (24x36mm)。感光度ISO 25 (DIN 15) to ISO 400 (DIN 27)。1m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya 135"
+    "Camera-wiki": "Mamiya 135",
+    "胶片/画幅": "35mm (24x36mm)",
+    "镜头": "Mamiya Sekor 38 mm f/2,8 (4 elements, 3 groups), filter Size 46 mm",
+    "对焦": "1m to infinity",
+    "快门速度": "1/30-1/650s.",
+    "曝光测光": "Single CdS cell located above the lens element.",
+    "感光度": "ISO 25 (DIN 15) to ISO 400 (DIN 27)",
+    "闪光灯": "Flash Built-in \"X\" synchronization @ 1/25 Second - \"X\" contacts in Hot Shoe and PC socket: Flashmatic system with aperture determined with the selected GN (10-40 in Meters) and the focusing distance.",
+    "自拍": "Yes",
+    "电池": "One 1.35 volt Mercury battery PX675 - Use 675ZA (1.4v Zinc Air) replacement.",
+    "尺寸": "113x73x54mm",
+    "重量": "420g",
+    "英文简介": "The Mamiya 135 EE is a compact rangefinder camera from Mamiya."
   },
   "images": [],
   "sources": [

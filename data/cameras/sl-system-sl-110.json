@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "SL-System便携相机，1974 年发布",
-  "description": "__NOTOC__\n\n\nCerto SL 110 compact camera was produced by the East German maker Certo of Dresden from around 1974-75Some web sites state the SL 110 was made from 1980 – but the camera is already described in second edition of Büttner's book published in 1975, while it is not present in the first editi",
+  "description": "SL-System于1974年推出的便携相机。配备achromatic, 45 mm f/8。快门速度1/30 s and 1/125 s。使用SL。1.5 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Certo SL 110"
+    "Camera-wiki": "Certo SL 110",
+    "胶片/画幅": "SL",
+    "尺寸": "24x24 mm",
+    "镜头": "achromatic, 45 mm f/8",
+    "快门速度": "1/30 s and 1/125 s",
+    "光圈": "8 – 16",
+    "对焦": "1.5 m",
+    "闪光灯": "full for electronic flashes, 1/30 s for flash bulbs",
+    "重量": "170 g",
+    "英文简介": "__NOTOC__\n\n\nCerto SL 110 compact camera was produced by the East German maker Certo of Dresden from around 1974-75Some web sites state the SL 110 was made from 1980 – but the camera is already described in second edition of Büttner's book published in 1975, while it is not present in the first edition from 1974.."
   },
   "images": [],
   "sources": [

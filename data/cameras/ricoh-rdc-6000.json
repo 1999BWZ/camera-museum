@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2000 年发布",
-  "description": "The Ricoh RDC-6000 was introduced by Ricoh in 2000.",
+  "description": "理光于2000年推出的数码相机。配备f=8.3mm(equivalent to 40mm in 35mm camera format), 5 glass elements in 4 groups including 4 aspherical surfaces。快门速度Still: 1/4 - 1/500sec.。Auto (TTL CCD AF)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RDC-6000"
+    "Camera-wiki": "Ricoh RDC-6000",
+    "镜头": "f=8.3mm(equivalent to 40mm in 35mm camera format), 5 glass elements in 4 groups including 4 aspherical surfaces",
+    "光圈": "f2.8",
+    "快门": "Still: 1/4 - 1/500sec.",
+    "对焦": "Auto (TTL CCD AF)",
+    "尺寸": "110.0 x 67.0 x 39.5mm (4.3 x 2.6 x 1.6 inch)",
+    "重量": "Approx.220g (7.7oz) (without battery)",
+    "英文简介": "The Ricoh RDC-6000 was introduced by Ricoh in 2000."
   },
   "images": [],
   "sources": [

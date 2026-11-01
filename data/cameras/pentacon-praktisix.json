@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pentacon胶片单反相机，1957 年发布",
-  "description": "The Praktisix was a medium-format SLR with a waist-level viewfinder, made by by KW and later Pentacon in East Germany.",
+  "description": "Pentacon于1957年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktisix"
+    "Camera-wiki": "Praktisix",
+    "英文简介": "The Praktisix was a medium-format SLR with a waist-level viewfinder, made by by KW and later Pentacon in East Germany."
   },
   "images": [],
   "sources": [

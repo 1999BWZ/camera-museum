@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mansfield取景器相机，1962 年发布",
-  "description": "Chicago photographic distributor Mansfield Industries sold two versions of the autoexposure Eye-Tronic camera, actually manufactured in Japan by Mamiya.",
+  "description": "Mansfield于1962年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mansfield Eye-Tronic"
+    "Camera-wiki": "Mansfield Eye-Tronic",
+    "英文简介": "Chicago photographic distributor Mansfield Industries sold two versions of the autoexposure Eye-Tronic camera, actually manufactured in Japan by Mamiya."
   },
   "images": [],
   "sources": [

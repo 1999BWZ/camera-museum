@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1962 年发布",
-  "description": "The Vesna (Весна = spring) is a compact little bakelite 35mm viewfinder camera without a maker's name, but a logo on the lens mount and on the camera's case indicates it was made by MMZ (Minsk Mechanical Factory) c.1960.",
+  "description": "BelOMO于1962年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vesna"
+    "Camera-wiki": "Vesna",
+    "英文简介": "The Vesna (Весна = spring) is a compact little bakelite 35mm viewfinder camera without a maker's name, but a logo on the lens mount and on the camera's case indicates it was made by MMZ (Minsk Mechanical Factory) c.1960."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji Kōgaku折叠相机，1936 年发布",
-  "description": "The Baby Lyra (ベビーライラ) is a Japanese 3×4 folder made by Fuji Kōgaku from 1936.",
+  "description": "Fuji Kōgaku于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Lyra"
+    "Camera-wiki": "Baby Lyra",
+    "英文简介": "The Baby Lyra (ベビーライラ) is a Japanese 3×4 folder made by Fuji Kōgaku from 1936."
   },
   "images": [],
   "sources": [

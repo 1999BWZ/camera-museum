@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goko取景器相机，1982 年发布",
-  "description": "A basic 35mm fixed focus viewfinder camera by Goko.",
+  "description": "Goko于1982年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Goko UF"
+    "Camera-wiki": "Goko UF",
+    "英文简介": "A basic 35mm fixed focus viewfinder camera by Goko."
   },
   "images": [],
   "sources": [

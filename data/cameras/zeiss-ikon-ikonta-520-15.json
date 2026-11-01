@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1934 年发布",
-  "description": "The 520/15 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon.",
+  "description": "Zeiss Ikon于1934年推出的折叠相机。快门速度Novar 6.3/12 cm lens in a Derval or Telma shutter Novar 4.5/12 cm lens in a Compur or Compur-Rapid shutter Tessar 4.5/12 cm lens in a Compur or Compur-Rapid shutter。使用6.5 x 11 cm on 116 (later 616) type rollfilm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ikonta 520/15"
+    "Camera-wiki": "Ikonta 520/15",
+    "胶片/画幅": "6.5 x 11 cm on 116 (later 616) type rollfilm",
+    "快门": "Novar 6.3/12 cm lens in a Derval or Telma shutter Novar 4.5/12 cm lens in a Compur or Compur-Rapid shutter Tessar 4.5/12 cm lens in a Compur or Compur-Rapid shutter",
+    "尺寸": "37mm push on",
+    "闪光灯": "none",
+    "曝光测光": "none",
+    "重量": "793 grams",
+    "英文简介": "The 520/15 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon."
   },
   "images": [],
   "sources": [

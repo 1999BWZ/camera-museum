@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1996 年发布",
-  "description": "The Konica Z-up 140 Super is a compact 35mm viewfinder camera, with full automatic exposure and focus.",
+  "description": "柯尼卡于1996年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Z-up 140 Super"
+    "Camera-wiki": "Konica Z-up 140 Super",
+    "英文简介": "The Konica Z-up 140 Super is a compact 35mm viewfinder camera, with full automatic exposure and focus."
   },
   "images": [],
   "sources": [

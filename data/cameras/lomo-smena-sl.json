@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO取景器相机，1968 年发布",
-  "description": "The Smena SL was released by the LOMO factory in 1968 and stayed in production until 1977.",
+  "description": "LOMO于1968年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Smena SL"
+    "Camera-wiki": "Smena SL",
+    "英文简介": "The Smena SL was released by the LOMO factory in 1968 and stayed in production until 1977."
   },
   "images": [],
   "sources": [

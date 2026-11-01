@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2009 年发布",
-  "description": "The Cybershot DSC-HX1 is a digital camera released by Sony in 2009.",
+  "description": "索尼于2009年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Cybershot DSC-HX1"
+    "Camera-wiki": "Sony Cybershot DSC-HX1",
+    "英文简介": "The Cybershot DSC-HX1 is a digital camera released by Sony in 2009."
   },
   "images": [],
   "sources": [

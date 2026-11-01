@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi旁轴相机，1936 年发布",
-  "description": "The Semi Elka (セミエルカ) is a Japanese 4.5×6 camera, about which almost nothing is known.",
+  "description": "Semi于1936年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Elka"
+    "Camera-wiki": "Semi Elka",
+    "英文简介": "The Semi Elka (セミエルカ) is a Japanese 4.5×6 camera, about which almost nothing is known."
   },
   "images": [],
   "sources": [

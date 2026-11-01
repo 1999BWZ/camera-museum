@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Durst取景器相机，1956 年发布",
-  "description": "The Automatica is a 35mm viewfinder camera, made by Durst SA of Bolzano, Italy, from 1956 until 1963.",
+  "description": "Durst于1956年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Durst Automatica"
+    "Camera-wiki": "Durst Automatica",
+    "英文简介": "The Automatica is a 35mm viewfinder camera, made by Durst SA of Bolzano, Italy, from 1956 until 1963."
   },
   "images": [],
   "sources": [

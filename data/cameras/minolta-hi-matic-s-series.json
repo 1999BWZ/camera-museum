@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1978 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Minolta Hi-Matic S series consisted of four similar compact cameras from Minolta.",
+  "description": "美能达于1978年推出的取景器相机。配备Rokkor 38mm, f/2.7 (4 elements in 3 groups)。快门速度1/4 to 1/450s。感光度Set by twisting ring around lens. ASA 25-400.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic S series"
+    "Camera-wiki": "Minolta Hi-Matic S series",
+    "镜头": "Rokkor 38mm, f/2.7 (4 elements in 3 groups)",
+    "曝光测光": "CdS mounted at top of lens barrel.",
+    "感光度": "Set by twisting ring around lens. ASA 25-400.",
+    "快门": "Seiko ESF-D between-the-lens programmed shutter",
+    "快门速度": "1/4 to 1/450s",
+    "闪光灯": "Guide number 14 (metres, ASA 100), 27 (m, ASA 400)",
+    "尺寸": "130×84×55mm",
+    "重量": "368g",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Minolta Hi-Matic S series consisted of four similar compact cameras from Minolta."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1972 年发布",
-  "description": "The Minolta Autopak was introduced by Minolta in 1972.",
+  "description": "美能达于1972年推出的胶片相机。配备38mm Rokkor glass lens, 4 elements in 3 groups。快门速度1/90 sec., 1/45 sec. with flashcube。使用126 cartridge (28mm × 28mm)。感光度ASA 50 to ASA 125。3.3 feet to infinity, with four different settings, 4 ft., 8 ft., 17 ft. and infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Autopak 600-X"
+    "Camera-wiki": "Minolta Autopak 600-X",
+    "胶片/画幅": "126 cartridge (28mm × 28mm)",
+    "感光度": "ASA 50 to ASA 125",
+    "镜头": "38mm Rokkor glass lens, 4 elements in 3 groups",
+    "光圈": "f/2.8",
+    "对焦": "3.3 feet to infinity, with four different settings, 4 ft., 8 ft., 17 ft. and infinity",
+    "快门速度": "1/90 sec., 1/45 sec. with flashcube",
+    "闪光灯": "Magicubes",
+    "电池": "RM-640 1.5 volt Mercury battery",
+    "尺寸": "4 5/8\" wide (118mm), 2 3/4\" high (71mm), 2/38\" thick (60.5mm)",
+    "重量": "11.6 oz. (330 g.) including battery and wrist strap",
+    "英文简介": "The Minolta Autopak was introduced by Minolta in 1972."
   },
   "images": [],
   "sources": [

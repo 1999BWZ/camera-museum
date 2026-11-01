@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears数码单反相机，1982 年发布",
-  "description": "Note: this article covers the manual-exposure KSX-1000; the KSX (no suffix) and KSX Super are different, autoexposure models.",
+  "description": "Sears于1982年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sears KSX-1000"
+    "Camera-wiki": "Sears KSX-1000",
+    "英文简介": "Note: this article covers the manual-exposure KSX-1000; the KSX (no suffix) and KSX Super are different, autoexposure models."
   },
   "images": [],
   "sources": [

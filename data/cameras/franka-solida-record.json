@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Franka折叠相机，1957 年发布",
-  "description": "A very simple and light folder camera, post-war built by Franka, \"Made in West Germany, US Zone\".",
+  "description": "Franka于1957年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Solida Record"
+    "Camera-wiki": "Solida Record",
+    "英文简介": "A very simple and light folder camera, post-war built by Franka, \"Made in West Germany, US Zone\"."
   },
   "images": [],
   "sources": [

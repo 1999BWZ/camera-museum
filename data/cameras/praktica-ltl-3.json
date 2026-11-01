@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片相机，1975 年发布",
-  "description": "The Praktica LTL3 is one of many version of the Praktica M42 cameras.",
+  "description": "潘泰康于1975年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica LTL 3"
+    "Camera-wiki": "Praktica LTL 3",
+    "英文简介": "The Praktica LTL3 is one of many version of the Praktica M42 cameras."
   },
   "images": [],
   "sources": [

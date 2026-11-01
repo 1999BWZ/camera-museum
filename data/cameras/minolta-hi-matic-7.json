@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1963 年发布",
-  "description": "In 1963 the Minolta HI-MATIC 7 succeeded the original Minolta Hi-Matic 35mm rangefinder camera.",
+  "description": "美能达于1963年推出的旁轴相机。配备6 lenses 1:1,8 f=45mm Rokkor。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic 7"
+    "Camera-wiki": "Minolta Hi-Matic 7",
+    "镜头": "6 lenses 1:1,8 f=45mm Rokkor",
+    "曝光测光": "CdS meter, EV 5.7 - EV 17",
+    "重量": "770 g",
+    "尺寸": "140×82×73mm",
+    "英文简介": "In 1963 the Minolta HI-MATIC 7 succeeded the original Minolta Hi-Matic 35mm rangefinder camera."
   },
   "images": [],
   "sources": [

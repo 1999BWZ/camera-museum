@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo取景器相机，1965 年发布",
-  "description": "The Rubi-Fex 4×4cm camera made in France by Fex, and its Rubi-Fex Automatic derivatives.",
+  "description": "Fex Indo于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rubi-Fex"
+    "Camera-wiki": "Rubi-Fex",
+    "英文简介": "The Rubi-Fex 4×4cm camera made in France by Fex, and its Rubi-Fex Automatic derivatives."
   },
   "images": [],
   "sources": [

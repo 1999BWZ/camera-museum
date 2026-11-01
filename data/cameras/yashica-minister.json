@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1960 年发布",
-  "description": "The original Yashica Minister is a 35mm rangefinder camera with built-in selenium meter made in Japan by Yashica starting in 1960.",
+  "description": "雅西卡于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Minister"
+    "Camera-wiki": "Yashica Minister",
+    "英文简介": "The original Yashica Minister is a 35mm rangefinder camera with built-in selenium meter made in Japan by Yashica starting in 1960."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "No-need-darkroom取景器相机，1937 年发布",
-  "description": "The Meiritto (メイリット), Meisupi (メイスピイ) and Meikai (メイカイ) are Japanese cameras made and sold by Tougodo before 1945.",
+  "description": "No-need-darkroom于1937年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Meiritto, Meisupi and Meikai"
+    "Camera-wiki": "Meiritto, Meisupi and Meikai",
+    "英文简介": "The Meiritto (メイリット), Meisupi (メイスピイ) and Meikai (メイカイ) are Japanese cameras made and sold by Tougodo before 1945."
   },
   "images": [],
   "sources": [

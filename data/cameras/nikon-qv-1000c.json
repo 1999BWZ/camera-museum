@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1988 年发布",
-  "description": "The QV-1000C is a filmless electronic camera announced by Nikon in 1988.",
+  "description": "尼康于1988年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon QV-1000C"
+    "Camera-wiki": "Nikon QV-1000C",
+    "英文简介": "The QV-1000C is a filmless electronic camera announced by Nikon in 1988."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Peace微型相机，1949 年发布",
-  "description": "__NOTOC__\n\nThe Peace Baby Flex is a Japanese subminiature pseudo TLR made in the late 1940s or early 1950s, using 17.5mm paper backed rollfilm.",
+  "description": "Peace于1949年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Peace Baby Flex"
+    "Camera-wiki": "Peace Baby Flex",
+    "英文简介": "__NOTOC__\n\nThe Peace Baby Flex is a Japanese subminiature pseudo TLR made in the late 1940s or early 1950s, using 17.5mm paper backed rollfilm."
   },
   "images": [],
   "sources": [

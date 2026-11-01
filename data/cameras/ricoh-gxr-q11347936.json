@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2009 年发布",
-  "description": "理光于2009年发布的数码相机。",
+  "description": "理光于2009年推出的数码相机。配备Ricoh GXR lens/sensor。快门速度| shutter_speeds =。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q11347936",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "传感器": "Varies (CCD in S10; CMOS in P10, A12 and A16 modules)",
+    "镜头": "Ricoh GXR lens/sensor",
+    "对焦": "Automatic",
+    "曝光测光": "| flash =",
+    "快门速度": "| shutter_speeds =",
+    "取景器": "| ovf =",
+    "屏幕": "; 920,000 pixels",
+    "电池": "Ricoh DB-90 3.6V",
+    "尺寸": "(body only, excluding projections)",
+    "重量": "(body only, excluding battery, memory card, strap)"
   },
   "images": [
     {

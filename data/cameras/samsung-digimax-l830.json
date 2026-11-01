@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星数码相机，2008 年发布",
-  "description": "The Samsung Digimax L830 is an entry level Digital compact launched by Samsung in 2008 Also known as the Vluu 830.",
+  "description": "三星于2008年推出的数码相机。配备3-5.6 lens。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samsung Digimax L830"
+    "Camera-wiki": "Samsung Digimax L830",
+    "镜头": "3-5.6 lens",
+    "英文简介": "The Samsung Digimax L830 is an entry level Digital compact launched by Samsung in 2008 Also known as the Vluu 830."
   },
   "images": [],
   "sources": [

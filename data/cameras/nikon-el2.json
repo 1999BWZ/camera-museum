@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，1977 年发布",
-  "description": "The Nikon EL2 is an aperture-priority automatic exposure 35mm SLR, replacing the Nikomat/Nikkormat ELW.",
+  "description": "尼康于1977年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon EL2"
+    "Camera-wiki": "Nikon EL2",
+    "英文简介": "The Nikon EL2 is an aperture-priority automatic exposure 35mm SLR, replacing the Nikomat/Nikkormat ELW."
   },
   "images": [],
   "sources": [

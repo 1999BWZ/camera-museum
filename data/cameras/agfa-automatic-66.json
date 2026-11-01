@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发旁轴相机，1956 年发布",
-  "description": "The Automatic 66 is an innovative coupled-rangefinder camera for 2¼-inch square (6x6cm) pictures on 120 film, made by Agfa in 1956.",
+  "description": "爱克发于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Automatic 66"
+    "Camera-wiki": "Automatic 66",
+    "英文简介": "The Automatic 66 is an innovative coupled-rangefinder camera for 2¼-inch square (6x6cm) pictures on 120 film, made by Agfa in 1956."
   },
   "images": [],
   "sources": [

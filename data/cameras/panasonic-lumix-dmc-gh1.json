@@ -13,11 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2009 年发布",
-  "description": "松下于2009年发布的便携相机。",
+  "description": "松下于2009年推出的便携相机。配备Micro Four Thirds System mount。快门速度| shutterRange = 60–1/4000 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q4353720",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "传感器": "18.89 × 14.48 mm Live MOS (17.3 x 13 usable in 4:3 aspect ratio)",
+    "镜头": "Micro Four Thirds System mount",
+    "快门速度": "| shutterRange = 60–1/4000 sec",
+    "曝光测光": "Intelligent Multiple (Center weighted, average and spot)",
+    "闪光灯": "Built-in pop up, TTL, GN 10.5m equivalent (ISO100 · m)"
   },
   "images": [
     {

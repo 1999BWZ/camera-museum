@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1996 年发布",
-  "description": "The Canon IX is an SLR camera for the APS film system, introduced in 1996.",
+  "description": "佳能于1996年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS IX"
+    "Camera-wiki": "Canon EOS IX",
+    "英文简介": "The Canon IX is an SLR camera for the APS film system, introduced in 1996."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1970 年发布",
-  "description": "The Polaroid Colorpack III is a rigid-bodied camera for type 100 instant film.",
+  "description": "宝丽来于1970年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Colorpack III"
+    "Camera-wiki": "Polaroid Colorpack III",
+    "英文简介": "The Polaroid Colorpack III is a rigid-bodied camera for type 100 instant film."
   },
   "images": [],
   "sources": [

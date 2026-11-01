@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片单反相机，1994 年发布",
-  "description": "The Vivitar V3000s and Vivitar V3000 are fully manual 35mm film SLR cameras marketed by Vivitar.",
+  "description": "Vivitar于1994年推出的胶片单反相机。快门速度1/2000 to 1 sec, Bulb。感光度25 - 3200。Horizontal split image with micro-prism collar。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar V3000"
+    "Camera-wiki": "Vivitar V3000",
+    "卡口": "Pentax K",
+    "感光度": "25 - 3200",
+    "快门": "Vertical travel, mechanical, metal focal plane shutter",
+    "快门速度": "1/2000 to 1 sec, Bulb",
+    "闪光灯": "Hot shoe, X-sync PC connector, 1/125",
+    "取景器": "eye-level pentaprism, 3 LED exposure display",
+    "对焦": "Horizontal split image with micro-prism collar",
+    "自拍": "mechanical, 10 sec delay",
+    "电池": "1.5v SR44, LR44 or equivalent (x2)",
+    "重量": "370 g (13 oz)",
+    "英文简介": "The Vivitar V3000s and Vivitar V3000 are fully manual 35mm film SLR cameras marketed by Vivitar."
   },
   "images": [],
   "sources": [

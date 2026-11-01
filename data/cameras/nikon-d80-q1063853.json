@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2006 年发布",
-  "description": "尼康于2006年发布的数码单反相机。",
+  "description": "尼康于2006年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electronically controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1063853",
-    "多语言词条数": "21"
+    "多语言词条数": "21",
+    "传感器": "23.6 mm × 15.8 mm Nikon DX format RGB CCD sensor, 1.5 × FOV crop",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL 3D Color Matrix Metering II metering with a 420-pixel RGB sensor",
+    "取景器": "Optical 0.94× Pentaprism",
+    "闪光灯": "Built in Pop-up, Guide number 13m at ISO 100, Standard ISO hotshoe, Compatible with the Nikon Creative Lighting System",
+    "屏幕": "TFT LCD, 230,000 pixels",
+    "重量": "Approx. without battery, memory card, body cap, or monitor cover"
   },
   "images": [
     {

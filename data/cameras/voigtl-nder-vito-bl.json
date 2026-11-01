@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1956 年发布",
-  "description": "The Voigtländer Vito BL was fixed lens camera introduced in 1956, and produced up until 1960.",
+  "description": "Voigtländer于1956年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito BL"
+    "Camera-wiki": "Vito BL",
+    "英文简介": "The Voigtländer Vito BL was fixed lens camera introduced in 1956, and produced up until 1960."
   },
   "images": [],
   "sources": [

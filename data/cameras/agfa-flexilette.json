@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发胶片单反相机，1960 年发布",
-  "description": "The Flexilette (also sold as the Agfa Reflex, as in the lower picture here) is an unusual TLR camera for 35mm film produced by Agfa in about 1960-61.",
+  "description": "爱克发于1960年推出的胶片单反相机。配备Apotar 45mm f/2.8 (stopping to f/22), focus to 3 ft。快门速度Prontor Special leaf shutter, 1 to 1/500 second + B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Flexilette"
+    "Camera-wiki": "Flexilette",
+    "镜头": "Apotar 45mm f/2.8 (stopping to f/22), focus to 3 ft",
+    "快门": "Prontor Special leaf shutter, 1 to 1/500 second + B",
+    "英文简介": "The Flexilette (also sold as the Agfa Reflex, as in the lower picture here) is an unusual TLR camera for 35mm film produced by Agfa in about 1960-61."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee胶片单反相机，1936 年发布",
-  "description": "See the article Exakta Kine and Varex Series for the full series of 35mm Exakta (Exacta) cameras.",
+  "description": "Ihagee于1936年推出的胶片单反相机。快门速度textile focal plane shutter with speeds 12 sec. to 1/1000 sec.。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kine Exakta"
+    "Camera-wiki": "Kine Exakta",
+    "胶片/画幅": "35mm",
+    "卡口": "Ihagee bayonet (=Exakta bayonet)",
+    "快门": "textile focal plane shutter with speeds 12 sec. to 1/1000 sec.",
+    "取景器": "screen loupe over the mirror, additional loupe on top of collapsible light well",
+    "尺寸": "150×82×50mm",
+    "重量": "720g (body only)",
+    "英文简介": "See the article Exakta Kine and Varex Series for the full series of 35mm Exakta (Exacta) cameras."
   },
   "images": [],
   "sources": [

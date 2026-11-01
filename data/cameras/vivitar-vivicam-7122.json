@@ -1,0 +1,32 @@
+{
+  "id": "vivitar-vivicam-7122",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "ViviCam 7122",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar数码相机，2012 年发布",
+  "description": "Vivitar于2012年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7937826",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – ViviCam 7122",
+      "url": "https://www.wikidata.org/wiki/Q7937826"
+    }
+  ],
+  "qid": "Q7937826",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

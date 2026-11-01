@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun取景器相机，1951 年发布",
-  "description": "The Paxette cameras are a line of viewfinder and rangefinder cameras made by the Braun company in Nuremberg, Germany in the 1950s.",
+  "description": "Braun于1951年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Paxette"
+    "Camera-wiki": "Paxette",
+    "英文简介": "The Paxette cameras are a line of viewfinder and rangefinder cameras made by the Braun company in Nuremberg, Germany in the 1950s."
   },
   "images": [],
   "sources": [

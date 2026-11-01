@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯无反相机，2010 年发布",
-  "description": "奥林巴斯于2010年发布的无反相机。",
+  "description": "奥林巴斯于2010年推出的无反相机。配备Micro Four Thirds system mount。快门速度1/2,000 to 60 s – 30 minutes bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q4045740",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "传感器": "Four Thirds system 17.3 × 13.0 mm Live MOS",
+    "镜头": "Micro Four Thirds system mount",
+    "快门速度": "1/2,000 to 60 s – 30 minutes bulb",
+    "闪光灯": "Yes, also hot shoe allows for a variety of external flashes",
+    "曝光测光": "| emode = Program, shutter-priority, aperture-priority, manual",
+    "取景器": "live preview",
+    "屏幕": "2.7\" 230,000 pixel TFT LCD on screen with live preview",
+    "存储": "Secure Digital card",
+    "电池": "BLS-1 - Li-ion 7,2V 1150mAh",
+    "尺寸": "115 × 72 × 42 mm"
   },
   "images": [
     {

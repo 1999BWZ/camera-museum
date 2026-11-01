@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来便携相机，1972 年发布",
-  "description": "The Rollei A 26 was the most compact of the better cameras for type No.",
+  "description": "禄来于1972年推出的便携相机。配备Carl Zeiss Sonnar 40mm/F3.5, 4 elements in 4 groups。使用28x28mm frame size, 126 cartridge。感光度50-400 ASA。1 m - infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei A 26"
+    "Camera-wiki": "Rollei A 26",
+    "镜头": "Carl Zeiss Sonnar 40mm/F3.5, 4 elements in 4 groups",
+    "对焦": "1 m - infinity",
+    "胶片/画幅": "28x28mm frame size, 126 cartridge",
+    "感光度": "50-400 ASA",
+    "曝光测光": "CdS exposure meter, F3.5 at 1/30 sec to F22 at 1/250 sec",
+    "英文简介": "The Rollei A 26 was the most compact of the better cameras for type No."
   },
   "images": [],
   "sources": [

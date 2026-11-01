@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Embassy盒式相机，1935 年发布",
-  "description": "The Embassy Box No.2 is a box camera for 2¼x3¼-inch exposures on 120 film, made by Coronet in the 1930s; p222.",
+  "description": "Embassy于1935年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Embassy Box No.2"
+    "Camera-wiki": "Embassy Box No.2",
+    "英文简介": "The Embassy Box No.2 is a box camera for 2¼x3¼-inch exposures on 120 film, made by Coronet in the 1930s; p222."
   },
   "images": [],
   "sources": [

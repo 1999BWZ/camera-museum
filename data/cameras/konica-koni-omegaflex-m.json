@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1968 年发布",
-  "description": "The Koni-Omegaflex M is a 6x7cm TLR press camera system with exchangeable lens board, finders and film magazines.",
+  "description": "柯尼卡于1968年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Koni-Omegaflex M"
+    "Camera-wiki": "Koni-Omegaflex M",
+    "英文简介": "The Koni-Omegaflex M is a 6x7cm TLR press camera system with exchangeable lens board, finders and film magazines."
   },
   "images": [],
   "sources": [

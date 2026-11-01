@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Eho-Altissa胶片相机，1937 年发布",
-  "description": "{| class=\"floatright plainlinks\" style=\"margin:0px 0px 10px 15px; text-align:center;\"\n|\n\n|\n\n|-\n|colspan=2 |Altiflex I, with a Rodenstock f/4.5 Trinar in a Prontor II shutter to 1/175 second.",
+  "description": "Eho-Altissa于1937年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Altiflex"
+    "Camera-wiki": "Altiflex",
+    "英文简介": "{| class=\"floatright plainlinks\" style=\"margin:0px 0px 10px 15px; text-align:center;\"\n|\n\n|\n\n|-\n|colspan=2 |Altiflex I, with a Rodenstock f/4.5 Trinar in a Prontor II shutter to 1/175 second."
   },
   "images": [],
   "sources": [

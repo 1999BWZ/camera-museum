@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2012 年发布",
-  "description": "The Sony Alpha NEX-6 is the only 16 megapixel CSC with built-in EVF in the Sony α system.",
+  "description": "索尼于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Alpha NEX-6"
+    "Camera-wiki": "Sony Alpha NEX-6",
+    "英文简介": "The Sony Alpha NEX-6 is the only 16 megapixel CSC with built-in EVF in the Sony α system."
   },
   "images": [],
   "sources": [

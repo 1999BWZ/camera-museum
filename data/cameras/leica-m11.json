@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2022 年发布",
-  "description": "徕卡于2022年发布的旁轴相机。",
+  "description": "徕卡于2022年推出的旁轴相机。配备| shutter = Focal plane, metal curtains, vertical travel。快门速度60 m to 1/16000 s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q110639780",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "传感器": "image sensor, 6.8 μm pixel size",
+    "镜头": "| shutter = Focal plane, metal curtains, vertical travel",
+    "快门速度": "60 m to 1/16000 s",
+    "曝光测光": "TTL, spot, center weighted averaging, matrix",
+    "闪光灯": "Fixed hot shoe",
+    "屏幕": "| storage = 64 GB internal storage, one SDXC card slot",
+    "电池": "Lithium ion, BP-SCL7",
+    "重量": "with battery (M11)"
   },
   "images": [
     {

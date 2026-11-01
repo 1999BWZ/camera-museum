@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "蔡司胶片相机，1930 年发布",
-  "description": "The Kolibri 523/18The name means 'hummingbird' in German.",
+  "description": "蔡司于1930年推出的胶片相机。快门速度Compur (1-1/300s + T & B) or Telma (1/25, 1/50, 1/100 + B & T)。使用127, 16 3x4cm images。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zeiss Ikon Kolibri"
+    "Camera-wiki": "Zeiss Ikon Kolibri",
+    "快门": "Compur (1-1/300s + T & B) or Telma (1/25, 1/50, 1/100 + B & T)",
+    "胶片/画幅": "127, 16 3x4cm images",
+    "英文简介": "The Kolibri 523/18The name means 'hummingbird' in German."
   },
   "images": [],
   "sources": [

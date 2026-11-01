@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1992 年发布",
-  "description": "The Canon Snappy LX (Prima BF for \"Big Finder\" in Europe, BF 35 in Japan) of March 1992 is a 35mm compact camera for budget-conscious photographers, part of the Canon Snappy series.",
+  "description": "佳能于1992年推出的取景器相机。配备35mm, f/4.5 (3 elements in 3 groups).。快门速度1/45s, 1/60s, 1/250s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Snappy LX/Prima BF/BF 35"
+    "Camera-wiki": "Canon Snappy LX/Prima BF/BF 35",
+    "镜头": "35mm, f/4.5 (3 elements in 3 groups).",
+    "快门速度": "1/45s, 1/60s, 1/250s.",
+    "闪光灯": "10m at ISO 100).",
+    "英文简介": "The Canon Snappy LX (Prima BF for \"Big Finder\" in Europe, BF 35 in Japan) of March 1992 is a 35mm compact camera for budget-conscious photographers, part of the Canon Snappy series."
   },
   "images": [],
   "sources": [

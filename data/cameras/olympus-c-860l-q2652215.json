@@ -1,0 +1,32 @@
+{
+  "id": "olympus-c-860l-q2652215",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "C-860L",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2000 年发布",
+  "description": "奥林巴斯于2000年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2652215",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus C-860L",
+      "url": "https://www.wikidata.org/wiki/Q2652215"
+    }
+  ],
+  "qid": "Q2652215",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

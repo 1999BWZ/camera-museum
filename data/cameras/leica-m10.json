@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2017 年发布",
-  "description": "徕卡于2017年发布的旁轴相机。",
+  "description": "徕卡于2017年推出的旁轴相机。配备Leica M-mount。快门速度Focal plane, metal curtains, vertical travel。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q28451169",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "传感器": "image sensor",
+    "镜头": "Leica M-mount",
+    "快门速度": "Focal plane, metal curtains, vertical travel",
+    "曝光测光": "Multi, centre weighted, spot",
+    "闪光灯": "Fixed hot shoe",
+    "屏幕": "| vidrecord = No",
+    "存储": "SD, SDHC, SDXC",
+    "电池": "BP-SCL5 lithium-ion battery",
+    "重量": "(incl. battery)"
   },
   "images": [
     {

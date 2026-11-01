@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码相机，1997 年发布",
-  "description": "The Vivitar ViviCam 3000 is a digital camera released in 1997.",
+  "description": "Vivitar于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar ViviCam 3000"
+    "Camera-wiki": "Vivitar ViviCam 3000",
+    "英文简介": "The Vivitar ViviCam 3000 is a digital camera released in 1997."
   },
   "images": [],
   "sources": [

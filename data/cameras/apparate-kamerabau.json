@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Apparate立体相机，1959 年发布",
-  "description": "Apparate und Kamerabau GmbH was a camera manufacturer based in Friedrichshafen, Germany.",
+  "description": "Apparate于1959年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Apparate & Kamerabau"
+    "Camera-wiki": "Apparate & Kamerabau",
+    "英文简介": "Apparate und Kamerabau GmbH was a camera manufacturer based in Friedrichshafen, Germany."
   },
   "images": [],
   "sources": [

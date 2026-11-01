@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1995 年发布",
-  "description": "Compact viewfinder camera, full automatic exposure and focus.",
+  "description": "柯尼卡于1995年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Z-up 135 Super"
+    "Camera-wiki": "Konica Z-up 135 Super",
+    "英文简介": "Compact viewfinder camera, full automatic exposure and focus."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cornu立体相机，1924 年发布",
-  "description": "Stereo cameras made by the French company Cornu.",
+  "description": "Cornu于1924年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ontoscope"
+    "Camera-wiki": "Ontoscope",
+    "英文简介": "Stereo cameras made by the French company Cornu."
   },
   "images": [],
   "sources": [

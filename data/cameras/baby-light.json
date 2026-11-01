@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Baby取景器相机，1936 年发布",
-  "description": "The Baby Light (ベビー・ライト) is a Japanese 3×4 camera using 127 film, made by Ōhashi Kōki Seisakusho and distributed by Ōhashi Takeji Shōten in 1936 and 1937.",
+  "description": "Baby于1936年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Light"
+    "Camera-wiki": "Baby Light",
+    "英文简介": "The Baby Light (ベビー・ライト) is a Japanese 3×4 camera using 127 film, made by Ōhashi Kōki Seisakusho and distributed by Ōhashi Takeji Shōten in 1936 and 1937."
   },
   "images": [],
   "sources": [

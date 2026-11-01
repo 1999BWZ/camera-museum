@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rochester大画幅相机，1900 年发布",
-  "description": "The Korona View Camera is a wooden field camera made by Gundlach in Rochester, N.Y..",
+  "description": "Rochester于1900年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Korona View Camera"
+    "Camera-wiki": "Korona View Camera",
+    "英文简介": "The Korona View Camera is a wooden field camera made by Gundlach in Rochester, N.Y.."
   },
   "images": [],
   "sources": [

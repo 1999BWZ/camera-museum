@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，1999 年发布",
-  "description": "The PowerShot A50 is a digital camera from Canon released in 1999.",
+  "description": "佳能于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A50"
+    "Camera-wiki": "Canon PowerShot A50",
+    "英文简介": "The PowerShot A50 is a digital camera from Canon released in 1999."
   },
   "images": [],
   "sources": [

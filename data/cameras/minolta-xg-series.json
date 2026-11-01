@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1977 年发布",
-  "description": "The Minolta XG cameras are 35mm SLRs of the Minolta SR system, sold from 1977 to 1984.",
+  "description": "美能达于1977年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta XG series"
+    "Camera-wiki": "Minolta XG series",
+    "英文简介": "The Minolta XG cameras are 35mm SLRs of the Minolta SR system, sold from 1977 to 1984."
   },
   "images": [],
   "sources": [

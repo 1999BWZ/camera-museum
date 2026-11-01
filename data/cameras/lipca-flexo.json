@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lipca盒式相机，1948 年发布",
-  "description": "{|class=floatleft\n|\n&nbsp;\n|}\nThe Flexo is a German TLR made by Lipca.",
+  "description": "Lipca于1948年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Flexo"
+    "Camera-wiki": "Flexo",
+    "英文简介": "{|class=floatleft\n|\n&nbsp;\n|}\nThe Flexo is a German TLR made by Lipca."
   },
   "images": [],
   "sources": [

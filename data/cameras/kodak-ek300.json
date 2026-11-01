@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1978 年发布",
-  "description": "A more sophisticated model of the Kodak instant film cameras.",
+  "description": "柯达于1978年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EK300"
+    "Camera-wiki": "Kodak EK300",
+    "英文简介": "A more sophisticated model of the Kodak instant film cameras."
   },
   "images": [],
   "sources": [

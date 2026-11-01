@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码相机，2006 年发布",
-  "description": "The Leica C-Lux 1 is identical to Panasonic DMC-FX01 and features 28mm (35mm equiv.) wide-angle 3.6x zoom lens with optical image stabilizer, but are reported to produce noisy images.",
+  "description": "徕卡于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica C-Lux 1"
+    "Camera-wiki": "Leica C-Lux 1",
+    "英文简介": "The Leica C-Lux 1 is identical to Panasonic DMC-FX01 and features 28mm (35mm equiv.) wide-angle 3.6x zoom lens with optical image stabilizer, but are reported to produce noisy images."
   },
   "images": [],
   "sources": [

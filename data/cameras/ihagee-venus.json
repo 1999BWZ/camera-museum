@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee折叠相机，1920 年发布",
-  "description": "The Ihagee Venus and the Venus 610 was a folding camera made by Ihagee in Dresden.",
+  "description": "Ihagee于1920年推出的折叠相机。配备Ihagee Triplex Anastigmat 1:4.5 / 10.5 cm。快门速度Ibsor, speeds 1 sec. to 1/125 sec.。使用6.5×9cm plates。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ihagee Venus"
+    "Camera-wiki": "Ihagee Venus",
+    "胶片/画幅": "6.5×9cm plates",
+    "镜头": "Ihagee Triplex Anastigmat 1:4.5 / 10.5 cm",
+    "快门": "Ibsor, speeds 1 sec. to 1/125 sec.",
+    "光圈": "1:4.5 to 1:36",
+    "英文简介": "The Ihagee Venus and the Venus 610 was a folding camera made by Ihagee in Dresden."
   },
   "images": [],
   "sources": [

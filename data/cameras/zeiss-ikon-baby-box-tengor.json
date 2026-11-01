@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon盒式相机，1931 年发布",
-  "description": "The first version Baby-Box 54/18 was introduced in 1931, a metal box camera for type No.",
+  "description": "Zeiss Ikon于1931年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Box Tengor"
+    "Camera-wiki": "Baby Box Tengor",
+    "英文简介": "The first version Baby-Box 54/18 was introduced in 1931, a metal box camera for type No."
   },
   "images": [],
   "sources": [

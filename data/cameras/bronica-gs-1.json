@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "勃朗尼卡胶片单反相机，1983 年发布",
-  "description": "__NOTOC__\nIntroduced in March 1983Shashin Kōgyō (Photographic Industries) Vol.",
+  "description": "勃朗尼卡于1983年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bronica GS-1"
+    "Camera-wiki": "Bronica GS-1",
+    "重量": "630g",
+    "英文简介": "__NOTOC__\nIntroduced in March 1983Shashin Kōgyō (Photographic Industries) Vol."
   },
   "images": [],
   "sources": [

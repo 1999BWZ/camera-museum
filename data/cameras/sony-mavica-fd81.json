@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，1998 年发布",
-  "description": "The MVC-FD81 is the middle model in the second generation of digital Mavica cameras from Sony, all of which use standard 3.5\" computer floppy disks for image storage.",
+  "description": "索尼于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD81"
+    "Camera-wiki": "Sony Mavica FD81",
+    "英文简介": "The MVC-FD81 is the middle model in the second generation of digital Mavica cameras from Sony, all of which use standard 3.5\" computer floppy disks for image storage."
   },
   "images": [],
   "sources": [

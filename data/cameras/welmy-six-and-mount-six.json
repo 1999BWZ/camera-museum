@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welmy折叠相机，1951 年发布",
-  "description": "The Welmy Six are viewfinder-only 6×6cm folding cameras made by Taisei Kōki.",
+  "description": "Welmy于1951年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Welmy Six and Mount Six"
+    "Camera-wiki": "Welmy Six and Mount Six",
+    "英文简介": "The Welmy Six are viewfinder-only 6×6cm folding cameras made by Taisei Kōki."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达胶片单反相机，1915 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Kodak Vest Pocket Autographic was a \"vest pocket\" strut folding camera advertised as \"The Soldier's camera\" during WWI, which added the Autographic feature to the 1912 Vest Pocket Kodak.",
+  "description": "柯达于1915年推出的胶片单反相机。配备Single element meniscus or rapid rectilinear。快门速度Kodak ball bearing shutter. Speeds 1/25th, 1/50th, B and T。使用8 exposures on 127 film (4cm x 6.5cm)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak vest pocket autographic"
+    "Camera-wiki": "Kodak vest pocket autographic",
+    "胶片/画幅": "8 exposures on 127 film (4cm x 6.5cm)",
+    "镜头": "Single element meniscus or rapid rectilinear",
+    "快门": "Kodak ball bearing shutter. Speeds 1/25th, 1/50th, B and T",
+    "尺寸": "Including case 13cm x 8cm x 3cm",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Kodak Vest Pocket Autographic was a \"vest pocket\" strut folding camera advertised as \"The Soldier's camera\" during WWI, which added the Autographic feature to the 1912 Vest Pocket Kodak."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码相机，2002 年发布",
-  "description": "Note: The 2002 Digilux should not be confused with the earlier Leica Digilux, which had a vertically-oriented body and a non-zooming lens.",
+  "description": "徕卡于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica Digilux 1"
+    "Camera-wiki": "Leica Digilux 1",
+    "英文简介": "Note: The 2002 Digilux should not be confused with the earlier Leica Digilux, which had a vertically-oriented body and a non-zooming lens."
   },
   "images": [],
   "sources": [

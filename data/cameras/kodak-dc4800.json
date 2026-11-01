@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，2000 年发布",
-  "description": "{|class=floatleft\n|\n\n|\n\n|\n\n|-\n|colspan=3 align=center | Kodak DC4800 images by \n |}\n\nThe Kodak DC4800 was introduced in 2000 and was made in Japan for Kodak USA.",
+  "description": "柯达于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "DC4800"
+    "Camera-wiki": "DC4800",
+    "尺寸": "120 x 69 x 65 mm",
+    "英文简介": "{|class=floatleft\n|\n\n|\n\n|\n\n|-\n|colspan=3 align=center | Kodak DC4800 images by \n |}\n\nThe Kodak DC4800 was introduced in 2000 and was made in Japan for Kodak USA."
   },
   "images": [],
   "sources": [

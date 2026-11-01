@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "哈苏中画幅相机，1965 年发布",
-  "description": "The 500 EL was introduced by Hasselblad in 1965—essentially a 500 C with a permanently-integrated motor drive in the baseplate of the camera.",
+  "description": "哈苏于1965年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hasselblad 500 EL"
+    "Camera-wiki": "Hasselblad 500 EL",
+    "英文简介": "The 500 EL was introduced by Hasselblad in 1965—essentially a 500 C with a permanently-integrated motor drive in the baseplate of the camera."
   },
   "images": [],
   "sources": [

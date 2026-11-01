@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2003 年发布",
-  "description": "The HP PhotoSmart 945 is a 5.3 megapixel compact digital camera released in 2003.",
+  "description": "Hewlett-Packard于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart 945"
+    "Camera-wiki": "HP PhotoSmart 945",
+    "英文简介": "The HP PhotoSmart 945 is a 5.3 megapixel compact digital camera released in 2003."
   },
   "images": [],
   "sources": [

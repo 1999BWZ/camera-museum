@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sisley旁轴相机，1954 年发布",
-  "description": "The Sisley (シスレー, shisurē) Model-1, released around May 1954, was the first product of the newly renamed Takane Kōgaku, whose previous cameras had been the Daido Six and Daido Semi.",
+  "description": "Sisley于1954年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sisley 1 and Balm Six"
+    "Camera-wiki": "Sisley 1 and Balm Six",
+    "英文简介": "The Sisley (シスレー, shisurē) Model-1, released around May 1954, was the first product of the newly renamed Takane Kōgaku, whose previous cameras had been the Daido Six and Daido Semi."
   },
   "images": [],
   "sources": [

@@ -1,0 +1,40 @@
+{
+  "id": "light-light-l16",
+  "brand": "Light（公司）",
+  "brand_cn": "",
+  "brand_slug": "light",
+  "country": "待补充",
+  "manufacturer": "Light（公司）",
+  "model": "Light L16",
+  "year": 2017,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Light（公司）胶片相机，2017 年发布",
+  "description": "Light（公司）于2017年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q59736972",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Light%2016%20in%20Mirror.jpg?width=800",
+      "caption": "Light L16",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q59736972"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Light L16",
+      "url": "https://www.wikidata.org/wiki/Q59736972"
+    }
+  ],
+  "qid": "Q59736972",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

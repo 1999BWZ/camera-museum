@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1976 年发布",
-  "description": "The Rollei E110 is the \"budget\" version of the Rollei A110.",
+  "description": "禄来于1976年推出的胶片相机。配备Rollei Tessar f=23mm f/2.8 - f/16 (focusing 1 meter to infinity)。快门速度electronically controlled Rollei-Prontor leaf shutter (continuous speeds from 4 - 1/250 sec.)。使用Type 110 cartridges for 16mm film (13x17mm image) with speeds of 100 or 400 ASA selected by film cartridge notch。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei E110"
+    "Camera-wiki": "Rollei E110",
+    "胶片/画幅": "Type 110 cartridges for 16mm film (13x17mm image) with speeds of 100 or 400 ASA selected by film cartridge notch",
+    "镜头": "Rollei Tessar f=23mm f/2.8 - f/16 (focusing 1 meter to infinity)",
+    "快门": "electronically controlled Rollei-Prontor leaf shutter (continuous speeds from 4 - 1/250 sec.)",
+    "曝光测光": "CdS photo-resistor measures light for aperture-priority automatic exposure (manually set aperture)",
+    "尺寸": "84×44×30mm (closed, length 100 mm when opened)",
+    "重量": "185 g / 6½ oz. with battery",
+    "英文简介": "The Rollei E110 is the \"budget\" version of the Rollei A110."
   },
   "images": [
     {

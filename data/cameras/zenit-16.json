@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zenit胶片单反相机，1973 年发布",
-  "description": "The Zenit 16 is a 35mm SLR camera made by KMZ from 1974-76.[http://www.zenitcamera.com/archive/zenit-16/index.html Zenit 16] camera series (in Russian), at [http://www.zenitcamera.com/index.html Zenitcamera.com], being archive material from KMZ.",
+  "description": "Zenit于1973年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 16"
+    "Camera-wiki": "Zenit 16",
+    "英文简介": "The Zenit 16 is a 35mm SLR camera made by KMZ from 1974-76.[http://www.zenitcamera.com/archive/zenit-16/index.html Zenit 16] camera series (in Russian), at [http://www.zenitcamera.com/index.html Zenitcamera.com], being archive material from KMZ."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee胶片相机，1924 年发布",
-  "description": "Folding reflex camera format 6.5 x 9 made by the German company Ihagee.",
+  "description": "Ihagee于1924年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Patent-Klapp-Reflex"
+    "Camera-wiki": "Patent-Klapp-Reflex",
+    "英文简介": "Folding reflex camera format 6.5 x 9 made by the German company Ihagee."
   },
   "images": [],
   "sources": [

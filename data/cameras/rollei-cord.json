@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1933 年发布",
-  "description": "Rolleicord is the name of the less costly TLR cameras manufactured by Franke & Heidecke, now Rollei GmbH, in Germany.",
+  "description": "禄来于1933年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleicord"
+    "Camera-wiki": "Rolleicord",
+    "英文简介": "Rolleicord is the name of the less costly TLR cameras manufactured by Franke & Heidecke, now Rollei GmbH, in Germany."
   },
   "images": [],
   "sources": [

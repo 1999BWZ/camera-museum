@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ferrania取景器相机，1960 年发布",
-  "description": "Lince was a line of 35mm viewfinder cameras made in Germany by Dacora for Ferrania.",
+  "description": "Ferrania于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ferrania Lince"
+    "Camera-wiki": "Ferrania Lince",
+    "英文简介": "Lince was a line of 35mm viewfinder cameras made in Germany by Dacora for Ferrania."
   },
   "images": [],
   "sources": [

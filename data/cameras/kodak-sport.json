@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1985 年发布",
-  "description": "Kodak Sport is a 1980s-era camera made in Brazil, and which takes 110 film.",
+  "description": "柯达于1985年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Sport"
+    "Camera-wiki": "Kodak Sport",
+    "英文简介": "Kodak Sport is a 1980s-era camera made in Brazil, and which takes 110 film."
   },
   "images": [],
   "sources": [

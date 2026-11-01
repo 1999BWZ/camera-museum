@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1917 年发布",
-  "description": "Camera produced by the German company Ernemann.",
+  "description": "Ernemann于1917年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tropen Heag XI"
+    "Camera-wiki": "Tropen Heag XI",
+    "英文简介": "Camera produced by the German company Ernemann."
   },
   "images": [],
   "sources": [

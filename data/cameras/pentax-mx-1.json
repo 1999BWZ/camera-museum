@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2013 年发布",
-  "description": "The MX-1 is a digital camera produced by Pentax Ricoh Imaging in 2013.",
+  "description": "宾得于2013年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MX-1"
+    "Camera-wiki": "Pentax MX-1",
+    "英文简介": "The MX-1 is a digital camera produced by Pentax Ricoh Imaging in 2013."
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears胶片单反相机，1980 年发布",
-  "description": "Note: this article describes the first Sears KSX model; the KSX-P, KSX 1000, and KSX Super are all different cameras.",
+  "description": "Sears于1980年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sears KSX"
+    "Camera-wiki": "Sears KSX",
+    "英文简介": "Note: this article describes the first Sears KSX model; the KSX-P, KSX 1000, and KSX Super are all different cameras."
   },
   "images": [
     {

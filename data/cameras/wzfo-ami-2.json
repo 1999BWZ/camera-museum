@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "WZFO取景器相机，1965 年发布",
-  "description": "The Ami 2 is a toy viewfinder camera made of plastic and issued from 1965 to 1969 by the Polish firm Warszawskie Zakłady Fotooptyczne (WZFO).",
+  "description": "WZFO于1965年推出的取景器相机。配备fixed, achromatic (two elements in one group), 75 mm 1:8。快门速度two leaf everset shutter, 1/30 s, 1/60 s, 1/125 s and B shutter speeds。使用manual, with red window。two zone focusing from 2.5 m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ami 2"
+    "Camera-wiki": "Ami 2",
+    "尺寸": "56x56 mm (120 film type)",
+    "胶片/画幅": "manual, with red window",
+    "镜头": "fixed, achromatic (two elements in one group), 75 mm 1:8",
+    "对焦": "two zone focusing from 2.5 m to infinity",
+    "光圈": "1:8, 1:16",
+    "快门": "two leaf everset shutter, 1/30 s, 1/60 s, 1/125 s and B shutter speeds",
+    "闪光灯": "flashbulbs - 1/30 s, electronic flash - full",
+    "英文简介": "The Ami 2 is a toy viewfinder camera made of plastic and issued from 1965 to 1969 by the Polish firm Warszawskie Zakłady Fotooptyczne (WZFO)."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kunik微型相机，1960 年发布",
-  "description": "The Tuximat is a subminiature viewfinder camera made in 1960 by Walter Kunik in Frankfurt/Main, Germany.",
+  "description": "Kunik于1960年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kunik Tuximat"
+    "Camera-wiki": "Kunik Tuximat",
+    "英文简介": "The Tuximat is a subminiature viewfinder camera made in 1960 by Walter Kunik in Frankfurt/Main, Germany."
   },
   "images": [],
   "sources": [

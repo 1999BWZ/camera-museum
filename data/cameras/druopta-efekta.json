@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Druopta取景器相机，1950 年发布",
-  "description": "The Efekta was a Czech Bakelite camera made in Prague by Druopta c.1950.",
+  "description": "Druopta于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Druopta Efekta"
+    "Camera-wiki": "Druopta Efekta",
+    "英文简介": "The Efekta was a Czech Bakelite camera made in Prague by Druopta c.1950."
   },
   "images": [],
   "sources": [

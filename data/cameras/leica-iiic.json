@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1940 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\n\nThe Leica IIIc is a 35mm rangefinder camera introduced by Leica in 1940.",
+  "description": "徕卡于1940年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica IIIc"
+    "Camera-wiki": "Leica IIIc",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\n\nThe Leica IIIc is a 35mm rangefinder camera introduced by Leica in 1940."
   },
   "images": [],
   "sources": [

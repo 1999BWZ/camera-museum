@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1982 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\n35mm SLR produced by Ricoh that uses Pentax's K mount.",
+  "description": "理光于1982年推出的胶片单反相机。快门速度in automatic mode 1sec to 1/1000sec, bulb.。感光度12-3200 ASA.。Diagonal split image focusing spot.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh XR 500 Auto"
+    "Camera-wiki": "Ricoh XR 500 Auto",
+    "快门": "vertical moving electronically controlled metal focal plane shutter.",
+    "快门速度": "in automatic mode 1sec to 1/1000sec, bulb.",
+    "卡口": "K mount.",
+    "对焦": "Diagonal split image focusing spot.",
+    "曝光测光": "TTL full open metering for center-weighted average light reading with automatic exposure coupled to f-stops.",
+    "感光度": "12-3200 ASA.",
+    "闪光灯": "Hotshoe (X contact) or PC sync.",
+    "重量": "455grams.",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\n35mm SLR produced by Ricoh that uses Pentax's K mount."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kinax折叠相机，1946 年发布",
-  "description": "The Kinax II is a folding camera for type No.",
+  "description": "Kinax于1946年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kinax II"
+    "Camera-wiki": "Kinax II",
+    "英文简介": "The Kinax II is a folding camera for type No."
   },
   "images": [],
   "sources": [

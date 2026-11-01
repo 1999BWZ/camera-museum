@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1986 年发布",
-  "description": "The 5000i belonged to the second camera body generation of Minolta's 35mm autofocus SLR system.",
+  "description": "美能达于1986年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 5000i"
+    "Camera-wiki": "Minolta Dynax 5000i",
+    "尺寸": "148×97×65 mm",
+    "重量": "500g",
+    "英文简介": "The 5000i belonged to the second camera body generation of Minolta's 35mm autofocus SLR system."
   },
   "images": [],
   "sources": [

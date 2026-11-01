@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1998 年发布",
-  "description": "This camera was built in 1998 by Kyocera Corporation, Japan.",
+  "description": "雅西卡于1998年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Samurai 4000iX"
+    "Camera-wiki": "Yashica Samurai 4000iX",
+    "英文简介": "This camera was built in 1998 by Kyocera Corporation, Japan."
   },
   "images": [
     {

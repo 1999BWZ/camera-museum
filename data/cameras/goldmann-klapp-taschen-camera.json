@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goldmann折叠相机，1902 年发布",
-  "description": "The Klapp-Taschen-Camera, from the early 20th century, is a wooden-bodied strut-folding camera with nickel-plated metalwork and a leather bellows with a single, broad pleat.",
+  "description": "Goldmann于1902年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Goldmann Klapp-Taschen-Camera"
+    "Camera-wiki": "Goldmann Klapp-Taschen-Camera",
+    "英文简介": "The Klapp-Taschen-Camera, from the early 20th century, is a wooden-bodied strut-folding camera with nickel-plated metalwork and a leather bellows with a single, broad pleat."
   },
   "images": [],
   "sources": [

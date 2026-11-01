@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer旁轴相机，1960 年发布",
-  "description": "{|\n|\n\n|\n\n|}\nThe Voigtländer Vitomatic IIa is a compact heavyweight among rangefinder cameras.",
+  "description": "Voigtländer于1960年推出的旁轴相机。配备Voigtländer Color-Skopar 1:2.8/50mm or 1:3.5/50mm, or Ultron 1:2/50mm。快门速度Prontor SLK-V (with M-sync) or Prontor 500 SLK-V (without M-sync), with speeds 1 sec. to 1/500 sec. plus B。使用35mm with speeds 12 to 800 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitomatic IIa"
+    "Camera-wiki": "Vitomatic IIa",
+    "胶片/画幅": "35mm with speeds 12 to 800 ASA",
+    "镜头": "Voigtländer Color-Skopar 1:2.8/50mm or 1:3.5/50mm, or Ultron 1:2/50mm",
+    "快门": "Prontor SLK-V (with M-sync) or Prontor 500 SLK-V (without M-sync), with speeds 1 sec. to 1/500 sec. plus B",
+    "英文简介": "{|\n|\n\n|\n\n|}\nThe Voigtländer Vitomatic IIa is a compact heavyweight among rangefinder cameras."
   },
   "images": [],
   "sources": [

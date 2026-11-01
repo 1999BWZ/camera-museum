@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1971 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n* Type: rangefinder camera\n* Manufacturer: Minolta\n* Year of release: 1971\n* Films: 35mm films of 25 ASA upto 500 ASA film speed\n* Lens: 1:1,7/40mm Rokkor\n* Exposure: CdS-meter programmed autoexposure; meter window within the filter connection ring\n* Shutter: Seiko shu",
+  "description": "美能达于1971年推出的旁轴相机。配备1:1,7/40mm Rokkor。快门速度Seiko shutter controlled by meter: EV0.5=F1.7 & 2sec., EV17=F11 & 1/1000 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic E"
+    "Camera-wiki": "Minolta Hi-Matic E",
+    "镜头": "1:1,7/40mm Rokkor",
+    "曝光测光": "CdS-meter programmed autoexposure; meter window within the filter connection ring",
+    "快门": "Seiko shutter controlled by meter: EV0.5=F1.7 & 2sec., EV17=F11 & 1/1000 sec.",
+    "取景器": "optical with superimposed rangefinder",
+    "重量": "560 g without RM-640 battery",
+    "尺寸": "124 x 77 x 60 mm",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n* Type: rangefinder camera\n* Manufacturer: Minolta\n* Year of release: 1971\n* Films: 35mm films of 25 ASA upto 500 ASA film speed\n* Lens: 1:1,7/40mm Rokkor\n* Exposure: CdS-meter programmed autoexposure; meter window within the filter connection ring\n* Shutter: Seiko shutter controlled by meter: EV0.5=F1.7 & 2sec., EV17=F11 & 1/1000 sec."
   },
   "images": [],
   "sources": [

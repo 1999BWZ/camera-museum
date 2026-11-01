@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，2009 年发布",
-  "description": "奥林巴斯于2009年发布的数码单反相机。",
+  "description": "奥林巴斯于2009年推出的数码单反相机。配备Four Thirds。快门速度focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1202263",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "传感器": "Live MOS Four Thirds 17.3 mm × 13.0 mm (2× crop factor)",
+    "镜头": "Four Thirds",
+    "快门速度": "focal-plane shutter",
+    "取景器": "Eye-Level TTL Optical Pentamirror with 96% coverage and 0.96× magnification",
+    "闪光灯": "Standard 4/3 flash hot shoe compatible with 4/3 system flashes, automatic built-in pop-up, 13 m ISO 100 guide number, 27 mm (equivalent in 135 format) lens focal length coverage;",
+    "屏幕": "Vari-Angle 2.7 HyperCrystal III TFT LCD with 230,000 pixels",
+    "存储": "CompactFlash Type I/II (UDMA), Microdrive, xD-Picture Card",
+    "电池": "BLS-1 Li-ion battery pack",
+    "重量": ", body only"
   },
   "images": [
     {

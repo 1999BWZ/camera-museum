@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King数码单反相机，1970 年发布",
-  "description": "The Regula Reflex 2000 CTL is an SLR camera made by King KG in the late 1960's and early 1970's.",
+  "description": "King于1970年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula Reflex 2000 CTL"
+    "Camera-wiki": "Regula Reflex 2000 CTL",
+    "英文简介": "The Regula Reflex 2000 CTL is an SLR camera made by King KG in the late 1960's and early 1970's."
   },
   "images": [],
   "sources": [

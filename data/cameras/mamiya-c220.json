@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚中画幅相机，1968 年发布",
-  "description": "The Mamiya C220 was released in 1968 as part of the Mamiya C series of interchangeable lens medium format TLR cameras.",
+  "description": "玛米亚于1968年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya C220"
+    "Camera-wiki": "Mamiya C220",
+    "英文简介": "The Mamiya C220 was released in 1968 as part of the Mamiya C series of interchangeable lens medium format TLR cameras."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1959 年发布",
-  "description": "The Brownie Reflex 20 is a pseudo-TLR camera for 2¼-inch square exposures on 620 film, made by Kodak from 1959-66.",
+  "description": "柯达于1959年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Reflex 20"
+    "Camera-wiki": "Kodak Brownie Reflex 20",
+    "英文简介": "The Brownie Reflex 20 is a pseudo-TLR camera for 2¼-inch square exposures on 620 film, made by Kodak from 1959-66."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cornu取景器相机，1941 年发布",
-  "description": "The Reyna 35mm viewfinder camera was made in France by Cornu, from c.1941.",
+  "description": "Cornu于1941年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Reyna"
+    "Camera-wiki": "Reyna",
+    "英文简介": "The Reyna 35mm viewfinder camera was made in France by Cornu, from c.1941."
   },
   "images": [],
   "sources": [

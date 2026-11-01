@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar取景器相机，1991 年发布",
-  "description": "The Vivitar ECO35H was very similar to the Vivitar ECO35, but with a hot shoe, and unlike some alleged hot shoes on low-end cameras, this one is actually functional.",
+  "description": "Vivitar于1991年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar ECO35H"
+    "Camera-wiki": "Vivitar ECO35H",
+    "英文简介": "The Vivitar ECO35H was very similar to the Vivitar ECO35, but with a hot shoe, and unlike some alleged hot shoes on low-end cameras, this one is actually functional."
   },
   "images": [],
   "sources": [

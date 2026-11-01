@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera数码相机，1997 年发布",
-  "description": "The DR-350 is a 1997 digital camera from Kyocera, preceding their \"Finecam\" series.",
+  "description": "Kyocera于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera DR-350"
+    "Camera-wiki": "Kyocera DR-350",
+    "英文简介": "The DR-350 is a 1997 digital camera from Kyocera, preceding their \"Finecam\" series."
   },
   "images": [],
   "sources": [

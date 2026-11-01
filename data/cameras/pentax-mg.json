@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，1981 年发布",
-  "description": "In 1977, Pentax introduced two compact 35mm SLRs, the MX and the ME, after the Olympus OM-1 presented in 1972 had introduced a new trend for compactness in SLR cameras.",
+  "description": "宾得于1981年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MG"
+    "Camera-wiki": "Pentax MG",
+    "英文简介": "In 1977, Pentax introduced two compact 35mm SLRs, the MX and the ME, after the Olympus OM-1 presented in 1972 had introduced a new trend for compactness in SLR cameras."
   },
   "images": [
     {

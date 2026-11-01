@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2012 年发布",
-  "description": "A digital camera released by Sony in 2012.",
+  "description": "索尼于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-RX1"
+    "Camera-wiki": "Sony DSC-RX1",
+    "英文简介": "A digital camera released by Sony in 2012."
   },
   "images": [],
   "sources": [

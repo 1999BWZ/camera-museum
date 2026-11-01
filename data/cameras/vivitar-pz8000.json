@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar便携相机，1998 年发布",
-  "description": "The Vivitar PZ8000 is a 35mm compact camera introduced in 1998.",
+  "description": "Vivitar于1998年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar PZ8000"
+    "Camera-wiki": "Vivitar PZ8000",
+    "英文简介": "The Vivitar PZ8000 is a 35mm compact camera introduced in 1998."
   },
   "images": [],
   "sources": [

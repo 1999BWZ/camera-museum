@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1994 年发布",
-  "description": "The Dynax 500si is a 35mm SLR camera manufactured by Minolta.",
+  "description": "美能达于1994年推出的胶片单反相机。快门速度focal plane shutter with speeds from 30sec to 1/2000sec plus bulb mode, 1 image/sec。使用35mm film with speeds ASA 25 to ASA 5000, DX film speed acknowledgement。1-CCD TTL phase detection autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 500si"
+    "Camera-wiki": "Minolta Dynax 500si",
+    "胶片/画幅": "35mm film with speeds ASA 25 to ASA 5000, DX film speed acknowledgement",
+    "卡口": "Minolta AF mount",
+    "曝光测光": "2 Si photo diodes, one for flash TTL control, EV 1 to 20",
+    "对焦": "1-CCD TTL phase detection autofocus",
+    "闪光灯": "for wide-angle (28mm), guide number 12, flash sync shutter speed 1/90 sec",
+    "快门": "focal plane shutter with speeds from 30sec to 1/2000sec plus bulb mode, 1 image/sec",
+    "取景器": "pentaprism, magnification 0.75, 90% of image frame",
+    "电池": "2CR5 6V Lithium battery",
+    "尺寸": "147×92×66mm",
+    "重量": "395g",
+    "英文简介": "The Dynax 500si is a 35mm SLR camera manufactured by Minolta."
   },
   "images": [],
   "sources": [

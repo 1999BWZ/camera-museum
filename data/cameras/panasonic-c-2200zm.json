@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下胶片相机，1993 年发布",
-  "description": "The Panasonic C-2200ZM \"mini & zoom\" is a small full automatic camera.",
+  "description": "松下于1993年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic C-2200ZM"
+    "Camera-wiki": "Panasonic C-2200ZM",
+    "英文简介": "The Panasonic C-2200ZM \"mini & zoom\" is a small full automatic camera."
   },
   "images": [],
   "sources": [

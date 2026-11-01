@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，2005 年发布",
-  "description": "The Polaroid izone200 was a more compact camera type for the Polaroid I-Zone miniature instant film concept, but it needed thicker film packs than the I-Zone camera.",
+  "description": "宝丽来于2005年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid izone200"
+    "Camera-wiki": "Polaroid izone200",
+    "英文简介": "The Polaroid izone200 was a more compact camera type for the Polaroid I-Zone miniature instant film concept, but it needed thicker film packs than the I-Zone camera."
   },
   "images": [],
   "sources": [

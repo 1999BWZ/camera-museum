@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1977 年发布",
-  "description": "The Minolta HiMatic 7SII, introduced in 1977, is a versatile 35mm, shutter-priority rangefinder camera.",
+  "description": "美能达于1977年推出的旁轴相机。配备Rokkor 40/1.7, 6 elements in 4 groups。快门速度Auto 1/8~1/500 sec & Manual 1/8-1/500 sec & B.。使用ASA 25 to ASA 800.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic 7sII"
+    "Camera-wiki": "Minolta Hi-Matic 7sII",
+    "曝光测光": "CdS cell, shutter-priority AE, manual override (w/o metering)",
+    "镜头": "Rokkor 40/1.7, 6 elements in 4 groups",
+    "快门速度": "Auto 1/8~1/500 sec & Manual 1/8-1/500 sec & B.",
+    "快门": "COPAL.",
+    "胶片/画幅": "ASA 25 to ASA 800.",
+    "取景器": "aperture, over/under exposure",
+    "尺寸": "115x60x77 mm",
+    "英文简介": "The Minolta HiMatic 7SII, introduced in 1977, is a versatile 35mm, shutter-priority rangefinder camera."
   },
   "images": [],
   "sources": [

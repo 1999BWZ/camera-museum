@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO取景器相机，1987 年发布",
-  "description": "The Zenit-35F is a 35mm film camera produced in the former Soviet Union and later Russia.",
+  "description": "LOMO于1987年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit-35F"
+    "Camera-wiki": "Zenit-35F",
+    "英文简介": "The Zenit-35F is a 35mm film camera produced in the former Soviet Union and later Russia."
   },
   "images": [],
   "sources": [

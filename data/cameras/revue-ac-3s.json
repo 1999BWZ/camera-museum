@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue数码单反相机，1984 年发布",
-  "description": "This Revue SLR is also a rebranded Chinon camera.",
+  "description": "Revue于1984年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue AC 3s"
+    "Camera-wiki": "Revue AC 3s",
+    "英文简介": "This Revue SLR is also a rebranded Chinon camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi取景器相机，1968 年发布",
-  "description": "The Petri Color 35 is a small 35mm, leaf-shutter viewfinder camera with a unique design, released by Petri in 1968.",
+  "description": "Kuribayashi于1968年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Color 35"
+    "Camera-wiki": "Petri Color 35",
+    "英文简介": "The Petri Color 35 is a small 35mm, leaf-shutter viewfinder camera with a unique design, released by Petri in 1968."
   },
   "images": [],
   "sources": [

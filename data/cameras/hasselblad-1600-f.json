@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "哈苏胶片单反相机，1948 年发布",
-  "description": "The Hasselblad 1600F camera was introduced in New York in October 1948.",
+  "description": "哈苏于1948年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hasselblad 1600 F"
+    "Camera-wiki": "Hasselblad 1600 F",
+    "英文简介": "The Hasselblad 1600F camera was introduced in New York in October 1948."
   },
   "images": [],
   "sources": [

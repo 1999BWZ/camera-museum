@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1957 年发布",
-  "description": "For the Japanese TLRs, see Starflex (wartime) and Starflex (postwar).",
+  "description": "柯达于1957年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Starflex"
+    "Camera-wiki": "Kodak Brownie Starflex",
+    "取景器": "reflex & reverse, additional sports finder on the bottom",
+    "光圈": "Choice of two different apertures - listed as \"color\" and \"b&w\"",
+    "英文简介": "For the Japanese TLRs, see Starflex (wartime) and Starflex (postwar)."
   },
   "images": [],
   "sources": [

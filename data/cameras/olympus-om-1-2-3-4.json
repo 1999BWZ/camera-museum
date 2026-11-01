@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，1972 年发布",
-  "description": "The OM-System was introduced by Olympus in 1972, more than a decade later than most of the, by then, well-established 35mm SLR brands.",
+  "description": "奥林巴斯于1972年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus OM-1/2/3/4"
+    "Camera-wiki": "Olympus OM-1/2/3/4",
+    "英文简介": "The OM-System was introduced by Olympus in 1972, more than a decade later than most of the, by then, well-established 35mm SLR brands."
   },
   "images": [],
   "sources": [

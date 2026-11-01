@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1987 年发布",
-  "description": "The Olympus AF-10 is a fully-automatic compact camera, nicknamed \"Picasso Mini\" in Japan.",
+  "description": "奥林巴斯于1987年推出的便携相机。配备35mm f/3.5。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AF-10"
+    "Camera-wiki": "Olympus AF-10",
+    "镜头": "35mm f/3.5",
+    "英文简介": "The Olympus AF-10 is a fully-automatic compact camera, nicknamed \"Picasso Mini\" in Japan."
   },
   "images": [],
   "sources": [

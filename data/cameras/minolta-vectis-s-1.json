@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1996 年发布",
-  "description": "{| class=floatleft\n|\n|&nbsp;\n|}\nThe MINOLTA Vectis S-1 is one of the two SLR camera bodies made by Minolta for the APS film system.",
+  "description": "美能达于1996年推出的胶片单反相机。快门速度30 sec. downto 1/2000 sec., with flash 1/125 sec. or slower。使用Advanced Photo System。感光度available films had 100 to 800 ASA (100 to 400 ASA still available)。CCD-based phase-detecting TTL autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis S-1"
+    "Camera-wiki": "Minolta Vectis S-1",
+    "胶片/画幅": "Advanced Photo System",
+    "感光度": "available films had 100 to 800 ASA (100 to 400 ASA still available)",
+    "卡口": "Minolta V-Lenses bayonet",
+    "曝光测光": "TTL with 14 field measuring photo diode, spontaneously switchable to spot metering (button), second 4 field photo diode for TTL flash metering",
+    "对焦": "CCD-based phase-detecting TTL autofocus",
+    "快门速度": "30 sec. downto 1/2000 sec., with flash 1/125 sec. or slower",
+    "闪光灯": "guide number 14, also used as autofocus support light",
+    "重量": "365 g without Lens + Film + 2 × Cr2-Battery",
+    "尺寸": "126,5 x 76,5 x 63,5 mm",
+    "英文简介": "{| class=floatleft\n|\n|&nbsp;\n|}\nThe MINOLTA Vectis S-1 is one of the two SLR camera bodies made by Minolta for the APS film system."
   },
   "images": [],
   "sources": [

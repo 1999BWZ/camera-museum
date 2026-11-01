@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Photo-jumelle cameras立体相机，1914 年发布",
-  "description": "The AléthoscopeThe name refers to the Greek Aletheia (truth).",
+  "description": "Photo-jumelle cameras于1914年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Aléthoscope"
+    "Camera-wiki": "Aléthoscope",
+    "英文简介": "The AléthoscopeThe name refers to the Greek Aletheia (truth)."
   },
   "images": [],
   "sources": [

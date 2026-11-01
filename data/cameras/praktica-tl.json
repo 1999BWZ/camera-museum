@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1968 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Praktica super TL is a 35mm SLR manufactured by Pentacon in Dresden (DDR, former East Germany).",
+  "description": "潘泰康于1968年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica super TL"
+    "Camera-wiki": "Praktica super TL",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Praktica super TL is a 35mm SLR manufactured by Pentacon in Dresden (DDR, former East Germany)."
   },
   "images": [],
   "sources": [

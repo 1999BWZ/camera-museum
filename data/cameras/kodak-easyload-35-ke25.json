@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，2002 年发布",
-  "description": "The Kodak EasyLoad 35 KE25 is a 2000s-era camera for 35mm film.",
+  "description": "柯达于2002年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EasyLoad 35 KE25"
+    "Camera-wiki": "Kodak EasyLoad 35 KE25",
+    "英文简介": "The Kodak EasyLoad 35 KE25 is a 2000s-era camera for 35mm film."
   },
   "images": [],
   "sources": [

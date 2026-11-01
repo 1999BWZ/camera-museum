@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kigawa折叠相机，1937 年发布",
-  "description": "The Semi Chrome (セミクローム) are Japanese 4.5×6 folders made in 1937 and 1938 by Optochrom.",
+  "description": "Kigawa于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Chrome"
+    "Camera-wiki": "Semi Chrome",
+    "英文简介": "The Semi Chrome (セミクローム) are Japanese 4.5×6 folders made in 1937 and 1938 by Optochrom."
   },
   "images": [],
   "sources": [

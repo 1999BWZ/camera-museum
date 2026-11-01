@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，2002 年发布",
-  "description": "The Lite•Touch Zoom 70WS was a 35mm compact camera introduced by Nikon in 2002[https://web.archive.org/web/20080925015837/http://imaging.nikon.com/products/imaging/technology/archives/filmcamera/compact/2000-2005/lite-touch_zoom_70ws_70ws_qd/index.htm Date and some specifications from Nikon Archives",
+  "description": "尼康于2002年推出的便携相机。配备Coated Nikon Zoom Macro 28mm, f/5.6 - 70mm, f/10. (5 elements in 4 groups).。使用35mm, with DX-decoding, auto-loading, advance and rewind.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Lite•Touch Zoom 70WS"
+    "Camera-wiki": "Nikon Lite•Touch Zoom 70WS",
+    "胶片/画幅": "35mm, with DX-decoding, auto-loading, advance and rewind.",
+    "镜头": "Coated Nikon Zoom Macro 28mm, f/5.6 - 70mm, f/10. (5 elements in 4 groups).",
+    "取景器": "Real-image zooming finder with 80% coverage. Includes parallax marks and autofocus frame, LEDs for ready, flash charging, focus achieved.",
+    "曝光测光": "EV 5-15 at 28mm, EV 6-15 at 70mm.",
+    "自拍": "10 seconds, cancellation possible.",
+    "闪光灯": "auto, suppressed, forced and slow-synch, plus red-eye reduction. Range of 3.3m at 28mm and ISO 100.",
+    "尺寸": "117x63x42mm",
+    "重量": "200g (without battery).",
+    "英文简介": "The Lite•Touch Zoom 70WS was a 35mm compact camera introduced by Nikon in 2002[https://web.archive.org/web/20080925015837/http://imaging.nikon.com/products/imaging/technology/archives/filmcamera/compact/2000-2005/lite-touch_zoom_70ws_70ws_qd/index.htm Date and some specifications from Nikon Archives] (archived)."
   },
   "images": [],
   "sources": [

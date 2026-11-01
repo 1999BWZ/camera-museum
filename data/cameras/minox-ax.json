@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1992 年发布",
-  "description": "The Minox Model AX was introduced in 1992 as a limited edition, all mechanical camera.",
+  "description": "Minox于1992年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox AX"
+    "Camera-wiki": "Minox AX",
+    "英文简介": "The Minox Model AX was introduced in 1992 as a limited edition, all mechanical camera."
   },
   "images": [],
   "sources": [

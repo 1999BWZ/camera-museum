@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达微型相机，1950 年发布",
-  "description": "The Konan-16 Automat was Chiyoda's first subminiature camera for 16mm film.",
+  "description": "美能达于1950年推出的微型相机。配备Chiyoko Rokkor 1:3.5/25mm (3 elements), focusing fixed。快门速度slider shutter, speeds 1/25 to 1/200 sec., flash synchronized。使用Konan cartridge for 16mm, allowing midroll film exchange。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konan-16 Automat"
+    "Camera-wiki": "Konan-16 Automat",
+    "胶片/画幅": "Konan cartridge for 16mm, allowing midroll film exchange",
+    "尺寸": "10×14mm",
+    "镜头": "Chiyoko Rokkor 1:3.5/25mm (3 elements), focusing fixed",
+    "快门": "slider shutter, speeds 1/25 to 1/200 sec., flash synchronized",
+    "光圈": "1:3.5-1:11",
+    "重量": "280g",
+    "英文简介": "The Konan-16 Automat was Chiyoda's first subminiature camera for 16mm film."
   },
   "images": [],
   "sources": [

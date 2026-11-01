@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1947 年发布",
-  "description": "The Kodak Duaflex is a 620 roll film pseudo TLR made by Kodak in the US and UK.",
+  "description": "柯达于1947年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Duaflex"
+    "Camera-wiki": "Kodak Duaflex",
+    "英文简介": "The Kodak Duaflex is a 620 roll film pseudo TLR made by Kodak in the US and UK."
   },
   "images": [],
   "sources": [

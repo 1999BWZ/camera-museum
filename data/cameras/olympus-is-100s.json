@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片单反相机，1995 年发布",
-  "description": "The Olympus iS-100s is an autofocus 35mm single lens reflex camera and part of the Olympus iS series.",
+  "description": "奥林巴斯于1995年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus iS-100S"
+    "Camera-wiki": "Olympus iS-100S",
+    "英文简介": "The Olympus iS-100s is an autofocus 35mm single lens reflex camera and part of the Olympus iS series."
   },
   "images": [],
   "sources": [

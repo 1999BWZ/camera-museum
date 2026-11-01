@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welta胶片相机，1952 年发布",
-  "description": "The Weltaflex is a TLR made from around 1952 by Welta, in what was then East Germany.",
+  "description": "Welta于1952年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Weltaflex"
+    "Camera-wiki": "Weltaflex",
+    "英文简介": "The Weltaflex is a TLR made from around 1952 by Welta, in what was then East Germany."
   },
   "images": [],
   "sources": [

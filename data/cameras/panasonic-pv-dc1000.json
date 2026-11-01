@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，1997 年发布",
-  "description": "The PalmCam PV-DC1000 is a early digital camera from Panasonic released in 1997.",
+  "description": "松下于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic PV-DC1000"
+    "Camera-wiki": "Panasonic PV-DC1000",
+    "英文简介": "The PalmCam PV-DC1000 is a early digital camera from Panasonic released in 1997."
   },
   "images": [],
   "sources": [

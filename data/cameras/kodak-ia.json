@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1951 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Retina Ia (Type 015) is a folding camera for 35mm film made by the German Kodak AG.",
+  "description": "柯达于1951年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina Ia"
+    "Camera-wiki": "Kodak Retina Ia",
+    "尺寸": "4.75x3x1.5 inches.",
+    "重量": "1 pound.Dimensions, weight and shutter info from \"Collector's Guide to Kodak Cameras\" by Jim and Joan McKeown (pg.123, Centennial Photo Service edition, November 1981)",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Retina Ia (Type 015) is a folding camera for 35mm film made by the German Kodak AG."
   },
   "images": [],
   "sources": [

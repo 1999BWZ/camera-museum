@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来数码单反相机，1975 年发布",
-  "description": "The SX-70 was a folding Land Camera line produced by the Polaroid Corporation in the 1970s.",
+  "description": "宝丽来于1975年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid SX-70 Model 3"
+    "Camera-wiki": "Polaroid SX-70 Model 3",
+    "英文简介": "The SX-70 was a folding Land Camera line produced by the Polaroid Corporation in the 1970s."
   },
   "images": [],
   "sources": [

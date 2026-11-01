@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得取景器相机，1987 年发布",
-  "description": "The Pino 35J is a compact 35mm film camera from Pentax",
+  "description": "宾得于1987年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Pino 35J"
+    "Camera-wiki": "Pentax Pino 35J",
+    "英文简介": "The Pino 35J is a compact 35mm film camera from Pentax"
   },
   "images": [],
   "sources": [

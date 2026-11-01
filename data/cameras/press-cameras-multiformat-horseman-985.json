@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Press cameras旁轴相机，1966 年发布",
-  "description": "The Topcon Multiformat Horseman 985 is a 6&times;9cm and 6&times;7cm press camera with big rangefinder.",
+  "description": "Press cameras于1966年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon Multiformat Horseman 985"
+    "Camera-wiki": "Topcon Multiformat Horseman 985",
+    "英文简介": "The Topcon Multiformat Horseman 985 is a 6&times;9cm and 6&times;7cm press camera with big rangefinder."
   },
   "images": [],
   "sources": [

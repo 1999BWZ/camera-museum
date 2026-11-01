@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2003 年发布",
-  "description": "{|class=floatright\n\n|-\n|\n\n|}\nThe Optio 33L was a 3.2 megapixel digital camera made by Pentax, which has been discontinued.",
+  "description": "宾得于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Optio 33L"
+    "Camera-wiki": "Pentax Optio 33L",
+    "英文简介": "{|class=floatright\n\n|-\n|\n\n|}\nThe Optio 33L was a 3.2 megapixel digital camera made by Pentax, which has been discontinued."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1963 年发布",
-  "description": "[http://www.flickr.com/photos/89864432@N00/2618455959/in/pool-camerawiki http://farm4.static.flickr.com/3289/2618455959_0fab60542c_m.jpg]\nInstamatic was Kodak's trademark name for a line of cameras that used their easy-load 126 cartridge film cameras.",
+  "description": "柯达于1963年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Instamatic"
+    "Camera-wiki": "Instamatic",
+    "英文简介": "[http://www.flickr.com/photos/89864432@N00/2618455959/in/pool-camerawiki http://farm4.static.flickr.com/3289/2618455959_0fab60542c_m.jpg]\nInstamatic was Kodak's trademark name for a line of cameras that used their easy-load 126 cartridge film cameras."
   },
   "images": [],
   "sources": [

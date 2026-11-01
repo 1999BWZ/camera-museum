@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof全景相机，1983 年发布",
-  "description": "The Linhof Technorama 612PC is a panoramic rollfilm camera designed for the 6&times;12cm film format.",
+  "description": "Linhof于1983年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Technorama 612PC"
+    "Camera-wiki": "Linhof Technorama 612PC",
+    "英文简介": "The Linhof Technorama 612PC is a panoramic rollfilm camera designed for the 6&times;12cm film format."
   },
   "images": [],
   "sources": [

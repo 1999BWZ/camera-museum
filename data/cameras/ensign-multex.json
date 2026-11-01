@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign旁轴相机，1936 年发布",
-  "description": "The Ensign Multex is a 127 roll film rangefinder camera for 3&times;4cm images from Ensign, made between 1936 and ca.",
+  "description": "Ensign于1936年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ensign Multex"
+    "Camera-wiki": "Ensign Multex",
+    "英文简介": "The Ensign Multex is a 127 roll film rangefinder camera for 3&times;4cm images from Ensign, made between 1936 and ca."
   },
   "images": [],
   "sources": [

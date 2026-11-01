@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1977 年发布",
-  "description": "美能达于1977年发布的胶片单反相机。",
+  "description": "美能达于1977年推出的胶片单反相机。配备Minolta SR mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1451849",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "胶片/画幅": "35mm",
+    "镜头": "Minolta SR mount",
+    "对焦": "Manual focus",
+    "曝光测光": "Shutter, Aperture priority autoexposure; manual",
+    "闪光灯": "Hot shoe and PC terminal",
+    "尺寸": "51 x 86 x 136 mm, 560 g"
   },
   "images": [
     {

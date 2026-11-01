@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spy玩具相机，2001 年发布",
-  "description": "The Spy Kids camera was an inexpensive 110-format point and shoot camera given away as a toy in McDonald's Happy Meals in 2001.",
+  "description": "Spy于2001年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Spy Kids 110 Camera"
+    "Camera-wiki": "Spy Kids 110 Camera",
+    "英文简介": "The Spy Kids camera was an inexpensive 110-format point and shoot camera given away as a toy in McDonald's Happy Meals in 2001."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1964 年发布",
-  "description": "The Retina IIF, made by Kodak AG between 1964 and 1967[https://web.archive.org/web/20120415011516/http://www.kodak.com/global/en/consumer/products/techInfo/aa13/aa13.shtml Kodak's list of cameras] (archived) in Germany, is a 35mm rangefinder camera.",
+  "description": "柯达于1964年推出的旁轴相机。配备Retina-Xenar 45mm f/2.8。快门速度Compur, 1-1/500 + B, with flash sync, cable release and self-timer。使用Manual。感光度12-1250 ASA。Coincident image coupled rangefinder focusing, 1 meter to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina IIF"
+    "Camera-wiki": "Kodak Retina IIF",
+    "镜头": "Retina-Xenar 45mm f/2.8",
+    "快门": "Compur, 1-1/500 + B, with flash sync, cable release and self-timer",
+    "感光度": "12-1250 ASA",
+    "取景器": "Eye level finder, bright frame",
+    "对焦": "Coincident image coupled rangefinder focusing, 1 meter to infinity.",
+    "曝光测光": "Needle-centering/manual",
+    "胶片/画幅": "Manual",
+    "闪光灯": "AG-1 miniature flashbulb in integrated flashholder, PC socket",
+    "英文简介": "The Retina IIF, made by Kodak AG between 1964 and 1967[https://web.archive.org/web/20120415011516/http://www.kodak.com/global/en/consumer/products/techInfo/aa13/aa13.shtml Kodak's list of cameras] (archived) in Germany, is a 35mm rangefinder camera."
   },
   "images": [],
   "sources": [

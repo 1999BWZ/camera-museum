@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1975 年发布",
-  "description": "The Minolta XE-5 is the one year younger, less advanced sibling of the Minolta XE 35mm SLR cameras; introduced in 1975.",
+  "description": "美能达于1975年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta XE-5"
+    "Camera-wiki": "Minolta XE-5",
+    "英文简介": "The Minolta XE-5 is the one year younger, less advanced sibling of the Minolta XE 35mm SLR cameras; introduced in 1975."
   },
   "images": [],
   "sources": [

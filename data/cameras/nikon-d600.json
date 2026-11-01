@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2012 年发布",
-  "description": "尼康于2012年发布的数码单反相机。",
+  "description": "尼康于2012年推出的数码单反相机。配备Nikon F-mount。快门速度Electronically controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1846261",
-    "多语言词条数": "14"
+    "多语言词条数": "14",
+    "传感器": "CMOS",
+    "镜头": "Nikon F-mount",
+    "快门速度": "Electronically controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL 3D Color Matrix Metering II metering with a 2,016 pixel RGB sensor",
+    "闪光灯": "Manual pop-up; guide number 12/39 at ISO 100 (m/ft)",
+    "电池": "| dimensions = 141 x 113 x 82 mm",
+    "屏幕": "3.2 inch (921,600 dots)",
+    "存储": "| weight = , body only"
   },
   "images": [
     {

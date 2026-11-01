@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1978 年发布",
-  "description": "Made in 1978, the Happy Times is a special premium version of Kodak's \"The Handle\".",
+  "description": "柯达于1978年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Happy Times (Coca-Cola) Camera"
+    "Camera-wiki": "Kodak Happy Times (Coca-Cola) Camera",
+    "英文简介": "Made in 1978, the Happy Times is a special premium version of Kodak's \"The Handle\"."
   },
   "images": [],
   "sources": [

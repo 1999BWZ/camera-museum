@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Straight胶片相机，1913 年发布",
-  "description": "SEM, another French camera-maker, also used 'Oto' and 'Otomatic' in naming and describing some of their Semflex TLR cameras.",
+  "description": "Straight于1913年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Straight Warehouse"
+    "Camera-wiki": "Straight Warehouse",
+    "英文简介": "SEM, another French camera-maker, also used 'Oto' and 'Otomatic' in naming and describing some of their Semflex TLR cameras."
   },
   "images": [],
   "sources": [

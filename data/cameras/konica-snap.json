@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1959 年发布",
-  "description": "The Konica SNAP is a quite simple viewfinder.",
+  "description": "柯尼卡于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Snap"
+    "Camera-wiki": "Konica Snap",
+    "英文简介": "The Konica SNAP is a quite simple viewfinder."
   },
   "images": [],
   "sources": [

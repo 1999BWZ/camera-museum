@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1995 年发布",
-  "description": "The EOS 5000 is a entry level autofocus SLR camera released by Canon in 1995.",
+  "description": "佳能于1995年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 5000"
+    "Camera-wiki": "Canon EOS 5000",
+    "英文简介": "The EOS 5000 is a entry level autofocus SLR camera released by Canon in 1995."
   },
   "images": [],
   "sources": [

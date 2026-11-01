@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji便携相机，1986 年发布",
-  "description": "The DL-150 is a simple autofocus compact camera released by from Fuji in 1986.",
+  "description": "Fuji于1986年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-150"
+    "Camera-wiki": "Fuji DL-150",
+    "英文简介": "The DL-150 is a simple autofocus compact camera released by from Fuji in 1986."
   },
   "images": [],
   "sources": [

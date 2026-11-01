@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚中画幅相机，1951 年发布",
-  "description": "An early TLR from Mamiya using geared coupling between the focusing and taking lens.",
+  "description": "玛米亚于1951年推出的中画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiyaflex I"
+    "Camera-wiki": "Mamiyaflex I",
+    "英文简介": "An early TLR from Mamiya using geared coupling between the focusing and taking lens."
   },
   "images": [],
   "sources": [

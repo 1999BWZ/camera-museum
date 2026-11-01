@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Elliotte折叠相机，1931 年发布",
-  "description": "The Elliotte The camera is called \"Eliott\" in Lewis, p.47, but the distributor Ōhashi sold an Elliotte 6×6 TLR after the war, and probably owned the brand \"Elliotte\" spelled as such.",
+  "description": "Elliotte于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Elliotte plate folders"
+    "Camera-wiki": "Elliotte plate folders",
+    "英文简介": "The Elliotte The camera is called \"Eliott\" in Lewis, p.47, but the distributor Ōhashi sold an Elliotte 6×6 TLR after the war, and probably owned the brand \"Elliotte\" spelled as such."
   },
   "images": [],
   "sources": [

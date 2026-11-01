@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1990 年发布",
-  "description": "The DL-180 Tele is a dual-lensed compact auto-focus camera from Fuji, offering 35 mm and 55 mm focal lengths, selected by a small switch on the front of the camera.",
+  "description": "Fuji于1990年推出的胶片相机。快门速度Programmed electronic, 1/8–1/300 s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-180 Tele"
+    "Camera-wiki": "Fuji DL-180 Tele",
+    "快门": "Programmed electronic, 1/8–1/300 s.",
+    "尺寸": "137 x 73,5 x 54,3 mm.",
+    "重量": "269 g.",
+    "英文简介": "The DL-180 Tele is a dual-lensed compact auto-focus camera from Fuji, offering 35 mm and 55 mm focal lengths, selected by a small switch on the front of the camera."
   },
   "images": [],
   "sources": [

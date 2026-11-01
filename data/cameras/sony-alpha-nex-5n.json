@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2011 年发布",
-  "description": "The Sony Alpha NEX-5N is a system camera body of the Sony NEX camera line with the E-mount of the Sony α system.",
+  "description": "索尼于2011年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Alpha NEX-5N"
+    "Camera-wiki": "Sony Alpha NEX-5N",
+    "英文简介": "The Sony Alpha NEX-5N is a system camera body of the Sony NEX camera line with the E-mount of the Sony α system."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，1986 年发布",
-  "description": "The Olympus OM-707 was released by Olympus as part of its successful OM system in 1986, and was their first attempt to make a fully autofocus SLR body.",
+  "description": "奥林巴斯于1986年推出的数码单反相机。快门速度Electronically controlled vertical travel focal-plane shutter. Shutter speed: 2–1/2000 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus OM-707 / OM-77"
+    "Camera-wiki": "Olympus OM-707 / OM-77",
+    "快门": "Electronically controlled vertical travel focal-plane shutter. Shutter speed: 2–1/2000 sec",
+    "卡口": "Olympus OM for AF lenses (accepts OM manual and OM-AF lenses)",
+    "曝光测光": "TTL 'OTF' centre-weighted.",
+    "闪光灯": "Full synchro with F280; TTL 'flashmatic' sync up to 1/100 with PowerGrip 300; TTL direct 'OTF' with T-series flashes.",
+    "取景器": "93% of field fixed screen with marked autofocus zone",
+    "重量": "555g without lens/grip/batteries",
+    "英文简介": "The Olympus OM-707 was released by Olympus as part of its successful OM system in 1986, and was their first attempt to make a fully autofocus SLR body."
   },
   "images": [],
   "sources": [

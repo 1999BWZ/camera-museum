@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1932 年发布",
-  "description": "The Kodak Recomar 33 is a 3&frac14;&times;4&frac14; (or 9x12cm) folding bed camera, made by the German Kodak AG since 1932.",
+  "description": "柯达于1932年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Recomar 33"
+    "Camera-wiki": "Kodak Recomar 33",
+    "英文简介": "The Kodak Recomar 33 is a 3&frac14;&times;4&frac14; (or 9x12cm) folding bed camera, made by the German Kodak AG since 1932."
   },
   "images": [],
   "sources": [

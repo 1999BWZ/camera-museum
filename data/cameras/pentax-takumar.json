@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得无反相机，1957 年发布",
-  "description": "Takumar refers to a line of high quality photographic lenses produced by Asahi Optical Co beginning in the 1950s.",
+  "description": "宾得于1957年推出的无反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Takumar"
+    "Camera-wiki": "Takumar",
+    "英文简介": "Takumar refers to a line of high quality photographic lenses produced by Asahi Optical Co beginning in the 1950s."
   },
   "images": [],
   "sources": [

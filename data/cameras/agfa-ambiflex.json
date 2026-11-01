@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发胶片单反相机，1960 年发布",
-  "description": "The Agfa Ambiflex is an SLR camera for 35mm film, made by Agfa in c.1960.",
+  "description": "爱克发于1960年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ambiflex"
+    "Camera-wiki": "Ambiflex",
+    "英文简介": "The Agfa Ambiflex is an SLR camera for 35mm film, made by Agfa in c.1960."
   },
   "images": [],
   "sources": [

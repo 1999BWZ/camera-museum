@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1997 年发布",
-  "description": "The Olympus LT Zoom 105 of 1997 is a fully-automatic \"designer\" compact aimed at travellers requiring a good-looking point and shoot with a zoom lens.",
+  "description": "奥林巴斯于1997年推出的胶片相机。配备38-105mm, f/4.5-8.9。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus LT Zoom 105"
+    "Camera-wiki": "Olympus LT Zoom 105",
+    "镜头": "38-105mm, f/4.5-8.9",
+    "英文简介": "The Olympus LT Zoom 105 of 1997 is a fully-automatic \"designer\" compact aimed at travellers requiring a good-looking point and shoot with a zoom lens."
   },
   "images": [],
   "sources": [

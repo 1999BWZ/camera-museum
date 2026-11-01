@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码相机，2005 年发布",
-  "description": "The Praktica DIGI 3 LM is a digital compact camera produced by Pentacon, released in November 2005.",
+  "description": "潘泰康于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica DIGI 3 LM"
+    "Camera-wiki": "Praktica DIGI 3 LM",
+    "英文简介": "The Praktica DIGI 3 LM is a digital compact camera produced by Pentacon, released in November 2005."
   },
   "images": [],
   "sources": [

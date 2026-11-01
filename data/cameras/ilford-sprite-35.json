@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford取景器相机，1964 年发布",
-  "description": "The Ilford Sprite 35 is a 35mm viewfinder camera made in England by Agilux in the UK for Ilford, and also sold as the Agiflash 35 and the Wards Econo 35.",
+  "description": "Ilford于1964年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Sprite 35"
+    "Camera-wiki": "Ilford Sprite 35",
+    "英文简介": "The Ilford Sprite 35 is a 35mm viewfinder camera made in England by Agilux in the UK for Ilford, and also sold as the Agiflash 35 and the Wards Econo 35."
   },
   "images": [],
   "sources": [

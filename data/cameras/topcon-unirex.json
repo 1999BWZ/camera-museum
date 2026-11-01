@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon数码单反相机，1969 年发布",
-  "description": "The Topcon Unirex is a 1969-1973 SLR from Tokyo Kogaku offering TTL spot or averaging metering.",
+  "description": "Topcon于1969年推出的数码单反相机。使用Single long stroke lever (180° with 20° offset).。感光度25 to 1600 ASA (selector dial has a locking lever). There is also a DIN scale on the opposite side of the dial.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon Unirex"
+    "Camera-wiki": "Topcon Unirex",
+    "卡口": "UV Topcon bayonet mount. The mount included a locking facility when Topcor UV lenses are attached.",
+    "取景器": "Fresnel screen with central mirco-prism focusing spot, and a fine focusing ring around this. Magnification x 0.75.",
+    "感光度": "25 to 1600 ASA (selector dial has a locking lever). There is also a DIN scale on the opposite side of the dial.",
+    "闪光灯": "Cold shoe and PC terminal. M and X sync (set to X for daylight photography). The X setting would have also been used for class F and S flash bulbs.",
+    "胶片/画幅": "Single long stroke lever (180° with 20° offset).",
+    "尺寸": "141 x 93 x 59mm (W x H x D).",
+    "电池": "1 x 1.35v PX625 mercury battery (use the equivalent WeinCELL MRB625 zinc air cell).",
+    "英文简介": "The Topcon Unirex is a 1969-1973 SLR from Tokyo Kogaku offering TTL spot or averaging metering."
   },
   "images": [],
   "sources": [

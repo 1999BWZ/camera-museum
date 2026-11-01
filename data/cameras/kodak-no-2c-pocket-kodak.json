@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1926 年发布",
-  "description": "Folding camera for 130 film by Kodak, which was on the market from 1926 to 1932.",
+  "description": "柯达于1926年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 2C Pocket Kodak"
+    "Camera-wiki": "No. 2C Pocket Kodak",
+    "英文简介": "Folding camera for 130 film by Kodak, which was on the market from 1926 to 1932."
   },
   "images": [],
   "sources": [

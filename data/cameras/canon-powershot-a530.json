@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2006 年发布",
-  "description": "The PowerShot A530 was introduced by Canon in March 2006, with a 5 megapixel CCD sensor giving images of up to 2592x1944 pixels.",
+  "description": "佳能于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A530"
+    "Camera-wiki": "Canon PowerShot A530",
+    "英文简介": "The PowerShot A530 was introduced by Canon in March 2006, with a 5 megapixel CCD sensor giving images of up to 2592x1944 pixels."
   },
   "images": [
     {

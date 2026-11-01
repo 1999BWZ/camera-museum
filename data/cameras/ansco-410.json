@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco胶片相机，1980 年发布",
-  "description": "The Ansco 410 is a camera for 110 film produced by Ansco.",
+  "description": "Ansco于1980年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco 410"
+    "Camera-wiki": "Ansco 410",
+    "英文简介": "The Ansco 410 is a camera for 110 film produced by Ansco."
   },
   "images": [],
   "sources": [

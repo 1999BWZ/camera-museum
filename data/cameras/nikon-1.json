@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2011 年发布",
-  "description": "The Nikon 1 camera system comprised 4 lenses, two mirrorless camera body models, one flexible small system flash, an adapter for Nikon AF lenses and a GPS decoder, when it was introduced in autumn 2011.",
+  "description": "尼康于2011年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon 1"
+    "Camera-wiki": "Nikon 1",
+    "英文简介": "The Nikon 1 camera system comprised 4 lenses, two mirrorless camera body models, one flexible small system flash, an adapter for Nikon AF lenses and a GPS decoder, when it was introduced in autumn 2011."
   },
   "images": [],
   "sources": [

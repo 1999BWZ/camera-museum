@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2003 年发布",
-  "description": "The Sony DSC-U50 or Cyber-shot U is a digital ultra compact camera released by Sony in 2003.",
+  "description": "索尼于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-U50"
+    "Camera-wiki": "Sony DSC-U50",
+    "英文简介": "The Sony DSC-U50 or Cyber-shot U is a digital ultra compact camera released by Sony in 2003."
   },
   "images": [
     {

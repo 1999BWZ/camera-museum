@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发数码单反相机，1958 年发布",
-  "description": "The Agfaflex I/II is a 35mm fixed-lens SLR made c1958 by Agfa in Germany.",
+  "description": "爱克发于1958年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfaflex"
+    "Camera-wiki": "Agfaflex",
+    "英文简介": "The Agfaflex I/II is a 35mm fixed-lens SLR made c1958 by Agfa in Germany."
   },
   "images": [],
   "sources": [

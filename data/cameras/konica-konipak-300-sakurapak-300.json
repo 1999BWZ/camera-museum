@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1970 年发布",
-  "description": "126 pak-film camera from Konica, available in the mid-1970s.",
+  "description": "柯尼卡于1970年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konipak 300 / Sakurapak 300"
+    "Camera-wiki": "Konipak 300 / Sakurapak 300",
+    "英文简介": "126 pak-film camera from Konica, available in the mid-1970s."
   },
   "images": [],
   "sources": [

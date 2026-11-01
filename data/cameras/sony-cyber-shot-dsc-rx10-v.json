@@ -1,0 +1,40 @@
+{
+  "id": "sony-cyber-shot-dsc-rx10-v",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "Cyber-shot DSC-RX10 V",
+  "year": 2026,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2026 年发布",
+  "description": "索尼于2026年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q140913162",
+    "多语言词条数": "0"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20RX10%20V%20%28DSC-RX10M5%29%20-%201.jpg?width=800",
+      "caption": "Cyber-shot DSC-RX10 V",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q140913162"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony Cyber-shot DSC-RX10 V",
+      "url": "https://www.wikidata.org/wiki/Q140913162"
+    }
+  ],
+  "qid": "Q140913162",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

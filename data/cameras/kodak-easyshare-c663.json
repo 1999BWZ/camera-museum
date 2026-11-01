@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，2005 年发布",
-  "description": "The Kodak EasyShare C663 is a digital still camera designed in Japan for Kodak.",
+  "description": "柯达于2005年推出的数码相机。配备1:2.7-1:4.6/34-102mm aspheric all-glass Schneider-Kreuznach Variogon zoom lens。快门速度auto: 1/8-1/1400 sec., long time: 0.5-8 sec.。TTL autofocus, auto or center-zone。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EasyShare C663"
+    "Camera-wiki": "Kodak EasyShare C663",
+    "传感器": "1/2.5 inch CCD, 4:3 aspect ratio, 2832×2128 pixels (6 megapixels), sensitivity up to 400 ASA (800 emulated)",
+    "镜头": "1:2.7-1:4.6/34-102mm aspheric all-glass Schneider-Kreuznach Variogon zoom lens",
+    "对焦": "TTL autofocus, auto or center-zone",
+    "曝光测光": "TTL, multipattern or center-spot or center-weighted",
+    "快门速度": "auto: 1/8-1/1400 sec., long time: 0.5-8 sec.",
+    "取景器": "optical real image finder, 84% field of view",
+    "闪光灯": "automatic with photo sensor",
+    "重量": "150 g without rechargeable AA lithium batteries",
+    "尺寸": "35×65×85 mm",
+    "英文简介": "The Kodak EasyShare C663 is a digital still camera designed in Japan for Kodak."
   },
   "images": [],
   "sources": [

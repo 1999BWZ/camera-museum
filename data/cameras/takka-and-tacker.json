@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Takka取景器相机，1950 年发布",
-  "description": "The Takka and Tacker (タッカー) are Japanese subminiature cameras.",
+  "description": "Takka于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Takka and Tacker"
+    "Camera-wiki": "Takka and Tacker",
+    "英文简介": "The Takka and Tacker (タッカー) are Japanese subminiature cameras."
   },
   "images": [],
   "sources": [

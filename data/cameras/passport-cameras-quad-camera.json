@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Passport cameras一次成像相机，1964 年发布",
-  "description": "The Quad Camera was invented as passport photo shooter for the U.S.",
+  "description": "Passport cameras于1964年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Quad Camera"
+    "Camera-wiki": "Quad Camera",
+    "英文简介": "The Quad Camera was invented as passport photo shooter for the U.S."
   },
   "images": [],
   "sources": [

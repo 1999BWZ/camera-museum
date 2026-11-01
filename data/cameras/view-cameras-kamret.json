@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras大画幅相机，1900 年发布",
-  "description": "The Kamret is a plate camera produced by the British company Lancaster\n\nCategory:View cameras\nCategory:1900-1905\nKamret Lancaster\nCategory:UK",
+  "description": "View cameras于1900年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kamret"
+    "Camera-wiki": "Kamret",
+    "英文简介": "The Kamret is a plate camera produced by the British company Lancaster\n\nCategory:View cameras\nCategory:1900-1905\nKamret Lancaster\nCategory:UK"
   },
   "images": [],
   "sources": [

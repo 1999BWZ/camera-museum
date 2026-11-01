@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nettel折叠相机，1914 年发布",
-  "description": "The Reflex-Nettel is a 9x12 cm size folding plate reflex camera with a focal-plane shutter, made by the German company Nettel Camerawerk c.1914[https://resolver.kb.nl/resolve?urn=MMNFM01:015843021:00008 Article \"Fotografische Nieuwigheden\" (Photography News)] as published in the October 1914 issue o",
+  "description": "Nettel于1914年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Reflex-Nettel"
+    "Camera-wiki": "Reflex-Nettel",
+    "英文简介": "The Reflex-Nettel is a 9x12 cm size folding plate reflex camera with a focal-plane shutter, made by the German company Nettel Camerawerk c.1914[https://resolver.kb.nl/resolve?urn=MMNFM01:015843021:00008 Article \"Fotografische Nieuwigheden\" (Photography News)] as published in the October 1914 issue of the Dutch photography magazine \"Lux\"."
   },
   "images": [],
   "sources": [

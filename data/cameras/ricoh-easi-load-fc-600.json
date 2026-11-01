@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1972 年发布",
-  "description": "The Sears Easi-Load FC 600 is a rebadged version of a Ricoh 126C Automatic camera for Kodapak cartridges.",
+  "description": "理光于1972年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sears Easi-Load FC 600"
+    "Camera-wiki": "Sears Easi-Load FC 600",
+    "英文简介": "The Sears Easi-Load FC 600 is a rebadged version of a Ricoh 126C Automatic camera for Kodapak cartridges."
   },
   "images": [],
   "sources": [

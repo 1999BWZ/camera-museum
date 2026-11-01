@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，1997 年发布",
-  "description": "The Panasonic Cardshot NV-DCF1 is a digital camera released in 1997.",
+  "description": "松下于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Cardshot NV-DCF1"
+    "Camera-wiki": "Panasonic Cardshot NV-DCF1",
+    "英文简介": "The Panasonic Cardshot NV-DCF1 is a digital camera released in 1997."
   },
   "images": [],
   "sources": [

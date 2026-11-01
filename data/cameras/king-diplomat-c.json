@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King胶片相机，1967 年发布",
-  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "description": "King于1967年推出的胶片相机。配备Isco Optik - Single element meniscus lens fixed focus. Focal length is about 45mm and the aperture is between f/11 and f/16.。快门速度Single speed, probably in the 1/30-50th range。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula Diplomat C"
+    "Camera-wiki": "Regula Diplomat C",
+    "镜头": "Isco Optik - Single element meniscus lens fixed focus. Focal length is about 45mm and the aperture is between f/11 and f/16.",
+    "快门": "Single speed, probably in the 1/30-50th range",
+    "自拍": "No",
+    "闪光灯": "Flashcube socket on the top of the camera, slides open with a metal tab",
+    "尺寸": "110mm x 71mm x 54mm (W*H*D)",
+    "重量": "178g",
+    "英文简介": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!"
   },
   "images": [],
   "sources": [

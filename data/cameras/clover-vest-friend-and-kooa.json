@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Clover折叠相机，1937 年发布",
-  "description": "The Clover Vest, the Friend and the Kooa are Japanese folding cameras taking 4×6.5cm exposures on 127 film, dating from the second half of the 1930s.",
+  "description": "Clover于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Clover Vest, Friend and Kooa"
+    "Camera-wiki": "Clover Vest, Friend and Kooa",
+    "英文简介": "The Clover Vest, the Friend and the Kooa are Japanese folding cameras taking 4×6.5cm exposures on 127 film, dating from the second half of the 1930s."
   },
   "images": [],
   "sources": [

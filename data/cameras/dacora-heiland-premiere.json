@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dacora取景器相机，1955 年发布",
-  "description": "The Heiland Research company had been acquired by Honeywell in 1954, and become their photo products division.",
+  "description": "Dacora于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Heiland Premiere"
+    "Camera-wiki": "Heiland Premiere",
+    "英文简介": "The Heiland Research company had been acquired by Honeywell in 1954, and become their photo products division."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2000 年发布",
-  "description": "The EI-200 is a early digital camera from Pentax released in 2000.",
+  "description": "宾得于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax EI-200"
+    "Camera-wiki": "Pentax EI-200",
+    "英文简介": "The EI-200 is a early digital camera from Pentax released in 2000."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kershaw-Soho折叠相机，1933 年发布",
-  "description": "The Soho Pilot was a 120 film folding camera made in England by Soho Ltd., c.1933.",
+  "description": "Kershaw-Soho于1933年推出的折叠相机。配备fixed aperture, fixed focus。快门速度single speed + T。使用120, eight 6x9cm frames。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Soho Pilot"
+    "Camera-wiki": "Soho Pilot",
+    "快门": "single speed + T",
+    "镜头": "fixed aperture, fixed focus",
+    "胶片/画幅": "120, eight 6x9cm frames",
+    "英文简介": "The Soho Pilot was a 120 film folding camera made in England by Soho Ltd., c.1933."
   },
   "images": [],
   "sources": [

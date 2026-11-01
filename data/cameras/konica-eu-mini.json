@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1993 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe EU-Mini is a very small point and shoot compact camera introduced by Konica in 1993.",
+  "description": "柯尼卡于1993年推出的取景器相机。配备Konica 28mm f/6.7 3 groups, 3 elements. Closest focus: 90cm.。快门速度Three speeds: 1/60-1/180s (1/60 during flash discharge) electronically programmed shutter, serves as lens diaphragm.。使用Motordrive and rewind.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica EU-mini"
+    "Camera-wiki": "Konica EU-mini",
+    "镜头": "Konica 28mm f/6.7 3 groups, 3 elements. Closest focus: 90cm.",
+    "快门": "Three speeds: 1/60-1/180s (1/60 during flash discharge) electronically programmed shutter, serves as lens diaphragm.",
+    "曝光测光": "Fully automatic with film speeds of 100-400 ISO (DX coded).",
+    "胶片/画幅": "Motordrive and rewind.",
+    "取景器": "Reversed Galilean; magnification ratio 0.45.",
+    "尺寸": "110×61×32.5mm",
+    "重量": "135g (without battery).",
+    "电池": "1x CR123A",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe EU-Mini is a very small point and shoot compact camera introduced by Konica in 1993."
   },
   "images": [],
   "sources": [

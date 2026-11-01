@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus旁轴相机，1960 年发布",
-  "description": "Note: The Japanese-made Argus Automatic 35 is a different model\n\nThe Argus Autronic 35 is a rangefinder camera introduced by Argus in 1960.",
+  "description": "Argus于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus Autronic 35"
+    "Camera-wiki": "Argus Autronic 35",
+    "英文简介": "Note: The Japanese-made Argus Automatic 35 is a different model\n\nThe Argus Autronic 35 is a rangefinder camera introduced by Argus in 1960."
   },
   "images": [],
   "sources": [

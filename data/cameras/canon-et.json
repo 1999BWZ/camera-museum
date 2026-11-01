@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能旁轴相机，1961 年发布",
-  "description": "The Canon Canonet was released in 1961 and is remembered as Canon's first entry into the intermediate-class camera market, and also the first of the highly successful Canonet series of 35mm automatic-exposure rangefinder cameras.",
+  "description": "佳能于1961年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Canonet"
+    "Camera-wiki": "Canon Canonet",
+    "英文简介": "The Canon Canonet was released in 1961 and is remembered as Canon's first entry into the intermediate-class camera market, and also the first of the highly successful Canonet series of 35mm automatic-exposure rangefinder cameras."
   },
   "images": [],
   "sources": [

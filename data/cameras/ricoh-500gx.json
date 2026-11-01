@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1977 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Ricoh 500 GX is a rangefinder camera with fixed lens made in Taiwan by Ricoh.",
+  "description": "理光于1977年推出的旁轴相机。配备Rikenon 1:2.8/40mm。快门速度Speeds 1/8 - 1/500 sec.。manual focusing with help of coupled rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 500GX"
+    "Camera-wiki": "Ricoh 500GX",
+    "镜头": "Rikenon 1:2.8/40mm",
+    "快门": "Speeds 1/8 - 1/500 sec.",
+    "光圈": "1/2.8 - 1:16",
+    "曝光测光": "manual shutter speed selection, aperture controlled by CdS-meter or manually",
+    "取景器": "optical finder, superimposed rangefinder, parallax correction marks, \"M\" for manual operation visible, and the exposure meter's needle shows f-stop value or works as battery control",
+    "对焦": "manual focusing with help of coupled rangefinder",
+    "电池": "1,35 volt mercury battery PX675",
+    "尺寸": "111×71×56 mm",
+    "重量": "420 g",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Ricoh 500 GX is a rangefinder camera with fixed lens made in Taiwan by Ricoh."
   },
   "images": [],
   "sources": [

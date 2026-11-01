@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox取景器相机，1985 年发布",
-  "description": "The Minox name carries James Bond cachet and the Minox 35 line has the honor of being the smallest and lighter production full-frame 35mm camera made.",
+  "description": "Minox于1985年推出的取景器相机。配备35 mm f/2.8 (four elements in three groups)。快门速度1/500 to more than 2 seconds。使用35mm film。感光度ISO 25 (15°) to ISO 1600 (33°)。0.9m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox 35 ML"
+    "Camera-wiki": "Minox 35 ML",
+    "胶片/画幅": "35mm film",
+    "镜头": "35 mm f/2.8 (four elements in three groups)",
+    "对焦": "0.9m to infinity",
+    "曝光测光": "auto or aperture priority",
+    "快门速度": "1/500 to more than 2 seconds",
+    "感光度": "ISO 25 (15°) to ISO 1600 (33°)",
+    "闪光灯": "Hot shoe contacts",
+    "自拍": "8 sec. delay",
+    "电池": "One PX28 6V",
+    "尺寸": "100 x 62 x 31mm",
+    "重量": "180 g",
+    "英文简介": "The Minox name carries James Bond cachet and the Minox 35 line has the honor of being the smallest and lighter production full-frame 35mm camera made."
   },
   "images": [],
   "sources": [

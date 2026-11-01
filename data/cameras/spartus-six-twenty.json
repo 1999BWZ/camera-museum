@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spartus胶片相机，1950 年发布",
-  "description": "A nicely-styled pseudo-TLR from Herold Products Co.",
+  "description": "Spartus于1950年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Spartus Six Twenty"
+    "Camera-wiki": "Spartus Six Twenty",
+    "英文简介": "A nicely-styled pseudo-TLR from Herold Products Co."
   },
   "images": [],
   "sources": [

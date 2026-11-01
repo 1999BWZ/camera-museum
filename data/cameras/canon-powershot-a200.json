@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2002 年发布",
-  "description": "The PowerShot A200 is a compact digital camera which was introduced by Canon in June 2002.",
+  "description": "佳能于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A200"
+    "Camera-wiki": "Canon PowerShot A200",
+    "英文简介": "The PowerShot A200 is a compact digital camera which was introduced by Canon in June 2002."
   },
   "images": [],
   "sources": [

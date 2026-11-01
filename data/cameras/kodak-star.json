@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1985 年发布",
-  "description": "The Kodak Star is a Brazilian made 110 film camera from the 1980s.[http://kodak.3106.net/index.php?p=211&cam=1061 Kodak Star] at [http://kodak.3106.net/index.php Kodak Classics] It has a facility for disposable Flipflash for indoor photography.",
+  "description": "柯达于1985年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star"
+    "Camera-wiki": "Kodak Star",
+    "英文简介": "The Kodak Star is a Brazilian made 110 film camera from the 1980s.[http://kodak.3106.net/index.php?p=211&cam=1061 Kodak Star] at [http://kodak.3106.net/index.php Kodak Classics] It has a facility for disposable Flipflash for indoor photography."
   },
   "images": [],
   "sources": [

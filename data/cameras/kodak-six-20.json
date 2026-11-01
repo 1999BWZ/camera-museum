@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1938 年发布",
-  "description": "The Super Kodak Six-20 is accepted as being the world's first camera with automatic exposure, despite its small production run.",
+  "description": "柯达于1938年推出的旁轴相机。配备Kodak Anastigmat Special 100mm f/3.5, focus 4ft-infinity。快门速度Compur, 8 speeds up to 1/200; shutter priority auto from 1/25-1/200, slower speeds available manually。使用620, frame size 2¼ x 3¼ inches, 6x9cm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Super Six-20"
+    "Camera-wiki": "Kodak Super Six-20",
+    "镜头": "Kodak Anastigmat Special 100mm f/3.5, focus 4ft-infinity",
+    "快门": "Compur, 8 speeds up to 1/200; shutter priority auto from 1/25-1/200, slower speeds available manually",
+    "胶片/画幅": "620, frame size 2¼ x 3¼ inches, 6x9cm",
+    "英文简介": "The Super Kodak Six-20 is accepted as being the world's first camera with automatic exposure, despite its small production run."
   },
   "images": [],
   "sources": [

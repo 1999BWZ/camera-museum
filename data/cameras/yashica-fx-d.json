@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1980 年发布",
-  "description": "__NOTOC__\n{|align=right\n|\n\n|-\n||\n\n|}\nThe Yashica FX-D is \" The little sister\" of the Contax 139 Quartz released in 1980.",
+  "description": "雅西卡于1980年推出的胶片单反相机。快门速度Quartz-timed electronic shutter with variable speeds on AUTO from 1/1000 to 1 seconds. Manual from 1/1000 to 1 sec., plus X (1/100 sec.) and \"B\" Sync speed of 1/100 sec.。使用With rapid advance lever; 130° setting angle; 20° standoff position.。Horizontal split-image spot, with microprism collar and matte field.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica FX-D"
+    "Camera-wiki": "Yashica FX-D",
+    "尺寸": "24 x 36 mm",
+    "卡口": "Contax/Yashica bayonet mount.",
+    "快门": "Electronic vertical running metal focal plane shutter.",
+    "快门速度": "Quartz-timed electronic shutter with variable speeds on AUTO from 1/1000 to 1 seconds. Manual from 1/1000 to 1 sec., plus X (1/100 sec.) and \"B\" Sync speed of 1/100 sec.",
+    "曝光测光": "TTL, center-weighted at full aperture. Aperture-preferred automatic exposure.",
+    "取景器": "Fixed eye-level pentaprism type; field of view 95%; 0.86 magnification (with 50 mm lens)",
+    "对焦": "Horizontal split-image spot, with microprism collar and matte field.",
+    "胶片/画幅": "With rapid advance lever; 130° setting angle; 20° standoff position.",
+    "自拍": "Electronic self-timer with 10 sec. delay.",
+    "重量": "460g",
+    "英文简介": "__NOTOC__\n{|align=right\n|\n\n|-\n||\n\n|}\nThe Yashica FX-D is \" The little sister\" of the Contax 139 Quartz released in 1980."
   },
   "images": [],
   "sources": [

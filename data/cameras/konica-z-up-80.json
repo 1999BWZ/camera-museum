@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1989 年发布",
-  "description": "The Konica Z-up 80 RC is a compact 35mm film camera built by Konica of Japan.",
+  "description": "柯尼卡于1989年推出的胶片单反相机。配备Konica Lens 40mm f/7.2, 8 elements in 7 groups。快门速度Programmed, 1 ~ 1/500 sec.。感光度ISO 50 ~ 3200 by DX-code system, 100 ISO non-DX。IR based autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Z-up 80"
+    "Camera-wiki": "Konica Z-up 80",
+    "镜头": "Konica Lens 40mm f/7.2, 8 elements in 7 groups",
+    "对焦": "IR based autofocus",
+    "快门": "Programmed, 1 ~ 1/500 sec.",
+    "取景器": "bright-frame zoom",
+    "感光度": "ISO 50 ~ 3200 by DX-code system, 100 ISO non-DX",
+    "尺寸": "138.5 mm X 85 mm X 73 mm",
+    "重量": "450 g (without batteries)",
+    "英文简介": "The Konica Z-up 80 RC is a compact 35mm film camera built by Konica of Japan."
   },
   "images": [],
   "sources": [

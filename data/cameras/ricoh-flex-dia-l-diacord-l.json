@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1957 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Ricohflex Dia L is a 6x6 TLR camera made in Japan by Ricoh from 1957.",
+  "description": "理光于1957年推出的胶片相机。配备Rikenon f 3.5 / 80mm - 4 elements in 3 groups。快门速度Seikosha MXL, Speeds 1 - 1/500 sec + B。manual focusing by Ricoh Viewer lens。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricohflex Dia L - Diacord L"
+    "Camera-wiki": "Ricohflex Dia L - Diacord L",
+    "镜头": "Rikenon f 3.5 / 80mm - 4 elements in 3 groups",
+    "快门": "Seikosha MXL, Speeds 1 - 1/500 sec + B",
+    "曝光测光": "Light Value system with built-in uncoupled exposure meter",
+    "对焦": "manual focusing by Ricoh Viewer lens",
+    "尺寸": "77mm x 207mm x 101mm",
+    "重量": "1010 g",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Ricohflex Dia L is a 6x6 TLR camera made in Japan by Ricoh from 1957."
   },
   "images": [],
   "sources": [

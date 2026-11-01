@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，2011 年发布",
-  "description": "佳能于2011年发布的便携相机。",
+  "description": "佳能于2011年推出的便携相机。配备5.2–26.0 mm 2.0–5.9(35 mm equivalent: 24–120 mm 9.3–27.3)。快门速度Mechanical and electronic shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1033539",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "传感器": "1/1,7\" CMOS",
+    "镜头": "5.2–26.0 mm 2.0–5.9(35 mm equivalent: 24–120 mm 9.3–27.3)",
+    "快门速度": "Mechanical and electronic shutter",
+    "曝光测光": "| emode =",
+    "闪光灯": "50 cm – 7 m (wide), 90 cm – 2.3 m (tele)",
+    "存储": "Secure Digital card (incl. SDHC and SDXC)",
+    "电池": "Canon NB-5L Li-Ion",
+    "重量": "excluding battery"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leidolf取景器相机，1960 年发布",
-  "description": "The Lordox Junior is a 35mm viewfinder camera produced c.1960, p.598 by the German company Leidolf.",
+  "description": "Leidolf于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lordox Junior"
+    "Camera-wiki": "Lordox Junior",
+    "英文简介": "The Lordox Junior is a 35mm viewfinder camera produced c.1960, p.598 by the German company Leidolf."
   },
   "images": [],
   "sources": [

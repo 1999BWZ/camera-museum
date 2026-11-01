@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2003 年发布",
-  "description": "This is a 3-megapixel model introduced by Nikon in 2003.",
+  "description": "尼康于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix SQ"
+    "Camera-wiki": "Nikon Coolpix SQ",
+    "英文简介": "This is a 3-megapixel model introduced by Nikon in 2003."
   },
   "images": [],
   "sources": [

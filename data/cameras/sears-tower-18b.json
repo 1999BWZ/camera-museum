@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears旁轴相机，1962 年发布",
-  "description": "A rangefinder camera built by Mamiya for Sears, with a selenium meter.",
+  "description": "Sears于1962年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tower 18B"
+    "Camera-wiki": "Tower 18B",
+    "英文简介": "A rangefinder camera built by Mamiya for Sears, with a selenium meter."
   },
   "images": [
     {

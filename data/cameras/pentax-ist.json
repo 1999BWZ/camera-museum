@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，2003 年发布",
-  "description": "The *ist is a 35mm autofocus SLR camera from Pentax introduced in 2003.",
+  "description": "宾得于2003年推出的胶片单反相机。快门速度Electronically controlled, vertical-travel, multiblade focal-plane shutter with speeds from 30-1/4000 sec plus B,。**Nine cross sensors sensitive to both horizontal- and vertical-line subjects with single-line sensors at right and left.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax *ist"
+    "Camera-wiki": "Pentax *ist",
+    "对焦": "**Nine cross sensors sensitive to both horizontal- and vertical-line subjects with single-line sensors at right and left.",
+    "快门": "Electronically controlled, vertical-travel, multiblade focal-plane shutter with speeds from 30-1/4000 sec plus B,",
+    "曝光测光": "16-segment evaluative metering, centerweighted or spot from EV 0 to EV 21 at ISO 100 with a 50mm f/1.4 lens;",
+    "电池": "Two CR2 lithium batteries.",
+    "英文简介": "The *ist is a 35mm autofocus SLR camera from Pentax introduced in 2003."
   },
   "images": [],
   "sources": [

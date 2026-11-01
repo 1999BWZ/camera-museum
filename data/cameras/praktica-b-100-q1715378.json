@@ -1,0 +1,32 @@
+{
+  "id": "praktica-b-100-q1715378",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "潘太康",
+  "model": "B 100",
+  "year": 1981,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片相机，1981 年发布",
+  "description": "潘泰康于1981年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1715378",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Praktica B 100",
+      "url": "https://www.wikidata.org/wiki/Q1715378"
+    }
+  ],
+  "qid": "Q1715378",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

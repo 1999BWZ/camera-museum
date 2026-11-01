@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1967 年发布",
-  "description": "The Quickmatic series were the only Olympus cameras to use 126 film.",
+  "description": "奥林巴斯于1967年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Quickmatic"
+    "Camera-wiki": "Olympus Quickmatic",
+    "英文简介": "The Quickmatic series were the only Olympus cameras to use 126 film."
   },
   "images": [],
   "sources": [

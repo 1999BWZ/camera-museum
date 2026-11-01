@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发盒式相机，1933 年发布",
-  "description": "In 1932 the German Agfa company had a new idea for an advertising campaign.",
+  "description": "爱克发于1933年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Box 44"
+    "Camera-wiki": "Agfa Box 44",
+    "英文简介": "In 1932 the German Agfa company had a new idea for an advertising campaign."
   },
   "images": [],
   "sources": [

@@ -1,0 +1,40 @@
+{
+  "id": "unknown-kowa-six",
+  "brand": "兴和 (日本公司)",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "兴和 (日本公司)",
+  "model": "Kowa Six",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "兴和 (日本公司)胶片单反相机，1968 年发布",
+  "description": "兴和 (日本公司)于1968年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q94440347",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kowa%20Six%20MM%20medium%20format%20SLR%20film%20camera.jpg?width=800",
+      "caption": "Kowa Six",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q94440347"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Kowa Six",
+      "url": "https://www.wikidata.org/wiki/Q94440347"
+    }
+  ],
+  "qid": "Q94440347",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

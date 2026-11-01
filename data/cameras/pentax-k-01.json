@@ -13,11 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，2012 年发布",
-  "description": "宾得于2012年发布的数码单反相机。",
+  "description": "宾得于2012年推出的数码单反相机。配备Pentax KAF2 mount。快门速度1/4000-30 seconds。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q2069372",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "传感器": "APS-C CMOS sensor",
+    "镜头": "Pentax KAF2 mount",
+    "快门速度": "1/4000-30 seconds",
+    "屏幕": "3\"",
+    "电池": "| emode =",
+    "重量": "Without battery or removable memory: 480g (16.9 oz); 560g (19.8 oz) with dedicated battery & SD memory card"
   },
   "images": [
     {

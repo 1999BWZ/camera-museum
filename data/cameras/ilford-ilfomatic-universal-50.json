@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford胶片相机，1967 年发布",
-  "description": "Ilford offered this simple camera for 126 film in the mid 1960s.",
+  "description": "Ilford于1967年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Ilfomatic Universal 50"
+    "Camera-wiki": "Ilford Ilfomatic Universal 50",
+    "英文简介": "Ilford offered this simple camera for 126 film in the mid 1960s."
   },
   "images": [],
   "sources": [

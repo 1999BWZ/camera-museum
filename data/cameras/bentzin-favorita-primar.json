@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bentzin折叠相机，1928 年发布",
-  "description": "The Bentzin Favorita-Primar (sometimes also called: Favorit-Primar) is a folding plate camera produced by Curt Bentzin, Görlitz, Germany, from c.",
+  "description": "Bentzin于1928年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bentzin Favorita-Primar"
+    "Camera-wiki": "Bentzin Favorita-Primar",
+    "英文简介": "The Bentzin Favorita-Primar (sometimes also called: Favorit-Primar) is a folding plate camera produced by Curt Bentzin, Görlitz, Germany, from c."
   },
   "images": [],
   "sources": [

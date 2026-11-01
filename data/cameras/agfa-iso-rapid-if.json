@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1965 年发布",
-  "description": "The Iso-Rapid IF is a small rectanglar camera made in Germany by Agfa, c.1965, for their Rapid film catridges.",
+  "description": "爱克发于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Iso-Rapid IF"
+    "Camera-wiki": "Iso-Rapid IF",
+    "英文简介": "The Iso-Rapid IF is a small rectanglar camera made in Germany by Agfa, c.1965, for their Rapid film catridges."
   },
   "images": [],
   "sources": [

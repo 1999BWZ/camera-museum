@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时胶片单反相机，1996 年发布",
-  "description": "The AX is a 35mm SLR made in 1996 by Kyocera/Yashica.",
+  "description": "康泰时于1996年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax AX"
+    "Camera-wiki": "Contax AX",
+    "英文简介": "The AX is a 35mm SLR made in 1996 by Kyocera/Yashica."
   },
   "images": [],
   "sources": [

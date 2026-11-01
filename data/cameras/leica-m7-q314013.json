@@ -13,11 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2002 年发布",
-  "description": "徕卡于2002年发布的旁轴相机。",
+  "description": "徕卡于2002年推出的旁轴相机。配备Leica M-mount。快门速度Electronically controlled horizontal cloth focal plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q314013",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "胶片/画幅": "35 mm",
+    "镜头": "Leica M-mount",
+    "对焦": "Manual",
+    "曝光测光": "Aperture priority semi-automatic, Manual",
+    "快门速度": "Electronically controlled horizontal cloth focal plane",
+    "闪光灯": "Hot Shoe",
+    "重量": "610g"
   },
   "images": [
     {

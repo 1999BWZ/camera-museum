@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2014 年发布",
-  "description": "The K-3 is the flagship APSC-DSLR from the Pentax brand of Ricoh Imaging, introduced in 2014.",
+  "description": "宾得于2014年推出的数码相机。快门速度1/8,000 to 30s, Bulb.。感光度ISO equivalent 100-51,200.。Not user serviceable, but the following are available:。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-3"
+    "Camera-wiki": "Pentax K-3",
+    "传感器": "24.4 Megapixel (6016 x 4000) APS-C (23.5 x 15.6mm) CMOS sensor without an anti-aliasing filter.",
+    "卡口": "Pentax KAF2 and KAF3.",
+    "取景器": "Pentaprism with 100% Coverage of the field of view. Magnification: 0.95X (with 50mm F1.4 at infinity).",
+    "感光度": "ISO equivalent 100-51,200.",
+    "快门速度": "1/8,000 to 30s, Bulb.",
+    "电池": "D-LI90P lithium ion rechargable.",
+    "重量": "800g (1.76 lb/28.22 oz) with battery and SD card.",
+    "尺寸": "132.1 x 100 x 78.7mm (5.16 x 3.94 x 3.03 in)",
+    "对焦": "Not user serviceable, but the following are available:",
+    "英文简介": "The K-3 is the flagship APSC-DSLR from the Pentax brand of Ricoh Imaging, introduced in 2014."
   },
   "images": [],
   "sources": [

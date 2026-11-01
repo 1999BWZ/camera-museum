@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1981 年发布",
-  "description": "The Praktica B 100 electronic is a 35mm SLR camera released by Praktica in 1981 in their B series of cameras p.777..",
+  "description": "潘泰康于1981年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica B 100"
+    "Camera-wiki": "Praktica B 100",
+    "尺寸": "138x87x49 mm",
+    "重量": "530gr. (body only)",
+    "英文简介": "The Praktica B 100 electronic is a 35mm SLR camera released by Praktica in 1981 in their B series of cameras p.777.."
   },
   "images": [],
   "sources": [

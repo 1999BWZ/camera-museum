@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1997 年发布",
-  "description": "This bulky 35mm film camera was part of Olympus' Superzoom series.",
+  "description": "奥林巴斯于1997年推出的胶片相机。配备35-70mm, f/5.6-9.6。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Accura/Superzoom 700BF"
+    "Camera-wiki": "Olympus Accura/Superzoom 700BF",
+    "镜头": "35-70mm, f/5.6-9.6",
+    "闪光灯": "auto, off, fill-in.",
+    "英文简介": "This bulky 35mm film camera was part of Olympus' Superzoom series."
   },
   "images": [],
   "sources": [

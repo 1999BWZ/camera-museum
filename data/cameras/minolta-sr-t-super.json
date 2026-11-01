@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1973 年发布",
-  "description": "The Minolta SR-T Super (SR-T 102 in USA and Canada, SR-T 303 elsewhere) is basically a Minolta SR-T 101, but with a hot shoe, a focusing screen with split-image rangefinder, multi-exposure capability, and the selected aperture value visible in the viewfinder.",
+  "description": "美能达于1973年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-T Super"
+    "Camera-wiki": "Minolta SR-T Super",
+    "英文简介": "The Minolta SR-T Super (SR-T 102 in USA and Canada, SR-T 303 elsewhere) is basically a Minolta SR-T 101, but with a hot shoe, a focusing screen with split-image rangefinder, multi-exposure capability, and the selected aperture value visible in the viewfinder."
   },
   "images": [],
   "sources": [

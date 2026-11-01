@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1929 年发布",
-  "description": "The Miroflex is a strut folding single lens reflex camera, made by Zeiss Ikon from 1929-1936.",
+  "description": "Zeiss Ikon于1929年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miroflex"
+    "Camera-wiki": "Miroflex",
+    "英文简介": "The Miroflex is a strut folding single lens reflex camera, made by Zeiss Ikon from 1929-1936."
   },
   "images": [],
   "sources": [

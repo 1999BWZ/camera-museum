@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1927 年发布",
-  "description": "The Zeiss Ikon Maximar comes in 3 different sizes, 6x9cm, 9x12cm and 10x15cm.",
+  "description": "Zeiss Ikon于1927年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Maximar"
+    "Camera-wiki": "Maximar",
+    "英文简介": "The Zeiss Ikon Maximar comes in 3 different sizes, 6x9cm, 9x12cm and 10x15cm."
   },
   "images": [],
   "sources": [

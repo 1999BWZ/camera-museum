@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1958 年发布",
-  "description": "The Brownie Flash B is a box camera taking 2&frac14; &times; 3&frac14;\" frames on 620 film, made of sheet metal by Kodak Ltd.",
+  "description": "柯达于1958年推出的盒式相机。配备Kodet f/11 with close-up lens and cloud filter.。快门速度Single blade。使用type 620 roll film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Flash B"
+    "Camera-wiki": "Kodak Brownie Flash B",
+    "胶片/画幅": "type 620 roll film",
+    "镜头": "Kodet f/11 with close-up lens and cloud filter.",
+    "快门": "Single blade",
+    "英文简介": "The Brownie Flash B is a box camera taking 2&frac14; &times; 3&frac14;\" frames on 620 film, made of sheet metal by Kodak Ltd."
   },
   "images": [],
   "sources": [

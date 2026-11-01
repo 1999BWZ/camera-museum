@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cornu取景器相机，1950 年发布",
-  "description": "The 'Week-end Bob is a 35mm film camera produced by the French company Cornu",
+  "description": "Cornu于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Week-end Bob"
+    "Camera-wiki": "Week-end Bob",
+    "英文简介": "The 'Week-end Bob is a 35mm film camera produced by the French company Cornu"
   },
   "images": [],
   "sources": [

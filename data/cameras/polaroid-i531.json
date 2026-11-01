@@ -1,0 +1,32 @@
+{
+  "id": "polaroid-i531",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "宝丽来",
+  "model": "i531",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "便携数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来便携数码相机，2001 年发布",
+  "description": "宝丽来于2001年发布的便携数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7209179",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Polaroid i531",
+      "url": "https://www.wikidata.org/wiki/Q7209179"
+    }
+  ],
+  "qid": "Q7209179",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

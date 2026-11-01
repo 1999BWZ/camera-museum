@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer旁轴相机，1958 年发布",
-  "description": "The Vitomatic II is a camera made by Voigtländer from the first generation of 35mm Vitomatic.",
+  "description": "Voigtländer于1958年推出的旁轴相机。配备Color-Skopar 50mm f/2.8 (4 elements in 3 groups).。快门速度Prontor SLK-V shutter (B, 1-300 sec) + built-in 8 second self-timer. Late cameras have a top speed of 500.。Manual with Rangefinder. Distance scale with zone focusing symbols.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitomatic II"
+    "Camera-wiki": "Vitomatic II",
+    "取景器": "Brilliant finder shows image at about 1:1. Superimposed Rangefinder",
+    "对焦": "Manual with Rangefinder. Distance scale with zone focusing symbols.",
+    "镜头": "Color-Skopar 50mm f/2.8 (4 elements in 3 groups).",
+    "快门": "Prontor SLK-V shutter (B, 1-300 sec) + built-in 8 second self-timer. Late cameras have a top speed of 500.",
+    "曝光测光": "Manual match needle in top-plate window",
+    "英文简介": "The Vitomatic II is a camera made by Voigtländer from the first generation of 35mm Vitomatic."
   },
   "images": [],
   "sources": [

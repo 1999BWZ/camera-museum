@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wirgin折叠相机，1948 年发布",
-  "description": "The Wirgin Deluxe was sold by Camera Specialty Company of New York CityThe address for Camera Specialty Co.",
+  "description": "Wirgin于1948年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wirgin Deluxe"
+    "Camera-wiki": "Wirgin Deluxe",
+    "英文简介": "The Wirgin Deluxe was sold by Camera Specialty Company of New York CityThe address for Camera Specialty Co."
   },
   "images": [],
   "sources": [

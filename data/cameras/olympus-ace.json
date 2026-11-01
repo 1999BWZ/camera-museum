@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1958 年发布",
-  "description": "{|\n|\n|-\n\n|}\n\nThe Ace is a 35mm coupled-rangefinder camera, introduced by Olympus in 1958.",
+  "description": "奥林巴斯于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Ace"
+    "Camera-wiki": "Olympus Ace",
+    "英文简介": "{|\n|\n|-\n\n|}\n\nThe Ace is a 35mm coupled-rangefinder camera, introduced by Olympus in 1958."
   },
   "images": [],
   "sources": [

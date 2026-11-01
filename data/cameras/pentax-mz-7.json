@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1999 年发布",
-  "description": "The MZ-7 (ZX-7 in the USA) is a autofocus 35mm SLR camera from Pentax introduced in 1999 as a succesor of the MZ-5/5n.",
+  "description": "宾得于1999年推出的胶片单反相机。快门速度Focal plane shutter with speeds from 30 to 1/2000 sec. B, 2 to 1/2000 sec manual. Flash Sync 1/30 to 1/100。使用35mm film with speeds of 25 to 5000 ISO, with auto DX, 6 to 6400 ISO manual。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax MZ-7"
+    "Camera-wiki": "Pentax MZ-7",
+    "卡口": "Pentax KAF2",
+    "胶片/画幅": "35mm film with speeds of 25 to 5000 ISO, with auto DX, 6 to 6400 ISO manual",
+    "快门": "Focal plane shutter with speeds from 30 to 1/2000 sec. B, 2 to 1/2000 sec manual. Flash Sync 1/30 to 1/100",
+    "闪光灯": "Built-in, Guide number 11 - slow synch and automatic daylight synch; discharge level automatically adjusted; redeye reduction mode selectable",
+    "尺寸": "approx 135.5 × 92 × 63.5mm (5.3x3.6 x2.5\")",
+    "重量": "395g (13.9 oz)",
+    "英文简介": "The MZ-7 (ZX-7 in the USA) is a autofocus 35mm SLR camera from Pentax introduced in 1999 as a succesor of the MZ-5/5n."
   },
   "images": [],
   "sources": [

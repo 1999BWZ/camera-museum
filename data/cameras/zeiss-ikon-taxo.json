@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1926 年发布",
-  "description": "The Taxo was a continuation by Zeiss Ikon of a model introduced by Contessa-Nettel.",
+  "description": "Zeiss Ikon于1926年推出的折叠相机。配备\"FRONTAR\" 1:9 F = 14 cm.。快门速度Dial-set Derval with 25, 50, 100, B, T speed settings。使用9x12 cm.。sliding bed with distance scale on the side。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taxo"
+    "Camera-wiki": "Taxo",
+    "胶片/画幅": "9x12 cm.",
+    "镜头": "\"FRONTAR\" 1:9 F = 14 cm.",
+    "快门": "Dial-set Derval with 25, 50, 100, B, T speed settings",
+    "取景器": "Reflex finder",
+    "对焦": "sliding bed with distance scale on the side",
+    "重量": "4.8x10x15.5 cm; 787 gr.",
+    "英文简介": "The Taxo was a continuation by Zeiss Ikon of a model introduced by Contessa-Nettel."
   },
   "images": [],
   "sources": [

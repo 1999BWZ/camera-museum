@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，2003 年发布",
-  "description": "The DiMAGE F300 is a 5-megapixel digital camera made by Minolta in 2003.",
+  "description": "美能达于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta DiMAGE F300"
+    "Camera-wiki": "Minolta DiMAGE F300",
+    "英文简介": "The DiMAGE F300 is a 5-megapixel digital camera made by Minolta in 2003."
   },
   "images": [],
   "sources": [

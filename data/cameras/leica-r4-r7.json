@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码单反相机，1980 年发布",
-  "description": "The Leica R4 family of Leica 35mm SLR cameras was launched in 1980.",
+  "description": "徕卡于1980年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica R4–R7"
+    "Camera-wiki": "Leica R4–R7",
+    "英文简介": "The Leica R4 family of Leica 35mm SLR cameras was launched in 1980."
   },
   "images": [],
   "sources": [

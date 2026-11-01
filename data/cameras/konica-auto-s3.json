@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1973 年发布",
-  "description": "The Konica Auto S3 is a versatile 35mm, shutter-priority rangefinder camera.",
+  "description": "柯尼卡于1973年推出的旁轴相机。配备f1.8 38mm, 6 elements in 4 groups。快门速度1/8-1/500 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Auto S3"
+    "Camera-wiki": "Konica Auto S3",
+    "镜头": "f1.8 38mm, 6 elements in 4 groups",
+    "快门速度": "1/8-1/500 sec.",
+    "闪光灯": "Flashmatic linked manual flash feature",
+    "取景器": "aperture, over/under exposure",
+    "尺寸": "115x60x77 mm",
+    "英文简介": "The Konica Auto S3 is a versatile 35mm, shutter-priority rangefinder camera."
   },
   "images": [],
   "sources": [

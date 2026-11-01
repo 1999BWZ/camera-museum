@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，2003 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Minolta Dimage F200 is a compact digital camera from 2003.",
+  "description": "美能达于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta DiMAGE F200"
+    "Camera-wiki": "Minolta DiMAGE F200",
+    "尺寸": "111x52x32",
+    "重量": "185gr. (without batt.)",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Minolta Dimage F200 is a compact digital camera from 2003."
   },
   "images": [],
   "sources": [

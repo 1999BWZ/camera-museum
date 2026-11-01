@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1900 年发布",
-  "description": "柯达于1900年发布的便携相机。",
+  "description": "柯达于1900年推出的便携相机。配备| lens = Meniscus Achromat lens。快门速度Rotary, 1/40 second。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q2729831",
-    "多语言词条数": "16"
+    "多语言词条数": "16",
+    "镜头": "| lens = Meniscus Achromat lens",
+    "胶片/画幅": "Eastman No. 117 rollfilm",
+    "对焦": "| fmode =",
+    "曝光测光": "| exbkt =",
+    "闪光灯": "| frame_rate =",
+    "快门速度": "Rotary, 1/40 second",
+    "取景器": "| magnification =",
+    "尺寸": "| weight ="
   },
   "images": [
     {

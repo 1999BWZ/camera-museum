@@ -1,0 +1,33 @@
+{
+  "id": "unknown-kyocera-finecam-sl300r",
+  "brand": "京瓷",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "京瓷",
+  "model": "Kyocera Finecam SL300R",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "京瓷数码相机，2003 年发布",
+  "description": "京瓷于2003年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q116622006",
+    "多语言词条数": "0",
+    "年份来源": "据英文描述推断"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Kyocera Finecam SL300R",
+      "url": "https://www.wikidata.org/wiki/Q116622006"
+    }
+  ],
+  "qid": "Q116622006",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

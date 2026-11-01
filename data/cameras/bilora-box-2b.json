@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bilora盒式相机，1935 年发布",
-  "description": "The Box 2b was a 6x9 box camera produced by Bilora.",
+  "description": "Bilora于1935年推出的盒式相机。快门速度Single catch \"sun/without sun\"。使用6 x 9。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Box 2b"
+    "Camera-wiki": "Box 2b",
+    "胶片/画幅": "6 x 9",
+    "快门": "Single catch \"sun/without sun\"",
+    "英文简介": "The Box 2b was a 6x9 box camera produced by Bilora."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sportie盒式相机，1924 年发布",
-  "description": "The Sportie Carbine is a box camera for 4x6.5cm (1⅝x2½ inch) exposures on 127 film, made by Butcher of London in the 1920s.",
+  "description": "Sportie于1924年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sportie Carbine"
+    "Camera-wiki": "Sportie Carbine",
+    "英文简介": "The Sportie Carbine is a box camera for 4x6.5cm (1⅝x2½ inch) exposures on 127 film, made by Butcher of London in the 1920s."
   },
   "images": [],
   "sources": [

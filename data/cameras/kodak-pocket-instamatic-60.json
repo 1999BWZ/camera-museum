@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1972 年发布",
-  "description": "One of many Kodak models for 110 film.",
+  "description": "柯达于1972年推出的便携相机。配备1:2.7/26mm Ektar。快门速度electronic leaf 10 sec. - 1/250 sec.。使用Type 110 cartridge for 16mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Pocket Instamatic 60"
+    "Camera-wiki": "Kodak Pocket Instamatic 60",
+    "胶片/画幅": "Type 110 cartridge for 16mm film",
+    "镜头": "1:2.7/26mm Ektar",
+    "快门": "electronic leaf 10 sec. - 1/250 sec.",
+    "曝光测光": "shutter speed and aperture automatically set by CdS cell",
+    "闪光灯": "connector for magicubes",
+    "取景器": "optical with superimposed coupled rangefinder",
+    "尺寸": "143×54×27mm",
+    "英文简介": "One of many Kodak models for 110 film."
   },
   "images": [
     {

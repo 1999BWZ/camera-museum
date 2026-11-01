@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，2000 年发布",
-  "description": "{|align=right\n||\n\n|valign=\"bottom\"|\n\n|-\n|colspan=2|\n\n|-\n|colspan=2 align=\"center\"|images by \n|}\nThe Vectis 3000 is a cute compact zoom camera, one of Minolta's Vectis series for the Advanced Photo System (APS) with built-in flash.",
+  "description": "美能达于2000年推出的便携相机。配备1:5,9-1:9,3/22-66mm zoom。快门速度8 - 1/500 sec.。infrared (?)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis 3000"
+    "Camera-wiki": "Minolta Vectis 3000",
+    "镜头": "1:5,9-1:9,3/22-66mm zoom",
+    "对焦": "infrared (?)",
+    "曝光测光": "dual-segment metering through meter window, range EV 4-17 (ASA 200)",
+    "快门速度": "8 - 1/500 sec.",
+    "取景器": "magnification 0.32x - 0.88x, field of view 86% when distance is 3m",
+    "闪光灯": "0.7 sec recycling time, reaching as far as 5 meters with ISO 400 film and the zoom lens in wide angle position",
+    "重量": "160 g (5,6 oz.) without the CR-2 battery",
+    "英文简介": "{|align=right\n||\n\n|valign=\"bottom\"|\n\n|-\n|colspan=2|\n\n|-\n|colspan=2 align=\"center\"|images by \n|}\nThe Vectis 3000 is a cute compact zoom camera, one of Minolta's Vectis series for the Advanced Photo System (APS) with built-in flash."
   },
   "images": [],
   "sources": [

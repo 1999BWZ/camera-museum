@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Steineck微型相机，1948 年发布",
-  "description": "The Steineck ABC wristwatch camera was made by Steineck Kamerawerk in Tutzing, West Germany and introduced c.1948.",
+  "description": "Steineck于1948年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Steineck ABC camera"
+    "Camera-wiki": "Steineck ABC camera",
+    "英文简介": "The Steineck ABC wristwatch camera was made by Steineck Kamerawerk in Tutzing, West Germany and introduced c.1948."
   },
   "images": [],
   "sources": [

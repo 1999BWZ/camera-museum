@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pho-Tak盒式相机，1948 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Traveler 120 is a simple box camera for 6x9cm images 120 film, made by Pho-Tak in Chicago, from 1948 and into the 1950s.",
+  "description": "Pho-Tak于1948年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pho-Tak Traveler 120"
+    "Camera-wiki": "Pho-Tak Traveler 120",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Traveler 120 is a simple box camera for 6x9cm images 120 film, made by Pho-Tak in Chicago, from 1948 and into the 1950s."
   },
   "images": [],
   "sources": [

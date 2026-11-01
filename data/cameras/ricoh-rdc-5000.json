@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，1999 年发布",
-  "description": "The Ricoh RDC-5000 was introduced by Ricoh in 1999.",
+  "description": "理光于1999年推出的数码相机。配备f8.0-18.0mm(38-86mm on 35mm format)。快门速度Mechanical, 1-1/500。感光度Approx. 100。Auto(TTL CCD AF)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RDC-5000"
+    "Camera-wiki": "Ricoh RDC-5000",
+    "镜头": "f8.0-18.0mm(38-86mm on 35mm format)",
+    "光圈": "f2.8 - f3.2",
+    "变焦": "2,3x Optical",
+    "快门": "Mechanical, 1-1/500",
+    "对焦": "Auto(TTL CCD AF)",
+    "感光度": "Approx. 100",
+    "尺寸": "131.1 x 68.8 x 39.3mm/5.2 x 2.7 x 1.6 in.",
+    "重量": "315g (11.1oz.)",
+    "英文简介": "The Ricoh RDC-5000 was introduced by Ricoh in 1999."
   },
   "images": [],
   "sources": [

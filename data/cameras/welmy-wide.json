@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welmy取景器相机，1958 年发布",
-  "description": "The Star * Lite 35mm camera has no relation to the Star Light 120-film pseudo TLR made by Haking.",
+  "description": "Welmy于1958年推出的取景器相机。配备Taikor 35mm/f3.5。快门速度B, 25, 50 100, 200; display on front and top。使用135, 35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Welmy Wide"
+    "Camera-wiki": "Welmy Wide",
+    "胶片/画幅": "135, 35mm",
+    "镜头": "Taikor 35mm/f3.5",
+    "快门": "B, 25, 50 100, 200; display on front and top",
+    "英文简介": "The Star * Lite 35mm camera has no relation to the Star Light 120-film pseudo TLR made by Haking."
   },
   "images": [],
   "sources": [

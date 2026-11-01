@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Feca数码单反相机，1947 年发布",
-  "description": "The rare Feca Reflex was made by Vormbruck Camera-Bau in Kempten, Germany, c.1947.",
+  "description": "Feca于1947年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Feca Reflex"
+    "Camera-wiki": "Feca Reflex",
+    "英文简介": "The rare Feca Reflex was made by Vormbruck Camera-Bau in Kempten, Germany, c.1947."
   },
   "images": [],
   "sources": [

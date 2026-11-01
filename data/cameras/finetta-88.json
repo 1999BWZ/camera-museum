@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Finetta取景器相机，1953 年发布",
-  "description": "Introduced in 1953, the Finetta 88 was produced by Saraber/ Finetta Werke in Goslar (Germany) and also imported to Australia by Hanimex rebadged as 'Hanimar'.",
+  "description": "Finetta于1953年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Finetta 88"
+    "Camera-wiki": "Finetta 88",
+    "英文简介": "Introduced in 1953, the Finetta 88 was produced by Saraber/ Finetta Werke in Goslar (Germany) and also imported to Australia by Hanimex rebadged as 'Hanimar'."
   },
   "images": [],
   "sources": [

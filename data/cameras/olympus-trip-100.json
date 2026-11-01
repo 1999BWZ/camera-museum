@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1992 年发布",
-  "description": "The Trip 100 is a very basic 35mm compact camera, with motor drive and manufactured by Olympus in 1992.",
+  "description": "奥林巴斯于1992年推出的取景器相机。配备35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip 100"
+    "Camera-wiki": "Olympus Trip 100",
+    "镜头": "35mm",
+    "英文简介": "The Trip 100 is a very basic 35mm compact camera, with motor drive and manufactured by Olympus in 1992."
   },
   "images": [],
   "sources": [

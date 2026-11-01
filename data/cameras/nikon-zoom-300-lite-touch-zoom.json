@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1994 年发布",
-  "description": "The Nikon Zoom 300 AF, also known as the Lite•Touch Zoom (QD) 35mm compact camera was introduced by Nikon in 1994 - part of a series of similar cameras.",
+  "description": "尼康于1994年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Zoom 300/Lite•Touch Zoom (QD)"
+    "Camera-wiki": "Nikon Zoom 300/Lite•Touch Zoom (QD)",
+    "英文简介": "The Nikon Zoom 300 AF, also known as the Lite•Touch Zoom (QD) 35mm compact camera was introduced by Nikon in 1994 - part of a series of similar cameras."
   },
   "images": [],
   "sources": [

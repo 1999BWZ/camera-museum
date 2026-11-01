@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue胶片单反相机，1987 年发布",
-  "description": "The German company Foto Quelle sold many cameras under their own brand Revue.",
+  "description": "Revue于1987年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue AC 5"
+    "Camera-wiki": "Revue AC 5",
+    "尺寸": "156x89x55mm",
+    "英文简介": "The German company Foto Quelle sold many cameras under their own brand Revue."
   },
   "images": [],
   "sources": [

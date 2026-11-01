@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1966 年发布",
-  "description": "The Fujica Rapid D1 is a compact 35mm half frame camera with a spring-driven auto-advance manufactured by Fuji Photo.",
+  "description": "Fuji于1966年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica Rapid D1"
+    "Camera-wiki": "Fujica Rapid D1",
+    "英文简介": "The Fujica Rapid D1 is a compact 35mm half frame camera with a spring-driven auto-advance manufactured by Fuji Photo."
   },
   "images": [],
   "sources": [

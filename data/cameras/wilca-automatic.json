@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wilca微型相机，1963 年发布",
-  "description": "The Wilca Automatic is a subminiature camera, for 10x14mm exposures on 16mm film, in special cassettes giving 24 exposures., p999.",
+  "description": "Wilca于1963年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wilca Automatic"
+    "Camera-wiki": "Wilca Automatic",
+    "英文简介": "The Wilca Automatic is a subminiature camera, for 10x14mm exposures on 16mm film, in special cassettes giving 24 exposures., p999."
   },
   "images": [],
   "sources": [

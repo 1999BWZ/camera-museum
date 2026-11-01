@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nagel折叠相机，1930 年发布",
-  "description": "The Nagel Triumph is a self-erecting viewfinder folding camera for type No.",
+  "description": "Nagel于1930年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nagel Triumph"
+    "Camera-wiki": "Nagel Triumph",
+    "英文简介": "The Nagel Triumph is a self-erecting viewfinder folding camera for type No."
   },
   "images": [],
   "sources": [

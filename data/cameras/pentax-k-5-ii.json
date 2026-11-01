@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2012 年发布",
-  "description": "The Pentax K-5 II and K-5 IIs are DSLRs introduced by Pentax Ricoh Imaging at Photokina 2012 [http://www.dpreview.com/news/2012/09/10/Pentax-Ricoh-announces-Pentax-K-5-II-DSLR-and-K-5-IIs-with-no-low-pass-filter Pentax Ricoh announces Pentax K-5 II DSLR and K-5 IIs with no low-pass filter] - Press r",
+  "description": "宾得于2012年推出的数码相机。快门速度1/8,000 to 30s, Bulb。感光度ISO equivalent 80-51,200。The following are available:。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-5 II"
+    "Camera-wiki": "Pentax K-5 II",
+    "传感器": "16.3 (4928 x 3264) Megapixel - APS-C (23.7x15.7mm) Sony CMOS sensor, with or without an AA filter",
+    "卡口": "Pentax KAF2 and KAF3",
+    "感光度": "ISO equivalent 80-51,200",
+    "快门速度": "1/8,000 to 30s, Bulb",
+    "重量": "660g",
+    "对焦": "The following are available:",
+    "英文简介": "The Pentax K-5 II and K-5 IIs are DSLRs introduced by Pentax Ricoh Imaging at Photokina 2012 [http://www.dpreview.com/news/2012/09/10/Pentax-Ricoh-announces-Pentax-K-5-II-DSLR-and-K-5-IIs-with-no-low-pass-filter Pentax Ricoh announces Pentax K-5 II DSLR and K-5 IIs with no low-pass filter] - Press release at [http://www.dpreview.com Digital Photography Review]."
   },
   "images": [],
   "sources": [

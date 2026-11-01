@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1963 年发布",
-  "description": "The Canonet Junior is a 35mm viewfinder camera with programmed automatic exposure controlling the shutter and aperture.",
+  "description": "佳能于1963年推出的取景器相机。配备Canon SE 40mm/f2.8 (4 elements, 3 groups), zone focusing。快门速度Seikosha-L programmed, 1/30 to 1/250 sec. and B. X-sync flash with PC socket。感光度10-200 ISO。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Canonet Junior"
+    "Camera-wiki": "Canon Canonet Junior",
+    "镜头": "Canon SE 40mm/f2.8 (4 elements, 3 groups), zone focusing",
+    "快门": "Seikosha-L programmed, 1/30 to 1/250 sec. and B. X-sync flash with PC socket",
+    "曝光测光": "Selenium cell; EV 7-17 (100ASA);",
+    "感光度": "10-200 ISO",
+    "英文简介": "The Canonet Junior is a 35mm viewfinder camera with programmed automatic exposure controlling the shutter and aperture."
   },
   "images": [],
   "sources": [

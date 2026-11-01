@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Seagull胶片相机，1964 年发布",
-  "description": "A 120 film format TLR camera released by the Chinese company Seagull, another copy of the Rolleiflex.",
+  "description": "Seagull于1964年推出的胶片相机。配备75mm f/2.8, 3 groups, 3 elements.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Seagull 4A-103"
+    "Camera-wiki": "Seagull 4A-103",
+    "镜头": "75mm f/2.8, 3 groups, 3 elements.",
+    "光圈": "f/3.5 to f/22",
+    "尺寸": "102 x 102 x 146mm",
+    "重量": "975g",
+    "英文简介": "A 120 film format TLR camera released by the Chinese company Seagull, another copy of the Rolleiflex."
   },
   "images": [],
   "sources": [

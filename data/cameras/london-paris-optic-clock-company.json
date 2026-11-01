@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "London胶片相机，1891 年发布",
-  "description": "The London & Paris Optic & Clock Company were camera makers at 7 Jewin Street and 22 Edmund Place, Aldersgate Street, London Addresses on the nameplate of a Duchess camera sold by Christie's 18 July 1991.",
+  "description": "London于1891年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "London & Paris Optic & Clock Company"
+    "Camera-wiki": "London & Paris Optic & Clock Company",
+    "英文简介": "The London & Paris Optic & Clock Company were camera makers at 7 Jewin Street and 22 Edmund Place, Aldersgate Street, London Addresses on the nameplate of a Duchess camera sold by Christie's 18 July 1991."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1985 年发布",
-  "description": "Last Konica SLR, already built by third-party supplier, not in the Konica factory.",
+  "description": "柯尼卡于1985年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica TC-X"
+    "Camera-wiki": "Konica TC-X",
+    "英文简介": "Last Konica SLR, already built by third-party supplier, not in the Konica factory."
   },
   "images": [],
   "sources": [

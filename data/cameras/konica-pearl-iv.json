@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1958 年发布",
-  "description": "The Pearl IV is a 4.5×6cm folder, released by Konishiroku (the later Konica) in December 1958.",
+  "description": "柯尼卡于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pearl IV"
+    "Camera-wiki": "Pearl IV",
+    "英文简介": "The Pearl IV is a 4.5×6cm folder, released by Konishiroku (the later Konica) in December 1958."
   },
   "images": [],
   "sources": [

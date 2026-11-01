@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1978 年发布",
-  "description": "The Voigtländer Vitoret 110 EL, a pocket camera for type 110 16mm film cartridges, was introduced by Rollei in 1978.",
+  "description": "禄来于1978年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitoret 110 EL"
+    "Camera-wiki": "Vitoret 110 EL",
+    "英文简介": "The Voigtländer Vitoret 110 EL, a pocket camera for type 110 16mm film cartridges, was introduced by Rollei in 1978."
   },
   "images": [],
   "sources": [

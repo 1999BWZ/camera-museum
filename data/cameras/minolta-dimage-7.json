@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，2001 年发布",
-  "description": "The DiMAGE 7 is a 5.24 mega pixel digital camera originally released in 2001 by Minolta.",
+  "description": "美能达于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta DiMAGE 7"
+    "Camera-wiki": "Minolta DiMAGE 7",
+    "英文简介": "The DiMAGE 7 is a 5.24 mega pixel digital camera originally released in 2001 by Minolta."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片相机，1984 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Yashica T AF was the first camera in T* series of compact auto focus 35mm cameras made under the Yashica name by Kyocera.",
+  "description": "雅西卡于1984年推出的胶片相机。配备Tessar T* 35mm 1:3.5 4 Elements in 3 Groups。快门速度Programmed range from 1/8-1/500。感光度50, 100, 200, 400, 1000 ISO。Auto focus 1m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica T AF"
+    "Camera-wiki": "Yashica T AF",
+    "镜头": "Tessar T* 35mm 1:3.5 4 Elements in 3 Groups",
+    "对焦": "Auto focus 1m to infinity",
+    "曝光测光": "Automatic with SPD sensor",
+    "快门": "Programmed range from 1/8-1/500",
+    "感光度": "50, 100, 200, 400, 1000 ISO",
+    "闪光灯": "M)",
+    "电池": "2xAA (CR2035 for data back)",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Yashica T AF was the first camera in T* series of compact auto focus 35mm cameras made under the Yashica name by Kyocera."
   },
   "images": [],
   "sources": [

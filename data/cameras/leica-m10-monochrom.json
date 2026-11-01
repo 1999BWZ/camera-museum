@@ -13,11 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2020 年发布",
-  "description": "徕卡于2020年发布的旁轴相机。",
+  "description": "徕卡于2020年推出的旁轴相机。配备Leica M-mount。快门速度Metal blade focal plane shutter with vertical movement。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q83397123",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "传感器": "Monochrom image sensor",
+    "镜头": "Leica M-mount",
+    "快门速度": "Metal blade focal plane shutter with vertical movement",
+    "曝光测光": "Exposure metering through the lens (TTL), with working aperture",
+    "闪光灯": "Fixed hot shoe",
+    "屏幕": "| storage = SD / SDHC / SDXC",
+    "电池": "Lithium ion"
   },
   "images": [
     {

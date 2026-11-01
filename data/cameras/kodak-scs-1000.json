@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，1997 年发布",
-  "description": "The SCS 1000 is a DSLR made by Kodak.",
+  "description": "柯达于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak SCS 1000"
+    "Camera-wiki": "Kodak SCS 1000",
+    "英文简介": "The SCS 1000 is a DSLR made by Kodak."
   },
   "images": [],
   "sources": [

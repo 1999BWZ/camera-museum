@@ -1,0 +1,40 @@
+{
+  "id": "casio-exilim-ex-p600",
+  "brand": "Casio",
+  "brand_cn": "卡西欧",
+  "brand_slug": "casio",
+  "country": "日本",
+  "manufacturer": "卡西欧",
+  "model": "Exilim EX-P600",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "卡西欧便携相机，2004 年发布",
+  "description": "卡西欧于2004年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889057",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Casio%20Exilim%20EX-P600%20Digital%20Camera.JPG?width=800",
+      "caption": "Exilim EX-P600",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889057"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Casio Exilim EX-P600",
+      "url": "https://www.wikidata.org/wiki/Q20889057"
+    }
+  ],
+  "qid": "Q20889057",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

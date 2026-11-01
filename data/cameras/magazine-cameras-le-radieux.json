@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Magazine cameras胶片相机，1901 年发布",
-  "description": "Camera produced by the French company Girard in c.1901.",
+  "description": "Magazine cameras于1901年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Le Radieux"
+    "Camera-wiki": "Le Radieux",
+    "英文简介": "Camera produced by the French company Girard in c.1901."
   },
   "images": [],
   "sources": [

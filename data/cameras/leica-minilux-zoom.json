@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡胶片单反相机，1998 年发布",
-  "description": "The Leica Minilux Zoom is a compact 35mm camera made by Panasonic for Leica, a version of the Minilux with a 35-70mm f/3.5-6.5 Vario-Elmar zoom lens.",
+  "description": "徕卡于1998年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica Minilux Zoom"
+    "Camera-wiki": "Leica Minilux Zoom",
+    "英文简介": "The Leica Minilux Zoom is a compact 35mm camera made by Panasonic for Leica, a version of the Minilux with a 35-70mm f/3.5-6.5 Vario-Elmar zoom lens."
   },
   "images": [],
   "sources": [

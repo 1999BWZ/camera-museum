@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1980 年发布",
-  "description": "Fujica Auto-5 is a zone focus compact camera released in 1980.",
+  "description": "Fuji于1980年推出的取景器相机。配备38 mm f/2,8 (4 elements/4 groups).。快门速度Programmed electronic, 1/8–1/500 s, self-timer.。使用Automatic loading, advance and rewind.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica Auto-5"
+    "Camera-wiki": "Fujica Auto-5",
+    "镜头": "38 mm f/2,8 (4 elements/4 groups).",
+    "快门": "Programmed electronic, 1/8–1/500 s, self-timer.",
+    "闪光灯": "Built-in, manually activated.",
+    "胶片/画幅": "Automatic loading, advance and rewind.",
+    "尺寸": "135 x 77,5 x 53,5 mm.",
+    "重量": "340 g.",
+    "英文简介": "Fujica Auto-5 is a zone focus compact camera released in 1980."
   },
   "images": [],
   "sources": [

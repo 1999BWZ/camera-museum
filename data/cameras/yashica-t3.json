@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡便携相机，1987 年发布",
-  "description": "The Yashica T3 (also known as the Kyocera T Scope) was a 35mm compact camera from Kyocera with a high quality lens and viewing window (waist-level finder) on the top of the body.",
+  "description": "雅西卡于1987年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica T3"
+    "Camera-wiki": "Yashica T3",
+    "英文简介": "The Yashica T3 (also known as the Kyocera T Scope) was a 35mm compact camera from Kyocera with a high quality lens and viewing window (waist-level finder) on the top of the body."
   },
   "images": [],
   "sources": [

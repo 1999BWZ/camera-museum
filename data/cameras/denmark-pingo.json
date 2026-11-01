@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Denmark取景器相机，1997 年发布",
-  "description": "There is also the Pingu CCD digital camera made in Hong Kong.",
+  "description": "Denmark于1997年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pingo"
+    "Camera-wiki": "Pingo",
+    "英文简介": "There is also the Pingu CCD digital camera made in Hong Kong."
   },
   "images": [],
   "sources": [

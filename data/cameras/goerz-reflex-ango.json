@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Goerz折叠相机，1910 年发布",
-  "description": "The Reflex-Ango (sold in the USA as the Goerz Folding Reflex) is a strut-folding SLR camera made by Goerz for a short time in 1910-11, p355.",
+  "description": "Goerz于1910年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Reflex-Ango"
+    "Camera-wiki": "Reflex-Ango",
+    "英文简介": "The Reflex-Ango (sold in the USA as the Goerz Folding Reflex) is a strut-folding SLR camera made by Goerz for a short time in 1910-11, p355."
   },
   "images": [],
   "sources": [

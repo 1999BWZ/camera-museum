@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hong Kong取景器相机，1979 年发布",
-  "description": "The Indo Supedex VP35 S is a 35mm Viewfinder camera, produced c1979.",
+  "description": "Hong Kong于1979年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Indo Supedex"
+    "Camera-wiki": "Indo Supedex",
+    "英文简介": "The Indo Supedex VP35 S is a 35mm Viewfinder camera, produced c1979."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1962 年发布",
-  "description": "The Petri 7s is a 35mm fixed-lens rangefinder camera made by Petri in 1962According to McKeown; other sources say '63; perhaps the delay between announcement by Petri in Japan and availability in foreign markets.",
+  "description": "Kuribayashi于1962年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri 7s"
+    "Camera-wiki": "Petri 7s",
+    "英文简介": "The Petri 7s is a 35mm fixed-lens rangefinder camera made by Petri in 1962According to McKeown; other sources say '63; perhaps the delay between announcement by Petri in Japan and availability in foreign markets."
   },
   "images": [],
   "sources": [

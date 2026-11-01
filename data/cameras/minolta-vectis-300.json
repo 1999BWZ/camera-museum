@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1998 年发布",
-  "description": "Minolta's Vectis 300 is a fully automatic compact camera using APS film cartridges.",
+  "description": "美能达于1998年推出的便携相机。快门速度speeds 8 sec. to 1/500 sec.。使用APS cartridge, DX Encoding, ISO 25 to 3200。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis 300"
+    "Camera-wiki": "Minolta Vectis 300",
+    "胶片/画幅": "APS cartridge, DX Encoding, ISO 25 to 3200",
+    "取景器": "Enlargement 0.35x - 0.91x",
+    "快门": "speeds 8 sec. to 1/500 sec.",
+    "曝光测光": "Wideangle: Lw 4.0~17, Tele: Lw 3.2~17",
+    "闪光灯": "Range at ISO200 : 24mm:0.4~4.4mtr 70mm:0.4~2.6mtr",
+    "电池": "1x CR-2 3V Lithium",
+    "尺寸": "97 × 62 × 32mm",
+    "重量": "215 g (without battery)",
+    "英文简介": "Minolta's Vectis 300 is a fully automatic compact camera using APS film cartridges."
   },
   "images": [],
   "sources": [

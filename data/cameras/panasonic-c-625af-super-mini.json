@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，1991 年发布",
-  "description": "This small, lightweight compact camera by Panasonic dates from around 1991.",
+  "description": "松下于1991年推出的便携相机。配备34mm, f/3.5 (four elements in three groups) which slides out and retracts electronically but has no zooming capability.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic C-625AF Super Mini"
+    "Camera-wiki": "Panasonic C-625AF Super Mini",
+    "镜头": "34mm, f/3.5 (four elements in three groups) which slides out and retracts electronically but has no zooming capability.",
+    "英文简介": "This small, lightweight compact camera by Panasonic dates from around 1991."
   },
   "images": [],
   "sources": [

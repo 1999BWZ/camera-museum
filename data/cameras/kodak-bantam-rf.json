@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1954 年发布",
-  "description": "The Kodak Bantam RF of 1954-1957 was designed by Kodak's Arthur H Crapsey.",
+  "description": "柯达于1954年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Bantam RF"
+    "Camera-wiki": "Kodak Bantam RF",
+    "英文简介": "The Kodak Bantam RF of 1954-1957 was designed by Kodak's Arthur H Crapsey."
   },
   "images": [],
   "sources": [

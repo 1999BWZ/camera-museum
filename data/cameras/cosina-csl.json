@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina数码单反相机，1972 年发布",
-  "description": "By the mid-1970s, the advantages of bayonet lens mounts with open-aperture metering were clear; and even Pentax had moved on from the M42 screw mount.",
+  "description": "Cosina于1972年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cosina CSL"
+    "Camera-wiki": "Cosina CSL",
+    "英文简介": "By the mid-1970s, the advantages of bayonet lens mounts with open-aperture metering were clear; and even Pentax had moved on from the M42 screw mount."
   },
   "images": [],
   "sources": [

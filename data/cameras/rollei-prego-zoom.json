@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来取景器相机，1993 年发布",
-  "description": "The Prego Zoom, introduced by Rollei in 1993, is a compact autofocus camera for 35mm film, with a zoom lens of moderate range, made by Schneider.",
+  "description": "禄来于1993年推出的取景器相机。配备35-70mm f/3.9-7.1 Schneider-Kreuznach AF-Variogon zoom (7 elements) with HFT coating and auto-macro function.。快门速度Electronic between 1/3 and 1/400s and Bulb。使用Auto-load, wind and rewind. Mid-roll rewind also available.。感光度DX Encoding automatic ISO50-3200 .。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rollei Prego Zoom"
+    "Camera-wiki": "Rollei Prego Zoom",
+    "镜头": "35-70mm f/3.9-7.1 Schneider-Kreuznach AF-Variogon zoom (7 elements) with HFT coating and auto-macro function.",
+    "感光度": "DX Encoding automatic ISO50-3200 .",
+    "快门": "Electronic between 1/3 and 1/400s and Bulb",
+    "胶片/画幅": "Auto-load, wind and rewind. Mid-roll rewind also available.",
+    "尺寸": "120x65x40 mm",
+    "重量": "240 g (without battery)",
+    "英文简介": "The Prego Zoom, introduced by Rollei in 1993, is a compact autofocus camera for 35mm film, with a zoom lens of moderate range, made by Schneider."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1981 年发布",
-  "description": "{|class=\"floatleft plainlinks\" style=\"margin:10px 20px 50px 0px;\"\n|\n|-\n|\n|-\n|Images by \n|}\nThe AE-1 Program is a 35mm SLR camera made by Canon in 1981.",
+  "description": "佳能于1981年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon AE-1 Program"
+    "Camera-wiki": "Canon AE-1 Program",
+    "英文简介": "{|class=\"floatleft plainlinks\" style=\"margin:10px 20px 50px 0px;\"\n|\n|-\n|\n|-\n|Images by \n|}\nThe AE-1 Program is a 35mm SLR camera made by Canon in 1981."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1988 年发布",
-  "description": "The Pop-Super is a 35mm point-and-shoot camera, introduced by Konica in 1988, a successor to the successful Konica pop models.",
+  "description": "柯尼卡于1988年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica pop Super"
+    "Camera-wiki": "Konica pop Super",
+    "英文简介": "The Pop-Super is a 35mm point-and-shoot camera, introduced by Konica in 1988, a successor to the successful Konica pop models."
   },
   "images": [],
   "sources": [

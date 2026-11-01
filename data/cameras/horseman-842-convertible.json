@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Horseman取景器相机，1970 年发布",
-  "description": "The Horseman CH842 Convertible manufactured by Komamura c.1970 p.174.",
+  "description": "Horseman于1970年推出的取景器相机。配备Horseman 62mm, 6 element. f/ 32-f/ 5.6 Angle of ,view 6 x 9cm format-80°.。快门速度1 sec to 1/S00th, B, M/X Sync.。使用6x7cm and 6x9cm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Horseman 842 Convertible"
+    "Camera-wiki": "Horseman 842 Convertible",
+    "胶片/画幅": "6x7cm and 6x9cm",
+    "快门": "1 sec to 1/S00th, B, M/X Sync.",
+    "镜头": "Horseman 62mm, 6 element. f/ 32-f/ 5.6 Angle of ,view 6 x 9cm format-80°.",
+    "取景器": "Wire sports type",
+    "重量": "0.9 Kg (body only)",
+    "英文简介": "The Horseman CH842 Convertible manufactured by Komamura c.1970 p.174."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sports取景器相机，1950 年发布",
-  "description": "There is also a Vena Sport-Box.",
+  "description": "Sports于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sport-Box"
+    "Camera-wiki": "Sport-Box",
+    "英文简介": "There is also a Vena Sport-Box."
   },
   "images": [],
   "sources": [

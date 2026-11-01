@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1933 年发布",
-  "description": "The Six-20 Target Hawk-Eye is a box camera taking 6x9cm images on 620 film.",
+  "description": "柯达于1933年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Six-20 Target Hawk-Eye"
+    "Camera-wiki": "Kodak Six-20 Target Hawk-Eye",
+    "英文简介": "The Six-20 Target Hawk-Eye is a box camera taking 6x9cm images on 620 film."
   },
   "images": [],
   "sources": [

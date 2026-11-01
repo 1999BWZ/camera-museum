@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士一次成像相机，2013 年发布",
-  "description": "The Instax Mini 90 is a instant camera that uses Instax Mini film and manufactured by the Japanese company Fujifilm and available widely in 2013.",
+  "description": "富士于2013年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Instax Mini 90"
+    "Camera-wiki": "Fujifilm Instax Mini 90",
+    "英文简介": "The Instax Mini 90 is a instant camera that uses Instax Mini film and manufactured by the Japanese company Fujifilm and available widely in 2013."
   },
   "images": [],
   "sources": [

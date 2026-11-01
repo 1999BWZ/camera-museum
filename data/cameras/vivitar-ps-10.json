@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar取景器相机，1987 年发布",
-  "description": "The Vivitar PS:10 is a fixed-focus 35mm film camera with a built-in flash.",
+  "description": "Vivitar于1987年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar PS:10"
+    "Camera-wiki": "Vivitar PS:10",
+    "英文简介": "The Vivitar PS:10 is a fixed-focus 35mm film camera with a built-in flash."
   },
   "images": [],
   "sources": [

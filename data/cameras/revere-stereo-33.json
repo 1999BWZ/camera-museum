@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revere立体相机，1953 年发布",
-  "description": "The Stereo 33 was a 3-D rangefinder camera for 35mm film introduced by Revere circa 1953.",
+  "description": "Revere于1953年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revere Stereo 33"
+    "Camera-wiki": "Revere Stereo 33",
+    "英文简介": "The Stereo 33 was a 3-D rangefinder camera for 35mm film introduced by Revere circa 1953."
   },
   "images": [],
   "sources": [

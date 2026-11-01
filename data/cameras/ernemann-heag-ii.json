@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1900 年发布",
-  "description": "===Specifications===\n*Type: Folding bed plate camera, lens panel focusing adjustment by spiral gear\n*Manufacturer: Heinrich Ernemann\n*Year of launch: 1900\n*Film: film plates of size 9&times;12 cm\n*Lens/shutter-configurations\n**1.",
+  "description": "Ernemann于1900年推出的折叠相机。配备Ernemann ?。快门速度Le XXme Siècle (everset type, French product?)。使用film plates of size 9×12 cm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Heag II"
+    "Camera-wiki": "Ernemann Heag II",
+    "胶片/画幅": "film plates of size 9×12 cm",
+    "取景器": "** Reflecting type finder, 90 degrees turnable for horizontal format, combined with spirit level",
+    "镜头": "Ernemann ?",
+    "快门": "Le XXme Siècle (everset type, French product?)",
+    "英文简介": "===Specifications===\n*Type: Folding bed plate camera, lens panel focusing adjustment by spiral gear\n*Manufacturer: Heinrich Ernemann\n*Year of launch: 1900\n*Film: film plates of size 9&times;12 cm\n*Lens/shutter-configurations\n**1."
   },
   "images": [],
   "sources": [

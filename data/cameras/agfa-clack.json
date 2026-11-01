@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1954 年发布",
-  "description": "The Clack was manufactured by Agfa from 1954–65.",
+  "description": "爱克发于1954年推出的取景器相机。** 1-3m (3-10 feet) with a built-in close-up lens (whose aperture is the same ~f/10 as the \"cloudy\" setting)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Clack"
+    "Camera-wiki": "Clack",
+    "对焦": "** 1-3m (3-10 feet) with a built-in close-up lens (whose aperture is the same ~f/10 as the \"cloudy\" setting)",
+    "英文简介": "The Clack was manufactured by Agfa from 1954–65."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron旁轴相机，1960 年发布",
-  "description": "{|class=\"floatright\"\n|\n\n|-\n|\n\n|}\nNote: the Taron Eyemax is a different model.",
+  "description": "Taron于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron Eye"
+    "Camera-wiki": "Taron Eye",
+    "英文简介": "{|class=\"floatright\"\n|\n\n|-\n|\n\n|}\nNote: the Taron Eyemax is a different model."
   },
   "images": [],
   "sources": [

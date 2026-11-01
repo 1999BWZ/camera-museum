@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ旁轴相机，1948 年发布",
-  "description": "Zorki ( Зоркий, meaning \"sharp-sighted\") is one of the most widely known Soviet photo brands.",
+  "description": "KMZ于1948年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zorki"
+    "Camera-wiki": "Zorki",
+    "英文简介": "Zorki ( Зоркий, meaning \"sharp-sighted\") is one of the most widely known Soviet photo brands."
   },
   "images": [],
   "sources": [

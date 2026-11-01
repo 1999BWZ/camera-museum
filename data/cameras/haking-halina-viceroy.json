@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Haking盒式相机，1960 年发布",
-  "description": "The Viceroy was a Pseudo TLR roll-film box camera produced by Haking starting around 1960 in Hong Kong.",
+  "description": "Haking于1960年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Halina Viceroy"
+    "Camera-wiki": "Halina Viceroy",
+    "英文简介": "The Viceroy was a Pseudo TLR roll-film box camera produced by Haking starting around 1960 in Hong Kong."
   },
   "images": [],
   "sources": [

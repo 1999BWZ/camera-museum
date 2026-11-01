@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，2006 年发布",
-  "description": "宾得于2006年发布的数码单反相机。",
+  "description": "宾得于2006年推出的数码单反相机。配备Interchangeable Pentax KAF Mount。快门速度Electronically controlled vertical-run focal plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q4046621",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "传感器": "Interline interlace CCD",
+    "镜头": "Interchangeable Pentax KAF Mount",
+    "快门速度": "Electronically controlled vertical-run focal plane shutter",
+    "曝光测光": "TTL phase-matching 11-point autofocus system",
+    "取景器": "Optical Viewfinder -Pentamirror with Natural-Bright-Matte II focusing screen",
+    "闪光灯": "Built-in retractable P-TTL pop-up with hotshoe",
+    "屏幕": "2.5-inch low temperature polysilicon TFT, 210,000 pixels",
+    "电池": "AA (×4) or CR-V3 (×2)",
+    "重量": "485 g without battery;"
   },
   "images": [
     {

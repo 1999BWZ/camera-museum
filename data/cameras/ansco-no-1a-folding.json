@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ansco胶片相机，1915 年发布",
-  "description": "The Ansco No 1A is a simple American folding bed camera, shooting 2 1/2 x 4 1/4\" exposures onto rollfilm of type 116.",
+  "description": "Ansco于1915年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco No 1A Folding"
+    "Camera-wiki": "Ansco No 1A Folding",
+    "英文简介": "The Ansco No 1A is a simple American folding bed camera, shooting 2 1/2 x 4 1/4\" exposures onto rollfilm of type 116."
   },
   "images": [],
   "sources": [

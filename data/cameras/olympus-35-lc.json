@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1967 年发布",
-  "description": "The Olympus-35 LC is a 35mm rangefinder camera made in Japan by Olympus, c.1967.",
+  "description": "奥林巴斯于1967年推出的旁轴相机。配备G.Zuiko 42mm f1.7, 7 elements in 5 groups。快门速度Copal-X, speeds 1 to 1/500s + B。感光度ASA 10 to 800.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus 35 LC"
+    "Camera-wiki": "Olympus 35 LC",
+    "镜头": "G.Zuiko 42mm f1.7, 7 elements in 5 groups",
+    "快门": "Copal-X, speeds 1 to 1/500s + B",
+    "感光度": "ASA 10 to 800.",
+    "取景器": "Bright frame viewfinder with parallax correction.",
+    "自拍": "on lens barrel",
+    "尺寸": "138 mm x 81 mm x 70 mm.",
+    "重量": "660 grams.",
+    "英文简介": "The Olympus-35 LC is a 35mm rangefinder camera made in Japan by Olympus, c.1967."
   },
   "images": [],
   "sources": [

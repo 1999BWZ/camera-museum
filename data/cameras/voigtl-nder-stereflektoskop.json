@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer立体相机，1905 年发布",
-  "description": "Voigtländer made a series of cameras called Stereflektoskop between 1914 and 1937.",
+  "description": "Voigtländer于1905年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Stereflektoskop"
+    "Camera-wiki": "Stereflektoskop",
+    "英文简介": "Voigtländer made a series of cameras called Stereflektoskop between 1914 and 1937."
   },
   "images": [],
   "sources": [

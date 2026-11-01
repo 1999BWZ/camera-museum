@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士一次成像相机，2018 年发布",
-  "description": "An instant camera launched in May 2018 by Fujifilm.",
+  "description": "富士于2018年推出的一次成像相机。配备65.75mm 1:12.6 2 elements。3 zone manual select。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Instax Square SQ6"
+    "Camera-wiki": "Fujifilm Instax Square SQ6",
+    "镜头": "65.75mm 1:12.6 2 elements",
+    "对焦": "3 zone manual select",
+    "曝光测光": "LV5 - LV15.5",
+    "取景器": "Inverted Galilean finder, 0.4x, with target spot",
+    "英文简介": "An instant camera launched in May 2018 by Fujifilm."
   },
   "images": [],
   "sources": [

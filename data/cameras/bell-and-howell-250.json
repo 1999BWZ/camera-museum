@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bell取景器相机，1996 年发布",
-  "description": "The Bell and Howell 250 is a \"focus free\" camera with built-in flash which uses 35mm film.",
+  "description": "Bell于1996年推出的取景器相机。配备27mm。快门速度1/100 sec.。使用135 (35mm)。感光度100 - 400 ISO。Focus free。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bell and Howell 250"
+    "Camera-wiki": "Bell and Howell 250",
+    "尺寸": "Panoramic - 13x36mm, Normal - 24x36mm",
+    "胶片/画幅": "135 (35mm)",
+    "感光度": "100 - 400 ISO",
+    "镜头": "27mm",
+    "光圈": "f/9.5",
+    "快门": "Mechanical",
+    "快门速度": "1/100 sec.",
+    "对焦": "Focus free",
+    "取景器": "Reverse Galilean type",
+    "闪光灯": "Electronic",
+    "电池": "1 AA battery",
+    "英文简介": "The Bell and Howell 250 is a \"focus free\" camera with built-in flash which uses 35mm film."
   },
   "images": [],
   "sources": [

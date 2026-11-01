@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2002 年发布",
-  "description": "The Optio 330GS is a digital compact camera by Japanese manufacturer Pentax released in 2002.",
+  "description": "宾得于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Optio 330GS"
+    "Camera-wiki": "Pentax Optio 330GS",
+    "英文简介": "The Optio 330GS is a digital compact camera by Japanese manufacturer Pentax released in 2002."
   },
   "images": [],
   "sources": [

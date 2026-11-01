@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ数码单反相机，1965 年发布",
-  "description": "The Zenit E is a Soviet 35mm SLR camera.",
+  "description": "KMZ于1965年推出的数码单反相机。快门速度focal plane textile shutter, speeds 1/30 up to 1/500 sec. + B, synchronized at 1/30th (variable delay, X through M).。使用35mm, with speeds 16 to 500 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit E"
+    "Camera-wiki": "Zenit E",
+    "胶片/画幅": "35mm, with speeds 16 to 500 ASA",
+    "卡口": "M39 Zenit mount (z39), then M42 screw mount without aperture coupling.",
+    "快门": "focal plane textile shutter, speeds 1/30 up to 1/500 sec. + B, synchronized at 1/30th (variable delay, X through M).",
+    "取景器": "pentaprism finder, diopter correction lens mountable",
+    "尺寸": "137×92×53 mm",
+    "自拍": "with own release button and 15 sec. delay-time",
+    "英文简介": "The Zenit E is a Soviet 35mm SLR camera."
   },
   "images": [],
   "sources": [

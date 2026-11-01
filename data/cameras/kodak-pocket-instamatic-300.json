@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1972 年发布",
-  "description": "The Kodak Pocket Instamatic 300 was one of Kodak's pocket cameras for the type No.",
+  "description": "柯达于1972年推出的便携相机。配备f5.6 lens。快门速度one-speed。使用type No. 110 16mm film cartridges。no direct focusing, just aperture settings possible。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Pocket Instamatic 300"
+    "Camera-wiki": "Kodak Pocket Instamatic 300",
+    "胶片/画幅": "type No. 110 16mm film cartridges",
+    "镜头": "f5.6 lens",
+    "光圈": "weather symbols for dark clouds, cloudy, normal, sunny and bright mountain sun, selectable by shifter",
+    "快门": "one-speed",
+    "对焦": "no direct focusing, just aperture settings possible",
+    "闪光灯": "magicubes connector, reaching from 1.2 metres to 5 metres, depending on selected aperture",
+    "尺寸": "114×55×27 mm",
+    "英文简介": "The Kodak Pocket Instamatic 300 was one of Kodak's pocket cameras for the type No."
   },
   "images": [],
   "sources": [

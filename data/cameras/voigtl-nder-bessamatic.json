@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer胶片单反相机，1959 年发布",
-  "description": "The Bessamatic was launched by Voigtländer in 1959, a few years after the 1953 Contaflex and the 1957 Retina Reflex, all from Germany.",
+  "description": "Voigtländer于1959年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bessamatic"
+    "Camera-wiki": "Bessamatic",
+    "英文简介": "The Bessamatic was launched by Voigtländer in 1959, a few years after the 1953 Contaflex and the 1957 Retina Reflex, all from Germany."
   },
   "images": [],
   "sources": [

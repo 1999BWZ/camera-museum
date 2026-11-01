@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji旁轴相机，1964 年发布",
-  "description": "The Fujica V2 is a 35mm rangefinder camera that uses a leaf shutter based lens.",
+  "description": "Fuji于1964年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica V2"
+    "Camera-wiki": "Fujica V2",
+    "英文简介": "The Fujica V2 is a 35mm rangefinder camera that uses a leaf shutter based lens."
   },
   "images": [],
   "sources": [

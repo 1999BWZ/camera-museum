@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片相机，1985 年发布",
-  "description": "The L35AF2 was Nikon's second camera in the L series and was an update of the Nikon L35AF/AD with 11 automatic features.",
+  "description": "尼康于1985年推出的胶片相机。配备35mm f/2.8 with autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon L35AF2"
+    "Camera-wiki": "Nikon L35AF2",
+    "镜头": "35mm f/2.8 with autofocus",
+    "曝光测光": "Fully automatic",
+    "英文简介": "The L35AF2 was Nikon's second camera in the L series and was an update of the Nikon L35AF/AD with 11 automatic features."
   },
   "images": [],
   "sources": [

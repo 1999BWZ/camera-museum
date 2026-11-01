@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1986 年发布",
-  "description": "The Pentax Zoom 70 is a 35mm compact zoom camera with autofocus made by Pentax.",
+  "description": "宾得于1986年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Zoom 70"
+    "Camera-wiki": "Pentax Zoom 70",
+    "英文简介": "The Pentax Zoom 70 is a 35mm compact zoom camera with autofocus made by Pentax."
   },
   "images": [],
   "sources": [

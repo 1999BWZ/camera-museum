@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2000 年发布",
-  "description": "The Olympus Camedia C-3000 Zoom is a 3.3-megapixel digital camera with a 3x optical zoom lens, made by Olympus.",
+  "description": "奥林巴斯于2000年推出的数码相机。配备Olympus 6.5-19.5mm, f2.8 (3x zoom; 8 elements, 6 groups 32-96mm 35mm equivalent)。感光度100, 200, 400。有效像素2048 x 1536 pixels。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-3000 Zoom"
+    "Camera-wiki": "Olympus C-3000 Zoom",
+    "镜头": "Olympus 6.5-19.5mm, f2.8 (3x zoom; 8 elements, 6 groups 32-96mm 35mm equivalent)",
+    "传感器": "1/1.8-inch CCD, 3.34 megapixels",
+    "感光度": "100, 200, 400",
+    "像素": "2048 x 1536 pixels",
+    "英文简介": "The Olympus Camedia C-3000 Zoom is a 3.3-megapixel digital camera with a 3x optical zoom lens, made by Olympus."
   },
   "images": [],
   "sources": [

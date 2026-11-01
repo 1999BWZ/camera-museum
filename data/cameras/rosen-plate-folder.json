@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rosen折叠相机，1935 年发布",
-  "description": "The Rosen The name appears as \"Rosen\" on the original box, pictured in Yazawa, p.16 of no.235, and in an original advertisement, reproduced on p.17 of the same.",
+  "description": "Rosen于1935年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rosen plate folder"
+    "Camera-wiki": "Rosen plate folder",
+    "英文简介": "The Rosen The name appears as \"Rosen\" on the original box, pictured in Yazawa, p.16 of no.235, and in an original advertisement, reproduced on p.17 of the same."
   },
   "images": [],
   "sources": [

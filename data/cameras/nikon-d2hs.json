@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d2hs",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D2Hs",
+  "year": 2005,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2005 年发布",
+  "description": "尼康于2005年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20872166",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D2H%20with%20AF%2050mm%201.8.jpeg?width=800",
+      "caption": "D2Hs",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20872166"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon D2Hs",
+      "url": "https://www.wikidata.org/wiki/Q20872166"
+    }
+  ],
+  "qid": "Q20872166",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

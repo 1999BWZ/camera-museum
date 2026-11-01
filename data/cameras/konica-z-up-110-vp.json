@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡便携相机，2000 年发布",
-  "description": "The Z-up 110 VP is a 35mm compact camera from Konica.",
+  "description": "柯尼卡于2000年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Z-up 110 VP"
+    "Camera-wiki": "Konica Z-up 110 VP",
+    "英文简介": "The Z-up 110 VP is a 35mm compact camera from Konica."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera全景相机，1995 年发布",
-  "description": "The Kyocera Lynx 120 Panorama is a 35mm film autofocus compact camera manufactured by Kyocera.",
+  "description": "Kyocera于1995年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera Lynx 120"
+    "Camera-wiki": "Kyocera Lynx 120",
+    "英文简介": "The Kyocera Lynx 120 Panorama is a 35mm film autofocus compact camera manufactured by Kyocera."
   },
   "images": [],
   "sources": [

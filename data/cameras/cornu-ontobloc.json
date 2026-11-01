@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cornu取景器相机，1946 年发布",
-  "description": "The Ontobloc, Ontobloc II, and Ontobloc III are small 35mm cameras manufactured by Cornu.",
+  "description": "Cornu于1946年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ontobloc"
+    "Camera-wiki": "Ontobloc",
+    "英文简介": "The Ontobloc, Ontobloc II, and Ontobloc III are small 35mm cameras manufactured by Cornu."
   },
   "images": [],
   "sources": [

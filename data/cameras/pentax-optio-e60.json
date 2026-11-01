@@ -1,0 +1,32 @@
+{
+  "id": "pentax-optio-e60",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "Optio E60",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得便携相机，2008 年发布",
+  "description": "宾得于2008年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q57458748",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax Optio E60",
+      "url": "https://www.wikidata.org/wiki/Q57458748"
+    }
+  ],
+  "qid": "Q57458748",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

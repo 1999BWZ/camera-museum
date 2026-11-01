@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji便携相机，1990 年发布",
-  "description": "The DL-900 Zoom is a 35mm autofocus compact cameras from Fuji released in 1990.",
+  "description": "Fuji于1990年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-900 Zoom Date"
+    "Camera-wiki": "Fuji DL-900 Zoom Date",
+    "英文简介": "The DL-900 Zoom is a 35mm autofocus compact cameras from Fuji released in 1990."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "MOM盒式相机，1959 年发布",
-  "description": "There is also a French Fotobox\n\nFotobox is a steel sheet box camera from MOM (Magyar Optikai Művek, Hungarian Optical Works) with reverse-Galilean finder, rotary shutter 1/25, 1/50, 1/100, B, with a flash contact.",
+  "description": "MOM于1959年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "MOM Fotobox"
+    "Camera-wiki": "MOM Fotobox",
+    "英文简介": "There is also a French Fotobox\n\nFotobox is a steel sheet box camera from MOM (Magyar Optikai Művek, Hungarian Optical Works) with reverse-Galilean finder, rotary shutter 1/25, 1/50, 1/100, B, with a flash contact."
   },
   "images": [],
   "sources": [

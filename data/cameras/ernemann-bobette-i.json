@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1925 年发布",
-  "description": "=Overview=\nThe Ernemann Bobette I was produced in 2 different verions: 18x24mm (1925-1926) and 22x33mm (1926).",
+  "description": "Ernemann于1925年推出的折叠相机。快门速度**Automatic shutter Model A。使用18x24mm (on un-perforated roll film)。Lens focusing or fixed focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Bobette I"
+    "Camera-wiki": "Ernemann Bobette I",
+    "胶片/画幅": "18x24mm (on un-perforated roll film)",
+    "快门": "**Automatic shutter Model A",
+    "取景器": "Frame finder",
+    "对焦": "Lens focusing or fixed focus",
+    "尺寸": "N/A",
+    "重量": "N/A",
+    "英文简介": "=Overview=\nThe Ernemann Bobette I was produced in 2 different verions: 18x24mm (1925-1926) and 22x33mm (1926)."
   },
   "images": [],
   "sources": [

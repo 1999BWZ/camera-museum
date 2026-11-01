@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lausar取景器相机，1937 年发布",
-  "description": "The Lausar (ローザー) and Baika (バイカ) are Japanese cameras taking 3×4cm pictures on 127 film, made c.1937 by Tomioka and perhaps Sankyō Kōgaku.",
+  "description": "Lausar于1937年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lausar and Baika"
+    "Camera-wiki": "Lausar and Baika",
+    "英文简介": "The Lausar (ローザー) and Baika (バイカ) are Japanese cameras taking 3×4cm pictures on 127 film, made c.1937 by Tomioka and perhaps Sankyō Kōgaku."
   },
   "images": [],
   "sources": [

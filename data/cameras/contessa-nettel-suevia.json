@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Contessa-Nettel折叠相机，1919 年发布",
-  "description": "The SueviaThe name presumably refers to Schwaben, a region of south-western Germany, named for the Suebi, an ancient group of Germanic peoples.",
+  "description": "Contessa-Nettel于1919年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Suevia"
+    "Camera-wiki": "Suevia",
+    "英文简介": "The SueviaThe name presumably refers to Schwaben, a region of south-western Germany, named for the Suebi, an ancient group of Germanic peoples."
   },
   "images": [],
   "sources": [

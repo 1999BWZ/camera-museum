@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来便携相机，2005 年发布",
-  "description": "Polaroid x530 is extremely rare digital compact point-and-shoot camera with Foveon x3 sensor.",
+  "description": "宝丽来于2005年推出的便携相机。使用** RAW (X3F format)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid x530"
+    "Camera-wiki": "Polaroid x530",
+    "光圈": "F 1:2.6 - 3.4",
+    "胶片/画幅": "** RAW (X3F format)",
+    "英文简介": "Polaroid x530 is extremely rare digital compact point-and-shoot camera with Foveon x3 sensor."
   },
   "images": [],
   "sources": [

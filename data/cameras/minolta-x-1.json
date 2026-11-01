@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1973 年发布",
-  "description": "The Minolta X-1 is the professional 35mm SLR camera in the Minolta line-up, launched in 1973.",
+  "description": "美能达于1973年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta X-1"
+    "Camera-wiki": "Minolta X-1",
+    "英文简介": "The Minolta X-1 is the professional 35mm SLR camera in the Minolta line-up, launched in 1973."
   },
   "images": [],
   "sources": [

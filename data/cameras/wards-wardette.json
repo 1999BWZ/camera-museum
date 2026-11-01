@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wards盒式相机，1948 年发布",
-  "description": "The Wardette is a box camera for type No.",
+  "description": "Wards于1948年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wardette"
+    "Camera-wiki": "Wardette",
+    "英文简介": "The Wardette is a box camera for type No."
   },
   "images": [],
   "sources": [

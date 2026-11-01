@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2006 年发布",
-  "description": "The Lumix DMC-FZ50 is a digital camera made by Panasonic in 2006.",
+  "description": "松下于2006年推出的数码相机。感光度100, 200, 400, 800, 1600, 3200 (certain modes only)。5cm (Wide/Macro) to 2m (Tele)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic DMC-FZ50"
+    "Camera-wiki": "Panasonic DMC-FZ50",
+    "对焦": "5cm (Wide/Macro) to 2m (Tele)",
+    "感光度": "100, 200, 400, 800, 1600, 3200 (certain modes only)",
+    "尺寸": "141 x 86 x 142 mm (5.5 x 3.4 x 5.6 in)",
+    "重量": "734g with battery (1.6 lb)",
+    "英文简介": "The Lumix DMC-FZ50 is a digital camera made by Panasonic in 2006."
   },
   "images": [],
   "sources": [

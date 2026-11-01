@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1991 年发布",
-  "description": "The Olympus AF-1 Super (Infinity Super in the US, also possibly Infinity II) of 1991 is an upgraded version of the AF-1.",
+  "description": "奥林巴斯于1991年推出的便携相机。配备35mm, f/2.8。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AF-1 Super"
+    "Camera-wiki": "Olympus AF-1 Super",
+    "镜头": "35mm, f/2.8",
+    "英文简介": "The Olympus AF-1 Super (Infinity Super in the US, also possibly Infinity II) of 1991 is an upgraded version of the AF-1."
   },
   "images": [],
   "sources": [

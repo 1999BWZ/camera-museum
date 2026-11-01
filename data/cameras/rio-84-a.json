@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rio折叠相机，1924 年发布",
-  "description": "The Rio 84 A is a strut-folding camera taking 4×6.5cm pictures on 127 film, made by Orionwerk in Hannover, Germany in about 1924.",
+  "description": "Rio于1924年推出的折叠相机。配备Orionwerk Spezial-Aplanat 7.5cm f/8, apertures down to f/32。快门速度Pronto leaf-shutter T-B-25-50-100 1/s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rio 84 A"
+    "Camera-wiki": "Rio 84 A",
+    "镜头": "Orionwerk Spezial-Aplanat 7.5cm f/8, apertures down to f/32",
+    "快门": "Pronto leaf-shutter T-B-25-50-100 1/s",
+    "尺寸": "126 x 70 x ca. 30/80 mm (folded/expanded), 360 g",
+    "英文简介": "The Rio 84 A is a strut-folding camera taking 4×6.5cm pictures on 127 film, made by Orionwerk in Hannover, Germany in about 1924."
   },
   "images": [],
   "sources": [

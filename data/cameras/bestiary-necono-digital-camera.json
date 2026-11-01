@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary数码相机，2010 年发布",
-  "description": "The Necono digital camera is a novelty digital camera marketed as a Powershovel/Superheadz product in 2010-11.",
+  "description": "Bestiary于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Necono digital camera"
+    "Camera-wiki": "Necono digital camera",
+    "英文简介": "The Necono digital camera is a novelty digital camera marketed as a Powershovel/Superheadz product in 2010-11."
   },
   "images": [],
   "sources": [

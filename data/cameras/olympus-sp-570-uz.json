@@ -1,0 +1,40 @@
+{
+  "id": "olympus-sp-570-uz",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "SP-570 UZ",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2008 年发布",
+  "description": "奥林巴斯于2008年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889164",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20SP-570UZ%2C%20-november%202008%20%28uitgesneden%29%20a.jpg?width=800",
+      "caption": "SP-570 UZ",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889164"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus SP-570 UZ",
+      "url": "https://www.wikidata.org/wiki/Q20889164"
+    }
+  ],
+  "qid": "Q20889164",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

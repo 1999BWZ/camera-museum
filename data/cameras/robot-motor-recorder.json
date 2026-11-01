@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Robot胶片相机，1962 年发布",
-  "description": "The Robot Motor-Recorder series of cameras were made by Robot from 1962 Page 836 and are designed for various scientific uses, such as photographing an oscillograph screen.",
+  "description": "Robot于1962年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Robot Motor-Recorder"
+    "Camera-wiki": "Robot Motor-Recorder",
+    "英文简介": "The Robot Motor-Recorder series of cameras were made by Robot from 1962 Page 836 and are designed for various scientific uses, such as photographing an oscillograph screen."
   },
   "images": [],
   "sources": [

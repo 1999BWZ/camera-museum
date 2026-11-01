@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1988 年发布",
-  "description": "The Kodak Jubilee is a simple point-and-shoot camera for standard 35mm film.",
+  "description": "柯达于1988年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Jubilee"
+    "Camera-wiki": "Kodak Jubilee",
+    "英文简介": "The Kodak Jubilee is a simple point-and-shoot camera for standard 35mm film."
   },
   "images": [],
   "sources": [

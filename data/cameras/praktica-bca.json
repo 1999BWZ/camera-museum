@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1983 年发布",
-  "description": "The Praktica BCA Electronic is a 35mm SLR made in Dresden by Pentacon.",
+  "description": "潘泰康于1983年推出的数码单反相机。使用35mm with speeds 12 to 3200 ISO。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica BCA"
+    "Camera-wiki": "Praktica BCA",
+    "胶片/画幅": "35mm with speeds 12 to 3200 ISO",
+    "卡口": "Praktica bayonet with EDC (electronic diaphragm control)",
+    "英文简介": "The Praktica BCA Electronic is a 35mm SLR made in Dresden by Pentacon."
   },
   "images": [],
   "sources": [

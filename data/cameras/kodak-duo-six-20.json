@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1933 年发布",
-  "description": "The Duo Six-20 is a 4.5&times;6 horizontal folder made by Kodak AG in the former Nagel-Werke factory located in Germany, from 1933 to 1940.",
+  "description": "柯达于1933年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Duo Six-20"
+    "Camera-wiki": "Kodak Duo Six-20",
+    "英文简介": "The Duo Six-20 is a 4.5&times;6 horizontal folder made by Kodak AG in the former Nagel-Werke factory located in Germany, from 1933 to 1940."
   },
   "images": [],
   "sources": [

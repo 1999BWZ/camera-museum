@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1964 年发布",
-  "description": "The Minoltina-P was a quite compact 35mm viewfinder camera with coupled selenium meter.",
+  "description": "美能达于1964年推出的取景器相机。配备Rokkor 1:2.8/38mm。快门速度speeds 1/30 (with max. aperture) up to 1/250 sec. (at f-stop 22), flash synchronized speed 1/30 sec. with apertures f2.8 to f16。使用35mm with speeds 25 to 800 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Minoltina-P"
+    "Camera-wiki": "Minolta Minoltina-P",
+    "胶片/画幅": "35mm with speeds 25 to 800 ASA",
+    "镜头": "Rokkor 1:2.8/38mm",
+    "快门": "speeds 1/30 (with max. aperture) up to 1/250 sec. (at f-stop 22), flash synchronized speed 1/30 sec. with apertures f2.8 to f16",
+    "曝光测光": "match-needle meter cross-coupled to combined shutter-speed/aperture setting, instrument visible from above",
+    "取景器": "optical",
+    "尺寸": "124×73×45 mm",
+    "重量": "440 g",
+    "英文简介": "The Minoltina-P was a quite compact 35mm viewfinder camera with coupled selenium meter."
   },
   "images": [],
   "sources": [

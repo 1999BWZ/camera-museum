@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2002 年发布",
-  "description": "The Leica C2 is a 35mm compact camera with a 2× zoom lens.",
+  "description": "徕卡于2002年推出的旁轴相机。配备Leica-Vario Elmar 35-70mm (f/4.6-8.6)。2 feet.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica C2"
+    "Camera-wiki": "Leica C2",
+    "镜头": "Leica-Vario Elmar 35-70mm (f/4.6-8.6)",
+    "对焦": "2 feet.",
+    "尺寸": "122×67×40mm.",
+    "重量": "384g.",
+    "英文简介": "The Leica C2 is a 35mm compact camera with a 2× zoom lens."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "福伦达数码单反相机，2006 年发布",
-  "description": "The Voigtländer VSL 43 is unrelated to earlier Rollei-based Voigtländer VSLs, and instead is a lightweight SLR for K mount lenses marketed by Ringfoto in the naughties.",
+  "description": "福伦达于2006年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voigtländer VSL 43"
+    "Camera-wiki": "Voigtländer VSL 43",
+    "英文简介": "The Voigtländer VSL 43 is unrelated to earlier Rollei-based Voigtländer VSLs, and instead is a lightweight SLR for K mount lenses marketed by Ringfoto in the naughties."
   },
   "images": [],
   "sources": [

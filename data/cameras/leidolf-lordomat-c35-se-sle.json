@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Leidolf旁轴相机，1956 年发布",
-  "description": "A Leidolf 35mm rangefinder camera offering interchangeable lenses and a selenium light meter.",
+  "description": "Leidolf于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lordomat C35/SE/SLE"
+    "Camera-wiki": "Lordomat C35/SE/SLE",
+    "英文简介": "A Leidolf 35mm rangefinder camera offering interchangeable lenses and a selenium light meter."
   },
   "images": [],
   "sources": [

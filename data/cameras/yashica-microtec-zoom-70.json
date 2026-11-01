@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片相机，1994 年发布",
-  "description": "The Yashica Microtec Zoom 70 was a compact zoom-lensed camera from Kyocera.",
+  "description": "雅西卡于1994年推出的胶片相机。使用Motorwind and automatic rewind.。60cm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Microtec Zoom 70"
+    "Camera-wiki": "Yashica Microtec Zoom 70",
+    "对焦": "60cm.",
+    "胶片/画幅": "Motorwind and automatic rewind.",
+    "尺寸": "4.6x2.6x1.6 inches.",
+    "重量": "7.9 oz.",
+    "英文简介": "The Yashica Microtec Zoom 70 was a compact zoom-lensed camera from Kyocera."
   },
   "images": [],
   "sources": [

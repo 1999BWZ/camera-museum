@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1961 年发布",
-  "description": "The Pentamatic S is the final SLR from Yashica to use their early, proprietary bayonet mount, before beginning the 42mm screw-mount series.",
+  "description": "雅西卡于1961年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Pentamatic S"
+    "Camera-wiki": "Yashica Pentamatic S",
+    "英文简介": "The Pentamatic S is the final SLR from Yashica to use their early, proprietary bayonet mount, before beginning the 42mm screw-mount series."
   },
   "images": [],
   "sources": [

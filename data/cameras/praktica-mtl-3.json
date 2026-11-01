@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1978 年发布",
-  "description": "The Praktica MTL 3 is an East German SLR made by Pentacon, using the 42mm screw mount.",
+  "description": "潘泰康于1978年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica MTL 3"
+    "Camera-wiki": "Praktica MTL 3",
+    "英文简介": "The Praktica MTL 3 is an East German SLR made by Pentacon, using the 42mm screw mount."
   },
   "images": [],
   "sources": [

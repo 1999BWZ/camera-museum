@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1963 年发布",
-  "description": "The Minolta ER was Minolta's first step towards their SLR cameras' exposure automation.",
+  "description": "美能达于1963年推出的胶片单反相机。配备Rokkor TD 45mm f2.8 (4 elements in 3 groups)。快门速度Seikosha SLV 1/30 to 1/500s; B, selftimer。感光度10 to 400 ASA。90cm to inf.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta ER"
+    "Camera-wiki": "Minolta ER",
+    "镜头": "Rokkor TD 45mm f2.8 (4 elements in 3 groups)",
+    "快门": "Seikosha SLV 1/30 to 1/500s; B, selftimer",
+    "曝光测光": "Automatic, 7 to 17 LV.",
+    "感光度": "10 to 400 ASA",
+    "对焦": "90cm to inf.",
+    "尺寸": "92 x 140 x 77 mm",
+    "重量": "880g",
+    "英文简介": "The Minolta ER was Minolta's first step towards their SLR cameras' exposure automation."
   },
   "images": [],
   "sources": [

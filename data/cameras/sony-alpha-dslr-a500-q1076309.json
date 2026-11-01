@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2009 年发布",
-  "description": "索尼于2009年发布的数码单反相机。",
+  "description": "索尼于2009年推出的数码单反相机。配备interchangeable, Sony α / Konica Minolta A mount。快门速度electronically controlled, vertical-traverse, focal-plane Shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1076309",
-    "多语言词条数": "9"
+    "多语言词条数": "9",
+    "传感器": "23.5 mm × 15.6 mm APS-C 12.3 effective megapixels CMOS",
+    "镜头": "interchangeable, Sony α / Konica Minolta A mount",
+    "快门速度": "electronically controlled, vertical-traverse, focal-plane Shutter",
+    "曝光测光": "| emode =",
+    "取景器": "optical",
+    "闪光灯": "Manual Pop-up: Auto, Fill-flash, Slow sync., Rear flash sync, Wireless off camera flash",
+    "屏幕": "230k pixel 3-inch TFT LCD",
+    "存储": "Secure Digital/Secure Digital HC, Memory Stick PRO Duo",
+    "电池": "7.2 V, 1650 mAh (Sony NP-FM500H)",
+    "重量": "(body only)"
   },
   "images": [
     {

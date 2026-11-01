@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann盒式相机，1925 年发布",
-  "description": "The Ernemann Unette is a miniature roll film box camera.",
+  "description": "Ernemann于1925年推出的盒式相机。配备1:12.5 meniscus lens。快门速度Time, Bulb and Instant mode (Z, S and M)。使用unperforated paper backed 35mm roll film (Sida 26° film was an appropriate brand) / 22×33mm frame。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Unette"
+    "Camera-wiki": "Ernemann Unette",
+    "胶片/画幅": "unperforated paper backed 35mm roll film (Sida 26° film was an appropriate brand) / 22×33mm frame",
+    "镜头": "1:12.5 meniscus lens",
+    "取景器": "two collapsible frames",
+    "快门": "Time, Bulb and Instant mode (Z, S and M)",
+    "光圈": "f-stops 12.5 , 18 and 25",
+    "英文简介": "The Ernemann Unette is a miniature roll film box camera."
   },
   "images": [],
   "sources": [

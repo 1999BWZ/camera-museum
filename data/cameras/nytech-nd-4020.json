@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nytech数码相机，2003 年发布",
-  "description": "The Nytech ND-4020 is a compact digital camera manufactured by an unknown Chinese company and distributed by TARGA GmbH.",
+  "description": "Nytech于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nytech ND-4020"
+    "Camera-wiki": "Nytech ND-4020",
+    "尺寸": "95 x 64 x 36 mm",
+    "重量": "180g",
+    "英文简介": "The Nytech ND-4020 is a compact digital camera manufactured by an unknown Chinese company and distributed by TARGA GmbH."
   },
   "images": [],
   "sources": [

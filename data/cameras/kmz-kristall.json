@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1961 年发布",
-  "description": "__NOTOC__\n\nThe Kristall is a 35mm film SLR camera, made by Krasnogorsky Mekhanichesky Zavod (KMZ) , (Mechanical Factory of Krasnogorsk), Moscow, former USSR, between 1961-62 with quantity 65,433.",
+  "description": "KMZ于1961年推出的胶片单反相机。配备Industar-50 50mm f/3.5, coated, filter thread 33mm。快门速度focal plane shutter with rubberized silk double cloth curtains, traveling horizontally。使用right-hand, short-stroke lever; also cocks the shutter。Fresnel ground-glass screen in pentaprism viewfinder (no microprism focus-aids)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kristall (KMZ)"
+    "Camera-wiki": "Kristall (KMZ)",
+    "镜头": "Industar-50 50mm f/3.5, coated, filter thread 33mm",
+    "卡口": "39mm screw mount Looks like M39 Leica mount but due to the mirror space, the rangefinder M39 mount lenses do not work properly on this camera. You can use them only the close-up focus range",
+    "对焦": "Fresnel ground-glass screen in pentaprism viewfinder (no microprism focus-aids)",
+    "快门": "focal plane shutter with rubberized silk double cloth curtains, traveling horizontally",
+    "胶片/画幅": "right-hand, short-stroke lever; also cocks the shutter",
+    "自拍": "lever on front right of body; activates by a small knob above the lever",
+    "闪光灯": "on front of the top-plate, flash setting via a selector switch beneath the speeds dial, points a flash sign or bulb sign, synchronised at 1/30 second",
+    "英文简介": "__NOTOC__\n\nThe Kristall is a 35mm film SLR camera, made by Krasnogorsky Mekhanichesky Zavod (KMZ) , (Mechanical Factory of Krasnogorsk), Moscow, former USSR, between 1961-62 with quantity 65,433."
   },
   "images": [],
   "sources": [

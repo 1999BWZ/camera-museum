@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1999 年发布",
-  "description": "The Ricoh ELLE is a compact 35mm autofocus point & shoot camera produced in 1999.",
+  "description": "理光于1999年推出的胶片单反相机。配备Ricoh 30mm F3.5 multicoated glass Lens,4 elements, 4 groups.。快门速度Programmed electronic shutter, 2 seconds ~ 1/750。感光度ISO 50-3200 (DX), ISO 100 for non-DX.。Passive type 7 zone multi point autofocusing with single AF facility. 0.35m - Infinity. Macro mode: 0.2m - 0.35m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh ELLE"
+    "Camera-wiki": "Ricoh ELLE",
+    "镜头": "Ricoh 30mm F3.5 multicoated glass Lens,4 elements, 4 groups.",
+    "对焦": "Passive type 7 zone multi point autofocusing with single AF facility. 0.35m - Infinity. Macro mode: 0.2m - 0.35m",
+    "快门": "Programmed electronic shutter, 2 seconds ~ 1/750",
+    "自拍": "LED indicator, 10 second delay.",
+    "感光度": "ISO 50-3200 (DX), ISO 100 for non-DX.",
+    "尺寸": "Height 118mm width 62mm depth 28.5mm",
+    "重量": "150g without battery.",
+    "英文简介": "The Ricoh ELLE is a compact 35mm autofocus point & shoot camera produced in 1999."
   },
   "images": [],
   "sources": [

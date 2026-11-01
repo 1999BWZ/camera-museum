@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "view cameras大画幅相机，1900 年发布",
-  "description": "The Korona Long Focus or Series V Long Focus Korona is a view camera made by Gundlach around the turn of the twentieth century.",
+  "description": "view cameras于1900年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Korona Long Focus"
+    "Camera-wiki": "Korona Long Focus",
+    "英文简介": "The Korona Long Focus or Series V Long Focus Korona is a view camera made by Gundlach around the turn of the twentieth century."
   },
   "images": [],
   "sources": [

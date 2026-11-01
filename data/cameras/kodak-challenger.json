@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1986 年发布",
-  "description": "The Kodak Challenger is a camera for the briefly popular but ultimately unsuccessful disc film format.",
+  "description": "柯达于1986年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Challenger"
+    "Camera-wiki": "Kodak Challenger",
+    "英文简介": "The Kodak Challenger is a camera for the briefly popular but ultimately unsuccessful disc film format."
   },
   "images": [],
   "sources": [

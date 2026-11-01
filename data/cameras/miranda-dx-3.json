@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda胶片单反相机，1975 年发布",
-  "description": "The dx-3 is a 35mm SLR camera from Miranda released in 1975.",
+  "description": "Miranda于1975年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda dx-3"
+    "Camera-wiki": "Miranda dx-3",
+    "英文简介": "The dx-3 is a 35mm SLR camera from Miranda released in 1975."
   },
   "images": [],
   "sources": [

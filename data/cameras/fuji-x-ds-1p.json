@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji数码相机，1988 年发布",
-  "description": "The Fujix DS-1P is often described as the world's first true digital camera.",
+  "description": "Fuji于1988年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujix DS-1P"
+    "Camera-wiki": "Fujix DS-1P",
+    "重量": "400g",
+    "英文简介": "The Fujix DS-1P is often described as the world's first true digital camera."
   },
   "images": [],
   "sources": [

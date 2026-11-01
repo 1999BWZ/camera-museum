@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机，1960 年发布",
-  "description": "Kodak AG's three Retina Automatic models were the first Retinas to have automatic exposure control.",
+  "description": "柯达于1960年推出的旁轴相机。配备Schneider Kreuznach Retina-Reomar 1:2,8/45mm ( 3 element )。快门速度Prontormat-S。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Retina Automatic I II III"
+    "Camera-wiki": "Kodak Retina Automatic I II III",
+    "曝光测光": "50079 to 96740",
+    "镜头": "Schneider Kreuznach Retina-Reomar 1:2,8/45mm ( 3 element )",
+    "快门": "Prontormat-S",
+    "取景器": "Bright Line + parallax correction marks + zone focus indication",
+    "英文简介": "Kodak AG's three Retina Automatic models were the first Retinas to have automatic exposure control."
   },
   "images": [],
   "sources": [

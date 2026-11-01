@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2000 年发布",
-  "description": "The Ricoh RDC-i700 was introduced by Ricoh in 2000.",
+  "description": "理光于2000年推出的数码相机。配备f=7.3-21.9mm (35-105mm in 35mm camera format), 10 glass elements in 7 groups。Hybrid AF (Passive AF+TTL CCD AF) / Macro:TTL CCD AF。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RDC-i700"
+    "Camera-wiki": "Ricoh RDC-i700",
+    "镜头": "f=7.3-21.9mm (35-105mm in 35mm camera format), 10 glass elements in 7 groups",
+    "光圈": "f2.6 (Wide) to f3.4 (telephoto)",
+    "对焦": "Hybrid AF (Passive AF+TTL CCD AF) / Macro:TTL CCD AF",
+    "尺寸": "157 x 93 x 33mm, 6.2 x 3.7 x 1.3 in.(excluding projections)",
+    "重量": "Approx. 450g (15.9oz) without battery",
+    "英文简介": "The Ricoh RDC-i700 was introduced by Ricoh in 2000."
   },
   "images": [],
   "sources": [

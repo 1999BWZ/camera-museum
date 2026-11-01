@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚胶片单反相机，1961 年发布",
-  "description": "The Prismat model PH or PCA Prismat V-90 is a behind-the-lens leaf shutter SLR from Mamiya with a proprietary mount, allowing optional 38mm or 100mm lenses to replace the standard 48mm f/1.9 Mamiya/Sekor.",
+  "description": "玛米亚于1961年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya Prismat PH"
+    "Camera-wiki": "Mamiya Prismat PH",
+    "英文简介": "The Prismat model PH or PCA Prismat V-90 is a behind-the-lens leaf shutter SLR from Mamiya with a proprietary mount, allowing optional 38mm or 100mm lenses to replace the standard 48mm f/1.9 Mamiya/Sekor."
   },
   "images": [],
   "sources": [

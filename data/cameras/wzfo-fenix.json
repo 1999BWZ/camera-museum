@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "WZFO取景器相机，1958 年发布",
-  "description": "The Fenix is a 35mm camera made by WZFO.",
+  "description": "WZFO于1958年推出的取景器相机。配备coated WZFO Euktar or Emitar 1:2,8/45mm。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fenix"
+    "Camera-wiki": "Fenix",
+    "胶片/画幅": "35mm",
+    "镜头": "coated WZFO Euktar or Emitar 1:2,8/45mm",
+    "英文简介": "The Fenix is a 35mm camera made by WZFO."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon盒式相机，1934 年发布",
-  "description": "Box cameras were dedicated to photographic beginners.",
+  "description": "Zeiss Ikon于1934年推出的盒式相机。配备Goerz Frontar。快门速度single speed。使用120 roll film。switchable: 1m, 3m+, 8m+。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Box Tengor"
+    "Camera-wiki": "Box Tengor",
+    "胶片/画幅": "120 roll film",
+    "镜头": "Goerz Frontar",
+    "快门": "single speed",
+    "光圈": "switchable: 1:11, 1:16 or 1:22",
+    "对焦": "switchable: 1m, 3m+, 8m+",
+    "取景器": "two built-in brilliant finders, one for vertical, one for horizontal image format",
+    "英文简介": "Box cameras were dedicated to photographic beginners."
   },
   "images": [],
   "sources": [

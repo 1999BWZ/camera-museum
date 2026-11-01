@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯旁轴相机，1975 年发布",
-  "description": "The Olympus 35 RD was the last 'classic' fully manual mechanical shutter fixed-lens rangefinder to be introduced by Olympus.",
+  "description": "奥林巴斯于1975年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus 35 RD"
+    "Camera-wiki": "Olympus 35 RD",
+    "英文简介": "The Olympus 35 RD was the last 'classic' fully manual mechanical shutter fixed-lens rangefinder to be introduced by Olympus."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dacora取景器相机，1968 年发布",
-  "description": "The Universa Instapak series were Universa's 1968 answer to Kodak's wildly popular Instamatic series, for easy-loading 126 film cartridges.",
+  "description": "Dacora于1968年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Universa Instapak"
+    "Camera-wiki": "Universa Instapak",
+    "英文简介": "The Universa Instapak series were Universa's 1968 answer to Kodak's wildly popular Instamatic series, for easy-loading 126 film cartridges."
   },
   "images": [],
   "sources": [

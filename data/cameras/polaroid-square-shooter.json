@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1971 年发布",
-  "description": "Originally produced between 1971 and 1972 the Square Shooter is a rigid plastic-bodied, Packfilm Type 80 instant camera.",
+  "description": "宝丽来于1971年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Square Shooter"
+    "Camera-wiki": "Polaroid Square Shooter",
+    "英文简介": "Originally produced between 1971 and 1972 the Square Shooter is a rigid plastic-bodied, Packfilm Type 80 instant camera."
   },
   "images": [],
   "sources": [

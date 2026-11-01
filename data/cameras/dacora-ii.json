@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dacora折叠相机，1952 年发布",
-  "description": "The Dacora II is a horizontal folding camera taking 6x6cm exposures on type 120 film rolls.",
+  "description": "Dacora于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dacora II"
+    "Camera-wiki": "Dacora II",
+    "英文简介": "The Dacora II is a horizontal folding camera taking 6x6cm exposures on type 120 film rolls."
   },
   "images": [],
   "sources": [

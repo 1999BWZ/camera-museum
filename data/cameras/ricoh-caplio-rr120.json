@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2002 年发布",
-  "description": "The Ricoh Caplio RR120 is a digital compact camera from 2002.",
+  "description": "理光于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caplio RR120"
+    "Camera-wiki": "Ricoh Caplio RR120",
+    "尺寸": "105 x 55 x 68 mm",
+    "重量": "230g",
+    "英文简介": "The Ricoh Caplio RR120 is a digital compact camera from 2002."
   },
   "images": [],
   "sources": [

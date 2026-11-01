@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1939 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Vito by Voigtländer was the first camera in the Vito series, and has retrospectively become known as the Vito I - because it was followed by the Vito II and finally by the Vito IIa.",
+  "description": "Voigtländer于1939年推出的取景器相机。配备Skopar 50mm f/3.5 (4 elements in 3 groups). Uncoated.。快门速度Compur shutter (B, 1, 1/2nd, 1/5th, 1/10th, 1/25th, 1/50th, 1/100th, and 1/300th sec). No self-timer.。Manual, metric distance scale.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito"
+    "Camera-wiki": "Vito",
+    "取景器": "Simple Newtonian reverse telescope - shows image at about one half of natural size. No frame lines or parallax markings.",
+    "对焦": "Manual, metric distance scale.",
+    "镜头": "Skopar 50mm f/3.5 (4 elements in 3 groups). Uncoated.",
+    "快门": "Compur shutter (B, 1, 1/2nd, 1/5th, 1/10th, 1/25th, 1/50th, 1/100th, and 1/300th sec). No self-timer.",
+    "尺寸": "125 x 71 x 39mm (L x H x D) when closed.",
+    "重量": "370g.",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Vito by Voigtländer was the first camera in the Vito series, and has retrospectively become known as the Vito I - because it was followed by the Vito II and finally by the Vito IIa."
   },
   "images": [],
   "sources": [

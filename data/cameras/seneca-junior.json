@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Seneca折叠相机，1916 年发布",
-  "description": "The Junior is a camera made by the USA company Seneca.",
+  "description": "Seneca于1916年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Seneca Junior"
+    "Camera-wiki": "Seneca Junior",
+    "英文简介": "The Junior is a camera made by the USA company Seneca."
   },
   "images": [],
   "sources": [

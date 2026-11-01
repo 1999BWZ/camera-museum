@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1976 年发布",
-  "description": "The EK6 is a integral instant camera produced by Kodak.",
+  "description": "柯达于1976年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EK6"
+    "Camera-wiki": "Kodak EK6",
+    "英文简介": "The EK6 is a integral instant camera produced by Kodak."
   },
   "images": [],
   "sources": [

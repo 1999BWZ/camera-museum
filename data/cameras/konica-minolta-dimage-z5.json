@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2005 年发布",
-  "description": "The DiMAGE Z5 is a digital bridge camera manufactured by Konica Minolta and released in 2005.",
+  "description": "柯尼卡美能达于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE Z5"
+    "Camera-wiki": "Konica Minolta DiMAGE Z5",
+    "英文简介": "The DiMAGE Z5 is a digital bridge camera manufactured by Konica Minolta and released in 2005."
   },
   "images": [],
   "sources": [

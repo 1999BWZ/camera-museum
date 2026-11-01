@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片相机，1939 年发布",
-  "description": "The Rolleicord IIc, also known as model or type 4, was manufactured between February 1939 until Oktober 1949 (about 16.000 units).",
+  "description": "禄来于1939年推出的胶片相机。配备7.5cm Zeiss Triotar f3.5。快门速度1 to 1/300 sec. plus T and B.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleicord IIc"
+    "Camera-wiki": "Rolleicord IIc",
+    "镜头": "7.5cm Zeiss Triotar f3.5",
+    "快门": "Compur C00",
+    "快门速度": "1 to 1/300 sec. plus T and B.",
+    "尺寸": "93 x 96 x 138 mm",
+    "重量": "780 grams",
+    "英文简介": "The Rolleicord IIc, also known as model or type 4, was manufactured between February 1939 until Oktober 1949 (about 16.000 units)."
   },
   "images": [],
   "sources": [

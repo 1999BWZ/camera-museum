@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1963 年发布",
-  "description": "{|\n|width=600px|\n\n|-\n||The Minolta-16 EE II was introduced in 1963 as the CdS-variant of the Minolta-16 EE.",
+  "description": "美能达于1963年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta-16 EE II"
+    "Camera-wiki": "Minolta-16 EE II",
+    "英文简介": "{|\n|width=600px|\n\n|-\n||The Minolta-16 EE II was introduced in 1963 as the CdS-variant of the Minolta-16 EE."
   },
   "images": [],
   "sources": [

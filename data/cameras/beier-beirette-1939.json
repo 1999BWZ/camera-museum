@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier折叠相机，1939 年发布",
-  "description": "The Beirette from 1939 is a 35mm viewfinder folding camera.",
+  "description": "Beier于1939年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beirette 1939"
+    "Camera-wiki": "Beirette 1939",
+    "英文简介": "The Beirette from 1939 is a 35mm viewfinder folding camera."
   },
   "images": [],
   "sources": [

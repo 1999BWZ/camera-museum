@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1984 年发布",
-  "description": "In 1984 Minolta presented its fully automatic compact camera Minolta AF-E.",
+  "description": "美能达于1984年推出的便携相机。配备35 mm ƒ/3,5 (4 elements/4 groups). Built-in lens cover.。使用Automatic loading, advance and rewind.。感光度Supports DX coded films ISO 100–1000, manual settings for ISO 100/200/400.。Active autofocus, 0,65 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta AF-E"
+    "Camera-wiki": "Minolta AF-E",
+    "镜头": "35 mm ƒ/3,5 (4 elements/4 groups). Built-in lens cover.",
+    "对焦": "Active autofocus, 0,65 m to infinity.",
+    "曝光测光": "Programmed exposure from EV 9 to EV 16,2.",
+    "感光度": "Supports DX coded films ISO 100–1000, manual settings for ISO 100/200/400.",
+    "胶片/画幅": "Automatic loading, advance and rewind.",
+    "闪光灯": "Built-in, max range at ISO 100 3,60 m. Automatically activated.",
+    "尺寸": "131x65,5x45,5 mm.",
+    "重量": "245 g.",
+    "英文简介": "In 1984 Minolta presented its fully automatic compact camera Minolta AF-E."
   },
   "images": [],
   "sources": [

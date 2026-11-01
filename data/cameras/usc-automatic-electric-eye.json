@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "USC胶片相机，1960 年发布",
-  "description": "United States Camera offered this pseudo TLR carrying a large selenium meter cell for automatic exposure control.",
+  "description": "USC于1960年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "USC Automatic Electric Eye"
+    "Camera-wiki": "USC Automatic Electric Eye",
+    "英文简介": "United States Camera offered this pseudo TLR carrying a large selenium meter cell for automatic exposure control."
   },
   "images": [],
   "sources": [

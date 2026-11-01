@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2002 年发布",
-  "description": "The HP PhotoSmart 620 is a 2002 digital camera from Hewlett-Packard, with a 3x optical zoom and a 2 megapixel sensor.",
+  "description": "Hewlett-Packard于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart 620"
+    "Camera-wiki": "HP PhotoSmart 620",
+    "英文简介": "The HP PhotoSmart 620 is a 2002 digital camera from Hewlett-Packard, with a 3x optical zoom and a 2 megapixel sensor."
   },
   "images": [],
   "sources": [

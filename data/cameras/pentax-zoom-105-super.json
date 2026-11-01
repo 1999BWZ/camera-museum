@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得便携相机，1990 年发布",
-  "description": "The Pentax Zoom 105 Super is a fully automatic compact camera released by with a 38-105mm zoom lens.",
+  "description": "宾得于1990年推出的便携相机。配备Pentax power zoom 38-105mm, f/4-7.8 with macro mode. 11 elements in 9 groups - Angle 50-23.5 degrees.。快门速度automatic 1/250s-1/3 sec. Bulb: 1/2-60 sec.。使用DX-coded ISO 25-3200, frame size 24x36mm。Active infrared autofocus system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Zoom 105 Super"
+    "Camera-wiki": "Pentax Zoom 105 Super",
+    "胶片/画幅": "DX-coded ISO 25-3200, frame size 24x36mm",
+    "镜头": "Pentax power zoom 38-105mm, f/4-7.8 with macro mode. 11 elements in 9 groups - Angle 50-23.5 degrees.",
+    "对焦": "Active infrared autofocus system",
+    "快门": "automatic 1/250s-1/3 sec. Bulb: 1/2-60 sec.",
+    "自拍": "up to 5 frames.",
+    "取景器": "87% - magnification 0,45-0,97",
+    "曝光测光": "+-3EV (steps of 0.5 EV)",
+    "闪光灯": "built-in.",
+    "尺寸": "144x83x67 mm",
+    "重量": "470g without batteries.",
+    "英文简介": "The Pentax Zoom 105 Super is a fully automatic compact camera released by with a 38-105mm zoom lens."
   },
   "images": [],
   "sources": [

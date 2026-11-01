@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士一次成像相机，2010 年发布",
-  "description": "The Instax Wide 300 is a Fujifilm instant camera that uses Instax wide film.",
+  "description": "富士于2010年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Instax Wide 300"
+    "Camera-wiki": "Fujifilm Instax Wide 300",
+    "英文简介": "The Instax Wide 300 is a Fujifilm instant camera that uses Instax wide film."
   },
   "images": [],
   "sources": [

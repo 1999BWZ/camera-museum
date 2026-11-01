@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1998 年发布",
-  "description": "The Minolta Vectis Weathermatic Zoom is a watertight fully automatic compact camera using APS film, introduced in 1998.",
+  "description": "美能达于1998年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis Weathermatic Zoom"
+    "Camera-wiki": "Minolta Vectis Weathermatic Zoom",
+    "英文简介": "The Minolta Vectis Weathermatic Zoom is a watertight fully automatic compact camera using APS film, introduced in 1998."
   },
   "images": [],
   "sources": [

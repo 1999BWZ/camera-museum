@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Universal胶片相机，1941 年发布",
-  "description": "The Univex Uniflash is a bakelite viewfinder camera for Univex 00 film.",
+  "description": "Universal于1941年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Univex Uniflash"
+    "Camera-wiki": "Univex Uniflash",
+    "英文简介": "The Univex Uniflash is a bakelite viewfinder camera for Univex 00 film."
   },
   "images": [],
   "sources": [

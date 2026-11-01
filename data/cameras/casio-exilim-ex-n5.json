@@ -1,0 +1,32 @@
+{
+  "id": "casio-exilim-ex-n5",
+  "brand": "Casio",
+  "brand_cn": "卡西欧",
+  "brand_slug": "casio",
+  "country": "日本",
+  "manufacturer": "卡西欧",
+  "model": "Exilim EX-N5",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "卡西欧便携相机，2013 年发布",
+  "description": "卡西欧于2013年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889056",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Casio Exilim EX-N5",
+      "url": "https://www.wikidata.org/wiki/Q20889056"
+    }
+  ],
+  "qid": "Q20889056",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1937 年发布",
-  "description": "The Semi Olympic or New Olympic is a Japanese 4.5×6 camera made of bakelite, released in 1937.",
+  "description": "理光于1937年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Olympic"
+    "Camera-wiki": "Semi Olympic",
+    "英文简介": "The Semi Olympic or New Olympic is a Japanese 4.5×6 camera made of bakelite, released in 1937."
   },
   "images": [],
   "sources": [

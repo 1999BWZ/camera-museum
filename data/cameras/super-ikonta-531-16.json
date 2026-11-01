@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Super旁轴相机，1953 年发布",
-  "description": "The 531/16 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon.",
+  "description": "Super于1953年推出的旁轴相机。快门速度Novar 3.5/75 mm lens in a Prontor-SVS or Synchro-Compur shutter Tessar 3.5/75 mm lens in a Synchro-Compur shutter。使用6 x 6 cm on 120 type rollfilm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Super Ikonta 531/16"
+    "Camera-wiki": "Super Ikonta 531/16",
+    "胶片/画幅": "6 x 6 cm on 120 type rollfilm",
+    "快门": "Novar 3.5/75 mm lens in a Prontor-SVS or Synchro-Compur shutter Tessar 3.5/75 mm lens in a Synchro-Compur shutter",
+    "尺寸": "35.5mm screw and special 32mm slip-on",
+    "闪光灯": "Socket on shutter, X-and M-synchronisation.",
+    "自拍": "Yes",
+    "曝光测光": "Yes",
+    "取景器": "reverse Galilean type, integrated in top cover",
+    "重量": "660 grams",
+    "英文简介": "The 531/16 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon."
   },
   "images": [],
   "sources": [

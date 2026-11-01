@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Maruso胶片相机，1950 年发布",
-  "description": "The Maruso 35 is a Japanese camera for Bolta film, made in the late 1940s or early 1950s.",
+  "description": "Maruso于1950年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Maruso 35"
+    "Camera-wiki": "Maruso 35",
+    "英文简介": "The Maruso 35 is a Japanese camera for Bolta film, made in the late 1940s or early 1950s."
   },
   "images": [],
   "sources": [

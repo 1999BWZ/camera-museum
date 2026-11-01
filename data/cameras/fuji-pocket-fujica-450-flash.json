@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1977 年发布",
-  "description": "The Pocket Fujica 450 Flash is one of the more sophisticated cameras for 110 film, it was made by Fuji around 1977.",
+  "description": "Fuji于1977年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pocket Fujica 450 Flash"
+    "Camera-wiki": "Pocket Fujica 450 Flash",
+    "英文简介": "The Pocket Fujica 450 Flash is one of the more sophisticated cameras for 110 film, it was made by Fuji around 1977."
   },
   "images": [],
   "sources": [

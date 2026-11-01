@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2001 年发布",
-  "description": "佳能于2001年发布的数码单反相机。",
+  "description": "佳能于2001年推出的数码单反相机。配备Interchangeable (EF)。快门速度Electronic shutter, all speeds electronically controlled。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q63365",
-    "多语言词条数": "16"
+    "多语言词条数": "16",
+    "传感器": "28.7 mm x 19.1 mm CCD",
+    "镜头": "Interchangeable (EF)",
+    "取景器": "Optical",
+    "存储": "CompactFlash(CF) (Type I or Type II) / max 2GB",
+    "快门速度": "Electronic shutter, all speeds electronically controlled",
+    "曝光测光": "TTL full aperture, evaluative, partial, spot, center-weighted",
+    "屏幕": "2.0 in (51 mm), 120,000 pixels",
+    "闪光灯": "none, hot-shoe",
+    "重量": "1,250g (body only)",
+    "电池": "Ni-MH NP-E3 rechargeable"
   },
   "images": [
     {

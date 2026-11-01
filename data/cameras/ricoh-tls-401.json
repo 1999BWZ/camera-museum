@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1970 年发布",
-  "description": "The Ricoh TLS 401 was introduced in 1970 as an innovative successor to the three year older Ricoh Singlex TLS, having a combined eye-level and waist-level finder.",
+  "description": "理光于1970年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh TLS 401"
+    "Camera-wiki": "Ricoh TLS 401",
+    "英文简介": "The Ricoh TLS 401 was introduced in 1970 as an innovative successor to the three year older Ricoh Singlex TLS, having a combined eye-level and waist-level finder."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1997 年发布",
-  "description": "The Kodak KD40 is a 1990s-era camera for 35mm film.",
+  "description": "柯达于1997年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak KD40"
+    "Camera-wiki": "Kodak KD40",
+    "英文简介": "The Kodak KD40 is a 1990s-era camera for 35mm film."
   },
   "images": [],
   "sources": [

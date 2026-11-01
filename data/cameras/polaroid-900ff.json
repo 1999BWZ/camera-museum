@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来取景器相机，1999 年发布",
-  "description": "The Polaroid 900FF is a very basic, fully automatic, all plastic 35mm camera made in China for Polaroid.",
+  "description": "宝丽来于1999年推出的取景器相机。快门速度Fixed at 1/125 second。使用ISO 100, ISO 400。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid 900FF"
+    "Camera-wiki": "Polaroid 900FF",
+    "快门速度": "Fixed at 1/125 second",
+    "胶片/画幅": "ISO 100, ISO 400",
+    "尺寸": "129.5 x 77 x 40.7 mm",
+    "英文简介": "The Polaroid 900FF is a very basic, fully automatic, all plastic 35mm camera made in China for Polaroid."
   },
   "images": [],
   "sources": [

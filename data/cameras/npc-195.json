@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "NPC一次成像相机，2003 年发布",
-  "description": "The NPC 195 is a professional rangefinder folding camera for instant film.",
+  "description": "NPC于2003年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "NPC 195"
+    "Camera-wiki": "NPC 195",
+    "英文简介": "The NPC 195 is a professional rangefinder folding camera for instant film."
   },
   "images": [],
   "sources": [

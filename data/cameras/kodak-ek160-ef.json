@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1979 年发布",
-  "description": "The Kodak EK160-EF is a Instant camera in the Kodak Instant line of cameras.",
+  "description": "柯达于1979年推出的一次成像相机。配备100mm, f/1:12,8。快门速度2 to 1 / 300 sec.。使用Kodak PR-10, Instant film。Fixed focus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EK160-EF (Colorburst 250)"
+    "Camera-wiki": "Kodak EK160-EF (Colorburst 250)",
+    "镜头": "100mm, f/1:12,8",
+    "对焦": "Fixed focus.",
+    "快门速度": "2 to 1 / 300 sec.",
+    "胶片/画幅": "Kodak PR-10, Instant film",
+    "闪光灯": "electronic",
+    "英文简介": "The Kodak EK160-EF is a Instant camera in the Kodak Instant line of cameras."
   },
   "images": [],
   "sources": [

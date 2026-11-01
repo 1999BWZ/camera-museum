@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1997 年发布",
-  "description": "The Canon Snappy QT (Prima BF-80 in Europe) of April 1997 is a 35mm compact camera for budget-conscious photographers, part of the Canon Snappy series.",
+  "description": "佳能于1997年推出的取景器相机。配备32mm, f/6.2 (3 elements in 3 groups).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Snappy QT/Prima BF-80"
+    "Camera-wiki": "Canon Snappy QT/Prima BF-80",
+    "镜头": "32mm, f/6.2 (3 elements in 3 groups).",
+    "尺寸": "125x70x47mm",
+    "重量": "205g (without batteries)",
+    "英文简介": "The Canon Snappy QT (Prima BF-80 in Europe) of April 1997 is a 35mm compact camera for budget-conscious photographers, part of the Canon Snappy series."
   },
   "images": [],
   "sources": [

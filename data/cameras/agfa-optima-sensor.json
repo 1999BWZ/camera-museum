@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1982 年发布",
-  "description": "This model was the last (1982) camera in the Optima Sensor Electronic Series, and is technically identical to the earlier Optima Sensor 535 (1976), but was produced by Agfa-Gevaert Portugal.",
+  "description": "爱克发于1982年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima Sensor"
+    "Camera-wiki": "Optima Sensor",
+    "英文简介": "This model was the last (1982) camera in the Optima Sensor Electronic Series, and is technically identical to the earlier Optima Sensor 535 (1976), but was produced by Agfa-Gevaert Portugal."
   },
   "images": [],
   "sources": [

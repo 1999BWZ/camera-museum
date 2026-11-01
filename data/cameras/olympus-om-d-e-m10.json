@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯无反相机，2014 年发布",
-  "description": "奥林巴斯于2014年发布的无反相机。",
+  "description": "奥林巴斯于2014年推出的无反相机。配备Micro Four Thirds system mount。快门速度Mechanical shutter / Electronic shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q16220145",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "传感器": "4/3 type Live MOS, no AA filter",
+    "镜头": "Micro Four Thirds system mount",
+    "快门速度": "Mechanical shutter / Electronic shutter",
+    "取景器": "built-in 1.44MP (w/ Auto Luminance, 100% coverage)",
+    "闪光灯": "built-in flash, hot-shoe on the body",
+    "屏幕": "tilting 3 inch, 1,037,000 dots (upwards: 80˚, downwards: 50˚)",
+    "存储": "SD /SDHC / SDXC",
+    "电池": "BLS-5 lithium-ion (CIPA 320)",
+    "尺寸": "119 mm × 82 mm × 46 mm (4.69 × 3.24 × 1.81 inches)",
+    "重量": "Approx."
   },
   "images": [
     {

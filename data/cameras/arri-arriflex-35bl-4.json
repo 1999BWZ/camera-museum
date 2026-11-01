@@ -1,0 +1,32 @@
+{
+  "id": "arri-arriflex-35bl-4",
+  "brand": "ARRI",
+  "brand_cn": "阿莱",
+  "brand_slug": "arri",
+  "country": "德国",
+  "manufacturer": "阿莱",
+  "model": "Arriflex 35BL 4",
+  "year": 1986,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "阿莱胶片相机，1986 年发布",
+  "description": "阿莱于1986年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q126199648",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Arriflex 35BL 4",
+      "url": "https://www.wikidata.org/wiki/Q126199648"
+    }
+  ],
+  "qid": "Q126199648",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

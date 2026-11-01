@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2010 年发布",
-  "description": "{|class=floatleft\n||\n|}\nAfter the success of the 24&times;-zoomer Nikon Coolpix P90 in 2009 Nikon switched its P-line of small sensor digital bridge cameras from using a CCD as sensor to applying a backlit CMOS sensor instead.",
+  "description": "尼康于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix P100"
+    "Camera-wiki": "Nikon Coolpix P100",
+    "英文简介": "{|class=floatleft\n||\n|}\nAfter the success of the 24&times;-zoomer Nikon Coolpix P90 in 2009 Nikon switched its P-line of small sensor digital bridge cameras from using a CCD as sensor to applying a backlit CMOS sensor instead."
   },
   "images": [],
   "sources": [

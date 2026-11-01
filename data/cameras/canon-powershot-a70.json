@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2003 年发布",
-  "description": "Introduced in 2003, the Canon PowerShot A70 was very similar to the Canon PowerShot A75 that succeded it.",
+  "description": "佳能于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A70"
+    "Camera-wiki": "Canon PowerShot A70",
+    "英文简介": "Introduced in 2003, the Canon PowerShot A70 was very similar to the Canon PowerShot A75 that succeded it."
   },
   "images": [],
   "sources": [

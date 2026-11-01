@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1990 年发布",
-  "description": "The F-601 is a autofocus 35mm film SLR, announced in the fall of 1990 by Nikon.",
+  "description": "尼康于1990年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon F-601 (N6006)"
+    "Camera-wiki": "Nikon F-601 (N6006)",
+    "英文简介": "The F-601 is a autofocus 35mm film SLR, announced in the fall of 1990 by Nikon."
   },
   "images": [],
   "sources": [

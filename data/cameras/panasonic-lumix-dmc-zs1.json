@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2009 年发布",
-  "description": "The Lumix DMC-ZS1 is a compact digital camera from Japanese manufacture Panasonic and introduced in 2009.",
+  "description": "松下于2009年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-ZS1"
+    "Camera-wiki": "Panasonic Lumix DMC-ZS1",
+    "英文简介": "The Lumix DMC-ZS1 is a compact digital camera from Japanese manufacture Panasonic and introduced in 2009."
   },
   "images": [],
   "sources": [

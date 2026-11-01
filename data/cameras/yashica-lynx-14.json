@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1965 年发布",
-  "description": "The Lynx 14 is a solid and impressive (but far from small) rangefinder camera introduced by Yashica in 1965.",
+  "description": "雅西卡于1965年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Lynx 14"
+    "Camera-wiki": "Yashica Lynx 14",
+    "英文简介": "The Lynx 14 is a solid and impressive (but far from small) rangefinder camera introduced by Yashica in 1965."
   },
   "images": [],
   "sources": [

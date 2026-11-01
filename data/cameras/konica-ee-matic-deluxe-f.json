@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1967 年发布",
-  "description": "The Konica EE-Matic Deluxe F is a fully automatic rangefinder with a flashbulb socket on top, that automatically opens when switching from \"A\" to \"B\" mode.",
+  "description": "柯尼卡于1967年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica EE-Matic Deluxe F"
+    "Camera-wiki": "Konica EE-Matic Deluxe F",
+    "英文简介": "The Konica EE-Matic Deluxe F is a fully automatic rangefinder with a flashbulb socket on top, that automatically opens when switching from \"A\" to \"B\" mode."
   },
   "images": [],
   "sources": [

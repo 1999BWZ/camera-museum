@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beauty微型相机，1948 年发布",
-  "description": "The Meteor, Vestkam, Epochs and Beauty 14 are subminiature cameras taking 17.5mm film, made and distributed by Taiyōdō in the late 1940s and early 1950s.",
+  "description": "Beauty于1948年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Meteor, Vestkam, Epochs and Beauty 14"
+    "Camera-wiki": "Meteor, Vestkam, Epochs and Beauty 14",
+    "英文简介": "The Meteor, Vestkam, Epochs and Beauty 14 are subminiature cameras taking 17.5mm film, made and distributed by Taiyōdō in the late 1940s and early 1950s."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nedinsco取景器相机，1958 年发布",
-  "description": "The Primo is a 35mm viewfinder camera produced by the Dutch company Nedinsco.",
+  "description": "Nedinsco于1958年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nedinsco Primo"
+    "Camera-wiki": "Nedinsco Primo",
+    "英文简介": "The Primo is a 35mm viewfinder camera produced by the Dutch company Nedinsco."
   },
   "images": [],
   "sources": [

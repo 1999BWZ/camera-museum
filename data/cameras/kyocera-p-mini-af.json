@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera便携相机，1992 年发布",
-  "description": "Kyocera于1992年发布的便携相机。",
+  "description": "Kyocera于1992年推出的便携相机。配备Kyocera Lens 32mm f/3.5, 4 elements in 3 groups。快门速度Programmed, 1/60 sec. ~ 1/200 sec.。感光度ISO 100 ~ 400 (DX-code system)。Active auto-focusing system, 3 focusing zones。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera P. mini AF"
+    "Camera-wiki": "Kyocera P. mini AF",
+    "镜头": "Kyocera Lens 32mm f/3.5, 4 elements in 3 groups",
+    "对焦": "Active auto-focusing system, 3 focusing zones",
+    "快门": "Programmed, 1/60 sec. ~ 1/200 sec.",
+    "取景器": "Albada-type",
+    "感光度": "ISO 100 ~ 400 (DX-code system)",
+    "闪光灯": "Auto / On / Off",
+    "尺寸": "118 mm X 64 mm X 47 mm",
+    "重量": "200 g (without batteries)"
   },
   "images": [],
   "sources": [

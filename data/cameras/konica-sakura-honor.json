@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡盒式相机，1907 年发布",
-  "description": "See also the Honor S1 and Honor SL Leica copies.",
+  "description": "柯尼卡于1907年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sakura Honor"
+    "Camera-wiki": "Sakura Honor",
+    "英文简介": "See also the Honor S1 and Honor SL Leica copies."
   },
   "images": [],
   "sources": [

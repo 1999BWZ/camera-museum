@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kochmann取景器相机，1932 年发布",
-  "description": "The Korelle K is a viewfinder camera for half-frame (18x24mm) pictures on 35mm film (the 'K' presumably standing for Kleinbild), made by Kochmann from about 1932.",
+  "description": "Kochmann于1932年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Korelle K"
+    "Camera-wiki": "Korelle K",
+    "英文简介": "The Korelle K is a viewfinder camera for half-frame (18x24mm) pictures on 35mm film (the 'K' presumably standing for Kleinbild), made by Kochmann from about 1932."
   },
   "images": [],
   "sources": [

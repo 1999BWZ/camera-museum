@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2010 年发布",
-  "description": "The Ricoh CX3 was introduced by Ricoh in 2010.",
+  "description": "理光于2010年推出的数码相机。配备10.7x zoom f=4.9-52.5 mm (like 28-300mm for 35mm film)。快门速度8, 4, 2, 1 - 1/2000 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh CX3"
+    "Camera-wiki": "Ricoh CX3",
+    "传感器": "1/2.3-inch Back-illuminated CMOS sensor(total pixels: approx. 10.60 million pixels).",
+    "镜头": "10.7x zoom f=4.9-52.5 mm (like 28-300mm for 35mm film)",
+    "快门速度": "8, 4, 2, 1 - 1/2000 sec.",
+    "闪光灯": "built-in automatic electronic flash",
+    "尺寸": "101.5 mm (W) x 58.3 mm (H) x 29.4 mm (D) (excluding projecting parts)",
+    "重量": "Approx. 185 g (excluding battery, SD memory card, strap), Accessories approx. 23 g (battery, strap)",
+    "英文简介": "The Ricoh CX3 was introduced by Ricoh in 2010."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Soligor胶片单反相机，1982 年发布",
-  "description": "The Soligor SC-1 is one of a small number of cameras offered by AIC Photo, and is a circa-1980 35mm SLR accepting K mount lenses.",
+  "description": "Soligor于1982年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Soligor SC-1"
+    "Camera-wiki": "Soligor SC-1",
+    "英文简介": "The Soligor SC-1 is one of a small number of cameras offered by AIC Photo, and is a circa-1980 35mm SLR accepting K mount lenses."
   },
   "images": [],
   "sources": [

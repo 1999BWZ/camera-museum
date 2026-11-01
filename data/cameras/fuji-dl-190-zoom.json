@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1992 年发布",
-  "description": "The DL-190 Zoom is a compact 35mm film camera released by Fuji in 1992.",
+  "description": "Fuji于1992年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-190 Zoom"
+    "Camera-wiki": "Fuji DL-190 Zoom",
+    "英文简介": "The DL-190 Zoom is a compact 35mm film camera released by Fuji in 1992."
   },
   "images": [],
   "sources": [

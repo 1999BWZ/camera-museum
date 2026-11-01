@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1990 年发布",
-  "description": "The Kodak Star 635 is a 35mm film camera.",
+  "description": "柯达于1990年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star 635"
+    "Camera-wiki": "Kodak Star 635",
+    "英文简介": "The Kodak Star 635 is a 35mm film camera."
   },
   "images": [],
   "sources": [

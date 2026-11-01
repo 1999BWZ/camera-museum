@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1961 年发布",
-  "description": "The Kodak Hawkeye Flashfun is a simple camera made of plastics for 127 format films.",
+  "description": "柯达于1961年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Hawkeye Flashfun"
+    "Camera-wiki": "Kodak Hawkeye Flashfun",
+    "英文简介": "The Kodak Hawkeye Flashfun is a simple camera made of plastics for 127 format films."
   },
   "images": [],
   "sources": [

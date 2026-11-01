@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1976 年发布",
-  "description": "*Type: viewfinder film camera\n*Manufacturer: Kodak USA and Kodak Canada\n*Years of production: 1976 - 1988 \n*Film: 126 film cartridge \n*Lens: 1:11/43mm \n*Shutter: mechanical leaf, with speeds of 1/45 and 1/90 sec.",
+  "description": "柯达于1976年推出的便携相机。配备1:11/43mm。快门速度mechanical leaf, with speeds of 1/45 and 1/90 sec.。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic X-15F"
+    "Camera-wiki": "Kodak Instamatic X-15F",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "1:11/43mm",
+    "快门": "mechanical leaf, with speeds of 1/45 and 1/90 sec.",
+    "取景器": "optical finder with bright frame",
+    "闪光灯": "flipflash",
+    "英文简介": "*Type: viewfinder film camera\n*Manufacturer: Kodak USA and Kodak Canada\n*Years of production: 1976 - 1988 \n*Film: 126 film cartridge \n*Lens: 1:11/43mm \n*Shutter: mechanical leaf, with speeds of 1/45 and 1/90 sec."
   },
   "images": [],
   "sources": [

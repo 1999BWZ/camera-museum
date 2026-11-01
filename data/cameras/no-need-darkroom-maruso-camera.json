@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "No-need-darkroom盒式相机，1948 年发布",
-  "description": "The Maruso Camera are Japanese cameras using the no-need-darkroom process, advertised in the late 1940s by Marusō Kōgaku and Ugajin Denki Kōgaku, and about which little is known.",
+  "description": "No-need-darkroom于1948年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Maruso Camera"
+    "Camera-wiki": "Maruso Camera",
+    "英文简介": "The Maruso Camera are Japanese cameras using the no-need-darkroom process, advertised in the late 1940s by Marusō Kōgaku and Ugajin Denki Kōgaku, and about which little is known."
   },
   "images": [],
   "sources": [

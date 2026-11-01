@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，1964 年发布",
-  "description": "The Canon FP is a 35mm SLR camera from 1964.",
+  "description": "佳能于1964年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon FP"
+    "Camera-wiki": "Canon FP",
+    "英文简介": "The Canon FP is a 35mm SLR camera from 1964."
   },
   "images": [],
   "sources": [

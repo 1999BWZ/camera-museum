@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，1999 年发布",
-  "description": "The Olympus C-2000 Z is a 1600x1200 pixel digital camera introduced by Olympus in 1999Reviews such as [http://www.dpreview.com/reviews/olympusc2000z/ Phil Askey on dpreview] are dated 1999..",
+  "description": "奥林巴斯于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-2000 Zoom"
+    "Camera-wiki": "Olympus C-2000 Zoom",
+    "英文简介": "The Olympus C-2000 Z is a 1600x1200 pixel digital camera introduced by Olympus in 1999Reviews such as [http://www.dpreview.com/reviews/olympusc2000z/ Phil Askey on dpreview] are dated 1999.."
   },
   "images": [],
   "sources": [

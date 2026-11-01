@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras胶片相机，1996 年发布",
-  "description": "The Titan SF 4x5 is a field camera made by Walker Cameras since 1996.[http://www.walkercameras.com/review_sf.html Walker Cameras web homepage] and [http://www.walkercameras.com/review_sf.html Review of the Titan SF 4x5] at the same site.",
+  "description": "View cameras于1996年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Titan SF 4x5"
+    "Camera-wiki": "Titan SF 4x5",
+    "英文简介": "The Titan SF 4x5 is a field camera made by Walker Cameras since 1996.[http://www.walkercameras.com/review_sf.html Walker Cameras web homepage] and [http://www.walkercameras.com/review_sf.html Review of the Titan SF 4x5] at the same site."
   },
   "images": [],
   "sources": [

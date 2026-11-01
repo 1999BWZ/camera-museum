@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星便携相机，1994 年发布",
-  "description": "The AF-333 is a camera for 35mm film.",
+  "description": "三星于1994年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samsung AF-333"
+    "Camera-wiki": "Samsung AF-333",
+    "英文简介": "The AF-333 is a camera for 35mm film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1990 年发布",
-  "description": "The X-300s is a 35mm SLR camera from Minolta and first introduced in 1990.",
+  "description": "美能达于1990年推出的数码单反相机。快门速度focal plane shutter with speeds 1 - 1/1000 sec. plus B mode。使用35mm film / 24x36mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta X-300s"
+    "Camera-wiki": "Minolta X-300s",
+    "胶片/画幅": "35mm film / 24x36mm",
+    "卡口": "Minolta MC bayonet",
+    "快门": "focal plane shutter with speeds 1 - 1/1000 sec. plus B mode",
+    "曝光测光": "shutter speed automatically controlled by means of TTL meter, or manually",
+    "取景器": "Pentaprism finder, shutter speed and aperture visible in finder",
+    "英文简介": "The X-300s is a 35mm SLR camera from Minolta and first introduced in 1990."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Detective cameras立体相机，1904 年发布",
-  "description": "The Archimedes is a box-form magazine plate camera (detective camera), made by Ernemann in the early 20th century.Catalogue [http://www.cineressources.net/consultationPdf/web/o000/256.pdf Ernemann Cameras sind die Besten; Anleitung; Liste No.",
+  "description": "Detective cameras于1904年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Archimedes"
+    "Camera-wiki": "Archimedes",
+    "英文简介": "The Archimedes is a box-form magazine plate camera (detective camera), made by Ernemann in the early 20th century.Catalogue [http://www.cineressources.net/consultationPdf/web/o000/256.pdf Ernemann Cameras sind die Besten; Anleitung; Liste No."
   },
   "images": [],
   "sources": [

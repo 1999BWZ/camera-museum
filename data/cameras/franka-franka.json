@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Franka胶片相机，1959 年发布",
-  "description": "The Franka-Kamerawerk in Bayreuth was in its time the biggest camera factory in the Bavarian region of Oberfranken (Upper Frankonia).",
+  "description": "Franka于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Franka"
+    "Camera-wiki": "Franka",
+    "英文简介": "The Franka-Kamerawerk in Bayreuth was in its time the biggest camera factory in the Bavarian region of Oberfranken (Upper Frankonia)."
   },
   "images": [],
   "sources": [

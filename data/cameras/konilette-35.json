@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Konilette胶片相机，1959 年发布",
-  "description": "The Konilette 35 is a Konishiroku 35mm viewfinder camera offered circa 1959, as the low-cost alternative to more advanced models like the Konica IIIA.",
+  "description": "Konilette于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konilette 35"
+    "Camera-wiki": "Konilette 35",
+    "英文简介": "The Konilette 35 is a Konishiroku 35mm viewfinder camera offered circa 1959, as the low-cost alternative to more advanced models like the Konica IIIA."
   },
   "images": [],
   "sources": [

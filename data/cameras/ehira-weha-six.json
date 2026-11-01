@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ehira折叠相机，1938 年发布",
-  "description": "The Weha Six (ウエハーシックス) is a Japanese 6×6 folding camera.",
+  "description": "Ehira于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Weha Six"
+    "Camera-wiki": "Weha Six",
+    "英文简介": "The Weha Six (ウエハーシックス) is a Japanese 6×6 folding camera."
   },
   "images": [],
   "sources": [

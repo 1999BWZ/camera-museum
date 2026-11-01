@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2013 年发布",
-  "description": "The Cyber-shot DSC-W710 is a point and shoot digital camera announced by Sony in 2013.",
+  "description": "索尼于2013年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-W710"
+    "Camera-wiki": "Sony DSC-W710",
+    "英文简介": "The Cyber-shot DSC-W710 is a point and shoot digital camera announced by Sony in 2013."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2006 年发布",
-  "description": "The PowerShot A540 was introduced by Canon in March 2006, with a 6 megapixel CCD sensor.",
+  "description": "佳能于2006年推出的数码相机。配备f/2.6 (W) – f/5.5 (T)。快门速度15 – 1/2000 sec.。使用JPEG & Motion JPEG Video。有效像素2816 x 2112。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A540"
+    "Camera-wiki": "Canon PowerShot A540",
+    "像素": "2816 x 2112",
+    "胶片/画幅": "JPEG & Motion JPEG Video",
+    "镜头": "f/2.6 (W) – f/5.5 (T)",
+    "快门速度": "15 – 1/2000 sec.",
+    "变焦": "4x optical",
+    "英文简介": "The PowerShot A540 was introduced by Canon in March 2006, with a 6 megapixel CCD sensor."
   },
   "images": [],
   "sources": [

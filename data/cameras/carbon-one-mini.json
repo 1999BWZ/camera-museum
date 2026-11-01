@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Carbon数码相机，2012 年发布",
-  "description": "The One Mini is a novelty digital camera released by Hong Kong based Carbon in 2012.",
+  "description": "Carbon于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Carbon One Mini"
+    "Camera-wiki": "Carbon One Mini",
+    "英文简介": "The One Mini is a novelty digital camera released by Hong Kong based Carbon in 2012."
   },
   "images": [],
   "sources": [

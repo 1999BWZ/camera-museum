@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1972 年发布",
-  "description": "The Minolta Autopak 400-X was one of Minolta's last cameras for Kodapak film cartridges.",
+  "description": "美能达于1972年推出的胶片相机。配备Rokkor 1:8/34mm, 3 elements, fixed focusing。快门速度speeds 1/45 sec. or 1/90 sec. ,。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Autopak 400-X"
+    "Camera-wiki": "Minolta Autopak 400-X",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "Rokkor 1:8/34mm, 3 elements, fixed focusing",
+    "取景器": "bright frame finder",
+    "快门": "speeds 1/45 sec. or 1/90 sec. ,",
+    "闪光灯": "X flash cubes",
+    "尺寸": "113 × 68 × 48mm",
+    "重量": "250 g",
+    "英文简介": "The Minolta Autopak 400-X was one of Minolta's last cameras for Kodapak film cartridges."
   },
   "images": [],
   "sources": [

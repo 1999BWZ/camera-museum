@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kenngott折叠相机，1929 年发布",
-  "description": "The Supra is a folding double-extension plate camera made by Kenngott in Stuttgart, Germany from about 1929 until probably 1932.",
+  "description": "Kenngott于1929年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kenngott Supra"
+    "Camera-wiki": "Kenngott Supra",
+    "尺寸": "115 x 83 x 38 mm, 607 g",
+    "英文简介": "The Supra is a folding double-extension plate camera made by Kenngott in Stuttgart, Germany from about 1929 until probably 1932."
   },
   "images": [],
   "sources": [

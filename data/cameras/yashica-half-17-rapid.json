@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1965 年发布",
-  "description": "The Half 17 Rapid is a 35 mm half-frame viewfinder camera made by Yashica in about 1965.",
+  "description": "雅西卡于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Half 17 Rapid"
+    "Camera-wiki": "Yashica Half 17 Rapid",
+    "英文简介": "The Half 17 Rapid is a 35 mm half-frame viewfinder camera made by Yashica in about 1965."
   },
   "images": [],
   "sources": [

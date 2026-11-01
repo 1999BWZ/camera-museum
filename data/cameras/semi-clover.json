@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1940 年发布",
-  "description": "The Semi Clover , item 1033, and , p.374, call the camera \"Clover\" but the full name in the advertisements was \"Semi Clover\".",
+  "description": "Semi于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Clover"
+    "Camera-wiki": "Semi Clover",
+    "英文简介": "The Semi Clover , item 1033, and , p.374, call the camera \"Clover\" but the full name in the advertisements was \"Semi Clover\"."
   },
   "images": [],
   "sources": [

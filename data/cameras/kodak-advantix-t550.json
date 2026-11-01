@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1999 年发布",
-  "description": "The Advantix T550 is a fixed-lens compact auto-focus camera for the APS film system, made by Kodak from about 1999.Chris Eve/Mischa Konig's [http://kodak.3106.net/index.php?p=202&cam=902 table of dates] for Advantix cameras, at [http://kodak.3106.net/index.php Kodak Classics], states the camera was ",
+  "description": "柯达于1999年推出的便携相机。配备Kodak Ektanar All Glass Lens 1:3.5/28mm。使用APS films with 50 - 1600 ASA film speed。**Active autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Advantix T550"
+    "Camera-wiki": "Kodak Advantix T550",
+    "镜头": "Kodak Ektanar All Glass Lens 1:3.5/28mm",
+    "胶片/画幅": "APS films with 50 - 1600 ASA film speed",
+    "取景器": "real image finder",
+    "对焦": "**Active autofocus",
+    "曝光测光": "automatic, shutter speed 1/4 -1/500 sec., aperture 1:3.5-1:11",
+    "闪光灯": "built-in Kodak Sensalite with modes:",
+    "尺寸": "3.6 x 2.3 x 1.3 inch (92 x 62 x 34 mm)",
+    "重量": "4.2 oz. (120 g) without film and CR2 battery",
+    "英文简介": "The Advantix T550 is a fixed-lens compact auto-focus camera for the APS film system, made by Kodak from about 1999.Chris Eve/Mischa Konig's [http://kodak.3106.net/index.php?p=202&cam=902 table of dates] for Advantix cameras, at [http://kodak.3106.net/index.php Kodak Classics], states the camera was announced in a 1998 press release for introduction in '99."
   },
   "images": [],
   "sources": [

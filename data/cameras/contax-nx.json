@@ -13,10 +13,23 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时胶片单反相机，2002 年发布",
-  "description": "The Contax NX is an autofocus 35mm film SLR camera introduced in 2002 by Kyocera.",
+  "description": "康泰时于2002年推出的胶片单反相机。快门速度AV, TV and P: 32 to 1/4000 sec.; M: 32 to 1/4000 sec. and bulb; X: 1/125 sec. (M mode)。使用Auto load, advance and rewind with built-in motor. Up to 2.3 fps. in C mode.。感光度Auto with DX-coded film, 25 to 5000 ISO; manual setting, 6 to 6400 ISO。5-point TTL phase difference detection。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax NX"
+    "Camera-wiki": "Contax NX",
+    "尺寸": "24 x 36mm",
+    "卡口": "Contax N mount",
+    "快门": "Vertical travel focal plane shutter",
+    "快门速度": "AV, TV and P: 32 to 1/4000 sec.; M: 32 to 1/4000 sec. and bulb; X: 1/125 sec. (M mode)",
+    "闪光灯": "X at up to 1/125 sec.",
+    "曝光测光": "Aperture, shutter, program auto, manual and TTL auto priority modes",
+    "感光度": "Auto with DX-coded film, 25 to 5000 ISO; manual setting, 6 to 6400 ISO",
+    "对焦": "5-point TTL phase difference detection",
+    "取景器": "eye-level pentaprism with 93% Field of view and 0.78x magnification (50mm lens at inf.)",
+    "胶片/画幅": "Auto load, advance and rewind with built-in motor. Up to 2.3 fps. in C mode.",
+    "卷片": "Single, continuous, 10 sec. self timer",
+    "重量": "605g",
+    "英文简介": "The Contax NX is an autofocus 35mm film SLR camera introduced in 2002 by Kyocera."
   },
   "images": [],
   "sources": [

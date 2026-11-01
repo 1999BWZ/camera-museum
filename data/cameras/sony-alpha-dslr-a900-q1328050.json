@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2008 年发布",
-  "description": "索尼于2008年发布的数码单反相机。",
+  "description": "索尼于2008年推出的数码单反相机。配备Sony mount; compatible with Minolta A-type bayonet mount.。快门速度Electronically controlled, vertical-traverse, focal-plane type。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1328050",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "传感器": "35.9 mm × 24.0 mm Exmor CMOS sensor",
+    "镜头": "Sony mount; compatible with Minolta A-type bayonet mount.",
+    "取景器": "Fixed eye-level system with optical glass type pentaprism, approximately 100%, 0.74x Magnification",
+    "存储": "Memory Stick: Memory Stick Duo, Memory Stick PRO Duo,",
+    "快门速度": "Electronically controlled, vertical-traverse, focal-plane type",
+    "曝光测光": "TTL metering Cell: 40-segment honeycomb-pattern SPC",
+    "屏幕": "3.0\", 921,600 dots",
+    "电池": "NP-FM500H Lithium-Ion rechargeable battery (1650 mAh)"
   },
   "images": [
     {

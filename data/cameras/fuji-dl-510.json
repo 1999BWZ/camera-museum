@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1992 年发布",
-  "description": "The DL-510 is a point and shoot autofocus compact 35mm film camera using a wide angle 28mm lens released by Fuji in 1992.",
+  "description": "Fuji于1992年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-510"
+    "Camera-wiki": "Fuji DL-510",
+    "英文简介": "The DL-510 is a point and shoot autofocus compact 35mm film camera using a wide angle 28mm lens released by Fuji in 1992."
   },
   "images": [],
   "sources": [

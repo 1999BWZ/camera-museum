@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1971 年发布",
-  "description": "Canon introduced the FT QL in March 1966, a year after the pellicle-mirrored Canon Pellix.",
+  "description": "佳能于1971年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon FT"
+    "Camera-wiki": "Canon FT",
+    "英文简介": "Canon introduced the FT QL in March 1966, a year after the pellicle-mirrored Canon Pellix."
   },
   "images": [],
   "sources": [

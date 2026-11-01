@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "适马数码相机，2009 年发布",
-  "description": "The DP2 is a compact digital camera from Japanese company Sigma released in 2009.",
+  "description": "适马于2009年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sigma DP2"
+    "Camera-wiki": "Sigma DP2",
+    "英文简介": "The DP2 is a compact digital camera from Japanese company Sigma released in 2009."
   },
   "images": [],
   "sources": [

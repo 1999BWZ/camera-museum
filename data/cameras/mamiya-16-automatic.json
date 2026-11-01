@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚微型相机，1959 年发布",
-  "description": "The Mamiya 16 Automatic is a subminiature viewfinder camera taking 10x14mm images on 16mm film.",
+  "description": "玛米亚于1959年推出的微型相机。配备Mamiya-Sekor f2.8 25mm lens, stopping down to f16。快门速度Speeds set manually between 1/5 (1/2 on some models) and 1/200, plus 'B'。使用16mm film。Manual guess focus, focusing down to 0.3 meters/1 foot.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya 16 Automatic"
+    "Camera-wiki": "Mamiya 16 Automatic",
+    "胶片/画幅": "16mm film",
+    "尺寸": "10×14mm",
+    "镜头": "Mamiya-Sekor f2.8 25mm lens, stopping down to f16",
+    "对焦": "Manual guess focus, focusing down to 0.3 meters/1 foot.",
+    "快门": "Speeds set manually between 1/5 (1/2 on some models) and 1/200, plus 'B'",
+    "光圈": "set manually from f2.8 and f16, by rotating the calculator wheel to match shutter speed to meter needle",
+    "取景器": "optical bright frame finder with parallax marks",
+    "闪光灯": "PC socket on camera base plate with accessory shoe to the side of the selenium meter",
+    "重量": "270g",
+    "英文简介": "The Mamiya 16 Automatic is a subminiature viewfinder camera taking 10x14mm images on 16mm film."
   },
   "images": [],
   "sources": [

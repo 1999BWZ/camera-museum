@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "FED取景器相机，1959 年发布",
-  "description": "The Zarya is a 35mm film Viewfinder camera, manufactured by F.E.",
+  "description": "FED于1959年推出的取景器相机。配备Industar-26m 50mm f/2.8, (ИНДУСТАР-26m), red engraving \"П\" means coated,。快门速度horizontal-running, focal plane with cloth curtains, speeds: 1/30 - 1/500 +B。使用special take-up spool, removable。Manual focusing, guess the distance。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zarya"
+    "Camera-wiki": "Zarya",
+    "镜头": "Industar-26m 50mm f/2.8, (ИНДУСТАР-26m), red engraving \"П\" means coated,",
+    "对焦": "Manual focusing, guess the distance",
+    "快门": "horizontal-running, focal plane with cloth curtains, speeds: 1/30 - 1/500 +B",
+    "取景器": "Reverse Galilean type unusual big viewfinder, 15x11mm, later Zaryas have 15x9mm",
+    "闪光灯": "on front of the top plate, X sync. 1/30",
+    "胶片/画幅": "special take-up spool, removable",
+    "英文简介": "The Zarya is a 35mm film Viewfinder camera, manufactured by F.E."
   },
   "images": [],
   "sources": [

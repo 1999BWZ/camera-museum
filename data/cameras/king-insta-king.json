@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King胶片相机，1970 年发布",
-  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "description": "King于1970年推出的胶片相机。配备Isco Optik - Single element meniscus lens fixed focus; Focal length is about 45mm.。快门速度Single speed, probably in the 1/30-50th range。3.5ft to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula Insta-King"
+    "Camera-wiki": "Regula Insta-King",
+    "镜头": "Isco Optik - Single element meniscus lens fixed focus; Focal length is about 45mm.",
+    "光圈": "Single aperture, between f/11 and f/16.",
+    "对焦": "3.5ft to infinity",
+    "快门": "Single speed, probably in the 1/30-50th range",
+    "自拍": "No",
+    "闪光灯": "Flashcube socket on the top of the camera",
+    "尺寸": "111mm x 68mm x 55mm (W*H*D)",
+    "重量": "157g",
+    "英文简介": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!"
   },
   "images": [],
   "sources": [

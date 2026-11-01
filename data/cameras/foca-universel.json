@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Foca旁轴相机，1948 年发布",
-  "description": "The Universel was an improved model in the the Foca lineup of rangefinder cameras from OPL.",
+  "description": "Foca于1948年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Foca Universel"
+    "Camera-wiki": "Foca Universel",
+    "英文简介": "The Universel was an improved model in the the Foca lineup of rangefinder cameras from OPL."
   },
   "images": [],
   "sources": [

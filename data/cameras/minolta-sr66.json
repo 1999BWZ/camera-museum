@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1968 年发布",
-  "description": "The Minolta SR66 (ミノルタSR66) is a 6×6 SLR camera made as a prototype by Minolta in 1968.",
+  "description": "美能达于1968年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR66"
+    "Camera-wiki": "Minolta SR66",
+    "英文简介": "The Minolta SR66 (ミノルタSR66) is a 6×6 SLR camera made as a prototype by Minolta in 1968."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片相机，2000 年发布",
-  "description": "The Pentax efina T is a tiny metal APS zoom camera.",
+  "description": "宾得于2000年推出的胶片相机。配备1:4,9-1:9,5/23-69mm zoom lens, 6 elements in 5 groups。high precision passive five-point autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax efina T"
+    "Camera-wiki": "Pentax efina T",
+    "镜头": "1:4,9-1:9,5/23-69mm zoom lens, 6 elements in 5 groups",
+    "曝光测光": "1/3 - 1/400 sec.",
+    "取景器": "showing 83%, magnification depending on lens position, diopter correction",
+    "对焦": "high precision passive five-point autofocus",
+    "尺寸": "95 x 64,5 x 32 mm",
+    "重量": "205 g without CR2 battery",
+    "英文简介": "The Pentax efina T is a tiny metal APS zoom camera."
   },
   "images": [],
   "sources": [

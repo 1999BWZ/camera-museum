@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1978 年发布",
-  "description": "The KR-5 is one of a series of SLRs for 35mm film made by Ricoh, all accepting K-mount lenses.",
+  "description": "理光于1978年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh KR-5"
+    "Camera-wiki": "Ricoh KR-5",
+    "英文简介": "The KR-5 is one of a series of SLRs for 35mm film made by Ricoh, all accepting K-mount lenses."
   },
   "images": [],
   "sources": [

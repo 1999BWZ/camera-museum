@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Franka折叠相机，1936 年发布",
-  "description": "The Franka Solida is a 6&times;6 folding camera released in 1936.",
+  "description": "Franka于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Franka Solida"
+    "Camera-wiki": "Franka Solida",
+    "英文简介": "The Franka Solida is a 6&times;6 folding camera released in 1936."
   },
   "images": [],
   "sources": [

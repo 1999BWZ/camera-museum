@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1982 年发布",
-  "description": "In 1982 Minolta updated the Hi-Matic AF2 with motorized film advance.",
+  "description": "美能达于1982年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic AF2-M"
+    "Camera-wiki": "Minolta Hi-Matic AF2-M",
+    "英文简介": "In 1982 Minolta updated the Hi-Matic AF2 with motorized film advance."
   },
   "images": [],
   "sources": [

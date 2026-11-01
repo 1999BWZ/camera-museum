@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1979 年发布",
-  "description": "Mainly made for export, the Fujica M1 was launched in 1979.",
+  "description": "Fuji于1979年推出的取景器相机。配备Fujinon 40 mm f/8 (3 elements/3 groups) glass lens.。快门速度Mechanical behind-the-lens, 1/125 s.。使用Knob advance, rewind crank.。Fixed focus, close focus mode for flash.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica M1"
+    "Camera-wiki": "Fujica M1",
+    "镜头": "Fujinon 40 mm f/8 (3 elements/3 groups) glass lens.",
+    "对焦": "Fixed focus, close focus mode for flash.",
+    "快门": "Mechanical behind-the-lens, 1/125 s.",
+    "闪光灯": "Hot shoe with X sync.",
+    "胶片/画幅": "Knob advance, rewind crank.",
+    "尺寸": "114 x 73 x 50 mm.",
+    "重量": "170 g.",
+    "英文简介": "Mainly made for export, the Fujica M1 was launched in 1979."
   },
   "images": [],
   "sources": [

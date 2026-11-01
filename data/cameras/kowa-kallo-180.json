@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa旁轴相机，1959 年发布",
-  "description": "The Kallo 180, produced from about 1959 by Kowa, is a rangefinder camera using 35mm film.",
+  "description": "Kowa于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kowa Kallo 180"
+    "Camera-wiki": "Kowa Kallo 180",
+    "英文简介": "The Kallo 180, produced from about 1959 by Kowa, is a rangefinder camera using 35mm film."
   },
   "images": [],
   "sources": [

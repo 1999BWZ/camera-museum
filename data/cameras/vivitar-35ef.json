@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar取景器相机，1982 年发布",
-  "description": "{|class=floatright plainlinks\n||\n \n |-\n |}\nThe Vivitar 35 EF is a compact 35mm viewfinder camera from 1970s.",
+  "description": "Vivitar于1982年推出的取景器相机。配备38mm f/2.8 (4 elements in 3 groups), 46mm filter thread.。快门速度mechanically controlled program shutter, 1/60s@f/2.8 -- 1/350s@f/22.。zone focusing.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 35EF"
+    "Camera-wiki": "Vivitar 35EF",
+    "镜头": "38mm f/2.8 (4 elements in 3 groups), 46mm filter thread.",
+    "快门": "mechanically controlled program shutter, 1/60s@f/2.8 -- 1/350s@f/22.",
+    "对焦": "zone focusing.",
+    "曝光测光": "CdS controlled trap-needle mechanism.",
+    "电池": "PX675 for the meter, AA for the flash.",
+    "闪光灯": "built-in pop-up electronic flash.",
+    "英文简介": "{|class=floatright plainlinks\n||\n \n |-\n |}\nThe Vivitar 35 EF is a compact 35mm viewfinder camera from 1970s."
   },
   "images": [],
   "sources": [

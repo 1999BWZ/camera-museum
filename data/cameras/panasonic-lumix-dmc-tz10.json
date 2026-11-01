@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2010 年发布",
-  "description": "松下于2010年发布的便携相机。",
+  "description": "松下于2010年推出的便携相机。配备Fixed。快门速度60-1/2000 s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1883902",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "传感器": "1/2.33\" CCD",
+    "镜头": "Fixed",
+    "快门速度": "60-1/2000 s",
+    "取景器": "Liquid-crystal display",
+    "屏幕": "3.0 in (7.62 cm), 460,000 pixels",
+    "存储": "Secure Digital Card (SD), Secure Digital High-Capacity (SDHC) or SDXC",
+    "重量": "218 g",
+    "电池": "3.76, 895"
   },
   "images": [
     {

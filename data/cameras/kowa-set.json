@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa数码单反相机，1967 年发布",
-  "description": "The Kowa SET is a fixed lens 35mm SLR introduced by Kowa in 1967, and was a replacement for the Kowa SE.",
+  "description": "Kowa于1967年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kowa SET"
+    "Camera-wiki": "Kowa SET",
+    "尺寸": "136 x 96 x 83mm",
+    "英文简介": "The Kowa SET is a fixed lens 35mm SLR introduced by Kowa in 1967, and was a replacement for the Kowa SE."
   },
   "images": [],
   "sources": [

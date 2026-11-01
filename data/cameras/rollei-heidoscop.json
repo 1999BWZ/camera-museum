@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来立体相机，1921 年发布",
-  "description": "The Heidoscop is a triple lens reflex camera stereo camera, for plates or film packs (or a roll film back can be used).",
+  "description": "禄来于1921年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Heidoscop"
+    "Camera-wiki": "Heidoscop",
+    "英文简介": "The Heidoscop is a triple lens reflex camera stereo camera, for plates or film packs (or a roll film back can be used)."
   },
   "images": [],
   "sources": [

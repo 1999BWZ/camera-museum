@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，2003 年发布",
-  "description": "The Minolta Zoom 60 is a compact camera with autofocus and built-in flash, nowadays sold as Konica Minolta Zoom 60.",
+  "description": "美能达于2003年推出的便携相机。配备1:6,3-1:10,3/35-60mm zoom。快门速度meter-controlled 1/3-1/250 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Zoom 60"
+    "Camera-wiki": "Minolta Zoom 60",
+    "镜头": "1:6,3-1:10,3/35-60mm zoom",
+    "快门速度": "meter-controlled 1/3-1/250 sec",
+    "重量": "190 g without the two AA-batteries",
+    "尺寸": "115 x 67 x 44 mm",
+    "英文简介": "The Minolta Zoom 60 is a compact camera with autofocus and built-in flash, nowadays sold as Konica Minolta Zoom 60."
   },
   "images": [],
   "sources": [

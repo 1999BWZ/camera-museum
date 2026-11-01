@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ胶片单反相机，1965 年发布",
-  "description": "The Zenit 5 is the World's first 35 mm SLR camera with a built-in electric motor and rechargeable batteries, made by KMZ between 1964 and '68.",
+  "description": "KMZ于1965年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenit 5"
+    "Camera-wiki": "Zenit 5",
+    "英文简介": "The Zenit 5 is the World's first 35 mm SLR camera with a built-in electric motor and rechargeable batteries, made by KMZ between 1964 and '68."
   },
   "images": [],
   "sources": [

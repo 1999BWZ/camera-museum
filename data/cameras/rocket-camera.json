@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rocket取景器相机，1955 年发布",
-  "description": "The Rocket Camera is an inexpensive Japanese camera taking 16 exposures on 120 film.",
+  "description": "Rocket于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rocket Camera"
+    "Camera-wiki": "Rocket Camera",
+    "英文简介": "The Rocket Camera is an inexpensive Japanese camera taking 16 exposures on 120 film."
   },
   "images": [],
   "sources": [

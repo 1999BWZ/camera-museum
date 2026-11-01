@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1906 年发布",
-  "description": "The Filmplate Premo is a folding bed camera for plates and film packs in several sizes, made by Kodak from 1906-16., p515.",
+  "description": "柯达于1906年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Filmplate Premo"
+    "Camera-wiki": "Filmplate Premo",
+    "英文简介": "The Filmplate Premo is a folding bed camera for plates and film packs in several sizes, made by Kodak from 1906-16., p515."
   },
   "images": [],
   "sources": [

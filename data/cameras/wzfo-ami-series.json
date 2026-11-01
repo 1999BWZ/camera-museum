@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "WZFO胶片相机，1953 年发布",
-  "description": "{|align=right\n||\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Ami series was a series of three toy viewfinder camera models by WZFO and PZO (only for the latest Ami 66's type of five available).",
+  "description": "WZFO于1953年推出的胶片相机。配备** Ami and Ami 66: fixed, meniscus, 75 mm 1:8。快门速度** Ami: 1/50。使用120 film, 6x6cm.。** Ami and Ami 66: fixed focus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ami series"
+    "Camera-wiki": "Ami series",
+    "胶片/画幅": "120 film, 6x6cm.",
+    "镜头": "** Ami and Ami 66: fixed, meniscus, 75 mm 1:8",
+    "快门": "** Ami: 1/50",
+    "光圈": "1:8, 1:16",
+    "对焦": "** Ami and Ami 66: fixed focus.",
+    "英文简介": "{|align=right\n||\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Ami series was a series of three toy viewfinder camera models by WZFO and PZO (only for the latest Ami 66's type of five available)."
   },
   "images": [],
   "sources": [

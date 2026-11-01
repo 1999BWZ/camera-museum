@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Romain旁轴相机（折叠），1855 年发布",
-  "description": "Romain Talbot was a wholesale dealer in photographic goods in Berlin, from 1855.",
+  "description": "Romain于1855年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Romain Talbot"
+    "Camera-wiki": "Romain Talbot",
+    "英文简介": "Romain Talbot was a wholesale dealer in photographic goods in Berlin, from 1855."
   },
   "images": [],
   "sources": [

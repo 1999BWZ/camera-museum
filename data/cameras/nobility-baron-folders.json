@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nobility折叠相机，1952 年发布",
-  "description": "The Baron folders are Japanese 6×6 cameras made by Chūō Seiki, later Baron Camera, from 1952 to 1956.",
+  "description": "Nobility于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baron folders"
+    "Camera-wiki": "Baron folders",
+    "英文简介": "The Baron folders are Japanese 6×6 cameras made by Chūō Seiki, later Baron Camera, from 1952 to 1956."
   },
   "images": [],
   "sources": [

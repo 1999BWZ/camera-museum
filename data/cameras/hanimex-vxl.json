@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hanimex胶片相机，1978 年发布",
-  "description": "The Hanimex VXL is a camera that was marketed by (but not made by) Hanimex.",
+  "description": "Hanimex于1978年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hanimex VXL"
+    "Camera-wiki": "Hanimex VXL",
+    "英文简介": "The Hanimex VXL is a camera that was marketed by (but not made by) Hanimex."
   },
   "images": [],
   "sources": [

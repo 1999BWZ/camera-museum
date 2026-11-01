@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO取景器相机，1975 年发布",
-  "description": "The LOMO 135BC and 135M are 35mm cameras with spring-motor film advance.",
+  "description": "LOMO于1975年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomo 135"
+    "Camera-wiki": "Lomo 135",
+    "英文简介": "The LOMO 135BC and 135M are 35mm cameras with spring-motor film advance."
   },
   "images": [],
   "sources": [

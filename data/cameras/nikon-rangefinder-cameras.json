@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康旁轴相机，1948 年发布",
-  "description": "The Nikon was the first camera introduced by the optical manufacturer Nippon Kōgaku K.K..",
+  "description": "尼康于1948年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon rangefinder cameras"
+    "Camera-wiki": "Nikon rangefinder cameras",
+    "英文简介": "The Nikon was the first camera introduced by the optical manufacturer Nippon Kōgaku K.K.."
   },
   "images": [],
   "sources": [

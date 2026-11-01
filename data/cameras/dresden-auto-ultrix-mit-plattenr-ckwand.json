@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dresden折叠相机，1931 年发布",
-  "description": "The Auto-Ultrix mit Plattenrückwand (catalogue Nr.3860) manufactured by Ihagee Kamerawerk, Steenbergen & Co.",
+  "description": "Dresden于1931年推出的折叠相机。配备Jhagee-Anastigmat f:4.5 F=10.5 cm, Aperture: f/4.5 - f/32, no click stops。快门速度Vario leaf shutter by Gauthier。manual helical focusing by a lever behind the lens-shutter barrel, scale on the lens standard, Focus range: 1.5-15m +inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Auto-Ultrix mit Plattenrückwand"
+    "Camera-wiki": "Auto-Ultrix mit Plattenrückwand",
+    "镜头": "Jhagee-Anastigmat f:4.5 F=10.5 cm, Aperture: f/4.5 - f/32, no click stops",
+    "对焦": "manual helical focusing by a lever behind the lens-shutter barrel, scale on the lens standard, Focus range: 1.5-15m +inf",
+    "快门": "Vario leaf shutter by Gauthier",
+    "英文简介": "The Auto-Ultrix mit Plattenrückwand (catalogue Nr.3860) manufactured by Ihagee Kamerawerk, Steenbergen & Co."
   },
   "images": [],
   "sources": [

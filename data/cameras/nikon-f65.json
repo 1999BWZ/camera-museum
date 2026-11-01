@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，2001 年发布",
-  "description": "The Nikon F65; also known as the Nikon N65 in the United States or the Nikon U in Japan is a 35mm entry level SLR camera released in 2001.",
+  "description": "尼康于2001年推出的胶片单反相机。快门速度CPU-controlled focal plane shutter with speeds 30 - 1/2000 sec.。使用35mm, automatic recognition of DX-coded film speed, speeds from 25 to 5000 ASA。Cross-ranged, five-area autofocus system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon F65 (N65)"
+    "Camera-wiki": "Nikon F65 (N65)",
+    "胶片/画幅": "35mm, automatic recognition of DX-coded film speed, speeds from 25 to 5000 ASA",
+    "卡口": "Nikon F autofocus bayonet, depth of field preview button",
+    "快门": "CPU-controlled focal plane shutter with speeds 30 - 1/2000 sec.",
+    "曝光测光": "3D-six-zone-matrix TTL measuring or center weighted TTL measuring",
+    "对焦": "Cross-ranged, five-area autofocus system",
+    "取景器": "pentaprism, diopter adjustment",
+    "闪光灯": "built-in miniature flash (GN 40), or flash gun on TTL-enhanced hot shoe",
+    "尺寸": "139.5×92.5×65.6mm",
+    "重量": "395g without the two CR2 3V batteries",
+    "英文简介": "The Nikon F65; also known as the Nikon N65 in the United States or the Nikon U in Japan is a 35mm entry level SLR camera released in 2001."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon取景器相机，1953 年发布",
-  "description": "{| class=\"plainlinks floatright\" width=500px style=\"text-align: center;\"\n|-\n| [http://www.flickr.com/photos/camerawiki/48091426188/in/pool-camerawiki/ https://live.staticflickr.com/65535/48091426188_084db009d9.jpg]\n|-\n| Topcon 35A no.54328, Topcor 4.2cm f/3.5 lens no.50248.Picture by eBayer tuiteka.",
+  "description": "Topcon于1953年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon 35"
+    "Camera-wiki": "Topcon 35",
+    "英文简介": "{| class=\"plainlinks floatright\" width=500px style=\"text-align: center;\"\n|-\n| [http://www.flickr.com/photos/camerawiki/48091426188/in/pool-camerawiki/ https://live.staticflickr.com/65535/48091426188_084db009d9.jpg]\n|-\n| Topcon 35A no.54328, Topcor 4.2cm f/3.5 lens no.50248.Picture by eBayer tuiteka."
   },
   "images": [],
   "sources": [

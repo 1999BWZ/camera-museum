@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon折叠相机，1919 年发布",
-  "description": "The Cocarette was a non-self erecting folding camera for rollfilm.",
+  "description": "Zeiss Ikon于1919年推出的折叠相机。配备variants include Novar, Meyer, Periskop, Dominar, Frontar, or Tessar。快门速度Peri, Derval, Sonto, Klio, or Compur。使用film rolls of type No. 120 for eight 6x9cm exposures or 116 for 6.5x11cm exposures。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cocarette"
+    "Camera-wiki": "Cocarette",
+    "胶片/画幅": "film rolls of type No. 120 for eight 6x9cm exposures or 116 for 6.5x11cm exposures",
+    "镜头": "variants include Novar, Meyer, Periskop, Dominar, Frontar, or Tessar",
+    "快门": "Peri, Derval, Sonto, Klio, or Compur",
+    "英文简介": "The Cocarette was a non-self erecting folding camera for rollfilm."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1986 年发布",
-  "description": "The Fuji DL-30 is a 1986 budget auto-focus camera, as can be seen in the modest lens specifications and the fact that it doesn't have motor drive.",
+  "description": "Fuji于1986年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-30"
+    "Camera-wiki": "Fuji DL-30",
+    "尺寸": "125 x 73 x 46,5 mm.",
+    "重量": "220 g.",
+    "英文简介": "The Fuji DL-30 is a 1986 budget auto-focus camera, as can be seen in the modest lens specifications and the fact that it doesn't have motor drive."
   },
   "images": [],
   "sources": [

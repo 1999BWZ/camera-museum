@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1970 年发布",
-  "description": "The Kodak Instamatic X-45 is a camera for Kodapak type No.",
+  "description": "柯达于1970年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic X-45"
+    "Camera-wiki": "Kodak Instamatic X-45",
+    "英文简介": "The Kodak Instamatic X-45 is a camera for Kodapak type No."
   },
   "images": [],
   "sources": [

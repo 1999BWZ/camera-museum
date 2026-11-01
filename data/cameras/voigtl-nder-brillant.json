@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer盒式相机，1932 年发布",
-  "description": "The first Voigtländer Brillant was released in 1932.",
+  "description": "Voigtländer于1932年推出的盒式相机。配备various lenses。快门速度various central leaf shutters。使用fit the roll film the place under the bottom plate, take-up spool under the back cover。manual front focusing, guess the distance; Focus range: 1-8m +inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Brillant"
+    "Camera-wiki": "Brillant",
+    "镜头": "various lenses",
+    "对焦": "manual front focusing, guess the distance; Focus range: 1-8m +inf",
+    "快门": "various central leaf shutters",
+    "取景器": "waist level non focusing finder, really brilliant, plain glass, hood opens by a knob on top of it, there is an exposure index on the back side of the hood",
+    "胶片/画幅": "fit the roll film the place under the bottom plate, take-up spool under the back cover",
+    "英文简介": "The first Voigtländer Brillant was released in 1932."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar旁轴相机，1978 年发布",
-  "description": "The Vivitar 35EE is a 35mm rangefinder camera with automatic exposure, rebadged to Vivitar specifications from the Cosina Cosina 35 in the mid-1970s.",
+  "description": "Vivitar于1978年推出的旁轴相机。配备38mm f/2.8 (4 elements, 3 groups) with 46mm filter thread.。快门速度1/30-1/650s.。感光度ISO 25-400.。0.9m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 35EE"
+    "Camera-wiki": "Vivitar 35EE",
+    "镜头": "38mm f/2.8 (4 elements, 3 groups) with 46mm filter thread.",
+    "对焦": "0.9m to infinity.",
+    "快门速度": "1/30-1/650s.",
+    "感光度": "ISO 25-400.",
+    "取景器": "Brightline frame, parallax correction marks, overexposure and underexposure warning zones, with indicated approximate combined shutter speed and aperture (f/2.8 to f/14) selection shown by needle.",
+    "电池": "Originally took a PX625 mercury cell. A zinc air equivalent or a higher voltage alkaline button battery can be used.",
+    "英文简介": "The Vivitar 35EE is a 35mm rangefinder camera with automatic exposure, rebadged to Vivitar specifications from the Cosina Cosina 35 in the mid-1970s."
   },
   "images": [],
   "sources": [

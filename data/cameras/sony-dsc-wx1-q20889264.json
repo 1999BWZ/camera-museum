@@ -1,0 +1,32 @@
+{
+  "id": "sony-dsc-wx1-q20889264",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSC-WX1",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2009 年发布",
+  "description": "索尼于2009年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889264",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSC-WX1",
+      "url": "https://www.wikidata.org/wiki/Q20889264"
+    }
+  ],
+  "qid": "Q20889264",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

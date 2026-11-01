@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Intreprinderea Optica Romana (IOR)取景器相机，1970 年发布",
-  "description": "The Orizont Amator, made between 1970-1989, by Intreprinderea Optica Romana (IOR), the Romanian Optical Factory, is a viewfinder 35mm camera.",
+  "description": "Intreprinderea Optica Romana (IOR)于1970年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Orizont Amator"
+    "Camera-wiki": "Orizont Amator",
+    "英文简介": "The Orizont Amator, made between 1970-1989, by Intreprinderea Optica Romana (IOR), the Romanian Optical Factory, is a viewfinder 35mm camera."
   },
   "images": [],
   "sources": [

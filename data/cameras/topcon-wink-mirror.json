@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon数码单反相机，1960 年发布",
-  "description": "Released late in 1960, the Topcon Wink Mirror was the world's first lens shutter type SLR camera with a quick return mirror.",
+  "description": "Topcon于1960年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon Wink Mirror"
+    "Camera-wiki": "Topcon Wink Mirror",
+    "尺寸": "132×90×74mm",
+    "英文简介": "Released late in 1960, the Topcon Wink Mirror was the world's first lens shutter type SLR camera with a quick return mirror."
   },
   "images": [],
   "sources": [

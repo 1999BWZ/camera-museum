@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1925 年发布",
-  "description": "The Ernemann Miniatur-Ernoflex was a miniature version of Ernemann's folding plate SLR cameras with focal plane shutter.",
+  "description": "Ernemann于1925年推出的折叠相机。配备Ernemann Ernon 1:3.5/75mm or Carl Zeiss Jena Tessar 1:4.5/80mm。使用4.5×6cm film plates。lever at the lens: 3.6 feet to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Miniatur-Ernoflex"
+    "Camera-wiki": "Ernemann Miniatur-Ernoflex",
+    "胶片/画幅": "4.5×6cm film plates",
+    "镜头": "Ernemann Ernon 1:3.5/75mm or Carl Zeiss Jena Tessar 1:4.5/80mm",
+    "对焦": "lever at the lens: 3.6 feet to infinity",
+    "光圈": "Iris diaphragm, stoppable down to f32",
+    "英文简介": "The Ernemann Miniatur-Ernoflex was a miniature version of Ernemann's folding plate SLR cameras with focal plane shutter."
   },
   "images": [],
   "sources": [

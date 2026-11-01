@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun胶片相机，1958 年发布",
-  "description": "The Braun Paxette Reflex single lens reflex camera series was made by Braun Nuremberg from 1958 to 1962, broadly similar to the Paxette Rangfinder cameras.",
+  "description": "Braun于1958年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Braun Paxette Reflex"
+    "Camera-wiki": "Braun Paxette Reflex",
+    "英文简介": "The Braun Paxette Reflex single lens reflex camera series was made by Braun Nuremberg from 1958 to 1962, broadly similar to the Paxette Rangfinder cameras."
   },
   "images": [],
   "sources": [

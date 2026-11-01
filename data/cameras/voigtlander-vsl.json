@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "福伦达数码单反相机，1970 年发布",
-  "description": "The Voigtländer VSL is a series of 35mm SLR bodies manufactured by Rollei in the 1970s and 1980s under the brand name Voigtländer (which Rollei had taken over from Zeiss after the demise of Zeiss Ikon in 1972).",
+  "description": "福伦达于1970年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voigtländer VSL"
+    "Camera-wiki": "Voigtländer VSL",
+    "英文简介": "The Voigtländer VSL is a series of 35mm SLR bodies manufactured by Rollei in the 1970s and 1980s under the brand name Voigtländer (which Rollei had taken over from Zeiss after the demise of Zeiss Ikon in 1972)."
   },
   "images": [],
   "sources": [

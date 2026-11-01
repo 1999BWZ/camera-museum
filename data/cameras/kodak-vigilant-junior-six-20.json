@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1940 年发布",
-  "description": "The Kodak Vigilant Junior Six-20 is a folding camera made in the USA and Canada by Kodak from 1940 to 1948.",
+  "description": "柯达于1940年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Vigilant Junior Six-20"
+    "Camera-wiki": "Kodak Vigilant Junior Six-20",
+    "英文简介": "The Kodak Vigilant Junior Six-20 is a folding camera made in the USA and Canada by Kodak from 1940 to 1948."
   },
   "images": [],
   "sources": [

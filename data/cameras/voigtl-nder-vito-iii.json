@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer旁轴相机，1951 年发布",
-  "description": "The Vito III is a 35mm rangefinder camera that was first produced by Voigtländer in 1950, this camera was the high-end model of the Vito family, with a better lens, shutter and rangefinder.",
+  "description": "Voigtländer于1951年推出的旁轴相机。配备coated Ultron 50mm f2.0 (6 elements in 4 groups) 15 blade diaphragm.。快门速度T, B, 1, 2, 5, 10, 25, 50, 100, 250 or 300. 500 was available in some models with Compur shutter。使用135mm (24x36mm image)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito III"
+    "Camera-wiki": "Vito III",
+    "胶片/画幅": "135mm (24x36mm image)",
+    "镜头": "coated Ultron 50mm f2.0 (6 elements in 4 groups) 15 blade diaphragm.",
+    "快门": "Compur-Rapid or Synchro-Compur",
+    "快门速度": "T, B, 1, 2, 5, 10, 25, 50, 100, 250 or 300. 500 was available in some models with Compur shutter",
+    "重量": "650 g approx",
+    "英文简介": "The Vito III is a 35mm rangefinder camera that was first produced by Voigtländer in 1950, this camera was the high-end model of the Vito family, with a better lens, shutter and rangefinder."
   },
   "images": [],
   "sources": [

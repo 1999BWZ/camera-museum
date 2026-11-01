@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Neoca旁轴相机，1954 年发布",
-  "description": "The original Neoca 35 (ネオカ35) is a Japanese 35mm folding camera, made as a prototype by Mizuho Kamera Kōgyō (predecessor of Neoca) in 1954.",
+  "description": "Neoca于1954年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Neoca 35 (folder)"
+    "Camera-wiki": "Neoca 35 (folder)",
+    "英文简介": "The original Neoca 35 (ネオカ35) is a Japanese 35mm folding camera, made as a prototype by Mizuho Kamera Kōgyō (predecessor of Neoca) in 1954."
   },
   "images": [],
   "sources": [

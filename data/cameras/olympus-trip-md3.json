@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1998 年发布",
-  "description": "The Olympus Trip MD3 is a simple fixed focus 35mm camera Launched by Olympus in 1998.",
+  "description": "奥林巴斯于1998年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip MD3"
+    "Camera-wiki": "Olympus Trip MD3",
+    "英文简介": "The Olympus Trip MD3 is a simple fixed focus 35mm camera Launched by Olympus in 1998."
   },
   "images": [],
   "sources": [

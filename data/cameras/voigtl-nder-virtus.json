@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer折叠相机，1932 年发布",
-  "description": "The Virtus was produced in 1932 by Voigtländer.",
+  "description": "Voigtländer于1932年推出的折叠相机。配备Skopar f/4.5 75mm or Heliar f/3.5 75mm lens。快门速度Compur 250 or Embezet 250。使用120。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Virtus"
+    "Camera-wiki": "Virtus",
+    "胶片/画幅": "120",
+    "镜头": "Skopar f/4.5 75mm or Heliar f/3.5 75mm lens",
+    "快门": "Compur 250 or Embezet 250",
+    "闪光灯": "None",
+    "英文简介": "The Virtus was produced in 1932 by Voigtländer."
   },
   "images": [],
   "sources": [

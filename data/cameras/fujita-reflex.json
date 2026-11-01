@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fujita数码单反相机，1957 年发布",
-  "description": "The Kalimar Reflex is an inexpensive Japanese 6×6 SLR that was a minor improvement on the Fujita 66, adding an instant-return mirror.",
+  "description": "Fujita于1957年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kalimar Reflex"
+    "Camera-wiki": "Kalimar Reflex",
+    "英文简介": "The Kalimar Reflex is an inexpensive Japanese 6×6 SLR that was a minor improvement on the Fujita 66, adding an instant-return mirror."
   },
   "images": [],
   "sources": [

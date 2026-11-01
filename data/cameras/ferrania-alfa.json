@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ferrania取景器相机，1945 年发布",
-  "description": "The Ferrania Alfa is a simple viewfinder camera for 127 film made in Italy by Ferrania, c.1945.",
+  "description": "Ferrania于1945年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ferrania Alfa"
+    "Camera-wiki": "Ferrania Alfa",
+    "英文简介": "The Ferrania Alfa is a simple viewfinder camera for 127 film made in Italy by Ferrania, c.1945."
   },
   "images": [],
   "sources": [

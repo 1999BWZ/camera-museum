@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2016 年发布",
-  "description": "佳能于2016年发布的数码单反相机。",
+  "description": "佳能于2016年推出的数码单反相机。配备Interchangeable。快门速度Electronic focal-plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q26709840",
-    "多语言词条数": "15"
+    "多语言词条数": "15",
+    "传感器": "CMOS",
+    "镜头": "Interchangeable",
+    "闪光灯": "External",
+    "取景器": "Eye-level pentaprism with 100% coverage and 0.71× magnification / LCD (Live View)",
+    "存储": "Dual slots: CompactFlash (CF) card Type I (UDMA-7 supported) and SD/SDHC/SDXC card (UHS-I compatible)",
+    "快门速度": "Electronic focal-plane",
+    "曝光测光": "Full aperture TTL, 252 zones with 150,000-pixel RGB+IR sensor and EOS Integrated Subject Analysis (iSA)",
+    "屏幕": "3.2″ (8.1 cm) Clear View II colour TFT LCD touchscreen with 1,620,000 dots",
+    "重量": ", body only",
+    "电池": "Li-Ion LP-E6N with 900 shots when fully charged"
   },
   "images": [
     {

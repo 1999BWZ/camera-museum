@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1979 年发布",
-  "description": "{|class=floatright\n||\n|-\n||\n\n|}\nThe Ricoh AD-1 and related A-2 are two somewhat idiosyncratic scale focus cameras notable for their spring tension film-advance mechanisms (pioneered on the Ricoh Auto Half series).",
+  "description": "理光于1979年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh AD-1"
+    "Camera-wiki": "Ricoh AD-1",
+    "英文简介": "{|class=floatright\n||\n|-\n||\n\n|}\nThe Ricoh AD-1 and related A-2 are two somewhat idiosyncratic scale focus cameras notable for their spring tension film-advance mechanisms (pioneered on the Ricoh Auto Half series)."
   },
   "images": [],
   "sources": [

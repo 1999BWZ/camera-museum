@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Shaty微型相机，1963 年发布",
-  "description": "The Shaty 16 (シャティ16) is a Japanese subminiature camera made at prototype level in 1963.",
+  "description": "Shaty于1963年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Shaty 16"
+    "Camera-wiki": "Shaty 16",
+    "英文简介": "The Shaty 16 (シャティ16) is a Japanese subminiature camera made at prototype level in 1963."
   },
   "images": [],
   "sources": [

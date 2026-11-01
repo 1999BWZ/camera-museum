@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi取景器相机，1982 年发布",
-  "description": "The Petri PX5F is a simpler version of the PX5.",
+  "description": "Kuribayashi于1982年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri PX5F"
+    "Camera-wiki": "Petri PX5F",
+    "英文简介": "The Petri PX5F is a simpler version of the PX5."
   },
   "images": [],
   "sources": [

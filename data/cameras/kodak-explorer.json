@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1989 年发布",
-  "description": "The Kodak Explorer is a basic 1980-era camera for 35mm film.",
+  "description": "柯达于1989年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Explorer"
+    "Camera-wiki": "Kodak Explorer",
+    "英文简介": "The Kodak Explorer is a basic 1980-era camera for 35mm film."
   },
   "images": [],
   "sources": [

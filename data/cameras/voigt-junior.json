@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigt折叠相机，1947 年发布",
-  "description": "The Voigt Junior is a folding camera for 2&frac14;\" square images on 120 film.",
+  "description": "Voigt于1947年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voigt Junior"
+    "Camera-wiki": "Voigt Junior",
+    "英文简介": "The Voigt Junior is a folding camera for 2&frac14;\" square images on 120 film."
   },
   "images": [],
   "sources": [

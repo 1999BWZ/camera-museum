@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ferrania取景器相机，1949 年发布",
-  "description": "The Ferrania Delta is a small cast metal camera for 127 film.",
+  "description": "Ferrania于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ferrania Delta"
+    "Camera-wiki": "Ferrania Delta",
+    "英文简介": "The Ferrania Delta is a small cast metal camera for 127 film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1955 年发布",
-  "description": "The Riken 35 is a fixed-lens, coupled-rangefinder camera for 35mm film, made in about 1955 by Riken Kōgaku Kōgyō, who would become Ricoh in a few more years.",
+  "description": "理光于1955年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Riken 35"
+    "Camera-wiki": "Riken 35",
+    "英文简介": "The Riken 35 is a fixed-lens, coupled-rangefinder camera for 35mm film, made in about 1955 by Riken Kōgaku Kōgyō, who would become Ricoh in a few more years."
   },
   "images": [],
   "sources": [

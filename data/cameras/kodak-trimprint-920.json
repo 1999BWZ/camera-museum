@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1984 年发布",
-  "description": "The Kodak Trimprint 920 was an Instant camera in the Kodak Instant line of cameras.",
+  "description": "柯达于1984年推出的一次成像相机。配备*Focus: Fixed focus。快门速度*Film: Kodak HS144, Instant film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Trimprint 920"
+    "Camera-wiki": "Kodak Trimprint 920",
+    "镜头": "*Focus: Fixed focus",
+    "快门速度": "*Film: Kodak HS144, Instant film",
+    "闪光灯": "Flipflash bulbs",
+    "英文简介": "The Kodak Trimprint 920 was an Instant camera in the Kodak Instant line of cameras."
   },
   "images": [],
   "sources": [

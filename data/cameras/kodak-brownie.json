@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1900 年发布",
-  "description": "Brownies\n\n\n\n\n\n\n\n\n\n\nThe name \"Brownie\" was a trademark used by Kodak for an enormous variety of cameras, over an 80-year history.",
+  "description": "柯达于1900年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie"
+    "Camera-wiki": "Kodak Brownie",
+    "英文简介": "Brownies\n\n\n\n\n\n\n\n\n\n\nThe name \"Brownie\" was a trademark used by Kodak for an enormous variety of cameras, over an 80-year history."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Widelux取景器相机，1958 年发布",
-  "description": "The Widelux FI was an early product of Panon's Widelux series of sophisticated 35mm panorama cameras.",
+  "description": "Widelux于1958年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Widelux FI"
+    "Camera-wiki": "Widelux FI",
+    "英文简介": "The Widelux FI was an early product of Panon's Widelux series of sophisticated 35mm panorama cameras."
   },
   "images": [],
   "sources": [

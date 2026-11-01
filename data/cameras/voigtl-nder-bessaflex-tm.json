@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer胶片单反相机，2007 年发布",
-  "description": "The Bessaflex TM is a retro styled SLR camera body for 35mm film by Cosina Voigtländer released in May, 2003 and discontinued in 2007.",
+  "description": "Voigtländer于2007年推出的胶片单反相机。快门速度Mechanical Copal Vertical metal shutter, 1s to 1/2000, B。感光度25 to 1600 ASA - No DX。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bessaflex TM"
+    "Camera-wiki": "Bessaflex TM",
+    "卡口": "M42 (Pentax Screw Mount)",
+    "曝光测光": "1 to 19 EV",
+    "感光度": "25 to 1600 ASA - No DX",
+    "快门": "Mechanical Copal Vertical metal shutter, 1s to 1/2000, B",
+    "取景器": "0.80 x [95%], split microprism",
+    "闪光灯": "1/125",
+    "自拍": "10 seconds",
+    "尺寸": "135.5 x 89 x 52.5 mm",
+    "重量": "485 g (w/0 batteries)",
+    "英文简介": "The Bessaflex TM is a retro styled SLR camera body for 35mm film by Cosina Voigtländer released in May, 2003 and discontinued in 2007."
   },
   "images": [],
   "sources": [

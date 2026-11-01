@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa旁轴相机，1955 年发布",
-  "description": "The Kallo W, also known as the Kallo Wide, is a 35 mm coupled rangefinder camera made by Kowa in about 1955.[https://www.leitz-auction.com/en/Kowa-Kallo-W-Wide/AI-21-13678 Kowa Kallo W] serial no.",
+  "description": "Kowa于1955年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kallo W"
+    "Camera-wiki": "Kallo W",
+    "英文简介": "The Kallo W, also known as the Kallo Wide, is a 35 mm coupled rangefinder camera made by Kowa in about 1955.[https://www.leitz-auction.com/en/Kowa-Kallo-W-Wide/AI-21-13678 Kowa Kallo W] serial no."
   },
   "images": [],
   "sources": [

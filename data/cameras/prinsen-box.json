@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Prinsen盒式相机，1947 年发布",
-  "description": "The Prinsen Box camera was produced by the Dutch company Laboratorium Prinsen (LP).",
+  "description": "Prinsen于1947年推出的盒式相机。配备Oude Delft Spheroscope 1:11 11cm meniscus。快门速度Everset shutter. Single Speed ? sec. and T.。使用6 x 9 cm on 120 film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Prinsen Box"
+    "Camera-wiki": "Prinsen Box",
+    "胶片/画幅": "6 x 9 cm on 120 film",
+    "镜头": "Oude Delft Spheroscope 1:11 11cm meniscus",
+    "快门": "Everset shutter. Single Speed ? sec. and T.",
+    "尺寸": "76 x 112 x 135 mm",
+    "重量": "560 grams",
+    "英文简介": "The Prinsen Box camera was produced by the Dutch company Laboratorium Prinsen (LP)."
   },
   "images": [],
   "sources": [

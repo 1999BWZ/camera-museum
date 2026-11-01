@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji Kōgaku折叠相机，1937 年发布",
-  "description": "The Lyra Six (ライラシックス) is a Japanese 6×6 folder made by Fuji Kōgaku from 1937.",
+  "description": "Fuji Kōgaku于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lyra Six"
+    "Camera-wiki": "Lyra Six",
+    "英文简介": "The Lyra Six (ライラシックス) is a Japanese 6×6 folder made by Fuji Kōgaku from 1937."
   },
   "images": [],
   "sources": [

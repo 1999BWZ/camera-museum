@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King取景器相机，1949 年发布",
-  "description": "{|align=right\n|__TOC__\n|}\nThe Regula I series of models (includes I, I-A to I-P etc.) was a series of 35mm cameras made by King KG between 1949 and 1953, the first camera King ever made was the Regula I.",
+  "description": "King于1949年推出的取景器相机。配备Steinheil Munchen Cassar 50mm f/2.8 to f/16。快门速度Prontor-S, Prontor-SV, Compur-Rapid and a Synchro-Compur。使用Knob for the advance。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula I Models"
+    "Camera-wiki": "Regula I Models",
+    "镜头": "Steinheil Munchen Cassar 50mm f/2.8 to f/16",
+    "快门": "Prontor-S, Prontor-SV, Compur-Rapid and a Synchro-Compur",
+    "胶片/画幅": "Knob for the advance",
+    "自拍": "Yes, around 8 seconds.",
+    "闪光灯": "PC socket on top of the lens, flash synchronization at all speeds",
+    "英文简介": "{|align=right\n|__TOC__\n|}\nThe Regula I series of models (includes I, I-A to I-P etc.) was a series of 35mm cameras made by King KG between 1949 and 1953, the first camera King ever made was the Regula I."
   },
   "images": [],
   "sources": [

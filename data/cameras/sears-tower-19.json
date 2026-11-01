@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears旁轴相机，1960 年发布",
-  "description": "The Tower 19 is a 35mm rangefinder camera with an interchangeable lens system.",
+  "description": "Sears于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tower 19"
+    "Camera-wiki": "Tower 19",
+    "英文简介": "The Tower 19 is a 35mm rangefinder camera with an interchangeable lens system."
   },
   "images": [],
   "sources": [

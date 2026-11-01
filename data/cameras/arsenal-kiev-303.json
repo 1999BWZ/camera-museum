@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arsenal胶片相机，1990 年发布",
-  "description": "The Kiev 303 is a continuation of the series of Minolta-16 type cameras made by Arsenal.",
+  "description": "Arsenal于1990年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kiev 303"
+    "Camera-wiki": "Kiev 303",
+    "英文简介": "The Kiev 303 is a continuation of the series of Minolta-16 type cameras made by Arsenal."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign折叠相机，1948 年发布",
-  "description": "{|class=floatright\n|\n\n|\n\n|}\nEnsign Ranger is the name of a series of 120 film vertical folding cameras made by Houghtons in England, under their Ensign brand.",
+  "description": "Ensign于1948年推出的折叠相机。配备** 105 mm f/6.3 Ensar Anastigmat, or f/3.8 Ross Xpres (Ranger II only)。快门速度** Ensign Trikon; 1/25 - 1/100 plus B & T (Ranger and Ranger II)。使用** Ranger and Ranger II: eight exposures 2¼×3¼ inch (6×9 cm) on 120 film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ensign Ranger"
+    "Camera-wiki": "Ensign Ranger",
+    "胶片/画幅": "** Ranger and Ranger II: eight exposures 2¼×3¼ inch (6×9 cm) on 120 film",
+    "快门": "** Ensign Trikon; 1/25 - 1/100 plus B & T (Ranger and Ranger II)",
+    "镜头": "** 105 mm f/6.3 Ensar Anastigmat, or f/3.8 Ross Xpres (Ranger II only)",
+    "英文简介": "{|class=floatright\n|\n\n|\n\n|}\nEnsign Ranger is the name of a series of 120 film vertical folding cameras made by Houghtons in England, under their Ensign brand."
   },
   "images": [],
   "sources": [

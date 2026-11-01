@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码相机，2011 年发布",
-  "description": "The Vivitar ViviCam V69379M (aka Vivitar Freelance 3 in 1) is a multi-purpose digital camera marketed by Sakar International, Inc.",
+  "description": "Vivitar于2011年推出的数码相机。有效像素0.3 Megapixel。fixed focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar ViviCam V69379M"
+    "Camera-wiki": "Vivitar ViviCam V69379M",
+    "像素": "0.3 Megapixel",
+    "尺寸": "640 x 480 pixels (VGA)",
+    "闪光灯": "None",
+    "对焦": "fixed focus",
+    "电池": "2 x AAA",
+    "重量": "295 g (10.4 oz)",
+    "英文简介": "The Vivitar ViviCam V69379M (aka Vivitar Freelance 3 in 1) is a multi-purpose digital camera marketed by Sakar International, Inc."
   },
   "images": [],
   "sources": [

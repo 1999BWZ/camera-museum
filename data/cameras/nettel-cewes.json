@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nettel折叠相机，1902 年发布",
-  "description": "The Cewes is a strut-folding camera for both plates and roll film, first made in about 1902-3 by Körner und Mayer, the company which became Nettel Kamerawerk.",
+  "description": "Nettel于1902年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cewes"
+    "Camera-wiki": "Cewes",
+    "英文简介": "The Cewes is a strut-folding camera for both plates and roll film, first made in about 1902-3 by Körner und Mayer, the company which became Nettel Kamerawerk."
   },
   "images": [],
   "sources": [

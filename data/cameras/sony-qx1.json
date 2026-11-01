@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2014 年发布",
-  "description": "The Sony Alpha QX1 (badged Sony SmartShot QX1 in Germany) is a new type of system camera body for E-mount lenses of the Sony α system.",
+  "description": "索尼于2014年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony QX1"
+    "Camera-wiki": "Sony QX1",
+    "英文简介": "The Sony Alpha QX1 (badged Sony SmartShot QX1 in Germany) is a new type of system camera body for E-mount lenses of the Sony α system."
   },
   "images": [],
   "sources": [

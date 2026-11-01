@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片相机，1986 年发布",
-  "description": "The Vivitar Point 'N Shoot 110 is a plastic camera taking 17mm x 13mm images on 110 film, marketed from about 1986 by Vivitar.",
+  "description": "Vivitar于1986年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar Point 'N Shoot 110"
+    "Camera-wiki": "Vivitar Point 'N Shoot 110",
+    "英文简介": "The Vivitar Point 'N Shoot 110 is a plastic camera taking 17mm x 13mm images on 110 film, marketed from about 1986 by Vivitar."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1992 年发布",
-  "description": "The Ricoh RZ-900 is a 35mm compact auto focus camera with a built in electronic flash.",
+  "description": "理光于1992年推出的胶片单反相机。配备38-90 mm / f4.5-f7.2,7 elements 7 groups.。快门速度1-1/400Sec.。使用Field of view frame, parallax correction marks, single AF mark, super macro parallax correction marks.。感光度ISO 64-3200. Compatible with the DX system. (Non-DX films are set to ISO 100.)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RZ-900"
+    "Camera-wiki": "Ricoh RZ-900",
+    "镜头": "38-90 mm / f4.5-f7.2,7 elements 7 groups.",
+    "自拍": "Built-in electronic type with LED indicator. Operating delay of approx. 10 sec.",
+    "取景器": "Albada type bright-frame zoom viewfinder, magnification: 0.64x (at telephoto) 0.35x (at wide-angle), Field of view: 90% (at telephoto), 77% (at wide-angle)",
+    "胶片/画幅": "Field of view frame, parallax correction marks, single AF mark, super macro parallax correction marks.",
+    "曝光测光": "Dual SPD photocell. Programmed automatic exposure adjustment with Automatic Backlight Control system.",
+    "快门速度": "1-1/400Sec.",
+    "感光度": "ISO 64-3200. Compatible with the DX system. (Non-DX films are set to ISO 100.)",
+    "闪光灯": "Electronic flash automatically activates in dim light and backlight. (up to approximately 10ft.)",
+    "尺寸": "142 mm (w) x 73.5 mm (h) x 57 mm (d)",
+    "重量": "355 9 (without battery)",
+    "英文简介": "The Ricoh RZ-900 is a 35mm compact auto focus camera with a built in electronic flash."
   },
   "images": [],
   "sources": [

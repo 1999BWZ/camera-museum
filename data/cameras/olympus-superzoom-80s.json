@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，2005 年发布",
-  "description": "The Olympus Superzoom 80S is a 35mm Autofocus compact that was a later model in the Superzoom series.",
+  "description": "奥林巴斯于2005年推出的胶片相机。配备38-80mm Olympus lens 4 elements in 4 groups。快门速度2sec-1/125。Active Auto-Focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Superzoom 80S"
+    "Camera-wiki": "Olympus Superzoom 80S",
+    "镜头": "38-80mm Olympus lens 4 elements in 4 groups",
+    "对焦": "Active Auto-Focus",
+    "快门": "2sec-1/125",
+    "曝光测光": "Automatic program",
+    "闪光灯": "Wide: 1.2 m - 5.0 m & Tele: 1.1 m - 2.6 m",
+    "电池": "2xAA",
+    "英文简介": "The Olympus Superzoom 80S is a 35mm Autofocus compact that was a later model in the Superzoom series."
   },
   "images": [],
   "sources": [

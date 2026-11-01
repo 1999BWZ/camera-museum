@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wards胶片单反相机，1964 年发布",
-  "description": "The Wards SLR 500 and SLR 600 cameras were fully mechanical SLRs sold by the Montgomery Ward department store chain.",
+  "description": "Wards于1964年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wards SLR 500 & 600"
+    "Camera-wiki": "Wards SLR 500 & 600",
+    "英文简介": "The Wards SLR 500 and SLR 600 cameras were fully mechanical SLRs sold by the Montgomery Ward department store chain."
   },
   "images": [],
   "sources": [

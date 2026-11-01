@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer旁轴相机，1950 年发布",
-  "description": "See also the earlier Prominent (6×9cm folder).",
+  "description": "Voigtländer于1950年推出的旁轴相机。配备**Standard: 50 mm f/2 Ultron, 50 mm f/3.5 Skopar, or 50 mm f/1.5 Nokton。快门速度Synchro-Compur or Compur-Rapid。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Prominent (35mm)"
+    "Camera-wiki": "Prominent (35mm)",
+    "胶片/画幅": "35mm",
+    "快门": "Synchro-Compur or Compur-Rapid",
+    "镜头": "**Standard: 50 mm f/2 Ultron, 50 mm f/3.5 Skopar, or 50 mm f/1.5 Nokton",
+    "英文简介": "See also the earlier Prominent (6×9cm folder)."
   },
   "images": [],
   "sources": [

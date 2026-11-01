@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1918 年发布",
-  "description": "==Overview==\nThe Ernemann Heag XVI was produced from 1909 to c.1918.",
+  "description": "Ernemann于1918年推出的折叠相机。快门速度**Automat。使用9x12cm on roll-film and plate。by rack & pinion。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Heag XVI"
+    "Camera-wiki": "Ernemann Heag XVI",
+    "胶片/画幅": "9x12cm on roll-film and plate",
+    "快门": "**Automat",
+    "取景器": "Reflex finder",
+    "对焦": "by rack & pinion",
+    "重量": "**with interchangeable magazine: 27 cm extended; 4x11.5x23 cm; 1.150 kg",
+    "英文简介": "==Overview==\nThe Ernemann Heag XVI was produced from 1909 to c.1918."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aires胶片单反相机，1960 年发布",
-  "description": "{| class=\"floatright\"\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Aires Penta 35 is an SLR produced by Aires and introduced c.1960.",
+  "description": "Aires于1960年推出的胶片单反相机。配备Fixed Aires Q Coral 1:2.8/50 mm。快门速度Seikosha-SLV leafshutter. Speeds B, 1, 4, 8, 15, 30, 60, 125, 250, and 500.。使用10, 25, 32, 50, 80, 100, 200 and 400 ASA。Microprism(Center only)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Aires Penta 35"
+    "Camera-wiki": "Aires Penta 35",
+    "镜头": "Fixed Aires Q Coral 1:2.8/50 mm",
+    "快门": "Seikosha-SLV leafshutter. Speeds B, 1, 4, 8, 15, 30, 60, 125, 250, and 500.",
+    "对焦": "Microprism(Center only)",
+    "胶片/画幅": "10, 25, 32, 50, 80, 100, 200 and 400 ASA",
+    "英文简介": "{| class=\"floatright\"\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Aires Penta 35 is an SLR produced by Aires and introduced c.1960."
   },
   "images": [],
   "sources": [

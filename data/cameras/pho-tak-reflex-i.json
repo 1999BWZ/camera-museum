@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pho-Tak胶片相机，1953 年发布",
-  "description": "A circa-1953 pseudo TLR from Chicago's Pho-Tak Corporation, for 620 film.",
+  "description": "Pho-Tak于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pho-Tak Reflex I"
+    "Camera-wiki": "Pho-Tak Reflex I",
+    "英文简介": "A circa-1953 pseudo TLR from Chicago's Pho-Tak Corporation, for 620 film."
   },
   "images": [],
   "sources": [

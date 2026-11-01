@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1922 年发布",
-  "description": "The Pocket Kodak No.",
+  "description": "柯达于1922年推出的折叠相机。配备Kodak Anastigmat 108mm f/7.7。快门速度Bulb, Time, 1/10, 1/50, 1/100 and 1/200th。使用120 Autographic Roll Film, can use standard 120 film as well。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pocket Kodak No. 1 series II"
+    "Camera-wiki": "Pocket Kodak No. 1 series II",
+    "胶片/画幅": "120 Autographic Roll Film, can use standard 120 film as well",
+    "镜头": "Kodak Anastigmat 108mm f/7.7",
+    "快门": "Diomatic No. 0 - Manually cocked",
+    "快门速度": "Bulb, Time, 1/10, 1/50, 1/100 and 1/200th",
+    "取景器": "Waist level finder"
   },
   "images": [],
   "sources": [

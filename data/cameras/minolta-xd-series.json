@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1977 年发布",
-  "description": "=== Multifunction automation ===\nIn 1977, Minolta was the first manufacturer to combine both TTL aperture-priority and shutter-priority automation in one SLR camera body, this was the Minolta XD-7 / XD-11.",
+  "description": "美能达于1977年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta XD series"
+    "Camera-wiki": "Minolta XD series",
+    "英文简介": "=== Multifunction automation ===\nIn 1977, Minolta was the first manufacturer to combine both TTL aperture-priority and shutter-priority automation in one SLR camera body, this was the Minolta XD-7 / XD-11."
   },
   "images": [],
   "sources": [

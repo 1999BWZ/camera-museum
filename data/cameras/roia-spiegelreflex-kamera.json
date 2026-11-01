@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Roia胶片单反相机，1900 年发布",
-  "description": "Emil Busch's Roia Spiegelreflex-Kamera is a single lens reflex camera for film sheets or plates.",
+  "description": "Roia于1900年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Roia Spiegelreflex-Kamera"
+    "Camera-wiki": "Roia Spiegelreflex-Kamera",
+    "英文简介": "Emil Busch's Roia Spiegelreflex-Kamera is a single lens reflex camera for film sheets or plates."
   },
   "images": [],
   "sources": [

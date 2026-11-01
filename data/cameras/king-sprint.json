@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King取景器相机，1962 年发布",
-  "description": "The Regula Sprint models were 35mm viewfinder cameras made at Bad Liebenzell in the Black Forest by King KG, c.1962 Page 815..",
+  "description": "King于1962年推出的取景器相机。快门速度Rectamat, programmed speeds。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula Sprint"
+    "Camera-wiki": "Regula Sprint",
+    "闪光灯": "X & M via PC sockets",
+    "快门": "Rectamat, programmed speeds",
+    "英文简介": "The Regula Sprint models were 35mm viewfinder cameras made at Bad Liebenzell in the Black Forest by King KG, c.1962 Page 815.."
   },
   "images": [],
   "sources": [

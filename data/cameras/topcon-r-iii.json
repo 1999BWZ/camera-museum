@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon数码单反相机，1960 年发布",
-  "description": "A small revision to the Topcon RII, here Tōkyō Kōgaku has combined all shutter speeds onto a single dial with even spacing; and a clip in front of this permits adding a selenium meter coupled to this dial.",
+  "description": "Topcon于1960年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon R III"
+    "Camera-wiki": "Topcon R III",
+    "英文简介": "A small revision to the Topcon RII, here Tōkyō Kōgaku has combined all shutter speeds onto a single dial with even spacing; and a clip in front of this permits adding a selenium meter coupled to this dial."
   },
   "images": [],
   "sources": [

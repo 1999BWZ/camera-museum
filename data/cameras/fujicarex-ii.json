@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fujicarex胶片单反相机，1963 年发布",
-  "description": "The Fujica Fujicarex II was introduced to Europe in about 1963.",
+  "description": "Fujicarex于1963年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujicarex II"
+    "Camera-wiki": "Fujicarex II",
+    "英文简介": "The Fujica Fujicarex II was introduced to Europe in about 1963."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo双镜头反光相机，1950 年发布",
-  "description": "The Muse Flex is a series of twin-lens reflex (and perhaps some pseudo TLR) cameras for Bolta 35 mm paper-backed roll film, made by Tougodo from the late 1940s to some time in the 50s.",
+  "description": "Tougodo于1950年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Muse Flex"
+    "Camera-wiki": "Muse Flex",
+    "英文简介": "The Muse Flex is a series of twin-lens reflex (and perhaps some pseudo TLR) cameras for Bolta 35 mm paper-backed roll film, made by Tougodo from the late 1940s to some time in the 50s."
   },
   "images": [],
   "sources": [

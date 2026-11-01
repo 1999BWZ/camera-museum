@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Super旁轴相机，1936 年发布",
-  "description": "The 531 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon.",
+  "description": "Super于1936年推出的旁轴相机。快门速度Novar 3.5/7.5 cm lens in a Compur shutter Tessar 3.5/7.0 cm lens in a Compur-Rapid shutterTessar 3.5/7.5 cm lens in a Compur-Rapid shutter。使用4.5 x 6 cm on 120 type rollfilm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Super Ikonta 531"
+    "Camera-wiki": "Super Ikonta 531",
+    "胶片/画幅": "4.5 x 6 cm on 120 type rollfilm",
+    "快门": "Novar 3.5/7.5 cm lens in a Compur shutter Tessar 3.5/7.0 cm lens in a Compur-Rapid shutterTessar 3.5/7.5 cm lens in a Compur-Rapid shutter",
+    "闪光灯": "Socket on shutter, X-synchronisation. Synchro-Compur also M-synchronisation",
+    "曝光测光": "Yes",
+    "取景器": "Foldable, Tessar equipped cameras also of Albada type",
+    "尺寸": "114x79x42 mm (folded)",
+    "重量": "590 grams",
+    "英文简介": "The 531 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "勃朗尼卡数码单反相机，1980 年发布",
-  "description": "The Bronica SQ series is a line of 6x6 medium format SLR camera system introduced in 1980.",
+  "description": "勃朗尼卡于1980年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bronica SQ"
+    "Camera-wiki": "Bronica SQ",
+    "英文简介": "The Bronica SQ series is a line of 6x6 medium format SLR camera system introduced in 1980."
   },
   "images": [],
   "sources": [

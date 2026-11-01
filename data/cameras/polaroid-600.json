@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1997 年发布",
-  "description": "This particular Polaroid 600 camera was a revision of the earlier models that used integral 600 film.",
+  "description": "宝丽来于1997年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid 600 (round top)"
+    "Camera-wiki": "Polaroid 600 (round top)",
+    "英文简介": "This particular Polaroid 600 camera was a revision of the earlier models that used integral 600 film."
   },
   "images": [],
   "sources": [

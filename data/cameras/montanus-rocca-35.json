@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Montanus取景器相机，1958 年发布",
-  "description": "The Rocca 35 is a 35mm compact camera, built by Montanus Kamerafabrik in Solingen, West Germany.",
+  "description": "Montanus于1958年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rocca 35"
+    "Camera-wiki": "Rocca 35",
+    "英文简介": "The Rocca 35 is a 35mm compact camera, built by Montanus Kamerafabrik in Solingen, West Germany."
   },
   "images": [],
   "sources": [

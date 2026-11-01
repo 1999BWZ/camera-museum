@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon取景器相机，1958 年发布",
-  "description": "There is an earlier model using the Ikonette name, using 127 roll film.",
+  "description": "Zeiss Ikon于1958年推出的取景器相机。配备Novar-Anastigmat, 45mm f/3.5。快门速度Pronto (type 00367b), speeds to 1/25 to 1/200 +B, with self-timer[http://elekm.net/downloads/Ikonette%20manual.pdf Ikonette user manual]。使用35mm 24×36mm frames。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ikonette 35"
+    "Camera-wiki": "Ikonette 35",
+    "胶片/画幅": "35mm 24×36mm frames",
+    "镜头": "Novar-Anastigmat, 45mm f/3.5",
+    "尺寸": "27mm thread and 28.5mm slip-on.",
+    "快门": "Pronto (type 00367b), speeds to 1/25 to 1/200 +B, with self-timer[http://elekm.net/downloads/Ikonette%20manual.pdf Ikonette user manual]",
+    "英文简介": "There is an earlier model using the Ikonette name, using 127 roll film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康便携相机，1989 年发布",
-  "description": "__NOTOC__\n\nThe Praktica Report is a 35mm compact camera issued in 1989[https://fotocccp.ru/praktica-report PHOTOCCP].",
+  "description": "潘泰康于1989年推出的便携相机。配备35mm f/3.5 fixed focus lens (2-zone focusing)[https://retrocamerashop.com/products/praktica-report Retro Camera Shop], focusing from 1.5m.。使用35mm DX-coded film[https://wonderfoto.ru/katalog/fotoapparaty/praktica-report/ Wonderfoto], ISO 100-400.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica Report"
+    "Camera-wiki": "Praktica Report",
+    "镜头": "35mm f/3.5 fixed focus lens (2-zone focusing)[https://retrocamerashop.com/products/praktica-report Retro Camera Shop], focusing from 1.5m.",
+    "胶片/画幅": "35mm DX-coded film[https://wonderfoto.ru/katalog/fotoapparaty/praktica-report/ Wonderfoto], ISO 100-400.",
+    "闪光灯": "red-eye reduction.",
+    "尺寸": "121x68x38mm.",
+    "重量": "205g (without batteries and film)[https://festima.ru/docs/358858354/moscow/praktica-report Festima RU], 250g (with batteries and film loaded).",
+    "英文简介": "__NOTOC__\n\nThe Praktica Report is a 35mm compact camera issued in 1989[https://fotocccp.ru/praktica-report PHOTOCCP]."
   },
   "images": [],
   "sources": [

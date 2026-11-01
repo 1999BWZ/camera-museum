@@ -1,0 +1,40 @@
+{
+  "id": "unknown-hp-photosmart-r927",
+  "brand": "惠利特-普克德",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "惠利特-普克德",
+  "model": "HP PhotoSmart R927",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "惠利特-普克德数码相机，2006 年发布",
+  "description": "惠利特-普克德于2006年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11682306",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HP-R927%201.JPG?width=800",
+      "caption": "HP PhotoSmart R927",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q11682306"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – HP PhotoSmart R927",
+      "url": "https://www.wikidata.org/wiki/Q11682306"
+    }
+  ],
+  "qid": "Q11682306",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

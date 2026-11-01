@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Finland胶片相机，1921 年发布",
-  "description": "Sarvis (1921-1990's) was a pioneering Finnish plastics factory.",
+  "description": "Finland于1921年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sarvis"
+    "Camera-wiki": "Sarvis",
+    "英文简介": "Sarvis (1921-1990's) was a pioneering Finnish plastics factory."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cambo旁轴相机，1979 年发布",
-  "description": "The Cambo XL is a medium format press camera made by the Dutch company Cambo and is in fact a continuation of the Graflex XL.",
+  "description": "Cambo于1979年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cambo XL"
+    "Camera-wiki": "Cambo XL",
+    "英文简介": "The Cambo XL is a medium format press camera made by the Dutch company Cambo and is in fact a continuation of the Graflex XL."
   },
   "images": [],
   "sources": [

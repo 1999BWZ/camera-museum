@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Mentor双镜头反光相机，1936 年发布",
-  "description": "The 1936 Mentorett is a twin-lens reflex made by Goltz & Breutmann/Mentor in Dresden.",
+  "description": "Mentor于1936年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mentorett"
+    "Camera-wiki": "Mentorett",
+    "英文简介": "The 1936 Mentorett is a twin-lens reflex made by Goltz & Breutmann/Mentor in Dresden."
   },
   "images": [],
   "sources": [

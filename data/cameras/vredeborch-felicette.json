@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vredeborch取景器相机，1959 年发布",
-  "description": "The Felinette was a 35mm viewfinder camera made in Germany by Vredeborch, introduced in 1959.",
+  "description": "Vredeborch于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Felicette"
+    "Camera-wiki": "Felicette",
+    "英文简介": "The Felinette was a 35mm viewfinder camera made in Germany by Vredeborch, introduced in 1959."
   },
   "images": [],
   "sources": [

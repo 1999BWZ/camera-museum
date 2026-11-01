@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus取景器相机，1950 年发布",
-  "description": "The Argus FA was the last of the bakelite \"A\" series cameras by Argus, produced from 1950 to 1951.",
+  "description": "Argus于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus FA"
+    "Camera-wiki": "Argus FA",
+    "英文简介": "The Argus FA was the last of the bakelite \"A\" series cameras by Argus, produced from 1950 to 1951."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ferrania取景器相机，1959 年发布",
-  "description": "The Ibis 34 is cast aluminium viewfinder camera taking 3x4cm pictures on 127 film, made in Italy by Ferrania, c.1959.",
+  "description": "Ferrania于1959年推出的取景器相机。配备Acromatico Ferrania 58mm f/7.7。快门速度1/50th, 1/100th and Bulb。使用127 film - 3x4cm image size。5 feet to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ferrania Ibis 34"
+    "Camera-wiki": "Ferrania Ibis 34",
+    "胶片/画幅": "127 film - 3x4cm image size",
+    "镜头": "Acromatico Ferrania 58mm f/7.7",
+    "快门速度": "1/50th, 1/100th and Bulb",
+    "光圈": "f/7.7 and f/12",
+    "对焦": "5 feet to infinity",
+    "闪光灯": "Yes, via a PC socket with an accessory shoe mounted flash",
+    "英文简介": "The Ibis 34 is cast aluminium viewfinder camera taking 3x4cm pictures on 127 film, made in Italy by Ferrania, c.1959."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2008 年发布",
-  "description": "佳能于2008年发布的数码单反相机。",
+  "description": "佳能于2008年推出的数码单反相机。配备Interchangeable。快门速度Mechanical focal-plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q63333",
-    "多语言词条数": "25"
+    "多语言词条数": "25",
+    "传感器": "CMOS APS-C 22.2 mm × 14.8 mm (1.6× conversion factor)",
+    "镜头": "Interchangeable",
+    "快门速度": "Mechanical focal-plane",
+    "曝光测光": "Full aperture TTL, 35-zone SPC",
+    "取景器": "Fixed eye-level pentamirror",
+    "闪光灯": "E-TTL II automatic built-in pop-up, 13m ISO 100 guide number, 27mm (equivalent in 35 format) lens focal length coverage; compatible with Canon EX Series Speedlite external hotshoe-mount flashes",
+    "屏幕": "color TFT LCD, 230,000 pixels",
+    "存储": "Secure Digital CardSecure Digital High Capacity",
+    "电池": "LP-E5 Battery Pack",
+    "重量": "(body only)"
   },
   "images": [
     {

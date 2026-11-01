@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Phenix数码单反相机，2002 年发布",
-  "description": "The Phenix DC303N is an SLR body with fast focal plane shutter (speed upto 1/2000 sec., flash sync.",
+  "description": "Phenix于2002年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Phenix DC303N"
+    "Camera-wiki": "Phenix DC303N",
+    "英文简介": "The Phenix DC303N is an SLR body with fast focal plane shutter (speed upto 1/2000 sec., flash sync."
   },
   "images": [],
   "sources": [

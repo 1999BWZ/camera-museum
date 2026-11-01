@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1993 年发布",
-  "description": "The Kodak Cameo is a camera for 35mm film.",
+  "description": "柯达于1993年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Cameo"
+    "Camera-wiki": "Kodak Cameo",
+    "英文简介": "The Kodak Cameo is a camera for 35mm film."
   },
   "images": [],
   "sources": [

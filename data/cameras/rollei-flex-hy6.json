@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来数码相机，2007 年发布",
-  "description": "The Rolleiflex Hy6 is a robust compact medium format camera developed for digital camera backs of Sinar.",
+  "description": "禄来于2007年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex Hy6"
+    "Camera-wiki": "Rolleiflex Hy6",
+    "英文简介": "The Rolleiflex Hy6 is a robust compact medium format camera developed for digital camera backs of Sinar."
   },
   "images": [],
   "sources": [

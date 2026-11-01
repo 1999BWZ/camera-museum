@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary玩具相机，1971 年发布",
-  "description": "The Mick-A-Matic is a 126 cartridge camera manufactured by \"Child Guidance Products, Inc.\" in the Bronx, NY, USA.",
+  "description": "Bestiary于1971年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mick-A-Matic"
+    "Camera-wiki": "Mick-A-Matic",
+    "英文简介": "The Mick-A-Matic is a 126 cartridge camera manufactured by \"Child Guidance Products, Inc.\" in the Bronx, NY, USA."
   },
   "images": [],
   "sources": [

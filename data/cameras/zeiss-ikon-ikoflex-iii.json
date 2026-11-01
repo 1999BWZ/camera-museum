@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon胶片相机，1939 年发布",
-  "description": "__NOTOC__ \n\nThe Ikoflex III (853/16) is a 6x6 120 film TLR camera that was made by Zeiss Ikon from February 1939 till January 1940.",
+  "description": "Zeiss Ikon于1939年推出的胶片相机。配备Teronar-Anastigmat f/2.8。快门速度853/16 Pcsr : Tessar 2.8/8 cm lens, in a Compur-Rapid shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ikoflex III"
+    "Camera-wiki": "Ikoflex III",
+    "快门": "853/16 Pcsr : Tessar 2.8/8 cm lens, in a Compur-Rapid shutter",
+    "镜头": "Teronar-Anastigmat f/2.8",
+    "英文简介": "__NOTOC__ \n\nThe Ikoflex III (853/16) is a 6x6 120 film TLR camera that was made by Zeiss Ikon from February 1939 till January 1940."
   },
   "images": [],
   "sources": [

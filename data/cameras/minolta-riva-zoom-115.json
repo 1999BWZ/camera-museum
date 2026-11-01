@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，2002 年发布",
-  "description": "The Riva Zoom 115 is an autofocus zoom compact 35mm film camera from Minolta in c.2002[https://web.archive.org/web/20040228223848/http://www.darwincamera.com.au/catalogue/media/P7_highcompacts.pdf Darwin Camera Australia 2002 catalog page 7 (pdf) (archived)].",
+  "description": "美能达于2002年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva Zoom 115"
+    "Camera-wiki": "Minolta Riva Zoom 115",
+    "尺寸": "112 x 60 x 39mm",
+    "英文简介": "The Riva Zoom 115 is an autofocus zoom compact 35mm film camera from Minolta in c.2002[https://web.archive.org/web/20040228223848/http://www.darwincamera.com.au/catalogue/media/P7_highcompacts.pdf Darwin Camera Australia 2002 catalog page 7 (pdf) (archived)]."
   },
   "images": [],
   "sources": [

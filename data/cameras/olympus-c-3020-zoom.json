@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2002 年发布",
-  "description": "The Olympus C-3020 Zoom is a digital camera introduced 2002.",
+  "description": "奥林巴斯于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-3020 Zoom"
+    "Camera-wiki": "Olympus C-3020 Zoom",
+    "英文简介": "The Olympus C-3020 Zoom is a digital camera introduced 2002."
   },
   "images": [],
   "sources": [

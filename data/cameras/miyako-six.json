@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miyako折叠相机，1942 年发布",
-  "description": "The Miyako Six (ミヤコシックス) is a Japanese 6&times;6 folding camera.",
+  "description": "Miyako于1942年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miyako Six"
+    "Camera-wiki": "Miyako Six",
+    "英文简介": "The Miyako Six (ミヤコシックス) is a Japanese 6&times;6 folding camera."
   },
   "images": [],
   "sources": [

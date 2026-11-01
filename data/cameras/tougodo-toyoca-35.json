@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo胶片单反相机，1955 年发布",
-  "description": "The Toyoca 35 \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera.",
+  "description": "Tougodo于1955年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Toyoca 35 (TLR)"
+    "Camera-wiki": "Toyoca 35 (TLR)",
+    "英文简介": "The Toyoca 35 \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera."
   },
   "images": [],
   "sources": [

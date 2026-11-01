@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1978 年发布",
-  "description": "The Kodak Tele-Ektra 42 is a camera for the 110 film format.",
+  "description": "柯达于1978年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Tele-Ektra 42"
+    "Camera-wiki": "Kodak Tele-Ektra 42",
+    "英文简介": "The Kodak Tele-Ektra 42 is a camera for the 110 film format."
   },
   "images": [],
   "sources": [

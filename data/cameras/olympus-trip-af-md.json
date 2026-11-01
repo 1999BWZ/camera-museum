@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1986 年发布",
-  "description": "The Trip AF MD of 1986 is a fully-automatic 35mm compact camera, with motor drive and auto-focus manufactured by Olympus.",
+  "description": "奥林巴斯于1986年推出的便携相机。配备Zuiko 35mm, f/3.8。快门速度Fixed at 1/125s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip AF MD"
+    "Camera-wiki": "Olympus Trip AF MD",
+    "镜头": "Zuiko 35mm, f/3.8",
+    "快门速度": "Fixed at 1/125s.",
+    "英文简介": "The Trip AF MD of 1986 is a fully-automatic 35mm compact camera, with motor drive and auto-focus manufactured by Olympus."
   },
   "images": [],
   "sources": [

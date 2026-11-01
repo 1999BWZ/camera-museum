@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann立体相机，1904 年发布",
-  "description": "The Dove is a stereo box camera for 9x18 cm plates,The camera may also have been made for 8.5x17 cm plates at some time; Stuttgart book dealers [http://www.lindemanns.de/ Lindemanns] previously advertised the instruction book for the camera in this size.",
+  "description": "Ernemann于1904年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dove"
+    "Camera-wiki": "Dove",
+    "英文简介": "The Dove is a stereo box camera for 9x18 cm plates,The camera may also have been made for 8.5x17 cm plates at some time; Stuttgart book dealers [http://www.lindemanns.de/ Lindemanns] previously advertised the instruction book for the camera in this size."
   },
   "images": [],
   "sources": [

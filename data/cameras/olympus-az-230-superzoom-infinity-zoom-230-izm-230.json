@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片单反相机，1992 年发布",
-  "description": "The AZ-230 Superzoom is a compact automatic 35mm camera made by Olympus in 1992.",
+  "description": "奥林巴斯于1992年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AZ-230 Superzoom/Infinity Zoom 230/IZM 230"
+    "Camera-wiki": "Olympus AZ-230 Superzoom/Infinity Zoom 230/IZM 230",
+    "英文简介": "The AZ-230 Superzoom is a compact automatic 35mm camera made by Olympus in 1992."
   },
   "images": [],
   "sources": [

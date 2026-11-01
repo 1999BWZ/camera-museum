@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2010 年发布",
-  "description": "The NEX-5 was Sony's first mirrorless camera body, introduced together with the NEX-3.",
+  "description": "索尼于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Alpha NEX-5"
+    "Camera-wiki": "Sony Alpha NEX-5",
+    "尺寸": "118x59x38 mm",
+    "重量": "290gr.",
+    "英文简介": "The NEX-5 was Sony's first mirrorless camera body, introduced together with the NEX-3."
   },
   "images": [],
   "sources": [

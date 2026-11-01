@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼无反相机，2010 年发布",
-  "description": "索尼于2010年发布的无反相机。",
+  "description": "索尼于2010年推出的无反相机。配备Sony E-mount。快门速度| shutterRange = 1/4000 - 30 sec, BULB。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q115857",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "23.4 × 15.6 mm Exmor APS-C HD CMOS Sensor",
+    "镜头": "Sony E-mount",
+    "快门速度": "| shutterRange = 1/4000 - 30 sec, BULB",
+    "曝光测光": "Multi-segment, Center-weighted, Spot",
+    "取景器": "Optional external optical viewfinder",
+    "闪光灯": "External flash (bundled)",
+    "屏幕": "XtraFine TruBlack LCD, 920,000 pixels",
+    "存储": "Memory Stick Pro Duo, Pro-HG Duo, SD, SDHC, SDXC",
+    "电池": "NP-FW50, InfoLITHIUM, 7.2 V, 1080 mAh, 7.7 Wh, Lithium-Ion rechargeable battery",
+    "尺寸": "111 mm × 59 mm × 38 mm",
+    "重量": "Approx. (camera body, card and battery)"
   },
   "images": [
     {

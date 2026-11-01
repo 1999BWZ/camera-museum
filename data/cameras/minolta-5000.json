@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1986 年发布",
-  "description": "The Minolta 5000 (called Maxxum 5000 in the USA and &alpha; -5000 in Japan) was launched in early 1986 as the \"entry-level\" camera for the innovative autofocus lens mount (&Alpha;-Mount) of Minolta.",
+  "description": "美能达于1986年推出的胶片单反相机。快门速度Focal plane shutter with speeds from 4 to 1/2000 sec. B。使用35mm film with speeds of 25 to 6400 ISO, with auto DX。autofocus. Single point with 2 to 19 EV range.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta 5000"
+    "Camera-wiki": "Minolta 5000",
+    "卡口": "Minolta (α) A-bayonet",
+    "胶片/画幅": "35mm film with speeds of 25 to 6400 ISO, with auto DX",
+    "曝光测光": "Center-weighed silicon photo cell.",
+    "对焦": "autofocus. Single point with 2 to 19 EV range.",
+    "快门": "Focal plane shutter with speeds from 4 to 1/2000 sec. B",
+    "取景器": "0.85 magnification x 94% coverage, shutter and aperture LCD display.",
+    "闪光灯": "TTL flash possible with Minolta compatible units.",
+    "尺寸": "approx 138 × 92.5 × 52mm",
+    "重量": "550g (body only)",
+    "英文简介": "The Minolta 5000 (called Maxxum 5000 in the USA and &alpha; -5000 in Japan) was launched in early 1986 as the \"entry-level\" camera for the innovative autofocus lens mount (&Alpha;-Mount) of Minolta."
   },
   "images": [],
   "sources": [

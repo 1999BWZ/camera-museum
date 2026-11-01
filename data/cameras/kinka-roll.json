@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kinka折叠相机，1936 年发布",
-  "description": "The Kinka Roll (錦華ロール) is a Japanese 6×9cm folding camera, made by Yamamoto Shashinki Kōsakusho in 1936 and 1937.",
+  "description": "Kinka于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kinka Roll"
+    "Camera-wiki": "Kinka Roll",
+    "英文简介": "The Kinka Roll (錦華ロール) is a Japanese 6×9cm folding camera, made by Yamamoto Shashinki Kōsakusho in 1936 and 1937."
   },
   "images": [],
   "sources": [

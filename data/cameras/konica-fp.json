@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1962 年发布",
-  "description": "See also the Konica FP-1, an electronic program-mode SLR.",
+  "description": "柯尼卡于1962年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica FP"
+    "Camera-wiki": "Konica FP",
+    "英文简介": "See also the Konica FP-1, an electronic program-mode SLR."
   },
   "images": [],
   "sources": [

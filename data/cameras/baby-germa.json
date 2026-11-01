@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Baby取景器相机，1938 年发布",
-  "description": "The Baby Germa (ベビーゲルマー) This camera is called \"Baby Gelmer\" in , p.336, but the shutter face reads BABY GERMA.",
+  "description": "Baby于1938年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baby Germa"
+    "Camera-wiki": "Baby Germa",
+    "英文简介": "The Baby Germa (ベビーゲルマー) This camera is called \"Baby Gelmer\" in , p.336, but the shutter face reads BABY GERMA."
   },
   "images": [],
   "sources": [

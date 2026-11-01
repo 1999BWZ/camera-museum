@@ -1,0 +1,40 @@
+{
+  "id": "nikon-keymission-80",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "KeyMission 80",
+  "year": 2016,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2016 年发布",
+  "description": "尼康于2016年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q63439924",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2016%20Photokina%20-%20Nikon%20-%20by%202eight%20-%20DSC6691.jpg?width=800",
+      "caption": "KeyMission 80",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q63439924"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon KeyMission 80",
+      "url": "https://www.wikidata.org/wiki/Q63439924"
+    }
+  ],
+  "qid": "Q63439924",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

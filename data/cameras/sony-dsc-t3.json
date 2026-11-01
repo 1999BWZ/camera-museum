@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼便携数码相机，2004 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Cyber-shot DSC-T3 is a 5-megapixel compact digital camera introduced by Sony in 2004.",
+  "description": "索尼于2004年推出的便携数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-T3"
+    "Camera-wiki": "Sony DSC-T3",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Cyber-shot DSC-T3 is a 5-megapixel compact digital camera introduced by Sony in 2004."
   },
   "images": [],
   "sources": [

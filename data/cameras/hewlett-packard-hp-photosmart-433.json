@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2003 年发布",
-  "description": "The HP PhotoSmart 433 is a 2003 digital camera from Hewlett-Packard, with a 3x digital zoom and a 3.1 megapixel sensor.",
+  "description": "Hewlett-Packard于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart 433"
+    "Camera-wiki": "HP PhotoSmart 433",
+    "英文简介": "The HP PhotoSmart 433 is a 2003 digital camera from Hewlett-Packard, with a 3x digital zoom and a 3.1 megapixel sensor."
   },
   "images": [],
   "sources": [

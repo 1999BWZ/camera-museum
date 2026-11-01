@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发双镜头反光相机，1961 年发布",
-  "description": "The Optima Reflex (also sold in some countries as the Agfamatic Reflex) is a 35 mm TLR camera made by Agfa from 1961-66.",
+  "description": "爱克发于1961年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Optima Reflex"
+    "Camera-wiki": "Agfa Optima Reflex",
+    "英文简介": "The Optima Reflex (also sold in some countries as the Agfamatic Reflex) is a 35 mm TLR camera made by Agfa from 1961-66."
   },
   "images": [],
   "sources": [

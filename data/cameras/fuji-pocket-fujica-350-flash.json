@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1978 年发布",
-  "description": "The Pocket Fujica 350 Flash is a 110 film camera introduced by Fuji in 1978.",
+  "description": "Fuji于1978年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pocket Fujica 350 Flash"
+    "Camera-wiki": "Pocket Fujica 350 Flash",
+    "英文简介": "The Pocket Fujica 350 Flash is a 110 film camera introduced by Fuji in 1978."
   },
   "images": [],
   "sources": [

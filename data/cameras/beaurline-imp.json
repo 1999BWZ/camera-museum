@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beaurline盒式相机，1951 年发布",
-  "description": "Beaurline Industries was a company in St Paul, Minnesota, which made some cheap cameras.",
+  "description": "Beaurline于1951年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Beaurline Imp"
+    "Camera-wiki": "Beaurline Imp",
+    "英文简介": "Beaurline Industries was a company in St Paul, Minnesota, which made some cheap cameras."
   },
   "images": [],
   "sources": [

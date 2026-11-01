@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码相机，2002 年发布",
-  "description": "The Konica Revio KD-3300 is a digital compact camera.",
+  "description": "柯尼卡于2002年推出的数码相机。配备Konica 3× zoom lens f=5.6-16.8mm F2.8-4.9 with macro setting (15cm distance in wide angle mode)。autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Revio KD-3300"
+    "Camera-wiki": "Konica Revio KD-3300",
+    "镜头": "Konica 3× zoom lens f=5.6-16.8mm F2.8-4.9 with macro setting (15cm distance in wide angle mode)",
+    "曝光测光": "spot-photometer controlled programmed, speeds 1/4 to 1/2000 sec",
+    "对焦": "autofocus",
+    "取景器": "Optical reverse Galilean 3× zoom finder",
+    "闪光灯": "built-in, reaches as far as 3m only in wide angle mode",
+    "尺寸": "97×64×36mm",
+    "重量": "160 g without AA batteries",
+    "英文简介": "The Konica Revio KD-3300 is a digital compact camera."
   },
   "images": [],
   "sources": [

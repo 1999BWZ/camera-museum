@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1997 年发布",
-  "description": "__NOTOC__\n\nThe YF-20N is a fixed-focus point-and-shoot camera introduced by Japanese manufacturer Ricoh in 1997.",
+  "description": "理光于1997年推出的便携相机。配备Ricoh Lens 34mm f/4.5。快门速度mechanical, 1/125 sec. (fixed speed)。感光度ISO 100/400 (DX-code system)。fixed-focus with infinity focusing facility。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh YF-20N"
+    "Camera-wiki": "Ricoh YF-20N",
+    "镜头": "Ricoh Lens 34mm f/4.5",
+    "对焦": "fixed-focus with infinity focusing facility",
+    "快门": "mechanical, 1/125 sec. (fixed speed)",
+    "曝光测光": "fixed exposureA particular aperture is selected according to the film speed regardless of the light conditions.",
+    "取景器": "Albada-type viewfinder",
+    "感光度": "ISO 100/400 (DX-code system)",
+    "闪光灯": "activated automatically in dim light, no flash-off facility",
+    "尺寸": "122 mm X 70 mm X 45 mm",
+    "重量": "180 g (without batteries)",
+    "英文简介": "__NOTOC__\n\nThe YF-20N is a fixed-focus point-and-shoot camera introduced by Japanese manufacturer Ricoh in 1997."
   },
   "images": [],
   "sources": [

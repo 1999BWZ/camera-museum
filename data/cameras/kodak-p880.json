@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码单反相机，2005 年发布",
-  "description": "The Kodak Easyshare P880 was introduced in September 2005, it is the top camera in the new performance series which also includes the P850.",
+  "description": "柯达于2005年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak P880"
+    "Camera-wiki": "Kodak P880",
+    "英文简介": "The Kodak Easyshare P880 was introduced in September 2005, it is the top camera in the new performance series which also includes the P850."
   },
   "images": [
     {

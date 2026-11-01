@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda旁轴相机，1938 年发布",
-  "description": "The Super Pontura was the top of the range of medium format folders made by Balda in Dresden, Germany, before World War II.",
+  "description": "Balda于1938年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Super Pontura"
+    "Camera-wiki": "Super Pontura",
+    "英文简介": "The Super Pontura was the top of the range of medium format folders made by Balda in Dresden, Germany, before World War II."
   },
   "images": [],
   "sources": [

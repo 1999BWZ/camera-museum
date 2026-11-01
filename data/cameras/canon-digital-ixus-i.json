@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2003 年发布",
-  "description": "The Digital IXUS i is a ultra compact digital camera announced in 2003 by Canon.",
+  "description": "佳能于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Digital IXUS i"
+    "Camera-wiki": "Canon Digital IXUS i",
+    "英文简介": "The Digital IXUS i is a ultra compact digital camera announced in 2003 by Canon."
   },
   "images": [],
   "sources": [

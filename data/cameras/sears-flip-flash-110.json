@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sears胶片相机，1976 年发布",
-  "description": "The Sears Flip-Flash 110 is a basic camera for 110 film.",
+  "description": "Sears于1976年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sears Flip-Flash 110"
+    "Camera-wiki": "Sears Flip-Flash 110",
+    "英文简介": "The Sears Flip-Flash 110 is a basic camera for 110 film."
   },
   "images": [],
   "sources": [

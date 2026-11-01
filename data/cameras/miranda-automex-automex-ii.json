@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda胶片单反相机，1959 年发布",
-  "description": "The Automex was a 35mm SLR introduced by Miranda in 1959, and was the company's first substantial redesign.The Automex 1 added all the new developments of the day, plus integrated match needle metering.",
+  "description": "Miranda于1959年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda Automex, Automex II"
+    "Camera-wiki": "Miranda Automex, Automex II",
+    "英文简介": "The Automex was a 35mm SLR introduced by Miranda in 1959, and was the company's first substantial redesign.The Automex 1 added all the new developments of the day, plus integrated match needle metering."
   },
   "images": [],
   "sources": [

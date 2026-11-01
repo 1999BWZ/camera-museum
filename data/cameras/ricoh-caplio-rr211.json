@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2003 年发布",
-  "description": "The Ricoh Caplio RR211 was introduced by Ricoh in 2003.",
+  "description": "理光于2003年推出的数码相机。配备F: 2.8 5 glass elements in 4 groups. Focal Length: f=9.6mm (49mm in 35mm camera format)。快门速度Still: Still: 1/15~1/2000sec. (electronic shutter). Motion:1/15~1/2000sec. (electronic shutter)。感光度ISO100/200。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caplio RR211"
+    "Camera-wiki": "Ricoh Caplio RR211",
+    "传感器": "1.92-megapixel CMOS",
+    "镜头": "F: 2.8 5 glass elements in 4 groups. Focal Length: f=9.6mm (49mm in 35mm camera format)",
+    "变焦": "x4(Digital)",
+    "快门": "Still: Still: 1/15~1/2000sec. (electronic shutter). Motion:1/15~1/2000sec. (electronic shutter)",
+    "感光度": "ISO100/200",
+    "尺寸": "82 x 30.5 x 60 mm (excluding projection)",
+    "重量": "Approx. 110g (excluding batteries, strap)",
+    "英文简介": "The Ricoh Caplio RR211 was introduced by Ricoh in 2003."
   },
   "images": [],
   "sources": [

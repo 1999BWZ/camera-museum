@@ -1,0 +1,32 @@
+{
+  "id": "unknown-garmin-speak-plus",
+  "brand": "佳明",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "佳明",
+  "model": "Garmin Speak Plus",
+  "year": 2018,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳明胶片相机，2018 年发布",
+  "description": "佳明于2018年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q62471172",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Garmin Speak Plus",
+      "url": "https://www.wikidata.org/wiki/Q62471172"
+    }
+  ],
+  "qid": "Q62471172",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

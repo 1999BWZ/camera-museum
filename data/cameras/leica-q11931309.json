@@ -1,0 +1,40 @@
+{
+  "id": "leica-q11931309",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "Q11931309",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2004 年发布",
+  "description": "徕卡于2004年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11931309",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20DMR%20R8.jpg?width=800",
+      "caption": "Q11931309",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q11931309"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Q11931309",
+      "url": "https://www.wikidata.org/wiki/Q11931309"
+    }
+  ],
+  "qid": "Q11931309",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

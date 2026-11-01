@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Radio胶片相机，1948 年发布",
-  "description": "The Tom Thumb Camera Radio is a pseudo-TLR camera for 828 film, combined with a valve radio.",
+  "description": "Radio于1948年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tom Thumb Camera Radio"
+    "Camera-wiki": "Tom Thumb Camera Radio",
+    "英文简介": "The Tom Thumb Camera Radio is a pseudo-TLR camera for 828 film, combined with a valve radio."
   },
   "images": [],
   "sources": [

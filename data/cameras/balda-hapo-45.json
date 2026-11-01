@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda折叠相机，1937 年发布",
-  "description": "The Hapo 45 is a roll film camera that was produced for Porst by Balda in 1937.",
+  "description": "Balda于1937年推出的折叠相机。配备Meyer Gorlitz Trioplan 1:4.5/100mm。快门速度Compur, speeds 1-1/250 sec.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hapo 45"
+    "Camera-wiki": "Hapo 45",
+    "镜头": "Meyer Gorlitz Trioplan 1:4.5/100mm",
+    "快门": "Compur, speeds 1-1/250 sec.",
+    "英文简介": "The Hapo 45 is a roll film camera that was produced for Porst by Balda in 1937."
   },
   "images": [],
   "sources": [

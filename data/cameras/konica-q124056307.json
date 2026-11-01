@@ -1,0 +1,40 @@
+{
+  "id": "konica-q124056307",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "柯尼卡",
+  "model": "Q124056307",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1973 年发布",
+  "description": "柯尼卡于1973年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q124056307",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Konica%20-%20Autoreflex%20T3.jpg?width=800",
+      "caption": "Q124056307",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q124056307"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Q124056307",
+      "url": "https://www.wikidata.org/wiki/Q124056307"
+    }
+  ],
+  "qid": "Q124056307",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

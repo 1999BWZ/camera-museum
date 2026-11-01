@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1999 年发布",
-  "description": "A March 1999 model from Canon's phenomenally successful Sure Shot range, this compact 35mm film camera - known variously as the 'Sure Shot Z115 Panorama', 'Prima Super 115N' and 'Autoboy S XL' was a top of the range compact zoom.",
+  "description": "佳能于1999年推出的便携相机。配备38-105mm zoom, f/3.6-8.5. (10 elements in 9 groups, including an aspherical element for excellent sharpness.)。Three-point AI active auto-focus from 0.6m to infinity. (0.4m close range in macro mode).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot Z115 Panorama (Caption)/Prima Super 115N (Caption)/Autoboy S XL"
+    "Camera-wiki": "Canon Sure Shot Z115 Panorama (Caption)/Prima Super 115N (Caption)/Autoboy S XL",
+    "镜头": "38-105mm zoom, f/3.6-8.5. (10 elements in 9 groups, including an aspherical element for excellent sharpness.)",
+    "对焦": "Three-point AI active auto-focus from 0.6m to infinity. (0.4m close range in macro mode).",
+    "取景器": "Direct zoom viewfinder. 0.47x-1.22x magnification and 84% coverage, with focal length markings, LED ready and low-light warning.",
+    "尺寸": "130x70x60mm",
+    "重量": "350g",
+    "英文简介": "A March 1999 model from Canon's phenomenally successful Sure Shot range, this compact 35mm film camera - known variously as the 'Sure Shot Z115 Panorama', 'Prima Super 115N' and 'Autoboy S XL' was a top of the range compact zoom."
   },
   "images": [],
   "sources": [

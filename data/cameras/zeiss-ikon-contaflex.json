@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon数码单反相机，1953 年发布",
-  "description": "The Contaflex family of 35mm leaf-shuttered SLR cameras was introduced in 1953 by Zeiss Ikon, utilising the newly developed Compur reflex shutter.",
+  "description": "Zeiss Ikon于1953年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contaflex (SLR)"
+    "Camera-wiki": "Contaflex (SLR)",
+    "英文简介": "The Contaflex family of 35mm leaf-shuttered SLR cameras was introduced in 1953 by Zeiss Ikon, utilising the newly developed Compur reflex shutter."
   },
   "images": [],
   "sources": [

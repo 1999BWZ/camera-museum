@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Intreprinderea Optica Romana (IOR)取景器相机，1956 年发布",
-  "description": "The first popular camera of Intreprinderea Optica Romana (IOR) was the Optior, a metal-bodied viewfinder camera for type No.",
+  "description": "Intreprinderea Optica Romana (IOR)于1956年推出的取景器相机。配备IOR Menisc 1:11 F=75mm, not coated glass。快门速度T, 1/25s。使用4.5x6cm exposures on 120 film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optior"
+    "Camera-wiki": "Optior",
+    "胶片/画幅": "4.5x6cm exposures on 120 film",
+    "镜头": "IOR Menisc 1:11 F=75mm, not coated glass",
+    "快门速度": "T, 1/25s",
+    "英文简介": "The first popular camera of Intreprinderea Optica Romana (IOR) was the Optior, a metal-bodied viewfinder camera for type No."
   },
   "images": [],
   "sources": [

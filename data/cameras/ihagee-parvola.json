@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee取景器相机，1931 年发布",
-  "description": "In 1931 Ihagee launched its Parvola.",
+  "description": "Ihagee于1931年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Parvola"
+    "Camera-wiki": "Parvola",
+    "英文简介": "In 1931 Ihagee launched its Parvola."
   },
   "images": [],
   "sources": [

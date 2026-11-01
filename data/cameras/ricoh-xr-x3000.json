@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1996 年发布",
-  "description": "The XR-X3000 is an SLR for K mount lenses made by Ricoh.",
+  "description": "理光于1996年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh XR-X3000"
+    "Camera-wiki": "Ricoh XR-X3000",
+    "英文简介": "The XR-X3000 is an SLR for K mount lenses made by Ricoh."
   },
   "images": [],
   "sources": [

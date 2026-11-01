@@ -1,0 +1,32 @@
+{
+  "id": "ricoh-q125547017",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "Q125547017",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1997 年发布",
+  "description": "理光于1997年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q125547017",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Q125547017",
+      "url": "https://www.wikidata.org/wiki/Q125547017"
+    }
+  ],
+  "qid": "Q125547017",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

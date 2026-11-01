@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun折叠相机，1953 年发布",
-  "description": "This model is unrelated to the simple box cameras sold as Braun Imperial; and numerous other photography products have carried the Imperial name.",
+  "description": "Braun于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Braun Imperial (folding)"
+    "Camera-wiki": "Braun Imperial (folding)",
+    "英文简介": "This model is unrelated to the simple box cameras sold as Braun Imperial; and numerous other photography products have carried the Imperial name."
   },
   "images": [],
   "sources": [

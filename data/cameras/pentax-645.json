@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1984 年发布",
-  "description": "__TOC__\n\nThe Pentax 645 is a medium format SLR camera, introduced at the 1984 PMA.",
+  "description": "宾得于1984年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax 645"
+    "Camera-wiki": "Pentax 645",
+    "曝光测光": "** Shutter speed priority automatic",
+    "英文简介": "__TOC__\n\nThe Pentax 645 is a medium format SLR camera, introduced at the 1984 PMA."
   },
   "images": [],
   "sources": [

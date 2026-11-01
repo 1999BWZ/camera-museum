@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa胶片单反相机，1963 年发布",
-  "description": "The Kowa H is a 35mm SLR with a fixed lens and leaf shutter.",
+  "description": "Kowa于1963年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kowa H"
+    "Camera-wiki": "Kowa H",
+    "英文简介": "The Kowa H is a 35mm SLR with a fixed lens and leaf shutter."
   },
   "images": [],
   "sources": [

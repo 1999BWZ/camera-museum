@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片单反相机，1988 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n \n|\n|}\nThe Vivitar V2000 is a 35mm film SLR camera marketed by Vivitar in the late 1980s and early 1990s.It is noted as an attractive style refresh of the Vivitar V335 in a [https://books.google.com/books?id=hU8sHSz9ZkYC&pg=PA37&dq=vivitar+V2000&hl=en&sa=X&ved=2ahUKEwiR6Jz",
+  "description": "Vivitar于1988年推出的胶片单反相机。快门速度1/2000 to B。感光度25 - 1600。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar V2000"
+    "Camera-wiki": "Vivitar V2000",
+    "卡口": "Pentax K",
+    "感光度": "25 - 1600",
+    "快门": "Vertical travel, metal focal plane shutter",
+    "快门速度": "1/2000 to B",
+    "闪光灯": "Hot shoe, X-sync PC connector, 1/125",
+    "取景器": "eye-level pentaprism with match LED display",
+    "电池": "1.5v LR44, SR44 or equivalent (x2)",
+    "重量": "411 g (14.5 oz)",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n \n|\n|}\nThe Vivitar V2000 is a 35mm film SLR camera marketed by Vivitar in the late 1980s and early 1990s.It is noted as an attractive style refresh of the Vivitar V335 in a [https://books.google.com/books?id=hU8sHSz9ZkYC&pg=PA37&dq=vivitar+V2000&hl=en&sa=X&ved=2ahUKEwiR6JzAk5rwAhU1oFsKHbHhDCEQ6AEwA3oECAEQAg#v=onepage&q=vivitar%20V2000&f=false rundown of the latest 35mm S"
   },
   "images": [],
   "sources": [

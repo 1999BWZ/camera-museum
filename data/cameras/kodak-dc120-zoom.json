@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，1997 年发布",
-  "description": "The DC120 Zoom is an early digital camera made by Kodak, introduced in 1997.",
+  "description": "柯达于1997年推出的数码相机。配备Ektanar f2.5-3.8 (3x zoom, 35mm equivalent 38-114mm)。有效像素1280 x 960 pixels。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak DC120 Zoom"
+    "Camera-wiki": "Kodak DC120 Zoom",
+    "像素": "1280 x 960 pixels",
+    "传感器": "850 x 984 pixel CCD",
+    "镜头": "Ektanar f2.5-3.8 (3x zoom, 35mm equivalent 38-114mm)",
+    "英文简介": "The DC120 Zoom is an early digital camera made by Kodak, introduced in 1997."
   },
   "images": [],
   "sources": [

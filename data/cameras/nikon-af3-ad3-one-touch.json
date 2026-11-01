@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1987 年发布",
-  "description": "The AF3 introduced in 1987 was an evolution from Nikon's first autofocus compact camera, the L35AF and in some territories was branded with the One•Touch logo, making it very easy to confuse with the camera also known as the L35AF2.",
+  "description": "尼康于1987年推出的便携相机。配备Nikon 35mm f/2.8, 4 elements in 3 groups.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon AF3/AD3/One•Touch"
+    "Camera-wiki": "Nikon AF3/AD3/One•Touch",
+    "镜头": "Nikon 35mm f/2.8, 4 elements in 3 groups.",
+    "英文简介": "The AF3 introduced in 1987 was an evolution from Nikon's first autofocus compact camera, the L35AF and in some territories was branded with the One•Touch logo, making it very easy to confuse with the camera also known as the L35AF2."
   },
   "images": [],
   "sources": [

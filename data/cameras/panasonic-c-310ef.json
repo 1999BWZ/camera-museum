@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下取景器相机，1987 年发布",
-  "description": "The Panasonic C-310EF is a simple plastic viewfinder camera with a fixed focus lens of 38mm f/5.6.",
+  "description": "松下于1987年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic C-310EF"
+    "Camera-wiki": "Panasonic C-310EF",
+    "英文简介": "The Panasonic C-310EF is a simple plastic viewfinder camera with a fixed focus lens of 38mm f/5.6."
   },
   "images": [],
   "sources": [

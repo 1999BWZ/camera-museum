@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1987 年发布",
-  "description": "The Nikon TW2 is Nikon's first autofocus point-and-shoot camera that gave the user a choice in focal length.",
+  "description": "尼康于1987年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon TW2 / TW2D / Tele•Touch Deluxe"
+    "Camera-wiki": "Nikon TW2 / TW2D / Tele•Touch Deluxe",
+    "尺寸": "136 x 72 x 46,6 mm",
+    "重量": "310gr. without battery",
+    "英文简介": "The Nikon TW2 is Nikon's first autofocus point-and-shoot camera that gave the user a choice in focal length."
   },
   "images": [],
   "sources": [

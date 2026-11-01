@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Aires旁轴相机，1960 年发布",
-  "description": "The Aires M28 is a 35mm rangefinder camera made by the Japanese company Aires c1960, page 43.",
+  "description": "Aires于1960年推出的旁轴相机。配备Aires Q Coral 1:2.8 f=4.5cm, Coated, front-cell focusing。快门速度Seikosha SLV leafshutter. Speeds 1 to 1/500 sec. and B.。使用24 x 36 mm on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Aires M28"
+    "Camera-wiki": "Aires M28",
+    "胶片/画幅": "24 x 36 mm on 35mm film",
+    "镜头": "Aires Q Coral 1:2.8 f=4.5cm, Coated, front-cell focusing",
+    "尺寸": "M43 x 0.75Manual states Filter size M49 but measurement on actual camera was M43",
+    "快门": "Seikosha SLV leafshutter. Speeds 1 to 1/500 sec. and B.",
+    "闪光灯": "Socket on left side. X and M synchronisation",
+    "重量": "790 grams",
+    "英文简介": "The Aires M28 is a 35mm rangefinder camera made by the Japanese company Aires c1960, page 43."
   },
   "images": [],
   "sources": [

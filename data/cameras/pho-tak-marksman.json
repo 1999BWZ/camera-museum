@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pho-Tak盒式相机，1950 年发布",
-  "description": "The Marksman Synchro Flash is a very simple metal box camera from Chicago's Pho-Tak Corporation.",
+  "description": "Pho-Tak于1950年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pho-Tak Marksman"
+    "Camera-wiki": "Pho-Tak Marksman",
+    "英文简介": "The Marksman Synchro Flash is a very simple metal box camera from Chicago's Pho-Tak Corporation."
   },
   "images": [],
   "sources": [

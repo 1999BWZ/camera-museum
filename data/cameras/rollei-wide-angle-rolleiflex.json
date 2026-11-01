@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来中画幅相机，1961 年发布",
-  "description": "The Wide-Angle Rolleiflex is a medium format Wide-angle TLR camera manufactured by Franke & Heidecke and later on by Rollei.",
+  "description": "禄来于1961年推出的中画幅相机。配备Carl Zeiss Oberkochen Distagon 1:4 f=55mm.。快门速度Synchro-Compur MXV CR0 leafshutter. Speeds 1 to 1/500 sec. and B. Selftimer.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wide-Angle Rolleiflex"
+    "Camera-wiki": "Wide-Angle Rolleiflex",
+    "镜头": "Carl Zeiss Oberkochen Distagon 1:4 f=55mm.",
+    "快门": "Synchro-Compur MXV CR0 leafshutter. Speeds 1 to 1/500 sec. and B. Selftimer.",
+    "闪光灯": "Synch socket on front panel, M and X synchronisation.",
+    "尺寸": "128 x 113 x 152 mm",
+    "重量": "1355 grams",
+    "英文简介": "The Wide-Angle Rolleiflex is a medium format Wide-angle TLR camera manufactured by Franke & Heidecke and later on by Rollei."
   },
   "images": [],
   "sources": [

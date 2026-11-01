@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certex取景器相机，1969 年发布",
-  "description": "The Werlisa Mat is a 35mm film viewfinder camera made in Spain in 1969 Page 193.",
+  "description": "Certex于1969年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Werlisa Mat"
+    "Camera-wiki": "Werlisa Mat",
+    "英文简介": "The Werlisa Mat is a 35mm film viewfinder camera made in Spain in 1969 Page 193."
   },
   "images": [],
   "sources": [

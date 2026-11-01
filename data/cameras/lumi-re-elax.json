@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lumière折叠相机，1931 年发布",
-  "description": "The Elax is a folding 3×4cm camera, using 127 film, made by the French maker Lumière from 1931 or 1933 (depending on the source).",
+  "description": "Lumière于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Elax"
+    "Camera-wiki": "Elax",
+    "英文简介": "The Elax is a folding 3×4cm camera, using 127 film, made by the French maker Lumière from 1931 or 1933 (depending on the source)."
   },
   "images": [],
   "sources": [

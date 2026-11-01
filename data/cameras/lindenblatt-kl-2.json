@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lindenblatt数码单反相机，1983 年发布",
-  "description": "Lindenblatt was a private-label brand from New York City retailer Cambridge Camera Exchange, evidently named for the company's founder.",
+  "description": "Lindenblatt于1983年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lindenblatt KL-2"
+    "Camera-wiki": "Lindenblatt KL-2",
+    "英文简介": "Lindenblatt was a private-label brand from New York City retailer Cambridge Camera Exchange, evidently named for the company's founder."
   },
   "images": [],
   "sources": [

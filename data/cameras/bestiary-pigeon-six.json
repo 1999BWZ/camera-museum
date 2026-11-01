@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary折叠相机，1953 年发布",
-  "description": "The Pigeon Six (ピジョンシックス) is a is a Japanese 6×6 folding camera, distributed by Endō Kamera-ten in 1953 and perhaps made by Shinano Kōki.",
+  "description": "Bestiary于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pigeon Six"
+    "Camera-wiki": "Pigeon Six",
+    "英文简介": "The Pigeon Six (ピジョンシックス) is a is a Japanese 6×6 folding camera, distributed by Endō Kamera-ten in 1953 and perhaps made by Shinano Kōki."
   },
   "images": [],
   "sources": [

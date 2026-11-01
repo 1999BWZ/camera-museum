@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign胶片相机，1922 年发布",
-  "description": "The Ensign Cupid is a small sheet-metal bodied camera made by British manufacturer Houghton-Butcher under their Ensign brand, c.1922.",
+  "description": "Ensign于1922年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ensign Cupid"
+    "Camera-wiki": "Ensign Cupid",
+    "英文简介": "The Ensign Cupid is a small sheet-metal bodied camera made by British manufacturer Houghton-Butcher under their Ensign brand, c.1922."
   },
   "images": [],
   "sources": [

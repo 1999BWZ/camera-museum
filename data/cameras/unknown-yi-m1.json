@@ -1,0 +1,40 @@
+{
+  "id": "unknown-yi-m1",
+  "brand": "小米集团",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "小米集团",
+  "model": "Yi M1",
+  "year": 2020,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "小米集团数码相机，2020 年发布",
+  "description": "小米集团于2020年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q115689594",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YI%20M1.jpg?width=800",
+      "caption": "Yi M1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q115689594"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Yi M1",
+      "url": "https://www.wikidata.org/wiki/Q115689594"
+    }
+  ],
+  "qid": "Q115689594",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

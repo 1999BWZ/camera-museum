@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达微型相机，1964 年发布",
-  "description": "The Minolta-16 Ps is a subminiature camera made in 1964 for Minolta's 16mm instant-load film cartridges, with three-element 1:3.5/25mm lens.",
+  "description": "美能达于1964年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta-16 Ps"
+    "Camera-wiki": "Minolta-16 Ps",
+    "英文简介": "The Minolta-16 Ps is a subminiature camera made in 1964 for Minolta's 16mm instant-load film cartridges, with three-element 1:3.5/25mm lens."
   },
   "images": [],
   "sources": [

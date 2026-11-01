@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1986 年发布",
-  "description": "Part of the MT (Multi) series of compact cameras from Konica, the MT-7 was the most basic model.",
+  "description": "柯尼卡于1986年推出的取景器相机。配备Konica 36 mm, f/4 (4 elements in 4 groups).。快门速度Fixed shutter speed of 1/125s.。使用Motorwind.。感光度Aperture coupled to selected film speed: f/8 for ISO 100, f/11 for ISO 200, and f/16 for ISO 400.。Fixed focus, 1,5 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica MT-7"
+    "Camera-wiki": "Konica MT-7",
+    "镜头": "Konica 36 mm, f/4 (4 elements in 4 groups).",
+    "对焦": "Fixed focus, 1,5 m to infinity.",
+    "快门": "Fixed shutter speed of 1/125s.",
+    "闪光灯": "Built-in, manually activated. Toggle for close distances.",
+    "感光度": "Aperture coupled to selected film speed: f/8 for ISO 100, f/11 for ISO 200, and f/16 for ISO 400.",
+    "胶片/画幅": "Motorwind.",
+    "尺寸": "128,5 x 71,5 x 54,5 mm.",
+    "重量": "265 g.",
+    "英文简介": "Part of the MT (Multi) series of compact cameras from Konica, the MT-7 was the most basic model."
   },
   "images": [],
   "sources": [

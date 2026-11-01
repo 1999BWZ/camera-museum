@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bencini胶片相机，1946 年发布",
-  "description": "The Rolet is a viewfinder camera for 127 film fitted with a with Aplanatic Plantar Meniscus lens 75mm f/11 (speeds B / 1/30th).",
+  "description": "Bencini于1946年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bencini Rolet"
+    "Camera-wiki": "Bencini Rolet",
+    "英文简介": "The Rolet is a viewfinder camera for 127 film fitted with a with Aplanatic Plantar Meniscus lens 75mm f/11 (speeds B / 1/30th)."
   },
   "images": [],
   "sources": [

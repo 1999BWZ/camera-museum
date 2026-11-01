@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo胶片相机，1975 年发布",
-  "description": "The Rhaco 126X is a viewfinder camera for type No.",
+  "description": "Fex Indo于1975年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rhaco 126X"
+    "Camera-wiki": "Rhaco 126X",
+    "英文简介": "The Rhaco 126X is a viewfinder camera for type No."
   },
   "images": [],
   "sources": [

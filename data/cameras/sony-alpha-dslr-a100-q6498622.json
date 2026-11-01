@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2006 年发布",
-  "description": "索尼于2006年发布的数码单反相机。",
+  "description": "索尼于2006年推出的数码单反相机。配备interchangeable, Sony A-mount / Konica Minolta A-mount。快门速度electronically controlled, vertical-traverse, focal-plane Shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q6498622",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "23.6 mm × 15.8 mm 10.2 effective megapixels CCD",
+    "镜头": "interchangeable, Sony A-mount / Konica Minolta A-mount",
+    "快门速度": "electronically controlled, vertical-traverse, focal-plane Shutter",
+    "曝光测光": "40-segment honeycomb sensing system provides multi-pattern measuring",
+    "取景器": "optical, spherical Acute Matte screen, 20mm eye relief, 0.83x magnification, dioptre adjustment, 95% frame coverage, pentamirror",
+    "闪光灯": "Manual Pop-up: Auto, Fill-flash, Rear flash sync, Wireless off camera flash (with Flash HVL-F56AM, F36AM), GN12 at ISO 100 (",
+    "屏幕": "230k pixel, 2.5-inch TFT LCD",
+    "存储": "CompactFlash I/II, Memory Stick PRO (with adapter), Memory Stick PRO Duo (with included adapter)",
+    "电池": "7.2 V, 1600 mAh"
   },
   "images": [
     {

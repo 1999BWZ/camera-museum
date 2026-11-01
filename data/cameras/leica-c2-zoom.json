@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡便携相机，1991 年发布",
-  "description": "The C2-Zoom (not to be confused with the later Leica C2) is a 35mm from compact camera from Leica released in 1991.",
+  "description": "徕卡于1991年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica C2-Zoom"
+    "Camera-wiki": "Leica C2-Zoom",
+    "英文简介": "The C2-Zoom (not to be confused with the later Leica C2) is a 35mm from compact camera from Leica released in 1991."
   },
   "images": [],
   "sources": [

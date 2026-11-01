@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2010 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nAfter many delays, Pentax introduced this medium-format digital SLR in March 2010.",
+  "description": "宾得于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax 645D"
+    "Camera-wiki": "Pentax 645D",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nAfter many delays, Pentax introduced this medium-format digital SLR in March 2010."
   },
   "images": [],
   "sources": [

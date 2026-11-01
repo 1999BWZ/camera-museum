@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina胶片单反相机，1978 年发布",
-  "description": "The Cosina CS-1 is a rather compact, full-featured, manual-exposure 35mm SLR introduced by Cosina in 1978.",
+  "description": "Cosina于1978年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cosina CS-1"
+    "Camera-wiki": "Cosina CS-1",
+    "英文简介": "The Cosina CS-1 is a rather compact, full-featured, manual-exposure 35mm SLR introduced by Cosina in 1978."
   },
   "images": [],
   "sources": [

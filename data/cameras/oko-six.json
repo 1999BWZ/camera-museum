@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Oko折叠相机，1941 年发布",
-  "description": "The Oko Six (オーコーシックス) is a Japanese 6&times;6 folding camera made by Ōki Kōgaku Seiki Seisaku-sho in 1941 and 1942.",
+  "description": "Oko于1941年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Oko Six"
+    "Camera-wiki": "Oko Six",
+    "英文简介": "The Oko Six (オーコーシックス) is a Japanese 6&times;6 folding camera made by Ōki Kōgaku Seiki Seisaku-sho in 1941 and 1942."
   },
   "images": [],
   "sources": [

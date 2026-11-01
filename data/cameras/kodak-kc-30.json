@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1998 年发布",
-  "description": "The Kodak KC30 was introduced in 1998, took 35mm film, was made in China, has DX coding, built-in flash, and automatic film advance.[http://kodak.3106.net/index.php?p=210&cam=1336 Kodak KC 30] at [http://kodak.3106.net/index.php Kodak Classics]",
+  "description": "柯达于1998年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak KC 30"
+    "Camera-wiki": "Kodak KC 30",
+    "英文简介": "The Kodak KC30 was introduced in 1998, took 35mm film, was made in China, has DX coding, built-in flash, and automatic film advance.[http://kodak.3106.net/index.php?p=210&cam=1336 Kodak KC 30] at [http://kodak.3106.net/index.php Kodak Classics]"
   },
   "images": [],
   "sources": [

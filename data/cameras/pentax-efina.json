@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，1997 年发布",
-  "description": "The Pentax efina is a Japanese compact APS zoom camera assembled in the Philippines c.1997[https://resolver.kb.nl/resolve?urn=KBPERS01:003147005:mpeg21:a00128 Advertisement in the Dutchs newspaper \"Algemeen Dagblad\" of 05-12-1997].",
+  "description": "宾得于1997年推出的数码单反相机。配备24-48mm Pentax zoom lens。passive autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax efina"
+    "Camera-wiki": "Pentax efina",
+    "镜头": "24-48mm Pentax zoom lens",
+    "曝光测光": "automatic with speeds from 2 to 1/400 sec.",
+    "取景器": "magnification depending on lens' focal length, showing preselected APS image format",
+    "对焦": "passive autofocus",
+    "闪光灯": "built-in",
+    "尺寸": "100 x 58 x 37 mm",
+    "重量": "155 g without CR-2 battery",
+    "英文简介": "The Pentax efina is a Japanese compact APS zoom camera assembled in the Philippines c.1997[https://resolver.kb.nl/resolve?urn=KBPERS01:003147005:mpeg21:a00128 Advertisement in the Dutchs newspaper \"Algemeen Dagblad\" of 05-12-1997]."
   },
   "images": [],
   "sources": [

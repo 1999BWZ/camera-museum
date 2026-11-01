@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon数码单反相机，1968 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nProduced in small numbers, the Contarex Super Electronic (or Contarex SE) is a focal-plane shutter SLR sharing elements of Zeiss Ikon's Contarex Super.",
+  "description": "Zeiss Ikon于1968年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contarex Super Electronic"
+    "Camera-wiki": "Contarex Super Electronic",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nProduced in small numbers, the Contarex Super Electronic (or Contarex SE) is a focal-plane shutter SLR sharing elements of Zeiss Ikon's Contarex Super."
   },
   "images": [],
   "sources": [

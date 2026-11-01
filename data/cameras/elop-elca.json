@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ELOP取景器相机，1949 年发布",
-  "description": "The Elca, Elca II and Ucanett are viewfinder cameras for 24 mm-square exposures on 35 mm film, made by the short-lived German company ELOP (and its predecessors and successors) just after the Second World War.",
+  "description": "ELOP于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "ELOP Elca"
+    "Camera-wiki": "ELOP Elca",
+    "英文简介": "The Elca, Elca II and Ucanett are viewfinder cameras for 24 mm-square exposures on 35 mm film, made by the short-lived German company ELOP (and its predecessors and successors) just after the Second World War."
   },
   "images": [],
   "sources": [

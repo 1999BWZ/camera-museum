@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo取景器相机，1963 年发布",
-  "description": "The Meikai EL was introduced in 1963, by Togodo, a minor Japanese camera manufacturer.",
+  "description": "Tougodo于1963年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Meikai EL"
+    "Camera-wiki": "Meikai EL",
+    "英文简介": "The Meikai EL was introduced in 1963, by Togodo, a minor Japanese camera manufacturer."
   },
   "images": [],
   "sources": [

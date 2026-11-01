@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1970 年发布",
-  "description": "The Computor 35 is the first in a series of 35mm rangefinder cameras made in Japan by Petri from about 1970.",
+  "description": "Kuribayashi于1970年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri Computor 35"
+    "Camera-wiki": "Petri Computor 35",
+    "英文简介": "The Computor 35 is the first in a series of 35mm rangefinder cameras made in Japan by Petri from about 1970."
   },
   "images": [],
   "sources": [

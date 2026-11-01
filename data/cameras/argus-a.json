@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus取景器相机，1936 年发布",
-  "description": "Possibly the most important 35mm American camera, the Argus A was largely responsible for popularizing the 135 format in the United States.",
+  "description": "Argus于1936年推出的取景器相机。配备f/4.5 anastigmat。快门速度1/200th sec, 1/100, 1/50, 1/25, B(ulb), T(ime)。2 Position (6ft - 12ft and 12ft - Infinity, later 6ft - 18ft and 18ft - Infinity)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus A"
+    "Camera-wiki": "Argus A",
+    "对焦": "2 Position (6ft - 12ft and 12ft - Infinity, later 6ft - 18ft and 18ft - Infinity)",
+    "快门": "Pre-war Ilex Precise",
+    "镜头": "f/4.5 anastigmat",
+    "光圈": "f/4.5, 5.6, 8, 11",
+    "快门速度": "1/200th sec, 1/100, 1/50, 1/25, B(ulb), T(ime)",
+    "闪光灯": "No",
+    "英文简介": "Possibly the most important 35mm American camera, the Argus A was largely responsible for popularizing the 135 format in the United States."
   },
   "images": [],
   "sources": [

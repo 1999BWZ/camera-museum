@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2000 年发布",
-  "description": "The EI-2000 is a digital camera from Pentax.",
+  "description": "宾得于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax EI-2000"
+    "Camera-wiki": "Pentax EI-2000",
+    "英文简介": "The EI-2000 is a digital camera from Pentax."
   },
   "images": [],
   "sources": [

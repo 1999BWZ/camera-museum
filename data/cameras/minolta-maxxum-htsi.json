@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1998 年发布",
-  "description": "The Minolta Maxxum HTsi is a entry level auto focus 35mm SLR camera released in 1998.",
+  "description": "美能达于1998年推出的数码单反相机。快门速度30 to 1/4,000 sec, bulb with 1/125 sync.。使用Auto load。感光度EV -1 to 18 (ISO 100)。TTL phase-detection; multimetering with cross-hair type CCD line-sensor metering cell; autofocus and manual modes。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Maxxum HTsi"
+    "Camera-wiki": "Minolta Maxxum HTsi",
+    "卡口": "Minolta A-type bayonet mount",
+    "取景器": "SLR roof mirror; 90-percent field of view",
+    "快门": "Electronic vertical focal-plane",
+    "快门速度": "30 to 1/4,000 sec, bulb with 1/125 sync.",
+    "对焦": "TTL phase-detection; multimetering with cross-hair type CCD line-sensor metering cell; autofocus and manual modes",
+    "感光度": "EV -1 to 18 (ISO 100)",
+    "曝光测光": "1 to 20 EV; 4 to 20 with spot.",
+    "胶片/画幅": "Auto load",
+    "闪光灯": "Auto, off, fill",
+    "尺寸": "135 x 90 x 59 mm",
+    "重量": "350g",
+    "英文简介": "The Minolta Maxxum HTsi is a entry level auto focus 35mm SLR camera released in 1998."
   },
   "images": [],
   "sources": [

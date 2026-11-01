@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1940 年发布",
-  "description": "The Semi Konter (セミ・コンター) is a Japanese 4.5×6 folding camera made in 1940–1 and attributed to Mori, which also made the Rollekonter.",
+  "description": "Semi于1940年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Konter"
+    "Camera-wiki": "Semi Konter",
+    "英文简介": "The Semi Konter (セミ・コンター) is a Japanese 4.5×6 folding camera made in 1940–1 and attributed to Mori, which also made the Rollekonter."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford胶片相机，1949 年发布",
-  "description": "The Ilford Craftsman is a pseudo TLR made by Ilford in the UK, introduced in 1949.",
+  "description": "Ilford于1949年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Craftsman"
+    "Camera-wiki": "Ilford Craftsman",
+    "英文简介": "The Ilford Craftsman is a pseudo TLR made by Ilford in the UK, introduced in 1949."
   },
   "images": [],
   "sources": [

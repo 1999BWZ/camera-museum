@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Samoca旁轴相机，1961 年发布",
-  "description": "The Samoca MR was one of the late camera models of Samoca, introduced in 1961.",
+  "description": "Samoca于1961年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samoca MR"
+    "Camera-wiki": "Samoca MR",
+    "英文简介": "The Samoca MR was one of the late camera models of Samoca, introduced in 1961."
   },
   "images": [],
   "sources": [

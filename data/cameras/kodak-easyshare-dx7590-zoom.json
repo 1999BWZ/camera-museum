@@ -13,11 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2004 年发布",
-  "description": "柯达于2004年发布的便携相机。",
+  "description": "柯达于2004年推出的便携相机。配备Schneider-Kreuznach。快门速度16 s to 1/1000 s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q6425107",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "传感器": "1 × CCD",
+    "镜头": "Schneider-Kreuznach",
+    "快门速度": "16 s to 1/1000 s",
+    "屏幕": ", 153,000 pixel TFT LCD",
+    "存储": "SD card"
   },
   "images": [
     {

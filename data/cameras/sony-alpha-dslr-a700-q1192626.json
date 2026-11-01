@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2007 年发布",
-  "description": "索尼于2007年发布的数码单反相机。",
+  "description": "索尼于2007年推出的数码单反相机。配备A-mount。快门速度| shutterRange = 1/8000 - 30 sec, bulb. X-sync 1/250s (without SteadyShot), 1/200 (with SteadyShot)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1192626",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "传感器": "12.4 effective megapixels CMOS",
+    "镜头": "A-mount",
+    "快门速度": "| shutterRange = 1/8000 - 30 sec, bulb. X-sync 1/250s (without SteadyShot), 1/200 (with SteadyShot)",
+    "曝光测光": "| emode =",
+    "取景器": "95% coverage, 0.9x magnification",
+    "闪光灯": "Built in",
+    "屏幕": "921K-point (307k pixel), 3-inch TFT LCD",
+    "存储": "CompactFlash I/II, Memory Stick Duo, Memory Stick PRO Duo",
+    "电池": "lithium ion battery pack",
+    "重量": "(without battery)"
   },
   "images": [
     {

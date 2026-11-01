@@ -1,0 +1,40 @@
+{
+  "id": "olympus-camedia-c-840l",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "Camedia C-840L",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，1998 年发布",
+  "description": "奥林巴斯于1998年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q60152771",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2018%2012%2024%20003%20Olympus%20Camedia.jpg?width=800",
+      "caption": "Camedia C-840L",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q60152771"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus Camedia C-840L",
+      "url": "https://www.wikidata.org/wiki/Q60152771"
+    }
+  ],
+  "qid": "Q60152771",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

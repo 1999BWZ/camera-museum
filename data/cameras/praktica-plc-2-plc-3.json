@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1976 年发布",
-  "description": "The Praktica PLC 2 and PLC 3 SLR camera bodies for M42 screw mount lenses were the successors of Pentacon's Praktica LLC which was the first with the Pentacon LC light measuring system.",
+  "description": "潘泰康于1976年推出的胶片单反相机。快门速度Focal plane shutter made of steel lamellae, with speeds 1 sec. to 1/1000 sec.。使用35mm with speeds 12 to 1600 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica PLC 2/PLC 3"
+    "Camera-wiki": "Praktica PLC 2/PLC 3",
+    "胶片/画幅": "35mm with speeds 12 to 1600 ASA",
+    "快门": "Focal plane shutter made of steel lamellae, with speeds 1 sec. to 1/1000 sec.",
+    "卡口": "M42 screw mount with aperture release shifter and electrical contacts for aperture value transmission",
+    "闪光灯": "shutter flash synchronized up to speed 1/125 sec., hot shoe, PLC 3 with additional flash cable connector",
+    "英文简介": "The Praktica PLC 2 and PLC 3 SLR camera bodies for M42 screw mount lenses were the successors of Pentacon's Praktica LLC which was the first with the Pentacon LC light measuring system."
   },
   "images": [],
   "sources": [

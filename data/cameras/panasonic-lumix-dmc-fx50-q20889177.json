@@ -1,0 +1,40 @@
+{
+  "id": "panasonic-lumix-dmc-fx50-q20889177",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "松下電器",
+  "model": "Lumix DMC-FX50",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下便携相机，2007 年发布",
+  "description": "松下于2007年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889177",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panasonic.lumix.DMC-FX50.vorn.wmt.jpg?width=800",
+      "caption": "Lumix DMC-FX50",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889177"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Panasonic Lumix DMC-FX50",
+      "url": "https://www.wikidata.org/wiki/Q20889177"
+    }
+  ],
+  "qid": "Q20889177",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

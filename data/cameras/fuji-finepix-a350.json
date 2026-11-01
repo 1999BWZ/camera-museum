@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji数码相机，2005 年发布",
-  "description": "The digital compact camera Fujifilm FinePix A350 was launched in 2005.",
+  "description": "Fuji于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji FinePix A350"
+    "Camera-wiki": "Fuji FinePix A350",
+    "英文简介": "The digital compact camera Fujifilm FinePix A350 was launched in 2005."
   },
   "images": [],
   "sources": [

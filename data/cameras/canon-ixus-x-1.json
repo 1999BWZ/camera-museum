@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1999 年发布",
-  "description": "X-1 Images\n\n\n\n\n\n\nThe Canon IXUS X-1 is a compact APS camera, introduced by Canon in November 1999.",
+  "description": "佳能于1999年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon IXUS X-1"
+    "Camera-wiki": "Canon IXUS X-1",
+    "英文简介": "X-1 Images\n\n\n\n\n\n\nThe Canon IXUS X-1 is a compact APS camera, introduced by Canon in November 1999."
   },
   "images": [],
   "sources": [

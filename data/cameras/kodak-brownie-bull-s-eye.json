@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1954 年发布",
-  "description": "The Brownie Bull's-Eye was a Bakelite Box camera taking 8 6x9 exposures on 620 film, made by Kodak between 1954 & 1960.",
+  "description": "柯达于1954年推出的盒式相机。配备Kodak Twindar, zone-focusing。快门速度rotary, with flash synch; Speeds \"Long\" (bulb) or \"Instant\"。使用620 film, 8 6x9cm exposures。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Bull's-Eye"
+    "Camera-wiki": "Kodak Brownie Bull's-Eye",
+    "镜头": "Kodak Twindar, zone-focusing",
+    "快门": "rotary, with flash synch; Speeds \"Long\" (bulb) or \"Instant\"",
+    "胶片/画幅": "620 film, 8 6x9cm exposures",
+    "英文简介": "The Brownie Bull's-Eye was a Bakelite Box camera taking 8 6x9 exposures on 620 film, made by Kodak between 1954 & 1960."
   },
   "images": [],
   "sources": [

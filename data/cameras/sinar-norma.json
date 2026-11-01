@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Sinar胶片相机，1963 年发布",
-  "description": "The Sinar Norma is a professional monorail camera.",
+  "description": "Sinar于1963年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sinar Norma"
+    "Camera-wiki": "Sinar Norma",
+    "英文简介": "The Sinar Norma is a professional monorail camera."
   },
   "images": [],
   "sources": [

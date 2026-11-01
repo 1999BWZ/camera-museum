@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford取景器相机，1966 年发布",
-  "description": "The Ilford Pixie is a 1960s-era camera for 127 film.",
+  "description": "Ilford于1966年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Pixie"
+    "Camera-wiki": "Ilford Pixie",
+    "英文简介": "The Ilford Pixie is a 1960s-era camera for 127 film."
   },
   "images": [],
   "sources": [

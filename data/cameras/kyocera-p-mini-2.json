@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera全景相机，1993 年发布",
-  "description": "Kyocera于1993年发布的全景相机。",
+  "description": "Kyocera于1993年推出的全景相机。配备Kyocera Lens 32mm f/3.8, 4 elements in 3 groups。快门速度Programmed, 1/60 sec. ~ 1/200 sec.。感光度ISO 100 ~ 400 (DX-code system)。Fixed-focus with infinity focus facility。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera P. mini 2"
+    "Camera-wiki": "Kyocera P. mini 2",
+    "镜头": "Kyocera Lens 32mm f/3.8, 4 elements in 3 groups",
+    "对焦": "Fixed-focus with infinity focus facility",
+    "快门": "Programmed, 1/60 sec. ~ 1/200 sec.",
+    "取景器": "Albada-type",
+    "感光度": "ISO 100 ~ 400 (DX-code system)",
+    "闪光灯": "Auto / On / Off",
+    "尺寸": "118 mm X 64 mm X 47 mm",
+    "重量": "185 g (without batteries)"
   },
   "images": [],
   "sources": [

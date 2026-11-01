@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Richlet取景器相机，1954 年发布",
-  "description": "The Richlet 35 was made in Japan by Rich-Ray c.1954.",
+  "description": "Richlet于1954年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Richlet 35"
+    "Camera-wiki": "Richlet 35",
+    "英文简介": "The Richlet 35 was made in Japan by Rich-Ray c.1954."
   },
   "images": [],
   "sources": [

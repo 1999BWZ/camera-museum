@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA折叠相机，1920 年发布",
-  "description": "The Volta is a folding bed camera for 9x12cm plates or sheet film.",
+  "description": "ICA于1920年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Volta"
+    "Camera-wiki": "Volta",
+    "英文简介": "The Volta is a folding bed camera for 9x12cm plates or sheet film."
   },
   "images": [],
   "sources": [

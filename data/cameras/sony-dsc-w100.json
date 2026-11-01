@@ -1,0 +1,40 @@
+{
+  "id": "sony-dsc-w100",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSC-W100",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2006 年发布",
+  "description": "索尼于2006年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q62060771",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Cyber-shot%20DSC-W100.jpg?width=800",
+      "caption": "DSC-W100",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q62060771"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSC-W100",
+      "url": "https://www.wikidata.org/wiki/Q62060771"
+    }
+  ],
+  "qid": "Q62060771",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1999 年发布",
-  "description": "The EOS 3000 is an autofocus SLR for 35mm film introduced by Canon in 1999.",
+  "description": "佳能于1999年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 3000"
+    "Camera-wiki": "Canon EOS 3000",
+    "英文简介": "The EOS 3000 is an autofocus SLR for 35mm film introduced by Canon in 1999."
   },
   "images": [],
   "sources": [

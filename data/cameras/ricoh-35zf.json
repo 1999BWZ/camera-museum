@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1976 年发布",
-  "description": "The Ricoh 35 ZF is a viewfinder camera with a fixed lens from 1976, the first model to made by Ricoh in Taiwan.",
+  "description": "理光于1976年推出的取景器相机。配备Rikenon f 2.8 / 40mm。快门速度Ricoh, Speeds 1/8 - 1/500 sec + B。使用35mm。zone focus with 3 symbols (1m, 2.5m, infinity).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 35ZF"
+    "Camera-wiki": "Ricoh 35ZF",
+    "胶片/画幅": "35mm",
+    "镜头": "Rikenon f 2.8 / 40mm",
+    "快门": "Ricoh, Speeds 1/8 - 1/500 sec + B",
+    "对焦": "zone focus with 3 symbols (1m, 2.5m, infinity).",
+    "曝光测光": "manual shutter speed selection, aperture controlled by CdS meter or manually.",
+    "尺寸": "111x71x56mm",
+    "重量": "400g",
+    "英文简介": "The Ricoh 35 ZF is a viewfinder camera with a fixed lens from 1976, the first model to made by Ricoh in Taiwan."
   },
   "images": [],
   "sources": [

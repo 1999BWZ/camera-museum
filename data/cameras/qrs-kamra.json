@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "QRS取景器相机，1928 年发布",
-  "description": "The QRS Kamra (later sold as the De Vry Still Camera Model K-1) is an early 35mm camera.",
+  "description": "QRS于1928年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "QRS Kamra"
+    "Camera-wiki": "QRS Kamra",
+    "英文简介": "The QRS Kamra (later sold as the De Vry Still Camera Model K-1) is an early 35mm camera."
   },
   "images": [],
   "sources": [

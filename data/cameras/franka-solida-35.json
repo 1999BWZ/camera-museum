@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Franka旁轴相机，1957 年发布",
-  "description": "The Solida 35 is a leaf-shuttered 35mm rangefinder camera with interchangeable lenses made by Franka in 1957.",
+  "description": "Franka于1957年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Solida 35"
+    "Camera-wiki": "Solida 35",
+    "英文简介": "The Solida 35 is a leaf-shuttered 35mm rangefinder camera with interchangeable lenses made by Franka in 1957."
   },
   "images": [],
   "sources": [

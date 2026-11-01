@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1968 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Ricoh Hi-Color is a viewfinder camera for 35mm film first sold in 1968, updating the spring-driven film advance concept Ricoh had promoted with the Auto Half of 1962 and the Auto Shot of 1964.",
+  "description": "理光于1968年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Hi-Color 35"
+    "Camera-wiki": "Ricoh Hi-Color 35",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Ricoh Hi-Color is a viewfinder camera for 35mm film first sold in 1968, updating the spring-driven film advance concept Ricoh had promoted with the Auto Half of 1962 and the Auto Shot of 1964."
   },
   "images": [],
   "sources": [

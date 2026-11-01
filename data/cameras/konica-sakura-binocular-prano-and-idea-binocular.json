@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡立体相机，1907 年发布",
-  "description": "The Sakura Binocular Prano (さくら双眼プラノ) The name \"Prano\" is sometimes written \"Plano\" by mistake.",
+  "description": "柯尼卡于1907年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sakura Binocular Prano and Idea Binocular"
+    "Camera-wiki": "Sakura Binocular Prano and Idea Binocular",
+    "英文简介": "The Sakura Binocular Prano (さくら双眼プラノ) The name \"Prano\" is sometimes written \"Plano\" by mistake."
   },
   "images": [],
   "sources": [

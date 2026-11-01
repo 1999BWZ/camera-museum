@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2020 年发布",
-  "description": "There are also Canon's Inspic/Ivy/Zoemini instant-printing cameras from around the same time.",
+  "description": "佳能于2020年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon iNSPiC REC"
+    "Camera-wiki": "Canon iNSPiC REC",
+    "英文简介": "There are also Canon's Inspic/Ivy/Zoemini instant-printing cameras from around the same time."
   },
   "images": [],
   "sources": [

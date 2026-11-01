@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1970 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Yashica ME 1 is a small, compact 35mm viewfinder camera with auto-exposure, made in Japan originally in 1970 and later was probably the first camera produced in Brazil by Yashica from 1977.",
+  "description": "雅西卡于1970年推出的取景器相机。配备Yashica 38mm f2.8; 4 element, 3 group. 46mm filter thread.。快门速度Copal auto, speed set by metering, 1/60-1/360 sec.。感光度25-500 ASA in steps。Zone focus (1, 1.5, 3m and infinity) and feet/metres scales on other side。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica ME 1"
+    "Camera-wiki": "Yashica ME 1",
+    "镜头": "Yashica 38mm f2.8; 4 element, 3 group. 46mm filter thread.",
+    "对焦": "Zone focus (1, 1.5, 3m and infinity) and feet/metres scales on other side",
+    "曝光测光": "CdS cell",
+    "快门": "Copal auto, speed set by metering, 1/60-1/360 sec.",
+    "闪光灯": "hot shoe",
+    "感光度": "25-500 ASA in steps",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Yashica ME 1 is a small, compact 35mm viewfinder camera with auto-exposure, made in Japan originally in 1970 and later was probably the first camera produced in Brazil by Yashica from 1977."
   },
   "images": [],
   "sources": [

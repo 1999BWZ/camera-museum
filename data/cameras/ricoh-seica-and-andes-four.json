@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1939 年发布",
-  "description": "See also the Seica (4.5×6) rangefinder folding camera.",
+  "description": "理光于1939年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Seica and Andes Four"
+    "Camera-wiki": "Seica and Andes Four",
+    "英文简介": "See also the Seica (4.5×6) rangefinder folding camera."
   },
   "images": [],
   "sources": [

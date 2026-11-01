@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码相机，2004 年发布",
-  "description": "The Praktica DC42 is a compact camera first released in 2004.",
+  "description": "潘泰康于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica DC42"
+    "Camera-wiki": "Praktica DC42",
+    "尺寸": "94x66x41 mm",
+    "重量": "140g",
+    "英文简介": "The Praktica DC42 is a compact camera first released in 2004."
   },
   "images": [],
   "sources": [

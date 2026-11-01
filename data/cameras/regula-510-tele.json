@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Regula胶片相机，1978 年发布",
-  "description": "The Regula 510 Tele is a camera for 110 film.",
+  "description": "Regula于1978年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula 510 Tele"
+    "Camera-wiki": "Regula 510 Tele",
+    "英文简介": "The Regula 510 Tele is a camera for 110 film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1963 年发布",
-  "description": "The Ricohmatic 126 is a 1960s camera by Riken/Ricoh using 126 film cartridges, whose metal finish shows much more refinement than the typical Instamatic.The Rikenon 35mm f/2.8 lens uses scale focusing and is surrounded by a selenium meter cell.",
+  "description": "理光于1963年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricohmatic 126"
+    "Camera-wiki": "Ricohmatic 126",
+    "英文简介": "The Ricohmatic 126 is a 1960s camera by Riken/Ricoh using 126 film cartridges, whose metal finish shows much more refinement than the typical Instamatic.The Rikenon 35mm f/2.8 lens uses scale focusing and is surrounded by a selenium meter cell."
   },
   "images": [],
   "sources": [

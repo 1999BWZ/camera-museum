@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机（桥机），1988 年发布",
-  "description": "The Olympus AZ300 Superzoom (aka the Infinity 300 and IZM300) is a bulky point and shoot zoom camera taking 35mm film.",
+  "description": "奥林巴斯于1988年推出的便携相机（桥机）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus AZ-300 Super Zoom/Infinity Zoom 300/IZM300"
+    "Camera-wiki": "Olympus AZ-300 Super Zoom/Infinity Zoom 300/IZM300",
+    "英文简介": "The Olympus AZ300 Superzoom (aka the Infinity 300 and IZM300) is a bulky point and shoot zoom camera taking 35mm film."
   },
   "images": [],
   "sources": [

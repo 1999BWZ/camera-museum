@@ -1,0 +1,32 @@
+{
+  "id": "casio-exilim-ex-z100",
+  "brand": "Casio",
+  "brand_cn": "卡西欧",
+  "brand_slug": "casio",
+  "country": "日本",
+  "manufacturer": "卡西欧",
+  "model": "Exilim EX-Z100",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "卡西欧便携相机，2008 年发布",
+  "description": "卡西欧于2008年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889062",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Casio Exilim EX-Z100",
+      "url": "https://www.wikidata.org/wiki/Q20889062"
+    }
+  ],
+  "qid": "Q20889062",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

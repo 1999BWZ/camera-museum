@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji旁轴相机，1956 年发布",
-  "description": "The Super Fujica 6 is a folding medium format rangefinder camera produced by the Japanese company Fujica.",
+  "description": "Fuji于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Super Fujica Six"
+    "Camera-wiki": "Super Fujica Six",
+    "英文简介": "The Super Fujica 6 is a folding medium format rangefinder camera produced by the Japanese company Fujica."
   },
   "images": [],
   "sources": [

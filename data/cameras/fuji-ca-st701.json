@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji旁轴相机，1970 年发布",
-  "description": "The Fujica ST701 is a fully-manual single-lens reflex camera first produced by Fuji Photo Film from July 1970According to Fujifilm's \"50 Years of Ayumi\"..",
+  "description": "Fuji于1970年推出的旁轴相机。快门速度Focal-plane shutter, B-1-1/1000 sec. Film speed indicator window built into Shutter Speed Selector Dial, built-in self-timer, FP and X contact. Hotshoe (on later models only)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica ST701"
+    "Camera-wiki": "Fujica ST701",
+    "快门": "Focal-plane shutter, B-1-1/1000 sec. Film speed indicator window built into Shutter Speed Selector Dial, built-in self-timer, FP and X contact. Hotshoe (on later models only)",
+    "取景器": "Pentaprism eye-level viewfinder 0 96 X magnification with F1.8 55mm lens), microprism focusing center, split image and ground glass. (Early models - microprism only",
+    "尺寸": "133 x 91 x 88mm",
+    "英文简介": "The Fujica ST701 is a fully-manual single-lens reflex camera first produced by Fuji Photo Film from July 1970According to Fujifilm's \"50 Years of Ayumi\".."
   },
   "images": [],
   "sources": [

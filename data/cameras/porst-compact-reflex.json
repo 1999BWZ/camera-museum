@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Porst数码单反相机，1977 年发布",
-  "description": "German retailer Porst offered the compact-reflex (no suffixes; styled in all lowercase) as one of it many rebadgings of SLR cameras manufactured by Cosina.",
+  "description": "Porst于1977年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Porst Compact-reflex"
+    "Camera-wiki": "Porst Compact-reflex",
+    "英文简介": "German retailer Porst offered the compact-reflex (no suffixes; styled in all lowercase) as one of it many rebadgings of SLR cameras manufactured by Cosina."
   },
   "images": [],
   "sources": [

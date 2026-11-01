@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Okada/Daiichi折叠相机，1953 年发布",
-  "description": "The Union Semi (ユニオン・セミ) is a Japanese 4.5&times;6 folder.",
+  "description": "Okada/Daiichi于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Union Semi"
+    "Camera-wiki": "Union Semi",
+    "英文简介": "The Union Semi (ユニオン・セミ) is a Japanese 4.5&times;6 folder."
   },
   "images": [],
   "sources": [

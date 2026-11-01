@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码单反相机，1979 年发布",
-  "description": "Among the long series of SLRs for K mount lenses sold under Vivitar branding (but manufactured by Cosina), the XV-3 stands out as a particularly full-featured example.",
+  "description": "Vivitar于1979年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar XV-3"
+    "Camera-wiki": "Vivitar XV-3",
+    "英文简介": "Among the long series of SLRs for K mount lenses sold under Vivitar branding (but manufactured by Cosina), the XV-3 stands out as a particularly full-featured example."
   },
   "images": [],
   "sources": [

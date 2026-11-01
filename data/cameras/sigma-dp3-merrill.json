@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "适马便携相机，2013 年发布",
-  "description": "适马于2013年发布的便携相机。",
+  "description": "适马于2013年推出的便携相机。配备50 mm (35 mm equivalent 75 mm) f/2.8。快门速度Electronically controlled lens shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q18358571",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "镜头": "50 mm (35 mm equivalent 75 mm) f/2.8",
+    "快门速度": "Electronically controlled lens shutter",
+    "曝光测光": "TTL Full Aperture Metering",
+    "取景器": "none",
+    "闪光灯": "Hotshoe",
+    "电池": "Lithium Ion battery BP-41",
+    "尺寸": "121.5 × 66.7 × 80,6 mm",
+    "重量": "400 g empty (no battery, no memory card)"
   },
   "images": [],
   "sources": [

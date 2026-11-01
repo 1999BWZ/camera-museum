@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar便携相机，1987 年发布",
-  "description": "The Vivitar PS:135 is an autofocus 35mm point-and-shoot camera marketed by Vivitar in the late 1980s.",
+  "description": "Vivitar于1987年推出的便携相机。配备34mm f/3.8。使用135 (35mm)。1.3 m (4.3 ft) - infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar PS:135"
+    "Camera-wiki": "Vivitar PS:135",
+    "取景器": "eye level",
+    "胶片/画幅": "135 (35mm)",
+    "镜头": "34mm f/3.8",
+    "对焦": "1.3 m (4.3 ft) - infinity",
+    "电池": "AA (2)",
+    "重量": "247 g (8.7 oz)",
+    "英文简介": "The Vivitar PS:135 is an autofocus 35mm point-and-shoot camera marketed by Vivitar in the late 1980s."
   },
   "images": [],
   "sources": [

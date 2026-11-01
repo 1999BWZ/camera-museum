@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2008 年发布",
-  "description": "The Ricoh GX200 was introduced by Ricoh in 2008, as an evolution of the prize-winning Ricoh Caplio GX100.",
+  "description": "理光于2008年推出的数码相机。配备11 elements in 7 groups。快门速度180, 120, 60, 30, 15, 8, 4, 2, 1–1/2000 seconds。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh GX200"
+    "Camera-wiki": "Ricoh GX200",
+    "镜头": "11 elements in 7 groups",
+    "光圈": "f/2.5 (wide) to f/4.4 (telephoto)",
+    "快门速度": "180, 120, 60, 30, 15, 8, 4, 2, 1–1/2000 seconds",
+    "尺寸": "111.6mm (W) × 58.0mm (H) × 25.0mm (D), excluding projecting parts",
+    "重量": "approx. 208g (excluding battery, SD memory card, and strap); about 30g more for the battery and strap",
+    "英文简介": "The Ricoh GX200 was introduced by Ricoh in 2008, as an evolution of the prize-winning Ricoh Caplio GX100."
   },
   "images": [],
   "sources": [

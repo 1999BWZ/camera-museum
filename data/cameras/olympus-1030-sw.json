@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，2008 年发布",
-  "description": "The Olympus μ(mju) 1030 SW &mdash; also known as Stylus 1030 SW in some markets &mdash; is a 10.1-megapixel ultra-compact water submersible digital camera introduced by Olympus Corporation in 2008.",
+  "description": "奥林巴斯于2008年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus μ 1030 SW"
+    "Camera-wiki": "Olympus μ 1030 SW",
+    "英文简介": "The Olympus μ(mju) 1030 SW &mdash; also known as Stylus 1030 SW in some markets &mdash; is a 10.1-megapixel ultra-compact water submersible digital camera introduced by Olympus Corporation in 2008."
   },
   "images": [],
   "sources": [

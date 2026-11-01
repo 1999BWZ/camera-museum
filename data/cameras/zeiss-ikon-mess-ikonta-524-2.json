@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon旁轴相机，1951 年发布",
-  "description": "The 524/2 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon.",
+  "description": "Zeiss Ikon于1951年推出的旁轴相机。快门速度Novar 4.5/105 mm lens in a Prontor-S shutter Novar 3.5/105 mm lens in a Prontor-S shutter Tessar 3.5/105 mm lens in a Synchro-Compur shutter。使用6 x 9 cm on 120 type rollfilm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mess-Ikonta 524/2"
+    "Camera-wiki": "Mess-Ikonta 524/2",
+    "胶片/画幅": "6 x 9 cm on 120 type rollfilm",
+    "快门": "Novar 4.5/105 mm lens in a Prontor-S shutter Novar 3.5/105 mm lens in a Prontor-S shutter Tessar 3.5/105 mm lens in a Synchro-Compur shutter",
+    "闪光灯": "Socket on shutter, X-synchronisation, Synchro-Compur also M-synchronisation",
+    "自拍": "Yes",
+    "曝光测光": "Yes",
+    "尺寸": "165x100x45 mm",
+    "重量": "850 grams",
+    "英文简介": "The 524/2 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon."
   },
   "images": [],
   "sources": [

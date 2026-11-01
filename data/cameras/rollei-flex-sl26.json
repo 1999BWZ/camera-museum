@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片单反相机，1968 年发布",
-  "description": "The Rolleiflex SL26 is a manual-exposure SLR camera for Kodak's 126 film.",
+  "description": "禄来于1968年推出的胶片单反相机。配备Zeiss Tessar 2.8, 40mm (supplied)。快门速度Compur leaf 1/2 sec. - 1/500 sec. plus bulb。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex SL26"
+    "Camera-wiki": "Rolleiflex SL26",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "Zeiss Tessar 2.8, 40mm (supplied)",
+    "快门": "Compur leaf 1/2 sec. - 1/500 sec. plus bulb",
+    "取景器": "includes split-image rangefinder and exposure indicator",
+    "闪光灯": "hot shoe for external flashgun",
+    "英文简介": "The Rolleiflex SL26 is a manual-exposure SLR camera for Kodak's 126 film."
   },
   "images": [],
   "sources": [

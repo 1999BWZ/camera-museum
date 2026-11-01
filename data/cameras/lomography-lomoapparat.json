@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography胶片单反相机，2022 年发布",
-  "description": "The LomoApparat is a 35mm camera issued by Lomography in October 2022.",
+  "description": "Lomography于2022年推出的胶片单反相机。配备21mm f10 wide-angle lens + 0.2m close-up lens.。快门速度1/100 (N), Bulb (B).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "LomoApparat"
+    "Camera-wiki": "LomoApparat",
+    "镜头": "21mm f10 wide-angle lens + 0.2m close-up lens.",
+    "快门速度": "1/100 (N), Bulb (B).",
+    "英文简介": "The LomoApparat is a 35mm camera issued by Lomography in October 2022."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2025 年发布",
-  "description": "松下于2025年发布的便携相机。",
+  "description": "松下于2025年推出的便携相机。配备Leica L-Mount。快门速度Mechanical focal-plane shutter and electronic shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q139854486",
-    "多语言词条数": "2"
+    "多语言词条数": "2",
+    "镜头": "Leica L-Mount",
+    "传感器": "BSI-CMOS sensor",
+    "胶片/画幅": "| filmsize =",
+    "对焦": "| fmode = AFS (Single), AFC (Continuous), MF",
+    "曝光测光": "TTL metering",
+    "闪光灯": "Hot shoe",
+    "快门速度": "Mechanical focal-plane shutter and electronic shutter",
+    "取景器": "Electronic viewfinder (OLED)",
+    "屏幕": "3.0-inch vari-angle touchscreen LCD, 1.8M-dot resolution",
+    "电池": "DMW-BLK22 Li-ion batteryUSB-PD rechargeable",
+    "重量": "including battery and memory card"
   },
   "images": [
     {

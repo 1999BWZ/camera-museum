@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon数码单反相机，1979 年发布",
-  "description": "The Topcon RM 300 is a manual focus 35mm SLR from Tōkyō Kōgaku, made by Cima Kōgaku.",
+  "description": "Topcon于1979年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon RM 300"
+    "Camera-wiki": "Topcon RM 300",
+    "英文简介": "The Topcon RM 300 is a manual focus 35mm SLR from Tōkyō Kōgaku, made by Cima Kōgaku."
   },
   "images": [],
   "sources": [

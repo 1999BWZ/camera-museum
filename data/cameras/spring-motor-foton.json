@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Spring motor旁轴相机，1948 年发布",
-  "description": "There is also a Russian instant camera called Foton, and there was a Polish film-maker named Foton.",
+  "description": "Spring motor于1948年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Foton"
+    "Camera-wiki": "Foton",
+    "英文简介": "There is also a Russian instant camera called Foton, and there was a Polish film-maker named Foton."
   },
   "images": [],
   "sources": [

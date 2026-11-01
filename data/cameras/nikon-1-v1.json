@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2011 年发布",
-  "description": "The Nikon 1 V1 is a mirrorless interchangeable lens digital camera released by Nikon in 2011.",
+  "description": "尼康于2011年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon 1 V1"
+    "Camera-wiki": "Nikon 1 V1",
+    "英文简介": "The Nikon 1 V1 is a mirrorless interchangeable lens digital camera released by Nikon in 2011."
   },
   "images": [],
   "sources": [

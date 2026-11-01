@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发胶片相机，1974 年发布",
-  "description": "The Agfamatic 3000 pocket sensor is a 110 cartridge film pocket camera made by Agfa, introduced in 1974.",
+  "description": "爱克发于1974年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfamatic 3000 pocket sensor"
+    "Camera-wiki": "Agfamatic 3000 pocket sensor",
+    "英文简介": "The Agfamatic 3000 pocket sensor is a 110 cartridge film pocket camera made by Agfa, introduced in 1974."
   },
   "images": [],
   "sources": [

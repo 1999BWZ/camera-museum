@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，1996 年发布",
-  "description": "{|class=floatleft\n||&nbsp;&nbsp;&nbsp;&nbsp;\n|}\n\n\nSaid to be the first digital camera with a swivelling & detachable lens; the lens can be removed from the body, connected by a cable, allowing viewfinding on the LCD screen from different angles to the lens, and changing the flash direction.",
+  "description": "美能达于1996年推出的数码相机。配备2.7x zoom 4.8-13mm f5.0-f5.6, 35mm equivalent 34-92mm, with macro mode; 9 elements in 7 groups。有效像素640x480 pixels (0.3 Megapixels, 24-bit colour。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dimâge V"
+    "Camera-wiki": "Minolta Dimâge V",
+    "镜头": "2.7x zoom 4.8-13mm f5.0-f5.6, 35mm equivalent 34-92mm, with macro mode; 9 elements in 7 groups",
+    "像素": "640x480 pixels (0.3 Megapixels, 24-bit colour",
+    "英文简介": "{|class=floatleft\n||&nbsp;&nbsp;&nbsp;&nbsp;\n|}\n\n\nSaid to be the first digital camera with a swivelling & detachable lens; the lens can be removed from the body, connected by a cable, allowing viewfinding on the LCD screen from different angles to the lens, and changing the flash direction."
   },
   "images": [],
   "sources": [

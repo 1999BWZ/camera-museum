@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus旁轴相机，1938 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Argus C is a simple 35mm camera made from 1938-1939 by Argus, Inc.",
+  "description": "Argus于1938年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus C"
+    "Camera-wiki": "Argus C",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Argus C is a simple 35mm camera made from 1938-1939 by Argus, Inc."
   },
   "images": [],
   "sources": [

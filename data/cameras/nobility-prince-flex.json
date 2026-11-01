@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nobility胶片相机，1937 年发布",
-  "description": "The Prince Flex is a Japanese 6×6 TLR, made by Neumann & Heilemann, then by Fujimoto Shashinki Seisakusho and distributed by Fukada Shōkai from 1937 to 1939.",
+  "description": "Nobility于1937年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Prince Flex"
+    "Camera-wiki": "Prince Flex",
+    "英文简介": "The Prince Flex is a Japanese 6×6 TLR, made by Neumann & Heilemann, then by Fujimoto Shashinki Seisakusho and distributed by Fukada Shōkai from 1937 to 1939."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Binocular胶片相机，1979 年发布",
-  "description": "A combination of binocular and camera for 110 film by Sedic.",
+  "description": "Binocular于1979年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tele-Spot 110"
+    "Camera-wiki": "Tele-Spot 110",
+    "英文简介": "A combination of binocular and camera for 110 film by Sedic."
   },
   "images": [],
   "sources": [

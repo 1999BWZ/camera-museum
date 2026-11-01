@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Detrola胶片相机，1940 年发布",
-  "description": "The Model K was a higher-spec model in Detrola's lineup of bakelite cameras for 3&times;4 cm images on 127 film.",
+  "description": "Detrola于1940年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Detrola Model K"
+    "Camera-wiki": "Detrola Model K",
+    "英文简介": "The Model K was a higher-spec model in Detrola's lineup of bakelite cameras for 3&times;4 cm images on 127 film."
   },
   "images": [],
   "sources": [

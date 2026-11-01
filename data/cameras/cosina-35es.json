@@ -13,10 +13,24 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina旁轴相机，1978 年发布",
-  "description": "Introduced in 1978 by Vivitar, the Vivitar 35ES is a compact fixed-lens 35mm shutter-priority rangefinder camera built to Vivitar specifications and rebadged by Cosina.",
+  "description": "Cosina于1978年推出的旁轴相机。配备40mm/1.7, 6 elements in 4 groups.。快门速度1/8 sec -1/500 sec., B.。使用Manual, lever operated, single-stroke.。感光度ISO 25-800.。Superimposed rectangle, rangefinder-type.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 35ES"
+    "Camera-wiki": "Vivitar 35ES",
+    "镜头": "40mm/1.7, 6 elements in 4 groups.",
+    "快门": "Inter-lens, leaf-type.",
+    "快门速度": "1/8 sec -1/500 sec., B.",
+    "曝光测光": "CdS cell located above front lens element.",
+    "感光度": "ISO 25-800.",
+    "闪光灯": "Built-in X-synchronization at all speeds, manual flash compensation feature.",
+    "对焦": "Superimposed rectangle, rangefinder-type.",
+    "胶片/画幅": "Manual, lever operated, single-stroke.",
+    "自拍": "Mechanical, 10-sec. delay.",
+    "卡口": "screw-on, 49 mm.",
+    "电池": "Single 1.35v mercury cell, Mallory PX 675 or equivalent.",
+    "尺寸": "114 mm x 60 mm x 74 mm.",
+    "重量": "465 g.",
+    "英文简介": "Introduced in 1978 by Vivitar, the Vivitar 35ES is a compact fixed-lens 35mm shutter-priority rangefinder camera built to Vivitar specifications and rebadged by Cosina."
   },
   "images": [],
   "sources": [

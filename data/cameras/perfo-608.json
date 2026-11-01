@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Perfo胶片单反相机，1955 年发布",
-  "description": "The Perfo 608 (The maker's notes cited below refer to it as Performance 608) is a rangefinder camera for multiple formats.",
+  "description": "Perfo于1955年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Perfo 608"
+    "Camera-wiki": "Perfo 608",
+    "英文简介": "The Perfo 608 (The maker's notes cited below refer to it as Performance 608) is a rangefinder camera for multiple formats."
   },
   "images": [],
   "sources": [

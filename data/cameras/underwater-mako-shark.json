@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Underwater胶片相机，1957 年发布",
-  "description": "The Mako Shark is a basic underwater camera designed in the 1950s by Jordan Klein[https://patents.google.com/patent/US2865271A/en US Patent 2,865,271] via [https://patents.google.com/ Google Patents] and later marketed by fitness- and dive-equipment supplier Healthways.",
+  "description": "Underwater于1957年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mako Shark"
+    "Camera-wiki": "Mako Shark",
+    "英文简介": "The Mako Shark is a basic underwater camera designed in the 1950s by Jordan Klein[https://patents.google.com/patent/US2865271A/en US Patent 2,865,271] via [https://patents.google.com/ Google Patents] and later marketed by fitness- and dive-equipment supplier Healthways."
   },
   "images": [],
   "sources": [

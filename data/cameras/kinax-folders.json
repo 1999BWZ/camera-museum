@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kinax折叠相机，1951 年发布",
-  "description": "The French Kinax folders are a family of 6x9 folding cameras.",
+  "description": "Kinax于1951年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kinax folders"
+    "Camera-wiki": "Kinax folders",
+    "英文简介": "The French Kinax folders are a family of 6x9 folding cameras."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2000 年发布",
-  "description": "The FinePix 1300 is a point and shoot digital camera in the FinePix line released by Fujifilm in 2000.",
+  "description": "富士于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix 1300"
+    "Camera-wiki": "Fujifilm FinePix 1300",
+    "英文简介": "The FinePix 1300 is a point and shoot digital camera in the FinePix line released by Fujifilm in 2000."
   },
   "images": [],
   "sources": [

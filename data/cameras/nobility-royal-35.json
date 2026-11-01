@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nobility旁轴相机，1955 年发布",
-  "description": "See also the earlier unrelated Royal 35, version of the Picny 35.",
+  "description": "Nobility于1955年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Royal 35"
+    "Camera-wiki": "Royal 35",
+    "英文简介": "See also the earlier unrelated Royal 35, version of the Picny 35."
   },
   "images": [],
   "sources": [

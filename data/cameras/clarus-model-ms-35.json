@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Clarus旁轴相机，1946 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Clarus Model MS-35 is an American rangefinder camera for 35mm film.",
+  "description": "Clarus于1946年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Clarus Model MS-35"
+    "Camera-wiki": "Clarus Model MS-35",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Clarus Model MS-35 is an American rangefinder camera for 35mm film."
   },
   "images": [],
   "sources": [

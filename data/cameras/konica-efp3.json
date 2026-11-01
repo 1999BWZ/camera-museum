@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1987 年发布",
-  "description": "The EFP3 is a simple, knockabout fixed focus camera from Konica for 35mm film.",
+  "description": "柯尼卡于1987年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica EFP3"
+    "Camera-wiki": "Konica EFP3",
+    "英文简介": "The EFP3 is a simple, knockabout fixed focus camera from Konica for 35mm film."
   },
   "images": [],
   "sources": [

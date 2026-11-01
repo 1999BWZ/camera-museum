@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Press cameras旁轴相机，1948 年发布",
-  "description": "The Kalart Press Camera was made from 1948 to 1953 Page 454.",
+  "description": "Press cameras于1948年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kalart Press Camera"
+    "Camera-wiki": "Kalart Press Camera",
+    "英文简介": "The Kalart Press Camera was made from 1948 to 1953 Page 454."
   },
   "images": [],
   "sources": [

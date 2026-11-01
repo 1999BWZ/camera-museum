@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1981 年发布",
-  "description": "The XR 6 is an SLR for 35mm film introduced by Ricoh in 1981.",
+  "description": "理光于1981年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh XR6"
+    "Camera-wiki": "Ricoh XR6",
+    "重量": "460g",
+    "英文简介": "The XR 6 is an SLR for 35mm film introduced by Ricoh in 1981."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，2000 年发布",
-  "description": "{|style=\"float:right\"\n|colspan=\"2\"|\n\n|-\n|\n|\n|}\nReleased in 2000, Prima Super 90 Wide (or Sure Shot Z90W) fits well into the higher segment of Canon's compact autofocus cameras.",
+  "description": "佳能于2000年推出的便携相机。配备28–90 mm ƒ/4,5–9,9 (7 elements/6 groups) with two aspheric elements.。快门速度Programmed, 2–1/640 s.。使用Automatic loading, advance and rewind.。感光度Set in whole stops ISO 25–3200 using DX coded films. Non-DX films default at ISO 25.。Hybrid autofocus, 0,6 m to infinity (0,45 m in macro mode).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot Z90W/Prima Super 90 Wide/Autoboy EPO"
+    "Camera-wiki": "Canon Sure Shot Z90W/Prima Super 90 Wide/Autoboy EPO",
+    "镜头": "28–90 mm ƒ/4,5–9,9 (7 elements/6 groups) with two aspheric elements.",
+    "对焦": "Hybrid autofocus, 0,6 m to infinity (0,45 m in macro mode).",
+    "快门": "Programmed, 2–1/640 s.",
+    "曝光测光": "Programmed exposure from 2 s, ƒ/4,5 to 1/640 s, ƒ/14,2 (wide); 2 s, ƒ/9,9 to 1/350 s, ƒ30 (tele). Exposure compensation +/- 1,5 EV.",
+    "感光度": "Set in whole stops ISO 25–3200 using DX coded films. Non-DX films default at ISO 25.",
+    "胶片/画幅": "Automatic loading, advance and rewind.",
+    "闪光灯": "Built-in pop-up flash max range at ISO 100 3,7 m (wide) to 7,4 m (tele). Auto/forced/off/slow sync modes with red-eye reduction lamp.",
+    "尺寸": "117 x 64 x 43 mm.",
+    "重量": "245 g with batteries.",
+    "英文简介": "{|style=\"float:right\"\n|colspan=\"2\"|\n\n|-\n|\n|\n|}\nReleased in 2000, Prima Super 90 Wide (or Sure Shot Z90W) fits well into the higher segment of Canon's compact autofocus cameras."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1984 年发布",
-  "description": "The pop-10 is a 35mm compact camera introduced by Konica as a fairly basic point and shoot.",
+  "description": "柯尼卡于1984年推出的取景器相机。感光度100, 200, 400.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica pop-10"
+    "Camera-wiki": "Konica pop-10",
+    "感光度": "100, 200, 400.",
+    "英文简介": "The pop-10 is a 35mm compact camera introduced by Konica as a fairly basic point and shoot."
   },
   "images": [],
   "sources": [

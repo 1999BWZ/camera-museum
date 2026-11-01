@@ -1,0 +1,32 @@
+{
+  "id": "casio-exilim-ex-h20g",
+  "brand": "Casio",
+  "brand_cn": "卡西欧",
+  "brand_slug": "casio",
+  "country": "日本",
+  "manufacturer": "卡西欧",
+  "model": "Exilim EX-H20G",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "卡西欧便携相机，2010 年发布",
+  "description": "卡西欧于2010年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889054",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Casio Exilim EX-H20G",
+      "url": "https://www.wikidata.org/wiki/Q20889054"
+    }
+  ],
+  "qid": "Q20889054",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

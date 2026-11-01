@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片相机，1979 年发布",
-  "description": "The Sure Shot (US)/AF35M (Europe)/Autoboy (Japan) was an early example (1979) of an active autofocus camera.",
+  "description": "佳能于1979年推出的胶片相机。配备38mm, f/2.8 (4 elements in 3 groups)。快门速度Electronically-controlled programmed shutter and aperture. EV 6 (f/2.8 at 1/8 sec.) - 17 (f/16 at 1/500 sec.)。感光度25-400 ISO。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot/AF35M/Autoboy"
+    "Camera-wiki": "Canon Sure Shot/AF35M/Autoboy",
+    "镜头": "38mm, f/2.8 (4 elements in 3 groups)",
+    "快门": "Electronically-controlled programmed shutter and aperture. EV 6 (f/2.8 at 1/8 sec.) - 17 (f/16 at 1/500 sec.)",
+    "取景器": "Reversed Galilean viewfinder with frame lines.",
+    "感光度": "25-400 ISO",
+    "闪光灯": "Guide number 14m at ISO 100.",
+    "英文简介": "The Sure Shot (US)/AF35M (Europe)/Autoboy (Japan) was an early example (1979) of an active autofocus camera."
   },
   "images": [],
   "sources": [

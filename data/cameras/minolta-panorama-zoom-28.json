@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达全景相机，1993 年发布",
-  "description": "The Panorama Zoom 28 by Minolta is a well made and well equipped full automatic compact camera for 35mm film.",
+  "description": "美能达于1993年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Panorama Zoom 28"
+    "Camera-wiki": "Minolta Panorama Zoom 28",
+    "英文简介": "The Panorama Zoom 28 by Minolta is a well made and well equipped full automatic compact camera for 35mm film."
   },
   "images": [],
   "sources": [

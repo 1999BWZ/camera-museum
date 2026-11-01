@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Porst胶片相机，1970 年发布",
-  "description": "This Porst 126S camera takes 126 cartridge film.",
+  "description": "Porst于1970年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Porst 126S"
+    "Camera-wiki": "Porst 126S",
+    "英文简介": "This Porst 126S camera takes 126 cartridge film."
   },
   "images": [],
   "sources": [

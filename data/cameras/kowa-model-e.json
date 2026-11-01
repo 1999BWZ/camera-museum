@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa胶片单反相机，1961 年发布",
-  "description": "The Kowa E (which appears to have been branded as the Kowaflex E in the USA) was the base model for subsequent Kowa 35mm SLR cameras.",
+  "description": "Kowa于1961年推出的胶片单反相机。快门速度Seikosha SLV leaf shutter with a range of 1 sec to 1/500th plus B.。使用180° lever.。感光度10 to 1600 ASA.。Pentaprism with condenser, Fresnel lens, and split image rangefinder.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kowa Model E"
+    "Camera-wiki": "Kowa Model E",
+    "对焦": "Pentaprism with condenser, Fresnel lens, and split image rangefinder.",
+    "快门": "Seikosha SLV leaf shutter with a range of 1 sec to 1/500th plus B.",
+    "曝光测光": "Fully manual with viewfinder match needle.",
+    "感光度": "10 to 1600 ASA.",
+    "闪光灯": "M and X contact, and an accessory shoe mounting port on the right side of (i.e. not on top of) the top plate (facing). This was an L shaped bracket, that positioned a cold shoe above the rewind crank.",
+    "胶片/画幅": "180° lever.",
+    "尺寸": "143 x 97 x 87mm (W x H x D).",
+    "重量": "875g.",
+    "英文简介": "The Kowa E (which appears to have been branded as the Kowaflex E in the USA) was the base model for subsequent Kowa 35mm SLR cameras."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford折叠相机，1951 年发布",
-  "description": "The Ilford Prentice is a folding camera made in the UK by Kershaw-Soho for Ilford in about 1951.",
+  "description": "Ilford于1951年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Prentice"
+    "Camera-wiki": "Ilford Prentice",
+    "英文简介": "The Ilford Prentice is a folding camera made in the UK by Kershaw-Soho for Ilford in about 1951."
   },
   "images": [],
   "sources": [

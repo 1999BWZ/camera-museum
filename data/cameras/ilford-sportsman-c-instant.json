@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ilford胶片相机，1967 年发布",
-  "description": "The Ilford Sportsman C Instant was a viewfinder camera for type No.",
+  "description": "Ilford于1967年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ilford Sportsman C Instant"
+    "Camera-wiki": "Ilford Sportsman C Instant",
+    "英文简介": "The Ilford Sportsman C Instant was a viewfinder camera for type No."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2010 年发布",
-  "description": "尼康于2010年发布的数码单反相机。",
+  "description": "尼康于2010年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Electronically-controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1040045",
-    "多语言词条数": "23"
+    "多语言词条数": "23",
+    "传感器": "23.6 mm × 15.6 mm Nikon DX format RGB CMOS sensor, 1.5 × FOV crop, 4.78 μm pixel size",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically-controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL 3D Color Matrix Metering II metering with a 2,016 pixel RGB sensor",
+    "对焦": "Manual, Auto, Focus-lock, Electronic rangefinder, Live preview and video modes: Subject-tracking, Face-priority, Wide-area, Normal-Area",
+    "取景器": "Optical 0.94× Pentaprism, 100% coverage",
+    "闪光灯": "Built in Pop-up, Guide number 13m at ISO 100, Standard ISO hotshoe, Compatible with the Nikon Creative Lighting System, featuring commander mode for wireless setups",
+    "屏幕": "3.0-inch 921,000 pixel (VGA x 3 colors) TFT-LCD",
+    "重量": "Approx. without battery, with battery"
   },
   "images": [
     {

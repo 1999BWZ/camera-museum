@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2003 年发布",
-  "description": "The Fujifilm FinePix S7000 is a compact, bridge The term Bridge camera means that it fills the gap between the SLRs and the Point-and-shoot cameras.",
+  "description": "富士于2003年推出的数码相机。快门速度electronic focal-plane, speeds: Auto 1/4 - 1/1000, manual 15-1/10.000。使用Still image: DCF-compliant。感光度Auto 160-800 ISO; Manual: 200, 400, 800 ISO。有效像素effective 6.63 megapixel, recorded 12.3 megapixel。TTL contrast type, Auto and manual using is possible。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix S7000"
+    "Camera-wiki": "Fujifilm FinePix S7000",
+    "光圈": "f/2.8-f/8, ten steps with 1/3 EV increments, Auto and manual using is possible",
+    "对焦": "TTL contrast type, Auto and manual using is possible",
+    "快门": "electronic focal-plane, speeds: Auto 1/4 - 1/1000, manual 15-1/10.000",
+    "取景器": "0.44 inch electronic viewfinder, and 1.8 inch LCD monitor",
+    "胶片/画幅": "Still image: DCF-compliant",
+    "像素": "effective 6.63 megapixel, recorded 12.3 megapixel",
+    "曝光测光": "Manual, Aperture priority, Shutter priority, Program, Auto, Scene mode (portrait, landscape, sports, night scene), Movie",
+    "感光度": "Auto 160-800 ISO; Manual: 200, 400, 800 ISO",
+    "闪光灯": "pop-up autoflash, w/ flash control sensor, with many modes",
+    "自拍": "2 sec-10sec",
+    "英文简介": "The Fujifilm FinePix S7000 is a compact, bridge The term Bridge camera means that it fills the gap between the SLRs and the Point-and-shoot cameras."
   },
   "images": [],
   "sources": [

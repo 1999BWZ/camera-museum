@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1963 年发布",
-  "description": "The Vito Automatic I was first produced in the early 1960's by Voigtländer.",
+  "description": "Voigtländer于1963年推出的取景器相机。配备Lanthar f/2.8 50mm or Color-Lanthar f/2.8 50mm。快门速度Prontor Lux 1/30 - 1/500 Bulb or Prontormatic 125 1/30, 1/60, 1/125, B, X-synchronized。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito Automatic I"
+    "Camera-wiki": "Vito Automatic I",
+    "胶片/画幅": "35mm",
+    "镜头": "Lanthar f/2.8 50mm or Color-Lanthar f/2.8 50mm",
+    "快门": "Prontor Lux 1/30 - 1/500 Bulb or Prontormatic 125 1/30, 1/60, 1/125, B, X-synchronized",
+    "英文简介": "The Vito Automatic I was first produced in the early 1960's by Voigtländer."
   },
   "images": [],
   "sources": [

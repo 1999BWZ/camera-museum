@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片相机，1979 年发布",
-  "description": "The Vivitar 700 is one of many cameras for the successful 110 film format.",
+  "description": "Vivitar于1979年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 700"
+    "Camera-wiki": "Vivitar 700",
+    "英文简介": "The Vivitar 700 is one of many cameras for the successful 110 film format."
   },
   "images": [],
   "sources": [

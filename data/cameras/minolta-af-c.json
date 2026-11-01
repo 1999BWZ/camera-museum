@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1982 年发布",
-  "description": "The AF-C is a very nice and very good little camera.",
+  "description": "美能达于1982年推出的胶片相机。配备35 mm f/2,8 (6 elements/6 groups)。快门速度Seikosha ESF between-the-lens shutter, 1/8–1/430 s, X-sync at 1/40 s. Electronic self-timer.。使用Thumb wheel advance, rewind crank.。感光度Manually set in 1/3 stops, 100–400 ISO on early copies, 100–1000 on later ones.。Active infrared autofocus, 0,9 m to infinity. Half-press to lock focus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta AF-C"
+    "Camera-wiki": "Minolta AF-C",
+    "镜头": "35 mm f/2,8 (6 elements/6 groups)",
+    "快门": "Seikosha ESF between-the-lens shutter, 1/8–1/430 s, X-sync at 1/40 s. Electronic self-timer.",
+    "对焦": "Active infrared autofocus, 0,9 m to infinity. Half-press to lock focus.",
+    "曝光测光": "Programmed exposure from EV 6 (1/8 s, f/2,8) to EV 17 (1/430 s, f/17).",
+    "感光度": "Manually set in 1/3 stops, 100–400 ISO on early copies, 100–1000 on later ones.",
+    "胶片/画幅": "Thumb wheel advance, rewind crank.",
+    "闪光灯": "Dedicated clip-on flash, flashmatic exposure control.",
+    "尺寸": "105 x 67,5 x 42 mm.",
+    "重量": "215 g without batteries.",
+    "英文简介": "The AF-C is a very nice and very good little camera."
   },
   "images": [],
   "sources": [

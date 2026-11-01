@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1965 年发布",
-  "description": "The Ricoh Super Shot is a rangefinder camera with fixed lens made in Japan by Ricoh from 1965.",
+  "description": "理光于1965年推出的旁轴相机。配备Ricoh Rikenon 43mm 1:1.7 (6 element in 4 groups) – Made by Tomioka.。快门速度Seiko ES600 - 1/15-1/500 with self timer。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Super Shot"
+    "Camera-wiki": "Ricoh Super Shot",
+    "镜头": "Ricoh Rikenon 43mm 1:1.7 (6 element in 4 groups) – Made by Tomioka.",
+    "快门": "Seiko ES600 - 1/15-1/500 with self timer",
+    "曝光测光": "Program AE EV5.6 - 17",
+    "尺寸": "131mm x 68mm x 87mm",
+    "重量": "800g",
+    "英文简介": "The Ricoh Super Shot is a rangefinder camera with fixed lens made in Japan by Ricoh from 1965."
   },
   "images": [],
   "sources": [

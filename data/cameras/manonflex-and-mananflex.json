@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Manonflex胶片相机，1955 年发布",
-  "description": "The Mananflex (マナンフレックス) is a Japanese 6×6 TLR.",
+  "description": "Manonflex于1955年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Manonflex and Mananflex"
+    "Camera-wiki": "Manonflex and Mananflex",
+    "英文简介": "The Mananflex (マナンフレックス) is a Japanese 6×6 TLR."
   },
   "images": [],
   "sources": [

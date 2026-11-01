@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ旁轴相机，1960 年发布",
-  "description": "The Iskra is a folding coupled-rangefinder camera for square-format pictures on 120 film, made by Krasnogorsky Mekhanichesky Zavod KMZ ('Mechanical Factory of Krasnogorsk'), USSR.",
+  "description": "KMZ于1960年推出的旁轴相机。配备Industar-58。快门速度FXCh-18 central leaf shutter, speed: 1-1/500 +B, very quiet, possible to set separately.。使用roll 120 film, picture size 6x6cm。Yellow rangefinder images must be matched in the viewfinder for exact focus, via focusing ring w/ grooved silver handle, behind the lens-shutter barrel。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Iskra"
+    "Camera-wiki": "Iskra",
+    "镜头": "Industar-58",
+    "胶片/画幅": "roll 120 film, picture size 6x6cm",
+    "对焦": "Yellow rangefinder images must be matched in the viewfinder for exact focus, via focusing ring w/ grooved silver handle, behind the lens-shutter barrel",
+    "快门": "FXCh-18 central leaf shutter, speed: 1-1/500 +B, very quiet, possible to set separately.",
+    "取景器": "Coupled rangefinder/viewfinder",
+    "英文简介": "The Iskra is a folding coupled-rangefinder camera for square-format pictures on 120 film, made by Krasnogorsky Mekhanichesky Zavod KMZ ('Mechanical Factory of Krasnogorsk'), USSR."
   },
   "images": [],
   "sources": [

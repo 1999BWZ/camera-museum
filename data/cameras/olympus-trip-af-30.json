@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1996 年发布",
-  "description": "The Trip AF 30 is a compact autofocus 35mm camera introduced by Olympus in 1996.",
+  "description": "奥林巴斯于1996年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip AF 30"
+    "Camera-wiki": "Olympus Trip AF 30",
+    "英文简介": "The Trip AF 30 is a compact autofocus 35mm camera introduced by Olympus in 1996."
   },
   "images": [],
   "sources": [

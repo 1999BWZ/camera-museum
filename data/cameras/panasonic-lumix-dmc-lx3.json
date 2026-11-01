@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2008 年发布",
-  "description": "The Panasonic Lumix DMC-LX3 is a compact digital camera released by Panasonic in 2008.",
+  "description": "松下于2008年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-LX3"
+    "Camera-wiki": "Panasonic Lumix DMC-LX3",
+    "英文简介": "The Panasonic Lumix DMC-LX3 is a compact digital camera released by Panasonic in 2008."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary折叠相机，1915 年发布",
-  "description": "The Eagle are Japanese folding bed cameras taking film plates, distributed by Asanuma Shōkai around 1915.",
+  "description": "Bestiary于1915年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Eagle plate folders"
+    "Camera-wiki": "Eagle plate folders",
+    "英文简介": "The Eagle are Japanese folding bed cameras taking film plates, distributed by Asanuma Shōkai around 1915."
   },
   "images": [],
   "sources": [

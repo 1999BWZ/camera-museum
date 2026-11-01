@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dan取景器相机，1949 年发布",
-  "description": "The Dan 35 III (ダン35Ⅲ型) is a Japanese camera taking 24×32mm exposures, Exposure size: , p.595; , item 4198.",
+  "description": "Dan于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dan 35 III"
+    "Camera-wiki": "Dan 35 III",
+    "英文简介": "The Dan 35 III (ダン35Ⅲ型) is a Japanese camera taking 24×32mm exposures, Exposure size: , p.595; , item 4198."
   },
   "images": [],
   "sources": [

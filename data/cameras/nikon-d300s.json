@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，2009 年发布",
-  "description": "尼康于2009年发布的数码单反相机。",
+  "description": "尼康于2009年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度30 s to 1/8000 s in 1/2 or 1/3 stops and Bulb, 1/250 s X-sync, 1/320 s X-sync with Nikon SB-600/800/900.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q2553318",
-    "多语言词条数": "13"
+    "多语言词条数": "13",
+    "传感器": "23.6 mm × 15.8 mm Nikon DX format RGB CMOS sensor, 1.5 × FOV crop, 5.50µm pixel size",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "视频": "| shutter = Electronically-controlled vertical-travel focal-plane shutter",
+    "快门速度": "30 s to 1/8000 s in 1/2 or 1/3 stops and Bulb, 1/250 s X-sync, 1/320 s X-sync with Nikon SB-600/800/900.",
+    "曝光测光": "TTL 3D Color Matrix Metering II metering with a 1005-pixel RGB sensor",
+    "取景器": "Optical 0.94x, 100% Pentaprism",
+    "闪光灯": "Built in Pop-up, Guide number 13m at ISO 100, Standard ISO hotshoe, Compatible with the Nikon Creative Lighting System",
+    "屏幕": "3.0-inch 920,000 pixel (VGA × 3 colors) TFT-LCD",
+    "存储": "CompactFlash (Type I) and Secure Digital, SDHC compatible",
+    "重量": "Approx. without battery, memory card or body cap"
   },
   "images": [
     {

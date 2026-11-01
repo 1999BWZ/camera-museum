@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片相机，1973 年发布",
-  "description": "The Pentax ElectroSpotmatic (ES) II was the most advanced camera of the Spotmatic family.",
+  "description": "宾得于1973年推出的胶片相机。配备50 mm f/1.4 or 55 mm f/1.8 SMC Takumar。使用Ratchet type rapid wind lever。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax ES II"
+    "Camera-wiki": "Pentax ES II",
+    "卡口": "42mm thread (Pentax-mount)",
+    "镜头": "50 mm f/1.4 or 55 mm f/1.8 SMC Takumar",
+    "取景器": "pentaprism and fresnel focusing screen with central microprism focusing aid, 93% coverage",
+    "曝光测光": "** CdS-activated TTL meter for open-diaphragm or stopped-down metering.",
+    "闪光灯": "Hot shoe (synchronised for X-synch. at 1/60 sec) and separate PC sockets beside lens mount for X- and FP-synch.",
+    "胶片/画幅": "Ratchet type rapid wind lever",
+    "重量": "678 g (without lens); 930 g with 50 mm f/1.4",
+    "英文简介": "The Pentax ElectroSpotmatic (ES) II was the most advanced camera of the Spotmatic family."
   },
   "images": [],
   "sources": [

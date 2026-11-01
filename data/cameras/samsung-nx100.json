@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星无反相机，2010 年发布",
-  "description": "三星于2010年发布的无反相机。",
+  "description": "三星于2010年推出的无反相机。配备Interchangeable (Samsung NX-mount)。快门速度Electronically controlled vertical-run focal plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q313851",
-    "多语言词条数": "7"
+    "多语言词条数": "7",
+    "传感器": "23.4 mm × 15.6 mm; CMOS, APS-C Format (14.6 effective megapixels)C_f=1,54",
+    "镜头": "Interchangeable (Samsung NX-mount)",
+    "快门速度": "Electronically controlled vertical-run focal plane shutter",
+    "曝光测光": "247-zone multi-pattern sensing system",
+    "取景器": "live preview, optional electronic viewfinder (EVF10)",
+    "屏幕": "3.0 in, 614,000 dots Active Matrix OLED",
+    "存储": "Secure Digital, SDHC",
+    "重量": "282 g (body only, no battery or card)"
   },
   "images": [
     {

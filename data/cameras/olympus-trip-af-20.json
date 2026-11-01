@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1995 年发布",
-  "description": "The Trip AF 20 is a compact autofocus 35mm film camera from Olympus.",
+  "description": "奥林巴斯于1995年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip AF 20"
+    "Camera-wiki": "Olympus Trip AF 20",
+    "英文简介": "The Trip AF 20 is a compact autofocus 35mm film camera from Olympus."
   },
   "images": [],
   "sources": [

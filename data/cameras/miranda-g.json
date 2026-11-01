@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda数码单反相机，1965 年发布",
-  "description": "The Miranda G is a 35mm SLR camera introduced in 1965.",
+  "description": "Miranda于1965年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda G"
+    "Camera-wiki": "Miranda G",
+    "英文简介": "The Miranda G is a 35mm SLR camera introduced in 1965."
   },
   "images": [],
   "sources": [

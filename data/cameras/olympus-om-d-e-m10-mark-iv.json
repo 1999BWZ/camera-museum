@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯无反相机，2020 年发布",
-  "description": "奥林巴斯于2020年发布的无反相机。",
+  "description": "奥林巴斯于2020年推出的无反相机。配备Interchangeable, Micro Four Thirds mount。快门速度| shutter =。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q98415129",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "电池": "| storage =",
+    "屏幕": "3.0\" 180º tilting touch-screen monitor",
+    "闪光灯": "built-in flash, hot-shoe on the body",
+    "取景器": "| cont =",
+    "快门速度": "| shutter =",
+    "镜头": "Interchangeable, Micro Four Thirds mount",
+    "传感器": "20.3 Megapixel",
+    "重量": "335g (body only)"
   },
   "images": [
     {

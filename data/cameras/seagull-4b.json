@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Seagull胶片相机，1965 年发布",
-  "description": "The Seagull 4B cameras are a series of TLRs made by Seagull.",
+  "description": "Seagull于1965年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Seagull 4B"
+    "Camera-wiki": "Seagull 4B",
+    "英文简介": "The Seagull 4B cameras are a series of TLRs made by Seagull."
   },
   "images": [],
   "sources": [

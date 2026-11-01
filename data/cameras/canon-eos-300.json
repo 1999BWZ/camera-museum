@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1999 年发布",
-  "description": "The Canon EOS 300 was introduced in 1999.",
+  "description": "佳能于1999年推出的胶片单反相机。快门速度1/2000 to 30s with bulb.。使用Auto with prewind, Auto end of roll rewind, mid roll rewind.。感光度6 to 6400 ISO Auto DX or manual。autofocus, 7 points w/ AF assist and manual option.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 300"
+    "Camera-wiki": "Canon EOS 300",
+    "尺寸": "24 x 35mm",
+    "卡口": "Canon EF",
+    "对焦": "autofocus, 7 points w/ AF assist and manual option.",
+    "曝光测光": "Silicon photocell",
+    "感光度": "6 to 6400 ISO Auto DX or manual",
+    "快门速度": "1/2000 to 30s with bulb.",
+    "胶片/画幅": "Auto with prewind, Auto end of roll rewind, mid roll rewind.",
+    "闪光灯": "Built-in, GN 12, TTL, 3 zone. 1/90 sec. sync.",
+    "重量": "355 g. (11.8 oz.) body only.",
+    "英文简介": "The Canon EOS 300 was introduced in 1999."
   },
   "images": [],
   "sources": [

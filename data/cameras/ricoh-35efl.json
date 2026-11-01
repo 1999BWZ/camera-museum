@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1981 年发布",
-  "description": "Ricoh introduced the 35EFL in 1981 as a simple, inexpensive model for mass-market retailers.",
+  "description": "理光于1981年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 35EFL"
+    "Camera-wiki": "Ricoh 35EFL",
+    "英文简介": "Ricoh introduced the 35EFL in 1981 as a simple, inexpensive model for mass-market retailers."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Multiple lens胶片相机，1907 年发布",
-  "description": "The Royal Mail Stamp Camera is a camera made by W.",
+  "description": "Multiple lens于1907年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Royal Mail Stamp Camera"
+    "Camera-wiki": "Royal Mail Stamp Camera",
+    "英文简介": "The Royal Mail Stamp Camera is a camera made by W."
   },
   "images": [],
   "sources": [

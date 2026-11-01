@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲旁轴相机，1955 年发布",
-  "description": "The Graflex Graphic 35 is a 35mm rangefinder camera made by Graflex in the U.S, and used West German Rodenstock lensesAccording to the Graflex Journal - issue 3 of 2016 - some lenses may have been by Enna Werk.",
+  "description": "格拉菲于1955年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Graflex Graphic 35"
+    "Camera-wiki": "Graflex Graphic 35",
+    "英文简介": "The Graflex Graphic 35 is a 35mm rangefinder camera made by Graflex in the U.S, and used West German Rodenstock lensesAccording to the Graflex Journal - issue 3 of 2016 - some lenses may have been by Enna Werk."
   },
   "images": [],
   "sources": [

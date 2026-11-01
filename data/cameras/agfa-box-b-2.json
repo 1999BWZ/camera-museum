@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发盒式相机，1937 年发布",
-  "description": "Agfa Box B-2 is a medium format box camera and manufactured by Agfa Kamerawerk AG, Munich, Germany between 1937-38.",
+  "description": "爱克发于1937年推出的盒式相机。配备Single element meniscus type, locates behind the shutter leaf; Aperture: f/11, Fixed focus。快门速度simple spring, w/ metallic sliding aperture disc, about 1/60, +B, installed on the front cover of the camera and therefore is located in front of the lens。使用120 roll (Agfa's size B-2 at that time), picture size 6x9, takes 8 frames。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Box B-2"
+    "Camera-wiki": "Agfa Box B-2",
+    "胶片/画幅": "120 roll (Agfa's size B-2 at that time), picture size 6x9, takes 8 frames",
+    "镜头": "Single element meniscus type, locates behind the shutter leaf; Aperture: f/11, Fixed focus",
+    "快门": "simple spring, w/ metallic sliding aperture disc, about 1/60, +B, installed on the front cover of the camera and therefore is located in front of the lens",
+    "取景器": "two brilliant finders, on the top and right sides of the camera, for portrait and landscape views",
+    "英文简介": "Agfa Box B-2 is a medium format box camera and manufactured by Agfa Kamerawerk AG, Munich, Germany between 1937-38."
   },
   "images": [],
   "sources": [

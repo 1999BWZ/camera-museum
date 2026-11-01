@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片相机，1997 年发布",
-  "description": "The Fuji Fotonex 10 is a compact APS film format camera introduced in 1997.",
+  "description": "富士于1997年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Fotonex 10"
+    "Camera-wiki": "Fujifilm Fotonex 10",
+    "英文简介": "The Fuji Fotonex 10 is a compact APS film format camera introduced in 1997."
   },
   "images": [],
   "sources": [

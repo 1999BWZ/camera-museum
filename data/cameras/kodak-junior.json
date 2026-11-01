@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1954 年发布",
-  "description": "The Kodak Junior I and II are 620 film folding cameras made by Kodak Ltd.",
+  "description": "柯达于1954年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Junior"
+    "Camera-wiki": "Kodak Junior",
+    "英文简介": "The Kodak Junior I and II are 620 film folding cameras made by Kodak Ltd."
   },
   "images": [],
   "sources": [

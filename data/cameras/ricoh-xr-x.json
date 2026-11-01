@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1987 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe XR-X (or in some markets, XR-M) is an SLR for 35mm film introduced by Ricoh in 1987.",
+  "description": "理光于1987年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh XR-X"
+    "Camera-wiki": "Ricoh XR-X",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe XR-X (or in some markets, XR-M) is an SLR for 35mm film introduced by Ricoh in 1987."
   },
   "images": [],
   "sources": [

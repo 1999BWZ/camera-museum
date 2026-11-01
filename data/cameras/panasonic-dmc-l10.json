@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2007 年发布",
-  "description": "The DMC-L10 from Panasonic is a Four Thirds system digital SLR from 2007.",
+  "description": "松下于2007年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic DMC-L10"
+    "Camera-wiki": "Panasonic DMC-L10",
+    "英文简介": "The DMC-L10 from Panasonic is a Four Thirds system digital SLR from 2007."
   },
   "images": [],
   "sources": [

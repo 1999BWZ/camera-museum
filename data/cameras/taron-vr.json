@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron旁轴相机，1958 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe VR from Nippon Kosokki is the c.1959 revision of the Taron 35 III and is the base model for the Taron VL and Taron V18 derivatives.",
+  "description": "Taron于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron VR"
+    "Camera-wiki": "Taron VR",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe VR from Nippon Kosokki is the c.1959 revision of the Taron 35 III and is the base model for the Taron VL and Taron V18 derivatives."
   },
   "images": [],
   "sources": [

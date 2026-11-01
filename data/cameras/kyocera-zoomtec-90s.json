@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kyocera便携相机，1992 年发布",
-  "description": "The Kyocera Zoomtec 90s is a 35mm film autofocus compact camera manufactured by Kyocera.",
+  "description": "Kyocera于1992年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kyocera Zoomtec 90s"
+    "Camera-wiki": "Kyocera Zoomtec 90s",
+    "英文简介": "The Kyocera Zoomtec 90s is a 35mm film autofocus compact camera manufactured by Kyocera."
   },
   "images": [],
   "sources": [

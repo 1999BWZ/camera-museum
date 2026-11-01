@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Flash lamp胶片相机，1900 年发布",
-  "description": "The Ideal Flash Gun is a flashgun, which burns flammable powder, made ca.",
+  "description": "Flash lamp于1900年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ideal Flash Gun"
+    "Camera-wiki": "Ideal Flash Gun",
+    "英文简介": "The Ideal Flash Gun is a flashgun, which burns flammable powder, made ca."
   },
   "images": [],
   "sources": [

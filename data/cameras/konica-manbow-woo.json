@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1989 年发布",
-  "description": "The Konica Manbow Woo is a weatherproof compact camera released by the Japanese manufacturer Konica in 1989.",
+  "description": "柯尼卡于1989年推出的取景器相机。配备Konica Lens 34mm F4.5 (3 elements in 3 groups)。快门速度1/125 sec. (fixed speed)。感光度ISO 100/200/400 ({DX coding)。Focus free (fixed focus), 1.5 m - infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Manbow Woo"
+    "Camera-wiki": "Konica Manbow Woo",
+    "镜头": "Konica Lens 34mm F4.5 (3 elements in 3 groups)",
+    "曝光测光": "Fixed exposure; an aperture is selected according to the film speed.",
+    "对焦": "Focus free (fixed focus), 1.5 m - infinity",
+    "快门": "1/125 sec. (fixed speed)",
+    "感光度": "ISO 100/200/400 ({DX coding)",
+    "取景器": "Albada type blight frame finder",
+    "闪光灯": "G.N.14 m (ISO100), automatically activated, no flash-off facility",
+    "尺寸": "129.5mm X 70mm X 50.5mm",
+    "重量": "245g (without battery)",
+    "英文简介": "The Konica Manbow Woo is a weatherproof compact camera released by the Japanese manufacturer Konica in 1989."
   },
   "images": [],
   "sources": [

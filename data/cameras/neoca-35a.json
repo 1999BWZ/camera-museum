@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Neoca旁轴相机，1956 年发布",
-  "description": "This fixed-lens 35mm camera was introduced in about 1956, This is seemingly the model [https://books.google.com/books?id=c14zAQAAMAAJ&lpg=PA1&lr&rview=1&pg=PA105#v=onepage&q=%22new%20Neoca%22&f=false advertised as \"brand new\" by Ritz Camera Centers] for $27.95 in the April, 1956, Popular Photography",
+  "description": "Neoca于1956年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Neoca 35A"
+    "Camera-wiki": "Neoca 35A",
+    "英文简介": "This fixed-lens 35mm camera was introduced in about 1956, This is seemingly the model [https://books.google.com/books?id=c14zAQAAMAAJ&lpg=PA1&lr&rview=1&pg=PA105#v=onepage&q=%22new%20Neoca%22&f=false advertised as \"brand new\" by Ritz Camera Centers] for $27.95 in the April, 1956, Popular Photography (Vol."
   },
   "images": [],
   "sources": [

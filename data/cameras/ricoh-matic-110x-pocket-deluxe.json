@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1973 年发布",
-  "description": "The Ricohmatic 110 X Pocket Deluxe is a 110 film camera made in Japan by Ricoh from 1973.",
+  "description": "理光于1973年推出的胶片相机。配备Rikenon f 2.8 / 25mm - 4 elements in 3 groups。快门速度Speeds 1/30 - 1/250 sec。Zone focus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricohmatic 110X Pocket Deluxe"
+    "Camera-wiki": "Ricohmatic 110X Pocket Deluxe",
+    "镜头": "Rikenon f 2.8 / 25mm - 4 elements in 3 groups",
+    "快门": "Speeds 1/30 - 1/250 sec",
+    "对焦": "Zone focus",
+    "曝光测光": "CDS meter. Programmed exposure control",
+    "尺寸": "125,5mm x 27mm x 57mm",
+    "重量": "190 g",
+    "英文简介": "The Ricohmatic 110 X Pocket Deluxe is a 110 film camera made in Japan by Ricoh from 1973."
   },
   "images": [],
   "sources": [

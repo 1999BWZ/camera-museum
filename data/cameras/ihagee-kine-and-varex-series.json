@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee胶片单反相机，1954 年发布",
-  "description": "The Exakta camera was one of the pioneers in creating the SLR as we know it today.",
+  "description": "Ihagee于1954年推出的胶片单反相机。配备via a lever on the left of the lens flange。快门速度focal plane double cloth shutter, horizontally running。via Fresnel matte glass screen, rangefinder split images on the center。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exakta Kine and Varex Series"
+    "Camera-wiki": "Exakta Kine and Varex Series",
+    "镜头": "via a lever on the left of the lens flange",
+    "对焦": "via Fresnel matte glass screen, rangefinder split images on the center",
+    "快门": "focal plane double cloth shutter, horizontally running",
+    "英文简介": "The Exakta camera was one of the pioneers in creating the SLR as we know it today."
   },
   "images": [],
   "sources": [

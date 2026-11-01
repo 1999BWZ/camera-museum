@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康无反相机，2021 年发布",
-  "description": "尼康于2021年发布的无反相机。",
+  "description": "尼康于2021年推出的无反相机。配备Nikon Z-mount。快门速度30s – 1/4000s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q107564200",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "传感器": "CMOS sensor",
+    "镜头": "Nikon Z-mount",
+    "曝光测光": "TTL exposure metering",
+    "闪光灯": "Built-in: NoHot shoe",
+    "快门速度": "30s – 1/4000s",
+    "取景器": "XGA EVF (1280 × 960 pixels, 2360000 'dots')",
+    "屏幕": "3.2-inch variangle TFT LCD with touchscreen, 1.04 million dots",
+    "存储": "| oacc = MC-N10 remote grip",
+    "电池": "EN-EL25EN-EL25a",
+    "重量": "390 g (body only)445 g (includes battery)"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Favor取景器相机，1950 年发布",
-  "description": "The Favor I 35mm camera was made by the Dr.Wöhler factory in Saarland, Germany, from c.1950.",
+  "description": "Favor于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Favor I"
+    "Camera-wiki": "Favor I",
+    "英文简介": "The Favor I 35mm camera was made by the Dr.Wöhler factory in Saarland, Germany, from c.1950."
   },
   "images": [],
   "sources": [

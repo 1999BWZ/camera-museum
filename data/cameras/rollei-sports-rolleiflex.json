@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来双镜头反光相机，1938 年发布",
-  "description": "The Sports Rolleiflex is a version of the Baby Rolleiflex made by Rollei from 1938-41.",
+  "description": "禄来于1938年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sports Rolleiflex"
+    "Camera-wiki": "Sports Rolleiflex",
+    "英文简介": "The Sports Rolleiflex is a version of the Baby Rolleiflex made by Rollei from 1938-41."
   },
   "images": [],
   "sources": [

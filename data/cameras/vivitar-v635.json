@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码单反相机，1987 年发布",
-  "description": "This 1980s SLR offered by Vivitar is once again a model manufactured under contract by Cosina.",
+  "description": "Vivitar于1987年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar V635"
+    "Camera-wiki": "Vivitar V635",
+    "英文简介": "This 1980s SLR offered by Vivitar is once again a model manufactured under contract by Cosina."
   },
   "images": [],
   "sources": [

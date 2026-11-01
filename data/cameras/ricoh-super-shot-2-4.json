@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1966 年发布",
-  "description": "The Ricoh Super Shot 2.4 dates from 1966.",
+  "description": "理光于1966年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Super Shot 2.4"
+    "Camera-wiki": "Ricoh Super Shot 2.4",
+    "英文简介": "The Ricoh Super Shot 2.4 dates from 1966."
   },
   "images": [],
   "sources": [

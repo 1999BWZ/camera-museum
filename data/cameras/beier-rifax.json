@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Beier旁轴相机，1936 年发布",
-  "description": "Rifax is the name given to a series of self-erecting folders made by Beier in the 1930's.",
+  "description": "Beier于1936年推出的旁轴相机。使用12 images 6 x 6 cm or (with mask) 16 images 4.5x6 cm on 120 type rollfilm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rifax"
+    "Camera-wiki": "Rifax",
+    "胶片/画幅": "12 images 6 x 6 cm or (with mask) 16 images 4.5x6 cm on 120 type rollfilm",
+    "尺寸": "??x??x?? mm (when folded)",
+    "重量": "??? grams",
+    "英文简介": "Rifax is the name given to a series of self-erecting folders made by Beier in the 1930's."
   },
   "images": [],
   "sources": [

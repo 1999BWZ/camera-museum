@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2021 年发布",
-  "description": "__NOTOC__\nThe K-3 III is a DSLR which was introduced by the Pentax brand of Ricoh Imaging in 2021.",
+  "description": "宾得于2021年推出的数码相机。快门速度1/8,000 to 30s, Bulb (1/16,000 with electronic shutter)。感光度ISO AUTO/100 to 1,600,000 (EV steps can be set to 1EV, 1/2EV or 1/3EV)。Electronic display on viewfinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-3 III"
+    "Camera-wiki": "Pentax K-3 III",
+    "传感器": "26 Megapixel APS-C (23.7x15.7mm) CMOS sensor",
+    "卡口": "Pentax KAF2 (AF coupler, lens information contacts, K-mount with power contacts)",
+    "感光度": "ISO AUTO/100 to 1,600,000 (EV steps can be set to 1EV, 1/2EV or 1/3EV)",
+    "快门速度": "1/8,000 to 30s, Bulb (1/16,000 with electronic shutter)",
+    "重量": "735g (body only) 820g (with battery and SD card)",
+    "尺寸": "134.5 x103.5 x 73.5mm",
+    "对焦": "Electronic display on viewfinder",
+    "英文简介": "__NOTOC__\nThe K-3 III is a DSLR which was introduced by the Pentax brand of Ricoh Imaging in 2021."
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2006 年发布",
-  "description": "The Lumix DMC-FX50 is a compact digital camera from Japanese manufacture Panasonic and introduced in 2006.",
+  "description": "松下于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-FX50"
+    "Camera-wiki": "Panasonic Lumix DMC-FX50",
+    "英文简介": "The Lumix DMC-FX50 is a compact digital camera from Japanese manufacture Panasonic and introduced in 2006."
   },
   "images": [],
   "sources": [

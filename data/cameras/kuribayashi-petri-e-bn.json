@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1960 年发布",
-  "description": "__NOTOC__\n\nThe Petri E.Bn is a Japanese fixed-lens 35mm rangefinder introduced by Kuribayashi/Petri in 1960.",
+  "description": "Kuribayashi于1960年推出的旁轴相机。配备Petri Orikkor A.C. 45 mm f/1.9 (6-element) or 45mm f/2.8 (4-element)。快门速度Petri Carperu MXV; 10-speed (1 - 1/500 second) + 'B'。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri E.Bn"
+    "Camera-wiki": "Petri E.Bn",
+    "镜头": "Petri Orikkor A.C. 45 mm f/1.9 (6-element) or 45mm f/2.8 (4-element)",
+    "快门": "Petri Carperu MXV; 10-speed (1 - 1/500 second) + 'B'",
+    "英文简介": "__NOTOC__\n\nThe Petri E.Bn is a Japanese fixed-lens 35mm rangefinder introduced by Kuribayashi/Petri in 1960."
   },
   "images": [
     {

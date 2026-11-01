@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Porst胶片单反相机，1975 年发布",
-  "description": "The Porst Reflex C-TL (without suffix) is one of a series of SLRs made by Cosina for German retailer Porst and is based on the Hi-Lite HDL.",
+  "description": "Porst于1975年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Porst Reflex C-TL"
+    "Camera-wiki": "Porst Reflex C-TL",
+    "英文简介": "The Porst Reflex C-TL (without suffix) is one of a series of SLRs made by Cosina for German retailer Porst and is based on the Hi-Lite HDL."
   },
   "images": [],
   "sources": [

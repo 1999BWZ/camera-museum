@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1925 年发布",
-  "description": "The Ninon was originally made by Rietzschel, from about 1925 (i.e.",
+  "description": "爱克发于1925年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ninon"
+    "Camera-wiki": "Ninon",
+    "英文简介": "The Ninon was originally made by Rietzschel, from about 1925 (i.e."
   },
   "images": [],
   "sources": [

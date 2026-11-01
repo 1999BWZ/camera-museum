@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1967 年发布",
-  "description": "The Agfa Optima Rapid 125C is German made 35mm camera utilizing the Agfa Rapid 35mm film cartridges.",
+  "description": "爱克发于1967年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Optima Rapid 125C"
+    "Camera-wiki": "Agfa Optima Rapid 125C",
+    "英文简介": "The Agfa Optima Rapid 125C is German made 35mm camera utilizing the Agfa Rapid 35mm film cartridges."
   },
   "images": [],
   "sources": [

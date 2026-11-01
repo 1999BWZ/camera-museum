@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon盒式相机，1934 年发布",
-  "description": "The Baldur (854/16) is a Box camera made by Zeiss Ikon from 1934 onwards.",
+  "description": "Zeiss Ikon于1934年推出的盒式相机。配备size 4.5x6 cm models have a Goerz Frontar 11/9cm lens.size 6x9 cm models have a Goerz Frontar 11/11.5cm lens.。快门速度Zeiss Ikon \"Spezial\". T and I (1/25sec).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baldur"
+    "Camera-wiki": "Baldur",
+    "镜头": "size 4.5x6 cm models have a Goerz Frontar 11/9cm lens.size 6x9 cm models have a Goerz Frontar 11/11.5cm lens.",
+    "快门": "Zeiss Ikon \"Spezial\". T and I (1/25sec).",
+    "尺寸": "size 4.5x6 cm models 93 x 88 x 75 mm.size 6x9 cm models 115 x 105 x 74 mm.",
+    "重量": "size 4.5x6 cm models c.370 grams.size 6x9 cm models c.525 grams.",
+    "英文简介": "The Baldur (854/16) is a Box camera made by Zeiss Ikon from 1934 onwards."
   },
   "images": [],
   "sources": [

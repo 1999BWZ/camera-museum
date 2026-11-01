@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2004 年发布",
-  "description": "The FinePix 3500 or FinePix S3100 is in the FinePix line of digital cameras released by Fujifilm in 2004.",
+  "description": "富士于2004年推出的数码相机。配备2.8-3.0。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix S3500"
+    "Camera-wiki": "Fujifilm FinePix S3500",
+    "镜头": "2.8-3.0",
+    "英文简介": "The FinePix 3500 or FinePix S3100 is in the FinePix line of digital cameras released by Fujifilm in 2004."
   },
   "images": [],
   "sources": [

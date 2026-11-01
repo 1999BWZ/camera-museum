@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1989 年发布",
-  "description": "The Canon Snappy V (Prima Junior Hi in Europe) of November 1989 was a compact camera for budget-conscious photographers, and was part of the Canon Snappy series.",
+  "description": "佳能于1989年推出的取景器相机。快门速度1/45, 1/60, and 1/250s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Snappy V/Prima Junior Hi"
+    "Camera-wiki": "Canon Snappy V/Prima Junior Hi",
+    "快门速度": "1/45, 1/60, and 1/250s.",
+    "英文简介": "The Canon Snappy V (Prima Junior Hi in Europe) of November 1989 was a compact camera for budget-conscious photographers, and was part of the Canon Snappy series."
   },
   "images": [],
   "sources": [

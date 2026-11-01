@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达中画幅相机，1960 年发布",
-  "description": "{|\n|-\n|\n|\n\n|}\n\nThe Brownie Starmite was one of a very successful range of \"star\" cameras made by Kodak in the early 1960s.",
+  "description": "柯达于1960年推出的中画幅相机。配备Kodak Dakon f/11 (Starmite), Kodak Kodet f/11 (Starmite II)。快门速度Rotary 1/50th or Bulb.。使用type 127 roll film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie Starmite"
+    "Camera-wiki": "Kodak Brownie Starmite",
+    "胶片/画幅": "type 127 roll film",
+    "闪光灯": "Built-in Bulb Flash Socket accepts AG-1 style bulbs",
+    "镜头": "Kodak Dakon f/11 (Starmite), Kodak Kodet f/11 (Starmite II)",
+    "快门": "Rotary 1/50th or Bulb.",
+    "英文简介": "{|\n|-\n|\n|\n\n|}\n\nThe Brownie Starmite was one of a very successful range of \"star\" cameras made by Kodak in the early 1960s."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus旁轴相机，1951 年发布",
-  "description": "The Argus C4 is a 35mm fixed lens rangefinder camera manufactured by Argus Cameras, Inc.",
+  "description": "Argus于1951年推出的旁轴相机。配备Argus Cintar f/2.8 coated anastigmat, Series IV (20.6mm) filters。快门速度1/10, 1/25, 1/50, 1/100, 1/300, Bulb (early version only went to 1/200)。使用135 (35mm)。coincident image type coupled rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus C4"
+    "Camera-wiki": "Argus C4",
+    "胶片/画幅": "135 (35mm)",
+    "快门": "behind lens leaf type shutter",
+    "快门速度": "1/10, 1/25, 1/50, 1/100, 1/300, Bulb (early version only went to 1/200)",
+    "闪光灯": "Hot shoe; sync selector switch (early: M & F, later: M & X)",
+    "镜头": "Argus Cintar f/2.8 coated anastigmat, Series IV (20.6mm) filters",
+    "光圈": "10-blades, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22",
+    "取景器": "Eye-level",
+    "对焦": "coincident image type coupled rangefinder",
+    "电池": "none",
+    "重量": "n/a",
+    "英文简介": "The Argus C4 is a 35mm fixed lens rangefinder camera manufactured by Argus Cameras, Inc."
   },
   "images": [],
   "sources": [

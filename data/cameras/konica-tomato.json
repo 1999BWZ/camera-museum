@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1985 年发布",
-  "description": "The Konica Tomato is a fixed focus 35mm film camera from Japanese manufacturer Konica, basically a red Pop-10.",
+  "description": "柯尼卡于1985年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Tomato"
+    "Camera-wiki": "Konica Tomato",
+    "英文简介": "The Konica Tomato is a fixed focus 35mm film camera from Japanese manufacturer Konica, basically a red Pop-10."
   },
   "images": [],
   "sources": [

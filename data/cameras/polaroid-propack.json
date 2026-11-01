@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1993 年发布",
-  "description": "A handheld folding instant camera, compatible with a large array of peel-apart instant films, including: type 84, 85, 88, 89, 664, 665, 667, 679, 669, and 690.",
+  "description": "宝丽来于1993年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid ProPack"
+    "Camera-wiki": "Polaroid ProPack",
+    "英文简介": "A handheld folding instant camera, compatible with a large array of peel-apart instant films, including: type 84, 85, 88, 89, 664, 665, 667, 679, 669, and 690."
   },
   "images": [],
   "sources": [

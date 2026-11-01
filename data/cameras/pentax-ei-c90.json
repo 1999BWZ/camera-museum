@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，1996 年发布",
-  "description": "The EI-C90 is a early digital camera from Pentax released in 1996.",
+  "description": "宾得于1996年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax EI-C90"
+    "Camera-wiki": "Pentax EI-C90",
+    "英文简介": "The EI-C90 is a early digital camera from Pentax released in 1996."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Royer取景器相机，1956 年发布",
-  "description": "{|class=\"floatright\"\n|\n|-\n|\n|-\n|\n|-\n|\n\n|}\nThe Savoy is a 35mm viewfinder camera made by in France by Royer, introduced in c.1956 p864..",
+  "description": "Royer于1956年推出的取景器相机。配备S.O.M. Berthiot 50mm/f2.8 or (on some Savoy I examples) Helionar 50mm/f3.5。快门速度Royer, 1s-1/300s + B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Royer Savoy"
+    "Camera-wiki": "Royer Savoy",
+    "镜头": "S.O.M. Berthiot 50mm/f2.8 or (on some Savoy I examples) Helionar 50mm/f3.5",
+    "快门": "Royer, 1s-1/300s + B",
+    "英文简介": "{|class=\"floatright\"\n|\n|-\n|\n|-\n|\n|-\n|\n\n|}\nThe Savoy is a 35mm viewfinder camera made by in France by Royer, introduced in c.1956 p864.."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光折叠相机，1952 年发布",
-  "description": "The Ricoh Six is a Japanese 6×6 folder.",
+  "description": "理光于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Six"
+    "Camera-wiki": "Ricoh Six",
+    "英文简介": "The Ricoh Six is a Japanese 6×6 folder."
   },
   "images": [],
   "sources": [

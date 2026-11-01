@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign盒式相机，1935 年发布",
-  "description": "The Cadet is a simple box camera for eight exposures 4x6.5 cm on 127 film (or Ensign E27 size), made by Houghton-Butcher from about 1924.",
+  "description": "Ensign于1935年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ensign Cadet"
+    "Camera-wiki": "Ensign Cadet",
+    "英文简介": "The Cadet is a simple box camera for eight exposures 4x6.5 cm on 127 film (or Ensign E27 size), made by Houghton-Butcher from about 1924."
   },
   "images": [],
   "sources": [

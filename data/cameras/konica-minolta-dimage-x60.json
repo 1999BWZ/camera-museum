@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2005 年发布",
-  "description": "In 2005 Konica Minolta finished its last camera developments.",
+  "description": "柯尼卡美能达于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE X60"
+    "Camera-wiki": "Konica Minolta DiMAGE X60",
+    "英文简介": "In 2005 Konica Minolta finished its last camera developments."
   },
   "images": [],
   "sources": [

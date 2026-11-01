@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1987 年发布",
-  "description": "Konica joined the short-lived still-video camera movement in 1987, announcing the full-featured KC-400.",
+  "description": "柯尼卡于1987年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica KC-400"
+    "Camera-wiki": "Konica KC-400",
+    "英文简介": "Konica joined the short-lived still-video camera movement in 1987, announcing the full-featured KC-400."
   },
   "images": [],
   "sources": [

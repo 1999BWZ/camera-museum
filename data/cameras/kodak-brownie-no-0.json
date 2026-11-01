@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1914 年发布",
-  "description": "This Kodak Brownie model was introduced in 1914.",
+  "description": "柯达于1914年推出的盒式相机。配备Meniscus。快门速度rotary sector shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Brownie No. 0"
+    "Camera-wiki": "Kodak Brownie No. 0",
+    "尺寸": "1 5/8 X 2 1/2\"",
+    "镜头": "Meniscus",
+    "快门": "rotary sector shutter",
+    "英文简介": "This Kodak Brownie model was introduced in 1914."
   },
   "images": [],
   "sources": [

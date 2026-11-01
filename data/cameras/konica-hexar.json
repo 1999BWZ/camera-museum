@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1993 年发布",
-  "description": "The Konica Hexar, first released in 1993, is a fixed-lens, autofocus camera from Konica with a 35mm f2 lens, rather expensive when new.",
+  "description": "柯尼卡于1993年推出的旁轴相机。配备Hexar 35mm f2; six groups, seven elements; minimum aperture f22; built-in lens hood。快门速度Electromagnetic 30secs - 1/250。使用Motor (and rewind)。感光度EV 0-16 at ISO 100 (centre) EV3-18 (spot)。infrared active - 290 steps。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Hexar"
+    "Camera-wiki": "Konica Hexar",
+    "镜头": "Hexar 35mm f2; six groups, seven elements; minimum aperture f22; built-in lens hood",
+    "对焦": "infrared active - 290 steps",
+    "快门": "Electromagnetic 30secs - 1/250",
+    "感光度": "EV 0-16 at ISO 100 (centre) EV3-18 (spot)",
+    "曝光测光": "Programmed AE, aperture priority, metered manual",
+    "取景器": "Reverse Galilean with bright lines, automatic parallax and angle of field correction",
+    "胶片/画幅": "Motor (and rewind)",
+    "自拍": "Electronic (approx 10 seconds; no thread for a cable release)",
+    "尺寸": "Width 137.5mm, height 76.5mm, depth 64.5mm",
+    "重量": "495g without battery",
+    "闪光灯": "HX-14 (GN14)",
+    "英文简介": "The Konica Hexar, first released in 1993, is a fixed-lens, autofocus camera from Konica with a 35mm f2 lens, rather expensive when new."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bestiary胶片相机，1953 年发布",
-  "description": "The Pigeonflex (ピジョンフレックス, pijonfurekkusu) is a TLR for 6&times;6 exposures on 120 film.",
+  "description": "Bestiary于1953年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pigeonflex"
+    "Camera-wiki": "Pigeonflex",
+    "英文简介": "The Pigeonflex (ピジョンフレックス, pijonfurekkusu) is a TLR for 6&times;6 exposures on 120 film."
   },
   "images": [],
   "sources": [

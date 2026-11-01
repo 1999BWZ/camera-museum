@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welta折叠相机，1933 年发布",
-  "description": "The Symbol and Trio are 6×9 folding cameras using 120 film, made in the 1930s by the German company Welta.",
+  "description": "Welta于1933年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Symbol and Trio"
+    "Camera-wiki": "Symbol and Trio",
+    "英文简介": "The Symbol and Trio are 6×9 folding cameras using 120 film, made in the 1930s by the German company Welta."
   },
   "images": [],
   "sources": [

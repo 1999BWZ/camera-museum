@@ -13,11 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "克拉斯诺戈尔斯克旁轴相机，1949 年发布",
-  "description": "克拉斯诺戈尔斯克于1949年发布的旁轴相机。",
+  "description": "克拉斯诺戈尔斯克于1949年推出的旁轴相机。配备| focus = manual。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q4194015",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "镜头": "| focus = manual",
+    "曝光测光": "| flash ="
   },
   "images": [
     {

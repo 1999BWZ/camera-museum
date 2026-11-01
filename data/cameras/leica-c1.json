@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡便携相机，1999 年发布",
-  "description": "The Leica C1 was one of the compact cameras offered by Leica Camera AG.",
+  "description": "徕卡于1999年推出的便携相机。配备Leica Vario-Elmar 1:4-1:10,5/38-105 mm zoom (7 separate lenses with 2 apsherical lens surfaces)。快门速度1,7 - 1/500 sec.。Active infrared system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica C1"
+    "Camera-wiki": "Leica C1",
+    "镜头": "Leica Vario-Elmar 1:4-1:10,5/38-105 mm zoom (7 separate lenses with 2 apsherical lens surfaces)",
+    "对焦": "Active infrared system",
+    "曝光测光": "center-weighted metering",
+    "快门速度": "1,7 - 1/500 sec.",
+    "取景器": "real image type, showing AF measuring area, enlargement 0.375x to 1.05x",
+    "闪光灯": "reaching as far as 3.2 meters for a 100 ASA film with lens in wide angle position",
+    "重量": "260 g without the CR-123A battery",
+    "英文简介": "The Leica C1 was one of the compact cameras offered by Leica Camera AG."
   },
   "images": [],
   "sources": [

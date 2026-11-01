@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox取景器相机，1982 年发布",
-  "description": "The Minox 35 PL continued Minox's successful range of 35mm compact cameras, reputedly the smallest full-frame 35mm cameras ever made.",
+  "description": "Minox于1982年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox 35 PL"
+    "Camera-wiki": "Minox 35 PL",
+    "英文简介": "The Minox 35 PL continued Minox's successful range of 35mm compact cameras, reputedly the smallest full-frame 35mm cameras ever made."
   },
   "images": [],
   "sources": [

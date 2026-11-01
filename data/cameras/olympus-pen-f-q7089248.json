@@ -13,12 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1963 年发布",
-  "description": "奥林巴斯于1963年发布的胶片相机。",
+  "description": "奥林巴斯于1963年推出的胶片相机。配备Olympus Pen F mount。快门速度1 s – 1/500 s; Bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q7089248",
     "多语言词条数": "6",
-    "年份来源": "据英文描述推断"
+    "年份来源": "据英文描述推断",
+    "镜头": "Olympus Pen F mount",
+    "曝光测光": "Manual",
+    "快门速度": "1 s – 1/500 s; Bulb",
+    "闪光灯": "| frame-rate = manually wound",
+    "尺寸": "130 × 71 × 36 mm",
+    "重量": "| footnotes ="
   },
   "images": [],
   "sources": [

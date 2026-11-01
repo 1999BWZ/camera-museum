@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡便携相机，2001 年发布",
-  "description": "The Konica Revio II is an APS film compact camera with a zoom lens.",
+  "description": "柯尼卡于2001年推出的便携相机。配备1:3,9-1:7,9/23-50mm zoom。快门速度1 sec. down to 1/500 sec. controlled by spot focusing CdS-photo resistor。active multi-infrared-autofocus system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Revio II"
+    "Camera-wiki": "Konica Revio II",
+    "镜头": "1:3,9-1:7,9/23-50mm zoom",
+    "对焦": "active multi-infrared-autofocus system",
+    "快门速度": "1 sec. down to 1/500 sec. controlled by spot focusing CdS-photo resistor",
+    "闪光灯": "reaching as far as 6.8 meters when zoom lens is in wide angle position",
+    "取景器": "magnification depending on the zoom lens' position",
+    "重量": "130 g without CR2 battery",
+    "尺寸": "57×89.5×27 mm",
+    "英文简介": "The Konica Revio II is an APS film compact camera with a zoom lens."
   },
   "images": [],
   "sources": [

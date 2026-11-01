@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Super取景器相机，1942 年发布",
-  "description": "The Shinko Super is a Japanese 6×6cm viewfinder camera with a focal plane shutter, advertised in 1942 by Yamashita Shōten and probably made by Shinkō Seiki (see below).",
+  "description": "Super于1942年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Shinko Super"
+    "Camera-wiki": "Shinko Super",
+    "英文简介": "The Shinko Super is a Japanese 6×6cm viewfinder camera with a focal plane shutter, advertised in 1942 by Yamashita Shōten and probably made by Shinkō Seiki (see below)."
   },
   "images": [],
   "sources": [

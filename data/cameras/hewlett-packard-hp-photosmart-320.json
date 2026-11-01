@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2002 年发布",
-  "description": "The HP Photosmart 320 is a digital camera made in China for Hewlett-Packard, c.2002.",
+  "description": "Hewlett-Packard于2002年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart 320"
+    "Camera-wiki": "HP PhotoSmart 320",
+    "英文简介": "The HP Photosmart 320 is a digital camera made in China for Hewlett-Packard, c.2002."
   },
   "images": [],
   "sources": [

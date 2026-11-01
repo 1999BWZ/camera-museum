@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji旁轴相机，1957 年发布",
-  "description": "*The Fujica 35 Auto M is a different, later model.",
+  "description": "Fuji于1957年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica 35-M"
+    "Camera-wiki": "Fujica 35-M",
+    "英文简介": "*The Fujica 35 Auto M is a different, later model."
   },
   "images": [],
   "sources": [

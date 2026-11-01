@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2013 年发布",
-  "description": "The K-500 was an entry-level DSLR introduced under the Pentax brand of Ricoh Imaging in 2013, offering a 16 megapixel APS-C sensor.",
+  "description": "宾得于2013年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-500"
+    "Camera-wiki": "Pentax K-500",
+    "英文简介": "The K-500 was an entry-level DSLR introduced under the Pentax brand of Ricoh Imaging in 2013, offering a 16 megapixel APS-C sensor."
   },
   "images": [],
   "sources": [

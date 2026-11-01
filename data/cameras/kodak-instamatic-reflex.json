@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达胶片单反相机，1968 年发布",
-  "description": "The Kodak Instamatic Reflex is an SLR made in Germany by Kodak AG\nfor 126 Cartridge film.",
+  "description": "柯达于1968年推出的胶片单反相机。配备could be supplied body only, or with either a Schneider-Kreuznach Xenar 45mm/f2.8 or Xenon 50mm/f1.9; Lenses from 28 to 200mm were available.。快门速度Compur-Electronic 20s - 1/500s; flash synch at 1/30s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic Reflex"
+    "Camera-wiki": "Kodak Instamatic Reflex",
+    "快门": "Compur-Electronic 20s - 1/500s; flash synch at 1/30s",
+    "镜头": "could be supplied body only, or with either a Schneider-Kreuznach Xenar 45mm/f2.8 or Xenon 50mm/f1.9; Lenses from 28 to 200mm were available.",
+    "英文简介": "The Kodak Instamatic Reflex is an SLR made in Germany by Kodak AG\nfor 126 Cartridge film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1965 年发布",
-  "description": "Kodak's greatest success in camera history was the Instamatic camera series for its 126 film cartridge.",
+  "description": "柯达于1965年推出的便携相机。配备Plastic, single element, meniscus; 1:11/43mm。快门速度mechanical leaf, with speeds of 1/90 sec. and (with flashcube attached) 1/40 sec.。使用126 film cartridge。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 104"
+    "Camera-wiki": "Kodak Instamatic 104",
+    "胶片/画幅": "126 film cartridge",
+    "镜头": "Plastic, single element, meniscus; 1:11/43mm",
+    "快门": "mechanical leaf, with speeds of 1/90 sec. and (with flashcube attached) 1/40 sec.",
+    "闪光灯": "Flashcubes (not Magicubes or X-Cubes)",
+    "英文简介": "Kodak's greatest success in camera history was the Instamatic camera series for its 126 film cartridge."
   },
   "images": [],
   "sources": [

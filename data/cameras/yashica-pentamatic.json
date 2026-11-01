@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡数码单反相机，1959 年发布",
-  "description": "The Yashica Pentamatic, introduced in 1959, was Yashica's first 35mm single lens reflex (SLR) camera with interchangeable lenses.",
+  "description": "雅西卡于1959年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Pentamatic"
+    "Camera-wiki": "Yashica Pentamatic",
+    "英文简介": "The Yashica Pentamatic, introduced in 1959, was Yashica's first 35mm single lens reflex (SLR) camera with interchangeable lenses."
   },
   "images": [],
   "sources": [

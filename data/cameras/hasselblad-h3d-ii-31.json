@@ -1,0 +1,32 @@
+{
+  "id": "hasselblad-h3d-ii-31",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "哈苏",
+  "model": "H3D II-31",
+  "year": 2007,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏中画幅相机，2007 年发布",
+  "description": "哈苏于2007年发布的中画幅相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q137888008",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Hasselblad H3D II-31",
+      "url": "https://www.wikidata.org/wiki/Q137888008"
+    }
+  ],
+  "qid": "Q137888008",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

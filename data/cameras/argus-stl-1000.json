@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus数码单反相机，1974 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nAfter Argus Camera found it impossible to compete in the market with its US-built cameras, the company decided to offer SLRs made for them by Japanese manufacturers; but confusingly, changed plans several times.",
+  "description": "Argus于1974年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus STL 1000"
+    "Camera-wiki": "Argus STL 1000",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nAfter Argus Camera found it impossible to compete in the market with its US-built cameras, the company decided to offer SLRs made for them by Japanese manufacturers; but confusingly, changed plans several times."
   },
   "images": [],
   "sources": [

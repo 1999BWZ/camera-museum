@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Thornton-Pickard立体相机，1908 年发布",
-  "description": "The Royal Ruby stereo camera is a top-of-the-range folding plate camera for half-plate as well as stereo format.",
+  "description": "Thornton-Pickard于1908年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Thornton-Pickard Royal Ruby stereo camera"
+    "Camera-wiki": "Thornton-Pickard Royal Ruby stereo camera",
+    "英文简介": "The Royal Ruby stereo camera is a top-of-the-range folding plate camera for half-plate as well as stereo format."
   },
   "images": [],
   "sources": [

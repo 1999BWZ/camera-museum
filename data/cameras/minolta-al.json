@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1961 年发布",
-  "description": "The Minolta AL is a rangefinder camera with selenium meter made by Minolta in Japan.",
+  "description": "美能达于1961年推出的旁轴相机。配备Minolta Rokkor PF 1:2/f=45mm (accepts 40,5 mm filters)。快门速度Optiper Citizen MLT with modern speeds (i.e. 1/60 instead of 1/50 etc.), 1 to 1/1000 sec.。使用Lever on the right side of the camera top, exposure counter in the camera bottom, fold-out rewind crank on the left side of the camera top, rewind release button on the bottom。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta AL"
+    "Camera-wiki": "Minolta AL",
+    "镜头": "Minolta Rokkor PF 1:2/f=45mm (accepts 40,5 mm filters)",
+    "快门": "Optiper Citizen MLT with modern speeds (i.e. 1/60 instead of 1/50 etc.), 1 to 1/1000 sec.",
+    "曝光测光": "coupled selenium meter supports manual aperture/speed-choice",
+    "胶片/画幅": "Lever on the right side of the camera top, exposure counter in the camera bottom, fold-out rewind crank on the left side of the camera top, rewind release button on the bottom",
+    "英文简介": "The Minolta AL is a rangefinder camera with selenium meter made by Minolta in Japan."
   },
   "images": [],
   "sources": [

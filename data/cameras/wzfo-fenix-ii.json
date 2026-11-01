@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "WZFO旁轴相机，1959 年发布",
-  "description": "The Fenix-II is a rangefinder camera made by WZFO.",
+  "description": "WZFO于1959年推出的旁轴相机。配备coated WZFO Euktar 1:2,8/45mm。快门速度leaf shutter with speeds 1/10, 1/25, 1/50, 1/100, 1/250 sec. , B, and X (flash synchronized)。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fenix-II"
+    "Camera-wiki": "Fenix-II",
+    "胶片/画幅": "35mm",
+    "镜头": "coated WZFO Euktar 1:2,8/45mm",
+    "快门": "leaf shutter with speeds 1/10, 1/25, 1/50, 1/100, 1/250 sec. , B, and X (flash synchronized)",
+    "光圈": "1:2,8 to 1:22",
+    "取景器": "split image rangefinder",
+    "英文简介": "The Fenix-II is a rangefinder camera made by WZFO."
   },
   "images": [],
   "sources": [

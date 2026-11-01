@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达全景相机，1900 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n\n|}\nThe Panoram cameras are a range of swing-lens Panoramic cameras made in Rochester, New York, USA by Eastman Kodak between 1899-1928.",
+  "description": "柯达于1900年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Panoram"
+    "Camera-wiki": "Kodak Panoram",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n\n|}\nThe Panoram cameras are a range of swing-lens Panoramic cameras made in Rochester, New York, USA by Eastman Kodak between 1899-1928."
   },
   "images": [],
   "sources": [

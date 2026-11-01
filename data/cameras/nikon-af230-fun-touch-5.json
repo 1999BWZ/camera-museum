@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1997 年发布",
-  "description": "The Nikon AF230 or Fun•Touch 5 was an inexpensive compact camera for 35mm film, introduced by Nikon in 1997.",
+  "description": "尼康于1997年推出的便携相机。配备Fixed 29mm, f/4.5。快门速度fixed at 1/125s.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon AF230/Fun•Touch 5"
+    "Camera-wiki": "Nikon AF230/Fun•Touch 5",
+    "镜头": "Fixed 29mm, f/4.5",
+    "快门速度": "fixed at 1/125s.",
+    "闪光灯": "]] 8m at ISO 100.",
+    "英文简介": "The Nikon AF230 or Fun•Touch 5 was an inexpensive compact camera for 35mm film, introduced by Nikon in 1997."
   },
   "images": [],
   "sources": [

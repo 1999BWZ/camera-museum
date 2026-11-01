@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片相机，2000 年发布",
-  "description": "The Zoom Date 120 is a compact 35mm film camera released by Fuji in 2000.",
+  "description": "富士于2000年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Zoom Date 120"
+    "Camera-wiki": "Fujifilm Zoom Date 120",
+    "英文简介": "The Zoom Date 120 is a compact 35mm film camera released by Fuji in 2000."
   },
   "images": [],
   "sources": [

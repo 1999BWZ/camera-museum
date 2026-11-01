@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee胶片单反相机，1967 年发布",
-  "description": "This is just an illustration page.",
+  "description": "Ihagee于1967年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exakta VX 1000 and VX 500"
+    "Camera-wiki": "Exakta VX 1000 and VX 500",
+    "英文简介": "This is just an illustration page."
   },
   "images": [],
   "sources": [

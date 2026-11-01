@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1936 年发布",
-  "description": "This small 127 (4 × 6 1/2 cm) camera from 1936 is a fine example of the Art Deco design motifs of the era.",
+  "description": "柯达于1936年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Bullet"
+    "Camera-wiki": "Kodak Bullet",
+    "英文简介": "This small 127 (4 × 6 1/2 cm) camera from 1936 is a fine example of the Art Deco design motifs of the era."
   },
   "images": [],
   "sources": [

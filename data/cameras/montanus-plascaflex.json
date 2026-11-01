@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Montanus胶片相机，1952 年发布",
-  "description": "The Plascaflex is a TLR camera for 6&times;6 cm exposures on 120 film, made in 1952 by Potthoff & Co.",
+  "description": "Montanus于1952年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Plascaflex"
+    "Camera-wiki": "Plascaflex",
+    "英文简介": "The Plascaflex is a TLR camera for 6&times;6 cm exposures on 120 film, made in 1952 by Potthoff & Co."
   },
   "images": [],
   "sources": [

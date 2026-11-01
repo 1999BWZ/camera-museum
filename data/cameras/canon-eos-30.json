@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，2000 年发布",
-  "description": "The EOS 30 (or Elan 7 / Elan 7e / EOS 7 / EOS 33 in different global markets) is a Canon autofocus 35mm SLR camera that uses the Canon EF lens mount.",
+  "description": "佳能于2000年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon EOS 30"
+    "Camera-wiki": "Canon EOS 30",
+    "英文简介": "The EOS 30 (or Elan 7 / Elan 7e / EOS 7 / EOS 33 in different global markets) is a Canon autofocus 35mm SLR camera that uses the Canon EF lens mount."
   },
   "images": [
     {

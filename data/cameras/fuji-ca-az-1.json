@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片单反相机，1978 年发布",
-  "description": "The Fujica AZ-1 was one of the last While the AZ-1 began to appear for sale in 1978, it was officially launched for export in June 1977 (according to Fujifilm's 50 years of Ayumi), so predates the last M42 fujica (the ST605 II) by a whole year.",
+  "description": "Fuji于1978年推出的胶片单反相机。快门速度** Electronic: 1/2 to 1/1000s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica AZ-1"
+    "Camera-wiki": "Fujica AZ-1",
+    "卡口": "M42",
+    "曝光测光": "TTL center-weight, aperture-preferred automatic exposure, AE lock, with two SpD photocells.",
+    "快门": "** Electronic: 1/2 to 1/1000s",
+    "闪光灯": "1/60",
+    "自拍": "8 sec",
+    "电池": "3x 1.5V silver oxide (SR44)",
+    "尺寸": "133 x 87.5 x 50.5mm",
+    "重量": "580g",
+    "英文简介": "The Fujica AZ-1 was one of the last While the AZ-1 began to appear for sale in 1978, it was officially launched for export in June 1977 (according to Fujifilm's 50 years of Ayumi), so predates the last M42 fujica (the ST605 II) by a whole year."
   },
   "images": [],
   "sources": [

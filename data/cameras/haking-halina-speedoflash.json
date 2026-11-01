@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Haking胶片相机，1966 年发布",
-  "description": "Very much in the same mold as the simpler Kodak Instamatic cameras, the Speedo-Flash is a snapshot camera for 126 cartridge film manufactured in Hong Kong by Haking.",
+  "description": "Haking于1966年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Halina Speedoflash"
+    "Camera-wiki": "Halina Speedoflash",
+    "英文简介": "Very much in the same mold as the simpler Kodak Instamatic cameras, the Speedo-Flash is a snapshot camera for 126 cartridge film manufactured in Hong Kong by Haking."
   },
   "images": [],
   "sources": [

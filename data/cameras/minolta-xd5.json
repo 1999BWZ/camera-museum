@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1978 年发布",
-  "description": "The Minolta XD5 was the cheaper version of the XD series cameras.",
+  "description": "美能达于1978年推出的胶片单反相机。配备Minolta MD-Rokkor lenses (SR-bayonet lenses with additional lever for automatic aperture control)。快门速度1 - 1/1000 sec. (metal lamellae shutter)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta XD5"
+    "Camera-wiki": "Minolta XD5",
+    "曝光测光": "automatically controlled shutter speed or automatic shutter preferred control of aperture and shutter speed",
+    "快门速度": "1 - 1/1000 sec. (metal lamellae shutter)",
+    "取景器": "pentaprism viewfinder showing 94%",
+    "镜头": "Minolta MD-Rokkor lenses (SR-bayonet lenses with additional lever for automatic aperture control)",
+    "英文简介": "The Minolta XD5 was the cheaper version of the XD series cameras."
   },
   "images": [],
   "sources": [

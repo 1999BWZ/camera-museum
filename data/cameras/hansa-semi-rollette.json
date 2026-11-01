@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hansa折叠相机，1936 年发布",
-  "description": "The Hansa Semi Rollette The name is spelled \"Hanza Semi Rollette\" in , p.339, but this is a typo.",
+  "description": "Hansa于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hansa Semi Rollette"
+    "Camera-wiki": "Hansa Semi Rollette",
+    "英文简介": "The Hansa Semi Rollette The name is spelled \"Hanza Semi Rollette\" in , p.339, but this is a typo."
   },
   "images": [],
   "sources": [

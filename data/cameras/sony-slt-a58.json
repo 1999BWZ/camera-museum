@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2013 年发布",
-  "description": "索尼于2013年发布的数码单反相机。",
+  "description": "索尼于2013年推出的数码单反相机。配备Sony / Minolta A mount。快门速度Mechanical。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q15613381",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "镜头": "Sony / Minolta A mount",
+    "传感器": "Sony Exmor APS HD CMOS",
+    "曝光测光": "1200-zone Evaluative, on sensor",
+    "闪光灯": "ADI / Pre-TTL, GN 10m/33' @ ISO 100",
+    "快门速度": "Mechanical",
+    "屏幕": "2.7\" 460,800 dot TFT Tilting LCD",
+    "电池": "NP-FM500H",
+    "尺寸": "128.6 mm x 95.5 mm x 77.7mm",
+    "重量": "492 g (17.4 oz) (body only)"
   },
   "images": [
     {

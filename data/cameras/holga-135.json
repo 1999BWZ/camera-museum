@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Holga取景器相机，2005 年发布",
-  "description": "The Holga 135 is a compact 35mm film camera from Holga released in about 2005.",
+  "description": "Holga于2005年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Holga 135"
+    "Camera-wiki": "Holga 135",
+    "英文简介": "The Holga 135 is a compact 35mm film camera from Holga released in about 2005."
   },
   "images": [],
   "sources": [

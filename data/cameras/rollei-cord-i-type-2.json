@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来中画幅相机，1934 年发布",
-  "description": "The Rolleicord I Type 2 is a model in a long line of Rolleicords which started in 1933\nand ended in 1977 and were produced by Franke & Heidecke and later on by Rollei-Werke in Braunschweig, Germany.",
+  "description": "禄来于1934年推出的中画幅相机。配备Zeiss Triotar 1:3.8 f=7,5cm。快门速度1 to 1/300 sec., T and B.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleicord I Type 2"
+    "Camera-wiki": "Rolleicord I Type 2",
+    "镜头": "Zeiss Triotar 1:3.8 f=7,5cm",
+    "快门": "Compur C00",
+    "快门速度": "1 to 1/300 sec., T and B.",
+    "尺寸": "85 x 90 x 135 mm",
+    "重量": "818 grams",
+    "英文简介": "The Rolleicord I Type 2 is a model in a long line of Rolleicords which started in 1933\nand ended in 1977 and were produced by Franke & Heidecke and later on by Rollei-Werke in Braunschweig, Germany."
   },
   "images": [],
   "sources": [

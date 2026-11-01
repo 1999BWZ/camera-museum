@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji旁轴相机，1962 年发布",
-  "description": "The Fujica 35 Auto M is a 35mm film, rangefinder camera manufactured by Fuji from 1962 until about 1968.",
+  "description": "Fuji于1962年推出的旁轴相机。配备Fujinon-R 47mm 1:2.8。快门速度1/30-1/500 plus B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica 35 Auto M"
+    "Camera-wiki": "Fujica 35 Auto M",
+    "镜头": "Fujinon-R 47mm 1:2.8",
+    "光圈": "f/2.8 to f/16",
+    "快门": "1/30-1/500 plus B",
+    "英文简介": "The Fujica 35 Auto M is a 35mm film, rangefinder camera manufactured by Fuji from 1962 until about 1968."
   },
   "images": [],
   "sources": [

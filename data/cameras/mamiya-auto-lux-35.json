@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚数码单反相机，1963 年发布",
-  "description": "{|class=floatright\n||\n \n|-\n||\n \n|}\nThe Auto-Lux 35 is a 35mm fixed lens SLR introduced in 1963 by Mamiya.",
+  "description": "玛米亚于1963年推出的数码单反相机。配备Mamiya Sekor 48mm 1:2.8 3 group, 3 elements。快门速度1/500-1/15 + B。使用35mm。感光度7-17 EV (100asa)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya Auto-Lux 35"
+    "Camera-wiki": "Mamiya Auto-Lux 35",
+    "胶片/画幅": "35mm",
+    "镜头": "Mamiya Sekor 48mm 1:2.8 3 group, 3 elements",
+    "光圈": "f/2.8-22",
+    "快门": "Copal-X leaf shutter",
+    "快门速度": "1/500-1/15 + B",
+    "曝光测光": "Selenium cell EE",
+    "感光度": "7-17 EV (100asa)",
+    "闪光灯": "X type by PC-sync. Mount point on camera head",
+    "英文简介": "{|class=floatright\n||\n \n|-\n||\n \n|}\nThe Auto-Lux 35 is a 35mm fixed lens SLR introduced in 1963 by Mamiya."
   },
   "images": [],
   "sources": [

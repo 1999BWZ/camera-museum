@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1969 年发布",
-  "description": "The Praktica LLC was made from 1969This is the date in McKeown's however it was reported as a new model in [https://mikeeckman.com/2021/08/kepplers-vault-98-photokina-1970/ press reports from the October 1970 Photokina show] (scans at [https://mikeeckman.com/ MikeEckman.com]), alongside the Olympus ",
+  "description": "潘泰康于1969年推出的数码单反相机。快门速度Focal plane shutter made of steel lamellae, with speeds 1 sec. to 1/1000 sec.。使用35mm with speeds 12 to 1600 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica LLC"
+    "Camera-wiki": "Praktica LLC",
+    "胶片/画幅": "35mm with speeds 12 to 1600 ASA",
+    "快门": "Focal plane shutter made of steel lamellae, with speeds 1 sec. to 1/1000 sec.",
+    "卡口": "M42 screw mount with aperture release shifter and electrical contacts for aperture value transmission",
+    "取景器": "Pentaprism finder, fresnel lens focus screen, in the middle a microprism area, and a triangle that appears when the camera is not cocked for the next shot",
+    "闪光灯": "shutter flash synchronized up to speed 1/125 sec., bulb flashguns for speed 1/30 sec.; hot shoe",
+    "英文简介": "The Praktica LLC was made from 1969This is the date in McKeown's however it was reported as a new model in [https://mikeeckman.com/2021/08/kepplers-vault-98-photokina-1970/ press reports from the October 1970 Photokina show] (scans at [https://mikeeckman.com/ MikeEckman.com]), alongside the Olympus FTL."
   },
   "images": [],
   "sources": [

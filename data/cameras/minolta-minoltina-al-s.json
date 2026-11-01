@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1964 年发布",
-  "description": "The Minoltina AL-S aka Minoltina-s is a slim-bodied rangefinder camera from Minolta, made in 1964.",
+  "description": "美能达于1964年推出的旁轴相机。配备Rokkor-QF 1:1.8/40mm (6 elements)。快门速度Seikosha-SLV, X/M flash sync., speeds 1 sec. up to 1/500 sec. plus B。使用35mm with speeds 25 to 800 ASA.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Minoltina AL-S"
+    "Camera-wiki": "Minolta Minoltina AL-S",
+    "胶片/画幅": "35mm with speeds 25 to 800 ASA.",
+    "镜头": "Rokkor-QF 1:1.8/40mm (6 elements)",
+    "快门": "Seikosha-SLV, X/M flash sync., speeds 1 sec. up to 1/500 sec. plus B",
+    "曝光测光": "match-needle selenium meter cross-coupled to shutter-speed setting and aperture setting, instrument visible from above.",
+    "取景器": "optical, with superimposed coupled rangefinder.",
+    "尺寸": "128x74x60mm",
+    "重量": "540 g",
+    "英文简介": "The Minoltina AL-S aka Minoltina-s is a slim-bodied rangefinder camera from Minolta, made in 1964."
   },
   "images": [],
   "sources": [

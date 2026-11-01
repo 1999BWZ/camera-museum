@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，1998 年发布",
-  "description": "The PowerShot A5 is a digital compact camera released by Canon in 1998.",
+  "description": "佳能于1998年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A5"
+    "Camera-wiki": "Canon PowerShot A5",
+    "英文简介": "The PowerShot A5 is a digital compact camera released by Canon in 1998."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1978 年发布",
-  "description": "The Kodak Ektralite 10 camera was an inexpensive 110-format point and shoot camera produced by Eastman Kodak from 1978 to 1994.",
+  "description": "柯达于1978年推出的便携相机。配备25mm f/8。快门速度1/200 sec for ISO 200 speed film or greater。使用110 (13 mm × 17 mm)。Fixed focus from 5 feet (1.5 meters) to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Ektralite 10"
+    "Camera-wiki": "Kodak Ektralite 10",
+    "胶片/画幅": "110 (13 mm × 17 mm)",
+    "镜头": "25mm f/8",
+    "对焦": "Fixed focus from 5 feet (1.5 meters) to infinity",
+    "快门速度": "1/200 sec for ISO 200 speed film or greater",
+    "闪光灯": "2 AA batteries",
+    "英文简介": "The Kodak Ektralite 10 camera was an inexpensive 110-format point and shoot camera produced by Eastman Kodak from 1978 to 1994."
   },
   "images": [],
   "sources": [

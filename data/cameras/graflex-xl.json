@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲旁轴相机，1965 年发布",
-  "description": "The Graflex XL is a medium format, modular press camera system from Graflex, introduced in 1965.",
+  "description": "格拉菲于1965年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Graflex XL"
+    "Camera-wiki": "Graflex XL",
+    "英文简介": "The Graflex XL is a medium format, modular press camera system from Graflex, introduced in 1965."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片相机，1994 年发布",
-  "description": "The Sport SK70 is an autofocus compact 35mm camera, sold in about 1994 by Pentacon GmbH; it is likely to have been made in the far east.",
+  "description": "潘泰康于1994年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica Sport SK750"
+    "Camera-wiki": "Praktica Sport SK750",
+    "英文简介": "The Sport SK70 is an autofocus compact 35mm camera, sold in about 1994 by Pentacon GmbH; it is likely to have been made in the far east."
   },
   "images": [],
   "sources": [

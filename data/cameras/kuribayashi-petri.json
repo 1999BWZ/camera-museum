@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1948 年发布",
-  "description": "The Petri is a folding camera for 4.5x6cm pictures on 120 film, made by Kuribayashi in 1948.",
+  "description": "Kuribayashi于1948年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri (Semi)"
+    "Camera-wiki": "Petri (Semi)",
+    "英文简介": "The Petri is a folding camera for 4.5x6cm pictures on 120 film, made by Kuribayashi in 1948."
   },
   "images": [],
   "sources": [

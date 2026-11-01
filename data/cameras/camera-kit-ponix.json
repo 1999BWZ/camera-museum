@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Camera kit取景器相机，1954 年发布",
-  "description": "The Ponix (ポニックス) is a series of inexpensive 6×6 viewfinder cameras made in Japan from 1954 to 1959.",
+  "description": "Camera kit于1954年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ponix"
+    "Camera-wiki": "Ponix",
+    "英文简介": "The Ponix (ポニックス) is a series of inexpensive 6×6 viewfinder cameras made in Japan from 1954 to 1959."
   },
   "images": [],
   "sources": [

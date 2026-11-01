@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1978 年发布",
-  "description": "A compact camera from Fuji released in 1978, as the autofocus counterpart to the Fujica Flash (Date).",
+  "description": "Fuji于1978年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica Flash AF (Date)"
+    "Camera-wiki": "Fujica Flash AF (Date)",
+    "英文简介": "A compact camera from Fuji released in 1978, as the autofocus counterpart to the Fujica Flash (Date)."
   },
   "images": [],
   "sources": [

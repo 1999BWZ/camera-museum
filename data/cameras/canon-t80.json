@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1985 年发布",
-  "description": "The Canon T-80 was released in 1985 and one of the companies first attempts at a 35mm auto focus SLR.",
+  "description": "佳能于1985年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon T80"
+    "Camera-wiki": "Canon T80",
+    "英文简介": "The Canon T-80 was released in 1985 and one of the companies first attempts at a 35mm auto focus SLR."
   },
   "images": [],
   "sources": [

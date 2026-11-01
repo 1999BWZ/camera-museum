@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，2001 年发布",
-  "description": "The Minolta Vectis 300L is a cute small compact zoom camera of Minolta's Vectis series for the Advanced Photo System (APS) with built-in flash.",
+  "description": "美能达于2001年推出的胶片相机。配备1:5.7-1:11.2 24-70mm zoom。快门速度7.8 - 1/380 sec.。infrared (?)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis 300L"
+    "Camera-wiki": "Minolta Vectis 300L",
+    "镜头": "1:5.7-1:11.2 24-70mm zoom",
+    "对焦": "infrared (?)",
+    "曝光测光": "center-weighted metering through meter window",
+    "快门速度": "7.8 - 1/380 sec.",
+    "取景器": "magnification 0.32x - 0.87x",
+    "重量": "145 g (5.1 oz.) without the CR2 battery",
+    "英文简介": "The Minolta Vectis 300L is a cute small compact zoom camera of Minolta's Vectis series for the Advanced Photo System (APS) with built-in flash."
   },
   "images": [],
   "sources": [

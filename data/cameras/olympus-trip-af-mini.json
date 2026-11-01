@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，1993 年发布",
-  "description": "The Trip AF Mini of 1993 is a fully-automatic 35mm compact camera, with motor drive and autofocus manufactured by Olympus.",
+  "description": "奥林巴斯于1993年推出的便携相机。配备Zuiko 34mm, f/3.5。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip AF Mini"
+    "Camera-wiki": "Olympus Trip AF Mini",
+    "镜头": "Zuiko 34mm, f/3.5",
+    "英文简介": "The Trip AF Mini of 1993 is a fully-automatic 35mm compact camera, with motor drive and autofocus manufactured by Olympus."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1984 年发布",
-  "description": "The Praktica BC 1 is a 35mm SLR made by Pentacon VEB Dresden.",
+  "description": "潘泰康于1984年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica BC 1"
+    "Camera-wiki": "Praktica BC 1",
+    "英文简介": "The Praktica BC 1 is a 35mm SLR made by Pentacon VEB Dresden."
   },
   "images": [],
   "sources": [

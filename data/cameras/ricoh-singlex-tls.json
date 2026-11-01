@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1967 年发布",
-  "description": "The Ricoh Singlex TLS was introduced by Ricoh in June 1967, enabled by a vertically-traveling metal shutter from CopalAccording to its [http://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/singlex_tls.html history page] (in English [https://translate.google.com/translate?sl=ja&t",
+  "description": "理光于1967年推出的胶片单反相机。快门速度Copal Square metal blade shutter. 1sec - 1/1000sec +B.。使用35mm film, 24x36mm.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Singlex TLS"
+    "Camera-wiki": "Ricoh Singlex TLS",
+    "胶片/画幅": "35mm film, 24x36mm.",
+    "卡口": "M42 screw-mount",
+    "曝光测光": "CdS with match needle, stopdown metering, on-off switch",
+    "快门": "Copal Square metal blade shutter. 1sec - 1/1000sec +B.",
+    "电池": "Originaly 675 1.3v mercury",
+    "尺寸": "147 x 95 x 50mm",
+    "重量": "720gr body only",
+    "英文简介": "The Ricoh Singlex TLS was introduced by Ricoh in June 1967, enabled by a vertically-traveling metal shutter from CopalAccording to its [http://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/singlex_tls.html history page] (in English [https://translate.google.com/translate?sl=ja&tl=en&u=http://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/singlex_tls.html Go"
   },
   "images": [
     {

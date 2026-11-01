@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发折叠相机，1925 年发布",
-  "description": "The Nitor and Nitor Luxus are folding cameras for 6x9 cm pictures on 120 film or 6,5x9 cm pictures on plates.",
+  "description": "爱克发于1925年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nitor"
+    "Camera-wiki": "Nitor",
+    "英文简介": "The Nitor and Nitor Luxus are folding cameras for 6x9 cm pictures on 120 film or 6,5x9 cm pictures on plates."
   },
   "images": [],
   "sources": [

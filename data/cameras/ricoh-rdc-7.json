@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2000 年发布",
-  "description": "The Ricoh RDC-7 was introduced by Ricoh in 2000.",
+  "description": "理光于2000年推出的数码相机。配备f=7.3 -21.9mm (equivalent to 35 - 105mm in 35mm camera format), 10 glass elements in 7 groups with 3 aspherical lenses。Hybrid AF (Passive AF+TTL CCD AF) / Macro:TTL CCD AF。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RDC-7"
+    "Camera-wiki": "Ricoh RDC-7",
+    "镜头": "f=7.3 -21.9mm (equivalent to 35 - 105mm in 35mm camera format), 10 glass elements in 7 groups with 3 aspherical lenses",
+    "变焦": "3x optical",
+    "光圈": "f/2.6 (Wide) to f/3.4 (telephoto)",
+    "对焦": "Hybrid AF (Passive AF+TTL CCD AF) / Macro:TTL CCD AF",
+    "尺寸": "135.4 x 74.0 x 26.6 (27.9 at grip)mm , 5.3 x 2.9 x 1(1.1 at grip) in.",
+    "重量": "Approx.270g (9.5oz) (without battery)",
+    "英文简介": "The Ricoh RDC-7 was introduced by Ricoh in 2000."
   },
   "images": [],
   "sources": [

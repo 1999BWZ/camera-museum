@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Neoca取景器相机，1959 年发布",
-  "description": "The Neoca 35K was an inexpensive scale focusing Neoca model from about 1959 and lacks the rangefinder focus found on the Neoca 2S and Neoca 35 IV S.",
+  "description": "Neoca于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Neoca 35K"
+    "Camera-wiki": "Neoca 35K",
+    "英文简介": "The Neoca 35K was an inexpensive scale focusing Neoca model from about 1959 and lacks the rangefinder focus found on the Neoca 2S and Neoca 35 IV S."
   },
   "images": [],
   "sources": [

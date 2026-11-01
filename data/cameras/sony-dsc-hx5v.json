@@ -1,0 +1,40 @@
+{
+  "id": "sony-dsc-hx5v",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSC-HX5V",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2010 年发布",
+  "description": "索尼于2010年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20859164",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20cyber%20shot%20DSC-HX5VN%20%28gold%29.JPG?width=800",
+      "caption": "DSC-HX5V",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20859164"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSC-HX5V",
+      "url": "https://www.wikidata.org/wiki/Q20859164"
+    }
+  ],
+  "qid": "Q20859164",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "FED取景器相机，1968 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe FED MicronOr Mikron: either is a valid rendition of the Cyrillic name; but 'micro-' is more normal in latin-alphabet languages.",
+  "description": "FED于1968年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "FED Micron"
+    "Camera-wiki": "FED Micron",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe FED MicronOr Mikron: either is a valid rendition of the Cyrillic name; but 'micro-' is more normal in latin-alphabet languages."
   },
   "images": [],
   "sources": [

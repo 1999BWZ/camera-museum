@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，2003 年发布",
-  "description": "奥林巴斯于2003年发布的数码单反相机。",
+  "description": "奥林巴斯于2003年推出的数码单反相机。配备Interchangeable (Four Thirds System)。快门速度Focal-plane shutter, all speeds electronically controlled。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1322481",
-    "多语言词条数": "14"
+    "多语言词条数": "14",
+    "传感器": "Kodak KAF-5101C Four Thirds System FFT CCD",
+    "镜头": "Interchangeable (Four Thirds System)",
+    "快门速度": "Focal-plane shutter, all speeds electronically controlled",
+    "曝光测光": "TTL, evaluative (ESP), center-weighted, spot",
+    "取景器": "Optical TTL with pentaprism 100% field of view",
+    "屏幕": "1.8 inch TFT LCD, 134,000 pixels",
+    "存储": "CompactFlash (CF) (Type I or Type II), Microdrive compatible",
+    "电池": "Olympus BLM-1 1500mAh Lithium-ion battery",
+    "重量": "without battery or storage card"
   },
   "images": [
     {

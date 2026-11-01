@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kinnear折叠相机，1858 年发布",
-  "description": "\"Kinnear Camera\" stands for a conception of a folding camera, invented in 1857 by Scotsman C.G.H.",
+  "description": "Kinnear于1858年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kinnear Camera"
+    "Camera-wiki": "Kinnear Camera",
+    "英文简介": "\"Kinnear Camera\" stands for a conception of a folding camera, invented in 1857 by Scotsman C.G.H."
   },
   "images": [],
   "sources": [

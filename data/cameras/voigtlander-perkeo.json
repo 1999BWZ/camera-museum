@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "福伦达折叠相机，1932 年发布",
-  "description": "There are also other cameras called Perkeo; Voigtländer's later 6x6 folding Perkeo series, and Dr.",
+  "description": "福伦达于1932年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voigtländer Perkeo (3x4)"
+    "Camera-wiki": "Voigtländer Perkeo (3x4)",
+    "英文简介": "There are also other cameras called Perkeo; Voigtländer's later 6x6 folding Perkeo series, and Dr."
   },
   "images": [],
   "sources": [

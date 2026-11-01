@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，1999 年发布",
-  "description": "The Nikon Coolpix 800 is part of the Coolpix series of digital cameras announced by Nikon on 27 September, 1999.",
+  "description": "尼康于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix 800"
+    "Camera-wiki": "Nikon Coolpix 800",
+    "尺寸": "Full-size, VGA and QVGA",
+    "英文简介": "The Nikon Coolpix 800 is part of the Coolpix series of digital cameras announced by Nikon on 27 September, 1999."
   },
   "images": [],
   "sources": [

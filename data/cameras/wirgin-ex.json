@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wirgin折叠相机，1934 年发布",
-  "description": "The Wirginex, also sold as the Baky, is a folding camera for 4.5x6cm pictures on 120 film, made by Wirgin from 1934.",
+  "description": "Wirgin于1934年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wirginex"
+    "Camera-wiki": "Wirginex",
+    "英文简介": "The Wirginex, also sold as the Baky, is a folding camera for 4.5x6cm pictures on 120 film, made by Wirgin from 1934."
   },
   "images": [],
   "sources": [

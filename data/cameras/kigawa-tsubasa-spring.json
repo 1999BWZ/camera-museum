@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kigawa折叠相机，1938 年发布",
-  "description": "The Tsubasa Spring is a Japanese folding camera taking 4×6.5 and 3×4 pictures on 127 film.",
+  "description": "Kigawa于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tsubasa Spring"
+    "Camera-wiki": "Tsubasa Spring",
+    "英文简介": "The Tsubasa Spring is a Japanese folding camera taking 4×6.5 and 3×4 pictures on 127 film."
   },
   "images": [],
   "sources": [

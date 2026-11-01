@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Meopta微型相机，1949 年发布",
-  "description": "{|align=right\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Mikroma is a tiny viewfinder camera for 16 mm film.",
+  "description": "Meopta于1949年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mikroma"
+    "Camera-wiki": "Mikroma",
+    "尺寸": "75×43×40 mm",
+    "重量": "230g",
+    "英文简介": "{|align=right\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Mikroma is a tiny viewfinder camera for 16 mm film."
   },
   "images": [],
   "sources": [

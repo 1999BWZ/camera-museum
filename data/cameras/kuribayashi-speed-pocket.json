@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi折叠相机，1936 年发布",
-  "description": "The Speed Pocket (スピード・ポケット) is a Japanese folding camera taking 4×6.5 pictures on 127 film made by Kuribayashi.",
+  "description": "Kuribayashi于1936年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Speed Pocket"
+    "Camera-wiki": "Speed Pocket",
+    "英文简介": "The Speed Pocket (スピード・ポケット) is a Japanese folding camera taking 4×6.5 pictures on 127 film made by Kuribayashi."
   },
   "images": [],
   "sources": [

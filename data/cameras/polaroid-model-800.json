@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1957 年发布",
-  "description": "The Polaroid Land Camera Model 800 is a Type-40 instant roll film camera made between 1957-1962 by Polaroid.",
+  "description": "宝丽来于1957年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Model 800"
+    "Camera-wiki": "Polaroid Model 800",
+    "英文简介": "The Polaroid Land Camera Model 800 is a Type-40 instant roll film camera made between 1957-1962 by Polaroid."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2008 年发布",
-  "description": "The Ricoh R50 was introduced by Ricoh in 2008.",
+  "description": "理光于2008年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh R50"
+    "Camera-wiki": "Ricoh R50",
+    "光圈": "F3.3 (Wide) - F5.2 (Telephoto)",
+    "尺寸": "97,3 mm (W) x 23,4 mm (H) x 22,4 mm (D), excluding projecting parts",
+    "重量": "Approx. 116g (battery/SD memory card/strap not included)",
+    "英文简介": "The Ricoh R50 was introduced by Ricoh in 2008."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nytech数码相机，2006 年发布",
-  "description": "The Nytech DS-5200 is a digital compact camera distributed by TARGA GmbH.",
+  "description": "Nytech于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nytech DS-5200"
+    "Camera-wiki": "Nytech DS-5200",
+    "英文简介": "The Nytech DS-5200 is a digital compact camera distributed by TARGA GmbH."
   },
   "images": [],
   "sources": [

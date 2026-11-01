@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2004 年发布",
-  "description": "The Konica Minolta Dynax 7D (called Maxxum 7D in the USA and alpha-7 DIGITAL in Japan) is a 6.3 megapixel single lens reflex digital camera (DSLR) for autofocus lenses.",
+  "description": "柯尼卡美能达于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta Dynax 7D"
+    "Camera-wiki": "Konica Minolta Dynax 7D",
+    "英文简介": "The Konica Minolta Dynax 7D (called Maxxum 7D in the USA and alpha-7 DIGITAL in Japan) is a 6.3 megapixel single lens reflex digital camera (DSLR) for autofocus lenses."
   },
   "images": [],
   "sources": [

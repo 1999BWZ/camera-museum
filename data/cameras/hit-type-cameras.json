@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hit-type微型相机，1937 年发布",
-  "description": "After WWII the Japanese had a period of low spending capacity.",
+  "description": "Hit-type于1937年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hit-type cameras"
+    "Camera-wiki": "Hit-type cameras",
+    "英文简介": "After WWII the Japanese had a period of low spending capacity."
   },
   "images": [],
   "sources": [

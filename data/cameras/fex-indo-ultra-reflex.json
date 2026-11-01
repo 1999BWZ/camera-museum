@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo盒式相机，1952 年发布",
-  "description": "The Ultra-Reflex is a bakelite twin-lens box camera made by Fex/Indo in France c.1952 Page 295.",
+  "description": "Fex Indo于1952年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ultra-Reflex"
+    "Camera-wiki": "Ultra-Reflex",
+    "英文简介": "The Ultra-Reflex is a bakelite twin-lens box camera made by Fex/Indo in France c.1952 Page 295."
   },
   "images": [],
   "sources": [

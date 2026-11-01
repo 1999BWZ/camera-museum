@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1983 年发布",
-  "description": "The Praktica MTL5 was a 35mm SLR made in East Germany by Pentacon between 1983 and 1985.",
+  "description": "潘泰康于1983年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica MTL 5"
+    "Camera-wiki": "Praktica MTL 5",
+    "英文简介": "The Praktica MTL5 was a 35mm SLR made in East Germany by Pentacon between 1983 and 1985."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1955 年发布",
-  "description": "The Sterling II was made in England by Kodak Ltd., introduced in May 1955 and withdrawn in 1959.",
+  "description": "柯达于1955年推出的旁轴相机（折叠）。配备Kodak Anaston, 105mm / f4.5, focus down to 3.5ft。快门速度Pronto, speeds 1/25-1/200 + B with flash sync and self-timer。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Sterling II"
+    "Camera-wiki": "Kodak Sterling II",
+    "快门": "Pronto, speeds 1/25-1/200 + B with flash sync and self-timer",
+    "镜头": "Kodak Anaston, 105mm / f4.5, focus down to 3.5ft",
+    "英文简介": "The Sterling II was made in England by Kodak Ltd., introduced in May 1955 and withdrawn in 1959."
   },
   "images": [],
   "sources": [

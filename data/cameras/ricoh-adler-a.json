@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光折叠相机，1938 年发布",
-  "description": "See also the Semi Adler and Adler III (4.5×6cm), Adler B (4.5×6cm), Adler C (4.5×6cm), Adler Four (4×4cm), Adler Six (6×6cm) and Vest Adler (4×6.5cm).",
+  "description": "理光于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Adler A"
+    "Camera-wiki": "Adler A",
+    "英文简介": "See also the Semi Adler and Adler III (4.5×6cm), Adler B (4.5×6cm), Adler C (4.5×6cm), Adler Four (4×4cm), Adler Six (6×6cm) and Vest Adler (4×6.5cm)."
   },
   "images": [],
   "sources": [

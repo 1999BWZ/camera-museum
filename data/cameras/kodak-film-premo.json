@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1906 年发布",
-  "description": "Eastman Kodak's Film Premo folding cameras use film packs, for 12 exposures.",
+  "description": "柯达于1906年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Film Premo"
+    "Camera-wiki": "Film Premo",
+    "英文简介": "Eastman Kodak's Film Premo folding cameras use film packs, for 12 exposures."
   },
   "images": [],
   "sources": [

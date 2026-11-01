@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1998 年发布",
-  "description": "The Ricoh RZ-735 is a small compact for 35mm film from 1998.",
+  "description": "理光于1998年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RZ-735"
+    "Camera-wiki": "Ricoh RZ-735",
+    "光圈": "f/5.3-f/10",
+    "英文简介": "The Ricoh RZ-735 is a small compact for 35mm film from 1998."
   },
   "images": [],
   "sources": [

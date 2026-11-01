@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，2001 年发布",
-  "description": "奥林巴斯于2001年发布的数码单反相机。",
+  "description": "奥林巴斯于2001年推出的数码单反相机。配备non-interchangeable 9-36 mm zoom (35-140 mm full frame equivalent), f/2.0-f/2.4。快门速度| shutterRange = 1/640 to 60 seconds, bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q7089227",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "镜头": "non-interchangeable 9-36 mm zoom (35-140 mm full frame equivalent), f/2.0-f/2.4",
+    "取景器": "Optical TTL",
+    "存储": "SmartMedia, CompactFlash (Type I or Type II)",
+    "快门速度": "| shutterRange = 1/640 to 60 seconds, bulb",
+    "曝光测光": "ESP, center-weighted, spot",
+    "闪光灯": "both built-in and hot shoe",
+    "屏幕": "1.8\" flip-up (118,000 pixels)",
+    "电池": "(4) AA batteries and charger (supplied)",
+    "重量": "1190 g (42 oz)"
   },
   "images": [
     {

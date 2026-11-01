@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1995 年发布",
-  "description": "The Olympus LT-1 is a fully automatic \"designer\" compact of 1995, aimed at travellers requiring a good-looking point and shoot with a prime lens.",
+  "description": "奥林巴斯于1995年推出的胶片相机。配备35mm, f/3.5。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus LT-1"
+    "Camera-wiki": "Olympus LT-1",
+    "镜头": "35mm, f/3.5",
+    "英文简介": "The Olympus LT-1 is a fully automatic \"designer\" compact of 1995, aimed at travellers requiring a good-looking point and shoot with a prime lens."
   },
   "images": [],
   "sources": [

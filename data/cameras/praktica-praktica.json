@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康数码单反相机，1949 年发布",
-  "description": "The Praktica is sometimes held to be the first M42 camera, though this is also said to be the Contax S.",
+  "description": "潘泰康于1949年推出的数码单反相机。快门速度1/2 to 1/500 sec. + B.。使用Knob, double exposure prevention.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica (1949)"
+    "Camera-wiki": "Praktica (1949)",
+    "卡口": "M42 screw mount, no linkage",
+    "快门": "Focal-plane",
+    "快门速度": "1/2 to 1/500 sec. + B.",
+    "胶片/画幅": "Knob, double exposure prevention.",
+    "曝光测光": "None.",
+    "取景器": "SLR, waist-level type, auxiliary sport finder.",
+    "闪光灯": "Present on some variants, possible aftermarket on others.",
+    "英文简介": "The Praktica is sometimes held to be the first M42 camera, though this is also said to be the Contax S."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1959 年发布",
-  "description": "The Yashica YF is an interchangeable-lens rangefinder produced by Yashica in 1959 after absorbing Nicca; it is based on the Nicca IIIL.",
+  "description": "雅西卡于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica YF"
+    "Camera-wiki": "Yashica YF",
+    "英文简介": "The Yashica YF is an interchangeable-lens rangefinder produced by Yashica in 1959 after absorbing Nicca; it is based on the Nicca IIIL."
   },
   "images": [],
   "sources": [

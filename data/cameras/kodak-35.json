@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1938 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Kodak 35 was introduced in 1938 as the first 35mm still camera of Kodak.",
+  "description": "柯达于1938年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak 35"
+    "Camera-wiki": "Kodak 35",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Kodak 35 was introduced in 1938 as the first 35mm still camera of Kodak."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚取景器相机，1981 年发布",
-  "description": "The Mamiya U was introduced in 1981.",
+  "description": "玛米亚于1981年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya U"
+    "Camera-wiki": "Mamiya U",
+    "英文简介": "The Mamiya U was introduced in 1981."
   },
   "images": [],
   "sources": [

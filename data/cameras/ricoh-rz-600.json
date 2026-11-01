@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1992 年发布",
-  "description": "The RZ-600 is an autofocus point-n-shoot camera for 35mm film, introduced by Ricoh in 1992.",
+  "description": "理光于1992年推出的胶片相机。配备38mm f/4.5 - 60mm f/6.9, 1.6X Zoom, 5 elements in 5 groups。快门速度1/4 -1/300 sec.。Single-point active autofucus system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RZ-600"
+    "Camera-wiki": "Ricoh RZ-600",
+    "镜头": "38mm f/4.5 - 60mm f/6.9, 1.6X Zoom, 5 elements in 5 groups",
+    "对焦": "Single-point active autofucus system",
+    "快门": "1/4 -1/300 sec.",
+    "尺寸": "119.2mm X 66.5mm X 40.0mm",
+    "重量": "230 g (without battery)",
+    "英文简介": "The RZ-600 is an autofocus point-n-shoot camera for 35mm film, introduced by Ricoh in 1992."
   },
   "images": [],
   "sources": [

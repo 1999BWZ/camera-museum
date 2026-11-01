@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1961 年发布",
-  "description": "The Vito Automatic was introduced in the early 1960's by Voigtländer; and is a continuation of the fixed lens VITO C series.",
+  "description": "Voigtländer于1961年推出的取景器相机。配备Lanthar f/2.8 50mm。快门速度Prontor Lux 1/30 - 1/500 Bulb。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vito Automatic"
+    "Camera-wiki": "Vito Automatic",
+    "胶片/画幅": "35mm",
+    "镜头": "Lanthar f/2.8 50mm",
+    "快门": "Prontor Lux 1/30 - 1/500 Bulb",
+    "英文简介": "The Vito Automatic was introduced in the early 1960's by Voigtländer; and is a continuation of the fixed lens VITO C series."
   },
   "images": [],
   "sources": [

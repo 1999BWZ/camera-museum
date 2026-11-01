@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Abbreviations数码相机，1974 年发布",
-  "description": "A CCD or Charge-Coupled Device is an electronic device that can be used as the image sensor in place of film in a digital camera, or in devices like microscopes, telescopes, and scanners.",
+  "description": "Abbreviations于1974年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "CCD"
+    "Camera-wiki": "CCD",
+    "英文简介": "A CCD or Charge-Coupled Device is an electronic device that can be used as the image sensor in place of film in a digital camera, or in devices like microscopes, telescopes, and scanners."
   },
   "images": [],
   "sources": [

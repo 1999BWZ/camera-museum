@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2005 年发布",
-  "description": "The Konica Minolta Dimage A200 won one of the DIMA 2005 Shoot-outs Awards[https://web.archive.org/web/20060315015347/http://www.imaging-resource.com/NEWS/1109797768.html Konica Minolta Digital Cameras Win 2005 Dima Digital Camera Shoot-out Awards] (archived)\n\nKnown issues and work-around\n* grainy EV",
+  "description": "柯尼卡美能达于2005年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta Dimage A200"
+    "Camera-wiki": "Konica Minolta Dimage A200",
+    "英文简介": "The Konica Minolta Dimage A200 won one of the DIMA 2005 Shoot-outs Awards[https://web.archive.org/web/20060315015347/http://www.imaging-resource.com/NEWS/1109797768.html Konica Minolta Digital Cameras Win 2005 Dima Digital Camera Shoot-out Awards] (archived)\n\nKnown issues and work-around\n* grainy EVF not useful for manual focus\n* slow, and sometimes wrong, focusing at low light\n* aggressive noise "
   },
   "images": [],
   "sources": [

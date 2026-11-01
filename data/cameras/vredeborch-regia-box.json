@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vredeborch盒式相机，1952 年发布",
-  "description": "One of the numerous variations on the basic Vrede Box camera from Vredeborch, this is a box camera for 6x9 exposures on 120 film.",
+  "description": "Vredeborch于1952年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regia Box"
+    "Camera-wiki": "Regia Box",
+    "英文简介": "One of the numerous variations on the basic Vrede Box camera from Vredeborch, this is a box camera for 6x9 exposures on 120 film."
   },
   "images": [],
   "sources": [

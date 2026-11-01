@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1985 年发布",
-  "description": "The XF-30 is compact 35mm film camera from Ricoh.",
+  "description": "理光于1985年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh XF-30D"
+    "Camera-wiki": "Ricoh XF-30D",
+    "英文简介": "The XF-30 is compact 35mm film camera from Ricoh."
   },
   "images": [],
   "sources": [

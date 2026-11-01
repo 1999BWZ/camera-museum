@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1986 年发布",
-  "description": "The Kodak 35 EF is a simple fixed focus viewfinder 35mm camera made by Kodak from 1986.",
+  "description": "柯达于1986年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak 35 EF"
+    "Camera-wiki": "Kodak 35 EF",
+    "英文简介": "The Kodak 35 EF is a simple fixed focus viewfinder 35mm camera made by Kodak from 1986."
   },
   "images": [],
   "sources": [

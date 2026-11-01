@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1986 年发布",
-  "description": "The Ricoh TF-200 is an 80s compact camera with autofocus and a 38 mm lens, switchable to 65 mm by a ring around the lens.",
+  "description": "理光于1986年推出的便携相机。快门速度Programmed electronic shutter, 1/6–1/1500 s.。使用Easy loading, pre-loading.。感光度DX decoding from 50 to 1600 ISO. Non-DX films set as ISO 100.。Autofocus with pre-focus ability, closest range 1 m.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh TF-200"
+    "Camera-wiki": "Ricoh TF-200",
+    "对焦": "Autofocus with pre-focus ability, closest range 1 m.",
+    "快门": "Programmed electronic shutter, 1/6–1/1500 s.",
+    "取景器": "Albada type with bright lines, parallax correction marks and zone indication. Adjusted according to lens focal length. 0,61–0,39 x magnification, 83 % field of view.",
+    "曝光测光": "EV 6–17 (wide), EV 7,5–17 (tele).",
+    "闪光灯": "Built-in pop-up flash, manually activated. Can be used as fill flash. GN 14. Reloads in 3 seconds. Underexposure warning lamp.",
+    "感光度": "DX decoding from 50 to 1600 ISO. Non-DX films set as ISO 100.",
+    "胶片/画幅": "Easy loading, pre-loading.",
+    "重量": "135,5 x 72 x 52 mm, 390 g (without battery).",
+    "英文简介": "The Ricoh TF-200 is an 80s compact camera with autofocus and a 38 mm lens, switchable to 65 mm by a ring around the lens."
   },
   "images": [],
   "sources": [

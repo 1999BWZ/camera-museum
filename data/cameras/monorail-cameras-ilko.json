@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Monorail cameras胶片相机，1955 年发布",
-  "description": "The ILKO is a monorail large-format camera, made in France in about 1955.",
+  "description": "Monorail cameras于1955年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "ILKO"
+    "Camera-wiki": "ILKO",
+    "英文简介": "The ILKO is a monorail large-format camera, made in France in about 1955."
   },
   "images": [],
   "sources": [

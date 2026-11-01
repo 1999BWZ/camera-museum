@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康便携相机，1999 年发布",
-  "description": "The Nikon Nuvis 200 is a compact camera for the Advanced Photo System, introduced by Nikon in 1999.",
+  "description": "尼康于1999年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Nuvis 200"
+    "Camera-wiki": "Nikon Nuvis 200",
+    "英文简介": "The Nikon Nuvis 200 is a compact camera for the Advanced Photo System, introduced by Nikon in 1999."
   },
   "images": [],
   "sources": [

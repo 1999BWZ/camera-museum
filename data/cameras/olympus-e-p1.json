@@ -13,11 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯无反相机，2009 年发布",
-  "description": "奥林巴斯于2009年发布的无反相机。",
+  "description": "奥林巴斯于2009年推出的无反相机。配备Micro Four Thirds System mount。快门速度1/4,000 to 60 s, 30 minutes bulb。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1153050",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "传感器": "Four Thirds System 18.00×13.50 mm Live MOS",
+    "镜头": "Micro Four Thirds System mount",
+    "快门速度": "1/4,000 to 60 s, 30 minutes bulb",
+    "闪光灯": "hot shoe allows for external flashes",
+    "曝光测光": "| emode = Program, shutter-priority, aperture-priority, manual",
+    "取景器": "live preview, optional optical viewfinder",
+    "屏幕": "3\" 230,000 pixel TFT LCD on screen with live preview",
+    "存储": "Secure Digital card",
+    "电池": "Olympus BLS-1 Lithium-ion battery",
+    "重量": "335 g (11.8 ounces)",
+    "尺寸": "121 × 70 × 36 mm (4.7\" × 2.8\" × 1.4\")"
   },
   "images": [
     {

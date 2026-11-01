@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Seito数码单反相机，1940 年发布",
-  "description": "The Seito Ref is a Japanese 6×6 SLR camera, announced by Seitō Kōgaku in late 1940.",
+  "description": "Seito于1940年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Seito Ref"
+    "Camera-wiki": "Seito Ref",
+    "英文简介": "The Seito Ref is a Japanese 6×6 SLR camera, announced by Seitō Kōgaku in late 1940."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Multiple lens立体相机，1989 年发布",
-  "description": "The Nishika 3-D N8000 was a new variant of the Nimslo 3D.",
+  "description": "Multiple lens于1989年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nishika 3-D N8000"
+    "Camera-wiki": "Nishika 3-D N8000",
+    "英文简介": "The Nishika 3-D N8000 was a new variant of the Nimslo 3D."
   },
   "images": [],
   "sources": [

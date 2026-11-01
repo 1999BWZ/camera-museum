@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来旁轴相机，1977 年发布",
-  "description": "The Polaroid Land Camera 3000 is a plastic-bodied consumer camera for SX-70 integral film.",
+  "description": "宝丽来于1977年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Land Camera 3000"
+    "Camera-wiki": "Polaroid Land Camera 3000",
+    "英文简介": "The Polaroid Land Camera 3000 is a plastic-bodied consumer camera for SX-70 integral film."
   },
   "images": [],
   "sources": [

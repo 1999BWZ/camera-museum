@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus取景器相机，1940 年发布",
-  "description": "{|class=plainlinks align=right\n||\n\n|-\n||\n\n|-\n|}\nThe Argus A3 is a viewfinder camera with built-in extinction meter and a pop-out lens barrel, made from 1940 to 1942 by Argus in Ann Arbor.",
+  "description": "Argus于1940年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus A3"
+    "Camera-wiki": "Argus A3",
+    "英文简介": "{|class=plainlinks align=right\n||\n\n|-\n||\n\n|-\n|}\nThe Argus A3 is a viewfinder camera with built-in extinction meter and a pop-out lens barrel, made from 1940 to 1942 by Argus in Ann Arbor."
   },
   "images": [],
   "sources": [

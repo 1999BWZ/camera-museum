@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来旁轴相机，1969 年发布",
-  "description": "The 340 is one of those models of the 100-400 series line of Polaroid folding Packfilm Land Cameras which had a coupled rangefinder with automatic parallax correction on the top AND a development timer in the rear.",
+  "description": "宝丽来于1969年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Land Model 340"
+    "Camera-wiki": "Polaroid Land Model 340",
+    "英文简介": "The 340 is one of those models of the 100-400 series line of Polaroid folding Packfilm Land Cameras which had a coupled rangefinder with automatic parallax correction on the top AND a development timer in the rear."
   },
   "images": [],
   "sources": [

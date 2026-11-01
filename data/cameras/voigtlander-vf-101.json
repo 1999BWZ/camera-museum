@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "福伦达旁轴相机，1974 年发布",
-  "description": "A compact rangefinder camera for 35mm film; made by Rollei in Singapore, and sold under the Voigtländer brand.",
+  "description": "福伦达于1974年推出的旁轴相机。配备2.8/40 Color-Skopar, 4 elements in 3 groups.。快门速度1/500 s to 4 s in AE-mode, 1/30 s in flash mode.。使用rangefinder image, f-stop, shutter speed, bright frame, parallax marks, over/under-exposure.。感光度25 to 400 ASA。0.9 m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voigtländer VF 101"
+    "Camera-wiki": "Voigtländer VF 101",
+    "尺寸": "24 x 36 mm",
+    "镜头": "2.8/40 Color-Skopar, 4 elements in 3 groups.",
+    "对焦": "0.9 m to infinity",
+    "快门": "electronically controlled leaf shutter",
+    "快门速度": "1/500 s to 4 s in AE-mode, 1/30 s in flash mode.",
+    "光圈": "f/2.8 to f/22, stepless",
+    "感光度": "25 to 400 ASA",
+    "取景器": "0.48x magnification",
+    "胶片/画幅": "rangefinder image, f-stop, shutter speed, bright frame, parallax marks, over/under-exposure.",
+    "重量": "490 g",
+    "英文简介": "A compact rangefinder camera for 35mm film; made by Rollei in Singapore, and sold under the Voigtländer brand."
   },
   "images": [],
   "sources": [

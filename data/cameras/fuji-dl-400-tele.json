@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片单反相机，1987 年发布",
-  "description": "Dual-lensed compact auto-focus camera from Fuji, offering 35mm and 70mm focal lengths.",
+  "description": "Fuji于1987年推出的胶片单反相机。80 cm (wide), 50 cm (tele).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-400 Tele"
+    "Camera-wiki": "Fuji DL-400 Tele",
+    "对焦": "80 cm (wide), 50 cm (tele).",
+    "曝光测光": "EV 7~16 (wide), EV 8.9~17.9 (tele) with ISO100 film.",
+    "重量": "139,5x73,5x55,5 mm, 323 g.",
+    "英文简介": "Dual-lensed compact auto-focus camera from Fuji, offering 35mm and 70mm focal lengths."
   },
   "images": [],
   "sources": [

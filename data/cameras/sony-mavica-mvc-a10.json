@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼胶片相机，1989 年发布",
-  "description": "The Sony still-video camera MVC-A10 was a 1989 update to the Sony MVC-C1.",
+  "description": "索尼于1989年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica MVC-A10"
+    "Camera-wiki": "Sony Mavica MVC-A10",
+    "英文简介": "The Sony still-video camera MVC-A10 was a 1989 update to the Sony MVC-C1."
   },
   "images": [],
   "sources": [

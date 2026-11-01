@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达旁轴相机，1958 年发布",
-  "description": "The Minolta V2 is a rangefinder camera, launched in 1958.",
+  "description": "美能达于1958年推出的旁轴相机。配备1:2/45mm Rokkor - PF。快门速度B, 1 sec down to 1/2000 sec.。使用35mm。0,8m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta V2"
+    "Camera-wiki": "Minolta V2",
+    "胶片/画幅": "35mm",
+    "镜头": "1:2/45mm Rokkor - PF",
+    "尺寸": "46mm",
+    "对焦": "0,8m",
+    "快门": "Optiper-Citizen-HS M-10",
+    "快门速度": "B, 1 sec down to 1/2000 sec.",
+    "光圈": "2 to 22, 4 to 22 with speed 1/1000, 8 to 22 with 1/2000",
+    "重量": "780g",
+    "英文简介": "The Minolta V2 is a rangefinder camera, launched in 1958."
   },
   "images": [],
   "sources": [

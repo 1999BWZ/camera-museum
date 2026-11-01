@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1992 年发布",
-  "description": "The Kodak Star 35 sf is a 35mm film camera by Kodak.",
+  "description": "柯达于1992年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star 35 sf"
+    "Camera-wiki": "Kodak Star 35 sf",
+    "英文简介": "The Kodak Star 35 sf is a 35mm film camera by Kodak."
   },
   "images": [],
   "sources": [

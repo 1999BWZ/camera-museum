@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA折叠相机，1912 年发布",
-  "description": "The Niklas is a 6x9cm or 9x12cm plate camera[http://vintagephoto.tv/icamodels1922.shtml Scott's Photographia] lists both sizes made in Germany by Ica, introduced c.1912.",
+  "description": "ICA于1912年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Niklas"
+    "Camera-wiki": "Niklas",
+    "英文简介": "The Niklas is a 6x9cm or 9x12cm plate camera[http://vintagephoto.tv/icamodels1922.shtml Scott's Photographia] lists both sizes made in Germany by Ica, introduced c.1912."
   },
   "images": [],
   "sources": [

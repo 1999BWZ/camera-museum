@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1985 年发布",
-  "description": "The Canon Snappy S (Snappy S-30 FF in Europe) of July 1985 is a compact camera for budget-conscious photographers, and was the third member of the Canon Snappy series.",
+  "description": "佳能于1985年推出的取景器相机。配备35mm, f/4.5 (3 elements in 3 groups).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Snappy S/Snappy S-30 FF"
+    "Camera-wiki": "Canon Snappy S/Snappy S-30 FF",
+    "镜头": "35mm, f/4.5 (3 elements in 3 groups).",
+    "闪光灯": "9m at ISO 100)",
+    "英文简介": "The Canon Snappy S (Snappy S-30 FF in Europe) of July 1985 is a compact camera for budget-conscious photographers, and was the third member of the Canon Snappy series."
   },
   "images": [],
   "sources": [

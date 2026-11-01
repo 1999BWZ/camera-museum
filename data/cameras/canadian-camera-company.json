@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Canadian胶片相机，1897 年发布",
-  "description": "The Canadian Camera Company was a camera-maker around the turn of the twentieth century, first in Montreal from 1897,[https://archive.org/details/lequincaisep1897fev98mont/page/389/mode/1up?q=Camera Very brief mention] of the founding of the original Canadian Camera Co.",
+  "description": "Canadian于1897年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canadian Camera Company"
+    "Camera-wiki": "Canadian Camera Company",
+    "英文简介": "The Canadian Camera Company was a camera-maker around the turn of the twentieth century, first in Montreal from 1897,[https://archive.org/details/lequincaisep1897fev98mont/page/389/mode/1up?q=Camera Very brief mention] of the founding of the original Canadian Camera Co."
   },
   "images": [],
   "sources": [

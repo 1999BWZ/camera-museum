@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Haking盒式相机，1957 年发布",
-  "description": "The Prefect is a Pseudo TLR-format roll film box camera produced by Haking in Hong Kong from around 1957's gives the date of the Votar Flex as 1958..",
+  "description": "Haking于1957年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Halina Prefect"
+    "Camera-wiki": "Halina Prefect",
+    "英文简介": "The Prefect is a Pseudo TLR-format roll film box camera produced by Haking in Hong Kong from around 1957's gives the date of the Votar Flex as 1958.."
   },
   "images": [],
   "sources": [

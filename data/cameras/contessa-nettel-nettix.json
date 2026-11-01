@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Contessa-Nettel折叠相机，1923 年发布",
-  "description": "The Contessa-Nettel Nettix is a strut folding plate camera in a leather coated metal body.",
+  "description": "Contessa-Nettel于1923年推出的折叠相机。配备Citonar 1:6.3/75mm oder Piccar Achromat 1:11/75mm。快门速度Derval or Pronto with speeds 1/25, 1/50 and 1/100 sec. plus T and B mode。使用4.5×6cm film plates or film packs。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contessa-Nettel Nettix"
+    "Camera-wiki": "Contessa-Nettel Nettix",
+    "胶片/画幅": "4.5×6cm film plates or film packs",
+    "镜头": "Citonar 1:6.3/75mm oder Piccar Achromat 1:11/75mm",
+    "快门": "Derval or Pronto with speeds 1/25, 1/50 and 1/100 sec. plus T and B mode",
+    "光圈": "up to 1:25",
+    "取景器": "Sports finder plus reflecting type finder",
+    "英文简介": "The Contessa-Nettel Nettix is a strut folding plate camera in a leather coated metal body."
   },
   "images": [],
   "sources": [

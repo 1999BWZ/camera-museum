@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片相机，1985 年发布",
-  "description": "The Yashica AF-M II is a compact fully automatic autofocus 35mm film camera from Kyocera of Japan.",
+  "description": "雅西卡于1985年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica AF-M II"
+    "Camera-wiki": "Yashica AF-M II",
+    "英文简介": "The Yashica AF-M II is a compact fully automatic autofocus 35mm film camera from Kyocera of Japan."
   },
   "images": [],
   "sources": [

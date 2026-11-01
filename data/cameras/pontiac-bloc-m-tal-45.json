@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pontiac折叠相机，1946 年发布",
-  "description": "The Bloc Métal 45 was a 6×9cm folding camera, released in 1946 by the French maker Pontiac.",
+  "description": "Pontiac于1946年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bloc Métal 45"
+    "Camera-wiki": "Bloc Métal 45",
+    "英文简介": "The Bloc Métal 45 was a 6×9cm folding camera, released in 1946 by the French maker Pontiac."
   },
   "images": [],
   "sources": [

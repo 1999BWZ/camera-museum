@@ -1,0 +1,32 @@
+{
+  "id": "panasonic-lumix-dmc-tz31",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "松下電器",
+  "model": "Lumix DMC-TZ31",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下便携相机，2012 年发布",
+  "description": "松下于2012年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q138747962",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Panasonic Lumix DMC-TZ31",
+      "url": "https://www.wikidata.org/wiki/Q138747962"
+    }
+  ],
+  "qid": "Q138747962",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

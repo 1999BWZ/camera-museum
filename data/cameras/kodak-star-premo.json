@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1903 年发布",
-  "description": "The Star Premo is a folding camera for 3¼×4¼\" filmpacks or plates.",
+  "description": "柯达于1903年推出的旁轴相机（折叠）。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Star Premo"
+    "Camera-wiki": "Kodak Star Premo",
+    "英文简介": "The Star Premo is a folding camera for 3¼×4¼\" filmpacks or plates."
   },
   "images": [],
   "sources": [

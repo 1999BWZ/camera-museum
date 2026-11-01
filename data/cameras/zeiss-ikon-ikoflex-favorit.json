@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zeiss Ikon胶片相机，1957 年发布",
-  "description": "The Ikoflex Favorit was the last and best of Zeiss Ikon's line of TLR cameras.",
+  "description": "Zeiss Ikon于1957年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ikoflex Favorit"
+    "Camera-wiki": "Ikoflex Favorit",
+    "英文简介": "The Ikoflex Favorit was the last and best of Zeiss Ikon's line of TLR cameras."
   },
   "images": [],
   "sources": [

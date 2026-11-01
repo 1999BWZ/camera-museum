@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1937 年发布",
-  "description": "The Regal Olympic is a viewfinder camera taking 4×6.5cm and 3×4cm pictures on 127 film, announced in late 1937 by Asahi Bussan.",
+  "description": "理光于1937年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regal Olympic"
+    "Camera-wiki": "Regal Olympic",
+    "英文简介": "The Regal Olympic is a viewfinder camera taking 4×6.5cm and 3×4cm pictures on 127 film, announced in late 1937 by Asahi Bussan."
   },
   "images": [],
   "sources": [

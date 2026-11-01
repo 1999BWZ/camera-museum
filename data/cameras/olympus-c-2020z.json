@@ -1,0 +1,40 @@
+{
+  "id": "olympus-c-2020z",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "C-2020Z",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，1999 年发布",
+  "description": "奥林巴斯于1999年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889135",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20C-2020Z.jpg?width=800",
+      "caption": "C-2020Z",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889135"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus C-2020Z",
+      "url": "https://www.wikidata.org/wiki/Q20889135"
+    }
+  ],
+  "qid": "Q20889135",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1916 年发布",
-  "description": "The Lily (リリー) are Japanese plate folders made by Rokuoh-sha, the manufacturing branch of Konishi or Konishiroku (predecessors of Konica).",
+  "description": "柯尼卡于1916年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lily (horizontal)"
+    "Camera-wiki": "Lily (horizontal)",
+    "英文简介": "The Lily (リリー) are Japanese plate folders made by Rokuoh-sha, the manufacturing branch of Konishi or Konishiroku (predecessors of Konica)."
   },
   "images": [],
   "sources": [

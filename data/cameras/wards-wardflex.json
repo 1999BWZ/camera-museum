@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wards胶片相机，1955 年发布",
-  "description": "There were two different versions of this camera - the Wardflex and later Wardflex II.",
+  "description": "Wards于1955年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wardflex (metal)"
+    "Camera-wiki": "Wardflex (metal)",
+    "英文简介": "There were two different versions of this camera - the Wardflex and later Wardflex II."
   },
   "images": [],
   "sources": [

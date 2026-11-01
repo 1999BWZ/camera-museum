@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1969 年发布",
-  "description": "The Ricoh 126-C EE is a viewfinder camera with fixed lens made in Japan by Ricoh from 1969.",
+  "description": "理光于1969年推出的胶片相机。配备Ricoh Rikenon f 4.8 / 40mm - 3 elements in 3 groups。快门速度Copal, Speed 1/125。Focus zone。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 126C EE"
+    "Camera-wiki": "Ricoh 126C EE",
+    "镜头": "Ricoh Rikenon f 4.8 / 40mm - 3 elements in 3 groups",
+    "快门": "Copal, Speed 1/125",
+    "曝光测光": "Selenium meter",
+    "对焦": "Focus zone",
+    "尺寸": "131,5mm x 73mm x 66mm",
+    "重量": "300 g",
+    "英文简介": "The Ricoh 126-C EE is a viewfinder camera with fixed lens made in Japan by Ricoh from 1969."
   },
   "images": [],
   "sources": [

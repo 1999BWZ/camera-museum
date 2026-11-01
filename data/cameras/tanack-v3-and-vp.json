@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tanack旁轴相机，1959 年发布",
-  "description": "The Tanack V3 (タナックV3) is a Japanese 35mm rangefinder camera, made from early 1959 by Tanaka Kōgaku.",
+  "description": "Tanack于1959年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Tanack V3 and VP"
+    "Camera-wiki": "Tanack V3 and VP",
+    "英文简介": "The Tanack V3 (タナックV3) is a Japanese 35mm rangefinder camera, made from early 1959 by Tanaka Kōgaku."
   },
   "images": [],
   "sources": [

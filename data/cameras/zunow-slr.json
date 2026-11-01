@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Zunow胶片单反相机，1958 年发布",
-  "description": "The Zunowflex is a Japanese 35mm SLR film camera launched by Zunow Optical Industry in 1958, at about the same time most of the established Japanese camera companies introduced their first models of this type.",
+  "description": "Zunow于1958年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zunow SLR"
+    "Camera-wiki": "Zunow SLR",
+    "英文简介": "The Zunowflex is a Japanese 35mm SLR film camera launched by Zunow Optical Industry in 1958, at about the same time most of the established Japanese camera companies introduced their first models of this type."
   },
   "images": [],
   "sources": [

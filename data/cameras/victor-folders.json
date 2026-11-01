@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Victor折叠相机，1937 年发布",
-  "description": "See also the Auto Victor rigid model and the Victor Vest.",
+  "description": "Victor于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Victor folders"
+    "Camera-wiki": "Victor folders",
+    "英文简介": "See also the Auto Victor rigid model and the Victor Vest."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2009 年发布",
-  "description": "The very compact Panasonic Lumix DMC-FS62 was sold since spring 2009.",
+  "description": "松下于2009年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-FS62"
+    "Camera-wiki": "Panasonic Lumix DMC-FS62",
+    "英文简介": "The very compact Panasonic Lumix DMC-FS62 was sold since spring 2009."
   },
   "images": [],
   "sources": [

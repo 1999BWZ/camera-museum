@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡胶片相机，1999 年发布",
-  "description": "The Leica C11 was one of the best compact zoom cameras for the APS film system, the only one made by Leica Camera AG.",
+  "description": "徕卡于1999年推出的胶片相机。配备1:4.8-1:9.5/23-70mm zoom (7 separate lenses)。快门速度1 - 1/600 sec.。Active infra-red system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica C11"
+    "Camera-wiki": "Leica C11",
+    "镜头": "1:4.8-1:9.5/23-70mm zoom (7 separate lenses)",
+    "对焦": "Active infra-red system",
+    "曝光测光": "integral center-weighted metering",
+    "快门速度": "1 - 1/600 sec.",
+    "取景器": "virtual image type, picture frame changes to match selected picture format",
+    "闪光灯": "reaching as far as 2 meters for a 100 ASA film with lens in wide angle position",
+    "重量": "210 g (8 oz.) without the CR2 battery",
+    "尺寸": "105 x 60 x 40 mm",
+    "英文简介": "The Leica C11 was one of the best compact zoom cameras for the APS film system, the only one made by Leica Camera AG."
   },
   "images": [],
   "sources": [

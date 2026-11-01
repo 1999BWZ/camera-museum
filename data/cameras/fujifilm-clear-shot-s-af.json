@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士便携相机，2004 年发布",
-  "description": "The Fujifilm Clear Shot S AF is a lightweight compact camera taking 35mm film, introduced by Fuji in April 2004.",
+  "description": "富士于2004年推出的便携相机。配备Fujinon 26mm, f/5.6。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Clear Shot S AF"
+    "Camera-wiki": "Fujifilm Clear Shot S AF",
+    "镜头": "Fujinon 26mm, f/5.6",
+    "尺寸": "101x62x34mm.",
+    "重量": "125 g (not including batteries).",
+    "英文简介": "The Fujifilm Clear Shot S AF is a lightweight compact camera taking 35mm film, introduced by Fuji in April 2004."
   },
   "images": [],
   "sources": [

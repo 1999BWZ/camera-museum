@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Navax胶片相机，1955 年发布",
-  "description": "The Navax 66 is a viewfinderNeeds confirmation camera for 6x6 cm pictures on 120 filmNeeds confirmation, made by Westfälische Kamera und Apparatebau in Heeßen, Germany.",
+  "description": "Navax于1955年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Navax 66"
+    "Camera-wiki": "Navax 66",
+    "英文简介": "The Navax 66 is a viewfinderNeeds confirmation camera for 6x6 cm pictures on 120 filmNeeds confirmation, made by Westfälische Kamera und Apparatebau in Heeßen, Germany."
   },
   "images": [],
   "sources": [

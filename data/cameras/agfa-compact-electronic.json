@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1980 年发布",
-  "description": "The Agfa Compact was first presented in 1980 as the Agfa Optima 935, being both the last in the Optima Sensor series and the last camera model to be produced in Agfa's Munich factory.",
+  "description": "爱克发于1980年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Compact Electronic"
+    "Camera-wiki": "Agfa Compact Electronic",
+    "英文简介": "The Agfa Compact was first presented in 1980 as the Agfa Optima 935, being both the last in the Optima Sensor series and the last camera model to be produced in Agfa's Munich factory."
   },
   "images": [],
   "sources": [

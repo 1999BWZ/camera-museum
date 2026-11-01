@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar胶片单反相机，2001 年发布",
-  "description": "__NOTOC__\n\nThe Vivitar V3800N is a Pentax K mount manual-focus 35mm SLR announced by Vivitar beginning in 2001, A [https://www.shutterbug.com/content/35mm-slr-cameras-lenses-and-flashes Shutterbug magazine article] reports it appearing at the February 2001 PMA show in Orlando, Florida.New York retai",
+  "description": "Vivitar于2001年推出的胶片单反相机。快门速度1/2000 to 1 sec, Bulb。感光度25 - 3200。Horizontal split image w/micro-prism collar。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar V3800N"
+    "Camera-wiki": "Vivitar V3800N",
+    "卡口": "Pentax K",
+    "感光度": "25 - 3200",
+    "快门": "Vertical travel, electronic metal focal plane shutter",
+    "快门速度": "1/2000 to 1 sec, Bulb",
+    "闪光灯": "Hot shoe, X-sync PC connector, 1/125",
+    "取景器": "eye-level pentaprism, 0.91x magnification, LED exposure indicators",
+    "对焦": "Horizontal split image w/micro-prism collar",
+    "电池": "1.55v LR44, SR44 or equivalent (x2)",
+    "英文简介": "__NOTOC__\n\nThe Vivitar V3800N is a Pentax K mount manual-focus 35mm SLR announced by Vivitar beginning in 2001, A [https://www.shutterbug.com/content/35mm-slr-cameras-lenses-and-flashes Shutterbug magazine article] reports it appearing at the February 2001 PMA show in Orlando, Florida.New York retailer Adorama was distributing the camera through the early 2000s."
   },
   "images": [],
   "sources": [

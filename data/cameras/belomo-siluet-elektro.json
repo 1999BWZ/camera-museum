@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1975 年发布",
-  "description": "Siluet Elektro (initially called Vilia Elektro) was made by the Soviet company BelOMO in Minsk, Belorussia from 1975 (1976?) to 1981.",
+  "description": "BelOMO于1975年推出的取景器相机。配备Triplet 69-3, 40 mm f/4。快门速度8 s – 1/250 s, B。使用135。0.8 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Siluet Elektro"
+    "Camera-wiki": "Siluet Elektro",
+    "胶片/画幅": "135",
+    "尺寸": "24x36 mm",
+    "镜头": "Triplet 69-3, 40 mm f/4",
+    "快门": "leaf, electronically controled",
+    "快门速度": "8 s – 1/250 s, B",
+    "光圈": "4 – 16",
+    "曝光测光": "1 – 16 EV",
+    "对焦": "0.8 m",
+    "闪光灯": "full",
+    "重量": "<410 g (w/o batteries)",
+    "英文简介": "Siluet Elektro (initially called Vilia Elektro) was made by the Soviet company BelOMO in Minsk, Belorussia from 1975 (1976?) to 1981."
   },
   "images": [],
   "sources": [

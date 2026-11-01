@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达数码相机，1995 年发布",
-  "description": "The Kodak DC40 was among the first consumer digital cameras sold.",
+  "description": "柯达于1995年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak DC40"
+    "Camera-wiki": "Kodak DC40",
+    "英文简介": "The Kodak DC40 was among the first consumer digital cameras sold."
   },
   "images": [],
   "sources": [

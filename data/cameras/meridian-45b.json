@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Meridian折叠相机，1947 年发布",
-  "description": "*Type: press camera\n*Manufacturer: Meridian\n*Film: 4x5\n*Year of launch: later 1940s?",
+  "description": "Meridian于1947年推出的折叠相机。使用4x5。Scale on bed。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Meridian 45B"
+    "Camera-wiki": "Meridian 45B",
+    "胶片/画幅": "4x5",
+    "对焦": "Scale on bed",
+    "尺寸": "*Weight: c.5lbs with lens",
+    "英文简介": "*Type: press camera\n*Manufacturer: Meridian\n*Film: 4x5\n*Year of launch: later 1940s?"
   },
   "images": [],
   "sources": [

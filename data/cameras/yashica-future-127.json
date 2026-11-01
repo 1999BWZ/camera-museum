@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片相机，1959 年发布",
-  "description": "The Yashica Future 127 (ヤシカ・フューチャー127) is a 4×4cm prototype camera with automated exposure, announced by Yashica in 1959.",
+  "description": "雅西卡于1959年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Future 127"
+    "Camera-wiki": "Yashica Future 127",
+    "英文简介": "The Yashica Future 127 (ヤシカ・フューチャー127) is a 4×4cm prototype camera with automated exposure, announced by Yashica in 1959."
   },
   "images": [],
   "sources": [

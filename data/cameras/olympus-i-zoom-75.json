@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯胶片相机，1999 年发布",
-  "description": "The i-Zoom 75 is an APS film zoom-lens camera assembled in China for Olympus, announced in January 1999[https://web.archive.org/web/20030926032548/http://www.olympusamerica.com/cpg_section/cpg_pressdetails.asp?pressno=2 Olympus press release] (archived).",
+  "description": "奥林巴斯于1999年推出的胶片相机。配备Olympus 28-75 mm, f4.7 - 9.9, 7 elements in 7 groups.。快门速度Programmed electronic, speeds: 4-1/500 sec.。使用IX240 (APS) cartridge film, 16.7 x 30.2mm frames.。感光度Automatic setting, range: ISO 25-3200.。Passive multi-autofocus system. Focus lock possible; range: 2 feet - Infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus i Zoom 75"
+    "Camera-wiki": "Olympus i Zoom 75",
+    "胶片/画幅": "IX240 (APS) cartridge film, 16.7 x 30.2mm frames.",
+    "镜头": "Olympus 28-75 mm, f4.7 - 9.9, 7 elements in 7 groups.",
+    "快门": "Programmed electronic, speeds: 4-1/500 sec.",
+    "取景器": "Real-image zoom viewfinder (with autofocus mark, close-up correction marks, autofocus indicator and flash indicator). C,H,P print type selection. With dioptric adjuster.",
+    "对焦": "Passive multi-autofocus system. Focus lock possible; range: 2 feet - Infinity.",
+    "感光度": "Automatic setting, range: ISO 25-3200.",
+    "自拍": "electronic, approximately 12-second delay.",
+    "闪光灯": "200 ISO film: WIDE - 2-15.4 ft./TELE - 2-7.2 ft.",
+    "尺寸": "w: 4.2 x h: 2.1 x d: 1.3 inches",
+    "重量": "5.8 oz (without battery)",
+    "英文简介": "The i-Zoom 75 is an APS film zoom-lens camera assembled in China for Olympus, announced in January 1999[https://web.archive.org/web/20030926032548/http://www.olympusamerica.com/cpg_section/cpg_pressdetails.asp?pressno=2 Olympus press release] (archived)."
   },
   "images": [],
   "sources": [

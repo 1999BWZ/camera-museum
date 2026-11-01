@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1976 年发布",
-  "description": "The EK4 is a very early model in the Kodak Instant line of cameras released in 1976.",
+  "description": "柯达于1976年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EK4"
+    "Camera-wiki": "Kodak EK4",
+    "英文简介": "The EK4 is a very early model in the Kodak Instant line of cameras released in 1976."
   },
   "images": [],
   "sources": [

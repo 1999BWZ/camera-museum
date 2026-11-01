@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡数码单反相机，1964 年发布",
-  "description": "The Konica FM was the last of the Bayonet Mount I (aka \"Early\" or \"F-Mount\") SLR cameras from Konishiroku.",
+  "description": "柯尼卡于1964年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica FM"
+    "Camera-wiki": "Konica FM",
+    "英文简介": "The Konica FM was the last of the Bayonet Mount I (aka \"Early\" or \"F-Mount\") SLR cameras from Konishiroku."
   },
   "images": [],
   "sources": [

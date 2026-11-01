@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras数码单反相机，2006 年发布",
-  "description": "The Cambo X2-Pro View Camera System, introduced in 2006 by the Dutch company Cambo, might be seen as a view camera that uses a DSLR as a digital back, or as a very good accessory bellows for a DSLR.",
+  "description": "View cameras于2006年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "X2-Pro"
+    "Camera-wiki": "X2-Pro",
+    "英文简介": "The Cambo X2-Pro View Camera System, introduced in 2006 by the Dutch company Cambo, might be seen as a view camera that uses a DSLR as a digital back, or as a very good accessory bellows for a DSLR."
   },
   "images": [],
   "sources": [

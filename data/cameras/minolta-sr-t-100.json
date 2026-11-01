@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码单反相机，1971 年发布",
-  "description": "The SR-T 100 is a 35mm SLR camera released from Japanese manufacturer Minolta in 1971.",
+  "description": "美能达于1971年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-T 100"
+    "Camera-wiki": "Minolta SR-T 100",
+    "英文简介": "The SR-T 100 is a 35mm SLR camera released from Japanese manufacturer Minolta in 1971."
   },
   "images": [],
   "sources": [

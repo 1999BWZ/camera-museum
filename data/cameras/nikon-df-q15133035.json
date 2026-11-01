@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2013 年发布",
-  "description": "尼康于2013年发布的数码相机。",
+  "description": "尼康于2013年推出的数码相机。配备Interchangeable, Nikon F-mount。快门速度Electronically controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q15133035",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "传感器": "36.0 mm × 23.9 mm CMOS, Nikon FX format, 7.3 µm pixel size",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Electronically controlled vertical-travel focal-plane shutter",
+    "曝光测光": "TTL exposure metering using 2,016-pixel RGB sensor",
+    "取景器": "Optical-type fixed eye level pentaprism",
+    "闪光灯": "none built-in",
+    "屏幕": "3.2-inch diagonal, (921,000 dots), TFT LCD",
+    "存储": "One SD, SDHC, SDXC compatible",
+    "电池": "Li-ion EN-EL14a or EN-EL14"
   },
   "images": [
     {

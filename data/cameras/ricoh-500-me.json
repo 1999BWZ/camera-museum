@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1980 年发布",
-  "description": "The Ricoh 500 ME is a compact rangefinder, introduced by Ricoh in 1980.",
+  "description": "理光于1980年推出的旁轴相机。配备Color Rikenon 40mm f/2.8。快门速度Ricoh 1/8 to 1/500s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 500 ME"
+    "Camera-wiki": "Ricoh 500 ME",
+    "镜头": "Color Rikenon 40mm f/2.8",
+    "快门": "Ricoh 1/8 to 1/500s",
+    "重量": "400ｇ",
+    "英文简介": "The Ricoh 500 ME is a compact rangefinder, introduced by Ricoh in 1980."
   },
   "images": [],
   "sources": [

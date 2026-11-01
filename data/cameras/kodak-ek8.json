@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1977 年发布",
-  "description": "Kodak AG produced this folding bellows camera in Germany from 1977-79 to use it's own PR10 instant print film.",
+  "description": "柯达于1977年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak EK8"
+    "Camera-wiki": "Kodak EK8",
+    "英文简介": "Kodak AG produced this folding bellows camera in Germany from 1977-79 to use it's own PR10 instant print film."
   },
   "images": [],
   "sources": [

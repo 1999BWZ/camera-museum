@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign折叠相机，1946 年发布",
-  "description": "The Ensign Selfix 420 is a folding camera sold by Ensign from 1946.",
+  "description": "Ensign于1946年推出的折叠相机。配备Ensar Anastigmat 105mm or 100mm (uncommon), f4.5。快门速度T, B, 1/150s, 1/100s, 1/50s, 1/25s, 1/10s, 1/5s, 1/2s, 1s。使用120 roll medium format。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ensign Selfix 420"
+    "Camera-wiki": "Ensign Selfix 420",
+    "快门": "Epsilon or Prontor II (uncommon)",
+    "快门速度": "T, B, 1/150s, 1/100s, 1/50s, 1/25s, 1/10s, 1/5s, 1/2s, 1s",
+    "镜头": "Ensar Anastigmat 105mm or 100mm (uncommon), f4.5",
+    "取景器": "lens-mounted brilliant finder and folding glassless eye finder upon top-plate",
+    "胶片/画幅": "120 roll medium format",
+    "尺寸": "6×9cm; 8 exposures per roll, 6×6; 12 exposures per roll",
+    "英文简介": "The Ensign Selfix 420 is a folding camera sold by Ensign from 1946."
   },
   "images": [],
   "sources": [

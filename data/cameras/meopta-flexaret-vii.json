@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Meopta胶片相机，1954 年发布",
-  "description": "The Flexaret VII is the last in a series of TLR cameras made by Meopta (and its predecessors) in the former Czechoslovakia.",
+  "description": "Meopta于1954年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Flexaret VII"
+    "Camera-wiki": "Flexaret VII",
+    "英文简介": "The Flexaret VII is the last in a series of TLR cameras made by Meopta (and its predecessors) in the former Czechoslovakia."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2010 年发布",
-  "description": "The PowerShot A490 is a compact digital camera which was introduced by Canon in 2010, with a 10 megapixel CCD sensor giving images of up to 3648x2736 pixels.",
+  "description": "佳能于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A490"
+    "Camera-wiki": "Canon PowerShot A490",
+    "英文简介": "The PowerShot A490 is a compact digital camera which was introduced by Canon in 2010, with a 10 megapixel CCD sensor giving images of up to 3648x2736 pixels."
   },
   "images": [],
   "sources": [

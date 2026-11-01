@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2016 年发布",
-  "description": "The K-70 is a midlevel DSLR introduced by Pentax in 2016, following the K-50 and K-S2.",
+  "description": "宾得于2016年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax K-70"
+    "Camera-wiki": "Pentax K-70",
+    "英文简介": "The K-70 is a midlevel DSLR introduced by Pentax in 2016, following the K-50 and K-S2."
   },
   "images": [],
   "sources": [

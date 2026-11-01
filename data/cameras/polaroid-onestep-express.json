@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1998 年发布",
-  "description": "The Polaroid OneStep express is a instant camera that takes 600 series film.",
+  "description": "宝丽来于1998年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid OneStep express"
+    "Camera-wiki": "Polaroid OneStep express",
+    "英文简介": "The Polaroid OneStep express is a instant camera that takes 600 series film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi取景器相机，1939 年发布",
-  "description": "The Semi Renky and New Semi Renky are Japanese 4.5×6 cameras made by Rengō Kōki and distributed by Fuku Bōeki from 1939 to about 1943.",
+  "description": "Semi于1939年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Renky"
+    "Camera-wiki": "Semi Renky",
+    "英文简介": "The Semi Renky and New Semi Renky are Japanese 4.5×6 cameras made by Rengō Kōki and distributed by Fuku Bōeki from 1939 to about 1943."
   },
   "images": [],
   "sources": [

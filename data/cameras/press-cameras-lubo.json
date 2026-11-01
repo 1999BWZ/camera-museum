@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Press cameras双镜头反光相机，1941 年发布",
-  "description": "The LuboMcKeown and some auctioneers name the camera the 'Lubo 41', and the 1941 advertisement reproduced here calls it the 'Lubo 1941', but the camera itself is only engraved Lubo.",
+  "description": "Press cameras于1941年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lubo"
+    "Camera-wiki": "Lubo",
+    "英文简介": "The LuboMcKeown and some auctioneers name the camera the 'Lubo 41', and the 1941 advertisement reproduced here calls it the 'Lubo 1941', but the camera itself is only engraved Lubo."
   },
   "images": [],
   "sources": [

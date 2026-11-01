@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "适马胶片单反相机，1990 年发布",
-  "description": "In 1990 the Japanese company Sigma introduced 3 Auto Focus 35mm cameras.",
+  "description": "适马于1990年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sigma 28-35-50 AF Zoom"
+    "Camera-wiki": "Sigma 28-35-50 AF Zoom",
+    "英文简介": "In 1990 the Japanese company Sigma introduced 3 Auto Focus 35mm cameras."
   },
   "images": [],
   "sources": [

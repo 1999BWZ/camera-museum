@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Okada/Daiichi折叠相机，1952 年发布",
-  "description": "The Zenobia (ゼノビア) is a series of Japanese 4.5×6 folders, successors to the Waltax.",
+  "description": "Okada/Daiichi于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zenobia"
+    "Camera-wiki": "Zenobia",
+    "英文简介": "The Zenobia (ゼノビア) is a series of Japanese 4.5×6 folders, successors to the Waltax."
   },
   "images": [],
   "sources": [

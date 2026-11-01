@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达玩具相机，1997 年发布",
-  "description": "Kodak released a camera to tie-in with the 1996 film 101 Dalmatians.",
+  "description": "柯达于1997年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak 101 Dalmatians"
+    "Camera-wiki": "Kodak 101 Dalmatians",
+    "英文简介": "Kodak released a camera to tie-in with the 1996 film 101 Dalmatians."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2012 年发布",
-  "description": "索尼于2012年发布的数码单反相机。",
+  "description": "索尼于2012年推出的数码单反相机。配备interchangeable, Sony A-mount。快门速度electronically controlled, vertical-traverse, focal-plane Shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1519828",
-    "多语言词条数": "5"
+    "多语言词条数": "5",
+    "传感器": "23.5 mm × 15.6 mm, 16.1 effective megapixels CMOS",
+    "镜头": "interchangeable, Sony A-mount",
+    "快门速度": "electronically controlled, vertical-traverse, focal-plane Shutter",
+    "曝光测光": "Advanced 1200-zone evaluative metering",
+    "取景器": "0.46\" SVGA Xtra Fine EVF (2174 dpi) (Electronic viewfinder) (1,440,000 pixels), Diopter Adjustment: -4.0 to +3.0 m-1, Field of View: 100%, 1.04x magnification",
+    "闪光灯": "Built-in flash, Range: approx. 3' - 15' (1 m - 5 m); Auto, Fill-flash, Slow Sync., Rear Sync., Hi-speed sync., Red-eye reduction (on/off selectable for Autoflash and fill-flash mode), Wireless;",
+    "存储": "Memory Stick PRO Duo™, Memory Stick PRO-HG Duo™, SD memory card, SDHC memory card, SDXC memory card",
+    "电池": "InfoLITHIUM® NP-FM500H (7.2 V)",
+    "重量": "Approx. 618 g (with battery & media);"
   },
   "images": [
     {

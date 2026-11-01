@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2010 年发布",
-  "description": "In 2010 Sony presented an alternate conception for sophisticated digital system cameras, the SLT concept with EVF which is optimized for video shooting with continuous autofocus.",
+  "description": "索尼于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony α55"
+    "Camera-wiki": "Sony α55",
+    "英文简介": "In 2010 Sony presented an alternate conception for sophisticated digital system cameras, the SLT concept with EVF which is optimized for video shooting with continuous autofocus."
   },
   "images": [],
   "sources": [

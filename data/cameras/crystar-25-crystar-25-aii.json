@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Crystar胶片相机，1954 年发布",
-  "description": "These were two variants of Crystar's geared-lens TLR from circa 1954.",
+  "description": "Crystar于1954年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Crystar 25/Crystar 25 AII"
+    "Camera-wiki": "Crystar 25/Crystar 25 AII",
+    "英文简介": "These were two variants of Crystar's geared-lens TLR from circa 1954."
   },
   "images": [],
   "sources": [

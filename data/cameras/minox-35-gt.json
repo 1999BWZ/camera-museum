@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox取景器相机，1981 年发布",
-  "description": "== Background Information ==\n\nThe Minox 35 GT, introduced in 1981, continued Minox's successful range of 35mm compact cameras, reputedly the smallest full-frame 35mm cameras ever made.",
+  "description": "Minox于1981年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox 35 GT"
+    "Camera-wiki": "Minox 35 GT",
+    "英文简介": "== Background Information ==\n\nThe Minox 35 GT, introduced in 1981, continued Minox's successful range of 35mm compact cameras, reputedly the smallest full-frame 35mm cameras ever made."
   },
   "images": [],
   "sources": [

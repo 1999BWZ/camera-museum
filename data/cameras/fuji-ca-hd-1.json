@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1979 年发布",
-  "description": "The Fujica HD-1 is a heavy-duty 35mm compact camera from Fuji, launched in 1979.",
+  "description": "Fuji于1979年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica HD-1"
+    "Camera-wiki": "Fujica HD-1",
+    "英文简介": "The Fujica HD-1 is a heavy-duty 35mm compact camera from Fuji, launched in 1979."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2000 年发布",
-  "description": "Introduced in 2000, the Mavica MVC-CD1000 was the first Mavica digital camera from Sony to use optical CD-R discs, where earlier Mavicas (like the CD1000's predecessor the FD95) used 3.5\" floppies.",
+  "description": "索尼于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica CD1000"
+    "Camera-wiki": "Sony Mavica CD1000",
+    "英文简介": "Introduced in 2000, the Mavica MVC-CD1000 was the first Mavica digital camera from Sony to use optical CD-R discs, where earlier Mavicas (like the CD1000's predecessor the FD95) used 3.5\" floppies."
   },
   "images": [],
   "sources": [

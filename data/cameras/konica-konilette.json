@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1953 年发布",
-  "description": "__NOTOC__\nNOTE: There is also the Konilette 35, a non-folding rigid-bodied 35mm viewfinder camera, discussed elsewhere.",
+  "description": "柯尼卡于1953年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konilette"
+    "Camera-wiki": "Konilette",
+    "英文简介": "__NOTOC__\nNOTE: There is also the Konilette 35, a non-folding rigid-bodied 35mm viewfinder camera, discussed elsewhere."
   },
   "images": [],
   "sources": [

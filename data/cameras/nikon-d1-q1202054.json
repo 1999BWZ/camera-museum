@@ -13,11 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，1999 年发布",
-  "description": "尼康于1999年发布的数码单反相机。",
+  "description": "尼康于1999年推出的数码单反相机。配备Interchangeable, Nikon F-mount。快门速度Charge-coupled electronic and mechanical shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1202054",
-    "多语言词条数": "19"
+    "多语言词条数": "19",
+    "传感器": "CCD, 23.7 × 15.6 mm DX format, 1.5× FOV crop, 11.8 µm pixel(quadra filter),5.9 µm pixel size.",
+    "镜头": "Interchangeable, Nikon F-mount",
+    "快门速度": "Charge-coupled electronic and mechanical shutter",
+    "曝光测光": "3D Color Matrix Metering Through-the-lens (TTL) Full-Aperture exposure metering with 1,005-pixel CCD"
   },
   "images": [
     {

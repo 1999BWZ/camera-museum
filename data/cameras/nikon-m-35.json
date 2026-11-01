@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康旁轴相机，1967 年发布",
-  "description": "The M-35 is a 35mm film camera body made by Nikon from 1967 onward[https://www.nicovandijk.net/m35.htm Nikon M-35 page] by [https://www.nicovandijk.net/ Nico van Dijk] for attachment to a microscope, part of a series of outfits named Microflex.",
+  "description": "尼康于1967年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon M-35"
+    "Camera-wiki": "Nikon M-35",
+    "英文简介": "The M-35 is a 35mm film camera body made by Nikon from 1967 onward[https://www.nicovandijk.net/m35.htm Nikon M-35 page] by [https://www.nicovandijk.net/ Nico van Dijk] for attachment to a microscope, part of a series of outfits named Microflex."
   },
   "images": [],
   "sources": [

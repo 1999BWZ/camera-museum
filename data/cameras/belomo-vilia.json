@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1973 年发布",
-  "description": "Vilia (Вилия in RussianVilia is a river flowing through Belorussia and Lithuania) compact camera was produced by the Soviet company BelOMO of Minsk in Soviet Belorussia from 1973 to 1986; some 2 to 3 millions were made.",
+  "description": "BelOMO于1973年推出的取景器相机。配备Triplet 69-3, 40 mm f/4。快门速度1/30 s – 1/250 s, B。使用135。0.8 m。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vilia"
+    "Camera-wiki": "Vilia",
+    "胶片/画幅": "135",
+    "尺寸": "24x36 mm",
+    "镜头": "Triplet 69-3, 40 mm f/4",
+    "快门": "leaf, mechanical",
+    "快门速度": "1/30 s – 1/250 s, B",
+    "光圈": "4 – 16",
+    "曝光测光": "9 – 16 EV",
+    "对焦": "0.8 m",
+    "闪光灯": "full",
+    "重量": "<400 g",
+    "英文简介": "Vilia (Вилия in RussianVilia is a river flowing through Belorussia and Lithuania) compact camera was produced by the Soviet company BelOMO of Minsk in Soviet Belorussia from 1973 to 1986; some 2 to 3 millions were made."
   },
   "images": [],
   "sources": [

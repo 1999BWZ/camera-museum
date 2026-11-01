@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2017 年发布",
-  "description": "The Instax Square SQ10 is a hybrid digital camera with a built in instant film printer released in 2017 by Fujifilm.",
+  "description": "富士于2017年推出的数码相机。配备28.5 mm (35-mm format equivalent) 1:2.4。快门速度1/2 to 1/29500 (maximum 10 sec in Bulb mode)。感光度100 to 1600 (Auto)。有效像素800x800dots (318 dpi, 80 μm dot pitch)。Single AF (Contrast-detect TTL)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Instax Square SQ10"
+    "Camera-wiki": "Fujifilm Instax Square SQ10",
+    "镜头": "28.5 mm (35-mm format equivalent) 1:2.4",
+    "传感器": "1/4\" CMOS",
+    "尺寸": "1920x1920 pixels",
+    "对焦": "Single AF (Contrast-detect TTL)",
+    "曝光测光": "Programmed AE",
+    "快门速度": "1/2 to 1/29500 (maximum 10 sec in Bulb mode)",
+    "感光度": "100 to 1600 (Auto)",
+    "闪光灯": "50cm-8m",
+    "像素": "800x800dots (318 dpi, 80 μm dot pitch)",
+    "英文简介": "The Instax Square SQ10 is a hybrid digital camera with a built in instant film printer released in 2017 by Fujifilm."
   },
   "images": [],
   "sources": [

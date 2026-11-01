@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1917 年发布",
-  "description": "The No.2C Brownie by Kodak is a box camera for 130 film.",
+  "description": "柯达于1917年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 2C Brownie"
+    "Camera-wiki": "No. 2C Brownie",
+    "英文简介": "The No.2C Brownie by Kodak is a box camera for 130 film."
   },
   "images": [],
   "sources": [

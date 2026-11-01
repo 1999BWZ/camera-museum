@@ -1,0 +1,32 @@
+{
+  "id": "gopro-hero7-black",
+  "brand": "GoPro",
+  "brand_cn": "",
+  "brand_slug": "gopro",
+  "country": "待补充",
+  "manufacturer": "GoPro",
+  "model": "Hero7 Black",
+  "year": 2018,
+  "type": "compact",
+  "type_cn": "运动相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GoPro运动相机，2018 年发布",
+  "description": "GoPro于2018年发布的运动相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q60198342",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – GoPro Hero7 Black",
+      "url": "https://www.wikidata.org/wiki/Q60198342"
+    }
+  ],
+  "qid": "Q60198342",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

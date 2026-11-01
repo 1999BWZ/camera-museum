@@ -1,0 +1,32 @@
+{
+  "id": "fujifilm-finepix-s1",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "FinePix S1",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士便携相机，2014 年发布",
+  "description": "富士于2014年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q137581210",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Fujifilm FinePix S1",
+      "url": "https://www.wikidata.org/wiki/Q137581210"
+    }
+  ],
+  "qid": "Q137581210",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1972 年发布",
-  "description": "The Minox Model BL is essentially a redesigned Model B with the addition of a semi-coupled CdS (Cadmium Sulfide) exposure meter.",
+  "description": "Minox于1972年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox BL"
+    "Camera-wiki": "Minox BL",
+    "英文简介": "The Minox Model BL is essentially a redesigned Model B with the addition of a semi-coupled CdS (Cadmium Sulfide) exposure meter."
   },
   "images": [],
   "sources": [

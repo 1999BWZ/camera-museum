@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pontiac折叠相机，1941 年发布",
-  "description": "The Bloc Métal 41 was released in 1941 by the French maker MFAP(Pontiac).",
+  "description": "Pontiac于1941年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bloc Métal 41"
+    "Camera-wiki": "Bloc Métal 41",
+    "英文简介": "The Bloc Métal 41 was released in 1941 by the French maker MFAP(Pontiac)."
   },
   "images": [],
   "sources": [

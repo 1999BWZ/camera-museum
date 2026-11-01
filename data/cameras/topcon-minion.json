@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon折叠相机，1938 年发布",
-  "description": "The Minion (ミニヨン) is a series of Japanese folding cameras taking 4×5cm pictures on 127 film, made by Tōkyō Kōgaku (the maker of the Topcon cameras) between 1938 and 1943 and again after the war.",
+  "description": "Topcon于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minion"
+    "Camera-wiki": "Minion",
+    "英文简介": "The Minion (ミニヨン) is a series of Japanese folding cameras taking 4×5cm pictures on 127 film, made by Tōkyō Kōgaku (the maker of the Topcon cameras) between 1938 and 1943 and again after the war."
   },
   "images": [],
   "sources": [

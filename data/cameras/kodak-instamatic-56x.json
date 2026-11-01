@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1972 年发布",
-  "description": "The Kodak Instamatic 56-X was a viewfinder camera for 126 (Kodapak) film cartridges.",
+  "description": "柯达于1972年推出的便携相机。配备1:11/43mm, fixed focus。快门速度single speed 1/50 sec.。使用type No. 126 cartridge for 28×28mm exposures。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Instamatic 56X"
+    "Camera-wiki": "Kodak Instamatic 56X",
+    "胶片/画幅": "type No. 126 cartridge for 28×28mm exposures",
+    "镜头": "1:11/43mm, fixed focus",
+    "快门": "single speed 1/50 sec.",
+    "取景器": "optical",
+    "闪光灯": "Magicubes",
+    "英文简介": "The Kodak Instamatic 56-X was a viewfinder camera for 126 (Kodapak) film cartridges."
   },
   "images": [],
   "sources": [

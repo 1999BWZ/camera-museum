@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bradac brothers胶片相机，1938 年发布",
-  "description": "The Autoflex is a Czechoslovak TLR produced by the Bradac brothers in 1938 and later on continued by Optikotechna.",
+  "description": "Bradac brothers于1938年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Autoflex (Bradac)"
+    "Camera-wiki": "Autoflex (Bradac)",
+    "英文简介": "The Autoflex is a Czechoslovak TLR produced by the Bradac brothers in 1938 and later on continued by Optikotechna."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Arsenal胶片单反相机，1957 年发布",
-  "description": "Salyut is a medium format SLR film system camera, manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR , made from 1957-1974 with quantity 50000.",
+  "description": "Arsenal于1957年推出的胶片单反相机。配备Industar-29 80mm f/2.8 chrome standard lens。快门速度Horizontal focal plane metallic curtain。使用120 rollfilm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Salyut"
+    "Camera-wiki": "Salyut",
+    "胶片/画幅": "120 rollfilm",
+    "卡口": "Coarse-thread screw mount (Hasselblad 1600 copy)",
+    "镜头": "Industar-29 80mm f/2.8 chrome standard lens",
+    "快门": "Horizontal focal plane metallic curtain",
+    "英文简介": "Salyut is a medium format SLR film system camera, manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR , made from 1957-1974 with quantity 50000."
   },
   "images": [],
   "sources": [

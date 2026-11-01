@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1996 年发布",
-  "description": "The Minolta Vectis UC is a compact camera of Minolta's Vectis series for the Advanced Photo System.",
+  "description": "美能达于1996年推出的便携相机。配备25mm 1:4 with 3 elements in 3 groups (equivalent to a 30mm lens for 35mm film)。快门速度electronically controlled shutter with speeds 1/4 to 1/350 sec.。active infrared。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Vectis UC"
+    "Camera-wiki": "Minolta Vectis UC",
+    "镜头": "25mm 1:4 with 3 elements in 3 groups (equivalent to a 30mm lens for 35mm film)",
+    "快门": "electronically controlled shutter with speeds 1/4 to 1/350 sec.",
+    "对焦": "active infrared",
+    "曝光测光": "center-weighted",
+    "取景器": "reverse Galilean real image finder, framed depending on chosen exposure format",
+    "闪光灯": "built-in, modes off, on, automatic, night portrait and anti-red-eye",
+    "英文简介": "The Minolta Vectis UC is a compact camera of Minolta's Vectis series for the Advanced Photo System."
   },
   "images": [],
   "sources": [

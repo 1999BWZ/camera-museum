@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1996 年发布",
-  "description": "尼康于1996年发布的胶片单反相机。",
+  "description": "尼康于1996年推出的胶片单反相机。配备Nikon F-mount。快门速度Lithium niobate oscillator controlled vertical focal plane shutter; Electromagnetic Bulb Setting。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1510216",
-    "多语言词条数": "11"
+    "多语言词条数": "11",
+    "胶片/画幅": "35mm",
+    "镜头": "Nikon F-mount",
+    "快门速度": "Lithium niobate oscillator controlled vertical focal plane shutter; Electromagnetic Bulb Setting",
+    "曝光测光": "1005-pixel RGB sensor",
+    "取景器": "| magnification= 0.70x",
+    "闪光灯": "| flashcomp =",
+    "电池": "8x AA battery, option MN-30 NiMH battery",
+    "尺寸": "158 x 149 x 79 mm",
+    "重量": "1,210 g without batteries nor film"
   },
   "images": [
     {

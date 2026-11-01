@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1994 年发布",
-  "description": "The Minolta F 20R is a 1994 compact camera, basically a fixed focus version of the AF 101R.",
+  "description": "美能达于1994年推出的取景器相机。配备28 mm f/5,6.。快门速度1/125 s.。使用Automatic loading and advance, manually activated motor rewind.。感光度DX coded films ISO 100–400. Non-DX films exposed as ISO 100.。Active infrared autofocus from 1,2 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta F20R"
+    "Camera-wiki": "Minolta F20R",
+    "镜头": "28 mm f/5,6.",
+    "快门": "1/125 s.",
+    "对焦": "Active infrared autofocus from 1,2 m to infinity.",
+    "闪光灯": "Built-in auto flash with anti-red eye lamp. Forced flash and flash off modes. Range: 1,5–2,7 m. Flash ready LED signal.",
+    "感光度": "DX coded films ISO 100–400. Non-DX films exposed as ISO 100.",
+    "胶片/画幅": "Automatic loading and advance, manually activated motor rewind.",
+    "尺寸": "118 x 63 x 42 mm.",
+    "重量": "160 g without batteries.",
+    "英文简介": "The Minolta F 20R is a 1994 compact camera, basically a fixed focus version of the AF 101R."
   },
   "images": [],
   "sources": [

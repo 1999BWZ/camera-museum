@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Karoron旁轴相机，1952 年发布",
-  "description": "The Petri RF, Karoron RF and Karoron SII are different model names used for the same camera.",
+  "description": "Karoron于1952年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Karoron RF and Petri RF"
+    "Camera-wiki": "Karoron RF and Petri RF",
+    "英文简介": "The Petri RF, Karoron RF and Karoron SII are different model names used for the same camera."
   },
   "images": [],
   "sources": [

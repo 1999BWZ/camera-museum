@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片相机，1989 年发布",
-  "description": "The Zoom 90 is a 35mm compact zoom camera with autofocus made by Pentax.",
+  "description": "宾得于1989年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Zoom 90"
+    "Camera-wiki": "Pentax Zoom 90",
+    "英文简介": "The Zoom 90 is a 35mm compact zoom camera with autofocus made by Pentax."
   },
   "images": [],
   "sources": [

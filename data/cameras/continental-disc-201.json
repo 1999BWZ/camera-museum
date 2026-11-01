@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Continental胶片相机，1982 年发布",
-  "description": "The Continental Disc 201, marked on camera as Continental 201, is a camera for disc film.",
+  "description": "Continental于1982年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Continental Disc 201"
+    "Camera-wiki": "Continental Disc 201",
+    "英文简介": "The Continental Disc 201, marked on camera as Continental 201, is a camera for disc film."
   },
   "images": [],
   "sources": [

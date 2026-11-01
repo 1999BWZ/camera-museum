@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "福伦达取景器相机，1964 年发布",
-  "description": "The Vitrona is 35mm viewfinder camera introduced c.1964 by Voigtländer.",
+  "description": "福伦达于1964年推出的取景器相机。配备Lanthar f/2.8 50mm。快门速度Prontor 250。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voigtländer Vitrona"
+    "Camera-wiki": "Voigtländer Vitrona",
+    "胶片/画幅": "35mm",
+    "镜头": "Lanthar f/2.8 50mm",
+    "快门": "Prontor 250",
+    "闪光灯": "Built-In",
+    "英文简介": "The Vitrona is 35mm viewfinder camera introduced c.1964 by Voigtländer."
   },
   "images": [],
   "sources": [

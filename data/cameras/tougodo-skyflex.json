@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Tougodo胶片相机，1955 年发布",
-  "description": "The Skyflex is a Rolleicord-inspired twin lens reflex for 6&times;6 images on 120 film.",
+  "description": "Tougodo于1955年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Skyflex"
+    "Camera-wiki": "Skyflex",
+    "英文简介": "The Skyflex is a Rolleicord-inspired twin lens reflex for 6&times;6 images on 120 film."
   },
   "images": [],
   "sources": [

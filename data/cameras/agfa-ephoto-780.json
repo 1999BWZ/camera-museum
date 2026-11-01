@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发数码相机，1998 年发布",
-  "description": "The ePhoto 780 is a digital camera made in Taiwan for Agfa, introduced c.1998[https://www.digitalkameramuseum.de/en/cameras/item/agfa-ephoto-780 ePhoto 780] in [https://www.digitalkameramuseum.de/en/ Digitalkameramuseum.de].",
+  "description": "爱克发于1998年推出的数码相机。使用JPEG。有效像素1,024 x 768 pixels (interpolated, 0.7 megapixels); (640 x 480 (VGA) and 320 x 240 also available)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "EPhoto 780"
+    "Camera-wiki": "EPhoto 780",
+    "传感器": "350,000 pixels (0.35 megapixels)",
+    "像素": "1,024 x 768 pixels (interpolated, 0.7 megapixels); (640 x 480 (VGA) and 320 x 240 also available)",
+    "胶片/画幅": "JPEG",
+    "取景器": "Optical, or rear LCD screen",
+    "英文简介": "The ePhoto 780 is a digital camera made in Taiwan for Agfa, introduced c.1998[https://www.digitalkameramuseum.de/en/cameras/item/agfa-ephoto-780 ePhoto 780] in [https://www.digitalkameramuseum.de/en/ Digitalkameramuseum.de]."
   },
   "images": [],
   "sources": [

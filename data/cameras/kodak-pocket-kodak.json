@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达盒式相机，1895 年发布",
-  "description": "The Pocket Kodak is a small leather-covered wooden box camera made from 1895 to 1900.",
+  "description": "柯达于1895年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pocket Kodak"
+    "Camera-wiki": "Pocket Kodak",
+    "英文简介": "The Pocket Kodak is a small leather-covered wooden box camera made from 1895 to 1900."
   },
   "images": [],
   "sources": [

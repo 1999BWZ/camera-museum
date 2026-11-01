@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Canomatic胶片相机，1970 年发布",
-  "description": "This model should not be confused with the fraudulent \"Canomatic\"-badged version of the Olympia plastic camera.",
+  "description": "Canomatic于1970年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canomatic M70"
+    "Camera-wiki": "Canomatic M70",
+    "英文简介": "This model should not be confused with the fraudulent \"Canomatic\"-badged version of the Olympia plastic camera."
   },
   "images": [],
   "sources": [

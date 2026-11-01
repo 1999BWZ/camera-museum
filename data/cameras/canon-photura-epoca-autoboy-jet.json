@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1990 年发布",
-  "description": "The Canon Photura is an oddly-shaped 1990 model from Canon's very successful Sure Shot range.",
+  "description": "佳能于1990年推出的胶片单反相机。快门速度2s-1/250s.。感光度ISO 25-3200 (with DX Encoding).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Photura/Epoca/Autoboy Jet"
+    "Camera-wiki": "Canon Photura/Epoca/Autoboy Jet",
+    "快门速度": "2s-1/250s.",
+    "感光度": "ISO 25-3200 (with DX Encoding).",
+    "尺寸": "100×74×156mm.",
+    "重量": "645g (with battery).",
+    "英文简介": "The Canon Photura is an oddly-shaped 1990 model from Canon's very successful Sure Shot range."
   },
   "images": [],
   "sources": [

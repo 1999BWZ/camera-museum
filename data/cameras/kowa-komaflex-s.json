@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kowa数码单反相机，1960 年发布",
-  "description": "The Komaflex-S is a Japanese 4×4 SLR made by Kowa from 1960, for export only.",
+  "description": "Kowa于1960年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Komaflex-S"
+    "Camera-wiki": "Komaflex-S",
+    "英文简介": "The Komaflex-S is a Japanese 4×4 SLR made by Kowa from 1960, for export only."
   },
   "images": [],
   "sources": [

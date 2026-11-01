@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士便携相机，1996 年发布",
-  "description": "The Fujifilm Tiara Zoom aka DL Super Mini Zoom or Cardia Mini Tiara Zoom, is a 35mm compact camera made by Fuji.",
+  "description": "富士于1996年推出的便携相机。配备1:4.5-1:7.5/28-56mm。快门速度speeds 1-1/500 sec.。使用35mm films with speeds 50 to 3200 ASA。autofocus。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Tiara Zoom"
+    "Camera-wiki": "Fujifilm Tiara Zoom",
+    "胶片/画幅": "35mm films with speeds 50 to 3200 ASA",
+    "镜头": "1:4.5-1:7.5/28-56mm",
+    "快门": "speeds 1-1/500 sec.",
+    "对焦": "autofocus",
+    "曝光测光": "automatic",
+    "重量": "202g without CR123A battery",
+    "尺寸": "116×63×34mm",
+    "英文简介": "The Fujifilm Tiara Zoom aka DL Super Mini Zoom or Cardia Mini Tiara Zoom, is a 35mm compact camera made by Fuji."
   },
   "images": [],
   "sources": [

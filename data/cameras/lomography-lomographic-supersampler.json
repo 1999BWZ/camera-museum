@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography取景器相机，2002 年发布",
-  "description": "A whimsical 35mm toy camera offered by the Lomography Society which exposes four narrow stripes in quick succession onto a standard 24&times;36 mm film frame.",
+  "description": "Lomography于2002年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomographic SuperSampler"
+    "Camera-wiki": "Lomographic SuperSampler",
+    "英文简介": "A whimsical 35mm toy camera offered by the Lomography Society which exposes four narrow stripes in quick succession onto a standard 24&times;36 mm film frame."
   },
   "images": [],
   "sources": [

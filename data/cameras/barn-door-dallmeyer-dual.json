@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Barn door折叠相机，1931 年发布",
-  "description": "The Dallmeyer Dual is a strut-folding camera for 4.5x6 cm photographs on 120 roll film, sold in 1931.",
+  "description": "Barn door于1931年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dallmeyer Dual"
+    "Camera-wiki": "Dallmeyer Dual",
+    "英文简介": "The Dallmeyer Dual is a strut-folding camera for 4.5x6 cm photographs on 120 roll film, sold in 1931."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1989 年发布",
-  "description": "The Snappy Q is a point and shoot 35mm film camera from Canon release in 1989.",
+  "description": "佳能于1989年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Snappy Q"
+    "Camera-wiki": "Canon Snappy Q",
+    "英文简介": "The Snappy Q is a point and shoot 35mm film camera from Canon release in 1989."
   },
   "images": [],
   "sources": [

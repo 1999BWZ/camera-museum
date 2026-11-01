@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1962 年发布",
-  "description": "The Ricoh 35 L is a rangefinder camera with fixed lens made in Japan by Ricoh from 1962.",
+  "description": "理光于1962年推出的旁轴相机。配备Ricoh S-Kominar f 2 / 4.8cm - 6 elements in 5 groups。快门速度Seikosha SLV, Speeds 1 - 1/500 sec + B。manual focusing with help of coupled rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 35 L"
+    "Camera-wiki": "Ricoh 35 L",
+    "镜头": "Ricoh S-Kominar f 2 / 4.8cm - 6 elements in 5 groups",
+    "快门": "Seikosha SLV, Speeds 1 - 1/500 sec + B",
+    "光圈": "1:2 - 1:16",
+    "对焦": "manual focusing with help of coupled rangefinder",
+    "曝光测光": "Selenium coupled light meter",
+    "尺寸": "140mm x 82mm x 69,4mm",
+    "重量": "730 g",
+    "英文简介": "The Ricoh 35 L is a rangefinder camera with fixed lens made in Japan by Ricoh from 1962."
   },
   "images": [],
   "sources": [

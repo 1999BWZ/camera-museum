@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能胶片单反相机，1984 年发布",
-  "description": "Canon released the second camera in the T-series, the T70 in April 1984.",
+  "description": "佳能于1984年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon T70"
+    "Camera-wiki": "Canon T70",
+    "英文简介": "Canon released the second camera in the T-series, the T70 in April 1984."
   },
   "images": [],
   "sources": [

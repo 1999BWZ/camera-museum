@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达一次成像相机，1982 年发布",
-  "description": "The Kodamatic 980 is a instant camera manufactured by Kodak in 1982.",
+  "description": "柯达于1982年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Kodamatic 980L"
+    "Camera-wiki": "Kodak Kodamatic 980L",
+    "英文简介": "The Kodamatic 980 is a instant camera manufactured by Kodak in 1982."
   },
   "images": [],
   "sources": [

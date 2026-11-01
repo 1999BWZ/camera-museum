@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码相机，2009 年发布",
-  "description": "The S1000pj is part of the Coolpix line of digital compact cameras announced by Nikon in 2009.",
+  "description": "尼康于2009年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon Coolpix S1000pj"
+    "Camera-wiki": "Nikon Coolpix S1000pj",
+    "英文简介": "The S1000pj is part of the Coolpix line of digital compact cameras announced by Nikon in 2009."
   },
   "images": [],
   "sources": [

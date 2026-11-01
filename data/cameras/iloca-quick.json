@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Iloca取景器相机，1951 年发布",
-  "description": "A series of 35mm cameras from Iloca carried the name Quick.",
+  "description": "Iloca于1951年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Iloca Quick"
+    "Camera-wiki": "Iloca Quick",
+    "英文简介": "A series of 35mm cameras from Iloca carried the name Quick."
   },
   "images": [],
   "sources": [

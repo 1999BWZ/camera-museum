@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，2001 年发布",
-  "description": "The µ[mju:]-II ZOOM 170 is a 35mm compact point and shoot camera manufactured by Olympus in about 2001.",
+  "description": "奥林巴斯于2001年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus mju II ZOOM 170"
+    "Camera-wiki": "Olympus mju II ZOOM 170",
+    "英文简介": "The µ[mju:]-II ZOOM 170 is a 35mm compact point and shoot camera manufactured by Olympus in about 2001."
   },
   "images": [],
   "sources": [

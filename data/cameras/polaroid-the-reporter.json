@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1977 年发布",
-  "description": "The Reporter is a Polaroid self-erecting folding camera for type 80 or 100 instant film.",
+  "description": "宝丽来于1977年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid The Reporter"
+    "Camera-wiki": "Polaroid The Reporter",
+    "英文简介": "The Reporter is a Polaroid self-erecting folding camera for type 80 or 100 instant film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚数码单反相机，1962 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Mamiya Family - also known as the Mamiya Korvette (in Britain) and Saturn, is a fixed-lens SLR made by Mamiya in Japan, introduced in 1962.",
+  "description": "玛米亚于1962年推出的数码单反相机。配备fixed Mamiya-Sekor (or Mamiya-Kominar) 48mm f/2.8, focussing 3.5ft - infinity。快门速度Copal leaf, speeds 1/15-1/250 + B, with flash synch。使用35mm, 36x24mm frames。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya Family"
+    "Camera-wiki": "Mamiya Family",
+    "镜头": "fixed Mamiya-Sekor (or Mamiya-Kominar) 48mm f/2.8, focussing 3.5ft - infinity",
+    "快门": "Copal leaf, speeds 1/15-1/250 + B, with flash synch",
+    "胶片/画幅": "35mm, 36x24mm frames",
+    "曝光测光": "uncoupled selenium meter",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Mamiya Family - also known as the Mamiya Korvette (in Britain) and Saturn, is a fixed-lens SLR made by Mamiya in Japan, introduced in 1962."
   },
   "images": [],
   "sources": [

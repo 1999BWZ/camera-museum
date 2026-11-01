@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Revue胶片单反相机，1994 年发布",
-  "description": "Sold as a Revue camera by Foto-Quelle, the Revue Amigo 3 date is somewhat of a 'mystery-cam'.",
+  "description": "Revue于1994年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Revue Amigo 3 Date"
+    "Camera-wiki": "Revue Amigo 3 Date",
+    "英文简介": "Sold as a Revue camera by Foto-Quelle, the Revue Amigo 3 date is somewhat of a 'mystery-cam'."
   },
   "images": [],
   "sources": [

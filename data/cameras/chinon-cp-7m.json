@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon胶片单反相机，1986 年发布",
-  "description": "The Chinon CP-7m is an angular 35mm SLR introduced by Chinon in about 1986, adding integral motorized film advance.",
+  "description": "Chinon于1986年推出的胶片单反相机。配备Pentax K Mount。快门速度Bulb, 8s - 1/2000。使用35mm。感光度25 - 5000。Manual。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon CP-7m"
+    "Camera-wiki": "Chinon CP-7m",
+    "胶片/画幅": "35mm",
+    "镜头": "Pentax K Mount",
+    "快门": "focal plane shutter",
+    "快门速度": "Bulb, 8s - 1/2000",
+    "取景器": "Pentaprism, 0.92x",
+    "感光度": "25 - 5000",
+    "曝光测光": "P, A, S, M",
+    "对焦": "Manual",
+    "电池": "Four AA or One 2CR5",
+    "重量": "514g",
+    "尺寸": "152 x 89 x 51 mm",
+    "英文简介": "The Chinon CP-7m is an angular 35mm SLR introduced by Chinon in about 1986, adding integral motorized film advance."
   },
   "images": [],
   "sources": [

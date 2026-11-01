@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得取景器相机，1991 年发布",
-  "description": "The Pentax PC-330 is a compact, plastic viewfinder camera from 1999.",
+  "description": "宾得于1991年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax PC-330"
+    "Camera-wiki": "Pentax PC-330",
+    "英文简介": "The Pentax PC-330 is a compact, plastic viewfinder camera from 1999."
   },
   "images": [],
   "sources": [

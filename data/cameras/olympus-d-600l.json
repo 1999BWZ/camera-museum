@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，1997 年发布",
-  "description": "The D-600L or C-1400L is a early fixed lens DSLR from Japanese manufacturer Olympus released in 1997.",
+  "description": "奥林巴斯于1997年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus D-600L"
+    "Camera-wiki": "Olympus D-600L",
+    "英文简介": "The D-600L or C-1400L is a early fixed lens DSLR from Japanese manufacturer Olympus released in 1997."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1976 年发布",
-  "description": "Part of Agfa's Optima Sensor Electronic series, this model has 40mm/2.8 lens, and shutter speeds from 15s to 1/500s.",
+  "description": "爱克发于1976年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Optima Sensor 535"
+    "Camera-wiki": "Optima Sensor 535",
+    "英文简介": "Part of Agfa's Optima Sensor Electronic series, this model has 40mm/2.8 lens, and shutter speeds from 15s to 1/500s."
   },
   "images": [],
   "sources": [

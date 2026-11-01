@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片相机，2003 年发布",
-  "description": "A camera released two years earlier also share the Zoom Date 70 name.",
+  "description": "富士于2003年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Zoom Date 70"
+    "Camera-wiki": "Fujifilm Zoom Date 70",
+    "英文简介": "A camera released two years earlier also share the Zoom Date 70 name."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "APM折叠相机，1922 年发布",
-  "description": "The APM Vest Pocket is a strut folding camera for 127 film.",
+  "description": "APM于1922年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "APM Vest Pocket"
+    "Camera-wiki": "APM Vest Pocket",
+    "英文简介": "The APM Vest Pocket is a strut folding camera for 127 film."
   },
   "images": [],
   "sources": [

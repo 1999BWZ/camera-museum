@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达取景器相机，1974 年发布",
-  "description": "The Minolta Hi-Matic G is a compact viewfinder camera.",
+  "description": "美能达于1974年推出的取景器相机。配备Rokkor 1:2.8/38mm (4 elements)。快门速度leaf shutter。使用35mm with speeds 25 to 400 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Hi-Matic G"
+    "Camera-wiki": "Minolta Hi-Matic G",
+    "胶片/画幅": "35mm with speeds 25 to 400 ASA",
+    "镜头": "Rokkor 1:2.8/38mm (4 elements)",
+    "快门": "leaf shutter",
+    "曝光测光": "CdS photo resistor",
+    "尺寸": "116×71×53 mm",
+    "重量": "375 g",
+    "英文简介": "The Minolta Hi-Matic G is a compact viewfinder camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1940 年发布",
-  "description": "The Roico (ロイコ) is a 4×4cm format camera, made by Riken Kōgaku Kōgyō (today Ricoh) from 1940 or 1941.",
+  "description": "理光于1940年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Roico"
+    "Camera-wiki": "Roico",
+    "英文简介": "The Roico (ロイコ) is a 4×4cm format camera, made by Riken Kōgaku Kōgyō (today Ricoh) from 1940 or 1941."
   },
   "images": [],
   "sources": [

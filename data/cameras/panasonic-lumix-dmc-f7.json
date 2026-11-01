@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2001 年发布",
-  "description": "The Lumix DMC-TZ7 is a compact digital camera from Japanese manufacture Panasonic and introduced in 2001[https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcf7 Lumix DMC-F7 overview, Sep 2001] at [https://www.dpreview.com/ DPReview.com].",
+  "description": "松下于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-F7"
+    "Camera-wiki": "Panasonic Lumix DMC-F7",
+    "英文简介": "The Lumix DMC-TZ7 is a compact digital camera from Japanese manufacture Panasonic and introduced in 2001[https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcf7 Lumix DMC-F7 overview, Sep 2001] at [https://www.dpreview.com/ DPReview.com]."
   },
   "images": [],
   "sources": [

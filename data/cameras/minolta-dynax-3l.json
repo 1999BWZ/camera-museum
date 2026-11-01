@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，2003 年发布",
-  "description": "The Minolta Dynax 3L was Minolta's last innovation in the field of autofocus system SLRs for 35mm film.",
+  "description": "美能达于2003年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 3L"
+    "Camera-wiki": "Minolta Dynax 3L",
+    "英文简介": "The Minolta Dynax 3L was Minolta's last innovation in the field of autofocus system SLRs for 35mm film."
   },
   "images": [],
   "sources": [

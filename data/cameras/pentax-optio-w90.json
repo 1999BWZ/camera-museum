@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2010 年发布",
-  "description": "The Optio W90 is a rugged digital compact camera from Japanese manufacturer Pentax released in 2010.",
+  "description": "宾得于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Optio W90"
+    "Camera-wiki": "Pentax Optio W90",
+    "英文简介": "The Optio W90 is a rugged digital compact camera from Japanese manufacturer Pentax released in 2010."
   },
   "images": [
     {

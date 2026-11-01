@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，2003 年发布",
-  "description": "A 2003 model from Canon's phenomenally successful Sure Shot range, this compact film camera - known as the 'Prima AF-10' in Europe - has a uniquely wide 26mm lens.",
+  "description": "佳能于2003年推出的便携相机。配备26mm.。Three-point active autofocus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot AF-10/Prima AF-10"
+    "Camera-wiki": "Canon Sure Shot AF-10/Prima AF-10",
+    "镜头": "26mm.",
+    "对焦": "Three-point active autofocus.",
+    "取景器": "Large and bright with autofocus frame.",
+    "英文简介": "A 2003 model from Canon's phenomenally successful Sure Shot range, this compact film camera - known as the 'Prima AF-10' in Europe - has a uniquely wide 26mm lens."
   },
   "images": [],
   "sources": [

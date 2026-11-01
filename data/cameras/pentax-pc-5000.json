@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得便携相机，2001 年发布",
-  "description": "A compact camera from the cost-effective PC series from Pentax, the PC-5000 was launched in 2001.",
+  "description": "宾得于2001年推出的便携相机。配备27mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax PC-5000"
+    "Camera-wiki": "Pentax PC-5000",
+    "镜头": "27mm",
+    "英文简介": "A compact camera from the cost-effective PC series from Pentax, the PC-5000 was launched in 2001."
   },
   "images": [],
   "sources": [

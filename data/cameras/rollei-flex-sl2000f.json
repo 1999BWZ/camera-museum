@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "禄来胶片单反相机，1981 年发布",
-  "description": "The SL2000F is a 35 mm SLR camera, introduced by Rollei in February 1981 in Europe,Popular Photography July 1982 p.",
+  "description": "禄来于1981年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Rolleiflex SL2000F"
+    "Camera-wiki": "Rolleiflex SL2000F",
+    "英文简介": "The SL2000F is a 35 mm SLR camera, introduced by Rollei in February 1981 in Europe,Popular Photography July 1982 p."
   },
   "images": [],
   "sources": [

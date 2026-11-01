@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1998 年发布",
-  "description": "Canon Prima BF8 (Date) is a 35mm compact, fully automatic, viewfinder film camera manufactured by Canon Camera Co., Inc, Tokyo, Japan and marketed in 1998.",
+  "description": "佳能于1998年推出的取景器相机。配备Canon 35mm f/4.5, three element in 3 groups, when the camera in OFF position the lens cap closes automatically。快门速度Auto, Program-type electromagnetic shutter with aperture control, Speeds: 1/45, 1/100, 1/125 and 1/180。使用Auto, film is advanced to frame 1 automatically after being loaded and the back is closed。fixed-focus, range 1m to inf.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Snappy LXII/Prima BF-8 (Date)/BF 35D"
+    "Camera-wiki": "Canon Snappy LXII/Prima BF-8 (Date)/BF 35D",
+    "镜头": "Canon 35mm f/4.5, three element in 3 groups, when the camera in OFF position the lens cap closes automatically",
+    "对焦": "fixed-focus, range 1m to inf.",
+    "快门": "Auto, Program-type electromagnetic shutter with aperture control, Speeds: 1/45, 1/100, 1/125 and 1/180",
+    "胶片/画幅": "Auto, film is advanced to frame 1 automatically after being loaded and the back is closed",
+    "闪光灯": "range: ISO 100/200 1.5-3.5m, ISO 400 1.5-6.8m; Red-Eye Reduction feature; Fires automatically in low-light conditions",
+    "电池": "2x AA Alkaline batteries, not compatible with Ni-Cd or Lithium batteries",
+    "重量": "230g wo / batteries",
+    "英文简介": "Canon Prima BF8 (Date) is a 35mm compact, fully automatic, viewfinder film camera manufactured by Canon Camera Co., Inc, Tokyo, Japan and marketed in 1998."
   },
   "images": [],
   "sources": [

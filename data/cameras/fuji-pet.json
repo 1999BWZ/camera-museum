@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji玩具相机，1961 年发布",
-  "description": "__NOTOC__\n\n\nWith an aluminium and plastic body, the Fujipet (フジペット)also known as 'Fujipetto' taking 6×6cm pictures on 120 film is often considered a \"toy camera,\" probably due to the toylike appearance and its single-element meniscus lens.",
+  "description": "Fuji于1961年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujipet"
+    "Camera-wiki": "Fujipet",
+    "尺寸": "120x100x75mm",
+    "英文简介": "__NOTOC__\n\n\nWith an aluminium and plastic body, the Fujipet (フジペット)also known as 'Fujipetto' taking 6×6cm pictures on 120 film is often considered a \"toy camera,\" probably due to the toylike appearance and its single-element meniscus lens."
   },
   "images": [],
   "sources": [

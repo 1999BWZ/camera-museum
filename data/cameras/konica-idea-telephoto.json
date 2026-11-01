@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1909 年发布",
-  "description": "The Idea Telephoto Camera (アイデア望遠写真暗函) is a Japanese special camera for telephoto pictures, made from 1909 by Rokuoh-sha, the manufacturing branch of Konishi (predecessor of Konica).",
+  "description": "柯尼卡于1909年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Idea Telephoto"
+    "Camera-wiki": "Idea Telephoto",
+    "英文简介": "The Idea Telephoto Camera (アイデア望遠写真暗函) is a Japanese special camera for telephoto pictures, made from 1909 by Rokuoh-sha, the manufacturing branch of Konishi (predecessor of Konica)."
   },
   "images": [],
   "sources": [

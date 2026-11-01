@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Norca取景器相机，1946 年发布",
-  "description": "The Norca Pin-Up was a small 35mm camera made from about 1946 by FAP, a French company that also made the Norca.",
+  "description": "Norca于1946年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Norca Pin-Up"
+    "Camera-wiki": "Norca Pin-Up",
+    "英文简介": "The Norca Pin-Up was a small 35mm camera made from about 1946 by FAP, a French company that also made the Norca."
   },
   "images": [],
   "sources": [

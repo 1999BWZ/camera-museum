@@ -13,11 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码单反相机，2014 年发布",
-  "description": "佳能于2014年发布的数码单反相机。",
+  "description": "佳能于2014年推出的数码单反相机。配备Interchangeable。快门速度Electromechanical focal-plane。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q18048758",
-    "多语言词条数": "13"
+    "多语言词条数": "13",
+    "传感器": "CMOS",
+    "镜头": "Interchangeable",
+    "取景器": "Eye-level pentaprism / LCD (Live View)",
+    "存储": "Dual slots: CompactFlash (CF) card Type I (UDMA-7 supported) and SD/SDHC/SDXC card (UHS-I bus supported), W-E1 SD card-shaped wifi adapter",
+    "快门速度": "Electromechanical focal-plane",
+    "曝光测光": "TTL, full aperture, 252 zones",
+    "屏幕": "3.0″ (7.7 cm) Clear View II colour TFT LCD screen with 1,040,000 dots",
+    "重量": "(body only)",
+    "电池": "Li-Ion LP-E6/LP-E6N rechargeable battery (1800 mAh/1865 mAh respectively)"
   },
   "images": [
     {

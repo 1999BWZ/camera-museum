@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Foca取景器相机，1965 年发布",
-  "description": "The Foca Marly was the last camera produced by the French company OPL.",
+  "description": "Foca于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Foca Marly"
+    "Camera-wiki": "Foca Marly",
+    "英文简介": "The Foca Marly was the last camera produced by the French company OPL."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，2002 年发布",
-  "description": "== Description ==\n\nWhen Olympus discontinued the metal-bodied Trip 35 in 1984, it launched a series of cameras that used the 'Trip' name, but were otherwise quite different.",
+  "description": "奥林巴斯于2002年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip Fixed Focus"
+    "Camera-wiki": "Olympus Trip Fixed Focus",
+    "英文简介": "== Description ==\n\nWhen Olympus discontinued the metal-bodied Trip 35 in 1984, it launched a series of cameras that used the 'Trip' name, but were otherwise quite different."
   },
   "images": [],
   "sources": [

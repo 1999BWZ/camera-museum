@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Photo-jumelle cameras立体相机，1920 年发布",
-  "description": "A neat stereo camera made by Gallus in the 1920-30s.",
+  "description": "Photo-jumelle cameras于1920年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Gallus Stereo-Jumelle"
+    "Camera-wiki": "Gallus Stereo-Jumelle",
+    "英文简介": "A neat stereo camera made by Gallus in the 1920-30s."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Walcon旁轴相机，1955 年发布",
-  "description": "The Walcon 6 Unlike most Japanese 6&times;6 cameras of the time, the name is written \"Walcon 6\" instead of \"Walcon Six\", and a katakana version (such as ワルコン・シックス) has not been observed yet.",
+  "description": "Walcon于1955年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Walcon 6"
+    "Camera-wiki": "Walcon 6",
+    "英文简介": "The Walcon 6 Unlike most Japanese 6&times;6 cameras of the time, the name is written \"Walcon 6\" instead of \"Walcon Six\", and a katakana version (such as ワルコン・シックス) has not been observed yet."
   },
   "images": [],
   "sources": [

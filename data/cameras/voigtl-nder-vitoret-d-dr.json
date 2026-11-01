@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer取景器相机，1962 年发布",
-  "description": "Voigtländer于1962年发布的取景器相机。",
+  "description": "Voigtländer于1962年推出的取景器相机。配备Lanthar f/2.8 50mm or Vaskar f/2.8 50mm, 1965 Color Lanthar f/2.8 50mm。快门速度Prontor 125。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vitoret D / DR"
+    "Camera-wiki": "Vitoret D / DR",
+    "胶片/画幅": "35mm",
+    "镜头": "Lanthar f/2.8 50mm or Vaskar f/2.8 50mm, 1965 Color Lanthar f/2.8 50mm",
+    "快门": "Prontor 125",
+    "闪光灯": "Accessory Shoe"
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡胶片单反相机，1983 年发布",
-  "description": "The FX-70 is an automatic exposure 35mm SLR camera from Yashica and introduced in 1983.",
+  "description": "雅西卡于1983年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica FX-70 Quartz"
+    "Camera-wiki": "Yashica FX-70 Quartz",
+    "英文简介": "The FX-70 is an automatic exposure 35mm SLR camera from Yashica and introduced in 1983."
   },
   "images": [],
   "sources": [

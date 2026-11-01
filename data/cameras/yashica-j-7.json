@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡数码单反相机，1968 年发布",
-  "description": "The J-7 was introduced by Yashica circa 1966, a continuation of the M42-lensed SLR series begun with the Penta J.",
+  "description": "雅西卡于1968年推出的数码单反相机。配备M42 screw mount Auto Yashinon DX 50mm 1:1.7。快门速度1-1/1000 and B。使用135, 35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica J-7"
+    "Camera-wiki": "Yashica J-7",
+    "胶片/画幅": "135, 35mm",
+    "尺寸": "24mm x 36mm",
+    "快门": "rubberised cloth focal plane",
+    "快门速度": "1-1/1000 and B",
+    "曝光测光": "non TTL, top plate mounted CdS with top window readout",
+    "电池": "PX625, for meter only, easily substituted by a 675 air-zinc.",
+    "自拍": "10 seconds delay",
+    "镜头": "M42 screw mount Auto Yashinon DX 50mm 1:1.7",
+    "重量": "Body 700g, with Yashinon normal lens 900g",
+    "英文简介": "The J-7 was introduced by Yashica circa 1966, a continuation of the M42-lensed SLR series begun with the Penta J."
   },
   "images": [],
   "sources": [

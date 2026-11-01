@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，1950 年发布",
-  "description": "__NOTOC__\n\nThe Leica IIIf is a 35mm rangefinder camera from Leitz, in the screw-mount Leica series.",
+  "description": "徕卡于1950年推出的旁轴相机。快门速度1/1000 to 1 sec, Bulb。感光度12 - 3200 (depends on the film)。Rangefinder magnified and coupled to lens in separate window than viewfinder for composing。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leica IIIf"
+    "Camera-wiki": "Leica IIIf",
+    "卡口": "M39 Leica thread mount",
+    "快门": "cloth focal plane shutter",
+    "快门速度": "1/1000 to 1 sec, Bulb",
+    "闪光灯": "1/30 (Black Dial) or 1/50 (Red Dial)",
+    "对焦": "Rangefinder magnified and coupled to lens in separate window than viewfinder for composing",
+    "感光度": "12 - 3200 (depends on the film)",
+    "电池": "none",
+    "重量": "430 g (15.2 oz)",
+    "英文简介": "__NOTOC__\n\nThe Leica IIIf is a 35mm rangefinder camera from Leitz, in the screw-mount Leica series."
   },
   "images": [],
   "sources": [

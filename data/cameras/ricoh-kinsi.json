@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光折叠相机，1943 年发布",
-  "description": "The Kinsi (キンシ) is a 3×4 strut folding camera, made by Riken Kōgaku Kōgyō (now Ricoh) from 1941 to c.1943.",
+  "description": "理光于1943年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kinsi"
+    "Camera-wiki": "Kinsi",
+    "英文简介": "The Kinsi (キンシ) is a 3×4 strut folding camera, made by Riken Kōgaku Kōgyō (now Ricoh) from 1941 to c.1943."
   },
   "images": [],
   "sources": [

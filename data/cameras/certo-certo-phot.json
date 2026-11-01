@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo取景器相机，1958 年发布",
-  "description": "Camera made by Certo from Gönna & Söhne, Dresden (1958).",
+  "description": "Certo于1958年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Certo-phot"
+    "Camera-wiki": "Certo-phot",
+    "英文简介": "Camera made by Certo from Gönna & Söhne, Dresden (1958)."
   },
   "images": [],
   "sources": [

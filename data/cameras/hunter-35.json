@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hunter取景器相机，1957 年发布",
-  "description": "The Hunter 35 is a small, cheap 35mm viewfinder camera from c.1957, made in Germany for British distributor R.",
+  "description": "Hunter于1957年推出的取景器相机。配备Steiner (Bayreuth) 45mm f3.5。快门速度speeds 1/25-1/200 + B with flash sync.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hunter 35"
+    "Camera-wiki": "Hunter 35",
+    "镜头": "Steiner (Bayreuth) 45mm f3.5",
+    "快门": "speeds 1/25-1/200 + B with flash sync.",
+    "英文简介": "The Hunter 35 is a small, cheap 35mm viewfinder camera from c.1957, made in Germany for British distributor R."
   },
   "images": [],
   "sources": [

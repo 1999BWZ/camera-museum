@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Diana玩具相机，2007 年发布",
-  "description": "== Diana+ ==\n\n\nManufactured since 2007, the Diana+ is a replica camera produced by Lomography based on the original Diana of the 1960s and 1970s, a \"toy camera\" produced by the Great Wall Plastic Co.",
+  "description": "Diana于2007年推出的玩具相机。使用120。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Diana Plus"
+    "Camera-wiki": "Diana Plus",
+    "胶片/画幅": "120",
+    "尺寸": "5\" x 3.75\" x 3\" (12.5cm x 9.5cm x 7.6cm)",
+    "英文简介": "== Diana+ ==\n\n\nManufactured since 2007, the Diana+ is a replica camera produced by Lomography based on the original Diana of the 1960s and 1970s, a \"toy camera\" produced by the Great Wall Plastic Co."
   },
   "images": [],
   "sources": [

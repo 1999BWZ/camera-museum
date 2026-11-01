@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dr. Krügener折叠相机，1908 年发布",
-  "description": "Delta was a trademark for a series of cameras made by Dr.",
+  "description": "Dr. Krügener于1908年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dr. Krügener Delta Teddy"
+    "Camera-wiki": "Dr. Krügener Delta Teddy",
+    "英文简介": "Delta was a trademark for a series of cameras made by Dr."
   },
   "images": [],
   "sources": [

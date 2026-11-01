@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼胶片相机，1988 年发布",
-  "description": "The Sony MVC-C1 was a 1988 electronic stills camera, but not a \"digital camera\"—up to 50 images are saved as single frames of analog, standard-definition television video, onto special micro floppy disks which Sony called Mavipak.",
+  "description": "索尼于1988年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica MVC-C1"
+    "Camera-wiki": "Sony Mavica MVC-C1",
+    "英文简介": "The Sony MVC-C1 was a 1988 electronic stills camera, but not a \"digital camera\"—up to 50 images are saved as single frames of analog, standard-definition television video, onto special micro floppy disks which Sony called Mavipak."
   },
   "images": [],
   "sources": [

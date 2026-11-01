@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达微型相机，1962 年发布",
-  "description": "The Sonocon 16 is a subminiature camera made by Minolta in about 1962.",
+  "description": "美能达于1962年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sonocon 16"
+    "Camera-wiki": "Sonocon 16",
+    "英文简介": "The Sonocon 16 is a subminiature camera made by Minolta in about 1962."
   },
   "images": [],
   "sources": [

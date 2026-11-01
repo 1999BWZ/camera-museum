@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2006 年发布",
-  "description": "Panasonic released the Panasonic DMC-FZ7 in 2006 as an upgrade to the DMC-FZ5 from a year earlier.",
+  "description": "松下于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DMC-FZ7"
+    "Camera-wiki": "Panasonic Lumix DMC-FZ7",
+    "英文简介": "Panasonic released the Panasonic DMC-FZ7 in 2006 as an upgrade to the DMC-FZ5 from a year earlier."
   },
   "images": [],
   "sources": [

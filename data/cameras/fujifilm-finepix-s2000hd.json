@@ -13,11 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士便携相机，2008 年发布",
-  "description": "富士于2008年发布的便携相机。",
+  "description": "富士于2008年推出的便携相机。配备Fujinon 15x Optical zoom, F 3.5 (Wide, F 5. (Telephoto)。快门速度| shutterRange = 1/4 sec to 1/1000 sec (auto mode), 4 sec to 1/1000 sec。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q5507397",
-    "多语言词条数": "3"
+    "多语言词条数": "3",
+    "传感器": "CCD, 1/2.3 inch CCD",
+    "镜头": "Fujinon 15x Optical zoom, F 3.5 (Wide, F 5. (Telephoto)",
+    "快门速度": "| shutterRange = 1/4 sec to 1/1000 sec (auto mode), 4 sec to 1/1000 sec",
+    "曝光测光": "256-segment matrix, center-weighted, spot, spot AF",
+    "取景器": "electronic, LCD monitor",
+    "屏幕": "2.7\", 230000 dots (Approximate) TFT color LCD monitor, 97% coverage, 60 frame/s",
+    "存储": "internal 55Mb + SD/SDHC card",
+    "重量": "386g(13.0 oz) without battery, memory card and accessories)"
   },
   "images": [
     {

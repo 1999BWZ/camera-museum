@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1991 年发布",
-  "description": "The Canon Sure Shot Max was a 1991 model from Canon's very successful Sure Shot range.",
+  "description": "佳能于1991年推出的便携相机。配备38mm, f/3.5 with 3-point smart autofocus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot Max/Prima 5/Autoboy Mini"
+    "Camera-wiki": "Canon Sure Shot Max/Prima 5/Autoboy Mini",
+    "镜头": "38mm, f/3.5 with 3-point smart autofocus.",
+    "闪光灯": "9m at ISO 100.)",
+    "尺寸": "125x68x43mm.",
+    "重量": "245g (with battery)",
+    "英文简介": "The Canon Sure Shot Max was a 1991 model from Canon's very successful Sure Shot range."
   },
   "images": [],
   "sources": [

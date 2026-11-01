@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji胶片相机，1984 年发布",
-  "description": "The Fuji DL-50, or Fuji Lucia in Japan, is a compact autofocus camera released 1984, to coincide with Fuji's new branding.",
+  "description": "Fuji于1984年推出的胶片相机。配备Fujinon 35 mm f/4, 3 elements/3 groups.。快门速度Mechanical shutter coupled to film ISO setting; e.g. locked to 1/100 s with ISO 100 film.。感光度100–200–400 ISO, set manually.。Active infrared autofocus.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-50"
+    "Camera-wiki": "Fuji DL-50",
+    "镜头": "Fujinon 35 mm f/4, 3 elements/3 groups.",
+    "快门": "Mechanical shutter coupled to film ISO setting; e.g. locked to 1/100 s with ISO 100 film.",
+    "对焦": "Active infrared autofocus.",
+    "曝光测光": "3-point CdS sensor.",
+    "感光度": "100–200–400 ISO, set manually.",
+    "重量": "138 x 60 x 45 mm; 270 g.",
+    "尺寸": "138 x 60 x 45 mm",
+    "英文简介": "The Fuji DL-50, or Fuji Lucia in Japan, is a compact autofocus camera released 1984, to coincide with Fuji's new branding."
   },
   "images": [],
   "sources": [

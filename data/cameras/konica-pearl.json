@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1933 年发布",
-  "description": "The name Pearl (パール) was given by Konishi Honten and Konishiroku Honten (the later Konica) to many models of rollfilm folders.",
+  "description": "柯尼卡于1933年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pearl (6×9 self-erecting)"
+    "Camera-wiki": "Pearl (6×9 self-erecting)",
+    "英文简介": "The name Pearl (パール) was given by Konishi Honten and Konishiroku Honten (the later Konica) to many models of rollfilm folders."
   },
   "images": [],
   "sources": [

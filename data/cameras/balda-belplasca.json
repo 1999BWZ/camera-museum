@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda立体相机，1954 年发布",
-  "description": "The Belplasca was the main part of VEB Belca-Werk's product palette for stereoscopic photography.",
+  "description": "Balda于1954年推出的立体相机。快门速度double shutter with speeds from 1 sec. up to 1/200 sec.。使用35 mm (20 to 22 image pairs on one film possible)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Belplasca"
+    "Camera-wiki": "Belplasca",
+    "胶片/画幅": "35 mm (20 to 22 image pairs on one film possible)",
+    "快门": "double shutter with speeds from 1 sec. up to 1/200 sec.",
+    "取景器": "telescope type finder, coupled to distance selector for parallax error correction",
+    "尺寸": "15.8×7.7×6 cm",
+    "重量": "800 g",
+    "英文简介": "The Belplasca was the main part of VEB Belca-Werk's product palette for stereoscopic photography."
   },
   "images": [],
   "sources": [

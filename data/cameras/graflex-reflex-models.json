@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲胶片相机，1898 年发布",
-  "description": "The Graflex is a large single-lens reflex camera, first produced in 1898 in New York, N.Y by the Folmer & Schwing Manufacturing Company of New York, NY.",
+  "description": "格拉菲于1898年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Graflex reflex models"
+    "Camera-wiki": "Graflex reflex models",
+    "英文简介": "The Graflex is a large single-lens reflex camera, first produced in 1898 in New York, N.Y by the Folmer & Schwing Manufacturing Company of New York, NY."
   },
   "images": [],
   "sources": [

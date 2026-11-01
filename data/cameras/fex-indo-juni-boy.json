@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo取景器相机，1960 年发布",
-  "description": "Juni-boy is a small plastic camera made in France by Fex, c.1960.",
+  "description": "Fex Indo于1960年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Juni-boy"
+    "Camera-wiki": "Juni-boy",
+    "英文简介": "Juni-boy is a small plastic camera made in France by Fex, c.1960."
   },
   "images": [],
   "sources": [

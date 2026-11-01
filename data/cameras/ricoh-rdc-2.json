@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，1996 年发布",
-  "description": "The Ricoh RDC-2 is an early digital camera introduced by Ricoh in 1996.",
+  "description": "理光于1996年推出的数码相机。配备f3.7/5.6mm(Bi-focal) (35/55mm on 35mm format)。快门速度Mechanical, 1/8-1/1000 sec.。感光度Approx.100。Auto (TTL CCD AF)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RDC-2"
+    "Camera-wiki": "Ricoh RDC-2",
+    "镜头": "f3.7/5.6mm(Bi-focal) (35/55mm on 35mm format)",
+    "对焦": "Auto (TTL CCD AF)",
+    "快门": "Mechanical, 1/8-1/1000 sec.",
+    "感光度": "Approx.100",
+    "尺寸": "143 x 27 x 76mm/5.6 x 1.1 x 3.0in.",
+    "重量": "285g (10.1oz)",
+    "英文简介": "The Ricoh RDC-2 is an early digital camera introduced by Ricoh in 1996."
   },
   "images": [],
   "sources": [

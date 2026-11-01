@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1962 年发布",
-  "description": "The Konica FS-W SLR is a variant of the FS model.",
+  "description": "柯尼卡于1962年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica FS-W"
+    "Camera-wiki": "Konica FS-W",
+    "英文简介": "The Konica FS-W SLR is a variant of the FS model."
   },
   "images": [],
   "sources": [

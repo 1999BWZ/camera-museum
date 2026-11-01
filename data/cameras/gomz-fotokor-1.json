@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GOMZ折叠相机，1930 年发布",
-  "description": "Fotokor-1 is a folding bed plate film camera, manufactured by GOMZ , (Gosularstvennyi Optiko-Mekhanicheskii Zavod = State Optical-Mechanical Factory), Leningrad, USSR, and produced between 1930-41.",
+  "description": "GOMZ于1930年推出的折叠相机。配备VOOMP Anastigmat Ortagoz (ВOОМП AHACTИГMAT OPTAГOЗ), 135mm f/4.5; Aperture:f/4.5-f/36Ortagoz lens seems a Dallmeyer Rapid Rectilinear variant。快门速度GOMZ ( ГОМЗ); speeds: 1/25, 1/50, 1/100 + B & T (К & Д = K&D) GOMZ shutter is a copy of Vario shutter of Gauthier, Engravings on the shutter dial: ВOОМП (VOOMP) logo and very early ГОМЗ (GOMZ) logo。使用9x12cm plate。bellows focusing by a thumb wheel on the right of the front plate, pointer on the lower left of the lens standart, distance scale on the left of the front plate; Focus range: 1.5-10m +inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fotokor-1"
+    "Camera-wiki": "Fotokor-1",
+    "胶片/画幅": "9x12cm plate",
+    "镜头": "VOOMP Anastigmat Ortagoz (ВOОМП AHACTИГMAT OPTAГOЗ), 135mm f/4.5; Aperture:f/4.5-f/36Ortagoz lens seems a Dallmeyer Rapid Rectilinear variant",
+    "对焦": "bellows focusing by a thumb wheel on the right of the front plate, pointer on the lower left of the lens standart, distance scale on the left of the front plate; Focus range: 1.5-10m +inf",
+    "快门": "GOMZ ( ГОМЗ); speeds: 1/25, 1/50, 1/100 + B & T (К & Д = K&D) GOMZ shutter is a copy of Vario shutter of Gauthier, Engravings on the shutter dial: ВOОМП (VOOMP) logo and very early ГОМЗ (GOMZ) logo",
+    "取景器": "**Waist level Brilliant Finder on top of the lens standard, turning 90 degrees left on its own axis for landscape pictures, w/ red sprit level",
+    "英文简介": "Fotokor-1 is a folding bed plate film camera, manufactured by GOMZ , (Gosularstvennyi Optiko-Mekhanicheskii Zavod = State Optical-Mechanical Factory), Leningrad, USSR, and produced between 1930-41."
   },
   "images": [],
   "sources": [

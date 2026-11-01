@@ -1,0 +1,40 @@
+{
+  "id": "agfa-ephoto-cl18",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "爱克发·吉华集团",
+  "model": "ePhoto CL18",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发数码相机，2000 年发布",
+  "description": "爱克发于2000年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q10403166",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agfa%20ePhoto%20CL18%20-%20Front.JPG?width=800",
+      "caption": "ePhoto CL18",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q10403166"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Agfa ePhoto CL18",
+      "url": "https://www.wikidata.org/wiki/Q10403166"
+    }
+  ],
+  "qid": "Q10403166",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

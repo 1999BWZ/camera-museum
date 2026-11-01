@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "格拉菲大画幅相机，1929 年发布",
-  "description": "The Century Universal was an 8x10 field camera, produced by Folmer & Schwing and aimed the professional market, alongside the Crown View 4x5 camera.",
+  "description": "格拉菲于1929年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Century Universal Camera"
+    "Camera-wiki": "Century Universal Camera",
+    "英文简介": "The Century Universal was an 8x10 field camera, produced by Folmer & Schwing and aimed the professional market, alongside the Crown View 4x5 camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA折叠相机，1913 年发布",
-  "description": "The Atom is a folding plate camera for 4.5x6 cm plates, originally made by Hüttig in 1908 and, after the firm took part in the merger to create Ica, by them from 1909-25.",
+  "description": "ICA于1913年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Atom, Atom B"
+    "Camera-wiki": "Atom, Atom B",
+    "英文简介": "The Atom is a folding plate camera for 4.5x6 cm plates, originally made by Hüttig in 1908 and, after the firm took part in the merger to create Ica, by them from 1909-25."
   },
   "images": [],
   "sources": [

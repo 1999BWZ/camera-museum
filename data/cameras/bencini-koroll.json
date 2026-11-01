@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bencini取景器相机，1951 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Koroll cameras were 120 film and 35mm viewfinder cameras made by Bencini in Milan, Italy starting in the 1950s.",
+  "description": "Bencini于1951年推出的取景器相机。配备f/11 (24S: f/9 or f/16)。快门速度Single-speed & B。使用24x36mm images on 35mm film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bencini Koroll"
+    "Camera-wiki": "Bencini Koroll",
+    "快门": "Single-speed & B",
+    "镜头": "f/11 (24S: f/9 or f/16)",
+    "胶片/画幅": "24x36mm images on 35mm film",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Koroll cameras were 120 film and 35mm viewfinder cameras made by Bencini in Milan, Italy starting in the 1950s."
   },
   "images": [],
   "sources": [

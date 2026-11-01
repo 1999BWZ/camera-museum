@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片单反相机，1999 年发布",
-  "description": "The Ricoh 35R is a 35mm autofocus point & shoot camera produced in 1999.",
+  "description": "理光于1999年推出的胶片单反相机。配备30mm f3.9 (3 groups, 3 elements)。快门速度Program mode ( 1/4 to 1/500 ), aperture priority mode (1 to 1/250 sec.)。Auto-focus 1m - ∞, manual zone focus 0.6m, 1.2m, 2.5m , ∞.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 35R"
+    "Camera-wiki": "Ricoh 35R",
+    "镜头": "30mm f3.9 (3 groups, 3 elements)",
+    "快门": "Program mode ( 1/4 to 1/500 ), aperture priority mode (1 to 1/250 sec.)",
+    "对焦": "Auto-focus 1m - ∞, manual zone focus 0.6m, 1.2m, 2.5m , ∞.",
+    "光圈": "Programmed or manual aperture priority of f5.6,f11,f22",
+    "曝光测光": "CdS program AE, Aperture Priority AE (F5.6, F11, F22)",
+    "尺寸": "Height 126mm width 50mm depth 71mm",
+    "重量": "230g",
+    "英文简介": "The Ricoh 35R is a 35mm autofocus point & shoot camera produced in 1999."
   },
   "images": [],
   "sources": [

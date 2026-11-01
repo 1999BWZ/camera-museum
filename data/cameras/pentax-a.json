@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得旁轴相机，1983 年发布",
-  "description": "{|class=floatright\n|\n\n|}\nPentax introduced the Super A (or Super Program in North America) in 1983.",
+  "description": "宾得于1983年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Super A"
+    "Camera-wiki": "Pentax Super A",
+    "英文简介": "{|class=floatright\n|\n\n|}\nPentax introduced the Super A (or Super Program in North America) in 1983."
   },
   "images": [],
   "sources": [

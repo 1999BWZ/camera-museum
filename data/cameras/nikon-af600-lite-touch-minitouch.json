@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1993 年发布",
-  "description": "__NOTOC__ \n\nThe Nikon AF600 is a autofocus, auto-exposure, compact camera for 35mm film, introduced by Nikon in 1993.",
+  "description": "尼康于1993年推出的胶片单反相机。配备Fixed 28mm, f/3.5。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon AF600/Lite•Touch/MiniTouch (QD)"
+    "Camera-wiki": "Nikon AF600/Lite•Touch/MiniTouch (QD)",
+    "镜头": "Fixed 28mm, f/3.5",
+    "尺寸": "108x62x32mm.",
+    "重量": "155g (without 3V CR123A lithium battery).",
+    "英文简介": "__NOTOC__ \n\nThe Nikon AF600 is a autofocus, auto-exposure, compact camera for 35mm film, introduced by Nikon in 1993."
   },
   "images": [],
   "sources": [

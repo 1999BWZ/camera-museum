@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2007 年发布",
-  "description": "The Sony Cyber-shot DSC-S650 is an entry level compact digital camera, launched in 2007 by Sony.",
+  "description": "索尼于2007年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-S650"
+    "Camera-wiki": "Sony DSC-S650",
+    "英文简介": "The Sony Cyber-shot DSC-S650 is an entry level compact digital camera, launched in 2007 by Sony."
   },
   "images": [],
   "sources": [

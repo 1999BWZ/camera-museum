@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1958 年发布",
-  "description": "The Yashica 35 is in fact the company's first camera that was entirely manufactured by themselves, right after they acquired the Nicca company who is responsible for the production of the 35's predecessors, the YE and YF.",
+  "description": "雅西卡于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 35"
+    "Camera-wiki": "Yashica 35",
+    "英文简介": "The Yashica 35 is in fact the company's first camera that was entirely manufactured by themselves, right after they acquired the Nicca company who is responsible for the production of the 35's predecessors, the YE and YF."
   },
   "images": [],
   "sources": [

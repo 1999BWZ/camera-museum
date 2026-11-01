@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Palma折叠相机，1929 年发布",
-  "description": "The Palma (パルマー) The Roman spelling \"Palma\" is unconfirmed.",
+  "description": "Palma于1929年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Palma plate folders"
+    "Camera-wiki": "Palma plate folders",
+    "英文简介": "The Palma (パルマー) The Roman spelling \"Palma\" is unconfirmed."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1997 年发布",
-  "description": "After Minolta had introduced its fourth generation of AF camera, the first being the 7000, the second the 7000i, the third the 7xi, with the 700si; Minolta wanted to expand the capabilities and features of the 700si and add some semi-professional features like High-Eyepoint viewfinder and picture me",
+  "description": "美能达于1997年推出的胶片单反相机。快门速度30s-1/8000s, B.。使用6-6400 ISO/ASA. Automatic setting for DX-coded film from ISO 25 to 6400.。TTL phase detection, EV -1 to 19 (ISO 100), 4 AF zones, (AF-A), continuous (AF-C), single-shot (AF-A)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 800 si"
+    "Camera-wiki": "Minolta Dynax 800 si",
+    "卡口": "Minolta AF baynoet mount (Maxxum/Dynax lenses, non-compatible with earlier SR)",
+    "快门": "vertical focal-plane shutter, electronically controlled, metal",
+    "快门速度": "30s-1/8000s, B.",
+    "闪光灯": "Variable GN 14-20, auto zooming equivalent 24mm - 80 mm focal length coverage.",
+    "曝光测光": "14-segment honeycomb pattern SPC for ambient light and flash-metering SPC for flash, centre-weighted and spot metering.",
+    "胶片/画幅": "6-6400 ISO/ASA. Automatic setting for DX-coded film from ISO 25 to 6400.",
+    "对焦": "TTL phase detection, EV -1 to 19 (ISO 100), 4 AF zones, (AF-A), continuous (AF-C), single-shot (AF-A)",
+    "取景器": "Eye-level fixed pentaprism High-Eyepoint approx. 22,9mm from eyepiece with 92% x 94% field of view.",
+    "尺寸": "153.5 x 107 x 71.5mm (WxHxD)",
+    "重量": "628g (without battery) 640g (with Quartz Data Back, without battery).",
+    "电池": "2CR5 x 1 Battery",
+    "英文简介": "After Minolta had introduced its fourth generation of AF camera, the first being the 7000, the second the 7000i, the third the 7xi, with the 700si; Minolta wanted to expand the capabilities and features of the 700si and add some semi-professional features like High-Eyepoint viewfinder and picture metadata storage combined with the ease and comfort creatures like a more powerful and zooming built-i"
   },
   "images": [],
   "sources": [

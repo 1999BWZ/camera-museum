@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "潘泰康胶片单反相机，1989 年发布",
-  "description": "The Praktica BCC electronic is an SLR-camera for 35 mm film produced by Pentacon.",
+  "description": "潘泰康于1989年推出的胶片单反相机。快门速度** stepless shutter speeds from 1 to 1/1000 s, \"B\", mechanical 1/60 s (flash sync)。使用** red: overexposure。感光度12 to 3200 ASA。split image (triple), microprisms and ground glass。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Praktica BCC"
+    "Camera-wiki": "Praktica BCC",
+    "卡口": "Praktica B-mount with EDC (electronic diaphragm control)",
+    "快门": "** stepless shutter speeds from 1 to 1/1000 s, \"B\", mechanical 1/60 s (flash sync)",
+    "曝光测光": "TTL-metering with CdS-cell, center-weighted, activated with half-pressed shutter button",
+    "感光度": "12 to 3200 ASA",
+    "对焦": "split image (triple), microprisms and ground glass",
+    "胶片/画幅": "** red: overexposure",
+    "尺寸": "138 x 87 x 49 mm, weight: 520 g without batteries",
+    "英文简介": "The Praktica BCC electronic is an SLR-camera for 35 mm film produced by Pentacon."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1938 年发布",
-  "description": "The Semi Prux (セミ・プラックス) is a Japanese 4.5×6 folding camera.",
+  "description": "Semi于1938年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Prux"
+    "Camera-wiki": "Semi Prux",
+    "英文简介": "The Semi Prux (セミ・プラックス) is a Japanese 4.5×6 folding camera."
   },
   "images": [],
   "sources": [

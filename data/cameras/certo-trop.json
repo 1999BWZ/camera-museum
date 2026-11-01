@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo折叠相机，1927 年发布",
-  "description": "The Certotrop cameras are a series of folding plate cameras made by Certo in Dresden, Germany, from 1927 to '41.",
+  "description": "Certo于1927年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Certotrop"
+    "Camera-wiki": "Certotrop",
+    "英文简介": "The Certotrop cameras are a series of folding plate cameras made by Certo in Dresden, Germany, from 1927 to '41."
   },
   "images": [],
   "sources": [

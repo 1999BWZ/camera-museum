@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Target取景器相机，2005 年发布",
-  "description": "The Target See: Camera is a simple plastic point and shoot camera that takes 24x36mm images on 135 size film was released in 2005 by the large chain store Target.",
+  "description": "Target于2005年推出的取景器相机。配备Single plastic element, 28mm, f/11.。使用24x36mm 135 size. For best results, use ASA/ISO 200 or 400 film in dull weather.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Target See: Camera"
+    "Camera-wiki": "Target See: Camera",
+    "胶片/画幅": "24x36mm 135 size. For best results, use ASA/ISO 200 or 400 film in dull weather.",
+    "镜头": "Single plastic element, 28mm, f/11.",
+    "曝光测光": "Auto preset progressive type.",
+    "闪光灯": "Powered by one AA battery.",
+    "英文简介": "The Target See: Camera is a simple plastic point and shoot camera that takes 24x36mm images on 135 size film was released in 2005 by the large chain store Target."
   },
   "images": [],
   "sources": [

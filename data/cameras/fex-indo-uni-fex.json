@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo取景器相机，1949 年发布",
-  "description": "French manufacturer Fex made several related models of 6&times;9 camera, using a ribbed plastic case and a rectangular telescoping lens mount.",
+  "description": "Fex Indo于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Uni-Fex"
+    "Camera-wiki": "Uni-Fex",
+    "英文简介": "French manufacturer Fex made several related models of 6&times;9 camera, using a ribbed plastic case and a rectangular telescoping lens mount."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康数码单反相机，1979 年发布",
-  "description": "尼康于1979年发布的数码单反相机。",
+  "description": "尼康于1979年推出的数码单反相机。配备Nikon F lens mount。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q2263095",
-    "多语言词条数": "10"
+    "多语言词条数": "10",
+    "镜头": "Nikon F lens mount",
+    "对焦": "Manual",
+    "曝光测光": "Aperture priority60/40 center-weighted",
+    "闪光灯": "ISO standard Hot shoe",
+    "尺寸": "135 × 54 × 86 mm"
   },
   "images": [
     {

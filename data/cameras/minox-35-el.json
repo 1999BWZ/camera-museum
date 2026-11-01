@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox取景器相机，1974 年发布",
-  "description": "The first model in the diminutive Minox 35 series, introduced by Minox in 1974.",
+  "description": "Minox于1974年推出的取景器相机。配备35mm f/2.8 Color-Minotar。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox 35 EL"
+    "Camera-wiki": "Minox 35 EL",
+    "尺寸": "100 x 61 x 31 mm",
+    "重量": "200g (with battery)",
+    "镜头": "35mm f/2.8 Color-Minotar",
+    "英文简介": "The first model in the diminutive Minox 35 series, introduced by Minox in 1974."
   },
   "images": [],
   "sources": [

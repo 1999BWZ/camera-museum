@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kelvin取景器相机，1952 年发布",
-  "description": "Kelvin Maior is a fairly simple 35mm cast-metal viewfinder camera made by S.E.D.E.",
+  "description": "Kelvin于1952年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kelvin Maior"
+    "Camera-wiki": "Kelvin Maior",
+    "英文简介": "Kelvin Maior is a fairly simple 35mm cast-metal viewfinder camera made by S.E.D.E."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡数码单反相机，1964 年发布",
-  "description": "Leicaflex was the name given to the first series of 35mm single-lens reflex (SLR) cameras manufactured by Leitz.",
+  "description": "徕卡于1964年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Leicaflex"
+    "Camera-wiki": "Leicaflex",
+    "英文简介": "Leicaflex was the name given to the first series of 35mm single-lens reflex (SLR) cameras manufactured by Leitz."
   },
   "images": [],
   "sources": [

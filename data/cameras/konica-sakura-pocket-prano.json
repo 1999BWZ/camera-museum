@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡折叠相机，1906 年发布",
-  "description": "The Sakura Pocket Prano Hand Camera (さくらポケットプラノ手提暗函) The name \"Prano\" is sometimes written \"Plano\" by mistake.",
+  "description": "柯尼卡于1906年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sakura Pocket Prano"
+    "Camera-wiki": "Sakura Pocket Prano",
+    "英文简介": "The Sakura Pocket Prano Hand Camera (さくらポケットプラノ手提暗函) The name \"Prano\" is sometimes written \"Plano\" by mistake."
   },
   "images": [],
   "sources": [

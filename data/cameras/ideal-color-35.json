@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ideal取景器相机，1956 年发布",
-  "description": "The Ideal Color 35 was made since ca.",
+  "description": "Ideal于1956年推出的取景器相机。配备Nixon Anastigmat 1:3,5 f=4,5cm。快门速度speeds 1/25, 1/50, 1/100 and B, maybe everset, but locked after exposure, flash synchronized。使用35mm capsules。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ideal Color 35"
+    "Camera-wiki": "Ideal Color 35",
+    "胶片/画幅": "35mm capsules",
+    "镜头": "Nixon Anastigmat 1:3,5 f=4,5cm",
+    "快门": "speeds 1/25, 1/50, 1/100 and B, maybe everset, but locked after exposure, flash synchronized",
+    "光圈": "five-blade diaphragm, stoppable from f3.5 down to f16",
+    "取景器": "optical",
+    "英文简介": "The Ideal Color 35 was made since ca."
   },
   "images": [],
   "sources": [

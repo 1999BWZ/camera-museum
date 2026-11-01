@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dacora取景器相机，1960 年发布",
-  "description": "{|class=\"floatright\"\n|\n\n|-\n|\n\n|}\nThe Dacora-Matic 4D is a very special 35mm viewfinder camera made by Dacora.",
+  "description": "Dacora于1960年推出的取景器相机。配备Dacora Dignar 1:2.8/45mm or Steinheil Cassar 45mm/2.8, or Hanimar f/2.8 45 mm。快门速度Prontor-Lux with speeds 1/30 to 1/200 sec. and \"B\"。使用35mm。Focus selectable by one of the four shutter release buttons, 1.5m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Dacora-Matic 4D"
+    "Camera-wiki": "Dacora-Matic 4D",
+    "胶片/画幅": "35mm",
+    "镜头": "Dacora Dignar 1:2.8/45mm or Steinheil Cassar 45mm/2.8, or Hanimar f/2.8 45 mm",
+    "快门": "Prontor-Lux with speeds 1/30 to 1/200 sec. and \"B\"",
+    "曝光测光": "automatic aperture, controlled by Bertram selenium meter",
+    "对焦": "Focus selectable by one of the four shutter release buttons, 1.5m to infinity",
+    "取景器": "optical with mirror surface for self portraits and bright-line with parallax correction marks and central cross.",
+    "英文简介": "{|class=\"floatright\"\n|\n\n|-\n|\n\n|}\nThe Dacora-Matic 4D is a very special 35mm viewfinder camera made by Dacora."
   },
   "images": [],
   "sources": [

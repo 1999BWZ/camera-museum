@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Auto旁轴相机，1946 年发布",
-  "description": "The Auto Keef (オートキーフ) is a Japanese coupled-rangefinder camera taking 4×4cm pictures on 127 film.",
+  "description": "Auto于1946年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Auto Keef"
+    "Camera-wiki": "Auto Keef",
+    "英文简介": "The Auto Keef (オートキーフ) is a Japanese coupled-rangefinder camera taking 4×4cm pictures on 127 film."
   },
   "images": [],
   "sources": [

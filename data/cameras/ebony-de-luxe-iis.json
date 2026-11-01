@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ebony取景器相机，1957 年发布",
-  "description": "The Ebony de Luxe IIS is a viewfinder camera for 828 film, made by Hōei in about 1957; p392.",
+  "description": "Ebony于1957年推出的取景器相机。配备50mm f/8 Hoei lens。快门速度speeds I and B.。使用828。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ebony de Luxe IIS"
+    "Camera-wiki": "Ebony de Luxe IIS",
+    "胶片/画幅": "828",
+    "镜头": "50mm f/8 Hoei lens",
+    "快门": "speeds I and B.",
+    "光圈": "1:8 to 1:11 (waterhouse stop plate)",
+    "取景器": "optical eye-level type viewfinder.",
+    "曝光测光": "None",
+    "英文简介": "The Ebony de Luxe IIS is a viewfinder camera for 828 film, made by Hōei in about 1957; p392."
   },
   "images": [],
   "sources": [

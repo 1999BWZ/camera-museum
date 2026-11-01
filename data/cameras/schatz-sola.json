@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Schatz微型相机，1937 年发布",
-  "description": "The Sola is a sub-miniature camera made by Schatz & Söhne in Triberg, Germany, from 1937.",
+  "description": "Schatz于1937年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Schatz Sola"
+    "Camera-wiki": "Schatz Sola",
+    "英文简介": "The Sola is a sub-miniature camera made by Schatz & Söhne in Triberg, Germany, from 1937."
   },
   "images": [],
   "sources": [

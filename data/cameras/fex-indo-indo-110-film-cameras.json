@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fex Indo胶片相机，1977 年发布",
-  "description": "Cameras made by Indo and taking 110 film:\n\n* Indo 110, \n* Indo 110 MX3\n* Fura 110 XA\n* Fura 110 XA Electro\n* Pocket 110 X\n* Rhaco 110L\n* Camara 110 FCR",
+  "description": "Fex Indo于1977年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Indo 110 film cameras"
+    "Camera-wiki": "Indo 110 film cameras",
+    "英文简介": "Cameras made by Indo and taking 110 film:\n\n* Indo 110, \n* Indo 110 MX3\n* Fura 110 XA\n* Fura 110 XA Electro\n* Pocket 110 X\n* Rhaco 110L\n* Camara 110 FCR"
   },
   "images": [],
   "sources": [

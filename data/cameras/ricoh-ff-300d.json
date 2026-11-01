@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1986 年发布",
-  "description": "The FF-300D is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1986.",
+  "description": "理光于1986年推出的便携相机。配备Ricoh Lens 35mm f/2.8, 5 elements in 5 groups。快门速度programmed, 2 ~ 1/500 sec.。感光度ISO 25 ~ 1600 (in 1/3 steps), DX-code system or Manual。Single-point active autofocusing system。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh FF-300D"
+    "Camera-wiki": "Ricoh FF-300D",
+    "镜头": "Ricoh Lens 35mm f/2.8, 5 elements in 5 groups",
+    "对焦": "Single-point active autofocusing system",
+    "快门": "programmed, 2 ~ 1/500 sec.",
+    "取景器": "Albada-type, with bright-frame, 0.44X, field of view 84%",
+    "感光度": "ISO 25 ~ 1600 (in 1/3 steps), DX-code system or Manual",
+    "闪光灯": "G.N. 12 (ISO 100, m), flashmatic system",
+    "尺寸": "139 mm X 70 mm X 46 mm",
+    "重量": "300 g (without battery)",
+    "英文简介": "The FF-300D is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1986."
   },
   "images": [],
   "sources": [

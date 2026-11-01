@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1976 年发布",
-  "description": "The Polaroid Super Colour Swinger III was a rigid plastic bodied instant camera, made in the UK between 1976-78.",
+  "description": "宝丽来于1976年推出的一次成像相机。使用Peel-apart 80-Series Land Pack Films (3 1/4\" x 3 3/8\", image=2 3/4\" x 2 7/8\") such as Polaroid 87, 88, Viva (all discontinued), or 100 series (such as Fujifilm FP-100C and FP-3000BW)。感光度ISO 75 for colour, ISO 3000 for black and white.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Super Colour Swinger III"
+    "Camera-wiki": "Polaroid Super Colour Swinger III",
+    "感光度": "ISO 75 for colour, ISO 3000 for black and white.",
+    "胶片/画幅": "Peel-apart 80-Series Land Pack Films (3 1/4\" x 3 3/8\", image=2 3/4\" x 2 7/8\") such as Polaroid 87, 88, Viva (all discontinued), or 100 series (such as Fujifilm FP-100C and FP-3000BW)",
+    "英文简介": "The Polaroid Super Colour Swinger III was a rigid plastic bodied instant camera, made in the UK between 1976-78."
   },
   "images": [],
   "sources": [

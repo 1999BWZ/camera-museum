@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun取景器相机，1959 年发布",
-  "description": "The Paxette electromatic is a series of 35mm cameras produced by Braun from 1959 to early 1964.",
+  "description": "Braun于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Paxette electromatic"
+    "Camera-wiki": "Paxette electromatic",
+    "英文简介": "The Paxette electromatic is a series of 35mm cameras produced by Braun from 1959 to early 1964."
   },
   "images": [],
   "sources": [

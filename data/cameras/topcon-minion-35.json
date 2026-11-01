@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon取景器相机，1948 年发布",
-  "description": "{| class=\"plainlinks floatright\" style=\"text-align: center;\"\n|-\n| [http://www.flickr.com/photos/camerawiki/48090477927/in/pool-camerawiki/ https://live.staticflickr.com/65535/48090477927_9719288748_m_d.jpg]\n|-\n| Picture courtesy of eBayer vntt67.",
+  "description": "Topcon于1948年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minion 35"
+    "Camera-wiki": "Minion 35",
+    "英文简介": "{| class=\"plainlinks floatright\" style=\"text-align: center;\"\n|-\n| [http://www.flickr.com/photos/camerawiki/48090477927/in/pool-camerawiki/ https://live.staticflickr.com/65535/48090477927_9719288748_m_d.jpg]\n|-\n| Picture courtesy of eBayer vntt67."
   },
   "images": [],
   "sources": [

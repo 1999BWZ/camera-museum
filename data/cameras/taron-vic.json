@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron旁轴相机，1962 年发布",
-  "description": "The Taron Vic from c.1962 is a beginner-oriented camera from Taron, much like the JL, but adding rangefinder focusing.",
+  "description": "Taron于1962年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron VIC"
+    "Camera-wiki": "Taron VIC",
+    "英文简介": "The Taron Vic from c.1962 is a beginner-oriented camera from Taron, much like the JL, but adding rangefinder focusing."
   },
   "images": [],
   "sources": [

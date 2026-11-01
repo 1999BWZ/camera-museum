@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Wittnauer旁轴相机，1958 年发布",
-  "description": "The Wittnauer Legionnaire is a 35mm range finder, with a 45mm f2.8 Wittnauer Chronex coated lens and Vero shutter.",
+  "description": "Wittnauer于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Wittnauer Legionnaire"
+    "Camera-wiki": "Wittnauer Legionnaire",
+    "英文简介": "The Wittnauer Legionnaire is a 35mm range finder, with a 45mm f2.8 Wittnauer Chronex coated lens and Vero shutter."
   },
   "images": [],
   "sources": [

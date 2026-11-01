@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1963 年发布",
-  "description": "The Konica S III is a 35 mm coupled rangefinder camera with a coupled selenium lightmeter, made by Konishiroku from 1963.",
+  "description": "柯尼卡于1963年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica S III"
+    "Camera-wiki": "Konica S III",
+    "英文简介": "The Konica S III is a 35 mm coupled rangefinder camera with a coupled selenium lightmeter, made by Konishiroku from 1963."
   },
   "images": [],
   "sources": [

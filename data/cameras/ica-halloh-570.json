@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA折叠相机，1922 年发布",
-  "description": "ICA Halloh 570 is a folding bed film camera, manufactured by Internationale Camera AG.",
+  "description": "ICA于1922年推出的折叠相机。配备Carl Zeiss Jena Tessar 165mm f/6.3, filter slip-on, Aperture: f/6.3-f/36。快门速度Compur leaf shutter, speeds: 1-1/200 + Z and B, setting: by two dials on the lens shutter barrel, first one is for speeds, second one is for time exposures, (ZBM)。使用Dual concept。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "ICA Halloh 570"
+    "Camera-wiki": "ICA Halloh 570",
+    "胶片/画幅": "Dual concept",
+    "镜头": "Carl Zeiss Jena Tessar 165mm f/6.3, filter slip-on, Aperture: f/6.3-f/36",
+    "快门": "Compur leaf shutter, speeds: 1-1/200 + Z and B, setting: by two dials on the lens shutter barrel, first one is for speeds, second one is for time exposures, (ZBM)",
+    "取景器": "Waist level brilliant finder, turning left 90 degrees on its own axis for landscape pictures, w/ sprit level",
+    "英文简介": "ICA Halloh 570 is a folding bed film camera, manufactured by Internationale Camera AG."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Press cameras大画幅相机，1954 年发布",
-  "description": "The Summa Report is a rare and unusual press camera, made in about 1954 by Tiranti of Rome.",
+  "description": "Press cameras于1954年推出的大画幅相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Summa Report"
+    "Camera-wiki": "Summa Report",
+    "英文简介": "The Summa Report is a rare and unusual press camera, made in about 1954 by Tiranti of Rome."
   },
   "images": [],
   "sources": [

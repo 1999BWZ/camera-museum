@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯取景器相机，1996 年发布",
-  "description": "The Trip 201 of 1996 is a fully-automatic 35mm compact camera, with motor drive and fixed focus manufactured by Olympus.",
+  "description": "奥林巴斯于1996年推出的取景器相机。配备31mm。感光度DX decoding。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip 201"
+    "Camera-wiki": "Olympus Trip 201",
+    "镜头": "31mm",
+    "感光度": "DX decoding",
+    "英文简介": "The Trip 201 of 1996 is a fully-automatic 35mm compact camera, with motor drive and fixed focus manufactured by Olympus."
   },
   "images": [],
   "sources": [

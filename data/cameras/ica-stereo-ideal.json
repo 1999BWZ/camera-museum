@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "ICA立体相机，1910 年发布",
-  "description": "The Stereo Ideal is a folding bed stereo camera produced by the German company ICA from c.1910.",
+  "description": "ICA于1910年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Stereo Ideal"
+    "Camera-wiki": "Stereo Ideal",
+    "英文简介": "The Stereo Ideal is a folding bed stereo camera produced by the German company ICA from c.1910."
   },
   "images": [],
   "sources": [

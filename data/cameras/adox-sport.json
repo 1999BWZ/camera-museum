@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Adox折叠相机，1950 年发布",
-  "description": "The Adox Sport was made by Adox in Wiesbaden, Germany, in c.1950.",
+  "description": "Adox于1950年推出的折叠相机。配备Schneider-Kreuznach Radionar 1:4,5/105 or Steinheil Cassar f6.3。快门速度Compur Vario 1/25 - 1/200 sec., B。使用120 (6 x 9 cm, or 6 x 4.5 cm with mask)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Adox Sport"
+    "Camera-wiki": "Adox Sport",
+    "镜头": "Schneider-Kreuznach Radionar 1:4,5/105 or Steinheil Cassar f6.3",
+    "快门": "Compur Vario 1/25 - 1/200 sec., B",
+    "胶片/画幅": "120 (6 x 9 cm, or 6 x 4.5 cm with mask)",
+    "英文简介": "The Adox Sport was made by Adox in Wiesbaden, Germany, in c.1950."
   },
   "images": [],
   "sources": [

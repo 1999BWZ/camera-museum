@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2000 年发布",
-  "description": "The PV-SD4090 SuperDisk PalmCam is a digital camera released by Panasonic in 2000.",
+  "description": "松下于2000年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic PV-SD4090"
+    "Camera-wiki": "Panasonic PV-SD4090",
+    "重量": "695g",
+    "英文简介": "The PV-SD4090 SuperDisk PalmCam is a digital camera released by Panasonic in 2000."
   },
   "images": [],
   "sources": [

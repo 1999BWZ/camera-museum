@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1989 年发布",
-  "description": "The Elikon 4 is a compact 35mm viewfinder camera by Belomo.",
+  "description": "BelOMO于1989年推出的取景器相机。配备Minar 35mm f/4 or MC Industar-95-02 38mm f/4。快门速度Single speed 1/125。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Elikon 4"
+    "Camera-wiki": "Elikon 4",
+    "镜头": "Minar 35mm f/4 or MC Industar-95-02 38mm f/4",
+    "快门": "Single speed 1/125",
+    "闪光灯": "Built-in",
+    "英文简介": "The Elikon 4 is a compact 35mm viewfinder camera by Belomo."
   },
   "images": [],
   "sources": [

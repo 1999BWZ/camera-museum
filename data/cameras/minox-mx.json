@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Minox微型相机，1998 年发布",
-  "description": "The lightest of them all, the Minox Model MX, differs from other Minox models by not using the push-pull wind but rather a wind knob.",
+  "description": "Minox于1998年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minox MX"
+    "Camera-wiki": "Minox MX",
+    "尺寸": "8.4x3.4x2.1 cm (3.3x1.3x0.8\")",
+    "重量": "55 gram (1.93 oz)",
+    "英文简介": "The lightest of them all, the Minox Model MX, differs from other Minox models by not using the push-pull wind but rather a wind knob."
   },
   "images": [],
   "sources": [

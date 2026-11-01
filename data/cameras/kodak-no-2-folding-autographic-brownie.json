@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达旁轴相机（折叠），1915 年发布",
-  "description": "柯达于1915年发布的旁轴相机（折叠）。",
+  "description": "柯达于1915年推出的旁轴相机（折叠）。配备To 1923: Achromatic lens or Rapid Rectilinear; 1925: Kodar f/7.9. UK Variation (1926): Anastigmat f/6.3 lens。快门速度Kodex Ball Bearing Shutter with speeds B, T, 1/25 sec., and 1/50 sec.。使用Roll film (size 120), \"Autographic\" variant / 2¼×3¼ \"。sliding focusing with lock。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak No. 2 Folding Autographic Brownie"
+    "Camera-wiki": "Kodak No. 2 Folding Autographic Brownie",
+    "镜头": "To 1923: Achromatic lens or Rapid Rectilinear; 1925: Kodar f/7.9. UK Variation (1926): Anastigmat f/6.3 lens",
+    "胶片/画幅": "Roll film (size 120), \"Autographic\" variant / 2¼×3¼ \"",
+    "快门": "Kodex Ball Bearing Shutter with speeds B, T, 1/25 sec., and 1/50 sec.",
+    "光圈": "\"1\", \"2\", \"3,\" \"4\" (f/8, f/16, f/32, and f/64)",
+    "取景器": "Reflecting type",
+    "对焦": "sliding focusing with lock"
   },
   "images": [],
   "sources": [

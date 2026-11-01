@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡取景器相机，1987 年发布",
-  "description": "The Konica Manbow is a compact camera introduced by the Japanese manufacturer Konica as their first weatherproof camera in 1987.",
+  "description": "柯尼卡于1987年推出的取景器相机。配备Konica Lens 35mm F4 (4 elements in 4 groups)。快门速度Mechanical shutter, 1/125 sec. (fixed speed)。使用Manual advance (thumb-cog) and rewind。感光度ISO 100/200/400 (manual setting)。Focus free (fixed focus), 1.1 m - infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Manbow"
+    "Camera-wiki": "Konica Manbow",
+    "镜头": "Konica Lens 35mm F4 (4 elements in 4 groups)",
+    "曝光测光": "Fixed exposure; an aperture is selected according to the film speed.",
+    "对焦": "Focus free (fixed focus), 1.1 m - infinity",
+    "快门": "Mechanical shutter, 1/125 sec. (fixed speed)",
+    "感光度": "ISO 100/200/400 (manual setting)",
+    "胶片/画幅": "Manual advance (thumb-cog) and rewind",
+    "取景器": "Albada type bright frame finder",
+    "闪光灯": "G.N.14 m (ISO100), two distance settings",
+    "尺寸": "128mm X 74mm X 49mm",
+    "重量": "230g (without battery)",
+    "英文简介": "The Konica Manbow is a compact camera introduced by the Japanese manufacturer Konica as their first weatherproof camera in 1987."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dual focal length cameras胶片相机，1988 年发布",
-  "description": "The Musashi TW (Tele Wide) was released in 1988 under Iwata Enterprises' Selby brand.",
+  "description": "Dual focal length cameras于1988年推出的胶片相机。快门速度1/9–1/200 s.。使用Auto-loading, auto-winding, manually activated motor rewind.。感光度DX coded films ISO 100–400.。Active infrared autofocus with focus lock, 1.5 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Selby Musashi TW"
+    "Camera-wiki": "Selby Musashi TW",
+    "快门": "1/9–1/200 s.",
+    "对焦": "Active infrared autofocus with focus lock, 1.5 m to infinity.",
+    "曝光测光": "EV 10–15 (wide, ISO 100), EV 11–16 (tele).",
+    "闪光灯": "Built-in. Range from 1.5 m to 4.5 m (wide) or 3 m (tele).",
+    "感光度": "DX coded films ISO 100–400.",
+    "胶片/画幅": "Auto-loading, auto-winding, manually activated motor rewind.",
+    "尺寸": "136 x 72 x 52.5 mm.",
+    "重量": "310 g.",
+    "英文简介": "The Musashi TW (Tele Wide) was released in 1988 under Iwata Enterprises' Selby brand."
   },
   "images": [],
   "sources": [

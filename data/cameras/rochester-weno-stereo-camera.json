@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Rochester立体相机，1902 年发布",
-  "description": "A stereo camera made by the Blair Camera Company in Boston from 1902-03.",
+  "description": "Rochester于1902年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Weno Stereo Camera"
+    "Camera-wiki": "Weno Stereo Camera",
+    "英文简介": "A stereo camera made by the Blair Camera Company in Boston from 1902-03."
   },
   "images": [],
   "sources": [

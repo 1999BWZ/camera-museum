@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Adox取景器相机，1956 年发布",
-  "description": "The Adox 300 is a 35mm viewfinder camera made by the German company Adox and introduced in 1956.",
+  "description": "Adox于1956年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Adox 300"
+    "Camera-wiki": "Adox 300",
+    "英文简介": "The Adox 300 is a 35mm viewfinder camera made by the German company Adox and introduced in 1956."
   },
   "images": [],
   "sources": [

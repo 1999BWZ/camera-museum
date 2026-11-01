@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King取景器相机，1960 年发布",
-  "description": "The Regula Olympia Auto-Set was a 35mm viewfinder camera made at Bad Liebenzell in the Black Forest by King KG in the early 1960s as a part of their Regula brand.",
+  "description": "King于1960年推出的取景器相机。配备Steinheil Munchen Cassar 45mm f/2.8。快门速度1/30-1/500th + B。感光度10-400。1m-Infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Regula Olympia Auto-Set"
+    "Camera-wiki": "Regula Olympia Auto-Set",
+    "镜头": "Steinheil Munchen Cassar 45mm f/2.8",
+    "快门": "Prontor Lux",
+    "快门速度": "1/30-1/500th + B",
+    "对焦": "1m-Infinity",
+    "感光度": "10-400",
+    "闪光灯": "PC socket on the front, 1/30th sync in flash mode",
+    "英文简介": "The Regula Olympia Auto-Set was a 35mm viewfinder camera made at Bad Liebenzell in the Black Forest by King KG in the early 1960s as a part of their Regula brand."
   },
   "images": [],
   "sources": [

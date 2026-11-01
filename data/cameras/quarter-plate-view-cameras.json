@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Quarter plate折叠相机，1926 年发布",
-  "description": "The Ansco View cameras are wooden-bodied folding field cameras made from about 1925-39.",
+  "description": "Quarter plate于1926年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ansco View Cameras"
+    "Camera-wiki": "Ansco View Cameras",
+    "英文简介": "The Ansco View cameras are wooden-bodied folding field cameras made from about 1925-39."
   },
   "images": [],
   "sources": [

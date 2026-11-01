@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1974 年发布",
-  "description": "The Ricoh 800 EES is a compact coupled rangefinder camera with a 40mm f/2.8 lens.",
+  "description": "理光于1974年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 800 EES"
+    "Camera-wiki": "Ricoh 800 EES",
+    "英文简介": "The Ricoh 800 EES is a compact coupled rangefinder camera with a 40mm f/2.8 lens."
   },
   "images": [],
   "sources": [

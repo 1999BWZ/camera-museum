@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光取景器相机，1962 年发布",
-  "description": "The original Ricoh Auto Half was made in Japan by Ricoh from c.1960-1963, Page 830.",
+  "description": "理光于1962年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Auto Half"
+    "Camera-wiki": "Ricoh Auto Half",
+    "英文简介": "The original Ricoh Auto Half was made in Japan by Ricoh from c.1960-1963, Page 830."
   },
   "images": [],
   "sources": [

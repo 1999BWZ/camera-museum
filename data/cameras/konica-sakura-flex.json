@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1940 年发布",
-  "description": "The Sakura-flex (さくらフレックス) The name is written Sakurafurekkusu (さくらフレックス) with Sakura in hiragana and furekkusu in katakana in the two original documents observed so far, namely the January 1941 official price and the advertisement extract reproduced in Tanimura, p.124 of no.27.",
+  "description": "柯尼卡于1940年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sakura-flex"
+    "Camera-wiki": "Sakura-flex",
+    "英文简介": "The Sakura-flex (さくらフレックス) The name is written Sakurafurekkusu (さくらフレックス) with Sakura in hiragana and furekkusu in katakana in the two original documents observed so far, namely the January 1941 official price and the advertisement extract reproduced in Tanimura, p.124 of no.27."
   },
   "images": [],
   "sources": [

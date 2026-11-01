@@ -13,11 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "徕卡旁轴相机，2012 年发布",
-  "description": "徕卡于2012年发布的旁轴相机。",
+  "description": "徕卡于2012年推出的旁轴相机。配备Leica M-mount。快门速度Focal plane, metal curtains, vertical travel。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q349977",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "传感器": "Monochrome image sensor",
+    "镜头": "Leica M-mount",
+    "快门速度": "Focal plane, metal curtains, vertical travel",
+    "曝光测光": "TTL, center weighted averaging",
+    "闪光灯": "Fixed hot shoe",
+    "屏幕": "| storage = SD up to 2 GB and SDHC up to 32 GB",
+    "电池": "Lithium ion"
   },
   "images": [
     {

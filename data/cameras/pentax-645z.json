@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码相机，2014 年发布",
-  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Pentax 645Z is a medium format digital SLR announced by Ricoh Imaging in 2014.",
+  "description": "宾得于2014年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax 645Z"
+    "Camera-wiki": "Pentax 645Z",
+    "英文简介": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Pentax 645Z is a medium format digital SLR announced by Ricoh Imaging in 2014."
   },
   "images": [],
   "sources": [

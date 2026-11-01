@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，2006 年发布",
-  "description": "The PowerShot A700 is a digital camera by Canon of Japan released in 2006.",
+  "description": "佳能于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon PowerShot A700"
+    "Camera-wiki": "Canon PowerShot A700",
+    "英文简介": "The PowerShot A700 is a digital camera by Canon of Japan released in 2006."
   },
   "images": [],
   "sources": [

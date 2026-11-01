@@ -1,0 +1,40 @@
+{
+  "id": "hasselblad-xpan",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "哈苏",
+  "model": "XPan",
+  "year": 1988,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏大画幅相机，1988 年发布",
+  "description": "哈苏于1988年发布的大画幅相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q9646270",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hasselblad%20Xpan.jpg?width=800",
+      "caption": "XPan",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q9646270"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 哈苏XPan",
+      "url": "https://www.wikidata.org/wiki/Q9646270"
+    }
+  ],
+  "qid": "Q9646270",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

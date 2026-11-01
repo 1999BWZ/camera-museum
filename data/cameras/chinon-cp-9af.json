@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon数码单反相机，1988 年发布",
-  "description": "The CP-9AF Multi Program camera is an autofocus and autoexposure SLR introduced by Chinon in 1988.",
+  "description": "Chinon于1988年推出的数码单反相机。使用35mm film with speeds of 25 to 5000 ISO, with auto DX, 6 to 6400 ISO manual。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon CP-9AF"
+    "Camera-wiki": "Chinon CP-9AF",
+    "卡口": "Chinon custom C-AF mount",
+    "胶片/画幅": "35mm film with speeds of 25 to 5000 ISO, with auto DX, 6 to 6400 ISO manual",
+    "曝光测光": "TTL full aperture center weighted average. 2x S.P.D. (Silicon Photo Diode).",
+    "取景器": "Pentaprism with 92% coverage and 87%x magnification",
+    "电池": "1x 6V 2CR5 battery (up to 70 rolls) or 4x 1.5V AA-type batteries (up to 60 rolls)",
+    "尺寸": "WxHxD = 150 x 90 x 50mm",
+    "重量": "545g (without batteries).",
+    "英文简介": "The CP-9AF Multi Program camera is an autofocus and autoexposure SLR introduced by Chinon in 1988."
   },
   "images": [],
   "sources": [

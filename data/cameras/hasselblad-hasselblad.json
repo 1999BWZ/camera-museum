@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "哈苏胶片单反相机，1887 年发布",
-  "description": "Hasselblad is a camera manufacturer based in Göteborg, Sweden - and is the company that first developed the professional medium format modular SLR.",
+  "description": "哈苏于1887年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Hasselblad"
+    "Camera-wiki": "Hasselblad",
+    "英文简介": "Hasselblad is a camera manufacturer based in Göteborg, Sweden - and is the company that first developed the professional medium format modular SLR."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Anny取景器相机，1967 年发布",
-  "description": "The Anny Half is a half-frame (18&times;24 mm) camera from Hoei, produced circa 1967.",
+  "description": "Anny于1967年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Anny Half"
+    "Camera-wiki": "Anny Half",
+    "英文简介": "The Anny Half is a half-frame (18&times;24 mm) camera from Hoei, produced circa 1967."
   },
   "images": [],
   "sources": [

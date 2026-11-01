@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron旁轴相机，1958 年发布",
-  "description": "__NOTOC__\nThe Taron V18 is a variant of the Taron VR ('five'-R) rangefinder introduced by Nippon Kōsokki in 1958.",
+  "description": "Taron于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron V18"
+    "Camera-wiki": "Taron V18",
+    "英文简介": "__NOTOC__\nThe Taron V18 is a variant of the Taron VR ('five'-R) rangefinder introduced by Nippon Kōsokki in 1958."
   },
   "images": [],
   "sources": [

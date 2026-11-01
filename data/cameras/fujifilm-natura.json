@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片相机，2004 年发布",
-  "description": "The Natura Classica is a 35mm auto focus zoom cameras introduced by Fuji in 2004.",
+  "description": "富士于2004年推出的胶片相机。配备28 to 56mm; 2.8 to f5.4 Super EBC Fujinon lens。快门速度2s to 1/360s。使用135 35mm。感光度Auto DX, ISO50 to 3200。AF: 0.4m ~ inf.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Natura"
+    "Camera-wiki": "Fujifilm Natura",
+    "胶片/画幅": "135 35mm",
+    "尺寸": "24mm × 36mm",
+    "镜头": "28 to 56mm; 2.8 to f5.4 Super EBC Fujinon lens",
+    "对焦": "AF: 0.4m ~ inf.",
+    "快门速度": "2s to 1/360s",
+    "感光度": "Auto DX, ISO50 to 3200",
+    "重量": "155g",
+    "英文简介": "The Natura Classica is a 35mm auto focus zoom cameras introduced by Fuji in 2004."
   },
   "images": [],
   "sources": [

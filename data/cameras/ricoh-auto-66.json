@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光胶片相机，1959 年发布",
-  "description": "The Ricoh Auto 66 is a semi-automatic 6x6 TLR camera made in Japan by Ricoh from 1959.",
+  "description": "理光于1959年推出的胶片相机。配备Riken Ricoh f 3.5 / 80mm。快门速度Seikosha-L, Speeds 1/10 - 1/500 sec + B。manual focusing by Ricoh Viewer f 3.5 / 80mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Auto 66"
+    "Camera-wiki": "Ricoh Auto 66",
+    "镜头": "Riken Ricoh f 3.5 / 80mm",
+    "快门": "Seikosha-L, Speeds 1/10 - 1/500 sec + B",
+    "光圈": "1/3.5 - 1:22",
+    "对焦": "manual focusing by Ricoh Viewer f 3.5 / 80mm",
+    "尺寸": "77mm x 207mm x 101mm",
+    "重量": "1000 g",
+    "英文简介": "The Ricoh Auto 66 is a semi-automatic 6x6 TLR camera made in Japan by Ricoh from 1959."
   },
   "images": [],
   "sources": [

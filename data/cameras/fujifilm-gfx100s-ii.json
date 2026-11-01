@@ -1,0 +1,40 @@
+{
+  "id": "fujifilm-gfx100s-ii",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "GFX100S II",
+  "year": 2024,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士无反相机，2024 年发布",
+  "description": "富士于2024年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q125960897",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20GFX100S%20II%2025%20may%202024a.jpg?width=800",
+      "caption": "GFX100S II",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q125960897"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Fujifilm GFX100S II",
+      "url": "https://www.wikidata.org/wiki/Q125960897"
+    }
+  ],
+  "qid": "Q125960897",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

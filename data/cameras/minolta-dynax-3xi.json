@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1991 年发布",
-  "description": "The Dynax 3xi is a autofocus 35mm film SLR.",
+  "description": "美能达于1991年推出的胶片单反相机。配备Minolta AF mount。快门速度focal plane shutter with speeds 30sec to 1/2000sec and B mode。使用35mm with speeds ISO 25-5000, full frame (24x36mm)。predictive phase-detection autofocus with ASZ option (auto-set zoom)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Dynax 3xi"
+    "Camera-wiki": "Minolta Dynax 3xi",
+    "镜头": "Minolta AF mount",
+    "胶片/画幅": "35mm with speeds ISO 25-5000, full frame (24x36mm)",
+    "快门": "focal plane shutter with speeds 30sec to 1/2000sec and B mode",
+    "曝光测光": "fully automatic depending on subject and lens, or manual settings, or aperture priority, or shutter priority",
+    "对焦": "predictive phase-detection autofocus with ASZ option (auto-set zoom)",
+    "闪光灯": "Dynax/Maxxum system flash connector or the built-in GN 12 flash which also serves as autofocusing aid",
+    "重量": "420g",
+    "尺寸": "147×92×64mm",
+    "英文简介": "The Dynax 3xi is a autofocus 35mm film SLR."
   },
   "images": [],
   "sources": [

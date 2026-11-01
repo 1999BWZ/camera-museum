@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cooky取景器相机，1949 年发布",
-  "description": "The Cooky 35 (クッキー35) Japanese spelling: documents in December 1949, pp.39 and 42, reproduced in this page.",
+  "description": "Cooky于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cooky 35 and Robin 35"
+    "Camera-wiki": "Cooky 35 and Robin 35",
+    "英文简介": "The Cooky 35 (クッキー35) Japanese spelling: documents in December 1949, pp.39 and 42, reproduced in this page."
   },
   "images": [],
   "sources": [

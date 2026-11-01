@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Linhof折叠相机，1962 年发布",
-  "description": "The Technika 70 is a folding 6x9cm press type camera produced by the German company Linhof from 1962 - 1979.",
+  "description": "Linhof于1962年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Linhof Technika 70"
+    "Camera-wiki": "Linhof Technika 70",
+    "英文简介": "The Technika 70 is a folding 6x9cm press type camera produced by the German company Linhof from 1962 - 1979."
   },
   "images": [],
   "sources": [

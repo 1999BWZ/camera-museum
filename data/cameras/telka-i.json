@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Telka折叠相机，1950 年发布",
-  "description": "The Telka I was made by DeMaria-Lapierre in Paris and made 6&times;9cm exposures on 120 rollfilm.",
+  "description": "Telka于1950年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Telka I"
+    "Camera-wiki": "Telka I",
+    "英文简介": "The Telka I was made by DeMaria-Lapierre in Paris and made 6&times;9cm exposures on 120 rollfilm."
   },
   "images": [],
   "sources": [

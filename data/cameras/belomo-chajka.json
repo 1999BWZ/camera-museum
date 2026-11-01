@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "BelOMO取景器相机，1965 年发布",
-  "description": "*The Chaika name was also usedfor Chaika electronic flash units.",
+  "description": "BelOMO于1965年推出的取景器相机。0.8 to infinite。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chajka"
+    "Camera-wiki": "Chajka",
+    "光圈": "f/2.8",
+    "对焦": "0.8 to infinite",
+    "英文简介": "*The Chaika name was also usedfor Chaika electronic flash units."
   },
   "images": [],
   "sources": [

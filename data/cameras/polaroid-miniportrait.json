@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来一次成像相机，1977 年发布",
-  "description": "The Miniportrait is a series of Polaroid Passport cameras with multiple lenses.",
+  "description": "宝丽来于1977年推出的一次成像相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Miniportrait"
+    "Camera-wiki": "Polaroid Miniportrait",
+    "英文简介": "The Miniportrait is a series of Polaroid Passport cameras with multiple lenses."
   },
   "images": [],
   "sources": [

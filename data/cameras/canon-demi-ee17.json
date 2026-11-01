@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能取景器相机，1959 年发布",
-  "description": "The Canon Demi is a half frame camera, 'Demi' being the French word for \"half\".",
+  "description": "佳能于1959年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Demi EE17"
+    "Camera-wiki": "Canon Demi EE17",
+    "英文简介": "The Canon Demi is a half frame camera, 'Demi' being the French word for \"half\"."
   },
   "images": [],
   "sources": [

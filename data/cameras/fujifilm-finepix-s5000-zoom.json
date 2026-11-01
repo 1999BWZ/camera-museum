@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士数码相机，2003 年发布",
-  "description": "The FinePix S5000 Zoom is a 2003 digital camera from Fujifilm.",
+  "description": "富士于2003年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm FinePix S5000 Zoom"
+    "Camera-wiki": "Fujifilm FinePix S5000 Zoom",
+    "英文简介": "The FinePix S5000 Zoom is a 2003 digital camera from Fujifilm."
   },
   "images": [],
   "sources": [

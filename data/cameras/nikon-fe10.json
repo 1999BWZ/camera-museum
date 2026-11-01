@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片单反相机，1996 年发布",
-  "description": "The Nikon FE10 is a manual focus 35mm film SLR released by Nikon in 1996.",
+  "description": "尼康于1996年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikon FE10"
+    "Camera-wiki": "Nikon FE10",
+    "英文简介": "The Nikon FE10 is a manual focus 35mm film SLR released by Nikon in 1996."
   },
   "images": [],
   "sources": [

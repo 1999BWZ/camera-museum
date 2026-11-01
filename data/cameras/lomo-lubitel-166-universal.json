@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO玩具相机，1983 年发布",
-  "description": "The Lubitel 166U was made by Lomo in Leningrad (now St.",
+  "description": "LOMO于1983年推出的玩具相机。配备T-22 triplet, 75 mm f/4.5。快门速度1/15 sec. to 1/250 sec. and B。使用120 only。1.3 m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lubitel 166 Universal"
+    "Camera-wiki": "Lubitel 166 Universal",
+    "胶片/画幅": "120 only",
+    "尺寸": "56x56 mm or 56x42 mm (12 or 16 pictures per film respectively)",
+    "镜头": "T-22 triplet, 75 mm f/4.5",
+    "快门": "leaf, manually cocked",
+    "快门速度": "1/15 sec. to 1/250 sec. and B",
+    "光圈": "f4.5 to f22",
+    "对焦": "1.3 m to infinity",
+    "闪光灯": "cord, all shutter speeds",
+    "自拍": "mechanical",
+    "曝光测光": "no",
+    "英文简介": "The Lubitel 166U was made by Lomo in Leningrad (now St."
   },
   "images": [],
   "sources": [

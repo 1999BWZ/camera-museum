@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯便携相机，2000 年发布",
-  "description": "The Trip XB40 AF of 2000 is a compact camera with autofocus, taking 35mm film, which was manufactured by Olympus in China.",
+  "description": "奥林巴斯于2000年推出的便携相机。配备27mm, f/6.3 [https://esif.world-traveller.org/om-sif/camhistory/camhistory.htm According to this unofficial Olympus history page], 3 elements in 3 groups.。感光度DX decoding ISO 100 - 400.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus Trip XB40 AF"
+    "Camera-wiki": "Olympus Trip XB40 AF",
+    "镜头": "27mm, f/6.3 [https://esif.world-traveller.org/om-sif/camhistory/camhistory.htm According to this unofficial Olympus history page], 3 elements in 3 groups.",
+    "感光度": "DX decoding ISO 100 - 400.",
+    "取景器": "Reverse Galilean type.",
+    "尺寸": "115.5 x 68 x 46 mm.",
+    "重量": "XB40 AF - 148 grams, XB41 AF - 152 grams.",
+    "英文简介": "The Trip XB40 AF of 2000 is a compact camera with autofocus, taking 35mm film, which was manufactured by Olympus in China."
   },
   "images": [],
   "sources": [

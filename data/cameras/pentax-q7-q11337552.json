@@ -1,0 +1,32 @@
+{
+  "id": "pentax-q7-q11337552",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "Q7",
+  "year": 2013,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片相机，2013 年发布",
+  "description": "宾得于2013年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11337552",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax Q7",
+      "url": "https://www.wikidata.org/wiki/Q11337552"
+    }
+  ],
+  "qid": "Q11337552",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

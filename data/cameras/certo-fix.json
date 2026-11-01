@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo折叠相机，1930 年发布",
-  "description": "Certofix, Certotix and Certix are all cameras in a line of 6x9 cm format folders produced by the German company Certo.",
+  "description": "Certo于1930年推出的折叠相机。快门速度Schneider Radionar Anastigmat 6.3/10.5 cm lens in a Vario leaf shutterSchneider Radionar 4.5/10.5 cm lens in a Vario or Compur leaf shutter。使用8 exposures of 6 x 9 cm on 120 type rollfilm.。By turning the Frontlens。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Certofix"
+    "Camera-wiki": "Certofix",
+    "胶片/画幅": "8 exposures of 6 x 9 cm on 120 type rollfilm.",
+    "快门": "Schneider Radionar Anastigmat 6.3/10.5 cm lens in a Vario leaf shutterSchneider Radionar 4.5/10.5 cm lens in a Vario or Compur leaf shutter",
+    "对焦": "By turning the Frontlens",
+    "取景器": "Brilliant finder up front and sometimes a Foldable Wire frame finder on the side.",
+    "尺寸": "??x??x?? mm (folded)",
+    "重量": "??? grams",
+    "英文简介": "Certofix, Certotix and Certix are all cameras in a line of 6x9 cm format folders produced by the German company Certo."
   },
   "images": [],
   "sources": [

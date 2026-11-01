@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来胶片单反相机，2012 年发布",
-  "description": "The Land Camera 1000 is a plastic-bodied, non-folding consumer camera that uses SX-70 integral film.",
+  "description": "宝丽来于2012年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Land Camera 1000"
+    "Camera-wiki": "Polaroid Land Camera 1000",
+    "英文简介": "The Land Camera 1000 is a plastic-bodied, non-folding consumer camera that uses SX-70 integral film."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片相机，1964 年发布",
-  "description": "The Porst Reflex S camera is simply a rebranded Topcon Wink Mirror S made in Japan.",
+  "description": "Topcon于1964年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Porst Reflex S"
+    "Camera-wiki": "Porst Reflex S",
+    "英文简介": "The Porst Reflex S camera is simply a rebranded Topcon Wink Mirror S made in Japan."
   },
   "images": [],
   "sources": [

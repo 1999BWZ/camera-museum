@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji取景器相机，1988 年发布",
-  "description": "The DL-15 is a fixed-focus compact camera from Fuji released in 1988.",
+  "description": "Fuji于1988年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fuji DL-15"
+    "Camera-wiki": "Fuji DL-15",
+    "英文简介": "The DL-15 is a fixed-focus compact camera from Fuji released in 1988."
   },
   "images": [],
   "sources": [

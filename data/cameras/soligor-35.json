@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Soligor数码单反相机，1955 年发布",
-  "description": "The Soligor 35 is an SLR sold by Allied Impex Corporation and made by Tokiwa Seiki Page 897.",
+  "description": "Soligor于1955年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Soligor 35"
+    "Camera-wiki": "Soligor 35",
+    "英文简介": "The Soligor 35 is an SLR sold by Allied Impex Corporation and made by Tokiwa Seiki Page 897."
   },
   "images": [],
   "sources": [

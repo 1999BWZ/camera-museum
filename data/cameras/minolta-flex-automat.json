@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1941 年发布",
-  "description": "See also the 1937 Minoltaflex (I), the later Minoltaflex Automat prototypes and the postwar Minoltaflex II and III.",
+  "description": "美能达于1941年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minoltaflex Automat"
+    "Camera-wiki": "Minoltaflex Automat",
+    "英文简介": "See also the 1937 Minoltaflex (I), the later Minoltaflex Automat prototypes and the postwar Minoltaflex II and III."
   },
   "images": [],
   "sources": [

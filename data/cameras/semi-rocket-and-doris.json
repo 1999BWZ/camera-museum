@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1952 年发布",
-  "description": "The Semi Rocket (セミロケット) and Doris (ドリス) are Japanese 4.5×6 folding cameras made between 1952 and 1955 by Tōkyō Seiki, later Doris Camera.",
+  "description": "Semi于1952年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Rocket and Doris"
+    "Camera-wiki": "Semi Rocket and Doris",
+    "英文简介": "The Semi Rocket (セミロケット) and Doris (ドリス) are Japanese 4.5×6 folding cameras made between 1952 and 1955 by Tōkyō Seiki, later Doris Camera."
   },
   "images": [],
   "sources": [

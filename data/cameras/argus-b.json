@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Argus取景器相机，1937 年发布",
-  "description": "The Argus B is like the Argus A but is fitted with a more upmarket Prontor II shutter rather than the usual Ilex.",
+  "description": "Argus于1937年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Argus B"
+    "Camera-wiki": "Argus B",
+    "英文简介": "The Argus B is like the Argus A but is fitted with a more upmarket Prontor II shutter rather than the usual Ilex."
   },
   "images": [],
   "sources": [

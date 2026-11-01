@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚取景器相机，1982 年发布",
-  "description": "The Mamiya EF2 is a zone focus plastic viewfinder pocket camera, introduced in 1982.",
+  "description": "玛米亚于1982年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya EF2"
+    "Camera-wiki": "Mamiya EF2",
+    "英文简介": "The Mamiya EF2 is a zone focus plastic viewfinder pocket camera, introduced in 1982."
   },
   "images": [],
   "sources": [

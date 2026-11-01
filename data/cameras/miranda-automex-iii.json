@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Miranda数码单反相机，1965 年发布",
-  "description": "The Automex III was a 35mm SLR introduced by Miranda as a 1965 followup to the Automex II.",
+  "description": "Miranda于1965年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Miranda Automex III"
+    "Camera-wiki": "Miranda Automex III",
+    "英文简介": "The Automex III was a 35mm SLR introduced by Miranda as a 1965 followup to the Automex II."
   },
   "images": [],
   "sources": [

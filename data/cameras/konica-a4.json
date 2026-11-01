@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1989 年发布",
-  "description": "The Konica A4 is a 35mm autofocus compact point and shoot camera released in 1989.",
+  "description": "柯尼卡于1989年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica A4"
+    "Camera-wiki": "Konica A4",
+    "英文简介": "The Konica A4 is a 35mm autofocus compact point and shoot camera released in 1989."
   },
   "images": [],
   "sources": [

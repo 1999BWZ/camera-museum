@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Fuji便携相机，1981 年发布",
-  "description": "Fujica Auto-7 is an early autofocus compact camera released in 1981, a year after the zone focus Auto-5.",
+  "description": "Fuji于1981年推出的便携相机。配备38 mm f/2,8 (4 elements/4 groups).。快门速度Programmed electronic, 1/8–1/500 s, self-timer.。使用Automatic loading, advance and rewind.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujica Auto-7"
+    "Camera-wiki": "Fujica Auto-7",
+    "镜头": "38 mm f/2,8 (4 elements/4 groups).",
+    "快门": "Programmed electronic, 1/8–1/500 s, self-timer.",
+    "闪光灯": "Built-in, manually activated.",
+    "胶片/画幅": "Automatic loading, advance and rewind.",
+    "尺寸": "137,5 x 79,5 x 56,5 mm.",
+    "重量": "430 g.",
+    "英文简介": "Fujica Auto-7 is an early autofocus compact camera released in 1981, a year after the zone focus Auto-5."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1995 年发布",
-  "description": "The Pentax PZ-70 (Z-70 in US), dating from 1995, was an autofocus 35mm film SLR.",
+  "description": "宾得于1995年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Z-70/PZ-70"
+    "Camera-wiki": "Pentax Z-70/PZ-70",
+    "英文简介": "The Pentax PZ-70 (Z-70 in US), dating from 1995, was an autofocus 35mm film SLR."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1997 年发布",
-  "description": "The Kodak KB 10 was made by Kodak's Mexican plant.",
+  "description": "柯达于1997年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak KB 10"
+    "Camera-wiki": "Kodak KB 10",
+    "英文简介": "The Kodak KB 10 was made by Kodak's Mexican plant."
   },
   "images": [],
   "sources": [

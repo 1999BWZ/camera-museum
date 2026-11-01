@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "玛米亚胶片单反相机，1963 年发布",
-  "description": "The Prismat model CPH from Mamiya revises the earlier Prismat PH by replacing its selenium meter with a new CdS cell just under the rewind crank.",
+  "description": "玛米亚于1963年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Mamiya Prismat CPH"
+    "Camera-wiki": "Mamiya Prismat CPH",
+    "英文简介": "The Prismat model CPH from Mamiya revises the earlier Prismat PH by replacing its selenium meter with a new CdS cell just under the rewind crank."
   },
   "images": [],
   "sources": [

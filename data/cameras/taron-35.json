@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Taron旁轴相机，1955 年发布",
-  "description": "The Taron 35 is a 35mm rangefinder camera made in Japan by Nippon Kōsokki from 1955 to 1957.",
+  "description": "Taron于1955年推出的旁轴相机。配备Tomioka Lausar 4.5cm/f2.8。快门速度Nippon Kōsokki NKS-MX leaf shutter with speeds B, 1sec to 1/300s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Taron 35"
+    "Camera-wiki": "Taron 35",
+    "镜头": "Tomioka Lausar 4.5cm/f2.8",
+    "快门": "Nippon Kōsokki NKS-MX leaf shutter with speeds B, 1sec to 1/300s",
+    "英文简介": "The Taron 35 is a 35mm rangefinder camera made in Japan by Nippon Kōsokki from 1955 to 1957."
   },
   "images": [],
   "sources": [

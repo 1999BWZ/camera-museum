@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee折叠相机，1916 年发布",
-  "description": "The Microbie 500 is a folding camera made by Ihagee in Dresden.",
+  "description": "Ihagee于1916年推出的折叠相机。使用4.5×6cm plates。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Microbie"
+    "Camera-wiki": "Microbie",
+    "胶片/画幅": "4.5×6cm plates",
+    "英文简介": "The Microbie 500 is a folding camera made by Ihagee in Dresden."
   },
   "images": [],
   "sources": [

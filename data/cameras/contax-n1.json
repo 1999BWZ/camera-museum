@@ -13,10 +13,22 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时数码单反相机，2001 年发布",
-  "description": "The Contax N1 is a 35mm auto focus SLR camera introduced in 2001.",
+  "description": "康泰时于2001年推出的数码单反相机。快门速度LA-50 (50cm cable), LA-500 (5m cable)。使用3.5 fps in C-mode。感光度Auto DX ISO 25 to 5000; Manual ISO 6 to 6400.。FX-1 (split image), FX-2 (matte), FX-3 (grid)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax N1"
+    "Camera-wiki": "Contax N1",
+    "快门": "LA-50 (50cm cable), LA-500 (5m cable)",
+    "对焦": "FX-1 (split image), FX-2 (matte), FX-3 (grid)",
+    "卡口": "Contax N-mount",
+    "曝光测光": "Aperture priority; Shutter priority; Program auto; Manual exposure; TTL auto flash",
+    "感光度": "Auto DX ISO 25 to 5000; Manual ISO 6 to 6400.",
+    "取景器": "Field of vision 95%",
+    "卷片": "Single frame; continuous",
+    "胶片/画幅": "3.5 fps in C-mode",
+    "自拍": "delay at 2 or 10 seconds.",
+    "尺寸": "152 x 116.5 x 69 mm",
+    "重量": "795g (without battery)",
+    "英文简介": "The Contax N1 is a 35mm auto focus SLR camera introduced in 2001."
   },
   "images": [],
   "sources": [

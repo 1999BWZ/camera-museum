@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lomography玩具相机，2006 年发布",
-  "description": "The LOMO LC-A+ is a 35mm compact camera produced by Lomography in 2006 based on the original LOMO LC-A.",
+  "description": "Lomography于2006年推出的玩具相机。配备Chinese Minitar lens 3 element 32mm 1:2.8。快门速度1/500 to unlimited。感光度100-1600ASA。Zone focus 0.8, 1.5, 3m and infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Lomography LOMO LC-A+"
+    "Camera-wiki": "Lomography LOMO LC-A+",
+    "镜头": "Chinese Minitar lens 3 element 32mm 1:2.8",
+    "对焦": "Zone focus 0.8, 1.5, 3m and infinity",
+    "快门速度": "1/500 to unlimited",
+    "感光度": "100-1600ASA",
+    "电池": "3x LR44 or 3xA76 button cells",
+    "闪光灯": "X-synchronised hotshoe mount",
+    "尺寸": "Full (36x24mm), Square-frame (24x24mm), Half-frame (17x24mm)",
+    "英文简介": "The LOMO LC-A+ is a 35mm compact camera produced by Lomography in 2006 based on the original LOMO LC-A."
   },
   "images": [],
   "sources": [

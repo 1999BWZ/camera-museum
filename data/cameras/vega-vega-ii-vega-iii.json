@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vega取景器相机，1949 年发布",
-  "description": "The Vega cameras are basic 35mm viewfinder cameras made by Druopta in Prague, at that time in Czechoslovakia.",
+  "description": "Vega于1949年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vega / Vega II / Vega III"
+    "Camera-wiki": "Vega / Vega II / Vega III",
+    "英文简介": "The Vega cameras are basic 35mm viewfinder cameras made by Druopta in Prague, at that time in Czechoslovakia."
   },
   "images": [],
   "sources": [

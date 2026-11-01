@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ernemann折叠相机，1913 年发布",
-  "description": "The Bob series are folding cameras for various sizes of both plates and rollfilm, made by Ernemann of Dresden from about 1902 until the company took part in the merger to create Zeiss Ikon in 1926.",
+  "description": "Ernemann于1913年推出的折叠相机。配备**4x6.5 & 6x6 f=75mm。快门速度**Ernemann two blade shutter with speeds 1/25 to 1/100 sec.。使用various: 6x9 rollfilm, 6.5 x 9 plates, 8 x 10.5 rollfilm, 9 x 12 cm plates。by sliding bed, without gears。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ernemann Bob"
+    "Camera-wiki": "Ernemann Bob",
+    "胶片/画幅": "various: 6x9 rollfilm, 6.5 x 9 plates, 8 x 10.5 rollfilm, 9 x 12 cm plates",
+    "取景器": "brilliant finder",
+    "对焦": "by sliding bed, without gears",
+    "重量": "**8x10.5 type: 15 cm extended; 3.8x11.5x20.5 cm; 0.550 kg",
+    "快门": "**Ernemann two blade shutter with speeds 1/25 to 1/100 sec.",
+    "镜头": "**4x6.5 & 6x6 f=75mm",
+    "英文简介": "The Bob series are folding cameras for various sizes of both plates and rollfilm, made by Ernemann of Dresden from about 1902 until the company took part in the merger to create Zeiss Ikon in 1926."
   },
   "images": [],
   "sources": [

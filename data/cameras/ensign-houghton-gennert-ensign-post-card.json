@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ensign折叠相机，1910 年发布",
-  "description": "*There is a sticker inside of the back cover: \"Post Card \"Ensign\", Trade Mark \"Ensign\", Daylight Loading, Use the British Made \"Ensign\" Roll Films, They are Fastest and the Best, The 3.1/4inch A Spool Fits This Camera, and Ensign Logo\n\n*There is a small round plate on the right side of the camera: H",
+  "description": "Ensign于1910年推出的折叠相机。快门速度General (Engraving on the dial), IIFX Shutters (above the aperture scale), simple, leaf shutter。使用by special spool loosening mechanisms, there is an original wooden take up spool, 3.1/4 inch in length。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Houghton-Gennert Ensign Post Card"
+    "Camera-wiki": "Houghton-Gennert Ensign Post Card",
+    "快门": "General (Engraving on the dial), IIFX Shutters (above the aperture scale), simple, leaf shutter",
+    "胶片/画幅": "by special spool loosening mechanisms, there is an original wooden take up spool, 3.1/4 inch in length",
+    "英文简介": "*There is a sticker inside of the back cover: \"Post Card \"Ensign\", Trade Mark \"Ensign\", Daylight Loading, Use the British Made \"Ensign\" Roll Films, They are Fastest and the Best, The 3.1/4inch A Spool Fits This Camera, and Ensign Logo\n\n*There is a small round plate on the right side of the camera: Houghtons Ltd."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bilora盒式相机，1950 年发布",
-  "description": "The Luxus-Boy or Boy Luxus is a small bakelite box camera in red made by Bilora in 1950.",
+  "description": "Bilora于1950年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Luxus-Boy"
+    "Camera-wiki": "Luxus-Boy",
+    "英文简介": "The Luxus-Boy or Boy Luxus is a small bakelite box camera in red made by Bilora in 1950."
   },
   "images": [],
   "sources": [

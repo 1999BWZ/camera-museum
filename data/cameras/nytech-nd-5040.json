@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Nytech数码相机，2004 年发布",
-  "description": "The Nytech ND-5040 is a digital compact camera distributed by TARGA GmbH.",
+  "description": "Nytech于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nytech ND-5040"
+    "Camera-wiki": "Nytech ND-5040",
+    "英文简介": "The Nytech ND-5040 is a digital compact camera distributed by TARGA GmbH."
   },
   "images": [],
   "sources": [

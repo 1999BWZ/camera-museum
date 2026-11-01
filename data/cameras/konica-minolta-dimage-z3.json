@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡美能达数码相机，2004 年发布",
-  "description": "The DiMAGE Z3 is a digital camera manufactured by Konica Minolta and released in 2004.",
+  "description": "柯尼卡美能达于2004年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica Minolta DiMAGE Z3"
+    "Camera-wiki": "Konica Minolta DiMAGE Z3",
+    "英文简介": "The DiMAGE Z3 is a digital camera manufactured by Konica Minolta and released in 2004."
   },
   "images": [],
   "sources": [

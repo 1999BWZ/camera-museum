@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "KMZ全景相机，1967 年发布",
-  "description": "The Horizont is a lineage of swing-lens panoramic cameras similar in design to the Panon Widelux or the later KW Noblex and a departure from its predecessor, the KMZ FT-2.",
+  "description": "KMZ于1967年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Horizont"
+    "Camera-wiki": "Horizont",
+    "英文简介": "The Horizont is a lineage of swing-lens panoramic cameras similar in design to the Panon Widelux or the later KW Noblex and a departure from its predecessor, the KMZ FT-2."
   },
   "images": [],
   "sources": [

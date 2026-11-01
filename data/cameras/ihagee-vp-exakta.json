@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee胶片单反相机，1933 年发布",
-  "description": "The VP Exaktas are a line of SLRs made by Ihagee in Dresden from 1933 onwards.",
+  "description": "Ihagee于1933年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "VP Exakta"
+    "Camera-wiki": "VP Exakta",
+    "英文简介": "The VP Exaktas are a line of SLRs made by Ihagee in Dresden from 1933 onwards."
   },
   "images": [],
   "sources": [

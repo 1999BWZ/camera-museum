@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，2014 年发布",
-  "description": "松下于2014年发布的便携相机。",
+  "description": "松下于2014年推出的便携相机。配备Micro Four Thirds system mount。快门速度Focal-plane shutter / Electronic shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q17049200",
-    "多语言词条数": "4"
+    "多语言词条数": "4",
+    "传感器": "4/3 type MOS (\"Live MOS sensor\")",
+    "镜头": "Micro Four Thirds system mount",
+    "快门速度": "Focal-plane shutter / Electronic shutter",
+    "取景器": "OLED Live View Finder (2,359K dots)",
+    "闪光灯": "built-in pop-up flash",
+    "屏幕": "free-angle 3 inch (3:2 aspect ratio), 1036K dots",
+    "存储": "SD / SDHC / SDXC",
+    "电池": "1860 mAh 7.2v lithium-ion battery pack",
+    "尺寸": "132.9 mm × 93.4 mm × 83.9 mm (5.23 × 3.68 × 3.3 inches)",
+    "重量": "Approx. (camera body with battery and SD card)"
   },
   "images": [
     {

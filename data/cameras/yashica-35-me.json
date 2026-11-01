@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡取景器相机，1972 年发布",
-  "description": "The Yashica 35-ME is a small, compact 35mm viewfinder camera with auto exposure, made in Japan by Yashica, introduced c.",
+  "description": "雅西卡于1972年推出的取景器相机。配备Yashica 38mm f2.8; zone and feet/metres scales。快门速度Copal auto, speed set by metering, 1/30-1/650 sec.。感光度25 to 400 ASA。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica 35-ME"
+    "Camera-wiki": "Yashica 35-ME",
+    "镜头": "Yashica 38mm f2.8; zone and feet/metres scales",
+    "快门": "Copal auto, speed set by metering, 1/30-1/650 sec.",
+    "感光度": "25 to 400 ASA",
+    "闪光灯": "hot shoe, flash sync 1/25 of a sec.",
+    "英文简介": "The Yashica 35-ME is a small, compact 35mm viewfinder camera with auto exposure, made in Japan by Yashica, introduced c."
   },
   "images": [],
   "sources": [

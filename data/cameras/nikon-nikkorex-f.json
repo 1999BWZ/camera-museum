@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "尼康胶片相机，1962 年发布",
-  "description": "Nikkorex F, made by Mamiya for Nikon, also sold as Nikkor J.",
+  "description": "尼康于1962年推出的胶片相机。快门速度1/1000th-1 second, B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Nikkorex F"
+    "Camera-wiki": "Nikkorex F",
+    "卡口": "Nikon F mount",
+    "快门": "Copal Square vertical travel metal-blind mechanical focal-plane shutter",
+    "快门速度": "1/1000th-1 second, B",
+    "闪光灯": "F, X at 1/125th.",
+    "曝光测光": "Manual, designed to use clip-on accessory meter.",
+    "取景器": "SLR with fresnel focusing screen and split-screen device",
+    "英文简介": "Nikkorex F, made by Mamiya for Nikon, also sold as Nikkor J."
   },
   "images": [],
   "sources": [

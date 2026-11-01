@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发盒式相机，1936 年发布",
-  "description": "The Box 14, better known under the name &quot;Trolix&quot;, was manufactured by Agfa Camera-Werk in Munich, Germany (1936 - 1940).",
+  "description": "爱克发于1936年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Agfa Trolix"
+    "Camera-wiki": "Agfa Trolix",
+    "英文简介": "The Box 14, better known under the name &quot;Trolix&quot;, was manufactured by Agfa Camera-Werk in Munich, Germany (1936 - 1940)."
   },
   "images": [],
   "sources": [

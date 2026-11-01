@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2013 年发布",
-  "description": "{|class=floatright\n||\n|-\n||\n\n|}\nThe Ricoh GR is a advanced autofocus digital compact camera released by Pentax Ricoh Imaging in 2013.",
+  "description": "理光于2013年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh GR"
+    "Camera-wiki": "Ricoh GR",
+    "英文简介": "{|class=floatright\n||\n|-\n||\n\n|}\nThe Ricoh GR is a advanced autofocus digital compact camera released by Pentax Ricoh Imaging in 2013."
   },
   "images": [],
   "sources": [

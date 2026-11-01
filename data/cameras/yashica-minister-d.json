@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1964 年发布",
-  "description": "The Yashica Minister D rangefinder camera was manufactured in Japan beginning around 1964 According to [http://www.yashica-guy.com/document/chrono2.html Yashica Guy].",
+  "description": "雅西卡于1964年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Minister D"
+    "Camera-wiki": "Yashica Minister D",
+    "英文简介": "The Yashica Minister D rangefinder camera was manufactured in Japan beginning around 1964 According to [http://www.yashica-guy.com/document/chrono2.html Yashica Guy]."
   },
   "images": [],
   "sources": [

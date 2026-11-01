@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda取景器相机，1957 年发布",
-  "description": "The Baldessa is a range of modestly priced 35mm viewfinder and rangefinder cameras produced by Balda in Germany from c.1957 to the late 1960s, pp.96-7.",
+  "description": "Balda于1957年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baldessa"
+    "Camera-wiki": "Baldessa",
+    "英文简介": "The Baldessa is a range of modestly priced 35mm viewfinder and rangefinder cameras produced by Balda in Germany from c.1957 to the late 1960s, pp.96-7."
   },
   "images": [],
   "sources": [

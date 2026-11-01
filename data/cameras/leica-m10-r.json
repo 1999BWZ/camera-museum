@@ -1,0 +1,32 @@
+{
+  "id": "leica-m10-r",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M10-R",
+  "year": 2020,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2020 年发布",
+  "description": "徕卡于2020年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q113457540",
+    "多语言词条数": "0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M10-R",
+      "url": "https://www.wikidata.org/wiki/Q113457540"
+    }
+  ],
+  "qid": "Q113457540",
+  "sitelinks": 0,
+  "imported": "wikidata-5k-2026-11-01"
+}

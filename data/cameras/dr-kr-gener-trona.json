@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Dr. Krügener折叠相机，1906 年发布",
-  "description": "The Trona is a folding plate camera, originally made by Krugener.",
+  "description": "Dr. Krügener于1906年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Trona"
+    "Camera-wiki": "Trona",
+    "英文简介": "The Trona is a folding plate camera, originally made by Krugener."
   },
   "images": [],
   "sources": [

@@ -1,0 +1,41 @@
+{
+  "id": "fujifilm-x-t20",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "X-T20",
+  "year": 2017,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士无反相机，2017 年发布",
+  "description": "富士于2017年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q28454844",
+    "多语言词条数": "1",
+    "年份来源": "据英文描述推断"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X-T20.jpg?width=800",
+      "caption": "X-T20",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q28454844"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Fujifilm X-T20",
+      "url": "https://www.wikidata.org/wiki/Q28454844"
+    }
+  ],
+  "qid": "Q28454844",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

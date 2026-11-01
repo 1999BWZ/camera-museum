@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1982 年发布",
-  "description": "The Minolta Disc-5 is a simple, flat camera for Disc film cartridges, a format introduced by Kodak in 1982.",
+  "description": "美能达于1982年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Disc-5"
+    "Camera-wiki": "Minolta Disc-5",
+    "英文简介": "The Minolta Disc-5 is a simple, flat camera for Disc film cartridges, a format introduced by Kodak in 1982."
   },
   "images": [],
   "sources": [

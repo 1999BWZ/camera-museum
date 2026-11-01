@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1994 年发布",
-  "description": "The Riva Zoom 70EX is a compact camera with autofocus and built-in flash made by Minolta.",
+  "description": "美能达于1994年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva Zoom 70EX"
+    "Camera-wiki": "Minolta Riva Zoom 70EX",
+    "英文简介": "The Riva Zoom 70EX is a compact camera with autofocus and built-in flash made by Minolta."
   },
   "images": [],
   "sources": [

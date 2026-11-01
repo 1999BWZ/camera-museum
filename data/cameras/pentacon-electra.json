@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pentacon取景器相机，1967 年发布",
-  "description": "The Pentacon electra is an innovative camera introduced 1967 by Pentacon.",
+  "description": "Pentacon于1967年推出的取景器相机。配备Meyer-Optik Görlitz Domiplan 45 mm f/2.8 (3 elements, coated). Closest distance is 1 m (3 feet). Focussing is only guesswork supported by symbols for landscape, groups and portrait.。使用SL System cartridges, thumb wheel in the back for film advance, frame counter (counts down from 12).。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentacon electra"
+    "Camera-wiki": "Pentacon electra",
+    "镜头": "Meyer-Optik Görlitz Domiplan 45 mm f/2.8 (3 elements, coated). Closest distance is 1 m (3 feet). Focussing is only guesswork supported by symbols for landscape, groups and portrait.",
+    "取景器": "simple telescopic type, no further frame or parallax indicators.",
+    "胶片/画幅": "SL System cartridges, thumb wheel in the back for film advance, frame counter (counts down from 12).",
+    "闪光灯": "Connection through hot shoe only.",
+    "英文简介": "The Pentacon electra is an innovative camera introduced 1967 by Pentacon."
   },
   "images": [
     {

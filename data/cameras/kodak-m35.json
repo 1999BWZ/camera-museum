@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，2019 年发布",
-  "description": "The Kodak M35 is a 35mm reusable compact camera issued by Sino Promise Group LTD.",
+  "description": "柯达于2019年推出的便携相机。配备31mm, F=10, fixed focus, focusing from 1m-infinity (1 element).[https://kodak.sinopromise.com/kodaklicensingproducts-filmM35.html Kodak Sino Promise].。快门速度1/120.。使用35mm film, ISO 200-400.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak M35"
+    "Camera-wiki": "Kodak M35",
+    "镜头": "31mm, F=10, fixed focus, focusing from 1m-infinity (1 element).[https://kodak.sinopromise.com/kodaklicensingproducts-filmM35.html Kodak Sino Promise].",
+    "胶片/画幅": "35mm film, ISO 200-400.",
+    "闪光灯": "Manual switch.",
+    "快门速度": "1/120.",
+    "尺寸": "114x64x35mm.",
+    "重量": "100g.",
+    "英文简介": "The Kodak M35 is a 35mm reusable compact camera issued by Sino Promise Group LTD."
   },
   "images": [],
   "sources": [

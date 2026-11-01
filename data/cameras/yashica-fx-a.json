@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡数码单反相机，1982 年发布",
-  "description": "The FX-A Quartz is a 35mm SLR from Yashica.",
+  "description": "雅西卡于1982年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica FX-A"
+    "Camera-wiki": "Yashica FX-A",
+    "英文简介": "The FX-A Quartz is a 35mm SLR from Yashica."
   },
   "images": [],
   "sources": [

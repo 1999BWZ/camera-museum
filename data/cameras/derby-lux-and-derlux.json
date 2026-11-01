@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Derby-Lux折叠相机，1945 年发布",
-  "description": "The Derby-Lux — made by Gallus of Paris, c.1945 — was a continuation of the 1930s German Foth Derby, whose production had been taken over by the Gallus company after Foth moved to France.",
+  "description": "Derby-Lux于1945年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Derby-Lux and Derlux"
+    "Camera-wiki": "Derby-Lux and Derlux",
+    "英文简介": "The Derby-Lux — made by Gallus of Paris, c.1945 — was a continuation of the 1930s German Foth Derby, whose production had been taken over by the Gallus company after Foth moved to France."
   },
   "images": [],
   "sources": [

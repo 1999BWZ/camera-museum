@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Walz旁轴相机，1960 年发布",
-  "description": "__NOTOC__\nThe Walz Electric is a 35 mm rangefinder with a coupled selenium cell that was sold in the early 60's by the Japanese company Walz.",
+  "description": "Walz于1960年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Walz Electric"
+    "Camera-wiki": "Walz Electric",
+    "英文简介": "__NOTOC__\nThe Walz Electric is a 35 mm rangefinder with a coupled selenium cell that was sold in the early 60's by the Japanese company Walz."
   },
   "images": [],
   "sources": [

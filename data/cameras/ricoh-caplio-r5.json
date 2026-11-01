@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光数码相机，2006 年发布",
-  "description": "The Ricoh Caplio R5 is a compact digital point and shoot camera introduced by Ricoh in 2006.",
+  "description": "理光于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh Caplio R5"
+    "Camera-wiki": "Ricoh Caplio R5",
+    "英文简介": "The Ricoh Caplio R5 is a compact digital point and shoot camera introduced by Ricoh in 2006."
   },
   "images": [
     {

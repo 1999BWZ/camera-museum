@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达数码相机，2001 年发布",
-  "description": "The millenium began well for Minolta: In 2001 the company could introduce a digital viewfinder camera with apochromatic 4x zoom lens and 3.3 Megapixel image resolution, the Minolta DiMAGE S304, as well as other fine new digital cameras for the new era's revolutionized photography.",
+  "description": "美能达于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta DiMAGE S304"
+    "Camera-wiki": "Minolta DiMAGE S304",
+    "英文简介": "The millenium began well for Minolta: In 2001 the company could introduce a digital viewfinder camera with apochromatic 4x zoom lens and 3.3 Megapixel image resolution, the Minolta DiMAGE S304, as well as other fine new digital cameras for the new era's revolutionized photography."
   },
   "images": [],
   "sources": [

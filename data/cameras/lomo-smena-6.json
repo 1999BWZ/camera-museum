@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO取景器相机，1961 年发布",
-  "description": "The Smena 6 is a 35mm viewfinder camera made by GOMZ and LOMO in the USSR, from 1961 to 1969.",
+  "description": "LOMO于1961年推出的取景器相机。配备T-43 triplet 40mm f/4, stopping to f/16, focusing 1m to infinity。快门速度leaf, manually cocked, speeds 1/15 sec. to 1/250 sec. and B。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Smena 6"
+    "Camera-wiki": "Smena 6",
+    "胶片/画幅": "35mm",
+    "镜头": "T-43 triplet 40mm f/4, stopping to f/16, focusing 1m to infinity",
+    "快门": "leaf, manually cocked, speeds 1/15 sec. to 1/250 sec. and B",
+    "英文简介": "The Smena 6 is a 35mm viewfinder camera made by GOMZ and LOMO in the USSR, from 1961 to 1969."
   },
   "images": [],
   "sources": [

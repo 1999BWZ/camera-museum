@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Braun取景器相机，1950 年发布",
-  "description": "Paxina is a line of medium-format viewfinder cameras for 6&times;6 cm exposures on 120 film, made by the Braun company in Nuremberg, Germany in the middle part of the 20th century.",
+  "description": "Braun于1950年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Braun Paxina"
+    "Camera-wiki": "Braun Paxina",
+    "英文简介": "Paxina is a line of medium-format viewfinder cameras for 6&times;6 cm exposures on 120 film, made by the Braun company in Nuremberg, Germany in the middle part of the 20th century."
   },
   "images": [],
   "sources": [

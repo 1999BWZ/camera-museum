@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pretec数码相机，1999 年发布",
-  "description": "The Pretec DC-520 is a digital camera from circa 1999.",
+  "description": "Pretec于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pretec DC-520"
+    "Camera-wiki": "Pretec DC-520",
+    "英文简介": "The Pretec DC-520 is a digital camera from circa 1999."
   },
   "images": [],
   "sources": [

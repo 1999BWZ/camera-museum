@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Eyes取景器相机，1931 年发布",
-  "description": "The Pupille is a rigid-bodied 3×4cm camera, made in the early 1930s by Nagel and later Kodak AG.",
+  "description": "Eyes于1931年推出的取景器相机。快门速度Fr. Deckel Compur, T-B-1-2-5-10-25-50-100-300。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pupille"
+    "Camera-wiki": "Pupille",
+    "重量": "ca. 97 x 68 x (49, 60, 65) mm (collapsed, infinity, 70cm focus), 397g (Leitz Elmar)",
+    "快门": "Fr. Deckel Compur, T-B-1-2-5-10-25-50-100-300",
+    "尺寸": "97 x 68 x 49 mm",
+    "英文简介": "The Pupille is a rigid-bodied 3×4cm camera, made in the early 1930s by Nagel and later Kodak AG."
   },
   "images": [],
   "sources": [

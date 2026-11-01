@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar取景器相机，1979 年发布",
-  "description": "The 35EM was a Vivitar entry in the field of compact, self-capping 35mm cameras, inspired by others such as the Olympus XA and the Minox 35.",
+  "description": "Vivitar于1979年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar 35EM"
+    "Camera-wiki": "Vivitar 35EM",
+    "英文简介": "The 35EM was a Vivitar entry in the field of compact, self-capping 35mm cameras, inspired by others such as the Olympus XA and the Minox 35."
   },
   "images": [],
   "sources": [

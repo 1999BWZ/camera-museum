@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Shumy取景器相机，1955 年发布",
-  "description": "The Shumy and the Harmony are inexpensive 6×6 viewfinder cameras made in Japan, probably at the end of the 1950s.",
+  "description": "Shumy于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Shumy and Harmony"
+    "Camera-wiki": "Shumy and Harmony",
+    "英文简介": "The Shumy and the Harmony are inexpensive 6×6 viewfinder cameras made in Japan, probably at the end of the 1950s."
   },
   "images": [],
   "sources": [

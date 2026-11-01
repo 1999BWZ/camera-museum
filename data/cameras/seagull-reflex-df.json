@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Seagull胶片单反相机，1964 年发布",
-  "description": "The Seagull Reflex DF was a SLR camera body for 35mm film.",
+  "description": "Seagull于1964年推出的胶片单反相机。快门速度cloth focal plane shutter, speeds 1 sec. to 1/1000 sec. plus B。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Seagull Reflex DF"
+    "Camera-wiki": "Seagull Reflex DF",
+    "胶片/画幅": "35mm",
+    "卡口": "Minolta SR-bayonet",
+    "快门": "cloth focal plane shutter, speeds 1 sec. to 1/1000 sec. plus B",
+    "取景器": "pentaprism finder with simple screen",
+    "闪光灯": "X- and FP-flash sync.",
+    "英文简介": "The Seagull Reflex DF was a SLR camera body for 35mm film."
   },
   "images": [],
   "sources": [

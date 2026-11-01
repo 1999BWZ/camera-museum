@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下便携相机，1988 年发布",
-  "description": "The C-900ZM is a 35mm compact camera manufactured by Panasonic in c.1988[https://krantenbankzeeland.nl/issue/pzc/1988-06-15/edition/0/page/8 Combifoto Advertisement in newspaper \"Provinciale Zeeuwse Courant\" of June 15th 1988].",
+  "description": "松下于1988年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic C-900ZM"
+    "Camera-wiki": "Panasonic C-900ZM",
+    "英文简介": "The C-900ZM is a 35mm compact camera manufactured by Panasonic in c.1988[https://krantenbankzeeland.nl/issue/pzc/1988-06-15/edition/0/page/8 Combifoto Advertisement in newspaper \"Provinciale Zeeuwse Courant\" of June 15th 1988]."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Shanghai旁轴相机，1958 年发布",
-  "description": "The Shanghai 58 is a Leica copy made from 1958 by the Shanghai Camera Company (later Seagull).",
+  "description": "Shanghai于1958年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Shanghai 58"
+    "Camera-wiki": "Shanghai 58",
+    "英文简介": "The Shanghai 58 is a Leica copy made from 1958 by the Shanghai Camera Company (later Seagull)."
   },
   "images": [],
   "sources": [

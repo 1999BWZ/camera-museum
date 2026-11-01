@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码相机，1999 年发布",
-  "description": "The Camedia C-21 is a digital camera released from Olympus in 1999.",
+  "description": "奥林巴斯于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Olympus C-21"
+    "Camera-wiki": "Olympus C-21",
+    "英文简介": "The Camedia C-21 is a digital camera released from Olympus in 1999."
   },
   "images": [],
   "sources": [

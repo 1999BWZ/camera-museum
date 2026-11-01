@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能数码相机，1988 年发布",
-  "description": "{|class=plainlinks\n|rowspan=2|[http://www.flickr.com/photos/andrys_stienstra/3089801785/in/pool-camerawiki http://farm4.static.flickr.com/3159/3089801785_3ed5b737e4.jpg]\n||[http://www.flickr.com/photos/andrys_stienstra/3089801111/in/pool-camerawiki http://farm4.static.flickr.com/3219/3089801111_a323",
+  "description": "佳能于1988年推出的数码相机。快门速度focal plane shutter with speeds 1/8-1/2000 sec.。使用Still Video Format。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon RC-760"
+    "Camera-wiki": "Canon RC-760",
+    "传感器": "2/3\" CCD Image Sensor (600,000 pixels)",
+    "胶片/画幅": "Still Video Format",
+    "卡口": "SV Mount",
+    "快门": "focal plane shutter with speeds 1/8-1/2000 sec.",
+    "尺寸": "162(W)×51.5(D)×101(H)mm",
+    "重量": "975g (without battery , Floppy Disk)",
+    "英文简介": "{|class=plainlinks\n|rowspan=2|[http://www.flickr.com/photos/andrys_stienstra/3089801785/in/pool-camerawiki http://farm4.static.flickr.com/3159/3089801785_3ed5b737e4.jpg]\n||[http://www.flickr.com/photos/andrys_stienstra/3089801111/in/pool-camerawiki http://farm4.static.flickr.com/3219/3089801111_a323752001_m.jpg]\n||[http://www.flickr.com/photos/andrys_stienstra/3089803247/in/pool-camerawiki http://"
   },
   "images": [],
   "sources": [

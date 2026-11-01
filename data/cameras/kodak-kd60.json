@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达全景相机，1997 年发布",
-  "description": "The Kodak KD60 is a 1990s-era compact camera for 35mm film.",
+  "description": "柯达于1997年推出的全景相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak KD60"
+    "Camera-wiki": "Kodak KD60",
+    "英文简介": "The Kodak KD60 is a 1990s-era compact camera for 35mm film."
   },
   "images": [],
   "sources": [

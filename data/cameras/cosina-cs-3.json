@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina数码单反相机，1978 年发布",
-  "description": "The Cosina CS-3 is a 35mm SLR introduced by Cosina in 1978, as the most full-featured model alongside the CS-1 and CS-2.",
+  "description": "Cosina于1978年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cosina CS-3"
+    "Camera-wiki": "Cosina CS-3",
+    "英文简介": "The Cosina CS-3 is a 35mm SLR introduced by Cosina in 1978, as the most full-featured model alongside the CS-1 and CS-2."
   },
   "images": [],
   "sources": [

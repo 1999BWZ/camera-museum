@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Porst胶片相机，1978 年发布",
-  "description": "The Porst Pocketpak 2001 is a small pocket camera for 110 film cartridges.",
+  "description": "Porst于1978年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Porst Pocketpak 2001"
+    "Camera-wiki": "Porst Pocketpak 2001",
+    "曝光测光": "switchable from sunlight to clouded mode",
+    "取景器": "optical finder",
+    "电池": "625 (for flash usage)",
+    "闪光灯": "Flipflash - set of use-once-flash-bulbs can be plugged in",
+    "英文简介": "The Porst Pocketpak 2001 is a small pocket camera for 110 film cartridges."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "福伦达便携相机，2000 年发布",
-  "description": "The Voigtländer Vitolux Comfort AF is a small full-automatic compact camera which uses 35mm film, most probably marketed by Ringfoto.",
+  "description": "福伦达于2000年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Voigtländer Vitolux Comfort AF"
+    "Camera-wiki": "Voigtländer Vitolux Comfort AF",
+    "英文简介": "The Voigtländer Vitolux Comfort AF is a small full-automatic compact camera which uses 35mm film, most probably marketed by Ringfoto."
   },
   "images": [],
   "sources": [

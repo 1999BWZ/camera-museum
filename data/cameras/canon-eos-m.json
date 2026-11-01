@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能无反相机，2012 年发布",
-  "description": "佳能于2012年发布的无反相机。",
+  "description": "佳能于2012年推出的无反相机。配备Canon EF-M。快门速度Electronically-controlled vertical-travel focal-plane shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q63318",
-    "多语言词条数": "15"
+    "多语言词条数": "15",
+    "传感器": "CMOS",
+    "胶片/画幅": "JPEG, RAW",
+    "镜头": "Canon EF-M",
+    "对焦": "| exposure =",
+    "闪光灯": "| frame_rate =",
+    "快门速度": "Electronically-controlled vertical-travel focal-plane shutter",
+    "取景器": "| speedRange =",
+    "屏幕": "3 in, 1,040,000 dots",
+    "存储": "| battery = LP-E12",
+    "尺寸": "108.6 mm × 66.5 mm × 32.3 mm"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "康泰时胶片单反相机，1994 年发布",
-  "description": "The Contax RX is a single lens reflex camera body with auto exposure modes and the Contax/Yashica MM lens mount.",
+  "description": "康泰时于1994年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Contax RX"
+    "Camera-wiki": "Contax RX",
+    "英文简介": "The Contax RX is a single lens reflex camera body with auto exposure modes and the Contax/Yashica MM lens mount."
   },
   "images": [],
   "sources": [

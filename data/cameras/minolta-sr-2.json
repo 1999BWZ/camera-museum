@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片单反相机，1958 年发布",
-  "description": "The Minolta SR-2 was introduced in 1958 as the first 35mm SLR camera from Chiyoda Kōgaku Seikō.",
+  "description": "美能达于1958年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta SR-2"
+    "Camera-wiki": "Minolta SR-2",
+    "英文简介": "The Minolta SR-2 was introduced in 1958 as the first 35mm SLR camera from Chiyoda Kōgaku Seikō."
   },
   "images": [
     {

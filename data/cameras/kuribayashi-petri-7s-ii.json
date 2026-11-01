@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi旁轴相机，1974 年发布",
-  "description": "The Petri 7s II is a fixed-lens 35mm rangefinder camera introduced by Petri in 1974.",
+  "description": "Kuribayashi于1974年推出的旁轴相机。配备45mm (f/1.8 or 2.8) amber-coated lens. 52mm filter thread.。快门速度Petri XV shutter with speeds: B up to 1/500. Self cocking, X synchronization, built-in self-timer, release pressure 200g.。使用35mm film (meter can be set to ASA 10 - 400)。Coupled rangefinder, focusing from 0.8 m (2.75ft) to infinity. \"Green-O-Matic\" (on the f/1.8 model)。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri 7s II"
+    "Camera-wiki": "Petri 7s II",
+    "胶片/画幅": "35mm film (meter can be set to ASA 10 - 400)",
+    "镜头": "45mm (f/1.8 or 2.8) amber-coated lens. 52mm filter thread.",
+    "快门": "Petri XV shutter with speeds: B up to 1/500. Self cocking, X synchronization, built-in self-timer, release pressure 200g.",
+    "取景器": "Bright-line type with parallax correction mark",
+    "对焦": "Coupled rangefinder, focusing from 0.8 m (2.75ft) to infinity. \"Green-O-Matic\" (on the f/1.8 model)",
+    "曝光测光": "'Circle-Eye' selenium exposure meter, reading EV7 - 17 at 100 ASA. 'Zero Method' (i.e. match-needle); displays in the viewfinder and on the top plate.",
+    "电池": "None",
+    "闪光灯": "Hot shoe and PC socket. Electronic flash synchronisation with all shutter speeds.",
+    "重量": "635g",
+    "英文简介": "The Petri 7s II is a fixed-lens 35mm rangefinder camera introduced by Petri in 1974."
   },
   "images": [],
   "sources": [

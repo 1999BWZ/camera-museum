@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Suter盒式相机，1941 年发布",
-  "description": "There is also the Liliput 4.5×6 cm strut-folding camera from about 1915, by Stegemann.",
+  "description": "Suter于1941年推出的盒式相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Suter Liliput"
+    "Camera-wiki": "Suter Liliput",
+    "英文简介": "There is also the Liliput 4.5×6 cm strut-folding camera from about 1915, by Stegemann."
   },
   "images": [],
   "sources": [

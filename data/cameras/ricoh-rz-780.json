@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光便携相机，1991 年发布",
-  "description": "The RZ-780 is an autofocus compact camera for 35mm film, introduced by Ricoh in 1991.",
+  "description": "理光于1991年推出的便携相机。配备38 mm f/4.5 - 80 mm f/6.4 zoom lens, 7 elements in 7 groups。快门速度Programmed, 1 sec. - 1/400 sec.。感光度ISO 64 - 3200 (DX-code system)。5-point multi-beam active autofocus system, 650 focusing steps with Spot-AF facility。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh RZ-780"
+    "Camera-wiki": "Ricoh RZ-780",
+    "镜头": "38 mm f/4.5 - 80 mm f/6.4 zoom lens, 7 elements in 7 groups",
+    "对焦": "5-point multi-beam active autofocus system, 650 focusing steps with Spot-AF facility",
+    "快门": "Programmed, 1 sec. - 1/400 sec.",
+    "感光度": "ISO 64 - 3200 (DX-code system)",
+    "闪光灯": "G.N. 19 m (ISO 100), Auto / On / Off, Soft Flash, Red-eye reduction",
+    "尺寸": "142 mm x 74 mm x 53 mm",
+    "重量": "345 g (without battery)",
+    "英文简介": "The RZ-780 is an autofocus compact camera for 35mm film, introduced by Ricoh in 1991."
   },
   "images": [],
   "sources": [

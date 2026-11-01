@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "松下数码相机，2023 年发布",
-  "description": "The Lumix DC-S5IIx is almost like Panasonic's first 36&times;24mm (\"full frame\") digital system camera with phase detection autofocus, the Lumix DC-S5II, but with extended videography functionality, for example RAW video recording by means of external SSD-\"harddisk\", and a configurable wireless IP s",
+  "description": "松下于2023年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Panasonic Lumix DC-S5IIx"
+    "Camera-wiki": "Panasonic Lumix DC-S5IIx",
+    "英文简介": "The Lumix DC-S5IIx is almost like Panasonic's first 36&times;24mm (\"full frame\") digital system camera with phase detection autofocus, the Lumix DC-S5II, but with extended videography functionality, for example RAW video recording by means of external SSD-\"harddisk\", and a configurable wireless IP streaming mode."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bonzart数码相机，2022 年发布",
-  "description": "The Bonzart Ziegel'Ziegel' is German and can mean 'brick' or (more likely here) 'tile'; the name presumably refers to the curved shape of the front plate.",
+  "description": "Bonzart于2022年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bonzart Ziegel"
+    "Camera-wiki": "Bonzart Ziegel",
+    "英文简介": "The Bonzart Ziegel'Ziegel' is German and can mean 'brick' or (more likely here) 'tile'; the name presumably refers to the curved shape of the front plate."
   },
   "images": [],
   "sources": [

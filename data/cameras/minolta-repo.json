@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达胶片相机，1963 年发布",
-  "description": "The Minolta Repo is one of Minolta's two half-frame cameras, released in 1963.",
+  "description": "美能达于1963年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Repo"
+    "Camera-wiki": "Minolta Repo",
+    "英文简介": "The Minolta Repo is one of Minolta's two half-frame cameras, released in 1963."
   },
   "images": [],
   "sources": [

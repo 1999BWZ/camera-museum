@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，1999 年发布",
-  "description": "The MVC-FD88 is a digital camera in the Mavica series from Sony, the highest-resolution and most expensive model introduced in 1999 alongside the FD73 and FD83.",
+  "description": "索尼于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony Mavica FD88"
+    "Camera-wiki": "Sony Mavica FD88",
+    "英文简介": "The MVC-FD88 is a digital camera in the Mavica series from Sony, the highest-resolution and most expensive model introduced in 1999 alongside the FD73 and FD83."
   },
   "images": [],
   "sources": [

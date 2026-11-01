@@ -1,0 +1,51 @@
+{
+  "id": "fujifilm-x-a7",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "X-A7",
+  "year": 2019,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士旁轴相机，2019 年发布",
+  "description": "富士于2019年推出的旁轴相机。配备Fujifilm X。快门速度Focal Plane Shutter。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q87587362",
+    "多语言词条数": "2",
+    "镜头": "Fujifilm X",
+    "传感器": "CMOS with Bayer filter",
+    "存储": "SD card",
+    "对焦": "Intelligent Hybrid TTL contrast detection / Phase detection",
+    "曝光测光": "TTL 256-zones metering",
+    "闪光灯": "Manual pop-up flash",
+    "快门速度": "Focal Plane Shutter",
+    "取景器": "none",
+    "屏幕": "3.5 inches 2.76M dots free-angle touchscreen",
+    "电池": "NP-W126S Li-ion",
+    "重量": "including battery and memory card"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X-A7%2026%20oct%202019a.jpg?width=800",
+      "caption": "X-A7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q87587362"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Fujifilm X-A7",
+      "url": "https://www.wikidata.org/wiki/Q87587362"
+    }
+  ],
+  "qid": "Q87587362",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

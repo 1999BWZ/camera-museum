@@ -1,0 +1,32 @@
+{
+  "id": "olympus-e-100rs",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-100RS",
+  "year": 2000,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，2000 年发布",
+  "description": "奥林巴斯于2000年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889152",
+    "多语言词条数": "1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus E-100RS",
+      "url": "https://www.wikidata.org/wiki/Q20889152"
+    }
+  ],
+  "qid": "Q20889152",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

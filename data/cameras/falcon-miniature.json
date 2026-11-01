@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Falcon胶片相机，1939 年发布",
-  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\n\nThe Falcon Miniature (or Falcon Deluxe Miniature) 127 film cameras were made in New York by the Utility Manufacturing Company, starting c.1939.",
+  "description": "Falcon于1939年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Falcon Miniature"
+    "Camera-wiki": "Falcon Miniature",
+    "英文简介": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\n\nThe Falcon Miniature (or Falcon Deluxe Miniature) 127 film cameras were made in New York by the Utility Manufacturing Company, starting c.1939."
   },
   "images": [],
   "sources": [

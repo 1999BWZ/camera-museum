@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1970 年发布",
-  "description": "The Electro 35 GS was a 35mm rangefinder camera from Yashica released in 1970.",
+  "description": "雅西卡于1970年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica Electro 35 GS"
+    "Camera-wiki": "Yashica Electro 35 GS",
+    "英文简介": "The Electro 35 GS was a 35mm rangefinder camera from Yashica released in 1970."
   },
   "images": [],
   "sources": [

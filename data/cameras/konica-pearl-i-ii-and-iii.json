@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡旁轴相机，1949 年发布",
-  "description": "The name Pearl was given by Konishiroku (the later Konica) to many models of rollfilm folders.",
+  "description": "柯尼卡于1949年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pearl (I), II and III"
+    "Camera-wiki": "Pearl (I), II and III",
+    "英文简介": "The name Pearl was given by Konishiroku (the later Konica) to many models of rollfilm folders."
   },
   "images": [],
   "sources": [

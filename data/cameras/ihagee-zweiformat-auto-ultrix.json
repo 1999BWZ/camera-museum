@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Ihagee折叠相机，1936 年发布",
-  "description": "Ihagee Zweiformat-Auto-Ultrix was manufactured by Ihagee Kamerawerk, Steenbergen & Co., Dresden, Germany.",
+  "description": "Ihagee于1936年推出的折叠相机。配备Ihagee-Sol-Anastigmat 105mm f/4.5, Aperture: f/4.5 - f/32, no click stops。快门速度Compur leaf shutter,。manual helical focusing by a lever behind the lens-shutter barrel, guess the distance, scale on the lens standard, Focus range: 2.5-15m +inf。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Zweiformat-Auto-Ultrix"
+    "Camera-wiki": "Zweiformat-Auto-Ultrix",
+    "镜头": "Ihagee-Sol-Anastigmat 105mm f/4.5, Aperture: f/4.5 - f/32, no click stops",
+    "对焦": "manual helical focusing by a lever behind the lens-shutter barrel, guess the distance, scale on the lens standard, Focus range: 2.5-15m +inf",
+    "快门": "Compur leaf shutter,",
+    "取景器": "**Waist-level brilliant finder on top of the lens, turning 90 degrees left on its own axis for landscape pictures,",
+    "重量": "550g",
+    "英文简介": "Ihagee Zweiformat-Auto-Ultrix was manufactured by Ihagee Kamerawerk, Steenbergen & Co., Dresden, Germany."
   },
   "images": [],
   "sources": [

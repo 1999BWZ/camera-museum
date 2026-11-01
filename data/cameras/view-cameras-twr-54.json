@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "View cameras双镜头反光相机，1972 年发布",
-  "description": "The TWR 54 is a view camera for 4x5-inch film.",
+  "description": "View cameras于1972年推出的双镜头反光相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cambo TWR 54"
+    "Camera-wiki": "Cambo TWR 54",
+    "英文简介": "The TWR 54 is a view camera for 4x5-inch film."
   },
   "images": [],
   "sources": [

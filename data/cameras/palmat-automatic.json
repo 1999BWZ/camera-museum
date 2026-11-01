@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Palmat取景器相机，1961 年发布",
-  "description": "{|class=floatright\n|\n \n|-\n|\n \n|}\nThis simple viewfinder camera for 35mm film is labeled only Palmat Automatic on the camera, although the original packaging does show the name of its Japanese maker, Yamato.",
+  "description": "Palmat于1961年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Palmat Automatic"
+    "Camera-wiki": "Palmat Automatic",
+    "英文简介": "{|class=floatright\n|\n \n|-\n|\n \n|}\nThis simple viewfinder camera for 35mm film is labeled only Palmat Automatic on the camera, although the original packaging does show the name of its Japanese maker, Yamato."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "爱克发取景器相机，1965 年发布",
-  "description": "The Agfa ISO-RAPID I is an all-mechanic viewfinder camera for Agfa's Rapid film system.",
+  "description": "爱克发于1965年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Iso-Rapid I"
+    "Camera-wiki": "Iso-Rapid I",
+    "尺寸": "115 x 76 x 50 mm",
+    "英文简介": "The Agfa ISO-RAPID I is an all-mechanic viewfinder camera for Agfa's Rapid film system."
   },
   "images": [],
   "sources": [

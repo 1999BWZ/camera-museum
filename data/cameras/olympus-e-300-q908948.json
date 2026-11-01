@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "奥林巴斯数码单反相机，2005 年发布",
-  "description": "奥林巴斯于2005年发布的数码单反相机。",
+  "description": "奥林巴斯于2005年推出的数码单反相机。配备Interchangeable (Four Thirds mount); uses Four Thirds lenses from various makers, ranges from Olympus 8mm f/3.5 fisheye to Sigma 50-500mm f/4-6.3。快门速度Unrated。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q908948",
-    "多语言词条数": "7"
+    "多语言词条数": "7",
+    "传感器": "Kodak KAF-8300CE Four Thirds System FFT-CCD",
+    "镜头": "Interchangeable (Four Thirds mount); uses Four Thirds lenses from various makers, ranges from Olympus 8mm f/3.5 fisheye to Sigma 50-500mm f/4-6.3",
+    "取景器": "Optical TTL with Porro mirror",
+    "存储": "CompactFlash (Type I or Type II)",
+    "快门速度": "Unrated",
+    "曝光测光": "ESP, Center-Weighted, Spot",
+    "闪光灯": "Built In and Hot Shoe",
+    "屏幕": "1.8\"",
+    "电池": "Li-ion 7.2v Rechargeable",
+    "重量": "624 g (22 oz)"
   },
   "images": [
     {

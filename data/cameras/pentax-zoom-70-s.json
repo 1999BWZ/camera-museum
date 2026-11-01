@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得胶片单反相机，1988 年发布",
-  "description": "The Pentax Zoom 70-S is a 35mm compact zoom camera with autofocus made by Pentax.",
+  "description": "宾得于1988年推出的胶片单反相机。配备Pentax Zoom Lens f=35mm - f=70mm Tele-Macro.。快门速度Central electronic shutter.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pentax Zoom 70-S"
+    "Camera-wiki": "Pentax Zoom 70-S",
+    "镜头": "Pentax Zoom Lens f=35mm - f=70mm Tele-Macro.",
+    "快门": "Central electronic shutter.",
+    "取景器": "real image with lines for parallax correction. Focus lock and flash readiness indicators.",
+    "闪光灯": "Integrated frontal.",
+    "尺寸": "135x73x40 mm (+25 with lens).",
+    "重量": "460gr (without batteries).",
+    "英文简介": "The Pentax Zoom 70-S is a 35mm compact zoom camera with autofocus made by Pentax."
   },
   "images": [],
   "sources": [

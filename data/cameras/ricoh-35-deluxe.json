@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "理光旁轴相机，1956 年发布",
-  "description": "The Ricoh \"35\" De Luxe is a rangefinder camera with fixed lens made in Japan by Ricoh from 1956.",
+  "description": "理光于1956年推出的旁轴相机。配备Riken Ricomat f 2.8 / 4.5cm - 5 elements in 3 groups (Made by Tomioka Optical)。快门速度Seikosha MX, Speeds 1/10 - 1/500 sec + B。manual focusing with help of coupled rangefinder。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Ricoh 35 Deluxe"
+    "Camera-wiki": "Ricoh 35 Deluxe",
+    "镜头": "Riken Ricomat f 2.8 / 4.5cm - 5 elements in 3 groups (Made by Tomioka Optical)",
+    "快门": "Seikosha MX, Speeds 1/10 - 1/500 sec + B",
+    "光圈": "1:2.8 - 1:16",
+    "对焦": "manual focusing with help of coupled rangefinder",
+    "尺寸": "140mm x 83mm x 67mm",
+    "重量": "650 g",
+    "英文简介": "The Ricoh \"35\" De Luxe is a rangefinder camera with fixed lens made in Japan by Ricoh from 1956."
   },
   "images": [],
   "sources": [

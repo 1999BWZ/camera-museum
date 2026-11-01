@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Certo数码单反相机，1985 年发布",
-  "description": "The EXA Ic was a late edition of Ihagee's SLR body Exa Ib.",
+  "description": "Certo于1985年推出的数码单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Exa 1c"
+    "Camera-wiki": "Exa 1c",
+    "英文简介": "The EXA Ic was a late edition of Ihagee's SLR body Exa Ib."
   },
   "images": [],
   "sources": [

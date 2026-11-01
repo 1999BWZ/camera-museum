@@ -13,10 +13,14 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Five玩具相机，2022 年发布",
-  "description": "In late 2022 the American chain of discount stores [https://en.wikipedia.org/wiki/Five_Below \"Five Below\"] released an unnamed 35mm toy camera at a $5.25 price.",
+  "description": "Five于2022年推出的玩具相机。配备28mm F/8.。使用35mm film.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Five Below camera"
+    "Camera-wiki": "Five Below camera",
+    "镜头": "28mm F/8.",
+    "胶片/画幅": "35mm film.",
+    "尺寸": "9.4x2.9x5.9cm.",
+    "英文简介": "In late 2022 the American chain of discount stores [https://en.wikipedia.org/wiki/Five_Below \"Five Below\"] released an unnamed 35mm toy camera at a $5.25 price."
   },
   "images": [],
   "sources": [

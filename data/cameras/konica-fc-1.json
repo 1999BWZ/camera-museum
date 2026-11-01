@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯尼卡胶片单反相机，1980 年发布",
-  "description": "The Konica FC-1 is a 35mm film SLR camera introduced by Konica in 1980.",
+  "description": "柯尼卡于1980年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Konica FC-1"
+    "Camera-wiki": "Konica FC-1",
+    "英文简介": "The Konica FC-1 is a 35mm film SLR camera introduced by Konica in 1980."
   },
   "images": [],
   "sources": [

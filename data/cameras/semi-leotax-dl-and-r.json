@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1950 年发布",
-  "description": "The Semi Leotax DL (セミレオタックスDL型) and Semi Leotax R (セミレオタックスR型) are Japanese 4.5×6 folding cameras made from late 1950 to early 1955 by Shōwa Kōgaku, that was also making the Leotax Leica copies.",
+  "description": "Semi于1950年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Leotax DL and R"
+    "Camera-wiki": "Semi Leotax DL and R",
+    "英文简介": "The Semi Leotax DL (セミレオタックスDL型) and Semi Leotax R (セミレオタックスR型) are Japanese 4.5×6 folding cameras made from late 1950 to early 1955 by Shōwa Kōgaku, that was also making the Leotax Leica copies."
   },
   "images": [],
   "sources": [

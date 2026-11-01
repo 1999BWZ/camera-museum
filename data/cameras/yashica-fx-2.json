@@ -13,10 +13,18 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡数码单反相机，1976 年发布",
-  "description": "__NOTOc__\nThe Yashica FX-2 is a 35mm SLR camera manufactured by Yashica in 1976.",
+  "description": "雅西卡于1976年推出的数码单反相机。快门速度focal plane, 1/1000 to 1 sec and B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica FX-2"
+    "Camera-wiki": "Yashica FX-2",
+    "卡口": "Contax/Yashica or C/Y bayonet mount lenses",
+    "曝光测光": "TTL full aperture with CdS, In finder zero-in metering from 12 ASA to 1600 ASA",
+    "快门": "focal plane, 1/1000 to 1 sec and B",
+    "闪光灯": "X sync at 1/60 or slower",
+    "电池": "1.3v mercury battery (EP-675R, RM-675R, or equivalent)",
+    "重量": "about 690 g (24.3 oz)",
+    "尺寸": "144.5 x 94 x 51 mm (5.7 x 3.7 x 2 in)",
+    "英文简介": "__NOTOc__\nThe Yashica FX-2 is a 35mm SLR camera manufactured by Yashica in 1976."
   },
   "images": [],
   "sources": [

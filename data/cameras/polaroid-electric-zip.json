@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宝丽来旁轴相机，1975 年发布",
-  "description": "One of many models of rigid, plastic bodied, colour packfilm cameras Polaroid produced in the 60s and 70s at consumer-range prices, the Colorpack is designed only for the (now discontinued) 80-series packfilm yielding square images.",
+  "description": "宝丽来于1975年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Polaroid Electric Zip"
+    "Camera-wiki": "Polaroid Electric Zip",
+    "英文简介": "One of many models of rigid, plastic bodied, colour packfilm cameras Polaroid produced in the 60s and 70s at consumer-range prices, the Colorpack is designed only for the (now discontinued) 80-series packfilm yielding square images."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Star微型相机，1912 年发布",
-  "description": "The Star watch camera or Radio camera (ラジヲカメラ, rajiwo kamera) is a Japanese camera disguised as a pocket watch, released in 1912 by Ueda.",
+  "description": "Star于1912年推出的微型相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Star watch camera"
+    "Camera-wiki": "Star watch camera",
+    "英文简介": "The Star watch camera or Radio camera (ラジヲカメラ, rajiwo kamera) is a Japanese camera disguised as a pocket watch, released in 1912 by Ueda."
   },
   "images": [],
   "sources": [

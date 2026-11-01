@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Kuribayashi胶片单反相机，1974 年发布",
-  "description": "The FTX from Petri (also labeled as Petri TTL) is a 1974 SLR camera for 35mm film.",
+  "description": "Kuribayashi于1974年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Petri FTX"
+    "Camera-wiki": "Petri FTX",
+    "英文简介": "The FTX from Petri (also labeled as Petri TTL) is a 1974 SLR camera for 35mm film."
   },
   "images": [],
   "sources": [

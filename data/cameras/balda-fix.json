@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Balda折叠相机，1950 年发布",
-  "description": "The Baldafix folding camera was introduced in 1950 by Balda, and in its standard mode provided eight exposures of 6&times;9 cm per roll of 120 film.",
+  "description": "Balda于1950年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Baldafix"
+    "Camera-wiki": "Baldafix",
+    "英文简介": "The Baldafix folding camera was introduced in 1950 by Balda, and in its standard mode provided eight exposures of 6&times;9 cm per roll of 120 film."
   },
   "images": [],
   "sources": [

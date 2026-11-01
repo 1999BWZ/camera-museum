@@ -13,11 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码单反相机，2009 年发布",
-  "description": "索尼于2009年发布的数码单反相机。",
+  "description": "索尼于2009年推出的数码单反相机。配备Sony mount; compatible with Minolta A-type bayonet mount. Sony α Lens and Konica Minolta α/MAXXUM/DYNAX Lens。快门速度Electronically controlled, vertical-traverse, focal-plane Shutter。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q1041905",
-    "多语言词条数": "8"
+    "多语言词条数": "8",
+    "传感器": "23.4 x 15.6 mm APS-C Type CMOS Exmor Sensor, 14.6 million total pixels 14.2 million effective pixels",
+    "镜头": "Sony mount; compatible with Minolta A-type bayonet mount. Sony α Lens and Konica Minolta α/MAXXUM/DYNAX Lens",
+    "快门速度": "Electronically controlled, vertical-traverse, focal-plane Shutter",
+    "曝光测光": "Multi-segment (40 segment Honeycomb pattern)/ Center-weighted/ Spot",
+    "取景器": "Eye-level fixed optical glass pentamirror",
+    "闪光灯": "Manual Pop-up: Auto, Fill-flash, Slow sync., Rear flash sync, Wireless off camera flash",
+    "屏幕": "3.0 TFT Xtra Fine LCD/ 921,600 dots",
+    "存储": "Secure Digital/Secure Digital HC, Memory Stick PRO Duo",
+    "电池": "NP-FM500H Lithium-Ion rechargeable battery (1650 mAh)",
+    "重量": "No battery: 599 g (1.5lb)"
   },
   "images": [
     {

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Bonzart数码相机，2012 年发布",
-  "description": "The Bonzart Ampel'Ampel' is German for a lamp, especially a traffic light.",
+  "description": "Bonzart于2012年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bonzart Ampel"
+    "Camera-wiki": "Bonzart Ampel",
+    "英文简介": "The Bonzart Ampel'Ampel' is German for a lamp, especially a traffic light."
   },
   "images": [],
   "sources": [

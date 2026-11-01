@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Vivitar数码相机，1999 年发布",
-  "description": "The Vivitar ViviCam 2800 was released in 1999, and is a digital camera.",
+  "description": "Vivitar于1999年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Vivitar ViviCam 2800"
+    "Camera-wiki": "Vivitar ViviCam 2800",
+    "英文简介": "The Vivitar ViviCam 2800 was released in 1999, and is a digital camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Neoca旁轴相机，1959 年发布",
-  "description": "The Neoca 35 IV S is a rangefinder camera made in 1959 by Neoca Co.",
+  "description": "Neoca于1959年推出的旁轴相机。配备Neoca Neokor A.C. 45 mm f/2.8。快门速度9-speed + B Citizen MV。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Neoca 35 IV S"
+    "Camera-wiki": "Neoca 35 IV S",
+    "镜头": "Neoca Neokor A.C. 45 mm f/2.8",
+    "快门": "9-speed + B Citizen MV",
+    "英文简介": "The Neoca 35 IV S is a rangefinder camera made in 1959 by Neoca Co."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Korona取景器相机，1938 年发布",
-  "description": "The Korona Tankette is Polish viewfinder camera for 127 film made by Pawelscy Brothers.",
+  "description": "Korona于1938年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Korona Tankette"
+    "Camera-wiki": "Korona Tankette",
+    "英文简介": "The Korona Tankette is Polish viewfinder camera for 127 film made by Pawelscy Brothers."
   },
   "images": [],
   "sources": [

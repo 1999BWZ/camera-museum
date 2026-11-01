@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "索尼数码相机，2001 年发布",
-  "description": "{|align=right\n||\n \n|-\n||\n \n|}\nThe Sony DSC-P30 is a 1.3 megapixel point-and-shoot digital camera.",
+  "description": "索尼于2001年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sony DSC-P30"
+    "Camera-wiki": "Sony DSC-P30",
+    "英文简介": "{|align=right\n||\n \n|-\n||\n \n|}\nThe Sony DSC-P30 is a 1.3 megapixel point-and-shoot digital camera."
   },
   "images": [],
   "sources": [

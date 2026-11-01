@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pocket折叠相机，1939 年发布",
-  "description": "The Pocket Prince is a Japanese folding camera taking 4×6.5 pictures on 127 film, advertised in 1939 and 1940 by the distributor Fukada Shōkai.",
+  "description": "Pocket于1939年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pocket Prince"
+    "Camera-wiki": "Pocket Prince",
+    "英文简介": "The Pocket Prince is a Japanese folding camera taking 4×6.5 pictures on 127 film, advertised in 1939 and 1940 by the distributor Fukada Shōkai."
   },
   "images": [],
   "sources": [

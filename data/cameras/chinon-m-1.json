@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon数码单反相机，1972 年发布",
-  "description": "The Chinon M-1 is a 35mm SLR camera released in 1972.",
+  "description": "Chinon于1972年推出的数码单反相机。快门速度vertical metal mechanical 1-1/1000, B。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon M-1"
+    "Camera-wiki": "Chinon M-1",
+    "卡口": "M42 thread mount",
+    "快门": "vertical metal mechanical 1-1/1000, B",
+    "闪光灯": "standard X and F synch at 1/125, hot shoe(?)",
+    "曝光测光": "stopped-down TTL metering",
+    "取景器": "Shutter speeds and battery check visible in viewfinder",
+    "电池": "PX62",
+    "英文简介": "The Chinon M-1 is a 35mm SLR camera released in 1972."
   },
   "images": [],
   "sources": [

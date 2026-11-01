@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Concord玩具相机，1982 年发布",
-  "description": "The Concord Le Clic Disc disc film camera offered two focus settings, a built-in flash, manual film advance, and was available in yellow, pink, purple, and others.",
+  "description": "Concord于1982年推出的玩具相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Le Clic Disc"
+    "Camera-wiki": "Le Clic Disc",
+    "英文简介": "The Concord Le Clic Disc disc film camera offered two focus settings, a built-in flash, manual film advance, and was available in yellow, pink, purple, and others."
   },
   "images": [],
   "sources": [

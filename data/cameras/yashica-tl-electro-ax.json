@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "雅西卡旁轴相机，1972 年发布",
-  "description": "The Yashica Electro AX was one of four models in the Yashica TL series, and shares many of the features of the Electro cameras.",
+  "description": "雅西卡于1972年推出的旁轴相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Yashica TL Electro AX"
+    "Camera-wiki": "Yashica TL Electro AX",
+    "英文简介": "The Yashica Electro AX was one of four models in the Yashica TL series, and shares many of the features of the Electro cameras."
   },
   "images": [],
   "sources": [

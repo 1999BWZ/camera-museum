@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1916 年发布",
-  "description": "The No.2C Folding Autographic Brownie is a Kodak camera for the 130 film.",
+  "description": "柯达于1916年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "No. 2C Folding Autographic Brownie"
+    "Camera-wiki": "No. 2C Folding Autographic Brownie",
+    "英文简介": "The No.2C Folding Autographic Brownie is a Kodak camera for the 130 film."
   },
   "images": [],
   "sources": [

@@ -1,0 +1,40 @@
+{
+  "id": "nikon-coolpix-a10",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Coolpix A10",
+  "year": 2016,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2016 年发布",
+  "description": "尼康于2016年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q137850860",
+    "多语言词条数": "1"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Coolpix%20A10%20front.jpg?width=800",
+      "caption": "Coolpix A10",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q137850860"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Coolpix A10",
+      "url": "https://www.wikidata.org/wiki/Q137850860"
+    }
+  ],
+  "qid": "Q137850860",
+  "sitelinks": 1,
+  "imported": "wikidata-5k-2026-11-01"
+}

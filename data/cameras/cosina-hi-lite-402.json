@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Cosina胶片单反相机，1974 年发布",
-  "description": "The Hi-Lite 402 from Cosina is a continuation of the company's many stopdown-metering SLRs accepting 42mm screw lenses.",
+  "description": "Cosina于1974年推出的胶片单反相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Cosina Hi-Lite 402"
+    "Camera-wiki": "Cosina Hi-Lite 402",
+    "英文简介": "The Hi-Lite 402 from Cosina is a continuation of the company's many stopdown-metering SLRs accepting 42mm screw lenses."
   },
   "images": [],
   "sources": [

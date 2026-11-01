@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Chinon数码单反相机，1978 年发布",
-  "description": "{|class=floatright\n|\n \n|-\n|\n \n|}\nThe Chinon CE-3 Memotron is a 35mm electronic SLR camera made by Chinon and introduced c.1978 as the last in the Chinon CE Memotron series.",
+  "description": "Chinon于1978年推出的数码单反相机。配备Chinon Auto, 55mm f/1.4 (Standard lens), Multi-coated, M42 mount, w/ Manual and Auto lens settings feature, filter thread 55 mm, Aperture: f/1.4-f/16。快门速度Seiko MFC-ES, stepless electromagnetic focal plane metal shutter, verticaly travelling。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Chinon CE-3 Memotron"
+    "Camera-wiki": "Chinon CE-3 Memotron",
+    "电池": "3v, two silver oxide 1.5v, eg.G13/S76, (accepts lithium Kodak K58L or two alkaline, eg. LR44)",
+    "镜头": "Chinon Auto, 55mm f/1.4 (Standard lens), Multi-coated, M42 mount, w/ Manual and Auto lens settings feature, filter thread 55 mm, Aperture: f/1.4-f/16",
+    "快门": "Seiko MFC-ES, stepless electromagnetic focal plane metal shutter, verticaly travelling",
+    "自拍": "7-12 seconds.",
+    "取景器": "SLR pentaprism, Speeds Scale and Exposure Indicator Needle are visible in it",
+    "曝光测光": "TTL CdS meter, two cells, centre weighted, aperture priority automatic exposure control",
+    "卷片": "on the bottom plate",
+    "尺寸": "140×88×50mm.",
+    "重量": "620g.",
+    "英文简介": "{|class=floatright\n|\n \n|-\n|\n \n|}\nThe Chinon CE-3 Memotron is a 35mm electronic SLR camera made by Chinon and introduced c.1978 as the last in the Chinon CE Memotron series."
   },
   "images": [],
   "sources": [

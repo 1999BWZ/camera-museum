@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Semi折叠相机，1941 年发布",
-  "description": "The Semi Kreis (セミクライス) is a Japanese 4.5&times;6 folding camera, advertised by Murakami Shōkai (predecessor of Kenko) in 1941 and 1942.",
+  "description": "Semi于1941年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Semi Kreis"
+    "Camera-wiki": "Semi Kreis",
+    "英文简介": "The Semi Kreis (セミクライス) is a Japanese 4.5&times;6 folding camera, advertised by Murakami Shōkai (predecessor of Kenko) in 1941 and 1942."
   },
   "images": [],
   "sources": [

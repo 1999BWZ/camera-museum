@@ -13,10 +13,12 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "GOMZ取景器相机，1957 年发布",
-  "description": "The Estafeta (marked in Cyrillic, \"Эстафета\") is a camera making 6x6cm exposures on 120 film, produced by the Soviet company GOMZ, from 1957-58.",
+  "description": "GOMZ于1957年推出的取景器相机。配备T-35 75mm f/4。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Estafeta"
+    "Camera-wiki": "Estafeta",
+    "镜头": "T-35 75mm f/4",
+    "英文简介": "The Estafeta (marked in Cyrillic, \"Эстафета\") is a camera making 6x6cm exposures on 120 film, produced by the Soviet company GOMZ, from 1957-58."
   },
   "images": [],
   "sources": [

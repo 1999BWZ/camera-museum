@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1929 年发布",
-  "description": "The Kodak Petite is basically a colored Vest Pocket Kodak Model B camera and was made from 1929 to 1934.",
+  "description": "柯达于1929年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Petite"
+    "Camera-wiki": "Kodak Petite",
+    "英文简介": "The Kodak Petite is basically a colored Vest Pocket Kodak Model B camera and was made from 1929 to 1934."
   },
   "images": [],
   "sources": [

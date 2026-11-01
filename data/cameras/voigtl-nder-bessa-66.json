@@ -13,10 +13,15 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Voigtländer折叠相机，1939 年发布",
-  "description": "The Bessa 66 is a folding 120 rollfilm camera made in Germany by Voigtländer, it was introduced in 1938 as a 6x6 image camera.",
+  "description": "Voigtländer于1939年推出的折叠相机。配备Voigtar 75mm f/3.5, Vaskar 75mm f/4.5 (Post-war), Skopar or Color-Skopar (Post-War) 75mm f/3.5, or Color Heliar 75mm f/3.5。使用twelve 6×6cm exposures on 120 film。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Bessa 66"
+    "Camera-wiki": "Bessa 66",
+    "胶片/画幅": "twelve 6×6cm exposures on 120 film",
+    "镜头": "Voigtar 75mm f/3.5, Vaskar 75mm f/4.5 (Post-war), Skopar or Color-Skopar (Post-War) 75mm f/3.5, or Color Heliar 75mm f/3.5",
+    "取景器": "Sports finder in most models, and optical-viewfinder in \"Deluxe\" models",
+    "尺寸": "128 × 89 × 97mm (41mm folded); weight 510g (Deluxe) and 460g (Standard)",
+    "英文简介": "The Bessa 66 is a folding 120 rollfilm camera made in Germany by Voigtländer, it was introduced in 1938 as a 6x6 image camera."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "三星数码相机，2010 年发布",
-  "description": "The Samsung NX5 was introduced in 2010 as a minor revision of the NX10.",
+  "description": "三星于2010年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samsung NX5"
+    "Camera-wiki": "Samsung NX5",
+    "英文简介": "The Samsung NX5 was introduced in 2010 as a minor revision of the NX10."
   },
   "images": [],
   "sources": [

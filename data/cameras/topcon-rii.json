@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Topcon胶片相机，1960 年发布",
-  "description": "The Topcon R II was a transitional model for Tōkyō Kōgaku.",
+  "description": "Topcon于1960年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Topcon RII"
+    "Camera-wiki": "Topcon RII",
+    "英文简介": "The Topcon R II was a transitional model for Tōkyō Kōgaku."
   },
   "images": [],
   "sources": [

@@ -13,11 +13,23 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "宾得数码单反相机，2015 年发布",
-  "description": "宾得于2015年发布的数码单反相机。",
+  "description": "宾得于2015年推出的数码单反相机。配备Pentax KAF2。快门速度| shutter_speeds = 1/8000s to 30s。",
   "significance": "待补充（需人工撰写）",
   "specs": {
     "Wikidata": "Q19827901",
-    "多语言词条数": "6"
+    "多语言词条数": "6",
+    "镜头": "Pentax KAF2",
+    "传感器": "CMOS",
+    "胶片/画幅": "| filmsize =",
+    "对焦": "| fmode = Single AF (AF.S), Continuous AF (AF.C), Auto select AF (AF.A)",
+    "曝光测光": "| exbkt = Yes (5 stops)",
+    "闪光灯": "External only: 1/180 X-sync speed, hot shoe for P-TTL flash units with high-speed sync support, X-sync socket",
+    "快门速度": "| shutter_speeds = 1/8000s to 30s",
+    "取景器": "Eye-level pentaprism",
+    "屏幕": "3.2 inches with 1,037,000 dots (0.35 Mpixels)",
+    "电池": "D-Li90 (1860 mAh 7.2 V, 13.39 Wh)",
+    "尺寸": "131 x 100 x 77mm (5.16 x 3.94 x 3.03 inches)",
+    "重量": "700g (body only)785g (including battery and 1x SD Memory Card)"
   },
   "images": [
     {

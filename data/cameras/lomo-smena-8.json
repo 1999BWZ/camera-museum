@@ -13,10 +13,16 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "LOMO取景器相机，1963 年发布",
-  "description": "LOMO于1963年发布的取景器相机。",
+  "description": "LOMO于1963年推出的取景器相机。配备T-43 triplet 40mm f/4。快门速度leaf, manually cocked。使用35mm。1 m to infinity。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Smena 8"
+    "Camera-wiki": "Smena 8",
+    "胶片/画幅": "35mm",
+    "镜头": "T-43 triplet 40mm f/4",
+    "快门": "leaf, manually cocked",
+    "光圈": "f4 to f16",
+    "对焦": "1 m to infinity",
+    "自拍": "mechanical"
   },
   "images": [],
   "sources": [

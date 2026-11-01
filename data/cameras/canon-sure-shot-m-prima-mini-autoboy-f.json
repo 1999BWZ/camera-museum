@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "佳能便携相机，1993 年发布",
-  "description": "The Sureshot M is a compact autofocus 35 mm camera made by Canon in 1993, one of the company's phenomenally successful Sure Shot range.",
+  "description": "佳能于1993年推出的便携相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Canon Sure Shot M/Prima Mini/Autoboy F"
+    "Camera-wiki": "Canon Sure Shot M/Prima Mini/Autoboy F",
+    "重量": "120x62x40 mm, 190g",
+    "尺寸": "120x62x40 mm",
+    "英文简介": "The Sureshot M is a compact autofocus 35 mm camera made by Canon in 1993, one of the company's phenomenally successful Sure Shot range."
   },
   "images": [],
   "sources": [

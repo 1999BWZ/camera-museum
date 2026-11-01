@@ -13,10 +13,13 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达便携相机，1982 年发布",
-  "description": "The Kodak Disc 4000 is one of Kodak's cameras for its own disc miniature film format.",
+  "description": "柯达于1982年推出的便携相机。配备1:2.8/12.5 mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Disc 4000"
+    "Camera-wiki": "Kodak Disc 4000",
+    "镜头": "1:2.8/12.5 mm",
+    "闪光灯": "built-in",
+    "英文简介": "The Kodak Disc 4000 is one of Kodak's cameras for its own disc miniature film format."
   },
   "images": [],
   "sources": [

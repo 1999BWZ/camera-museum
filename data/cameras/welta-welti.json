@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Welta折叠相机，1937 年发布",
-  "description": "==The Welti==\n\n\n\nThe Welti is a 35mm folding viewfinder camera made by Welta from 1935 through the 1960s.",
+  "description": "Welta于1937年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Welti"
+    "Camera-wiki": "Welti",
+    "英文简介": "==The Welti==\n\n\n\nThe Welti is a 35mm folding viewfinder camera made by Welta from 1935 through the 1960s."
   },
   "images": [],
   "sources": [

@@ -13,10 +13,19 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "美能达便携相机，1992 年发布",
-  "description": "The Minolta Riva AF 35, Freedom AF 35 in America or Mac 35 in Japan, is a cheap autofocus compact camera released around 1992[https://resolver.kb.nl/resolve?urn=ddd:010622646:mpeg21:p029 Objectief advertisement in Dutch newspaper \"Leeuwarder courant\", June 10 1992].",
+  "description": "美能达于1992年推出的便携相机。配备35 mm f/4,5.。使用Automatic loading, advance and rewind.。感光度Crippled DX decoding; films below ISO 400 are exposed as ISO 100, those above as ISO 400. Non-DX films exposed as ISO 100.。Active infrared autofocus from 0,95 m to infinity.。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Minolta Riva AF 35"
+    "Camera-wiki": "Minolta Riva AF 35",
+    "镜头": "35 mm f/4,5.",
+    "对焦": "Active infrared autofocus from 0,95 m to infinity.",
+    "曝光测光": "Subject-weighted metering, EV 9,6–16,2 (at ISO 100).",
+    "闪光灯": "Built-in, auto-activated, non-cancellable. Range: 0,95–3,2 m. Flash ready LED signal.",
+    "感光度": "Crippled DX decoding; films below ISO 400 are exposed as ISO 100, those above as ISO 400. Non-DX films exposed as ISO 100.",
+    "胶片/画幅": "Automatic loading, advance and rewind.",
+    "尺寸": "136 x 72 x 47,5 mm.",
+    "重量": "225 g without batteries.",
+    "英文简介": "The Minolta Riva AF 35, Freedom AF 35 in America or Mac 35 in Japan, is a cheap autofocus compact camera released around 1992[https://resolver.kb.nl/resolve?urn=ddd:010622646:mpeg21:p029 Objectief advertisement in Dutch newspaper \"Leeuwarder courant\", June 10 1992]."
   },
   "images": [],
   "sources": [

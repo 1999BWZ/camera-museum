@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Pilot胶片相机，1931 年发布",
-  "description": "The Pilot (often called the Pilot Reflex, though the camera itself is only marked 'Pilot', and contemporary advertisements use this name for it) is a folding twin lens reflex camera for 3x4 cm pictures on 127 roll film.",
+  "description": "Pilot于1931年推出的胶片相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Pilot Reflex"
+    "Camera-wiki": "Pilot Reflex",
+    "英文简介": "The Pilot (often called the Pilot Reflex, though the camera itself is only marked 'Pilot', and contemporary advertisements use this name for it) is a folding twin lens reflex camera for 3x4 cm pictures on 127 roll film."
   },
   "images": [],
   "sources": [

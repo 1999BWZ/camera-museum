@@ -13,10 +13,21 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士一次成像相机，2000 年发布",
-  "description": "The Instax 200 series are Fujifilm instant cameras that use Instax wide film.",
+  "description": "富士于2000年推出的一次成像相机。配备Collapsible Fujinon lens, 2 components, 2 elements, 95mm。快门速度Programmed electronic shutter 1/64 ~ 1/200。使用Fujifilm \"instax\" instant color film。two-range switch。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Instax 200 series"
+    "Camera-wiki": "Fujifilm Instax 200 series",
+    "胶片/画幅": "Fujifilm \"instax\" instant color film",
+    "尺寸": "62x99mm (based on the golden ratio, closer to the naked eye)",
+    "镜头": "Collapsible Fujinon lens, 2 components, 2 elements, 95mm",
+    "光圈": "f/14",
+    "快门": "Programmed electronic shutter 1/64 ~ 1/200",
+    "取景器": "Reverse Galilean viewfinder",
+    "曝光测光": "automatic",
+    "对焦": "two-range switch",
+    "闪光灯": "built-in",
+    "重量": "650 g (withour batteries, strap and film pack).",
+    "英文简介": "The Instax 200 series are Fujifilm instant cameras that use Instax wide film."
   },
   "images": [],
   "sources": [

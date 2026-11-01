@@ -13,10 +13,20 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "富士胶片相机，2007 年发布",
-  "description": "{|align=right\n||\n\n|-\n||\n\n|}\n\nReleased in 2007, the Klasse W by Fujifilm is a wide angle version of the Fujifilm Klasse S, camera featuring a 28mm lens.",
+  "description": "富士于2007年推出的胶片相机。配备28mm f2.8 Super EBC Fujinon lens。快门速度B, 1/2s to 1/500s (at F2.8) to 1/1000s (for F16)。使用135 35mm。感光度Auto DX, ISO25 ~ 3200 (in 1/3 steps) Manual Set。AF: 0.3m ~ inf., MF mode。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Fujifilm Klasse W"
+    "Camera-wiki": "Fujifilm Klasse W",
+    "胶片/画幅": "135 35mm",
+    "尺寸": "24mm × 36mm",
+    "镜头": "28mm f2.8 Super EBC Fujinon lens",
+    "对焦": "AF: 0.3m ~ inf., MF mode",
+    "光圈": "dial with Program, 2.8, 4, 5.6, 8, 11 and 16.",
+    "快门": "Electronic shutter Program (Program AE, AE aperture priority)",
+    "快门速度": "B, 1/2s to 1/500s (at F2.8) to 1/1000s (for F16)",
+    "曝光测光": "with front dial ±2.0EV in 0.5EV step increments",
+    "感光度": "Auto DX, ISO25 ~ 3200 (in 1/3 steps) Manual Set",
+    "英文简介": "{|align=right\n||\n\n|-\n||\n\n|}\n\nReleased in 2007, the Klasse W by Fujifilm is a wide angle version of the Fujifilm Klasse S, camera featuring a 28mm lens."
   },
   "images": [],
   "sources": [

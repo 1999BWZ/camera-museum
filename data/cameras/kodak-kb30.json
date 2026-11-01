@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达取景器相机，1997 年发布",
-  "description": "The Kodak KB30 is a basic camera for 35mm film.",
+  "description": "柯达于1997年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak KB30"
+    "Camera-wiki": "Kodak KB30",
+    "英文简介": "The Kodak KB30 is a basic camera for 35mm film."
   },
   "images": [],
   "sources": [

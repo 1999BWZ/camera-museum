@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "柯达折叠相机，1939 年发布",
-  "description": "__NOTOC__\n\nThe Kodak Monitors are robust folding roll film cameras manufactured by Eastman Kodak from 1939 to 1948.",
+  "description": "柯达于1939年推出的折叠相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Kodak Monitor"
+    "Camera-wiki": "Kodak Monitor",
+    "英文简介": "__NOTOC__\n\nThe Kodak Monitors are robust folding roll film cameras manufactured by Eastman Kodak from 1939 to 1948."
   },
   "images": [],
   "sources": [

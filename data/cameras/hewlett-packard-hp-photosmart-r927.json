@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Hewlett-Packard数码相机，2006 年发布",
-  "description": "The Hewlett-Packard Photosmart R927 is a digital compact with a brushed aluminium body which gives it a high-end feel and look, it was launched in 2006.",
+  "description": "Hewlett-Packard于2006年推出的数码相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "HP PhotoSmart R927"
+    "Camera-wiki": "HP PhotoSmart R927",
+    "英文简介": "The Hewlett-Packard Photosmart R927 is a digital compact with a brushed aluminium body which gives it a high-end feel and look, it was launched in 2006."
   },
   "images": [],
   "sources": [

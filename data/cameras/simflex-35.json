@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Simflex取景器相机，1962 年发布",
-  "description": "The Simflex 35 is a simple viewfinder camera from Yamato.",
+  "description": "Simflex于1962年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Simflex 35"
+    "Camera-wiki": "Simflex 35",
+    "英文简介": "The Simflex 35 is a simple viewfinder camera from Yamato."
   },
   "images": [],
   "sources": [

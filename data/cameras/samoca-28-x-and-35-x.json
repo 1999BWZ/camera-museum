@@ -13,10 +13,17 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Samoca旁轴相机，1957 年发布",
-  "description": "The Samoca 28 X and the 35 X are both rangefinder cameras for 35mm film with a built-in light meter, made in Japan by Sanei Sangyō K.K.",
+  "description": "Samoca于1957年推出的旁轴相机。配备C. EZUMAR Anastigmat coated, f/3.5 50mm or D.EZUMAR Anastigmat coated, f/2.8 50mm, depending on model.。快门速度Five-speed leaf shutter with speeds 1/10 to 1/200 sec and B.。使用35mm。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Samoca 28 X and 35 X"
+    "Camera-wiki": "Samoca 28 X and 35 X",
+    "胶片/画幅": "35mm",
+    "镜头": "C. EZUMAR Anastigmat coated, f/3.5 50mm or D.EZUMAR Anastigmat coated, f/2.8 50mm, depending on model.",
+    "快门": "Five-speed leaf shutter with speeds 1/10 to 1/200 sec and B.",
+    "光圈": "f/3.5 to f/22 for the f/3.5 lens; f/2.8 to f/16 for the f/2.8 lens",
+    "取景器": "Optical eye-level type viewfinder.",
+    "曝光测光": "Uncoupled two-range selenium meter",
+    "英文简介": "The Samoca 28 X and the 35 X are both rangefinder cameras for 35mm film with a built-in light meter, made in Japan by Sanei Sangyō K.K."
   },
   "images": [],
   "sources": [

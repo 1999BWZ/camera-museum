@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "Lumière取景器相机，1955 年发布",
-  "description": "The Starter is a 35 mm viewfinder camera, made by Lumière in about 1955.Details are taken from the caption to the photo in Bernard Faure's Flickr photostream.",
+  "description": "Lumière于1955年推出的取景器相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Starter"
+    "Camera-wiki": "Starter",
+    "英文简介": "The Starter is a 35 mm viewfinder camera, made by Lumière in about 1955.Details are taken from the caption to the photo in Bernard Faure's Flickr photostream."
   },
   "images": [],
   "sources": [

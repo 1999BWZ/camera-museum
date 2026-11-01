@@ -13,10 +13,11 @@
   "mount": "待补充",
   "milestone": true,
   "tagline": "King立体相机，1961 年发布",
-  "description": "In about 1961, the European division of Sawyer's (based in Belgium) commissioned this stereo camera, designed to be compatible with the View-Master stereoscope viewer.",
+  "description": "King于1961年推出的立体相机。",
   "significance": "待补充（需人工撰写）",
   "specs": {
-    "Camera-wiki": "Sawyers View-Master Stereo Color Camera"
+    "Camera-wiki": "Sawyers View-Master Stereo Color Camera",
+    "英文简介": "In about 1961, the European division of Sawyer's (based in Belgium) commissioned this stereo camera, designed to be compatible with the View-Master stereoscope viewer."
   },
   "images": [],
   "sources": [
