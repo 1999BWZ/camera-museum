@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-gr-digital",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "GR Digital",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2005 年发布",
+  "description": "The Ricoh GR Digital has been introduced by Ricoh in 2005, as digital replacement of the analog Ricoh GR1 and its analog successors (1996-2001).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh GR Digital"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh GR Digital",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20GR%20Digital"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

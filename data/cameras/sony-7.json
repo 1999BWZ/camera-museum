@@ -1,0 +1,29 @@
+{
+  "id": "sony-7",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "α7",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2013 年发布",
+  "description": "With the Sony α7 series Sony began to focus its Sony α system away from cameras with Minolta AF mount to mirrorless CSC cameras with Sony E-mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony α7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony α7",
+      "url": "https://camera-wiki.org/wiki/Sony%20%CE%B17"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

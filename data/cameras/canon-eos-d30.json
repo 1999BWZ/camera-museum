@@ -1,0 +1,29 @@
+{
+  "id": "canon-eos-d30",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "EOS D30",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，2000 年发布",
+  "description": "The EOS D30 (not to be confused with the much later 30D) is a 3.1-megapixelVarious sites give differing figures, anywhere [https://web.archive.org/web/20140622030534/http://www.luminous-landscape.com/reviews/cameras/d30/d30.shtml up to 3.3 megapixels].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon EOS D30"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon EOS D30",
+      "url": "https://camera-wiki.org/wiki/Canon%20EOS%20D30"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

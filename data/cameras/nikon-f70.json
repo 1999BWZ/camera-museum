@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f70",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F70",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1994 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Nikon F70 or N70 as known in the US is a auto focus 35mm SLR camera introduced in 1994.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F70 (N70)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F70 (N70)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F70%20%28N70%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-x-e1",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "X-E1",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，2012 年发布",
+  "description": "The Fujifilm X-E1 is a digital system camera for the Fujinon Lens System.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm X-E1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm X-E1",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20X-E1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

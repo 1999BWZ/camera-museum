@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f60",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F60",
+  "year": 1998,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1998 年发布",
+  "description": "The F60 or N60 in the US is a entry level autofocus 35mm film SLR camera from Japanese manufacturer Nikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F60 (N60)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F60 (N60)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F60%20%28N60%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

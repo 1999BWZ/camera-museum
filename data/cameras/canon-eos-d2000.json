@@ -1,0 +1,29 @@
+{
+  "id": "canon-eos-d2000",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "EOS D2000",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，1998 年发布",
+  "description": "The EOS D2000 is one of Canon's earliest DSLR cameras, from 1998.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon EOS D2000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon EOS D2000",
+      "url": "https://camera-wiki.org/wiki/Canon%20EOS%20D2000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

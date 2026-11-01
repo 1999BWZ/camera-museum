@@ -1,0 +1,29 @@
+{
+  "id": "leica-r3",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "R3",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡胶片单反相机，1976 年发布",
+  "description": "Leica launched the Leica R3 in 1976.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica R3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica R3",
+      "url": "https://camera-wiki.org/wiki/Leica%20R3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

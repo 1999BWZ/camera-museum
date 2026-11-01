@@ -1,0 +1,29 @@
+{
+  "id": "sony-dsc-s70",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "DSC-S70",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2000 年发布",
+  "description": "The Sony Cyber-shot DSC-S70 is a compact digital camera, launched in 2000 by Sony.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony DSC-S70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony DSC-S70",
+      "url": "https://camera-wiki.org/wiki/Sony%20DSC-S70"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f6",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F6",
+  "year": 2004,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，2004 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n|\n\n|}\nThe Nikon F6 replaced the Nikon F5 as the company's top professional-grade film SLR in 2004.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F6"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F6",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F6"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

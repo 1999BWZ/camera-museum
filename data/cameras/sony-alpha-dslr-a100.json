@@ -1,0 +1,29 @@
+{
+  "id": "sony-alpha-dslr-a100",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Alpha DSLR-A100",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2006 年发布",
+  "description": "The Sony Alpha DSLR-A100 is the initial Sony-branded DSLR release after cooperation between Konica Minolta and Sony which began in autumn 2005.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Alpha DSLR-A100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Alpha DSLR-A100",
+      "url": "https://camera-wiki.org/wiki/Sony%20Alpha%20DSLR-A100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

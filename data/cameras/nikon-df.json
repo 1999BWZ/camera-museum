@@ -1,0 +1,29 @@
+{
+  "id": "nikon-df",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Df",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2013 年发布",
+  "description": "The Nikon Df is a 16.2 megapixel retro-style digital SLR camera announced by Nikon in 2013.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Df"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Df",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Df"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

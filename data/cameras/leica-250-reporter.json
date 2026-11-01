@@ -1,0 +1,29 @@
+{
+  "id": "leica-250-reporter",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "250 Reporter",
+  "year": 1933,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，1933 年发布",
+  "description": "The Leica 250 Reporter is a body variant of the Leica screw mount rangefinder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica 250 Reporter"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica 250 Reporter",
+      "url": "https://camera-wiki.org/wiki/Leica%20250%20Reporter"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

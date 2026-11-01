@@ -1,0 +1,29 @@
+{
+  "id": "leica-m7",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "M7",
+  "year": 2002,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2002 年发布",
+  "description": "The Leica M7 is a 35mm film rangefinder camera introduced in 2002.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica M7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica M7",
+      "url": "https://camera-wiki.org/wiki/Leica%20M7"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

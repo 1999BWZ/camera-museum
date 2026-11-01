@@ -1,0 +1,29 @@
+{
+  "id": "pentax-q10",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Q10",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2012 年发布",
+  "description": "The Q10 is a digital mirrorless interchangeable lens system camera introduced by Pentax Ricoh Imaging in 2012.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Q10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Q10",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Q10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nikon-d40x",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "D40x",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2007 年发布",
+  "description": "The Nikon D40x was introduced in 2007[https://imaging.nikon.com/imaging/information/products_history/2000/#y_2007 Nikon D40X, Year 2007 product] at [https://imaging.nikon.com/imaging/information/products_history/ Nikon Product History], shortly after the Nikon D40, integrating a sensor similar to th",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon D40x"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon D40x",
+      "url": "https://camera-wiki.org/wiki/Nikon%20D40x"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

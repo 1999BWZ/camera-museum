@@ -1,0 +1,29 @@
+{
+  "id": "olympus-e-500",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "E-500",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2005 年发布",
+  "description": "[http://www.dpreview.com/news/0509/05092604olympuse500.asp#press Announced] in September 2005, the E-500 (known as the Evolt 500 in some markets) is an 8 megapixel digital SLR conforming to the Four-Thirds standard.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus E-500 (EVOLT E-500)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus E-500 (EVOLT E-500)",
+      "url": "https://camera-wiki.org/wiki/Olympus%20E-500%20%28EVOLT%20E-500%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

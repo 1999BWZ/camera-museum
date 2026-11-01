@@ -1,0 +1,29 @@
+{
+  "id": "minolta-x-700",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "X-700",
+  "year": 1981,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1981 年发布",
+  "description": "[http://www.flickr.com/photos/raulm/4747241468/in/pool-camerawiki http://farm5.static.flickr.com/4143/4747241468_7f02a2cfd5_n_d.jpg]\nImage by .",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta X-700"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta X-700",
+      "url": "https://camera-wiki.org/wiki/Minolta%20X-700"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

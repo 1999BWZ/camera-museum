@@ -1,0 +1,29 @@
+{
+  "id": "pentax-ist-ds",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "*ist DS",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2005 年发布",
+  "description": "The *istDS was the year 2005 successor to the Pentax *ist D, the first DSLR made by Pentax.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax *ist DS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax *ist DS",
+      "url": "https://camera-wiki.org/wiki/Pentax%20%2Aist%20DS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

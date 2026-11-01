@@ -1,0 +1,29 @@
+{
+  "id": "canon-powershot-g12",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "PowerShot G12",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，2000 年发布",
+  "description": "The PowerShot G12 is a somewhat modest 2011 revision to the PowerShot G11 from Canon, retaining that model's 10-megapixel sensor and 5x zoom lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon PowerShot G12"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon PowerShot G12",
+      "url": "https://camera-wiki.org/wiki/Canon%20PowerShot%20G12"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

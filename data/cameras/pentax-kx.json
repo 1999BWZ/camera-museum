@@ -1,0 +1,29 @@
+{
+  "id": "pentax-kx",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "KX",
+  "year": 1975,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1975 年发布",
+  "description": "Note: This article describes the 1970s KX film SLR; the 2009 digital Pentax K-x is covered in its own entry.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax KX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax KX",
+      "url": "https://camera-wiki.org/wiki/Pentax%20KX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

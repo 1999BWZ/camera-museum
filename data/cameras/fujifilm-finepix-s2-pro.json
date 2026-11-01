@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-finepix-s2-pro",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "FinePix S2 Pro",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，2002 年发布",
+  "description": "Two years after the original FinePix S1 Pro, the S2 Pro was introduced in 2002.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm FinePix S2 Pro"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm FinePix S2 Pro",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20FinePix%20S2%20Pro"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

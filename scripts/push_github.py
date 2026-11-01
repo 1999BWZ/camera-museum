@@ -66,9 +66,6 @@ def make_blob(args):
 
 def main():
     dry = "--dry-run" in sys.argv
-    msg = "相机博物馆 v0.2：4882 款机型数据（camera-wiki + Wikidata，去重）"
-    if "--message" in sys.argv:
-        msg = sys.argv[sys.argv.index("--message") + 1]
     files = collect_files()
     print(f"files: {len(files)}")
     if dry:
@@ -94,7 +91,7 @@ def main():
                 {"tree": sorted(tree_entries, key=lambda e: e["path"])})
     print("tree:", tree["sha"][:12])
 
-    commit_body = {"message": msg,
+    commit_body = {"message": "相机博物馆 v0.1：脚手架 + 201 款机型数据 + Pages 自动部署",
                    "tree": tree["sha"]}
     if parent_sha:
         commit_body["parents"] = [parent_sha]

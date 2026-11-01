@@ -1,0 +1,29 @@
+{
+  "id": "praktica-b-200",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "B 200",
+  "year": 1979,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康数码单反相机，1979 年发布",
+  "description": "A 35mm SLR camera released by Praktica in 1979 as the first in the B series of cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica B 200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica B 200",
+      "url": "https://camera-wiki.org/wiki/Praktica%20B%20200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

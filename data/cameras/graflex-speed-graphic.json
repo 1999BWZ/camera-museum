@@ -1,0 +1,29 @@
+{
+  "id": "graflex-speed-graphic",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "Graflex",
+  "model": "Speed Graphic",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲折叠相机，1947 年发布",
+  "description": "The Graphic series are press cameras from Folmer & Schwing, later (after having been a division of Kodak for a handful of years) known as Folmer Graflex and then simply Graflexafter the very successful line of SLR's that made the company famous; all are folding bed cameras with a rack-focusing front",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Graflex Speed Graphic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Graflex Speed Graphic",
+      "url": "https://camera-wiki.org/wiki/Graflex%20Speed%20Graphic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

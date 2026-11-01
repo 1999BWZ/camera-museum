@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-caplio-gx100",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Caplio GX100",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2007 年发布",
+  "description": "The Caplio GX100 was introduced by Ricoh in 2007, following its elder brother, the GR Digital.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Caplio GX100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Caplio GX100",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Caplio%20GX100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pentax-q",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Q",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2011 年发布",
+  "description": "Announced in 2011, the Pentax Q is an entirely new interchangeable-lens digital camera system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Q"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Q",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Q"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

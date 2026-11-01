@@ -1,0 +1,29 @@
+{
+  "id": "olympus-e-400",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "E-400",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2006 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nAnnounced in September 2006, the Olympus E-400 is one of the smallest and lightest DSLRs yet produced — its more recent twin, the E-410, supercedes this model but retains the same body size and weight.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus E-400"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus E-400",
+      "url": "https://camera-wiki.org/wiki/Olympus%20E-400"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

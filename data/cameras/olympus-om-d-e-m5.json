@@ -1,0 +1,29 @@
+{
+  "id": "olympus-om-d-e-m5",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "OM-D E-M5",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2012 年发布",
+  "description": "The Olympus OM-D E-M5 was the first Japanese mirrorless digital system camera with a body design that resembles that of a legendary 35mm camera system, i.e.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus OM-D E-M5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus OM-D E-M5",
+      "url": "https://camera-wiki.org/wiki/Olympus%20OM-D%20E-M5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

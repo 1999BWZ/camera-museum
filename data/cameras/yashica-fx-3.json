@@ -1,0 +1,29 @@
+{
+  "id": "yashica-fx-3",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "FX-3",
+  "year": 1979,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡数码单反相机，1979 年发布",
+  "description": "__NOTOC__ \n\nThe FX-3 was a very popular, manually-operated, 35mm single lens reflex camera, released by Yashica in 1979.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica FX-3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica FX-3",
+      "url": "https://camera-wiki.org/wiki/Yashica%20FX-3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

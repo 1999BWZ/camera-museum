@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f-501",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F-501",
+  "year": 1986,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1986 年发布",
+  "description": "The Nikon N2020 (better known as Nikon F501 outside of the US) was the automatic focusing version of the Nikon F301 (N2000).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F-501 (N2020)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F-501 (N2020)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F-501%20%28N2020%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

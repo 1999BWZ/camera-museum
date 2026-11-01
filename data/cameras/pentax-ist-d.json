@@ -1,0 +1,29 @@
+{
+  "id": "pentax-ist-d",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "*ist D",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2003 年发布",
+  "description": "The Pentax *ist D is the first production digital camera from Pentax in the SLR configuration.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax *ist D"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax *ist D",
+      "url": "https://camera-wiki.org/wiki/Pentax%20%2Aist%20D"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

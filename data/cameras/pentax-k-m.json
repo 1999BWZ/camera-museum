@@ -1,0 +1,29 @@
+{
+  "id": "pentax-k-m",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "K-m",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2008 年发布",
+  "description": "Note: this article describes the 2008 digital SLR.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax K-m"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax K-m",
+      "url": "https://camera-wiki.org/wiki/Pentax%20K-m"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

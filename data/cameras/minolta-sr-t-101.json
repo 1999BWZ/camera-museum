@@ -1,0 +1,29 @@
+{
+  "id": "minolta-sr-t-101",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "SR-T 101",
+  "year": 1966,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1966 年发布",
+  "description": "-->\n\nThe Minolta SRT 101 is a 35mm SLR camera made by Minolta Camera Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta SR-T 101"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta SR-T 101",
+      "url": "https://camera-wiki.org/wiki/Minolta%20SR-T%20101"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leica-r8-r9",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "R8–R9",
+  "year": 1996,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码单反相机，1996 年发布",
+  "description": "Around 1990, Leica management decided to break away from the cameras developed with Minolta and to design a completely new replacement in house.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica R8–R9"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica R8–R9",
+      "url": "https://camera-wiki.org/wiki/Leica%20R8%E2%80%93R9"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

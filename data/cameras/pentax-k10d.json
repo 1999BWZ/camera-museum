@@ -1,0 +1,29 @@
+{
+  "id": "pentax-k10d",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "K10D",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2006 年发布",
+  "description": "{|class=\"floatright plainlinks\"\n|colspan=2 |\n|-\n|}\nThe Pentax K10D is a 10 mega pixel Digital Single Lens Reflex camera announced 13 September 2006.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax K10D"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax K10D",
+      "url": "https://camera-wiki.org/wiki/Pentax%20K10D"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

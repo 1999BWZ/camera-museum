@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-lumix-dmc-gf1",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "Lumix DMC-GF1",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2009 年发布",
+  "description": "Panasonic was the first to launch a camera for the Micro Four-Thirds lens bayonet which enabled the makers of the Four-Thirds DSLRs Panasonic, Leica and Olympus to make more compact cameras for their Micro Four-Thirds image sensors.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic Lumix DMC-GF1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic Lumix DMC-GF1",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20Lumix%20DMC-GF1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

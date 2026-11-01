@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-5200",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix 5200",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2004 年发布",
+  "description": "The Nikon Coolpix 5200 is a 5 megapixel fixed-lens compact digital cameras, made for the Nikon Corporation of Japan, announced on 12th February 2004.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix 5200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix 5200",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%205200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

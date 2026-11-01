@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-sx-70",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "SX-70",
+  "year": 1972,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来折叠相机，1972 年发布",
+  "description": "The SX-70 is a folding single lens reflex Land Camera first produced by the Polaroid Corporation in 1972.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid SX-70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid SX-70",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20SX-70"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

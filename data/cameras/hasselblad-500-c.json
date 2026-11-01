@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-500-c",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "500 C",
+  "year": 1957,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏中画幅相机，1957 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Hasselblad 500 C is perhaps the most iconic model of Hasselblad camera, introduced in 1957, and remaining in production until 1970.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad 500 C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad 500 C",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%20500%20C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}
