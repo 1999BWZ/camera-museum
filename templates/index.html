@@ -2,12 +2,25 @@
   <section class="hero">
     <div class="kicker serif">THE CAMERA MUSEUM</div>
     <h1 class="serif">相机百年<span class="en">A CENTURY OF CAMERAS</span></h1>
-    <p class="lead">从 1925 年徕卡 I 型到 2013 年索尼 α7，这里用博物馆的方式陈列相机历史上的里程碑机型：每一款都有照片、规格参数，以及它在历史中的位置。</p>
+    <p class="lead">从 1900 年柯达 Brownie 到数码时代，这里用博物馆的方式陈列相机历史：镇馆之宝、完整时间线与品牌展厅。</p>
     <div class="stats">
       <div class="stat"><b>{{stats_cameras}}</b><span>收录机型</span></div>
       <div class="stat"><b>{{stats_brands}}</b><span>品牌</span></div>
       <div class="stat"><b>{{stats_years}}</b><span>时间跨度</span></div>
     </div>
+  </section>
+
+  <section class="section" id="milestones">
+    <h2 class="serif">镇馆之宝</h2>
+    <p class="sub">HALL OF FAME · 18 款改写历史的相机</p>
+    <div class="fame-grid">{{fame_cards}}</div>
+  </section>
+
+  <section class="section" id="timeline">
+    <h2 class="serif">时间线</h2>
+    <p class="sub">TIMELINE · 按年代浏览全部 {{stats_cameras}} 款</p>
+    <div class="decade-nav">{{decade_nav}}</div>
+    <p class="more"><a href="timeline.html">进入完整时间线 →</a></p>
   </section>
 
   <section class="section">
@@ -17,36 +30,13 @@
       <div class="hall-card">
         <h3>时间线展厅</h3>
         <p>按年代陈列全部机型，从胶片时代走到数码时代。</p>
-        <a href="#timeline">进入 →</a>
+        <a href="timeline.html">进入 →</a>
       </div>
       <div class="hall-card">
         <h3>品牌展厅</h3>
-        <p>徕卡、佳能、尼康、哈苏……每个品牌一个独立展厅。</p>
-        <a href="#brands">进入 →</a>
-      </div>
-      <div class="hall-card">
-        <h3>类型展厅</h3>
-        <p>旁轴、单反、双反、中画幅、一次成像、无反，按类型筛选。</p>
-        <a href="#types">进入 →</a>
+        <p>{{stats_brands}} 个品牌，每个品牌一个独立展厅。</p>
+        <a href="brands.html">进入 →</a>
       </div>
     </div>
-  </section>
-
-  <section class="section" id="timeline">
-    <h2 class="serif">时间线</h2>
-    <p class="sub">TIMELINE</p>
-    {{timeline}}
-  </section>
-
-  <section class="section" id="brands">
-    <h2 class="serif">品牌</h2>
-    <p class="sub">BRANDS</p>
-    <div class="brandchips">{{brand_chips}}</div>
-  </section>
-
-  <section class="section" id="types">
-    <h2 class="serif">类型</h2>
-    <p class="sub">TYPES · 点击筛选上方时间线</p>
-    <div class="filters" id="type-filters">{{type_chips}}</div>
   </section>
 </div>

@@ -1,1 +1,33 @@
-{"brand":"Leica","brand_cn":"徕卡","brand_slug":"leica","country":"德国","description":"1925 年在莱比锡春季博览会上发布。巴纳克早在 1914 年就为使用电影胶卷造出了便携原型机 Ur-Leica，Leica I 把它变成了量产产品，并确立了沿用至今的 24×36mm 画幅标准。","designer":"Oskar Barnack（奥斯卡·巴纳克）","end_year":1936,"format":"135 胶卷（24×36mm）","id":"leica-i-model-a","images":[],"manufacturer":"Ernst Leitz（恩斯特·徕茨）","milestone":true,"model":"Leica I (Model A)","mount":"固定镜头","significance":"它证明了小画幅相机也能拍出高质量照片，直接催生了 135 系统与后来的旁轴、单反时代，是相机小型化的起点。","sources":[{"title":"Wikipedia – Leica I","url":"https://en.wikipedia.org/wiki/Leica_I"}],"specs":{"取景":"外置光学取景器","对焦":"估焦（镜头距离刻度）","快门":"布帘焦平面快门，1/20～1/500 秒","镜头":"Leitz Elmar 50mm f/3.5（固定）"},"tagline":"世界第一台量产 135 相机，小型相机的开端","type":"scale_focus","type_cn":"估焦 135 相机","year":1925}
+{
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "description": "1925 年在莱比锡春季博览会上发布。巴纳克早在 1914 年就为使用电影胶卷造出了便携原型机 Ur-Leica，Leica I 把它变成了量产产品，并确立了沿用至今的 24×36mm 画幅标准。",
+  "designer": "Oskar Barnack（奥斯卡·巴纳克）",
+  "end_year": 1936,
+  "format": "135 胶卷（24×36mm）",
+  "id": "leica-i-model-a",
+  "images": [],
+  "manufacturer": "Ernst Leitz（恩斯特·徕茨）",
+  "milestone": true,
+  "model": "I (Model A)",
+  "mount": "固定镜头",
+  "significance": "它证明了小画幅相机也能拍出高质量照片，直接催生了 135 系统与后来的旁轴、单反时代，是相机小型化的起点。",
+  "sources": [
+    {
+      "title": "Wikipedia – Leica I",
+      "url": "https://en.wikipedia.org/wiki/Leica_I"
+    }
+  ],
+  "specs": {
+    "取景": "外置光学取景器",
+    "对焦": "估焦（镜头距离刻度）",
+    "快门": "布帘焦平面快门，1/20～1/500 秒",
+    "镜头": "Leitz Elmar 50mm f/3.5（固定）"
+  },
+  "tagline": "世界第一台量产 135 相机，小型相机的开端",
+  "type": "scale_focus",
+  "type_cn": "估焦 135 相机",
+  "year": 1925
+}

@@ -73,47 +73,67 @@ def card_html(c, link_prefix=""):
     )
 
 
+def featured_card_html(c, link_prefix=""):
+    ms = '<span class="tag milestone">里程碑</span>'
+    img = ""
+    images = c.get("images") or []
+    if images:
+        url = images[0].get("remote_url") or images[0].get("file")
+        if url:
+            img = (f'<div class="fame-img"><img src="{esc(url)}" alt="{esc(c["model"])}" '
+                   f'loading="lazy"></div>')
+    else:
+        img = '<div class="fame-img fame-empty"><span>展品照片整理中</span></div>'
+    return (
+        f'<a class="card fame-card" href="{link_prefix}c/{esc(c["id"])}.html">'
+        f'{img}'
+        f'<div class="year serif">{c["year"]}</div>'
+        f"<h4>{esc(c['brand_cn'])} {esc(c['model'])}</h4>"
+        f'<div class="brandline">{esc(c["brand"])} · {esc(c["country"])}</div>'
+        f'<span class="tag">{esc(c["type_cn"])}</span>{ms}'
+        f'<p class="tagline">{esc(c["tagline"])}</p>'
+        "</a>"
+    )
+
+
 def build_index(cams, css, js):
     brands = {}
-    types = {}
     for c in cams:
         brands.setdefault(c["brand_slug"], []).append(c)
-        types.setdefault((c["type"], c["type_cn"]), []).append(c)
 
-    # 时间线：按十年分组
+    # 镇馆之宝
+    featured_ids = json.load(open(os.path.join(BASE, "data", "featured.json"), encoding="utf-8"))
+    by_id = {c["id"]: c for c in cams}
+    fame = [by_id[i] for i in featured_ids if i in by_id]
+    fame_cards = "\n".join(featured_card_html(c) for c in fame)
+
+    # 时间线导航：按十年分组，只显示年代、数量与代表机型
     decades = {}
     for c in cams:
         d = (c["year"] // 10) * 10
         decades.setdefault(d, []).append(c)
-    timeline = []
+    fame_ids = set(featured_ids)
+    decade_nav = []
     for d in sorted(decades):
-        cards = "\n".join(card_html(c) for c in decades[d])
-        timeline.append(
-            f'<div class="decade"><h3 class="serif">{d}s<small>{d} 年代</small></h3>'
-            f'<div class="cards">\n{cards}\n</div></div>'
+        cs = decades[d]
+        rep = [c for c in cs if c["id"] in fame_ids][:3]
+        if len(rep) < 3:
+            rep += [c for c in cs if c["id"] not in fame_ids][:3 - len(rep)]
+        rep_names = "、".join(esc(c["model"]) for c in rep)
+        decade_nav.append(
+            f'<a class="decade-link" href="timeline.html#d-{d}">'
+            f'<span class="serif">{d}s</span>'
+            f"<small>{len(cs)} 款 · {rep_names}</small>"
+            "</a>"
         )
-
-    brand_chips = "\n".join(
-        f'<a class="chip" href="brand/{esc(slug)}.html">'
-        f'{esc(cs[0]["brand_cn"])} {esc(cs[0]["brand"])}<small>{len(cs)}</small></a>'
-        for slug, cs in sorted(brands.items(), key=lambda kv: kv[1][0]["brand_cn"])
-    )
-    type_chips = (
-        '<button class="chip active" data-filter="">全部<small>' + str(len(cams)) + "</small></button>\n"
-        + "\n".join(
-            f'<button class="chip" data-filter="{esc(t)}">{esc(tcn)}<small>{len(cs)}</small></button>'
-            for (t, tcn), cs in sorted(types.items(), key=lambda kv: kv[0][1])
-        )
-    )
 
     years = [c["year"] for c in cams]
     body = render(load_text(os.path.join(TPL_DIR, "index.html")), {
         "stats_cameras": len(cams),
         "stats_brands": len(brands),
         "stats_years": f"{min(years)}–{max(years)}",
-        "timeline": "\n".join(timeline),
-        "brand_chips": brand_chips,
-        "type_chips": type_chips,
+        "fame_cards": fame_cards,
+        "decade_nav": "\n".join(decade_nav),
     })
     page = render(load_text(os.path.join(TPL_DIR, "base.html")), {
         "title": "首页",
@@ -123,6 +143,71 @@ def build_index(cams, css, js):
         "content": body,
     })
     with open(os.path.join(SITE_DIR, "index.html"), "w", encoding="utf-8") as f:
+        f.write(page)
+
+
+def build_timeline(cams, css, js):
+    types = {}
+    for c in cams:
+        types.setdefault((c["type"], c["type_cn"]), []).append(c)
+
+    decades = {}
+    for c in cams:
+        d = (c["year"] // 10) * 10
+        decades.setdefault(d, []).append(c)
+    timeline = []
+    for d in sorted(decades):
+        cards = "\n".join(card_html(c) for c in decades[d])
+        timeline.append(
+            f'<div class="decade" id="d-{d}"><h3 class="serif">{d}s<small>{d} 年代 · {len(decades[d])} 款</small></h3>'
+            f'<div class="cards">\n{cards}\n</div></div>'
+        )
+
+    type_chips = (
+        '<button class="chip active" data-filter="">全部<small>' + str(len(cams)) + "</small></button>\n"
+        + "\n".join(
+            f'<button class="chip" data-filter="{esc(t)}">{esc(tcn)}<small>{len(cs)}</small></button>'
+            for (t, tcn), cs in sorted(types.items(), key=lambda kv: kv[0][1])
+        )
+    )
+
+    body = render(load_text(os.path.join(TPL_DIR, "timeline.html")), {
+        "stats_cameras": len(cams),
+        "timeline": "\n".join(timeline),
+        "type_chips": type_chips,
+    })
+    page = render(load_text(os.path.join(TPL_DIR, "base.html")), {
+        "title": "时间线",
+        "root": "",
+        "css": css,
+        "js": js,
+        "content": body,
+    })
+    with open(os.path.join(SITE_DIR, "timeline.html"), "w", encoding="utf-8") as f:
+        f.write(page)
+
+
+def build_brands_index(cams, css, js):
+    brands = {}
+    for c in cams:
+        brands.setdefault(c["brand_slug"], []).append(c)
+    brand_chips = "\n".join(
+        f'<a class="chip" href="brand/{esc(slug)}.html">'
+        f'{esc(cs[0]["brand_cn"])} {esc(cs[0]["brand"])}<small>{len(cs)}</small></a>'
+        for slug, cs in sorted(brands.items(), key=lambda kv: kv[1][0]["brand_cn"])
+    )
+    body = render(load_text(os.path.join(TPL_DIR, "brands.html")), {
+        "stats_brands": len(brands),
+        "brand_chips": brand_chips,
+    })
+    page = render(load_text(os.path.join(TPL_DIR, "base.html")), {
+        "title": "品牌",
+        "root": "",
+        "css": css,
+        "js": js,
+        "content": body,
+    })
+    with open(os.path.join(SITE_DIR, "brands.html"), "w", encoding="utf-8") as f:
         f.write(page)
 
 
@@ -285,9 +370,11 @@ def main():
     js = load_text(os.path.join(ASSETS_DIR, "app.js"))
     cams = load_cameras()
     build_index(cams, css, js)
+    build_timeline(cams, css, js)
+    build_brands_index(cams, css, js)
     build_brands(cams, css, js)
     build_cameras(cams, css, js)
-    n_pages = 1 + len({c["brand_slug"] for c in cams}) + len(cams)
+    n_pages = 3 + len({c["brand_slug"] for c in cams}) + len(cams)
     print(f"生成完毕：{len(cams)} 款机型，{n_pages} 个页面 -> {SITE_DIR}")
     if do_check:
         problems = check_links()
