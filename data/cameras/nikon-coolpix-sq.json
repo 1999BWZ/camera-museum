@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-sq",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix SQ",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2003 年发布",
+  "description": "This is a 3-megapixel model introduced by Nikon in 2003.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix SQ"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix SQ",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%20SQ"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-one-step",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "One Step",
+  "year": 1993,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1993 年发布",
+  "description": "Not to be confused with the original OneStep for SX-70 film (sold in most non-US markets as the Polaroid Land Camera 1000), the later Polaroid One Step (with curved corners) introduced a new generation of models in Polaroid's 600-series in c.1993[https://resolver.kb.nl/resolve?urn=KBPERS01:003113014",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid One Step (curved corners)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid One Step (curved corners)",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20One%20Step%20%28curved%20corners%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-s-30",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "S-30",
+  "year": 1989,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1989 年发布",
+  "description": "The S-30 is an autofocus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1989.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh S-30"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh S-30",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20S-30"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

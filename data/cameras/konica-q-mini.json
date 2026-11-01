@@ -1,0 +1,29 @@
+{
+  "id": "konica-q-mini",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Q-Mini",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡数码相机，1997 年发布",
+  "description": "The Konica Q-Mini was a early digital released by Konica in 1997.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Q-Mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Q-Mini",
+      "url": "https://camera-wiki.org/wiki/Konica%20Q-Mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chinon-cm-7",
+  "brand": "Chinon",
+  "brand_cn": "",
+  "brand_slug": "chinon",
+  "country": "待补充",
+  "manufacturer": "Chinon",
+  "model": "CM-7",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Chinon胶片单反相机，2000 年发布",
+  "description": "The CM-7 is a manual-focus, manual-exposure SLR sold under the Chinon brand, but presumed to be manufactured by Cosina.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chinon CM-7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chinon CM-7",
+      "url": "https://camera-wiki.org/wiki/Chinon%20CM-7"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

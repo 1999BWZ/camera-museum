@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-2-brownie-camera",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 2 Brownie Camera",
+  "year": 1929,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1929 年发布",
+  "description": "柯达于1929年发布的盒式相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 2 Brownie Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 2 Brownie Camera",
+      "url": "https://camera-wiki.org/wiki/No.%202%20Brownie%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rollei-baby-rolleiflex",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "Baby Rolleiflex",
+  "year": 1957,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来双镜头反光相机，1957 年发布",
+  "description": "{| class=\"plainlinks\" align=\"right\" style=\"text-align: center;\"\n|| [http://www.flickr.com/photos/geoffreygilson/4586973314/in/pool-camerawiki http://farm5.static.flickr.com/4030/4586973314_6c0bceddbb.jpg]\n|-\n|| Grey Baby Rollei by \n|}\nThe Automatic Rolleiflex 4x4, popularly known as the \"Gray Baby\" ",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baby Rolleiflex (1957)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baby Rolleiflex (1957)",
+      "url": "https://camera-wiki.org/wiki/Baby%20Rolleiflex%20%281957%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

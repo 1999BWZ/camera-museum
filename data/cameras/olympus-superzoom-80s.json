@@ -1,0 +1,29 @@
+{
+  "id": "olympus-superzoom-80s",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Superzoom 80S",
+  "year": 2005,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，2005 年发布",
+  "description": "The Olympus Superzoom 80S is a 35mm Autofocus compact that was a later model in the Superzoom series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Superzoom 80S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Superzoom 80S",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Superzoom%2080S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sony-dsc-wx100",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "DSC-WX100",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2012 年发布",
+  "description": "The Cyber-shot DSC-WX100 is a point and shoot digital camera announced by Sony in 2012.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony DSC-WX100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony DSC-WX100",
+      "url": "https://camera-wiki.org/wiki/Sony%20DSC-WX100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

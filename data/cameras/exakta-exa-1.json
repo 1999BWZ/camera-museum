@@ -1,0 +1,29 @@
+{
+  "id": "exakta-exa-1",
+  "brand": "Exakta",
+  "brand_cn": "",
+  "brand_slug": "exakta",
+  "country": "待补充",
+  "manufacturer": "Exakta",
+  "model": "Exa 1",
+  "year": 1962,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Exakta胶片单反相机，1962 年发布",
+  "description": "The Exa-1 is a 35mm film SLR camera, manufactured by Ihagee Kamerawerk Steenbergen & Co, Dresden, former East Germany and produced between 1962-64.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Exa 1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Exa 1",
+      "url": "https://camera-wiki.org/wiki/Exa%201"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

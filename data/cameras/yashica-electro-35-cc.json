@@ -1,0 +1,29 @@
+{
+  "id": "yashica-electro-35-cc",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Electro 35 CC",
+  "year": 1970,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡旁轴相机，1970 年发布",
+  "description": "The Electro 35 CC is a compact 35mm rangefinder camera from Yashica released in 1970.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Electro 35 CC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Electro 35 CC",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Electro%2035%20CC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leica-leica",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "Leica",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，1956 年发布",
+  "description": "=== Introduction ===\n\nThe Leica screw-mount series, also known as the \"Barnack\" Leicas after their inventor, Oskar Barnack, are a series of 35mm, focal-plane shutter cameras, mostly including coupled rangefinders, made by Ernst Leitz GmbH of Wetzlar, Germany from the mid-1920's until 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica (Screw-mount)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica (Screw-mount)",
+      "url": "https://camera-wiki.org/wiki/Leica%20%28Screw-mount%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

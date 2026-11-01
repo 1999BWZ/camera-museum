@@ -1,0 +1,40 @@
+{
+  "id": "sigma-sd14-q502347",
+  "brand": "Sigma",
+  "brand_cn": "适马",
+  "brand_slug": "sigma",
+  "country": "日本",
+  "manufacturer": "适马",
+  "model": "SD14",
+  "year": 2007,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "适马数码单反相机，2007 年发布",
+  "description": "适马于2007年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q502347",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigma%20SD14%20img%201251.jpg?width=800",
+      "caption": "SD14",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q502347"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sigma SD14",
+      "url": "https://www.wikidata.org/wiki/Q502347"
+    }
+  ],
+  "qid": "Q502347",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

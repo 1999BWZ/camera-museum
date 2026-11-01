@@ -1,0 +1,29 @@
+{
+  "id": "minolta-hi-matic-af",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Hi-Matic AF",
+  "year": 1979,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1979 年发布",
+  "description": "The Minolta Hi-Matic AF was introduced in 1979.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Hi-Matic AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Hi-Matic AF",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Hi-Matic%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

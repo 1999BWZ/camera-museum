@@ -1,0 +1,29 @@
+{
+  "id": "pentax-k-3",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "K-3",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2014 年发布",
+  "description": "The K-3 is the flagship APSC-DSLR from the Pentax brand of Ricoh Imaging, introduced in 2014.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax K-3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax K-3",
+      "url": "https://camera-wiki.org/wiki/Pentax%20K-3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

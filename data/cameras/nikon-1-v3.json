@@ -1,0 +1,40 @@
+{
+  "id": "nikon-1-v3",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "1 V3",
+  "year": 2014,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康无反相机，2014 年发布",
+  "description": "尼康于2014年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q18392105",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%201%20v3.jpg?width=800",
+      "caption": "1 V3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q18392105"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon 1 V3",
+      "url": "https://www.wikidata.org/wiki/Q18392105"
+    }
+  ],
+  "qid": "Q18392105",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

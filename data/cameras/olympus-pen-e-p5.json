@@ -1,0 +1,40 @@
+{
+  "id": "olympus-pen-e-p5",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "PEN E-P5",
+  "year": 2013,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2013 年发布",
+  "description": "奥林巴斯于2013年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q15659967",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20PEN%20E-P5%20Front%202.jpg?width=800",
+      "caption": "PEN E-P5",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q15659967"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 奥林巴斯 PEN E-P5",
+      "url": "https://www.wikidata.org/wiki/Q15659967"
+    }
+  ],
+  "qid": "Q15659967",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

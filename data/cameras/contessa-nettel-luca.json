@@ -1,0 +1,29 @@
+{
+  "id": "contessa-nettel-luca",
+  "brand": "Contessa-Nettel",
+  "brand_cn": "",
+  "brand_slug": "contessa-nettel",
+  "country": "待补充",
+  "manufacturer": "Contessa-Nettel",
+  "model": "Luca",
+  "year": 1919,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Contessa-Nettel胶片相机，1919 年发布",
+  "description": "The Luca is a double-extension folding-bed camera for 13x18cm plates, made by Contessa-Nettel.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Luca"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Luca",
+      "url": "https://camera-wiki.org/wiki/Luca"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

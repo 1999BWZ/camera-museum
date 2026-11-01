@@ -1,0 +1,29 @@
+{
+  "id": "argus-stl-1000",
+  "brand": "Argus",
+  "brand_cn": "",
+  "brand_slug": "argus",
+  "country": "待补充",
+  "manufacturer": "Argus",
+  "model": "STL 1000",
+  "year": 1974,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Argus数码单反相机，1974 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nAfter Argus Camera found it impossible to compete in the market with its US-built cameras, the company decided to offer SLRs made for them by Japanese manufacturers; but confusingly, changed plans several times.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Argus STL 1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Argus STL 1000",
+      "url": "https://camera-wiki.org/wiki/Argus%20STL%201000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

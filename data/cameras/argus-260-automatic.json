@@ -1,0 +1,29 @@
+{
+  "id": "argus-260-automatic",
+  "brand": "Argus",
+  "brand_cn": "",
+  "brand_slug": "argus",
+  "country": "待补充",
+  "manufacturer": "Argus",
+  "model": "260 Automatic",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Argus胶片相机，1964 年发布",
+  "description": "The 260 Automatic is a sturdy metal viewfinder camera for 126 film cartridges from Argus, manufactured starting in 1964 by Mamiya.Page 129, .",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Argus 260 Automatic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Argus 260 Automatic",
+      "url": "https://camera-wiki.org/wiki/Argus%20260%20Automatic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

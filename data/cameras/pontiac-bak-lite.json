@@ -1,0 +1,29 @@
+{
+  "id": "pontiac-bak-lite",
+  "brand": "Pontiac",
+  "brand_cn": "",
+  "brand_slug": "pontiac",
+  "country": "法国",
+  "manufacturer": "Pontiac",
+  "model": "Bakélite",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pontiac折叠相机，1938 年发布",
+  "description": "The Pontiac Bakélite is a 6x9 folding camera made by the French maker Pontiac from 1938 to 1941.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pontiac Bakélite"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pontiac Bakélite",
+      "url": "https://camera-wiki.org/wiki/Pontiac%20Bak%C3%A9lite"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

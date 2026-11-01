@@ -1,0 +1,29 @@
+{
+  "id": "minolta-vectis-100-bf",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Vectis 100 BF",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1998 年发布",
+  "description": "The Minolta Vectis 100 BF is a compact camera for APS film capsules.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Vectis 100 BF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Vectis 100 BF",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Vectis%20100%20BF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "delta-stereo",
+  "brand": "Delta",
+  "brand_cn": "",
+  "brand_slug": "delta",
+  "country": "美国",
+  "manufacturer": "Delta",
+  "model": "Stereo",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Delta立体相机，1955 年发布",
+  "description": "__NOTOC__ \n{|class=floatleft\n|\n\n|-\n|colspan=3 align=center | image by \n |}\n\n\nThe Delta Stereo camera was made in 1955 by Lennor Engineering Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Delta Stereo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Delta Stereo",
+      "url": "https://camera-wiki.org/wiki/Delta%20Stereo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

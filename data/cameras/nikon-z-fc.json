@@ -1,0 +1,40 @@
+{
+  "id": "nikon-z-fc",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Z fc",
+  "year": 2021,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康无反相机，2021 年发布",
+  "description": "尼康于2021年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q107564200",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Z%20fc%20with%20Nikkor%20Z%2028mm%20F2.8%20SE%20-%20by%20Henry%20S%C3%B6derlund%20%2851675302954%29.jpg?width=800",
+      "caption": "Z fc",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q107564200"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Z fc",
+      "url": "https://www.wikidata.org/wiki/Q107564200"
+    }
+  ],
+  "qid": "Q107564200",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

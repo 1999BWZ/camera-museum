@@ -1,0 +1,29 @@
+{
+  "id": "minolta-minolta-16",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Minolta-16",
+  "year": 1957,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达微型相机，1957 年发布",
+  "description": "After the success of the Konan cameras for 16mm film the Minolta-16 for Chiyoda's 16mm film cartridges had been introduced in 1956 or 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta-16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta-16",
+      "url": "https://camera-wiki.org/wiki/Minolta-16"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

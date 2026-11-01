@@ -1,0 +1,40 @@
+{
+  "id": "sigma-dp1-quattro",
+  "brand": "Sigma",
+  "brand_cn": "适马",
+  "brand_slug": "sigma",
+  "country": "日本",
+  "manufacturer": "Sigma",
+  "model": "dp1 Quattro",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "适马便携相机，2014 年发布",
+  "description": "适马于2014年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q18630741",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigma%20dp1%20Quattro%202014%20CP%2B.jpg?width=800",
+      "caption": "dp1 Quattro",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q18630741"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sigma dp1 Quattro",
+      "url": "https://www.wikidata.org/wiki/Q18630741"
+    }
+  ],
+  "qid": "Q18630741",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "linhof-technorama-612pc",
+  "brand": "Linhof",
+  "brand_cn": "",
+  "brand_slug": "linhof",
+  "country": "待补充",
+  "manufacturer": "Linhof",
+  "model": "Technorama 612PC",
+  "year": 1983,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Linhof全景相机，1983 年发布",
+  "description": "The Linhof Technorama 612PC is a panoramic rollfilm camera designed for the 6&times;12cm film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Linhof Technorama 612PC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Linhof Technorama 612PC",
+      "url": "https://camera-wiki.org/wiki/Linhof%20Technorama%20612PC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

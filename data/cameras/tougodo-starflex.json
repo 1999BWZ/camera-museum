@@ -1,0 +1,29 @@
+{
+  "id": "tougodo-starflex",
+  "brand": "Tougodo",
+  "brand_cn": "",
+  "brand_slug": "tougodo",
+  "country": "待补充",
+  "manufacturer": "Tougodo",
+  "model": "Starflex",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tougodo胶片相机，1955 年发布",
+  "description": "For the Kodak 127 twin-lens camera, see Kodak Brownie Starflex.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Starflex (postwar)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Starflex (postwar)",
+      "url": "https://camera-wiki.org/wiki/Starflex%20%28postwar%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

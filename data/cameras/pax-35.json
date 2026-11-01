@@ -1,0 +1,29 @@
+{
+  "id": "pax-35",
+  "brand": "Pax",
+  "brand_cn": "",
+  "brand_slug": "pax",
+  "country": "待补充",
+  "manufacturer": "Pax",
+  "model": "35",
+  "year": 1952,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pax旁轴相机，1952 年发布",
+  "description": "The Pax 35 is the first in the Pax series of compact fixed-lens 35 mm rangefinders made by Yamato from 1952-55.McKeown p.1022 It was named Pax 35 on the original box & instructions.McKeown p.1022 The styling recalls a Leica II or III, but it is a much smaller and simpler camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pax 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pax 35",
+      "url": "https://camera-wiki.org/wiki/Pax%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

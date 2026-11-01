@@ -1,0 +1,29 @@
+{
+  "id": "minolta-riva-zoom-105i",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Riva Zoom 105i",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1990 年发布",
+  "description": "The Minolta Riva Zoom 105i is a 3xZoom compact camera made by Minolta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Riva Zoom 105i"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Riva Zoom 105i",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Riva%20Zoom%20105i"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

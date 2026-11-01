@@ -1,0 +1,29 @@
+{
+  "id": "canon-photura-epoca-autoboy-jet",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Photura/Epoca/Autoboy Jet",
+  "year": 1990,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片单反相机，1990 年发布",
+  "description": "The Canon Photura is an oddly-shaped 1990 model from Canon's very successful Sure Shot range.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Photura/Epoca/Autoboy Jet"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Photura/Epoca/Autoboy Jet",
+      "url": "https://camera-wiki.org/wiki/Canon%20Photura/Epoca/Autoboy%20Jet"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

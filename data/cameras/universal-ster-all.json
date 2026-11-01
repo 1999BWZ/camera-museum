@@ -1,0 +1,29 @@
+{
+  "id": "universal-ster-all",
+  "brand": "Universal",
+  "brand_cn": "",
+  "brand_slug": "universal",
+  "country": "美国",
+  "manufacturer": "Universal",
+  "model": "Steré-All",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Universal立体相机，1954 年发布",
+  "description": "The Universal Camera Corporation in New York marketed the Steré-All in 1954.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Steré-All"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Steré-All",
+      "url": "https://camera-wiki.org/wiki/Ster%C3%A9-All"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

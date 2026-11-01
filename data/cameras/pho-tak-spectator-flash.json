@@ -1,0 +1,29 @@
+{
+  "id": "pho-tak-spectator-flash",
+  "brand": "Pho-Tak",
+  "brand_cn": "",
+  "brand_slug": "pho-tak",
+  "country": "美国",
+  "manufacturer": "Pho-Tak",
+  "model": "Spectator Flash",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pho-Tak盒式相机，1950 年发布",
+  "description": "Another of Pho-Tak's basic box cameras for 6&times;9 exposures on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pho-Tak Spectator Flash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pho-Tak Spectator Flash",
+      "url": "https://camera-wiki.org/wiki/Pho-Tak%20Spectator%20Flash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

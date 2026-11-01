@@ -1,0 +1,29 @@
+{
+  "id": "kodak-dc4800",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "DC4800",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码相机，2000 年发布",
+  "description": "{|class=floatleft\n|\n\n|\n\n|\n\n|-\n|colspan=3 align=center | Kodak DC4800 images by \n |}\n\nThe Kodak DC4800 was introduced in 2000 and was made in Japan for Kodak USA.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "DC4800"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – DC4800",
+      "url": "https://camera-wiki.org/wiki/DC4800"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-falcon-super-action-candid",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "美国",
+  "manufacturer": "Bestiary",
+  "model": "Falcon Super-Action Candid",
+  "year": 1938,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary胶片相机，1938 年发布",
+  "description": "The Falcon Super-Action Candid Camera was made in New York by the Utility Manufacturing Company from c.1938.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Falcon Super-Action Candid"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Falcon Super-Action Candid",
+      "url": "https://camera-wiki.org/wiki/Falcon%20Super-Action%20Candid"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

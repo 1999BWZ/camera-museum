@@ -1,0 +1,29 @@
+{
+  "id": "rada-rollfilm-back",
+  "brand": "Rada",
+  "brand_cn": "",
+  "brand_slug": "rada",
+  "country": "德国",
+  "manufacturer": "Rada",
+  "model": "Rollfilm Back",
+  "year": 1920,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rada胶片相机，1920 年发布",
+  "description": "Rada made rollfilm holders (film backs) fitted with a dark slide, designed as adapters to use 120/620 rollfilm usually with 9x12 or 6.5x9 plate cameras\nRada holders were made for just about every variety and size of German sheet metal plate/film holder back.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rada Rollfilm Back"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rada Rollfilm Back",
+      "url": "https://camera-wiki.org/wiki/Rada%20Rollfilm%20Back"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

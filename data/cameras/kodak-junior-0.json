@@ -1,0 +1,29 @@
+{
+  "id": "kodak-junior-0",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Junior 0",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达折叠相机，1939 年发布",
+  "description": "The Kodak Junior 0 is a folding camera which takes 620 film, has a single shutter speed, an image size of 6x9, and was introduced in 1939.[http://kodak.3106.net/index.php?p=217&cam=1545 Kodak Junior 0] at [http://kodak.3106.net/index.php Kodak Classics]",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Junior 0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Junior 0",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Junior%200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

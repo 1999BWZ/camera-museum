@@ -1,0 +1,29 @@
+{
+  "id": "yashica-molforeflex",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Molforeflex",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片相机，1955 年发布",
+  "description": "The Molforeflex (モルフォレフレックス) is a Japanese 6&times;6 TLR, certainly made by Yashica.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Molforeflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Molforeflex",
+      "url": "https://camera-wiki.org/wiki/Molforeflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

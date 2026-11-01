@@ -1,0 +1,29 @@
+{
+  "id": "kodak-star-1035z",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Star 1035Z",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1993 年发布",
+  "description": "The Kodak Star 1035Z was introduced 1993, discontinued 1995, with a list price of US$199.95.[http://www.brownie-camera.com/kodakcam.shtml Kodak Cameras at The Brownie Camera Page] It takes the ever popular 35mm film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Star 1035Z"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Star 1035Z",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Star%201035Z"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

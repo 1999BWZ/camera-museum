@@ -1,0 +1,29 @@
+{
+  "id": "seneca-improved-seneca-view",
+  "brand": "Seneca",
+  "brand_cn": "",
+  "brand_slug": "seneca",
+  "country": "待补充",
+  "manufacturer": "Seneca",
+  "model": "Improved Seneca View",
+  "year": 1904,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seneca大画幅相机，1904 年发布",
+  "description": "The Improved Seneca View is a large format view camera, made by Seneca from 1904-25.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Improved Seneca View"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Improved Seneca View",
+      "url": "https://camera-wiki.org/wiki/Improved%20Seneca%20View"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

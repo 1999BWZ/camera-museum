@@ -1,0 +1,29 @@
+{
+  "id": "lumi-re-lumirex",
+  "brand": "Lumière",
+  "brand_cn": "",
+  "brand_slug": "lumi-re",
+  "country": "法国",
+  "manufacturer": "Lumière",
+  "model": "Lumirex",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lumière折叠相机，1934 年发布",
+  "description": "The Lumirex is a French camera made by Lumière, both before and after WWII.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lumirex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lumirex",
+      "url": "https://camera-wiki.org/wiki/Lumirex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

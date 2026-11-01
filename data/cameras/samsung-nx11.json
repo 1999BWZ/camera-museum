@@ -1,0 +1,29 @@
+{
+  "id": "samsung-nx11",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "Samsung",
+  "model": "NX11",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星数码相机，2010 年发布",
+  "description": "The Samsung NX11 was introduced in late 2010 as a very minor revision to the NX10, with which Samsung had introduced their mirrorless NX system of digital cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samsung NX11"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samsung NX11",
+      "url": "https://camera-wiki.org/wiki/Samsung%20NX11"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

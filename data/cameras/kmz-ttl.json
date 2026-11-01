@@ -1,0 +1,29 @@
+{
+  "id": "kmz-ttl",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "TTL",
+  "year": 1976,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ数码单反相机，1976 年发布",
+  "description": "The Zenit TTL is a Russian 35mm SLR produced by KMZ (Kraznogorsk) and BeLOMO from around 1977 to 1985.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit TTL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit TTL",
+      "url": "https://camera-wiki.org/wiki/Zenit%20TTL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

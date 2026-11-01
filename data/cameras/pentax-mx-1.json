@@ -1,0 +1,37 @@
+{
+  "id": "pentax-mx-1",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MX-1",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2013 年发布",
+  "description": "The MX-1 is a digital camera produced by Pentax Ricoh Imaging in 2013.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MX-1"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm6.staticflickr.com/5512/9851791193_f967f7be7b.jpg",
+      "caption": "MX-1",
+      "source": "Flickr（Makoto Satsukawa）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/masatsu/9851791193/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MX-1",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MX-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

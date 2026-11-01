@@ -1,0 +1,29 @@
+{
+  "id": "honor-sl",
+  "brand": "Honor",
+  "brand_cn": "",
+  "brand_slug": "honor",
+  "country": "待补充",
+  "manufacturer": "Honor",
+  "model": "SL",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Honor旁轴相机，1959 年发布",
+  "description": "The Honor SL (オーナーSL) is a Japanese 35mm rangefinder camera taking Leica screw mount lenses, made from 1959 by Zuihō Kōgaku.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Honor SL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Honor SL",
+      "url": "https://camera-wiki.org/wiki/Honor%20SL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

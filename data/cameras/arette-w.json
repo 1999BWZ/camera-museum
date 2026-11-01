@@ -1,0 +1,29 @@
+{
+  "id": "arette-w",
+  "brand": "Arette",
+  "brand_cn": "",
+  "brand_slug": "arette",
+  "country": "待补充",
+  "manufacturer": "Arette",
+  "model": "W",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arette取景器相机，1959 年发布",
+  "description": "The Arette W was made by Apparate & Kamerabau c.1959 and was one of the Arette series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Arette W"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Arette W",
+      "url": "https://camera-wiki.org/wiki/Arette%20W"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

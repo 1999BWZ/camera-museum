@@ -1,0 +1,29 @@
+{
+  "id": "dresden-altissa-nr-200",
+  "brand": "Dresden",
+  "brand_cn": "",
+  "brand_slug": "dresden",
+  "country": "待补充",
+  "manufacturer": "Dresden",
+  "model": "Altissa Nr. 200",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dresden盒式相机，1935 年发布",
+  "description": "The first of the pretty 6x6 box cameras for 120 film made by Eho-Altissa was this Altissa Nr.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Altissa Nr. 200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Altissa Nr. 200",
+      "url": "https://camera-wiki.org/wiki/Altissa%20Nr.%20200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

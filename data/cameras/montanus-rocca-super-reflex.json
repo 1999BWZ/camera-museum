@@ -1,0 +1,29 @@
+{
+  "id": "montanus-rocca-super-reflex",
+  "brand": "Montanus",
+  "brand_cn": "",
+  "brand_slug": "montanus",
+  "country": "待补充",
+  "manufacturer": "Montanus",
+  "model": "Rocca Super Reflex",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Montanus胶片相机，1955 年发布",
+  "description": "The Rocca Super Reflex is a 1955 German TLR produced by Montanus Kamerafabrik in Solingen, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rocca Super Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rocca Super Reflex",
+      "url": "https://camera-wiki.org/wiki/Rocca%20Super%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

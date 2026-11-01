@@ -1,0 +1,29 @@
+{
+  "id": "kochmann-korelle-strut-folding-cameras",
+  "brand": "Kochmann",
+  "brand_cn": "",
+  "brand_slug": "kochmann",
+  "country": "待补充",
+  "manufacturer": "Kochmann",
+  "model": "Korelle strut-folding cameras",
+  "year": 1931,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kochmann折叠相机，1931 年发布",
+  "description": "This page is about Korelle strut-folding cameras in 4×6.5cm, 4.5×6cm and 6×6cm formats.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Korelle strut-folding cameras"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Korelle strut-folding cameras",
+      "url": "https://camera-wiki.org/wiki/Korelle%20strut-folding%20cameras"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

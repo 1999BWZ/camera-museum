@@ -1,0 +1,29 @@
+{
+  "id": "konica-special-pearlette",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Special Pearlette",
+  "year": 1929,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡折叠相机，1929 年发布",
+  "description": "The Special Pearlette is a Japanese folding camera taking 4×6.5cm exposures on 127 film, made by Konishiroku (predecessor of Konica) in 1929.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Special Pearlette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Special Pearlette",
+      "url": "https://camera-wiki.org/wiki/Special%20Pearlette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

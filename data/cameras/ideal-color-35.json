@@ -1,0 +1,29 @@
+{
+  "id": "ideal-color-35",
+  "brand": "Ideal",
+  "brand_cn": "",
+  "brand_slug": "ideal",
+  "country": "西班牙",
+  "manufacturer": "Ideal",
+  "model": "Color 35",
+  "year": 1956,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ideal取景器相机，1956 年发布",
+  "description": "The Ideal Color 35 was made since ca.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ideal Color 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ideal Color 35",
+      "url": "https://camera-wiki.org/wiki/Ideal%20Color%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "super-zuman-super-16",
+  "brand": "Super",
+  "brand_cn": "",
+  "brand_slug": "super",
+  "country": "待补充",
+  "manufacturer": "Super",
+  "model": "Zuman Super 16",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Super微型相机，1951 年发布",
+  "description": "The Zuman Super 16 (ズマンスーパー16) is a Japanese subminiature camera, briefly advertised in 1951–2 by Zuman Kōki Kenkyūjo, later Zuman Kōki Seisakusho.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zuman Super 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zuman Super 16",
+      "url": "https://camera-wiki.org/wiki/Zuman%20Super%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

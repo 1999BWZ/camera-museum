@@ -1,0 +1,29 @@
+{
+  "id": "ilford-sportsmaster",
+  "brand": "Ilford",
+  "brand_cn": "",
+  "brand_slug": "ilford",
+  "country": "待补充",
+  "manufacturer": "Ilford",
+  "model": "Sportsmaster",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ilford取景器相机，1961 年发布",
+  "description": "The Ilford Sportsmaster was a Dacora-Matic 4D, rebadged by Ilford for sale in Britain.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ilford Sportsmaster"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ilford Sportsmaster",
+      "url": "https://camera-wiki.org/wiki/Ilford%20Sportsmaster"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

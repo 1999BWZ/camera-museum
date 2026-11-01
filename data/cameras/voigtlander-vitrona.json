@@ -1,0 +1,29 @@
+{
+  "id": "voigtlander-vitrona",
+  "brand": "Voigtländer",
+  "brand_cn": "福伦达",
+  "brand_slug": "voigtlander",
+  "country": "德国",
+  "manufacturer": "Voigtländer",
+  "model": "Vitrona",
+  "year": 1964,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "福伦达取景器相机，1964 年发布",
+  "description": "The Vitrona is 35mm viewfinder camera introduced c.1964 by Voigtländer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Voigtländer Vitrona"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Voigtländer Vitrona",
+      "url": "https://camera-wiki.org/wiki/Voigtl%C3%A4nder%20Vitrona"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

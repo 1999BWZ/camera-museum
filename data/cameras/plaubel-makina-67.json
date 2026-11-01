@@ -1,0 +1,29 @@
+{
+  "id": "plaubel-makina-67",
+  "brand": "Plaubel",
+  "brand_cn": "",
+  "brand_slug": "plaubel",
+  "country": "待补充",
+  "manufacturer": "Plaubel",
+  "model": "Makina 67",
+  "year": 1979,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Plaubel旁轴相机，1979 年发布",
+  "description": "The Makina 67 is a 6&times;7 strut folding camera with a coupled rangefinder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Makina 67"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Makina 67",
+      "url": "https://camera-wiki.org/wiki/Makina%2067"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

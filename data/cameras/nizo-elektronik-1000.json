@@ -1,0 +1,29 @@
+{
+  "id": "nizo-elektronik-1000",
+  "brand": "Nizo",
+  "brand_cn": "",
+  "brand_slug": "nizo",
+  "country": "待补充",
+  "manufacturer": "Nizo",
+  "model": "Elektronik 1000",
+  "year": 1968,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nizo取景器相机，1968 年发布",
+  "description": "The Nizo Elektronik 1000 is a viewfinder camera for type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nizo Elektronik 1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nizo Elektronik 1000",
+      "url": "https://camera-wiki.org/wiki/Nizo%20Elektronik%201000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

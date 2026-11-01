@@ -1,0 +1,29 @@
+{
+  "id": "kodak-kb28",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "KB28",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，2000 年发布",
+  "description": "The Kodak KB28 is a fixed-focus 35mm film camera from 2000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak KB28"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak KB28",
+      "url": "https://camera-wiki.org/wiki/Kodak%20KB28"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

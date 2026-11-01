@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-kine-and-varex-series",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Kine and Varex Series",
+  "year": 1954,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee胶片单反相机，1954 年发布",
+  "description": "The Exakta camera was one of the pioneers in creating the SLR as we know it today.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Exakta Kine and Varex Series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Exakta Kine and Varex Series",
+      "url": "https://camera-wiki.org/wiki/Exakta%20Kine%20and%20Varex%20Series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

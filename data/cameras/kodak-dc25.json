@@ -1,0 +1,29 @@
+{
+  "id": "kodak-dc25",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "DC25",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码相机，1996 年发布",
+  "description": "The DC25 is a early digital camera released by Kodak in 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak DC25"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak DC25",
+      "url": "https://camera-wiki.org/wiki/Kodak%20DC25"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "canon-powershot-zoom",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Powershot Zoom",
+  "year": 2020,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，2020 年发布",
+  "description": "The Powershot Zoom is a monocular; a short telescope; with a built-in digital camera for stills or video, made by Canon from 2020.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Powershot Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Powershot Zoom",
+      "url": "https://camera-wiki.org/wiki/Canon%20Powershot%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "usc-vagabond-120",
+  "brand": "USC",
+  "brand_cn": "",
+  "brand_slug": "usc",
+  "country": "美国",
+  "manufacturer": "USC",
+  "model": "Vagabond 120",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "USC盒式相机，1951 年发布",
+  "description": "This camera is the United States Camera name variant of the otherwise identical Pho-Tak Traveler 120.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vagabond 120"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vagabond 120",
+      "url": "https://camera-wiki.org/wiki/Vagabond%20120"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

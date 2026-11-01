@@ -1,0 +1,29 @@
+{
+  "id": "press-van-120",
+  "brand": "Press",
+  "brand_cn": "",
+  "brand_slug": "press",
+  "country": "待补充",
+  "manufacturer": "Press",
+  "model": "Van-120",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Press旁轴相机，1954 年发布",
+  "description": "The Press Van-120 strut-folding camera was manufactured by Suzuki Kōgaku Kōgyō K.K.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Press Van-120"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Press Van-120",
+      "url": "https://camera-wiki.org/wiki/Press%20Van-120"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

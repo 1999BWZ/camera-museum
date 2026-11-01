@@ -1,0 +1,29 @@
+{
+  "id": "rollei-nano-60-nano-80",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "Nano 60 / Nano 80",
+  "year": 1999,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1999 年发布",
+  "description": "These compact autofocus cameras made in Japan for Rollei use APS film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei Nano 60 / Nano 80"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei Nano 60 / Nano 80",
+      "url": "https://camera-wiki.org/wiki/Rollei%20Nano%2060%20/%20Nano%2080"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

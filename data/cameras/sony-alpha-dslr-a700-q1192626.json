@@ -1,0 +1,40 @@
+{
+  "id": "sony-alpha-dslr-a700-q1192626",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "ALPHA DSLR-A700",
+  "year": 2007,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码单反相机，2007 年发布",
+  "description": "索尼于2007年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1192626",
+    "多语言词条数": "11"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony-Alpha-A700-Front%20edit.jpg?width=800",
+      "caption": "ALPHA DSLR-A700",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1192626"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 索尼ALPHA DSLR-A700",
+      "url": "https://www.wikidata.org/wiki/Q1192626"
+    }
+  ],
+  "qid": "Q1192626",
+  "sitelinks": 11,
+  "imported": "wikidata-5k-2026-11-01"
+}

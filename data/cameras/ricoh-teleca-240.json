@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-teleca-240",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Teleca 240",
+  "year": 1971,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1971 年发布",
+  "description": "The Teleca 240 is a binocular half frame camera with fixed lens made in Japan by Ricoh from 1971.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Teleca 240"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Teleca 240",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Teleca%20240"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

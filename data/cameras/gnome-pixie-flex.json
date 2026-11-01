@@ -1,0 +1,29 @@
+{
+  "id": "gnome-pixie-flex",
+  "brand": "Gnome",
+  "brand_cn": "",
+  "brand_slug": "gnome",
+  "country": "英国",
+  "manufacturer": "Gnome",
+  "model": "Pixie Flex",
+  "year": 1951,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Gnome胶片相机，1951 年发布",
+  "description": "The Gnome Pixie Flex is a Pseudo TLR made in Cardiff, Wales, UK, by Gnome from 1951.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Gnome Pixie Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Gnome Pixie Flex",
+      "url": "https://camera-wiki.org/wiki/Gnome%20Pixie%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

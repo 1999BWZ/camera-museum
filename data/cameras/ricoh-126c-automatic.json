@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-126c-automatic",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "126C Automatic",
+  "year": 1966,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1966 年发布",
+  "description": "The Ricoh 126C Automatic is a viewfinder camera with fixed lens made in Japan by Ricoh produced from approximately 1966 to 1969.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh 126C Automatic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh 126C Automatic",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20126C%20Automatic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

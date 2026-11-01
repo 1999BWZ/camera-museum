@@ -1,0 +1,29 @@
+{
+  "id": "goerz-rollfilm-tenax",
+  "brand": "Goerz",
+  "brand_cn": "",
+  "brand_slug": "goerz",
+  "country": "待补充",
+  "manufacturer": "Goerz",
+  "model": "Rollfilm Tenax",
+  "year": 1920,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Goerz折叠相机，1920 年发布",
+  "description": "The Rollfilm Tenax (sometimes Roll-Tenax) is a series of folding bed cameras for roll film, made by Goerz in Berlin.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollfilm Tenax"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollfilm Tenax",
+      "url": "https://camera-wiki.org/wiki/Rollfilm%20Tenax"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

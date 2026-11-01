@@ -1,0 +1,29 @@
+{
+  "id": "pentacon-pentina",
+  "brand": "Pentacon",
+  "brand_cn": "",
+  "brand_slug": "pentacon",
+  "country": "待补充",
+  "manufacturer": "Pentacon",
+  "model": "Pentina",
+  "year": 1961,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pentacon数码单反相机，1961 年发布",
+  "description": "The Pentina is a quite unusual leaf-shutter SLR made by the East-German VEB Kamera- und Kinowerke Dresden between 1961 and 1965 Comprehensive [https://www.dresdner-kameras.de/pentina/pentina.html Pentina article] on [https://www.dresdner-kameras.de www.dresdner-kameras.de] (in German).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentina"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentina",
+      "url": "https://camera-wiki.org/wiki/Pentina"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

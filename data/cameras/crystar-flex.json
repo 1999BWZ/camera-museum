@@ -1,0 +1,29 @@
+{
+  "id": "crystar-flex",
+  "brand": "Crystar",
+  "brand_cn": "",
+  "brand_slug": "crystar",
+  "country": "待补充",
+  "manufacturer": "Crystar",
+  "model": "Flex",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Crystar胶片相机，1953 年发布",
+  "description": "The Crystar Flex (クリスターフレックス) is a moderate-priced Japanese TLR using a geared coupling between the focusing and taking lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Crystar Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Crystar Flex",
+      "url": "https://camera-wiki.org/wiki/Crystar%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

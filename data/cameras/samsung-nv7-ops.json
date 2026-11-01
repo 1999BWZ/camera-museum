@@ -1,0 +1,29 @@
+{
+  "id": "samsung-nv7-ops",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "Samsung",
+  "model": "NV7 OPS",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星便携相机，2006 年发布",
+  "description": "The NV7 OPS is a digital point and shoot camera released under the NV series in 2006 by Samsung.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samsung NV7 OPS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samsung NV7 OPS",
+      "url": "https://camera-wiki.org/wiki/Samsung%20NV7%20OPS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

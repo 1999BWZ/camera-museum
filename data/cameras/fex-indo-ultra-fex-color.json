@@ -1,0 +1,29 @@
+{
+  "id": "fex-indo-ultra-fex-color",
+  "brand": "Fex Indo",
+  "brand_cn": "",
+  "brand_slug": "fex-indo",
+  "country": "法国",
+  "manufacturer": "Fex Indo",
+  "model": "Ultra-Fex color",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fex Indo取景器相机，1960 年发布",
+  "description": "The Ultra-Fex Color is a medium format viewfinder camera produced by the French company Fex Indo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ultra-Fex color"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ultra-Fex color",
+      "url": "https://camera-wiki.org/wiki/Ultra-Fex%20color"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

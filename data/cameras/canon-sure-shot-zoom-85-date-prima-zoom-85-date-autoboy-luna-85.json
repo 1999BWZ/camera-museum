@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-zoom-85-date-prima-zoom-85-date-autoboy-luna-85",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot Zoom 85 Date/Prima Zoom 85 Date/Autoboy Luna 85",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1998 年发布",
+  "description": "The Canon Sure Shot Zoom 85 Date (Euro: Prima Zoom 85 Date, Japan: Autoboy Luna 85) was a September 1998 model from Canon's very successful Sure Shot range.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot Zoom 85 Date/Prima Zoom 85 Date/Autoboy Luna 85"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot Zoom 85 Date/Prima Zoom 85 Date/Autoboy Luna 85",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20Zoom%2085%20Date/Prima%20Zoom%2085%20Date/Autoboy%20Luna%2085"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

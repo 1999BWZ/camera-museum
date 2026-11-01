@@ -1,0 +1,29 @@
+{
+  "id": "minolta-af50-big-finder",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "AF50 Big Finder",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1997 年发布",
+  "description": "The Minolta AF50 Big Finder is a point-and-shoot camera for 35mm film, made by (or for) Minolta in 1997.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta AF50 Big Finder"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta AF50 Big Finder",
+      "url": "https://camera-wiki.org/wiki/Minolta%20AF50%20Big%20Finder"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

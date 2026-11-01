@@ -1,0 +1,29 @@
+{
+  "id": "monorail-cameras-peco-profia-13x18",
+  "brand": "Monorail cameras",
+  "brand_cn": "",
+  "brand_slug": "monorail-cameras",
+  "country": "待补充",
+  "manufacturer": "Monorail cameras",
+  "model": "Peco Profia 13x18",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Monorail cameras胶片相机，1968 年发布",
+  "description": "The Peco Profia 13x18 is a 13 x 18 cm / 5 x 7\" Monorail camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Plaubel Peco Profia 13x18"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Plaubel Peco Profia 13x18",
+      "url": "https://camera-wiki.org/wiki/Plaubel%20Peco%20Profia%2013x18"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

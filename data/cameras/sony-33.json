@@ -1,0 +1,29 @@
+{
+  "id": "sony-33",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "α33",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2010 年发布",
+  "description": "The Sony α33 (SLT-A33) was introduced in 2010 together with the Sony α55.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony α33"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony α33",
+      "url": "https://camera-wiki.org/wiki/Sony%20%CE%B133"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

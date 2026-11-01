@@ -1,0 +1,29 @@
+{
+  "id": "leica-iic",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "IIc",
+  "year": 1948,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，1948 年发布",
+  "description": "The Leica IIc has the same camera body as the Leica IIIc but without the slow shutter speeds.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica IIc"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica IIc",
+      "url": "https://camera-wiki.org/wiki/Leica%20IIc"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "toyo-field-45aii",
+  "brand": "Toyo",
+  "brand_cn": "",
+  "brand_slug": "toyo",
+  "country": "待补充",
+  "manufacturer": "Toyo",
+  "model": "Field 45AII",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Toyo折叠相机，1994 年发布",
+  "description": "The Toyo View 45AII is a large format 4x5\" view camera produced by the Japanese company Sakai Special Camera Manufacturing.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Toyo Field 45AII"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Toyo Field 45AII",
+      "url": "https://camera-wiki.org/wiki/Toyo%20Field%2045AII"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

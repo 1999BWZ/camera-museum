@@ -1,0 +1,29 @@
+{
+  "id": "fuji-dl-160-tele",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "DL-160 Tele",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片相机，1988 年发布",
+  "description": "The DL-160 Tele (Discovery 160 Tele in the USA) is a twin focal length compact autofocus camera from Fuji released in 1988.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji DL-160 Tele"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji DL-160 Tele",
+      "url": "https://camera-wiki.org/wiki/Fuji%20DL-160%20Tele"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

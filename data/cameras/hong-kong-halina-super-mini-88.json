@@ -1,0 +1,29 @@
+{
+  "id": "hong-kong-halina-super-mini-88",
+  "brand": "Hong Kong",
+  "brand_cn": "",
+  "brand_slug": "hong-kong",
+  "country": "待补充",
+  "manufacturer": "Hong Kong",
+  "model": "Halina Super-Mini 88",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hong Kong胶片相机，1982 年发布",
+  "description": "{|align=right\n|-\n||\n\n|-\n||\n\n|-\n||\n\n|}\n\nThe Halina Super-Mini 88 is an ultra-compact viewfinder cameras for type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Halina Super-Mini 88"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Halina Super-Mini 88",
+      "url": "https://camera-wiki.org/wiki/Halina%20Super-Mini%2088"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

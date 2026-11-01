@@ -1,0 +1,29 @@
+{
+  "id": "pinhole-obscura-pinhole",
+  "brand": "Pinhole",
+  "brand_cn": "",
+  "brand_slug": "pinhole",
+  "country": "英国",
+  "manufacturer": "Pinhole",
+  "model": "Obscura Pinhole",
+  "year": 2013,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pinhole胶片相机，2013 年发布",
+  "description": "The Obscura Pinhole camera is a PVC-bodied box-shaped pinhole camera for 4x5 sheet film or paper, made by Harman Technology since June 2013.[https://www.ephotozine.com/article/ilford-launch-obscura-pinhole-camera-22033 Ilford launch Obscura Pinhole Camera] at [https://www.ephotozine.com/ Ephotozine]",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Obscura Pinhole"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Obscura Pinhole",
+      "url": "https://camera-wiki.org/wiki/Obscura%20Pinhole"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

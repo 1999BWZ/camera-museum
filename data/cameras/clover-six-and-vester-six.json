@@ -1,0 +1,29 @@
+{
+  "id": "clover-six-and-vester-six",
+  "brand": "Clover-Six",
+  "brand_cn": "",
+  "brand_slug": "clover-six",
+  "country": "待补充",
+  "manufacturer": "Clover-Six",
+  "model": "and Vester-Six",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Clover-Six折叠相机，1937 年发布",
+  "description": "The Clover-Six (クロバーシックス) and Vester-Six (ベスターシックス) are Japanese 6×6 folding cameras, made from 1937 to 1944.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Clover-Six and Vester-Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Clover-Six and Vester-Six",
+      "url": "https://camera-wiki.org/wiki/Clover-Six%20and%20Vester-Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

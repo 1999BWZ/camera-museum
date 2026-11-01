@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-3-5-series",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex 3.5 series",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1949 年发布",
+  "description": "Soon after the end of WWII Franke & Heidecke started further improvements of their hugely succesfull 6x6 Automat series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex 3.5 series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex 3.5 series",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%203.5%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

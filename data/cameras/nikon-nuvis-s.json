@@ -1,0 +1,29 @@
+{
+  "id": "nikon-nuvis-s",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Nuvis S",
+  "year": 1998,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，1998 年发布",
+  "description": "The Nikon Nuvis S is an APS film compact zoom camera with a unique design.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Nuvis S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Nuvis S",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Nuvis%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

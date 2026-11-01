@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-dl-312-zoom",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "DL-312 Zoom",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士便携相机，1998 年发布",
+  "description": "The Fujifilm DL-312 Zoom is a modern 35mm film compact camera from 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm DL-312 Zoom ( DL-312 Zoom Date / Discovery 312 Zoom / Discovery 312 Zoom Date )"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm DL-312 Zoom ( DL-312 Zoom Date / Discovery 312 Zoom / Discovery 312 Zoom Date )",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20DL-312%20Zoom%20%28%20DL-312%20Zoom%20Date%20/%20Discovery%20312%20Zoom%20/%20Discovery%20312%20Zoom%20Date%20%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

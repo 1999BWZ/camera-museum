@@ -1,0 +1,29 @@
+{
+  "id": "okada-daiichi-walz",
+  "brand": "Okada/Daiichi",
+  "brand_cn": "",
+  "brand_slug": "okada-daiichi",
+  "country": "待补充",
+  "manufacturer": "Okada/Daiichi",
+  "model": "Walz",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Okada/Daiichi折叠相机，1936 年发布",
+  "description": "The Walz (ワルツ) This camera is called \"Walz Baby\" in , item 1262, and , p.745, but it is simply called \"Walz\" in the two advertisements observed.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Walz (3×4)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Walz (3×4)",
+      "url": "https://camera-wiki.org/wiki/Walz%20%283%C3%974%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

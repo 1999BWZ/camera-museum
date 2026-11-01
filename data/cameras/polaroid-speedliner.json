@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-speedliner",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Speedliner",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1954 年发布",
+  "description": "The Land Camera Model 95A of 1954 and the 95B of 1957 were part of Polaroid's original series of folding cameras, using instant film in rolls.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Speedliner"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Speedliner",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Speedliner"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gomz-junost",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "待补充",
+  "manufacturer": "GOMZ",
+  "model": "Junost",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ旁轴相机，1957 年发布",
+  "description": "The Junost (Юность; 'Youth') is a 35 mm coupled rangefinder camera, made in the Soviet Union by GOMZ (which became LOMO) from 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Junost"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Junost",
+      "url": "https://camera-wiki.org/wiki/Junost"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

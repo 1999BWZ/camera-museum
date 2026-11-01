@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-lumix-dmc-gf5",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "Lumix DMC-GF5",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2012 年发布",
+  "description": "The Lumix DMC-GF5 is a Micro Four Thirds sensor camera released by Panasonic in 2012.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic Lumix DMC-GF5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic Lumix DMC-GF5",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20Lumix%20DMC-GF5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

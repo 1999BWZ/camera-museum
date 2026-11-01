@@ -1,0 +1,29 @@
+{
+  "id": "zenix-110",
+  "brand": "Zenix",
+  "brand_cn": "",
+  "brand_slug": "zenix",
+  "country": "待补充",
+  "manufacturer": "Zenix",
+  "model": "110",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zenix胶片相机，1977 年发布",
+  "description": "The Zenix 110 Camera is one of the few cameras for 110 film cassettes with a zoom lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenix 110"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenix 110",
+      "url": "https://camera-wiki.org/wiki/Zenix%20110"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

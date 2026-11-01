@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-flex-dia-l-diacord-l",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "flex Dia L - Diacord L",
+  "year": 1957,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1957 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Ricohflex Dia L is a 6x6 TLR camera made in Japan by Ricoh from 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricohflex Dia L - Diacord L"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricohflex Dia L - Diacord L",
+      "url": "https://camera-wiki.org/wiki/Ricohflex%20Dia%20L%20-%20Diacord%20L"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

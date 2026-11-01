@@ -1,0 +1,29 @@
+{
+  "id": "canon-powershot-s40",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "PowerShot S40",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，2001 年发布",
+  "description": "The PowerShot S40 is a compact 4MP digital camera which was introduced by Canon in 2001.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon PowerShot S40"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon PowerShot S40",
+      "url": "https://camera-wiki.org/wiki/Canon%20PowerShot%20S40"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

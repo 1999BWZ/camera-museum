@@ -1,0 +1,29 @@
+{
+  "id": "contax-s2-s2b",
+  "brand": "Contax",
+  "brand_cn": "康泰时",
+  "brand_slug": "contax",
+  "country": "德国",
+  "manufacturer": "Contax",
+  "model": "S2 / S2b",
+  "year": 1992,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "康泰时数码单反相机，1992 年发布",
+  "description": "The Contax S2 was originally introduced in October 1992 to commemorate the 60th anniversary of Contax cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contax S2 / S2b"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contax S2 / S2b",
+      "url": "https://camera-wiki.org/wiki/Contax%20S2%20/%20S2b"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

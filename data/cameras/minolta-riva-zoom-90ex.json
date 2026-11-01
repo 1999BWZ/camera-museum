@@ -1,0 +1,29 @@
+{
+  "id": "minolta-riva-zoom-90ex",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Riva Zoom 90EX",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1993 年发布",
+  "description": "The Riva Zoom 90EX is a 35mm autofocus compact zoom camera produced by Minolta in c.1993[https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBPERS01:003281016:mpeg21:p00005 Foka advertisement in Dutch newspaper \"Algemeen Dagblad\", June 18 1993].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Riva Zoom 90EX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Riva Zoom 90EX",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Riva%20Zoom%2090EX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

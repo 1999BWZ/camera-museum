@@ -1,0 +1,29 @@
+{
+  "id": "pinhole-p-sharan-sq-35",
+  "brand": "Pinhole",
+  "brand_cn": "",
+  "brand_slug": "pinhole",
+  "country": "日本",
+  "manufacturer": "Pinhole",
+  "model": "P-Sharan SQ-35",
+  "year": 2009,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pinhole胶片单反相机，2009 年发布",
+  "description": "The P-Sharan SQ-35 is a very simple 35mm wide angle camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "P-Sharan SQ-35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – P-Sharan SQ-35",
+      "url": "https://camera-wiki.org/wiki/P-Sharan%20SQ-35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

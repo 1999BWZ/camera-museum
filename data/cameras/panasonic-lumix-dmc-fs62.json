@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-lumix-dmc-fs62",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "Lumix DMC-FS62",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2009 年发布",
+  "description": "The very compact Panasonic Lumix DMC-FS62 was sold since spring 2009.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic Lumix DMC-FS62"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic Lumix DMC-FS62",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20Lumix%20DMC-FS62"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

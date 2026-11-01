@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-golden-steky-and-ricoh-16",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Golden Steky and Ricoh 16",
+  "year": 1957,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1957 年发布",
+  "description": "The Golden Steky and Golden Ricoh 16 are 16mm film cameras made in Japan by Ricoh from 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Golden Steky and Ricoh 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Golden Steky and Ricoh 16",
+      "url": "https://camera-wiki.org/wiki/Golden%20Steky%20and%20Ricoh%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "view-cameras-twr-54",
+  "brand": "View cameras",
+  "brand_cn": "",
+  "brand_slug": "view-cameras",
+  "country": "待补充",
+  "manufacturer": "View cameras",
+  "model": "TWR 54",
+  "year": 1972,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "View cameras双镜头反光相机，1972 年发布",
+  "description": "The TWR 54 is a view camera for 4x5-inch film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cambo TWR 54"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cambo TWR 54",
+      "url": "https://camera-wiki.org/wiki/Cambo%20TWR%2054"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

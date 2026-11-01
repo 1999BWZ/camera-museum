@@ -1,0 +1,29 @@
+{
+  "id": "yashica-zoomtec-70",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Zoomtec 70",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡便携相机，1993 年发布",
+  "description": "The Yashica Zoomtec 70 is a 35mm film autofocus compact camera manufactured by Kyocera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Zoomtec 70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Zoomtec 70",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Zoomtec%2070"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

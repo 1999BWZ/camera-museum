@@ -1,0 +1,37 @@
+{
+  "id": "sports-vena-sport-box",
+  "brand": "Sports",
+  "brand_cn": "",
+  "brand_slug": "sports",
+  "country": "荷兰",
+  "manufacturer": "Sports",
+  "model": "Vena Sport-Box",
+  "year": 1949,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sports盒式相机，1949 年发布",
+  "description": "The Vena Sport-Box camera was made in Amsterdam, Netherlands around 1949.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vena Sport-Box"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm4.staticflickr.com/3832/11098025023_37bc03bbf9.jpg",
+      "caption": "Vena Sport-Box",
+      "source": "Flickr（）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/90900361@N08/11098025023/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vena Sport-Box",
+      "url": "https://camera-wiki.org/wiki/Vena%20Sport-Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

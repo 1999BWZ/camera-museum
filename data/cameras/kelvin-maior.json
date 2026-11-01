@@ -1,0 +1,29 @@
+{
+  "id": "kelvin-maior",
+  "brand": "Kelvin",
+  "brand_cn": "",
+  "brand_slug": "kelvin",
+  "country": "意大利",
+  "manufacturer": "Kelvin",
+  "model": "Maior",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kelvin取景器相机，1952 年发布",
+  "description": "Kelvin Maior is a fairly simple 35mm cast-metal viewfinder camera made by S.E.D.E.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kelvin Maior"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kelvin Maior",
+      "url": "https://camera-wiki.org/wiki/Kelvin%20Maior"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

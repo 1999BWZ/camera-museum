@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-land-model-450",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Land Model 450",
+  "year": 1971,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1971 年发布",
+  "description": "The Polaroid Automatic 450 Land Camera was a later entry in the Polaroid 100-400 series of cameras for peel-apart pack film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Land Model 450"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Land Model 450",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Land%20Model%20450"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

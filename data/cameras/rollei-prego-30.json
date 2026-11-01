@@ -1,0 +1,29 @@
+{
+  "id": "rollei-prego-30",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "Prego 30",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来取景器相机，2001 年发布",
+  "description": "The Prego 30 is a compact autofocus camera for 35 mm film, with a fixed 30 mm f/3.5 Apogon wide-angle lens (a triplet, according to the brief review by Popular Photography[http://www.popphoto.com/gear/2008/12/rollei-prego Rollei Prego], short review article at [http://www.popphoto.com Popular Photog",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei Prego 30"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei Prego 30",
+      "url": "https://camera-wiki.org/wiki/Rollei%20Prego%2030"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

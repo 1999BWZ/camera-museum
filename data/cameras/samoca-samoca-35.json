@@ -1,0 +1,29 @@
+{
+  "id": "samoca-samoca-35",
+  "brand": "Samoca",
+  "brand_cn": "",
+  "brand_slug": "samoca",
+  "country": "待补充",
+  "manufacturer": "Samoca",
+  "model": "Samoca 35",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Samoca旁轴相机，1956 年发布",
+  "description": "The Super Samoca 35 is a rangefinder camera for 35mm film, made in Japan by Sanei Sangyō K.K.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Samoca 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Samoca 35",
+      "url": "https://camera-wiki.org/wiki/Super%20Samoca%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

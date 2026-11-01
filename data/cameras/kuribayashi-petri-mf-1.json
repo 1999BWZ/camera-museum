@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-mf-1",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri MF-1",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi胶片单反相机，1977 年发布",
+  "description": "The MF-1 is a 35mm SLR from Petri released in 1977.McKeown states this is a renaming of an identical model named MF-T 1000 from 1976, which we have not found.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri MF-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri MF-1",
+      "url": "https://camera-wiki.org/wiki/Petri%20MF-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

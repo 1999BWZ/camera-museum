@@ -1,0 +1,29 @@
+{
+  "id": "belgium-gevabox",
+  "brand": "Belgium",
+  "brand_cn": "",
+  "brand_slug": "belgium",
+  "country": "印度",
+  "manufacturer": "Belgium",
+  "model": "Gevabox",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Belgium盒式相机，1950 年发布",
+  "description": "{|class=\"floatright plainlinks\"\n|-valign=bottom\n|\n\n|\n\n|-\n|\n\n|\n\n|}\nThere are (at least) three versions of the Gevabox:\n\n* A Bakelite-moulded version, very similar to the Adox 66, taking 6x6 images on 120 film; made c.1950 for Gevaert by Hermann Wolf GmbH, Wuppertal, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Gevabox"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Gevabox",
+      "url": "https://camera-wiki.org/wiki/Gevabox"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

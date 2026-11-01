@@ -1,0 +1,29 @@
+{
+  "id": "rittreck-6-6-and-norita-66",
+  "brand": "Rittreck",
+  "brand_cn": "",
+  "brand_slug": "rittreck",
+  "country": "待补充",
+  "manufacturer": "Rittreck",
+  "model": "6×6 and Norita 66",
+  "year": 1968,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rittreck数码单反相机，1968 年发布",
+  "description": "The Rittreck 6×6 was a Japanese 6×6cm SLR, made by Musashino Kōki and distributed by the associated trading company Rittreck Shōji from 1968.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rittreck 6×6 and Norita 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rittreck 6×6 and Norita 66",
+      "url": "https://camera-wiki.org/wiki/Rittreck%206%C3%976%20and%20Norita%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

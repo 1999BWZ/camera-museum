@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-serien-reflex",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Serien-Reflex",
+  "year": 1928,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee数码单反相机，1928 年发布",
+  "description": "The Serien-Reflex (series reflex) is a medium- to large-format plate SLR camera, made by Ihagee from about 1928.[http://www.ihagee.org/cat/IHGcat1928E.pdf English-language Ihagee catalogue, 1928] at [http://www.ihagee.org/ Ihagee.org].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ihagee Serien-Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ihagee Serien-Reflex",
+      "url": "https://camera-wiki.org/wiki/Ihagee%20Serien-Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

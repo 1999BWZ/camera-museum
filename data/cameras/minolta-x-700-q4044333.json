@@ -1,0 +1,40 @@
+{
+  "id": "minolta-x-700-q4044333",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "美能达",
+  "model": "X-700",
+  "year": 1981,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1981 年发布",
+  "description": "美能达于1981年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4044333",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minolta%20X700%2045degree.jpg?width=800",
+      "caption": "X-700",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4044333"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Minolta X-700",
+      "url": "https://www.wikidata.org/wiki/Q4044333"
+    }
+  ],
+  "qid": "Q4044333",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

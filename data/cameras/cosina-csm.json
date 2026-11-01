@@ -1,0 +1,29 @@
+{
+  "id": "cosina-csm",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "CSM",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina胶片单反相机，1972 年发布",
+  "description": "By the mid-1970s, the advantages of bayonet lens mounts with open-aperture metering were clear; and even Pentax had moved on from the M42 screw mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cosina CSM"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cosina CSM",
+      "url": "https://camera-wiki.org/wiki/Cosina%20CSM"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

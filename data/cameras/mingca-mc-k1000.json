@@ -1,0 +1,29 @@
+{
+  "id": "mingca-mc-k1000",
+  "brand": "Mingca",
+  "brand_cn": "",
+  "brand_slug": "mingca",
+  "country": "待补充",
+  "manufacturer": "Mingca",
+  "model": "MC K1000",
+  "year": 1991,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mingca数码单反相机，1991 年发布",
+  "description": "The Mingca MC K1000 is a K mount 35mm SLR manufactured in China.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mingca MC K1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mingca MC K1000",
+      "url": "https://camera-wiki.org/wiki/Mingca%20MC%20K1000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

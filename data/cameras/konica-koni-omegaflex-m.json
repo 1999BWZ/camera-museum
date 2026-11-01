@@ -1,0 +1,29 @@
+{
+  "id": "konica-koni-omegaflex-m",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Koni-Omegaflex M",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1968 年发布",
+  "description": "The Koni-Omegaflex M is a 6x7cm TLR press camera system with exchangeable lens board, finders and film magazines.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Koni-Omegaflex M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Koni-Omegaflex M",
+      "url": "https://camera-wiki.org/wiki/Koni-Omegaflex%20M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

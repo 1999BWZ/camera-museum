@@ -1,0 +1,29 @@
+{
+  "id": "praktica-bcx",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "BCX",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片单反相机，1983 年发布",
+  "description": "===specifications===\n* Type: SLR camera body\n* Manufacturer: Pentacon, Dresden (DDR, former East Germany)\n* Years of production: 1983-1990 \n* Film: 35mm with speeds 12 to 3200 ISO\n* Lens mount: Praktica bayonet with EDC (electronic diaphragm control)\n* Shutter: electronically controlled metal focal ",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica BCX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica BCX",
+      "url": "https://camera-wiki.org/wiki/Praktica%20BCX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

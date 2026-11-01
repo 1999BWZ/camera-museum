@@ -1,0 +1,29 @@
+{
+  "id": "nobility-lord-ivb",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Lord IVB",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility旁轴相机，1955 年发布",
+  "description": "The Lord IVB is a 35mm rangefinder introduced in 1955 by Okaya Optical Works of Nagano, Japan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lord IVB"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lord IVB",
+      "url": "https://camera-wiki.org/wiki/Lord%20IVB"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nikon-tw20",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "TW20",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，1989 年发布",
+  "description": "The Nikon TW20 (or Tele•Touch 300 in America) is a compact auto focus camera released by Nikon in 1989.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon TW20"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon TW20",
+      "url": "https://camera-wiki.org/wiki/Nikon%20TW20"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

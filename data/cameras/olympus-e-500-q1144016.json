@@ -1,0 +1,40 @@
+{
+  "id": "olympus-e-500-q1144016",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-500",
+  "year": 2005,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，2005 年发布",
+  "description": "奥林巴斯于2005年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1144016",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/E-500%20camera.JPG?width=800",
+      "caption": "E-500",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1144016"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 奥林巴斯E-500",
+      "url": "https://www.wikidata.org/wiki/Q1144016"
+    }
+  ],
+  "qid": "Q1144016",
+  "sitelinks": 10,
+  "imported": "wikidata-5k-2026-11-01"
+}

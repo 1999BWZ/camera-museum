@@ -1,0 +1,29 @@
+{
+  "id": "yashica-aw-mini",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "AW-mini",
+  "year": 1990,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片相机，1990 年发布",
+  "description": "The Yashica AW-mini (or Kyocera Season in Japan) is a compact autocus camera, made by Kyocera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica AW-mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica AW-mini",
+      "url": "https://camera-wiki.org/wiki/Yashica%20AW-mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

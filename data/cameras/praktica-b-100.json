@@ -1,0 +1,29 @@
+{
+  "id": "praktica-b-100",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "B 100",
+  "year": 1981,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片单反相机，1981 年发布",
+  "description": "The Praktica B 100 electronic is a 35mm SLR camera released by Praktica in 1981 in their B series of cameras p.777..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica B 100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica B 100",
+      "url": "https://camera-wiki.org/wiki/Praktica%20B%20100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

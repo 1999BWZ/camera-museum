@@ -1,0 +1,37 @@
+{
+  "id": "coronet-rapide",
+  "brand": "Coronet",
+  "brand_cn": "",
+  "brand_slug": "coronet",
+  "country": "英国",
+  "manufacturer": "Coronet",
+  "model": "Rapide",
+  "year": 1940,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Coronet折叠相机，1940 年发布",
+  "description": "Coronet Rapide is a folding 120 film camera model of Coronet Co., Birmingham, England.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Coronet Rapide"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm3.staticflickr.com/2574/3855948321_fbbe23e460.jpg",
+      "caption": "Rapide",
+      "source": "Flickr（John Nuttall）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/16822508@N05/3855948321/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Coronet Rapide",
+      "url": "https://camera-wiki.org/wiki/Coronet%20Rapide"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

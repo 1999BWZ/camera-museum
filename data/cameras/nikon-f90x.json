@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f90x",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F90X",
+  "year": 1994,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1994 年发布",
+  "description": "The Nikon F90x is a 35mm autofocus SLR using Nikon's F lens mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F90X (N90S)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F90X (N90S)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F90X%20%28N90S%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

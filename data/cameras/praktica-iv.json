@@ -1,0 +1,29 @@
+{
+  "id": "praktica-iv",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "IV",
+  "year": 1959,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康数码单反相机，1959 年发布",
+  "description": "{|class=floatright\n||\n|-\n||\n\n|}\n__NOTOC__\nThe Praktica IV is a fixed pentaprism 35mm SLR with M42 thread mount introduced by KW in 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica IV"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica IV",
+      "url": "https://camera-wiki.org/wiki/Praktica%20IV"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

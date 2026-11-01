@@ -1,0 +1,29 @@
+{
+  "id": "olympus-i-zoom-2000",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "i Zoom 2000",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，2000 年发布",
+  "description": "Olympus called this the Ultra Compact Zoom, which it actually is with it's size of 90x60x30mm and weight of just 125grs.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus i Zoom 2000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus i Zoom 2000",
+      "url": "https://camera-wiki.org/wiki/Olympus%20i%20Zoom%202000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

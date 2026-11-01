@@ -1,0 +1,29 @@
+{
+  "id": "barn-door-vitessa",
+  "brand": "Barn door",
+  "brand_cn": "",
+  "brand_slug": "barn-door",
+  "country": "待补充",
+  "manufacturer": "Barn door",
+  "model": "Vitessa",
+  "year": 1950,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Barn door旁轴相机，1950 年发布",
+  "description": "The Vitessa is an innovative 35mm folding rangefinder camera made by Voigtländer in the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vitessa"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vitessa",
+      "url": "https://camera-wiki.org/wiki/Vitessa"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

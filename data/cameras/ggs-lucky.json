@@ -1,0 +1,29 @@
+{
+  "id": "ggs-lucky",
+  "brand": "GGS",
+  "brand_cn": "",
+  "brand_slug": "ggs",
+  "country": "意大利",
+  "manufacturer": "GGS",
+  "model": "Lucky",
+  "year": 1946,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GGS取景器相机，1946 年发布",
+  "description": "The Lucky is a viewfinder camera made in about 1946According to Dario Mondonico, cited below, who states that GGS came to be as Italian companies in military production sought civilian activities after the War, and that the Lucky was shown at a Milan trade fair in 1946.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "GGS Lucky"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – GGS Lucky",
+      "url": "https://camera-wiki.org/wiki/GGS%20Lucky"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

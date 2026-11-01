@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-500-rf",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "500 RF",
+  "year": 1982,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光旁轴相机，1982 年发布",
+  "description": "A fixed-lens, 35mm rangefinder camera made by Ricoh from the 1980s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh 500 RF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh 500 RF",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20500%20RF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

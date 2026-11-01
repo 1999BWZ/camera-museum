@@ -1,0 +1,29 @@
+{
+  "id": "universal-univex-model-a",
+  "brand": "Universal",
+  "brand_cn": "",
+  "brand_slug": "universal",
+  "country": "待补充",
+  "manufacturer": "Universal",
+  "model": "Univex Model A",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Universal立体相机，1934 年发布",
+  "description": "The Univex Model A was a small plastic camera made in New York by Universal, introduced in 1933.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Univex Model A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Univex Model A",
+      "url": "https://camera-wiki.org/wiki/Univex%20Model%20A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

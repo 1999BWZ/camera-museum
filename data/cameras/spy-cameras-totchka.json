@@ -1,0 +1,29 @@
+{
+  "id": "spy-cameras-totchka",
+  "brand": "Spy cameras",
+  "brand_cn": "",
+  "brand_slug": "spy-cameras",
+  "country": "待补充",
+  "manufacturer": "Spy cameras",
+  "model": "Totchka",
+  "year": 1960,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spy cameras胶片相机，1960 年发布",
+  "description": "The KGB S-252 Totchka (Russian: Точка; 'dot' or 'point') is a spy camera made by KMZ for the KGB in the 1960s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Totchka"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Totchka",
+      "url": "https://camera-wiki.org/wiki/Totchka"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-3a-folding-hawk-eye-model-3",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 3A Folding Hawk-Eye Model 3",
+  "year": 1911,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1911 年发布",
+  "description": "柯达于1911年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak No. 3A Folding Hawk-Eye Model 3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak No. 3A Folding Hawk-Eye Model 3",
+      "url": "https://camera-wiki.org/wiki/Kodak%20No.%203A%20Folding%20Hawk-Eye%20Model%203"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

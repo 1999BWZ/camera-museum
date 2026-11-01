@@ -1,0 +1,29 @@
+{
+  "id": "minolta-hi-matic",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Hi-Matic",
+  "year": 1961,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1961 年发布",
+  "description": "The Minolta Hi-Matic cameras redefined Minolta's series of budget rangefinder cameras, although they overlapped with the less-advanced Uniomat II and Uniomat III.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Hi-Matic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Hi-Matic",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Hi-Matic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

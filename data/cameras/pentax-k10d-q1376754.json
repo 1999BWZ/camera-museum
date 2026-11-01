@@ -1,0 +1,40 @@
+{
+  "id": "pentax-k10d-q1376754",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "K10D",
+  "year": 2006,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，2006 年发布",
+  "description": "宾得于2006年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1376754",
+    "多语言词条数": "12"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20K10D%2018-55mm.jpg?width=800",
+      "caption": "K10D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1376754"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 宾得 K10D",
+      "url": "https://www.wikidata.org/wiki/Q1376754"
+    }
+  ],
+  "qid": "Q1376754",
+  "sitelinks": 12,
+  "imported": "wikidata-5k-2026-11-01"
+}

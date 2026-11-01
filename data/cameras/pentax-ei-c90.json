@@ -1,0 +1,29 @@
+{
+  "id": "pentax-ei-c90",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "EI-C90",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，1996 年发布",
+  "description": "The EI-C90 is a early digital camera from Pentax released in 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax EI-C90"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax EI-C90",
+      "url": "https://camera-wiki.org/wiki/Pentax%20EI-C90"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

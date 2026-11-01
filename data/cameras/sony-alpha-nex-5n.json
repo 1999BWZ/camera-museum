@@ -1,0 +1,29 @@
+{
+  "id": "sony-alpha-nex-5n",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Alpha NEX-5N",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2011 年发布",
+  "description": "The Sony Alpha NEX-5N is a system camera body of the Sony NEX camera line with the E-mount of the Sony α system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Alpha NEX-5N"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Alpha NEX-5N",
+      "url": "https://camera-wiki.org/wiki/Sony%20Alpha%20NEX-5N"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

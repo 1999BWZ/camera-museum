@@ -1,0 +1,29 @@
+{
+  "id": "minolta-vectis-260",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Vectis 260",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，2000 年发布",
+  "description": "The Vectis 260 is a fully automatic compact camera using APS film cartridges and was made by Minolta in c.2000[https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBPERS01:003256006:mpeg21:a00365 Foka advertisement in Dutch newspaper \"Algemeen Dagblad\", June 8 2000].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Vectis 260"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Vectis 260",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Vectis%20260"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

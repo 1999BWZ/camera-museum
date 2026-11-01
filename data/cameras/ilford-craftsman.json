@@ -1,0 +1,29 @@
+{
+  "id": "ilford-craftsman",
+  "brand": "Ilford",
+  "brand_cn": "",
+  "brand_slug": "ilford",
+  "country": "待补充",
+  "manufacturer": "Ilford",
+  "model": "Craftsman",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ilford胶片相机，1949 年发布",
+  "description": "The Ilford Craftsman is a pseudo TLR made by Ilford in the UK, introduced in 1949.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ilford Craftsman"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ilford Craftsman",
+      "url": "https://camera-wiki.org/wiki/Ilford%20Craftsman"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

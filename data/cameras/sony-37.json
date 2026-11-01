@@ -1,0 +1,29 @@
+{
+  "id": "sony-37",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "α37",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2012 年发布",
+  "description": "The Sony α37 (Sony Alpha SLT-37) of the year 2012 is a fine camera sample of the short Age of Sony's SLT cameras, an alternate DSLR camera conception which marked the company's move toward digital system cameras with electronic viewfinder in 2010, the year when the renowned popular Japanese electron",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony α37"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony α37",
+      "url": "https://camera-wiki.org/wiki/Sony%20%CE%B137"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

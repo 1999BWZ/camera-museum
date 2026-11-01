@@ -1,0 +1,29 @@
+{
+  "id": "crowdfunded-cameras-diana-instant-square",
+  "brand": "Crowdfunded cameras",
+  "brand_cn": "",
+  "brand_slug": "crowdfunded-cameras",
+  "country": "待补充",
+  "manufacturer": "Crowdfunded cameras",
+  "model": "Diana Instant Square",
+  "year": 2018,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Crowdfunded cameras一次成像相机，2018 年发布",
+  "description": "The Diana Instant Square is an instant camera from Lomography styled to resemble and function similar to the Diana, but using Instax Square film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Diana Instant Square"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Diana Instant Square",
+      "url": "https://camera-wiki.org/wiki/Diana%20Instant%20Square"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

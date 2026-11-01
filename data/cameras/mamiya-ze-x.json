@@ -1,0 +1,29 @@
+{
+  "id": "mamiya-ze-x",
+  "brand": "Mamiya",
+  "brand_cn": "玛米亚",
+  "brand_slug": "mamiya",
+  "country": "日本",
+  "manufacturer": "Mamiya",
+  "model": "ZE-X",
+  "year": 1981,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "玛米亚中画幅相机，1981 年发布",
+  "description": "The Mamiya ZE-X, introduced in September 1981, was the world's most advanced cross-over system camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mamiya ZE-X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mamiya ZE-X",
+      "url": "https://camera-wiki.org/wiki/Mamiya%20ZE-X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

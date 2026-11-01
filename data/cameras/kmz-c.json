@@ -1,0 +1,29 @@
+{
+  "id": "kmz-c",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "C",
+  "year": 1955,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ数码单反相机，1955 年发布",
+  "description": "The Zenit CThe 'C' is a Cyrillic 'S', and stands for \"sinkhronizirovannyy,\" \"synchronized,\" referring to the shutter's being synchronised for flash.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit C",
+      "url": "https://camera-wiki.org/wiki/Zenit%20C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

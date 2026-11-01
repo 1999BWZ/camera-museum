@@ -1,0 +1,29 @@
+{
+  "id": "fuji-half-slr",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "Half SLR",
+  "year": 1984,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji数码单反相机，1984 年发布",
+  "description": "The Fuji Half SLR is a design concept elaborated by Fuji in the 1980s, Date: Mizukawa, p.115 of no.44, says \"around 1980\", but the particular logo and FUJI marking was used on Fuji cameras from 1984 to 1994.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji Half SLR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji Half SLR",
+      "url": "https://camera-wiki.org/wiki/Fuji%20Half%20SLR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

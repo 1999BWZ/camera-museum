@@ -1,0 +1,29 @@
+{
+  "id": "gomz-fotokor-1",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "待补充",
+  "manufacturer": "GOMZ",
+  "model": "Fotokor-1",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ折叠相机，1930 年发布",
+  "description": "Fotokor-1 is a folding bed plate film camera, manufactured by GOMZ , (Gosularstvennyi Optiko-Mekhanicheskii Zavod = State Optical-Mechanical Factory), Leningrad, USSR, and produced between 1930-41.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fotokor-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fotokor-1",
+      "url": "https://camera-wiki.org/wiki/Fotokor-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

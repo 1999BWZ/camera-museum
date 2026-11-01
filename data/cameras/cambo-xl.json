@@ -1,0 +1,29 @@
+{
+  "id": "cambo-xl",
+  "brand": "Cambo",
+  "brand_cn": "",
+  "brand_slug": "cambo",
+  "country": "荷兰",
+  "manufacturer": "Cambo",
+  "model": "XL",
+  "year": 1979,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cambo旁轴相机，1979 年发布",
+  "description": "The Cambo XL is a medium format press camera made by the Dutch company Cambo and is in fact a continuation of the Graflex XL.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cambo XL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cambo XL",
+      "url": "https://camera-wiki.org/wiki/Cambo%20XL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

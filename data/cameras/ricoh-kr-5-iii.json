@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-kr-5-iii",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "KR-5 III",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1994 年发布",
+  "description": "Ricoh introduced the KR-5 III in mid-1994,A [https://books.google.com/books?id=nDAVsvMUYksC&lpg=PA56&dq=Ricoh%20%22KR-5%20III%22&pg=PA56#v=onepage&q=Ricoh%20%22KR-5%20III%22&f=false report on the PMA Atlanta trade show] in the June 1994 Popular Photography, pg.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh KR-5 III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh KR-5 III",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20KR-5%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

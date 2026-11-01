@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-exa",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Exa",
+  "year": 1951,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee数码单反相机，1951 年发布",
+  "description": "The Exa is a 35mm SLR made in Dresden, Germany by Ihagee.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Exa (original)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Exa (original)",
+      "url": "https://camera-wiki.org/wiki/Exa%20%28original%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "palma-plate-folders",
+  "brand": "Palma",
+  "brand_cn": "",
+  "brand_slug": "palma",
+  "country": "待补充",
+  "manufacturer": "Palma",
+  "model": "plate folders",
+  "year": 1929,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Palma折叠相机，1929 年发布",
+  "description": "The Palma (パルマー) The Roman spelling \"Palma\" is unconfirmed.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Palma plate folders"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Palma plate folders",
+      "url": "https://camera-wiki.org/wiki/Palma%20plate%20folders"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

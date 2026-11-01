@@ -1,0 +1,29 @@
+{
+  "id": "mamiya-u",
+  "brand": "Mamiya",
+  "brand_cn": "玛米亚",
+  "brand_slug": "mamiya",
+  "country": "日本",
+  "manufacturer": "Mamiya",
+  "model": "U",
+  "year": 1981,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "玛米亚取景器相机，1981 年发布",
+  "description": "The Mamiya U was introduced in 1981.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mamiya U"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mamiya U",
+      "url": "https://camera-wiki.org/wiki/Mamiya%20U"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

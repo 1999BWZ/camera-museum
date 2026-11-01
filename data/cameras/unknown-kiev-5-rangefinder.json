@@ -1,0 +1,40 @@
+{
+  "id": "unknown-kiev-5-rangefinder",
+  "brand": "基辅军械厂",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "基辅军械厂",
+  "model": "Kiev 5 rangefinder",
+  "year": 1968,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "基辅军械厂旁轴相机，1968 年发布",
+  "description": "基辅军械厂于1968年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4220085",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B8%D0%B5%D0%B2-5%20%D1%84%D0%BE%D1%82%D0%BE1.JPG?width=800",
+      "caption": "Kiev 5 rangefinder",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4220085"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Kiev 5 rangefinder",
+      "url": "https://www.wikidata.org/wiki/Q4220085"
+    }
+  ],
+  "qid": "Q4220085",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

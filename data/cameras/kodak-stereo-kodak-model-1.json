@@ -1,0 +1,29 @@
+{
+  "id": "kodak-stereo-kodak-model-1",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Stereo Kodak Model 1",
+  "year": 1917,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达立体相机，1917 年发布",
+  "description": "The Stereo Kodak Model 1 was made by Eastman Kodak from 1917 to 1925.Brian Coe, Kodak Cameras, the First Hundred Years (Hove, UK: Hove Foto Books, 1988; ISBN 0-906447-44-5) p.166.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Stereo Kodak Model 1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Stereo Kodak Model 1",
+      "url": "https://camera-wiki.org/wiki/Stereo%20Kodak%20Model%201"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

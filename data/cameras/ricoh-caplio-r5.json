@@ -1,0 +1,37 @@
+{
+  "id": "ricoh-caplio-r5",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Caplio R5",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2006 年发布",
+  "description": "The Ricoh Caplio R5 is a compact digital point and shoot camera introduced by Ricoh in 2006.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Caplio R5"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm1.static.flickr.com/81/277349444_80e75f2798.jpg",
+      "caption": "Caplio R5",
+      "source": "Flickr（Paul Jerry）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/paj/277349444/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Caplio R5",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Caplio%20R5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

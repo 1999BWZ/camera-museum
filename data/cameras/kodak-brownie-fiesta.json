@@ -1,0 +1,29 @@
+{
+  "id": "kodak-brownie-fiesta",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Brownie Fiesta",
+  "year": 1962,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1962 年发布",
+  "description": "The dark bakelite 1950s Brownie Fiesta (including its \"Flash model\") is a name variant of the Kodak Brownie Hawkeye.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Brownie Fiesta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Brownie Fiesta",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Brownie%20Fiesta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

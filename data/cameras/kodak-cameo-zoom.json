@@ -1,0 +1,29 @@
+{
+  "id": "kodak-cameo-zoom",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Cameo Zoom",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1993 年发布",
+  "description": "The Kodak Cameo Zoom, also known as the Kodak Cameo Zoom Plus, is a camera introduced in 1993.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Cameo Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Cameo Zoom",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Cameo%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

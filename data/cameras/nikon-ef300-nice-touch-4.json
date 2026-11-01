@@ -1,0 +1,29 @@
+{
+  "id": "nikon-ef300-nice-touch-4",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "EF300/Nice•Touch 4",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康取景器相机，1997 年发布",
+  "description": "The Nikon EF300 (also known as Nice•Touch 4) is a fixed focus compact camera for 35mm film, introduced by Nikon in 1997.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon EF300/Nice•Touch 4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon EF300/Nice•Touch 4",
+      "url": "https://camera-wiki.org/wiki/Nikon%20EF300/Nice%E2%80%A2Touch%204"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

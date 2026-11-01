@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-dx-10",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "DX-10",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，1999 年发布",
+  "description": "The DX-10 is a entry level digital camera released by Fujifilm in 1999.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm DX-10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm DX-10",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20DX-10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

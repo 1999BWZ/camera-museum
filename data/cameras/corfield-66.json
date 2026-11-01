@@ -1,0 +1,29 @@
+{
+  "id": "corfield-66",
+  "brand": "Corfield",
+  "brand_cn": "",
+  "brand_slug": "corfield",
+  "country": "英国",
+  "manufacturer": "Corfield",
+  "model": "66",
+  "year": 1961,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Corfield胶片相机，1961 年发布",
+  "description": "The Corfield 66 is a 6x6 format single lens reflex, introduced in Great Britain by Corfield (the makers of the Periflex) in 1961 at a price of £76.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Corfield 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Corfield 66",
+      "url": "https://camera-wiki.org/wiki/Corfield%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

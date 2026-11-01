@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-kokka",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Kokka",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi折叠相机，1935 年发布",
+  "description": "The Kokka (コッカ) are Japanese 6.5×9cm plate folders, advertised by First Camera Works around 1935.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kokka"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kokka",
+      "url": "https://camera-wiki.org/wiki/Kokka"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

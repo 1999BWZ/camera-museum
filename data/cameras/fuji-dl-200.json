@@ -1,0 +1,29 @@
+{
+  "id": "fuji-dl-200",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "DL-200",
+  "year": 1983,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji便携相机，1983 年发布",
+  "description": "The Fuji DL-200, released in 1983.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji DL-200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji DL-200",
+      "url": "https://camera-wiki.org/wiki/Fuji%20DL-200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

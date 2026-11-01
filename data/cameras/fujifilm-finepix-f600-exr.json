@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-finepix-f600-exr",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "Finepix F600 EXR",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，2011 年发布",
+  "description": "The Fujifilm Finepix F600 EXR is a is a compact digital camera announced on August 11th 2011.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm Finepix F600 EXR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm Finepix F600 EXR",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20Finepix%20F600%20EXR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

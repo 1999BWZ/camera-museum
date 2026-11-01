@@ -1,0 +1,29 @@
+{
+  "id": "topcon-ic-1-auto",
+  "brand": "Topcon",
+  "brand_cn": "",
+  "brand_slug": "topcon",
+  "country": "待补充",
+  "manufacturer": "Topcon",
+  "model": "IC-1 Auto",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Topcon胶片单反相机，1973 年发布",
+  "description": "The Topcon IC-1 Auto is a 1973-1978 35mm SLR from Tokyo Kogaku named for the Integrated Circuit which controlled its shutter priority auto exposure.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Topcon IC-1 Auto"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Topcon IC-1 Auto",
+      "url": "https://camera-wiki.org/wiki/Topcon%20IC-1%20Auto"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

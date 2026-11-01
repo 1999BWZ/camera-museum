@@ -1,0 +1,29 @@
+{
+  "id": "coronet-victor",
+  "brand": "Coronet",
+  "brand_cn": "",
+  "brand_slug": "coronet",
+  "country": "英国",
+  "manufacturer": "Coronet",
+  "model": "Victor",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Coronet胶片相机，1955 年发布",
+  "description": "The Coronet Victor is a Bakelite 127 roll film viewfinder camera made by Coronet in Birmingham, UK, c.1955.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Coronet Victor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Coronet Victor",
+      "url": "https://camera-wiki.org/wiki/Coronet%20Victor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

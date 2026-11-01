@@ -1,0 +1,29 @@
+{
+  "id": "konica-pop-efp-8",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "POP EFP-8",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡取景器相机，1996 年发布",
+  "description": "The EFP-8 made by Konica is a very basic full plastic viewfinder with flash.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica POP EFP-8"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica POP EFP-8",
+      "url": "https://camera-wiki.org/wiki/Konica%20POP%20EFP-8"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

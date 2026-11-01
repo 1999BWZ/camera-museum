@@ -1,0 +1,29 @@
+{
+  "id": "pentacon-six",
+  "brand": "Pentacon",
+  "brand_cn": "",
+  "brand_slug": "pentacon",
+  "country": "待补充",
+  "manufacturer": "Pentacon",
+  "model": "Six",
+  "year": 1966,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pentacon胶片单反相机，1966 年发布",
+  "description": "The Pentacon 6 is a medium-format system camera, an SLR that takes 6&times;6 pictures on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentacon Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentacon Six",
+      "url": "https://camera-wiki.org/wiki/Pentacon%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

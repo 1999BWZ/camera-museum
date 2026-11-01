@@ -1,0 +1,29 @@
+{
+  "id": "fuji-k-gaku-lyrax",
+  "brand": "Fuji Kōgaku",
+  "brand_cn": "",
+  "brand_slug": "fuji-k-gaku",
+  "country": "待补充",
+  "manufacturer": "Fuji Kōgaku",
+  "model": "Lyrax",
+  "year": 1939,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji Kōgaku旁轴相机，1939 年发布",
+  "description": "The Lyrax (ライラックス) is a 4.5×6 rangefinder camera made by Fuji Kōgaku from 1939.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lyrax"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lyrax",
+      "url": "https://camera-wiki.org/wiki/Lyrax"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

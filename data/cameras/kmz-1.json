@@ -1,0 +1,29 @@
+{
+  "id": "kmz-1",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "1",
+  "year": 1952,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ胶片单反相机，1952 年发布",
+  "description": "The Zenit (or Zenit 1) is a 35 mm SLR camera made by Krasnogorski Mekhanicheskii Zavod (KMZ) in Krasnagorsk near Moscow in the USSR, during the cold political climate of the early 1950’s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit 1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit 1",
+      "url": "https://camera-wiki.org/wiki/Zenit%201"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-xr-s",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "XR-S",
+  "year": 1981,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1981 年发布",
+  "description": "The XR-S is an SLR for 35mm film introduced c.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh XR-S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh XR-S",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20XR-S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

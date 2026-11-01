@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-tropen-adoro",
+  "brand": "Zeiss",
+  "brand_cn": "蔡司",
+  "brand_slug": "zeiss",
+  "country": "德国",
+  "manufacturer": "Zeiss",
+  "model": "Ikon Tropen Adoro",
+  "year": 1927,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "蔡司折叠相机，1927 年发布",
+  "description": "The Zeiss Ikon Tropen Adoro is a continuation of the Contessa-Nettel Tropen Adoro and was made from 1927 to 1936.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zeiss Ikon Tropen Adoro"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zeiss Ikon Tropen Adoro",
+      "url": "https://camera-wiki.org/wiki/Zeiss%20Ikon%20Tropen%20Adoro"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

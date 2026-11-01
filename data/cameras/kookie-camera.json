@@ -1,0 +1,37 @@
+{
+  "id": "kookie-camera",
+  "brand": "Kookie",
+  "brand_cn": "",
+  "brand_slug": "kookie",
+  "country": "美国",
+  "manufacturer": "Kookie",
+  "model": "Camera",
+  "year": 1968,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kookie玩具相机，1968 年发布",
+  "description": "The Kookie Camera was made by the Ideal Toy Corporation, of Hollis, New York, in c.1968.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kookie Camera"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm4.static.flickr.com/3286/2801721124_ec229f42c9.jpg",
+      "caption": "Camera",
+      "source": "Flickr（Terri Monahan）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/californiagirl27/2801721124/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kookie Camera",
+      "url": "https://camera-wiki.org/wiki/Kookie%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

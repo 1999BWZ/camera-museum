@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-dmc-lx5",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "DMC-LX5",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2010 年发布",
+  "description": "The Panasonic DMC-LX5 is a compact camera with highly light-sensitive image sensor, fast Leica DC Vario-Summicron 1:2.0-3.3 5.1-19.2 aspherical lens and a multi-functional hot shoe.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic DMC-LX5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic DMC-LX5",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20DMC-LX5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "beier-beier-flex",
+  "brand": "Beier",
+  "brand_cn": "",
+  "brand_slug": "beier",
+  "country": "待补充",
+  "manufacturer": "Beier",
+  "model": "Beier-Flex",
+  "year": 1938,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beier胶片单反相机，1938 年发布",
+  "description": "The Beier-Flex SLR for type 120 rollfilm with waist-level finder was made from 1938 to 1941.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Beier-Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Beier-Flex",
+      "url": "https://camera-wiki.org/wiki/Beier-Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

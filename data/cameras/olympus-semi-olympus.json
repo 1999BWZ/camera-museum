@@ -1,0 +1,29 @@
+{
+  "id": "olympus-semi-olympus",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Semi Olympus",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯折叠相机，1936 年发布",
+  "description": "The Semi Olympus (セミ・オリンパス) is a 4.5×6cm folder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Olympus"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Olympus",
+      "url": "https://camera-wiki.org/wiki/Semi%20Olympus"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

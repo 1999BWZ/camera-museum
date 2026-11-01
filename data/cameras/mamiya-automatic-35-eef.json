@@ -1,0 +1,29 @@
+{
+  "id": "mamiya-automatic-35-eef",
+  "brand": "Mamiya",
+  "brand_cn": "玛米亚",
+  "brand_slug": "mamiya",
+  "country": "日本",
+  "manufacturer": "Mamiya",
+  "model": "Automatic 35 EEF",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "玛米亚取景器相机，1961 年发布",
+  "description": "The Automatic 35 EEF is a 35 mm camera made by Mamiya in 1961.Page 643, It was the first Japanese camera to have a built-in flash, specifically a reflector for flash bulbs, beside the lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mamiya Automatic 35 EEF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mamiya Automatic 35 EEF",
+      "url": "https://camera-wiki.org/wiki/Mamiya%20Automatic%2035%20EEF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "plaubel-pr-zisions-peco",
+  "brand": "Plaubel",
+  "brand_cn": "",
+  "brand_slug": "plaubel",
+  "country": "待补充",
+  "manufacturer": "Plaubel",
+  "model": "Präzisions-Peco",
+  "year": 1911,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Plaubel折叠相机，1911 年发布",
+  "description": "The Präzisions-Peco is a folding bed plate camera produced by Plaubel of Frankfurt/Main from 1913 onwards.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Präzisions-Peco"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Präzisions-Peco",
+      "url": "https://camera-wiki.org/wiki/Pr%C3%A4zisions-Peco"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

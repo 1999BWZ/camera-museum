@@ -1,0 +1,29 @@
+{
+  "id": "konica-minolta-dimage-e500",
+  "brand": "Konica Minolta",
+  "brand_cn": "柯尼卡美能达",
+  "brand_slug": "konica-minolta",
+  "country": "日本",
+  "manufacturer": "Konica Minolta",
+  "model": "DiMAGE E500",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡美能达数码相机，2005 年发布",
+  "description": "The Konica Minolta DiMAGE E500 was made by Premier for Konica Minolta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Minolta DiMAGE E500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Minolta DiMAGE E500",
+      "url": "https://camera-wiki.org/wiki/Konica%20Minolta%20DiMAGE%20E500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

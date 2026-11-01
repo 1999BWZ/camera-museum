@@ -1,0 +1,29 @@
+{
+  "id": "keystone-xr33",
+  "brand": "Keystone",
+  "brand_cn": "",
+  "brand_slug": "keystone",
+  "country": "待补充",
+  "manufacturer": "Keystone",
+  "model": "XR33",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Keystone胶片相机，1979 年发布",
+  "description": "The Keystone XR33 is a pocket camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Keystone XR33"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Keystone XR33",
+      "url": "https://camera-wiki.org/wiki/Keystone%20XR33"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

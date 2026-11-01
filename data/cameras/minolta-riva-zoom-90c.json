@@ -1,0 +1,29 @@
+{
+  "id": "minolta-riva-zoom-90c",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Riva Zoom 90c",
+  "year": 1991,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1991 年发布",
+  "description": "{|align=right\n|-\n||\n\n|-\n||\n\n|}\nThe Minolta Riva Zoom 90c is an 35mm auto focus zoom camera made by Minolta in 1991[https://www.delpher.nl/nl/tijdschriften/view?coll=dts&identifier=KBVRNL01:252356011:00059 Minolta advertisement in Dutch newspaper \"Vrij Nederland\", November 30 1991].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Riva Zoom 90c"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Riva Zoom 90c",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Riva%20Zoom%2090c"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

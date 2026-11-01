@@ -1,0 +1,29 @@
+{
+  "id": "rajar-no-6",
+  "brand": "Rajar",
+  "brand_cn": "",
+  "brand_slug": "rajar",
+  "country": "英国",
+  "manufacturer": "Rajar",
+  "model": "No. 6",
+  "year": 1929,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rajar折叠相机，1929 年发布",
+  "description": "Rajar于1929年发布的折叠相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rajar No. 6"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rajar No. 6",
+      "url": "https://camera-wiki.org/wiki/Rajar%20No.%206"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

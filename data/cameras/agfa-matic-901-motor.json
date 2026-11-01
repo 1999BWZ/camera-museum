@@ -1,0 +1,29 @@
+{
+  "id": "agfa-matic-901-motor",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "matic 901 motor",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发胶片相机，1979 年发布",
+  "description": "Agfamatic 901 motor is a series of 110 film cameras produced by Agfa and released in 1979.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfamatic 901 motor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfamatic 901 motor",
+      "url": "https://camera-wiki.org/wiki/Agfamatic%20901%20motor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

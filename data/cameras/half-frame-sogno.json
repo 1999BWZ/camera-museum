@@ -1,0 +1,29 @@
+{
+  "id": "half-frame-sogno",
+  "brand": "Half frame",
+  "brand_cn": "",
+  "brand_slug": "half-frame",
+  "country": "意大利",
+  "manufacturer": "Half frame",
+  "model": "Sogno",
+  "year": 1950,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Half frame旁轴相机，1950 年发布",
+  "description": "The Sogno (Italian: 'dream') is a half-frame 35 mm coupled-rangefinder camera, made by Ducati in about 1950.[https://www.leitz-auction.com/en/Ducati-Sogno/AI-21-13666 Sogno] serial no.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sogno"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sogno",
+      "url": "https://camera-wiki.org/wiki/Sogno"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

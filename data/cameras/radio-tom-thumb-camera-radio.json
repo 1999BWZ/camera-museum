@@ -1,0 +1,29 @@
+{
+  "id": "radio-tom-thumb-camera-radio",
+  "brand": "Radio",
+  "brand_cn": "",
+  "brand_slug": "radio",
+  "country": "美国",
+  "manufacturer": "Radio",
+  "model": "Tom Thumb Camera Radio",
+  "year": 1948,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Radio胶片相机，1948 年发布",
+  "description": "The Tom Thumb Camera Radio is a pseudo-TLR camera for 828 film, combined with a valve radio.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tom Thumb Camera Radio"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tom Thumb Camera Radio",
+      "url": "https://camera-wiki.org/wiki/Tom%20Thumb%20Camera%20Radio"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

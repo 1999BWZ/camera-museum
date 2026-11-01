@@ -1,0 +1,29 @@
+{
+  "id": "minolta-riva-twin-28",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Riva Twin 28",
+  "year": 1991,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1991 年发布",
+  "description": "Dual-lensed compact auto-focus camera launched by Minolta in 1991, offering 28 mm and 40 mm focal lengths.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Riva Twin 28"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Riva Twin 28",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Riva%20Twin%2028"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

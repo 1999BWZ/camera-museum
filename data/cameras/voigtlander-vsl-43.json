@@ -1,0 +1,29 @@
+{
+  "id": "voigtlander-vsl-43",
+  "brand": "Voigtländer",
+  "brand_cn": "福伦达",
+  "brand_slug": "voigtlander",
+  "country": "德国",
+  "manufacturer": "Voigtländer",
+  "model": "VSL 43",
+  "year": 2006,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "福伦达数码单反相机，2006 年发布",
+  "description": "The Voigtländer VSL 43 is unrelated to earlier Rollei-based Voigtländer VSLs, and instead is a lightweight SLR for K mount lenses marketed by Ringfoto in the naughties.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Voigtländer VSL 43"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Voigtländer VSL 43",
+      "url": "https://camera-wiki.org/wiki/Voigtl%C3%A4nder%20VSL%2043"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fotobox-metabox-and-junior",
+  "brand": "Fotobox,",
+  "brand_cn": "",
+  "brand_slug": "fotobox",
+  "country": "法国",
+  "manufacturer": "Fotobox,",
+  "model": "Metabox and Junior",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fotobox,盒式相机，1950 年发布",
+  "description": "The Fotobox, Metabox and Junior (some of these are also labelled Goldy) are box cameras made by Goldstein in France, c.1950, taking 6×9cm images on 120 or 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fotobox, Metabox and Junior"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fotobox, Metabox and Junior",
+      "url": "https://camera-wiki.org/wiki/Fotobox%2C%20Metabox%20and%20Junior"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "well-standard",
+  "brand": "Well",
+  "brand_cn": "",
+  "brand_slug": "well",
+  "country": "待补充",
+  "manufacturer": "Well",
+  "model": "Standard",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Well取景器相机，1939 年发布",
+  "description": "The Well or Well Standard (ウエルスタンダード) is a Japanese camera taking ten 4×5cm pictures on 127 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Well Standard"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Well Standard",
+      "url": "https://camera-wiki.org/wiki/Well%20Standard"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

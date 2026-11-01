@@ -1,0 +1,29 @@
+{
+  "id": "half-frame-alfie-tych",
+  "brand": "Half frame",
+  "brand_cn": "",
+  "brand_slug": "half-frame",
+  "country": "英国",
+  "manufacturer": "Half frame",
+  "model": "Alfie Tych",
+  "year": 2023,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Half frame取景器相机，2023 年发布",
+  "description": "{|align=right\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Alfie Tych is half frame 35mm ultracompact made by Alfie Cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Alfie Tych"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Alfie Tych",
+      "url": "https://camera-wiki.org/wiki/Alfie%20Tych"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

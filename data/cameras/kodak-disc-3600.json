@@ -1,0 +1,29 @@
+{
+  "id": "kodak-disc-3600",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Disc 3600",
+  "year": 1986,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1986 年发布",
+  "description": "The Kodak Disc 3600 used disc film, was introduced in 1986, and was powered by two standard AA size batteries,[http://kodak.3106.net/index.php?p=205&cam=1104 Kodak Disc 3600] at [http://kodak.3106.net/index.php Kodak Classics] unlike many of the Kodak disc cameras which had an internal battery the u",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Disc 3600"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Disc 3600",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Disc%203600"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "linhof-color-4x5",
+  "brand": "Linhof",
+  "brand_cn": "",
+  "brand_slug": "linhof",
+  "country": "待补充",
+  "manufacturer": "Linhof",
+  "model": "Color 4x5",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Linhof胶片相机，1959 年发布",
+  "description": "The Linhof Color 4x5 is a monorail bellows camera made by Linhof since 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Linhof Color 4x5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Linhof Color 4x5",
+      "url": "https://camera-wiki.org/wiki/Linhof%20Color%204x5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

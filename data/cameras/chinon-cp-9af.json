@@ -1,0 +1,29 @@
+{
+  "id": "chinon-cp-9af",
+  "brand": "Chinon",
+  "brand_cn": "",
+  "brand_slug": "chinon",
+  "country": "待补充",
+  "manufacturer": "Chinon",
+  "model": "CP-9AF",
+  "year": 1988,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Chinon数码单反相机，1988 年发布",
+  "description": "The CP-9AF Multi Program camera is an autofocus and autoexposure SLR introduced by Chinon in 1988.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chinon CP-9AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chinon CP-9AF",
+      "url": "https://camera-wiki.org/wiki/Chinon%20CP-9AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

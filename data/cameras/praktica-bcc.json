@@ -1,0 +1,29 @@
+{
+  "id": "praktica-bcc",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "BCC",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片单反相机，1989 年发布",
+  "description": "The Praktica BCC electronic is an SLR-camera for 35 mm film produced by Pentacon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica BCC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica BCC",
+      "url": "https://camera-wiki.org/wiki/Praktica%20BCC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

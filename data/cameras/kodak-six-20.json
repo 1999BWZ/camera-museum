@@ -1,0 +1,29 @@
+{
+  "id": "kodak-six-20",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Six-20",
+  "year": 1938,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1938 年发布",
+  "description": "The Super Kodak Six-20 is accepted as being the world's first camera with automatic exposure, despite its small production run.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Super Six-20"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Super Six-20",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Super%20Six-20"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

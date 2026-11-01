@@ -1,0 +1,29 @@
+{
+  "id": "three-color-cameras-multicolor",
+  "brand": "three-color cameras",
+  "brand_cn": "",
+  "brand_slug": "three-color-cameras",
+  "country": "待补充",
+  "manufacturer": "three-color cameras",
+  "model": "Multicolor",
+  "year": 1900,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "three-color cameras胶片相机，1900 年发布",
+  "description": "The Ernemann Multicolor is a falling-plate magazine camera optimized for color separation.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Multicolor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Multicolor",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Multicolor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

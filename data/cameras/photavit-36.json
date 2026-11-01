@@ -1,0 +1,29 @@
+{
+  "id": "photavit-36",
+  "brand": "Photavit",
+  "brand_cn": "",
+  "brand_slug": "photavit",
+  "country": "待补充",
+  "manufacturer": "Photavit",
+  "model": "36",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Photavit旁轴相机，1956 年发布",
+  "description": "The Photavit 36 is a 35mm interchangeable lens rangefinder that was made by Bolta Werk GmbH between 1956 and 1958.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Photavit 36"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Photavit 36",
+      "url": "https://camera-wiki.org/wiki/Photavit%2036"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

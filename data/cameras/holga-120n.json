@@ -1,0 +1,29 @@
+{
+  "id": "holga-120n",
+  "brand": "Holga",
+  "brand_cn": "",
+  "brand_slug": "holga",
+  "country": "待补充",
+  "manufacturer": "Holga",
+  "model": "120N",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Holga取景器相机，2003 年发布",
+  "description": "The Holga 120N is a toy camera that uses medium format 120 film and introduced by Universal Electronics ( Holga ) around 2003.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Holga 120N"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Holga 120N",
+      "url": "https://camera-wiki.org/wiki/Holga%20120N"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

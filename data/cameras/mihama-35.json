@@ -1,0 +1,29 @@
+{
+  "id": "mihama-35",
+  "brand": "Mihama",
+  "brand_cn": "",
+  "brand_slug": "mihama",
+  "country": "待补充",
+  "manufacturer": "Mihama",
+  "model": "35",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mihama旁轴相机，1955 年发布",
+  "description": "The Mihama 35 is a series of 35mm coupled rangefinder camera made by Mihama (Suruga).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mihama 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mihama 35",
+      "url": "https://camera-wiki.org/wiki/Mihama%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

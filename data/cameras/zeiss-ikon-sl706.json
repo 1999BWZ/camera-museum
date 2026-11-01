@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-sl706",
+  "brand": "Zeiss",
+  "brand_cn": "蔡司",
+  "brand_slug": "zeiss",
+  "country": "德国",
+  "manufacturer": "Zeiss",
+  "model": "Ikon SL706",
+  "year": 1971,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "蔡司数码单反相机，1971 年发布",
+  "description": "The SL706 was the last camera designed and launched by Zeiss Ikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zeiss Ikon SL706"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zeiss Ikon SL706",
+      "url": "https://camera-wiki.org/wiki/Zeiss%20Ikon%20SL706"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "belomo-chajka",
+  "brand": "BelOMO",
+  "brand_cn": "",
+  "brand_slug": "belomo",
+  "country": "待补充",
+  "manufacturer": "BelOMO",
+  "model": "Chajka",
+  "year": 1965,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "BelOMO取景器相机，1965 年发布",
+  "description": "*The Chaika name was also usedfor Chaika electronic flash units.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chajka"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chajka",
+      "url": "https://camera-wiki.org/wiki/Chajka"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-patent-klapp-reflex",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Patent-Klapp-Reflex",
+  "year": 1924,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee胶片相机，1924 年发布",
+  "description": "Folding reflex camera format 6.5 x 9 made by the German company Ihagee.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Patent-Klapp-Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Patent-Klapp-Reflex",
+      "url": "https://camera-wiki.org/wiki/Patent-Klapp-Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

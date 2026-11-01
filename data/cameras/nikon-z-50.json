@@ -1,0 +1,41 @@
+{
+  "id": "nikon-z-50",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Z 50",
+  "year": 2019,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康无反相机，2019 年发布",
+  "description": "尼康于2019年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q70433591",
+    "多语言词条数": "9",
+    "年份来源": "据英文描述推断"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Z%2050%200.jpg?width=800",
+      "caption": "Z 50",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q70433591"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康Z 50",
+      "url": "https://www.wikidata.org/wiki/Q70433591"
+    }
+  ],
+  "qid": "Q70433591",
+  "sitelinks": 9,
+  "imported": "wikidata-5k-2026-11-01"
+}

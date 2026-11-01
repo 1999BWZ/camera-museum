@@ -1,0 +1,29 @@
+{
+  "id": "plavic-9x12",
+  "brand": "Plavic",
+  "brand_cn": "",
+  "brand_slug": "plavic",
+  "country": "法国",
+  "manufacturer": "Plavic",
+  "model": "9x12",
+  "year": 1923,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Plavic折叠相机，1923 年发布",
+  "description": "Plavic 9x12 is a 9x12cm folding bed plate film camera, manufactured by Héard & Mallinjod, Lyon, France for Plavic in Lyon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Plavic 9x12"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Plavic 9x12",
+      "url": "https://camera-wiki.org/wiki/Plavic%209x12"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

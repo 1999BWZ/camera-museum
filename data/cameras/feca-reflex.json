@@ -1,0 +1,29 @@
+{
+  "id": "feca-reflex",
+  "brand": "Feca",
+  "brand_cn": "",
+  "brand_slug": "feca",
+  "country": "待补充",
+  "manufacturer": "Feca",
+  "model": "Reflex",
+  "year": 1947,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Feca数码单反相机，1947 年发布",
+  "description": "The rare Feca Reflex was made by Vormbruck Camera-Bau in Kempten, Germany, c.1947.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Feca Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Feca Reflex",
+      "url": "https://camera-wiki.org/wiki/Feca%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

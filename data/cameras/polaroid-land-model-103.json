@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-land-model-103",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Land Model 103",
+  "year": 1965,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1965 年发布",
+  "description": "Part of the series of Polaroid cameras that began with the Automatic Land Camera 100 and finishing at the Automatic Land Camera 450, the Polaroid Land Model 103 shares with all models in this line:\n* Folding bellows\n* Automatic exposure\n* 100-series Packfilm\n\nThe 103 is one of the earliest 'consumer",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Land Model 103"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Land Model 103",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Land%20Model%20103"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

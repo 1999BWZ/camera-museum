@@ -1,0 +1,29 @@
+{
+  "id": "minolta-prod-20-s",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "PROD-20's",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1990 年发布",
+  "description": "The Prod-20's is a retro designed auto focus compact camera made by Minolta in 1990.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta PROD-20's"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta PROD-20's",
+      "url": "https://camera-wiki.org/wiki/Minolta%20PROD-20%27s"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

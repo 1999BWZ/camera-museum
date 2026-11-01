@@ -1,0 +1,29 @@
+{
+  "id": "agfa-matic-2000-pocket-sensor",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "matic 2000 pocket sensor",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发胶片相机，1973 年发布",
+  "description": "The Agfamatic 2000 pocket sensor is a 110 cartridge film pocket camera made by Agfa and designed by Schlagheck & Schultes, introduced in 1973.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfamatic 2000 pocket sensor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfamatic 2000 pocket sensor",
+      "url": "https://camera-wiki.org/wiki/Agfamatic%202000%20pocket%20sensor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "olympus-is-100s",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "iS-100S",
+  "year": 1995,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片单反相机，1995 年发布",
+  "description": "The Olympus iS-100s is an autofocus 35mm single lens reflex camera and part of the Olympus iS series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus iS-100S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus iS-100S",
+      "url": "https://camera-wiki.org/wiki/Olympus%20iS-100S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

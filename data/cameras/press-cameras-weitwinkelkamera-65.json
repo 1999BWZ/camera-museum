@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-weitwinkelkamera-65",
+  "brand": "Press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "待补充",
+  "manufacturer": "Press cameras",
+  "model": "Weitwinkelkamera 65",
+  "year": 1960,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Press cameras胶片相机，1960 年发布",
+  "description": "The Weitwinkelkamera 65 is a medium-format press camera made in small numbersMcKeown estimates about 130 were made: p627.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Linhof Weitwinkelkamera 65"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Linhof Weitwinkelkamera 65",
+      "url": "https://camera-wiki.org/wiki/Linhof%20Weitwinkelkamera%2065"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

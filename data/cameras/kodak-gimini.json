@@ -1,0 +1,29 @@
+{
+  "id": "kodak-gimini",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Gimini",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1988 年发布",
+  "description": "Kodak Gimini is a camera for 110 film, made around 1988, produced in Mexico, and available in a range of colors.[http://kodak.3106.net/index.php?p=211&cam=1026 Kodak Gimini] at [http://kodak.3106.net Kodak Classics]\n\nOther very similar cameras included the Kodak Winner, Kodak Trimlite Instamatic 18,",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Gimini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Gimini",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Gimini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

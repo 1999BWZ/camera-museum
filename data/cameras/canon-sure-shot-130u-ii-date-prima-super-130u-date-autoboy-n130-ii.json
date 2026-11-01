@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-130u-ii-date-prima-super-130u-date-autoboy-n130-ii",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot 130u II Date/Prima Super 130u Date/Autoboy N130 II",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2005 年发布",
+  "description": "The Sure Shot 130u II is a compact autofocus, auto exposure 35mm film camera release by Canon in 2005.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot 130u II Date/Prima Super 130u Date/Autoboy N130 II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot 130u II Date/Prima Super 130u Date/Autoboy N130 II",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20130u%20II%20Date/Prima%20Super%20130u%20Date/Autoboy%20N130%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

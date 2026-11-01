@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-2c-pocket-kodak",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 2C Pocket Kodak",
+  "year": 1926,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机（折叠），1926 年发布",
+  "description": "Folding camera for 130 film by Kodak, which was on the market from 1926 to 1932.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 2C Pocket Kodak"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 2C Pocket Kodak",
+      "url": "https://camera-wiki.org/wiki/No.%202C%20Pocket%20Kodak"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

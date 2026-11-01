@@ -1,0 +1,29 @@
+{
+  "id": "beauty-flex",
+  "brand": "Beauty",
+  "brand_cn": "",
+  "brand_slug": "beauty",
+  "country": "待补充",
+  "manufacturer": "Beauty",
+  "model": "flex",
+  "year": 1954,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beauty胶片相机，1954 年发布",
+  "description": "Beauty Flex and Beautyflex are two different series of Japanese 6&times;6 TLR cameras and made by Taiyōdō Kōki.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Beautyflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Beautyflex",
+      "url": "https://camera-wiki.org/wiki/Beautyflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

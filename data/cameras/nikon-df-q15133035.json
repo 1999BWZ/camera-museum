@@ -1,0 +1,40 @@
+{
+  "id": "nikon-df-q15133035",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Df",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2013 年发布",
+  "description": "尼康于2013年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q15133035",
+    "多语言词条数": "11"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Df%20%28silver-black%29.jpg?width=800",
+      "caption": "Df",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q15133035"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康Df",
+      "url": "https://www.wikidata.org/wiki/Q15133035"
+    }
+  ],
+  "qid": "Q15133035",
+  "sitelinks": 11,
+  "imported": "wikidata-5k-2026-11-01"
+}

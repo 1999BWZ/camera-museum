@@ -1,0 +1,29 @@
+{
+  "id": "yashica-flash-o-set",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Flash-O-Set",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡取景器相机，1961 年发布",
+  "description": "{|class=\"plainlinks\" align=\"right\" style=\"text-align: center;margin:0px 0px 15px 15px;\"\n|[http://www.flickr.com/photos/heritagefutures/4284933726/in/pool-camerawiki/ http://farm5.static.flickr.com/4042/4284933726_37d0c7c79b_n.jpg]\n|[http://www.flickr.com/photos/heritagefutures/4284196911/in/pool-cam",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Flash-O-Set"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Flash-O-Set",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Flash-O-Set"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

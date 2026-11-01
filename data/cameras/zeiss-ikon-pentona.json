@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-pentona",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Pentona",
+  "year": 1956,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon取景器相机，1956 年发布",
+  "description": "__NOTOC__\nThe Pentona is a viewfinder camera for 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentona"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentona",
+      "url": "https://camera-wiki.org/wiki/Pentona"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

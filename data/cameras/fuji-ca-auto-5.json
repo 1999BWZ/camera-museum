@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-auto-5",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca Auto-5",
+  "year": 1980,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji取景器相机，1980 年发布",
+  "description": "Fujica Auto-5 is a zone focus compact camera released in 1980.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica Auto-5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica Auto-5",
+      "url": "https://camera-wiki.org/wiki/Fujica%20Auto-5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fed-1",
+  "brand": "FED",
+  "brand_cn": "",
+  "brand_slug": "fed",
+  "country": "待补充",
+  "manufacturer": "FED",
+  "model": "1",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FED胶片相机，1953 年发布",
+  "description": "After the war, regular FED camera production resumed in 1946.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "FED 1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – FED 1",
+      "url": "https://camera-wiki.org/wiki/FED%201"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

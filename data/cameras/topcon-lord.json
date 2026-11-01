@@ -1,0 +1,29 @@
+{
+  "id": "topcon-lord",
+  "brand": "Topcon",
+  "brand_cn": "",
+  "brand_slug": "topcon",
+  "country": "待补充",
+  "manufacturer": "Topcon",
+  "model": "Lord",
+  "year": 1937,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Topcon旁轴相机，1937 年发布",
+  "description": "The Lord (ロード) is a Japanese 4.5×6 camera with a coupled rangefinder, released in 1937.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lord (Tōkyō Kōgaku)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lord (Tōkyō Kōgaku)",
+      "url": "https://camera-wiki.org/wiki/Lord%20%28T%C5%8Dky%C5%8D%20K%C5%8Dgaku%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

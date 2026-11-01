@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-first-etui",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "First Etui",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi折叠相机，1934 年发布",
+  "description": "The First Etui (ファーストエツイ) is a Japanese 6.5×9cm folding plate camera, advertised by First Camera Works or Minagawa Shōten from 1934 to 1936 and probably sold until the war.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "First Etui"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – First Etui",
+      "url": "https://camera-wiki.org/wiki/First%20Etui"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

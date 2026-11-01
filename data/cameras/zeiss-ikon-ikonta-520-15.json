@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-ikonta-520-15",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Ikonta 520/15",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon折叠相机，1934 年发布",
+  "description": "The 520/15 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ikonta 520/15"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ikonta 520/15",
+      "url": "https://camera-wiki.org/wiki/Ikonta%20520/15"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

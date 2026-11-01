@@ -1,0 +1,29 @@
+{
+  "id": "minolta-auto-press-minolta",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Auto Press Minolta",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达折叠相机，1937 年发布",
+  "description": "The Auto Press Minolta (オートプレスミノルタ) is a strut-folding camera with a coupled rangefinder, taking 6.5×9cm plates or film sheets, made from 1937 by Chiyoda Kōgaku Seikō (predecessor of Minolta).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Auto Press Minolta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Auto Press Minolta",
+      "url": "https://camera-wiki.org/wiki/Auto%20Press%20Minolta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

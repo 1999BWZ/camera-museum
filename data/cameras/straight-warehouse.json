@@ -1,0 +1,29 @@
+{
+  "id": "straight-warehouse",
+  "brand": "Straight",
+  "brand_cn": "",
+  "brand_slug": "straight",
+  "country": "法国",
+  "manufacturer": "Straight",
+  "model": "Warehouse",
+  "year": 1913,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Straight胶片相机，1913 年发布",
+  "description": "SEM, another French camera-maker, also used 'Oto' and 'Otomatic' in naming and describing some of their Semflex TLR cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Straight Warehouse"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Straight Warehouse",
+      "url": "https://camera-wiki.org/wiki/Straight%20Warehouse"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

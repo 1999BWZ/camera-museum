@@ -1,0 +1,29 @@
+{
+  "id": "sony-mavica-fd97",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Mavica FD97",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2001 年发布",
+  "description": "The MVC-FD97 was one of the Mavica series of early digital cameras from Sony, announced at the February, 2001, PMA show alongside the MVC-FD75, MVC-FD87, and MVC-FD92, this was the most full-featured new modelSony press release, from [https://www.dpreview.com/articles/1525268051/newsonys \"Seven new ",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Mavica FD97"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Mavica FD97",
+      "url": "https://camera-wiki.org/wiki/Sony%20Mavica%20FD97"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

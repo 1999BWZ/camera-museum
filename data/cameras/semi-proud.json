@@ -1,0 +1,29 @@
+{
+  "id": "semi-proud",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Proud",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi折叠相机，1935 年发布",
+  "description": "For the postwar Semi Proud horizontal folder made by Sumida, see Proud postwar folders.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Proud"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Proud",
+      "url": "https://camera-wiki.org/wiki/Semi%20Proud"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leica-leitz-moment-camera",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "Leitz Moment Camera",
+  "year": 1901,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡折叠相机，1901 年发布",
+  "description": "The Moment Camera is any of a few folding-bed plate cameras sold by Leitz of Wetzlar for a few years in the first years of the 20th century.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leitz Moment Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leitz Moment Camera",
+      "url": "https://camera-wiki.org/wiki/Leitz%20Moment%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

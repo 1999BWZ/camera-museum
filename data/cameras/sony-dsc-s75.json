@@ -1,0 +1,29 @@
+{
+  "id": "sony-dsc-s75",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "DSC-S75",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2001 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nIn the year 2001, the CyberShot DSC-S75 was a great deal for the money.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony DSC-S75"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony DSC-S75",
+      "url": "https://camera-wiki.org/wiki/Sony%20DSC-S75"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

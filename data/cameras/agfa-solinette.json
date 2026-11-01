@@ -1,0 +1,29 @@
+{
+  "id": "agfa-solinette",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Solinette",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发折叠相机，1952 年发布",
+  "description": "__NOTOC__\n{| class=\"wikitable floatright\" \n|\n\n|\n|-\n|\n\n|\n|-\n|\n\n|-\n|\n|}\nAgfa made this folding 35mm viewfinder camera between 1952 and 1955.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Solinette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Solinette",
+      "url": "https://camera-wiki.org/wiki/Solinette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

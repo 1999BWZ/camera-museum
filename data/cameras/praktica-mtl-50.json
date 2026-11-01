@@ -1,0 +1,29 @@
+{
+  "id": "praktica-mtl-50",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "MTL 50",
+  "year": 1985,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康数码单反相机，1985 年发布",
+  "description": "The Praktica MTL 50 is a 35mm SLR made by KW 1985-89.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica MTL 50"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica MTL 50",
+      "url": "https://camera-wiki.org/wiki/Praktica%20MTL%2050"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

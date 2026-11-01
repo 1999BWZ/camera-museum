@@ -1,0 +1,40 @@
+{
+  "id": "pentax-ist-d-q907192",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "*ist D",
+  "year": 2003,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，2003 年发布",
+  "description": "宾得于2003年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q907192",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20istD%20w%20FA20-35%20K7NS1900.jpg?width=800",
+      "caption": "*ist D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q907192"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax *ist D",
+      "url": "https://www.wikidata.org/wiki/Q907192"
+    }
+  ],
+  "qid": "Q907192",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

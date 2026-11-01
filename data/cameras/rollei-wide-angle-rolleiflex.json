@@ -1,0 +1,29 @@
+{
+  "id": "rollei-wide-angle-rolleiflex",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "Wide-Angle Rolleiflex",
+  "year": 1961,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来中画幅相机，1961 年发布",
+  "description": "The Wide-Angle Rolleiflex is a medium format Wide-angle TLR camera manufactured by Franke & Heidecke and later on by Rollei.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wide-Angle Rolleiflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wide-Angle Rolleiflex",
+      "url": "https://camera-wiki.org/wiki/Wide-Angle%20Rolleiflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

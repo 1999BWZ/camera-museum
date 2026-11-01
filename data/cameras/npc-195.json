@@ -1,0 +1,29 @@
+{
+  "id": "npc-195",
+  "brand": "NPC",
+  "brand_cn": "",
+  "brand_slug": "npc",
+  "country": "待补充",
+  "manufacturer": "NPC",
+  "model": "195",
+  "year": 2003,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "NPC一次成像相机，2003 年发布",
+  "description": "The NPC 195 is a professional rangefinder folding camera for instant film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "NPC 195"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – NPC 195",
+      "url": "https://camera-wiki.org/wiki/NPC%20195"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

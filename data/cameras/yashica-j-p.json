@@ -1,0 +1,29 @@
+{
+  "id": "yashica-j-p",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "J-P",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片相机，1964 年发布",
+  "description": "The Yashica J-P was a 1964 revision of the earlier Yashica Penta J, adding a self-timer and a fully automatic aperture mechanism.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica J-P"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica J-P",
+      "url": "https://camera-wiki.org/wiki/Yashica%20J-P"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

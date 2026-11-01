@@ -1,0 +1,29 @@
+{
+  "id": "agfa-parat",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Parat",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发取景器相机，1963 年发布",
+  "description": "The Agfa Parat family of cameras was introduced in 1963 with the basic Parat I and more advanced Paramat.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Parat"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Parat",
+      "url": "https://camera-wiki.org/wiki/Parat"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

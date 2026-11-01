@@ -1,0 +1,29 @@
+{
+  "id": "beier-voran",
+  "brand": "Beier",
+  "brand_cn": "",
+  "brand_slug": "beier",
+  "country": "待补充",
+  "manufacturer": "Beier",
+  "model": "Voran",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beier折叠相机，1937 年发布",
+  "description": "The Voran is a self-erecting folder made by Beier in Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Voran"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Voran",
+      "url": "https://camera-wiki.org/wiki/Voran"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

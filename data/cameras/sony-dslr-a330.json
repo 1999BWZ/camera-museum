@@ -1,0 +1,40 @@
+{
+  "id": "sony-dslr-a330",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSLR-A330",
+  "year": 2009,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码单反相机，2009 年发布",
+  "description": "索尼于2009年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q771177",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SONY%20Alpha%20330.jpg?width=800",
+      "caption": "DSLR-A330",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q771177"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSLR-A330",
+      "url": "https://www.wikidata.org/wiki/Q771177"
+    }
+  ],
+  "qid": "Q771177",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

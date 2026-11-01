@@ -1,0 +1,29 @@
+{
+  "id": "wirgin-edixa",
+  "brand": "Wirgin",
+  "brand_cn": "",
+  "brand_slug": "wirgin",
+  "country": "待补充",
+  "manufacturer": "Wirgin",
+  "model": "Edixa",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wirgin取景器相机，1952 年发布",
+  "description": "In 1953 Wirgin intended to replace its successful Edinex viewfinder cameras with a more up-to-date model of viewfinder camera, which they named Edina.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wirgin Edixa"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wirgin Edixa",
+      "url": "https://camera-wiki.org/wiki/Wirgin%20Edixa"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

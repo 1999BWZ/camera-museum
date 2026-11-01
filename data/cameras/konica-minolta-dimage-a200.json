@@ -1,0 +1,29 @@
+{
+  "id": "konica-minolta-dimage-a200",
+  "brand": "Konica Minolta",
+  "brand_cn": "柯尼卡美能达",
+  "brand_slug": "konica-minolta",
+  "country": "日本",
+  "manufacturer": "Konica Minolta",
+  "model": "Dimage A200",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡美能达数码相机，2005 年发布",
+  "description": "The Konica Minolta Dimage A200 won one of the DIMA 2005 Shoot-outs Awards[https://web.archive.org/web/20060315015347/http://www.imaging-resource.com/NEWS/1109797768.html Konica Minolta Digital Cameras Win 2005 Dima Digital Camera Shoot-out Awards] (archived)\n\nKnown issues and work-around\n* grainy EV",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Minolta Dimage A200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Minolta Dimage A200",
+      "url": "https://camera-wiki.org/wiki/Konica%20Minolta%20Dimage%20A200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

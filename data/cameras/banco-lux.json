@@ -1,0 +1,29 @@
+{
+  "id": "banco-lux",
+  "brand": "Banco",
+  "brand_cn": "",
+  "brand_slug": "banco",
+  "country": "法国",
+  "manufacturer": "Banco",
+  "model": "Lux",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Banco取景器相机，1953 年发布",
+  "description": "The Banco Lux is a camera produced by the French company Kafta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Banco Lux"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Banco Lux",
+      "url": "https://camera-wiki.org/wiki/Banco%20Lux"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

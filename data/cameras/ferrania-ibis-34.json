@@ -1,0 +1,29 @@
+{
+  "id": "ferrania-ibis-34",
+  "brand": "Ferrania",
+  "brand_cn": "",
+  "brand_slug": "ferrania",
+  "country": "意大利",
+  "manufacturer": "Ferrania",
+  "model": "Ibis 34",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ferrania取景器相机，1959 年发布",
+  "description": "The Ibis 34 is cast aluminium viewfinder camera taking 3x4cm pictures on 127 film, made in Italy by Ferrania, c.1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ferrania Ibis 34"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ferrania Ibis 34",
+      "url": "https://camera-wiki.org/wiki/Ferrania%20Ibis%2034"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

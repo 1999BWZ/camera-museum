@@ -1,0 +1,29 @@
+{
+  "id": "sony-dsc-s40",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "DSC-S40",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2005 年发布",
+  "description": "The Sony DSC-S40 is a compact 4 Megapixel digital camera with optical viewfinder and 3x zoom lens, launched in 2005 by Sony.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony DSC-S40"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony DSC-S40",
+      "url": "https://camera-wiki.org/wiki/Sony%20DSC-S40"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

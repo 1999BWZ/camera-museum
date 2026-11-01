@@ -1,0 +1,29 @@
+{
+  "id": "nobility-picny-35-and-royal-35",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Picny 35 and Royal 35",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility取景器相机，1951 年发布",
+  "description": "{| class=\"plainlinks floatright\" width=250px style=\"text-align: center;\"\n| [http://www.flickr.com/photos/camerawiki/40772458973/in/pool-camerawiki/ https://live.staticflickr.com/65535/40772458973_6a4c10ff13_m.jpg]\n|-\n| Picny 35by Marcus Ziegler.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Picny 35 and Royal 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Picny 35 and Royal 35",
+      "url": "https://camera-wiki.org/wiki/Picny%2035%20and%20Royal%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

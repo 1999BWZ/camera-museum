@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-lloyd",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Lloyd",
+  "year": 1926,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon折叠相机，1926 年发布",
+  "description": "The Lloyd-Camera made by Zeiss Ikon A.G.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lloyd"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lloyd",
+      "url": "https://camera-wiki.org/wiki/Lloyd"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "argus-model-m",
+  "brand": "Argus",
+  "brand_cn": "",
+  "brand_slug": "argus",
+  "country": "待补充",
+  "manufacturer": "Argus",
+  "model": "Model M",
+  "year": 1939,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Argus胶片相机，1939 年发布",
+  "description": "The Argus Model M is a small bakelite camera, manufactured from 1939-1940.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Argus Model M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Argus Model M",
+      "url": "https://camera-wiki.org/wiki/Argus%20Model%20M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

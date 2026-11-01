@@ -1,0 +1,29 @@
+{
+  "id": "ferrania-falco-s",
+  "brand": "Ferrania",
+  "brand_cn": "",
+  "brand_slug": "ferrania",
+  "country": "意大利",
+  "manufacturer": "Ferrania",
+  "model": "Falco S",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ferrania折叠相机，1951 年发布",
+  "description": "The Falco S is a folder camera produced about 1951 by the Italian company Ferrania.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Falco S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Falco S",
+      "url": "https://camera-wiki.org/wiki/Falco%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

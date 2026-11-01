@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-spectra",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Spectra",
+  "year": 1986,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来胶片单反相机，1986 年发布",
+  "description": "Polaroid introduced the Spectra system of cameras in the mid 1980s, probably in 1986[https://youtu.be/21Fyf57f9wg?si=STsjEaIJXKXM8En8 1986 Polaroid Spectra System \"So real, so life like\" TV Commercial] at YouTuber [https://www.youtube.com/@ewjxn ewjxn].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Spectra"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Spectra",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Spectra"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ansco-no-1a-folding",
+  "brand": "Ansco",
+  "brand_cn": "",
+  "brand_slug": "ansco",
+  "country": "待补充",
+  "manufacturer": "Ansco",
+  "model": "No 1A Folding",
+  "year": 1915,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ansco胶片相机，1915 年发布",
+  "description": "The Ansco No 1A is a simple American folding bed camera, shooting 2 1/2 x 4 1/4\" exposures onto rollfilm of type 116.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ansco No 1A Folding"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ansco No 1A Folding",
+      "url": "https://camera-wiki.org/wiki/Ansco%20No%201A%20Folding"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "whitehouse-products",
+  "brand": "Whitehouse",
+  "brand_cn": "",
+  "brand_slug": "whitehouse",
+  "country": "美国",
+  "manufacturer": "Whitehouse",
+  "model": "Products",
+  "year": 1960,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Whitehouse胶片相机，1960 年发布",
+  "description": "Whitehouse Products Inc.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Whitehouse Products"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Whitehouse Products",
+      "url": "https://camera-wiki.org/wiki/Whitehouse%20Products"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

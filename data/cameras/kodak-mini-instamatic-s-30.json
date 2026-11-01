@@ -1,0 +1,29 @@
+{
+  "id": "kodak-mini-instamatic-s-30",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Mini-Instamatic S 30",
+  "year": 1976,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1976 年发布",
+  "description": "{| class=\"plainlinks floatright\"\n||imaging samples:&nbsp;\n|-\n|| [https://www.flickr.com/photos/89864432@N00/3998239209/in/pool-852862@N20 https://farm3.static.flickr.com/2489/3998239209_bd6046ebf1_m.jpg]\n|| [https://www.flickr.com/photos/89864432@N00/3907894382/in/pool-mannheimcity https://farm3.sta",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Mini-Instamatic S 30"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Mini-Instamatic S 30",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Mini-Instamatic%20S%2030"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

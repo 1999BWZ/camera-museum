@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-st801",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca ST801",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片单反相机，1972 年发布",
+  "description": "The Fujica ST801 is a manual SLR 35mm film camera made by Fuji between 1972 and 1978.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica ST801"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica ST801",
+      "url": "https://camera-wiki.org/wiki/Fujica%20ST801"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

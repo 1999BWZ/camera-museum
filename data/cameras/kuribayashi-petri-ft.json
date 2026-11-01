@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-ft",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri FT",
+  "year": 1967,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi数码单反相机，1967 年发布",
+  "description": "The Petri FT is a stopdown-metering SLR using a proprietary Petri breech-lock lens mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri FT"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri FT",
+      "url": "https://camera-wiki.org/wiki/Petri%20FT"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

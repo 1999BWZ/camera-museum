@@ -1,0 +1,29 @@
+{
+  "id": "ferrania-elioflex",
+  "brand": "Ferrania",
+  "brand_cn": "",
+  "brand_slug": "ferrania",
+  "country": "待补充",
+  "manufacturer": "Ferrania",
+  "model": "Elioflex",
+  "year": 1950,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ferrania胶片相机，1950 年发布",
+  "description": "The Ferrania Elioflex is a 6x6 pseudo TLR, released about 1950.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ferrania Elioflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ferrania Elioflex",
+      "url": "https://camera-wiki.org/wiki/Ferrania%20Elioflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

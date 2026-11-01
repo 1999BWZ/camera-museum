@@ -1,0 +1,29 @@
+{
+  "id": "lumi-re-lumix",
+  "brand": "Lumière",
+  "brand_cn": "",
+  "brand_slug": "lumi-re",
+  "country": "法国",
+  "manufacturer": "Lumière",
+  "model": "Lumix",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lumière折叠相机，1936 年发布",
+  "description": "\"Lumix\" is also a brand name of Panasonic digital cameras\n\nThe Lumix is a folding roll film camera produced by Lumière in\nFrance, in 1936.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lumière Lumix"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lumière Lumix",
+      "url": "https://camera-wiki.org/wiki/Lumi%C3%A8re%20Lumix"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

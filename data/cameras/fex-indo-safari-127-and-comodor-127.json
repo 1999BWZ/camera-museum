@@ -1,0 +1,29 @@
+{
+  "id": "fex-indo-safari-127-and-comodor-127",
+  "brand": "Fex Indo",
+  "brand_cn": "",
+  "brand_slug": "fex-indo",
+  "country": "待补充",
+  "manufacturer": "Fex Indo",
+  "model": "Safari 127 and Comodor 127",
+  "year": 1970,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fex Indo胶片相机，1970 年发布",
+  "description": "The Safari is a simple, plastic box-type camera taking square images on 127 roll film, made in France by Fex-Indo, c.1970.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Safari 127 and Comodor 127"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Safari 127 and Comodor 127",
+      "url": "https://camera-wiki.org/wiki/Safari%20127%20and%20Comodor%20127"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

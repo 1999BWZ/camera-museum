@@ -1,0 +1,29 @@
+{
+  "id": "konica-pearl-iv",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Pearl IV",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡旁轴相机，1958 年发布",
+  "description": "The Pearl IV is a 4.5×6cm folder, released by Konishiroku (the later Konica) in December 1958.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pearl IV"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pearl IV",
+      "url": "https://camera-wiki.org/wiki/Pearl%20IV"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

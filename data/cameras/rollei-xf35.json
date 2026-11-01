@@ -1,0 +1,29 @@
+{
+  "id": "rollei-xf35",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "XF35",
+  "year": 1974,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来旁轴相机，1974 年发布",
+  "description": "Released in 1974, the XF35 was a more conventional design than the Rollei 35 miniature 35 mm camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei XF35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei XF35",
+      "url": "https://camera-wiki.org/wiki/Rollei%20XF35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

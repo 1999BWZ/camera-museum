@@ -1,0 +1,29 @@
+{
+  "id": "revue-400-l",
+  "brand": "Revue",
+  "brand_cn": "",
+  "brand_slug": "revue",
+  "country": "待补充",
+  "manufacturer": "Revue",
+  "model": "400 L",
+  "year": 1976,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Revue取景器相机，1976 年发布",
+  "description": "The Revue 400 L is a small viewfinder camera for 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revue 400 L"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revue 400 L",
+      "url": "https://camera-wiki.org/wiki/Revue%20400%20L"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

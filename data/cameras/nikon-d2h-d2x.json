@@ -1,0 +1,29 @@
+{
+  "id": "nikon-d2h-d2x",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "D2H/D2X",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2003 年发布",
+  "description": "The Nikon D2H and D2X, were released in 2003 as the top-of-the-line DSLR cameras in the Nikon range.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon D2H/D2X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon D2H/D2X",
+      "url": "https://camera-wiki.org/wiki/Nikon%20D2H/D2X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

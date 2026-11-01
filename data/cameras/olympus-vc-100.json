@@ -1,0 +1,29 @@
+{
+  "id": "olympus-vc-100",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "VC-100",
+  "year": 1991,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，1991 年发布",
+  "description": "Although announced in 1988, the VC-100 was finally put in production by Olympus in 1991 as its entrant into the short-lived still-video camera category.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus VC-100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus VC-100",
+      "url": "https://camera-wiki.org/wiki/Olympus%20VC-100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

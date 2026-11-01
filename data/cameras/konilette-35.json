@@ -1,0 +1,29 @@
+{
+  "id": "konilette-35",
+  "brand": "Konilette",
+  "brand_cn": "",
+  "brand_slug": "konilette",
+  "country": "待补充",
+  "manufacturer": "Konilette",
+  "model": "35",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Konilette胶片相机，1959 年发布",
+  "description": "The Konilette 35 is a Konishiroku 35mm viewfinder camera offered circa 1959, as the low-cost alternative to more advanced models like the Konica IIIA.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konilette 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konilette 35",
+      "url": "https://camera-wiki.org/wiki/Konilette%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

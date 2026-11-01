@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-auto-7",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca Auto-7",
+  "year": 1981,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji便携相机，1981 年发布",
+  "description": "Fujica Auto-7 is an early autofocus compact camera released in 1981, a year after the zone focus Auto-5.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica Auto-7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica Auto-7",
+      "url": "https://camera-wiki.org/wiki/Fujica%20Auto-7"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

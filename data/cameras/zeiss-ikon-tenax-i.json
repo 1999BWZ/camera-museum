@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-tenax-i",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Tenax I",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon取景器相机，1939 年发布",
+  "description": "{|class=\"plainlinks floatleft\"\n ||[https://www.flickr.com/photos/50678983@N00/200309979/in/pool-camerawiki https://static.flickr.com/73/200309979_ea784f02f2_m.jpg]\n ||[https://www.flickr.com/photos/50678983@N00/200369744/in/pool-camerawiki https://static.flickr.com/59/200369744_0b2e9d86c4_m.jpg]\n ||",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tenax I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tenax I",
+      "url": "https://camera-wiki.org/wiki/Tenax%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

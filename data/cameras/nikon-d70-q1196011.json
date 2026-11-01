@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d70-q1196011",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D70",
+  "year": 2004,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2004 年发布",
+  "description": "尼康于2004年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1196011",
+    "多语言词条数": "20"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D70%20with%2035mm%20f2.jpg?width=800",
+      "caption": "D70",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1196011"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D70",
+      "url": "https://www.wikidata.org/wiki/Q1196011"
+    }
+  ],
+  "qid": "Q1196011",
+  "sitelinks": 20,
+  "imported": "wikidata-5k-2026-11-01"
+}

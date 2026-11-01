@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-d30-q66265",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS D30",
+  "year": 2000,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2000 年发布",
+  "description": "佳能于2000年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q66265",
+    "多语言词条数": "17"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EOS%20D30%20body.JPG?width=800",
+      "caption": "EOS D30",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q66265"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS D30",
+      "url": "https://www.wikidata.org/wiki/Q66265"
+    }
+  ],
+  "qid": "Q66265",
+  "sitelinks": 17,
+  "imported": "wikidata-5k-2026-11-01"
+}

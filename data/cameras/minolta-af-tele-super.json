@@ -1,0 +1,29 @@
+{
+  "id": "minolta-af-tele-super",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "AF-Tele Super",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1988 年发布",
+  "description": "The Minolta AF-Tele Super (Europe) or Freedom Tele (America) or Mac-Tele (Japan) is a dual focal-length autofocus compact camera switchable from 38 mm f/2.8 normal lens to 80 mm f/5.6 portrait lens by push-button and usable with DX-coded 35mm film with film speed betwwen ISO 50 and ISO 3200.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta AF-Tele Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta AF-Tele Super",
+      "url": "https://camera-wiki.org/wiki/Minolta%20AF-Tele%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

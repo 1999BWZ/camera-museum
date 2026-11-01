@@ -1,0 +1,29 @@
+{
+  "id": "kigawa-baby-chrome",
+  "brand": "Kigawa",
+  "brand_cn": "",
+  "brand_slug": "kigawa",
+  "country": "待补充",
+  "manufacturer": "Kigawa",
+  "model": "Baby Chrome",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kigawa取景器相机，1936 年发布",
+  "description": "The Baby Chrome , p.464, and , item 4100, call the camera \"Tsubasa Baby Chrome\", probably by mistake.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baby Chrome"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baby Chrome",
+      "url": "https://camera-wiki.org/wiki/Baby%20Chrome"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

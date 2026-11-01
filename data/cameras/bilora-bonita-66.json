@@ -1,0 +1,29 @@
+{
+  "id": "bilora-bonita-66",
+  "brand": "Bilora",
+  "brand_cn": "",
+  "brand_slug": "bilora",
+  "country": "待补充",
+  "manufacturer": "Bilora",
+  "model": "Bonita 66",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bilora盒式相机，1951 年发布",
+  "description": "The Bonita 66 is a pseudo-TLR box camera taking 6x6cm images on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bonita 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bonita 66",
+      "url": "https://camera-wiki.org/wiki/Bonita%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

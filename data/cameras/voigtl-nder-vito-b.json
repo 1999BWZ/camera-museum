@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-vito-b",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Vito B",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer取景器相机，1954 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Voigtländer Vito B is an attractive and compact 35mm viewfinder introduced in 1954 by Voigtländer, and produced until 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vito B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vito B",
+      "url": "https://camera-wiki.org/wiki/Vito%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

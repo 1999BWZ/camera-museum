@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-7900",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix 7900",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2005 年发布",
+  "description": "The Nikon Coolpix 7900 is a 7 megapixel compact digital camera made in China \nfor the Nikon Coporation, introduced in February 2005.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix 7900"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix 7900",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%207900"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

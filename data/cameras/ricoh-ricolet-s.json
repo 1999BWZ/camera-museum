@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-ricolet-s",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Ricolet S",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光取景器相机，1955 年发布",
+  "description": "The Ricoh Ricolet S is a viewfinder camera with fixed lens made in Japan by Ricoh from 1955.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricolet S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricolet S",
+      "url": "https://camera-wiki.org/wiki/Ricolet%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

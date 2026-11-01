@@ -1,0 +1,29 @@
+{
+  "id": "ansco-titan",
+  "brand": "Ansco",
+  "brand_cn": "",
+  "brand_slug": "ansco",
+  "country": "美国",
+  "manufacturer": "Ansco",
+  "model": "Titan",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ansco折叠相机，1948 年发布",
+  "description": "Ansco introduced this nicely-finished 6x6 folder for 120 film in the latter half of 1948[https://www.flickr.com/photos/camerawiki/5518684882/ Ansco Titan catalog description] in [https://www.flickr.com/photos/camerawiki/5518683656/ 1948 Montgomery Ward Photographic Catalog] notes \"Do not order befor",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ansco Titan"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ansco Titan",
+      "url": "https://camera-wiki.org/wiki/Ansco%20Titan"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

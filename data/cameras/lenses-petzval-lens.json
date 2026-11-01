@@ -1,0 +1,29 @@
+{
+  "id": "lenses-petzval-lens",
+  "brand": "Lenses",
+  "brand_cn": "",
+  "brand_slug": "lenses",
+  "country": "奥地利",
+  "manufacturer": "Lenses",
+  "model": "Petzval lens",
+  "year": 1841,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lenses大画幅相机，1841 年发布",
+  "description": "The Petzval lens (or Petzval portrait lens) is the oldest notable lens design for photography.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petzval lens"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petzval lens",
+      "url": "https://camera-wiki.org/wiki/Petzval%20lens"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "wzfo-ami-series",
+  "brand": "WZFO",
+  "brand_cn": "",
+  "brand_slug": "wzfo",
+  "country": "波兰",
+  "manufacturer": "WZFO",
+  "model": "Ami series",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "WZFO胶片相机，1953 年发布",
+  "description": "{|align=right\n||\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Ami series was a series of three toy viewfinder camera models by WZFO and PZO (only for the latest Ami 66's type of five available).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ami series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ami series",
+      "url": "https://camera-wiki.org/wiki/Ami%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

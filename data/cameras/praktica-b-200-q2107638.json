@@ -1,0 +1,40 @@
+{
+  "id": "praktica-b-200-q2107638",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "潘太康",
+  "model": "B 200",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片相机，1979 年发布",
+  "description": "潘泰康于1979年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2107638",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praktica%20B%20200.JPG?width=800",
+      "caption": "B 200",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2107638"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Praktica B 200",
+      "url": "https://www.wikidata.org/wiki/Q2107638"
+    }
+  ],
+  "qid": "Q2107638",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

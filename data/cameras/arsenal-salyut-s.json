@@ -1,0 +1,29 @@
+{
+  "id": "arsenal-salyut-s",
+  "brand": "Arsenal",
+  "brand_cn": "",
+  "brand_slug": "arsenal",
+  "country": "待补充",
+  "manufacturer": "Arsenal",
+  "model": "Salyut-S",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arsenal胶片单反相机，1972 年发布",
+  "description": "Salyut-S (or Salut-S = Салют-C) is a medium format SLR film system camera, manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR and produced between 1972-1980, quantity 30.000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Salyut-S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Salyut-S",
+      "url": "https://camera-wiki.org/wiki/Salyut-S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

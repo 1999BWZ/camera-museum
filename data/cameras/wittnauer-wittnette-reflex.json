@@ -1,0 +1,29 @@
+{
+  "id": "wittnauer-wittnette-reflex",
+  "brand": "Wittnauer",
+  "brand_cn": "",
+  "brand_slug": "wittnauer",
+  "country": "美国",
+  "manufacturer": "Wittnauer",
+  "model": "Wittnette Reflex",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wittnauer胶片相机，1959 年发布",
+  "description": "The Wittnauer company put its own Wittnette branding onto this pseudo TLR c.1959, actually a USC Reflex III from United States Camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wittnette Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wittnette Reflex",
+      "url": "https://camera-wiki.org/wiki/Wittnette%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

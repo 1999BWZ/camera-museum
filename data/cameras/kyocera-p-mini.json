@@ -1,0 +1,29 @@
+{
+  "id": "kyocera-p-mini",
+  "brand": "Kyocera",
+  "brand_cn": "",
+  "brand_slug": "kyocera",
+  "country": "待补充",
+  "manufacturer": "Kyocera",
+  "model": "P-mini",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kyocera全景相机，1990 年发布",
+  "description": "The P-mini is a fixed-focus point-and-shoot camera introduced by the Japanese manufacturer Kyocera in 1990.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kyocera P-mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kyocera P-mini",
+      "url": "https://camera-wiki.org/wiki/Kyocera%20P-mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-xd-series",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "XD series",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1977 年发布",
+  "description": "=== Multifunction automation ===\nIn 1977, Minolta was the first manufacturer to combine both TTL aperture-priority and shutter-priority automation in one SLR camera body, this was the Minolta XD-7 / XD-11.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta XD series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta XD series",
+      "url": "https://camera-wiki.org/wiki/Minolta%20XD%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

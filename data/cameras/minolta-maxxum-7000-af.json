@@ -1,0 +1,40 @@
+{
+  "id": "minolta-maxxum-7000-af",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "美能达",
+  "model": "Maxxum 7000 AF",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1985 年发布",
+  "description": "美能达于1985年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1411757",
+    "多语言词条数": "9"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minolta7000.jpg?width=800",
+      "caption": "Maxxum 7000 AF",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1411757"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Minolta Maxxum 7000 AF",
+      "url": "https://www.wikidata.org/wiki/Q1411757"
+    }
+  ],
+  "qid": "Q1411757",
+  "sitelinks": 9,
+  "imported": "wikidata-5k-2026-11-01"
+}

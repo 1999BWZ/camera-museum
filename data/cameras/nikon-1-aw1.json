@@ -1,0 +1,40 @@
+{
+  "id": "nikon-1-aw1",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "1 AW1",
+  "year": 2013,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康无反相机，2013 年发布",
+  "description": "尼康于2013年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q15303364",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%201%20AW1%20-%20panoramio.jpg?width=800",
+      "caption": "1 AW1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q15303364"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon 1 AW1",
+      "url": "https://www.wikidata.org/wiki/Q15303364"
+    }
+  ],
+  "qid": "Q15303364",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

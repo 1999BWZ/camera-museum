@@ -1,0 +1,29 @@
+{
+  "id": "camera-kit-optikus",
+  "brand": "Camera kit",
+  "brand_cn": "",
+  "brand_slug": "camera-kit",
+  "country": "待补充",
+  "manufacturer": "Camera kit",
+  "model": "Optikus",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Camera kit胶片单反相机，1968 年发布",
+  "description": "The Kosmos Optikus was an experimental kit made by the publisher of the German Kosmos nature magazine in c.1968[https://mausbruck.de/sonderformate/ Optikus (amongst others)] at [https://mausbruck.de/ Mausbruck.de] (in German).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Optikus"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Optikus",
+      "url": "https://camera-wiki.org/wiki/Optikus"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

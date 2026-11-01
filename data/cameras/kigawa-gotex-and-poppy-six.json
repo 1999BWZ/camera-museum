@@ -1,0 +1,29 @@
+{
+  "id": "kigawa-gotex-and-poppy-six",
+  "brand": "Kigawa",
+  "brand_cn": "",
+  "brand_slug": "kigawa",
+  "country": "待补充",
+  "manufacturer": "Kigawa",
+  "model": "Gotex and Poppy Six",
+  "year": 1941,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kigawa折叠相机，1941 年发布",
+  "description": "The Gotex (ゴーテックス) is a Japanese 6×6 folder made by Kigawa from 1941 to the end of the war, and later by Shin Nippon Kōgyō.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Gotex and Poppy Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Gotex and Poppy Six",
+      "url": "https://camera-wiki.org/wiki/Gotex%20and%20Poppy%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

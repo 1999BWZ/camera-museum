@@ -1,0 +1,29 @@
+{
+  "id": "bell-howell-electric-eye-127",
+  "brand": "Bell",
+  "brand_cn": "",
+  "brand_slug": "bell",
+  "country": "待补充",
+  "manufacturer": "Bell",
+  "model": "& Howell Electric Eye 127",
+  "year": 1958,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bell盒式相机，1958 年发布",
+  "description": "The Electric Eye 127 is a cast metal-bodied box camera for 4x4 cm pictures on 127 rollfilm.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bell & Howell Electric Eye 127"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bell & Howell Electric Eye 127",
+      "url": "https://camera-wiki.org/wiki/Bell%20%26%20Howell%20Electric%20Eye%20127"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

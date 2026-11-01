@@ -1,0 +1,29 @@
+{
+  "id": "agfa-registrierkamera",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Registrierkamera",
+  "year": 1961,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发胶片相机，1961 年发布",
+  "description": "The Agfa Registrierkamera is a surveillance camera for traffic, security and industrial processes, made from 1961 to 1970.[https://kameramuseum.de/objekte/agfa-registriercamera/ Registrierkamera] at the Deutsches Kameramuseum.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Registrierkamera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Registrierkamera",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Registrierkamera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

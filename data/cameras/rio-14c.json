@@ -1,0 +1,29 @@
+{
+  "id": "rio-14c",
+  "brand": "Rio",
+  "brand_cn": "",
+  "brand_slug": "rio",
+  "country": "待补充",
+  "manufacturer": "Rio",
+  "model": "14C",
+  "year": 1921,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rio折叠相机，1921 年发布",
+  "description": "The Rio 14C is a folding bed camera for 6x9 film plates or sheets.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rio 14C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rio 14C",
+      "url": "https://camera-wiki.org/wiki/Rio%2014C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

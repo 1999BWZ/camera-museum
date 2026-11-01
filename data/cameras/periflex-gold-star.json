@@ -1,0 +1,29 @@
+{
+  "id": "periflex-gold-star",
+  "brand": "Periflex",
+  "brand_cn": "",
+  "brand_slug": "periflex",
+  "country": "英国",
+  "manufacturer": "Periflex",
+  "model": "Gold Star",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Periflex取景器相机，1961 年发布",
+  "description": "The 35mm Corfield Periflex Gold Star was a version of the Periflex 3a, with minor manufacturing changes yielding cost savings.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Periflex Gold Star"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Periflex Gold Star",
+      "url": "https://camera-wiki.org/wiki/Periflex%20Gold%20Star"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

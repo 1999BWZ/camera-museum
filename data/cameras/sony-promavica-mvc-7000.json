@@ -1,0 +1,29 @@
+{
+  "id": "sony-promavica-mvc-7000",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "ProMavica MVC-7000",
+  "year": 1992,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼胶片相机，1992 年发布",
+  "description": "Even more sophisticated than the previous ProMavica MVC-5000 among Sony's early still-video cameras, the ProMavica MVC-7000 wrings the maximum possible resolution out of the technology (single television frames of analog scan lines) through the use of three sensor chips, as used in some broadcast te",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony ProMavica MVC-7000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony ProMavica MVC-7000",
+      "url": "https://camera-wiki.org/wiki/Sony%20ProMavica%20MVC-7000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

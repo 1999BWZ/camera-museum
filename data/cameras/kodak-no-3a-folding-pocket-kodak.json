@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-3a-folding-pocket-kodak",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 3A Folding Pocket Kodak",
+  "year": 1903,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1903 年发布",
+  "description": "{|class=plainlinks\n||[https://www.flickr.com/photos/bstrong/357369255/in/pool-camerawiki/ https://farm1.static.flickr.com/136/357369255_729cb56c13_n.jpg]\n||[https://www.flickr.com/photos/bstrong/357369421/in/pool-camerawiki/ https://farm1.static.flickr.com/150/357369421_694472ef0a_n.jpg]\n||[https://",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 3A Folding Pocket Kodak"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 3A Folding Pocket Kodak",
+      "url": "https://camera-wiki.org/wiki/No.%203A%20Folding%20Pocket%20Kodak"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

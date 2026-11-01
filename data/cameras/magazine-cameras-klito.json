@@ -1,0 +1,29 @@
+{
+  "id": "magazine-cameras-klito",
+  "brand": "Magazine cameras",
+  "brand_cn": "",
+  "brand_slug": "magazine-cameras",
+  "country": "英国",
+  "manufacturer": "Magazine cameras",
+  "model": "Klito",
+  "year": 1905,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Magazine cameras盒式相机，1905 年发布",
+  "description": "Houghton's Klito falling-plate magazine camera is made for twelve plates 3¼x4¼ inch (quarter plate) and other sizesKlito models and sizes (1910 catalogue):\n*No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Klito"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Klito",
+      "url": "https://camera-wiki.org/wiki/Klito"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

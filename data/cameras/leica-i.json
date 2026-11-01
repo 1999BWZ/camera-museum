@@ -1,0 +1,40 @@
+{
+  "id": "leica-i",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "I",
+  "year": 1927,
+  "type": "scale_focus",
+  "type_cn": "估焦 135 相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡估焦 135 相机，1927 年发布",
+  "description": "徕卡于1927年发布的估焦 135 相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q6964436",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LEI0060%20186%20Leica%20I%20Sn.5193%201927%20Originalzustand%20Front%20side-FS%205632-Bearbeitet.jpg?width=800",
+      "caption": "I",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q6964436"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica I",
+      "url": "https://www.wikidata.org/wiki/Q6964436"
+    }
+  ],
+  "qid": "Q6964436",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

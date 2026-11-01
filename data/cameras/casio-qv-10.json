@@ -1,0 +1,40 @@
+{
+  "id": "casio-qv-10",
+  "brand": "Casio",
+  "brand_cn": "卡西欧",
+  "brand_slug": "casio",
+  "country": "日本",
+  "manufacturer": "卡西欧",
+  "model": "QV-10",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "卡西欧便携相机，1995 年发布",
+  "description": "卡西欧于1995年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11240261",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Casio%20QV-10%20CP%2B%202011.jpg?width=800",
+      "caption": "QV-10",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q11240261"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Casio QV-10",
+      "url": "https://www.wikidata.org/wiki/Q11240261"
+    }
+  ],
+  "qid": "Q11240261",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

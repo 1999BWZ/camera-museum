@@ -1,0 +1,29 @@
+{
+  "id": "nikon-nikoflex",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Nikoflex",
+  "year": 1946,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，1946 年发布",
+  "description": "The Nikoflex (ニコフレックス) was a TLR project developed by Nippon Kōgaku immediately after World War II.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikoflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikoflex",
+      "url": "https://camera-wiki.org/wiki/Nikoflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

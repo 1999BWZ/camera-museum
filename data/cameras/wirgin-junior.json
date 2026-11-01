@@ -1,0 +1,29 @@
+{
+  "id": "wirgin-junior",
+  "brand": "Wirgin",
+  "brand_cn": "",
+  "brand_slug": "wirgin",
+  "country": "美国",
+  "manufacturer": "Wirgin",
+  "model": "Junior",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wirgin折叠相机，1937 年发布",
+  "description": "The Wirgin Junior was not a product of Gebrüder Wirgin in Wiesbaden, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wirgin Junior"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wirgin Junior",
+      "url": "https://camera-wiki.org/wiki/Wirgin%20Junior"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

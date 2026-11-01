@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-stereo-puck",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "待补充",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Stereo Puck",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard立体相机，1932 年发布",
+  "description": "The Stereo Puck is a stereo box camera made by Thornton-Pickard in about 1932 (the 1932 advertisement below describes the camera as new; but Welt der Stereoskopie dates it to 1925).[https://web.archive.org/web/20241010100502/http://www.stereoskopie.com/Stereokameras/Stereokameras_vor_1945/Stereo_Puc",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Stereo Puck"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Stereo Puck",
+      "url": "https://camera-wiki.org/wiki/Stereo%20Puck"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

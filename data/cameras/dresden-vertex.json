@@ -1,0 +1,29 @@
+{
+  "id": "dresden-vertex",
+  "brand": "Dresden",
+  "brand_cn": "",
+  "brand_slug": "dresden",
+  "country": "待补充",
+  "manufacturer": "Dresden",
+  "model": "Vertex",
+  "year": 1927,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dresden折叠相机，1927 年发布",
+  "description": "Vertex was used by Willy Stübiger as product name for cameras, enlargers and projectors.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vertex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vertex",
+      "url": "https://camera-wiki.org/wiki/Vertex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

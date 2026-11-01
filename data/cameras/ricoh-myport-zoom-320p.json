@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-myport-zoom-320p",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Myport Zoom 320P",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1993 年发布",
+  "description": "The Myport Zoom 320P is an autofocus point-n-shoot camera for 35mm film, introduced by Ricoh in July 1993 as the successor to their Myport Zoom mini.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Myport Zoom 320P"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Myport Zoom 320P",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Myport%20Zoom%20320P"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

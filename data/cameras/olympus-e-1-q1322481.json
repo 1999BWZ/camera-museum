@@ -1,0 +1,40 @@
+{
+  "id": "olympus-e-1-q1322481",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-1",
+  "year": 2003,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，2003 年发布",
+  "description": "奥林巴斯于2003年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1322481",
+    "多语言词条数": "14"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/E-1%20vorne.jpg?width=800",
+      "caption": "E-1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1322481"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 奥林巴斯E-1",
+      "url": "https://www.wikidata.org/wiki/Q1322481"
+    }
+  ],
+  "qid": "Q1322481",
+  "sitelinks": 14,
+  "imported": "wikidata-5k-2026-11-01"
+}

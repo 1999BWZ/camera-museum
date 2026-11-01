@@ -1,0 +1,29 @@
+{
+  "id": "praktica-lb",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "LB",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片单反相机，1972 年发布",
+  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica LB"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica LB",
+      "url": "https://camera-wiki.org/wiki/Praktica%20LB"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

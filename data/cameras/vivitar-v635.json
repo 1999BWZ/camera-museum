@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-v635",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "V635",
+  "year": 1987,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar数码单反相机，1987 年发布",
+  "description": "This 1980s SLR offered by Vivitar is once again a model manufactured under contract by Cosina.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar V635"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar V635",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20V635"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

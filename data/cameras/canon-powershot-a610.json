@@ -1,0 +1,40 @@
+{
+  "id": "canon-powershot-a610",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "PowerShot A610",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2005 年发布",
+  "description": "佳能于2005年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q420815",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20PowerShot%20A610.jpg?width=800",
+      "caption": "PowerShot A610",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q420815"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 PowerShot A610",
+      "url": "https://www.wikidata.org/wiki/Q420815"
+    }
+  ],
+  "qid": "Q420815",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

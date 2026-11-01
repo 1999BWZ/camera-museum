@@ -1,0 +1,29 @@
+{
+  "id": "binocular-tele-spot-110",
+  "brand": "Binocular",
+  "brand_cn": "",
+  "brand_slug": "binocular",
+  "country": "待补充",
+  "manufacturer": "Binocular",
+  "model": "Tele-Spot 110",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Binocular胶片相机，1979 年发布",
+  "description": "A combination of binocular and camera for 110 film by Sedic.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tele-Spot 110"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tele-Spot 110",
+      "url": "https://camera-wiki.org/wiki/Tele-Spot%20110"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pentax-zoom-70-s",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Zoom 70-S",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1988 年发布",
+  "description": "The Pentax Zoom 70-S is a 35mm compact zoom camera with autofocus made by Pentax.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Zoom 70-S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Zoom 70-S",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Zoom%2070-S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

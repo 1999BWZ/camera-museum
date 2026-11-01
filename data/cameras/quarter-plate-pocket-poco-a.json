@@ -1,0 +1,29 @@
+{
+  "id": "quarter-plate-pocket-poco-a",
+  "brand": "Quarter plate",
+  "brand_cn": "",
+  "brand_slug": "quarter-plate",
+  "country": "待补充",
+  "manufacturer": "Quarter plate",
+  "model": "Pocket Poco A",
+  "year": 1903,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Quarter plate折叠相机，1903 年发布",
+  "description": "There is also the folding-bed plate camera, the Pocket Poco, by the same maker.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pocket Poco A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pocket Poco A",
+      "url": "https://camera-wiki.org/wiki/Pocket%20Poco%20A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

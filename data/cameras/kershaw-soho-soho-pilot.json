@@ -1,0 +1,29 @@
+{
+  "id": "kershaw-soho-soho-pilot",
+  "brand": "Kershaw-Soho",
+  "brand_cn": "",
+  "brand_slug": "kershaw-soho",
+  "country": "英国",
+  "manufacturer": "Kershaw-Soho",
+  "model": "Soho Pilot",
+  "year": 1933,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kershaw-Soho折叠相机，1933 年发布",
+  "description": "The Soho Pilot was a 120 film folding camera made in England by Soho Ltd., c.1933.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Soho Pilot"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Soho Pilot",
+      "url": "https://camera-wiki.org/wiki/Soho%20Pilot"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

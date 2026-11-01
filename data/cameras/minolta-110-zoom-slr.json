@@ -1,0 +1,29 @@
+{
+  "id": "minolta-110-zoom-slr",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "110 Zoom SLR",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1976 年发布",
+  "description": "__NOTOC__\n{|class=floatright\n|\n\n|-\n|\n\n|}\nMinolta made two attempts to offer SLR cameras for the 110 pocket film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta 110 Zoom SLR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta 110 Zoom SLR",
+      "url": "https://camera-wiki.org/wiki/Minolta%20110%20Zoom%20SLR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

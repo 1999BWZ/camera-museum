@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-penta",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri Penta",
+  "year": 1959,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi数码单反相机，1959 年发布",
+  "description": "The Petri Penta is the first of a series of 35mm SLR cameras made in the late 1950s and early '60s by Kuribayashi/Petri (the company changed its legal name to Petri in 1962, while this series of cameras was current; they all bear the name Petri on the front of the prism).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri Penta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri Penta",
+      "url": "https://camera-wiki.org/wiki/Petri%20Penta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

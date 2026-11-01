@@ -1,0 +1,40 @@
+{
+  "id": "pentax-spotmatic-q4046655",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "Spotmatic",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1964 年发布",
+  "description": "宾得于1964年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4046655",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20Spotmatic%20camera%201.jpg?width=800",
+      "caption": "Spotmatic",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4046655"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax Spotmatic",
+      "url": "https://www.wikidata.org/wiki/Q4046655"
+    }
+  ],
+  "qid": "Q4046655",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

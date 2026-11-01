@@ -1,0 +1,29 @@
+{
+  "id": "praktica-sport-sk750",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "Sport SK750",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片相机，1994 年发布",
+  "description": "The Sport SK70 is an autofocus compact 35mm camera, sold in about 1994 by Pentacon GmbH; it is likely to have been made in the far east.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica Sport SK750"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica Sport SK750",
+      "url": "https://camera-wiki.org/wiki/Praktica%20Sport%20SK750"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

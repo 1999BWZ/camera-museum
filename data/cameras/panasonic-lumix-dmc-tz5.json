@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-lumix-dmc-tz5",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "Lumix DMC-TZ5",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2008 年发布",
+  "description": "The Lumix TZ5 is a 9.1 megapixel compact travel zoom camera from Panasonic.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic Lumix DMC-TZ5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic Lumix DMC-TZ5",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20Lumix%20DMC-TZ5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

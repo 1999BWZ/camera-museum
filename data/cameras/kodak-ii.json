@@ -1,0 +1,29 @@
+{
+  "id": "kodak-ii",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "II",
+  "year": 1936,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1936 年发布",
+  "description": "The Retina II is a series of four folding 35 mm rangefinder cameras made in Germany by Kodak AG during the periods 1936-1939 and 1946-1950.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Retina II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Retina II",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Retina%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-x530",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "x530",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来便携相机，2005 年发布",
+  "description": "Polaroid x530 is extremely rare digital compact point-and-shoot camera with Foveon x3 sensor.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid x530"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid x530",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20x530"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

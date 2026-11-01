@@ -1,0 +1,29 @@
+{
+  "id": "konica-genba-kantoku-dd",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Genba Kantoku DD",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1989 年发布",
+  "description": "Part of the \"Off-Road\" series, Konica's Genba Kantoku DD (現場監督ＤＤ) is a weather-proof, heavy duty (IPX4 certified) autofocus camera with two focal lengths.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Genba Kantoku DD"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Genba Kantoku DD",
+      "url": "https://camera-wiki.org/wiki/Konica%20Genba%20Kantoku%20DD"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leica-flex",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "flex",
+  "year": 1964,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码单反相机，1964 年发布",
+  "description": "Leicaflex was the name given to the first series of 35mm single-lens reflex (SLR) cameras manufactured by Leitz.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leicaflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leicaflex",
+      "url": "https://camera-wiki.org/wiki/Leicaflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

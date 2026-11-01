@@ -1,0 +1,29 @@
+{
+  "id": "contax-nx",
+  "brand": "Contax",
+  "brand_cn": "康泰时",
+  "brand_slug": "contax",
+  "country": "德国",
+  "manufacturer": "Contax",
+  "model": "NX",
+  "year": 2002,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "康泰时胶片单反相机，2002 年发布",
+  "description": "The Contax NX is an autofocus 35mm film SLR camera introduced in 2002 by Kyocera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contax NX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contax NX",
+      "url": "https://camera-wiki.org/wiki/Contax%20NX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

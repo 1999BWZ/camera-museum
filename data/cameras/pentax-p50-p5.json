@@ -1,0 +1,37 @@
+{
+  "id": "pentax-p50-p5",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "P50/P5",
+  "year": 1986,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1986 年发布",
+  "description": "The Pentax P50 (P5 in the US) is a manual focus SLR utilizing lenses with the KA mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax P50/P5"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm3.static.flickr.com/2591/3824673150_305fd82481.jpg",
+      "caption": "P50/P5",
+      "source": "Flickr（Thomas Backa）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/backa/3824673150/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax P50/P5",
+      "url": "https://camera-wiki.org/wiki/Pentax%20P50/P5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

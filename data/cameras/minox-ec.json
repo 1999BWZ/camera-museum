@@ -1,0 +1,29 @@
+{
+  "id": "minox-ec",
+  "brand": "Minox",
+  "brand_cn": "",
+  "brand_slug": "minox",
+  "country": "待补充",
+  "manufacturer": "Minox",
+  "model": "EC",
+  "year": 1981,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minox微型相机，1981 年发布",
+  "description": "The Minox Model EC was introduced in 1981.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minox EC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minox EC",
+      "url": "https://camera-wiki.org/wiki/Minox%20EC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

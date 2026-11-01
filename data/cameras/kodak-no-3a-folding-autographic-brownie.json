@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-3a-folding-autographic-brownie",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 3A Folding Autographic Brownie",
+  "year": 1916,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达折叠相机，1916 年发布",
+  "description": "柯达于1916年发布的折叠相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 3A Folding Autographic Brownie"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 3A Folding Autographic Brownie",
+      "url": "https://camera-wiki.org/wiki/No.%203A%20Folding%20Autographic%20Brownie"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

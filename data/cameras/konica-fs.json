@@ -1,0 +1,29 @@
+{
+  "id": "konica-fs",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "FS",
+  "year": 1961,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1961 年发布",
+  "description": "Konica introduced the Konica FS in 1961 or 1962 and it is a more affordable, less feature-laden model than the original Konica F model.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica FS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica FS",
+      "url": "https://camera-wiki.org/wiki/Konica%20FS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

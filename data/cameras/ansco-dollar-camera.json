@@ -1,0 +1,29 @@
+{
+  "id": "ansco-dollar-camera",
+  "brand": "Ansco",
+  "brand_cn": "",
+  "brand_slug": "ansco",
+  "country": "美国",
+  "manufacturer": "Ansco",
+  "model": "Dollar Camera",
+  "year": 1910,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ansco盒式相机，1910 年发布",
+  "description": "The diminutive Ansco Dollar Camera was introduced by Ansco of Binghamton, New York in about 1910 In a [http://books.google.com/books?id=baIaUuylU5cC&lpg=PA37&ots=QjQPaZ43or&dq=ansco%20dollar%20camera&pg=PA37#v=onepage&q=ansco%20dollar%20camera&f=false June 1924 Boy's Life magazine ad] (via [http://b",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ansco Dollar Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ansco Dollar Camera",
+      "url": "https://camera-wiki.org/wiki/Ansco%20Dollar%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

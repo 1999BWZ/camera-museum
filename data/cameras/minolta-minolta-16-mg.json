@@ -1,0 +1,29 @@
+{
+  "id": "minolta-minolta-16-mg",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Minolta-16 MG",
+  "year": 1966,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达微型相机，1966 年发布",
+  "description": "The Minolta-16 MG was an exciting item of Minolta's subminiature camera series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta-16 MG"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta-16 MG",
+      "url": "https://camera-wiki.org/wiki/Minolta-16%20MG"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

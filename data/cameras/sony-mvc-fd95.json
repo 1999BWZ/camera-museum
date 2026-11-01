@@ -1,0 +1,40 @@
+{
+  "id": "sony-mvc-fd95",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "MVC-FD95",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2000 年发布",
+  "description": "索尼于2000年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3490760",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Mavica%20MVC-FD95.JPG?width=800",
+      "caption": "MVC-FD95",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q3490760"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony MVC-FD95",
+      "url": "https://www.wikidata.org/wiki/Q3490760"
+    }
+  ],
+  "qid": "Q3490760",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

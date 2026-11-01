@@ -1,0 +1,29 @@
+{
+  "id": "kodak-iif",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "IIF",
+  "year": 1964,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1964 年发布",
+  "description": "The Retina IIF, made by Kodak AG between 1964 and 1967[https://web.archive.org/web/20120415011516/http://www.kodak.com/global/en/consumer/products/techInfo/aa13/aa13.shtml Kodak's list of cameras] (archived) in Germany, is a 35mm rangefinder camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Retina IIF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Retina IIF",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Retina%20IIF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

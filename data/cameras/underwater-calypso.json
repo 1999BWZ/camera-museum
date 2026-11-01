@@ -1,0 +1,29 @@
+{
+  "id": "underwater-calypso",
+  "brand": "Underwater",
+  "brand_cn": "",
+  "brand_slug": "underwater",
+  "country": "法国",
+  "manufacturer": "Underwater",
+  "model": "Calypso",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Underwater取景器相机，1963 年发布",
+  "description": "The Calypso is the first self-contained 35mm film camera designed for underwater use, manufactured in France by Atoms to a design of Jean De Wouters.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Calypso"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Calypso",
+      "url": "https://camera-wiki.org/wiki/Calypso"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

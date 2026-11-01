@@ -1,0 +1,29 @@
+{
+  "id": "taron-unique",
+  "brand": "Taron",
+  "brand_cn": "",
+  "brand_slug": "taron",
+  "country": "待补充",
+  "manufacturer": "Taron",
+  "model": "Unique",
+  "year": 1961,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Taron旁轴相机，1961 年发布",
+  "description": "The charmingly-named Unique, or rather, UNIQUE, is an entry-level rangefinder camera from Taron, introduced circa 1961.It is listed in November, 1962, in Popular Photography magazine's \"1963 Directory & Buying Guide\" insert (Vol.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Taron Unique"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Taron Unique",
+      "url": "https://camera-wiki.org/wiki/Taron%20Unique"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

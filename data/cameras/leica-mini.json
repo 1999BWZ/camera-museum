@@ -1,0 +1,29 @@
+{
+  "id": "leica-mini",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "Mini",
+  "year": 1991,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，1991 年发布",
+  "description": "The Leica mini is a 35mm compact camera, made in Japan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica Mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica Mini",
+      "url": "https://camera-wiki.org/wiki/Leica%20Mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

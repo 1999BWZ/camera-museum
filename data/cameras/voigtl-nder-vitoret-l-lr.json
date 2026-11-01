@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-vitoret-l-lr",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Vitoret L / LR",
+  "year": 1964,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer旁轴相机，1964 年发布",
+  "description": "The Voigtländer Vitoret L was produced in about 1964.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vitoret L / LR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vitoret L / LR",
+      "url": "https://camera-wiki.org/wiki/Vitoret%20L%20/%20LR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

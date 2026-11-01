@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-series-1-zm95db",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "中国",
+  "manufacturer": "Vivitar",
+  "model": "Series 1 ZM95DB",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片相机，1994 年发布",
+  "description": "The Series 1 ZM95DB is a compact 35mm camera made in China for Vivitar, introduced c.1994copyright date on manual.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar Series 1 ZM95DB"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar Series 1 ZM95DB",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20Series%201%20ZM95DB"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

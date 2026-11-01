@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-af35ml-autoboy-super",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot/AF35ML/Autoboy Super",
+  "year": 1981,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1981 年发布",
+  "description": "Made in 1981 by Canon and also known as the Super Sure Shot (US) and Autoboy Super (Japan), the AF35ML was the second in Canon's Sure Shot series and became the compact camera of choice for professionals who wanted to shoot in low-light, since it has a large 1.9 aperture lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Super Sure Shot/AF35ML/Autoboy Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Super Sure Shot/AF35ML/Autoboy Super",
+      "url": "https://camera-wiki.org/wiki/Canon%20Super%20Sure%20Shot/AF35ML/Autoboy%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sony-nex-c3",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "NEX-C3",
+  "year": 2011,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼无反相机，2011 年发布",
+  "description": "索尼于2011年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q15756454",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20NEX-C3%2001s4500.jpg?width=800",
+      "caption": "NEX-C3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q15756454"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 索尼NEX-C3",
+      "url": "https://www.wikidata.org/wiki/Q15756454"
+    }
+  ],
+  "qid": "Q15756454",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

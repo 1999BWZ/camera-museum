@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-520m-cds",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "520m CdS",
+  "year": 1966,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光旁轴相机，1966 年发布",
+  "description": "The 520m CdS is a rangefinder camera for 35mm film introduced by Ricoh circa 1966.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh 520m CdS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh 520m CdS",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20520m%20CdS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

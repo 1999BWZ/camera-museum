@@ -1,0 +1,29 @@
+{
+  "id": "sony-alpha-dslr-a380",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Alpha DSLR-A380",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2009 年发布",
+  "description": "The Sony Alpha DSLR-A380 is a DSLR made by Sony.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Alpha DSLR-A380"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Alpha DSLR-A380",
+      "url": "https://camera-wiki.org/wiki/Sony%20Alpha%20DSLR-A380"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

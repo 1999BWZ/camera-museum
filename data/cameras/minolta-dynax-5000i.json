@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-5000i",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 5000i",
+  "year": 1986,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1986 年发布",
+  "description": "The 5000i belonged to the second camera body generation of Minolta's 35mm autofocus SLR system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 5000i"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 5000i",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%205000i"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "shaty-16",
+  "brand": "Shaty",
+  "brand_cn": "",
+  "brand_slug": "shaty",
+  "country": "待补充",
+  "manufacturer": "Shaty",
+  "model": "16",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Shaty微型相机，1963 年发布",
+  "description": "The Shaty 16 (シャティ16) is a Japanese subminiature camera made at prototype level in 1963.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Shaty 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Shaty 16",
+      "url": "https://camera-wiki.org/wiki/Shaty%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

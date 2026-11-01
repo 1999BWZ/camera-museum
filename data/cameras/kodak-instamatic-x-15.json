@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-x-15",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic X-15",
+  "year": 1970,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1970 年发布",
+  "description": "*Type: Viewfinder Film Camera\n*Years of production: 1970 - 1976\n*Film: 126 film cartridge\n*Lens: 43mm fixed focus\n*Aperture: f/11\n*Shutter speeds: 1/45 and 1/90\n*Flash connector: Magicube",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic X-15"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic X-15",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%20X-15"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lumi-re-lumiflex",
+  "brand": "Lumière",
+  "brand_cn": "",
+  "brand_slug": "lumi-re",
+  "country": "法国",
+  "manufacturer": "Lumière",
+  "model": "Lumiflex",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lumière胶片相机，1953 年发布",
+  "description": "The Lumiflex is a 'pseudo-TLR' camera made by Lumière in about 1953;[http://www.collection-appareils.fr/x/html/page_standard.php?id_appareil=1398 Lumiflex] on [http://www.collection-appareils.fr/general/html/francais.php www.collection-appareils.fr] by Sylvain Halgand.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lumiflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lumiflex",
+      "url": "https://camera-wiki.org/wiki/Lumiflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

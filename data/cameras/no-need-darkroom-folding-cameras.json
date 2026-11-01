@@ -1,0 +1,29 @@
+{
+  "id": "no-need-darkroom-folding-cameras",
+  "brand": "No-need-darkroom",
+  "brand_cn": "",
+  "brand_slug": "no-need-darkroom",
+  "country": "待补充",
+  "manufacturer": "No-need-darkroom",
+  "model": "folding cameras",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "No-need-darkroom折叠相机，1932 年发布",
+  "description": "See also the postwar Toyoca Six 6×6 folder and Toyoca B35 35mm folder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tougodo folding cameras"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tougodo folding cameras",
+      "url": "https://camera-wiki.org/wiki/Tougodo%20folding%20cameras"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

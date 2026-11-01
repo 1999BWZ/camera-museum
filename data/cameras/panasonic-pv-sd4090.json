@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-pv-sd4090",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "PV-SD4090",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2000 年发布",
+  "description": "The PV-SD4090 SuperDisk PalmCam is a digital camera released by Panasonic in 2000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic PV-SD4090"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic PV-SD4090",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20PV-SD4090"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-electro-shot",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Electro Shot",
+  "year": 1965,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1965 年发布",
+  "description": "The Minolta Electro Shot was Minolta's first rangefinder camera with CdS meter controlled exposure.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Electro Shot"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Electro Shot",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Electro%20Shot"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

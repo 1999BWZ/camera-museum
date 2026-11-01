@@ -1,0 +1,29 @@
+{
+  "id": "rollei-original-rolleiflex-6-6",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "Original Rolleiflex 6×6",
+  "year": 1929,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来双镜头反光相机，1929 年发布",
+  "description": "Franke and Heidecke introduced the original Rolleiflex 6×6 TLR in January 1929 after eleven prototypes had been built from 1927 to 1928 and twelve production samples in late 1928.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Original Rolleiflex 6×6"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Original Rolleiflex 6×6",
+      "url": "https://camera-wiki.org/wiki/Original%20Rolleiflex%206%C3%976"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

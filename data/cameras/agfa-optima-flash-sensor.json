@@ -1,0 +1,29 @@
+{
+  "id": "agfa-optima-flash-sensor",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Optima Flash Sensor",
+  "year": 1981,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发取景器相机，1981 年发布",
+  "description": "The Agfa Optima Sensor Electronic Flash is the fifth model from the Optima Sensor Electronic series, and features a built-in, flip-up electronic flash.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Optima Flash Sensor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Optima Flash Sensor",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Optima%20Flash%20Sensor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

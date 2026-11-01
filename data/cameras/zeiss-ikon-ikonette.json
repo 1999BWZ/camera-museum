@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-ikonette",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Ikonette",
+  "year": 1928,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon胶片相机，1928 年发布",
+  "description": "There is a later model using the Ikonette name, using 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ikonette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ikonette",
+      "url": "https://camera-wiki.org/wiki/Ikonette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

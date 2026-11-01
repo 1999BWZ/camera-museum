@@ -1,0 +1,29 @@
+{
+  "id": "kodak-advantix-preview",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Advantix Preview",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，2000 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Advantix Preview was launched in 2000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Advantix Preview"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Advantix Preview",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Advantix%20Preview"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

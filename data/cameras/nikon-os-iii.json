@@ -1,0 +1,29 @@
+{
+  "id": "nikon-os-iii",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "os III",
+  "year": 1975,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康取景器相机，1975 年发布",
+  "description": "The Nikonos III underwater camera from Nikon succeeded the Nikonos II in 1975.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikonos III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikonos III",
+      "url": "https://camera-wiki.org/wiki/Nikonos%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

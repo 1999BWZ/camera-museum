@@ -1,0 +1,29 @@
+{
+  "id": "goko-uf",
+  "brand": "Goko",
+  "brand_cn": "",
+  "brand_slug": "goko",
+  "country": "待补充",
+  "manufacturer": "Goko",
+  "model": "UF",
+  "year": 1982,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Goko取景器相机，1982 年发布",
+  "description": "A basic 35mm fixed focus viewfinder camera by Goko.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Goko UF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Goko UF",
+      "url": "https://camera-wiki.org/wiki/Goko%20UF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

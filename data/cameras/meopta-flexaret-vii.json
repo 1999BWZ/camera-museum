@@ -1,0 +1,29 @@
+{
+  "id": "meopta-flexaret-vii",
+  "brand": "Meopta",
+  "brand_cn": "",
+  "brand_slug": "meopta",
+  "country": "待补充",
+  "manufacturer": "Meopta",
+  "model": "Flexaret VII",
+  "year": 1954,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Meopta胶片相机，1954 年发布",
+  "description": "The Flexaret VII is the last in a series of TLR cameras made by Meopta (and its predecessors) in the former Czechoslovakia.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Flexaret VII"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Flexaret VII",
+      "url": "https://camera-wiki.org/wiki/Flexaret%20VII"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

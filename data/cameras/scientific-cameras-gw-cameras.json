@@ -1,0 +1,29 @@
+{
+  "id": "scientific-cameras-gw-cameras",
+  "brand": "Scientific cameras",
+  "brand_cn": "",
+  "brand_slug": "scientific-cameras",
+  "country": "澳大利亚",
+  "manufacturer": "Scientific cameras",
+  "model": "GW Cameras",
+  "year": 1946,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Scientific cameras胶片相机，1946 年发布",
+  "description": "During the early period of the Cold War the United Kingdom carried out wide-ranging missile research, partly in collaboration with Australia (under the umbrella of the Anglo-Australian Joint Project, which ran from 1946 to 1980).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "GW Cameras"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – GW Cameras",
+      "url": "https://camera-wiki.org/wiki/GW%20Cameras"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

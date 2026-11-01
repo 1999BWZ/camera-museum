@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-115u-prima-super-115u-autoboy-n115",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot 115u/Prima Super 115u/Autoboy N115",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2003 年发布",
+  "description": "The Sure Shot 115u is a compact autofocus, auto exposure 35mm film camera by Canon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot 115u/Prima Super 115u/Autoboy N115"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot 115u/Prima Super 115u/Autoboy N115",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20115u/Prima%20Super%20115u/Autoboy%20N115"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

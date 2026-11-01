@@ -1,0 +1,29 @@
+{
+  "id": "konica-z-up-70-vp",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Z-up 70 VP",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡便携相机，2001 年发布",
+  "description": "Konica's Z-up 70 VP is a 35mm compact camera with built-in flash, motor wind and automatic exposure.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Z-up 70 VP"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Z-up 70 VP",
+      "url": "https://camera-wiki.org/wiki/Konica%20Z-up%2070%20VP"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

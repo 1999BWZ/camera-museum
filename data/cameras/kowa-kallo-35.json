@@ -1,0 +1,29 @@
+{
+  "id": "kowa-kallo-35",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "Kallo 35",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa旁轴相机，1955 年发布",
+  "description": "The Kallo 35 is a fixed-lens 35 mm rangefinder camera made by Kowa.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa Kallo 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa Kallo 35",
+      "url": "https://camera-wiki.org/wiki/Kowa%20Kallo%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

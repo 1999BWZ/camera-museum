@@ -1,0 +1,29 @@
+{
+  "id": "lomography-lomolitos",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "Lomolitos",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography玩具相机，2005 年发布",
+  "description": "The Lomolitos was sold by Lomography primarily as a single use/disposable 35mm film camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lomography Lomolitos"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lomography Lomolitos",
+      "url": "https://camera-wiki.org/wiki/Lomography%20Lomolitos"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

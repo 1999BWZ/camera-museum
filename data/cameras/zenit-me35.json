@@ -1,0 +1,29 @@
+{
+  "id": "zenit-me35",
+  "brand": "Zenit",
+  "brand_cn": "",
+  "brand_slug": "zenit",
+  "country": "待补充",
+  "manufacturer": "Zenit",
+  "model": "ME35",
+  "year": 1980,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zenit取景器相机，1980 年发布",
+  "description": "The Zenit ME35 is a little-known point and shoot compact camera manufactured in the 1980s by (or for) Hanimex, apparently as a lookalike of the LOMO LC-A.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit ME35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit ME35",
+      "url": "https://camera-wiki.org/wiki/Zenit%20ME35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

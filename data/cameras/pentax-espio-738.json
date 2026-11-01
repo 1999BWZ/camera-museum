@@ -1,0 +1,29 @@
+{
+  "id": "pentax-espio-738",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Espio 738",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得便携相机，1995 年发布",
+  "description": "The Pentax Espio 738 is a 35mm compact camera with autofocus and a zoom lens, issued by Pentax in 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Espio 738"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Espio 738",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Espio%20738"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

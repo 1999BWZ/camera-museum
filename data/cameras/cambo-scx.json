@@ -1,0 +1,29 @@
+{
+  "id": "cambo-scx",
+  "brand": "Cambo",
+  "brand_cn": "",
+  "brand_slug": "cambo",
+  "country": "荷兰",
+  "manufacturer": "Cambo",
+  "model": "SCX",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cambo胶片相机，1983 年发布",
+  "description": "The SCX is a monorail camera made by the Dutch company Cambo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "SCX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – SCX",
+      "url": "https://camera-wiki.org/wiki/SCX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

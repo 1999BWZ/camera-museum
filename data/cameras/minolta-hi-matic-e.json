@@ -1,0 +1,29 @@
+{
+  "id": "minolta-hi-matic-e",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Hi-Matic E",
+  "year": 1971,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1971 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n* Type: rangefinder camera\n* Manufacturer: Minolta\n* Year of release: 1971\n* Films: 35mm films of 25 ASA upto 500 ASA film speed\n* Lens: 1:1,7/40mm Rokkor\n* Exposure: CdS-meter programmed autoexposure; meter window within the filter connection ring\n* Shutter: Seiko shu",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Hi-Matic E"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Hi-Matic E",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Hi-Matic%20E"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

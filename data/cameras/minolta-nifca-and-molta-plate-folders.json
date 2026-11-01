@@ -1,0 +1,29 @@
+{
+  "id": "minolta-nifca-and-molta-plate-folders",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Nifca and Molta plate folders",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达折叠相机，1930 年发布",
+  "description": "Nichidoku Shashinki Shōten, later Molta Gōshi-gaisha then Chiyoda Kōgaku Seikō (the predecessors of Minolta), made a series of 6.5×9cm folding bed plate cameras from 1930 to the war.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nifca and Molta plate folders"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nifca and Molta plate folders",
+      "url": "https://camera-wiki.org/wiki/Nifca%20and%20Molta%20plate%20folders"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

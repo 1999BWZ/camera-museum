@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-onestep-600",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "OneStep 600",
+  "year": 1983,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1983 年发布",
+  "description": "This was the first camera designed for Polaroid's 600-series integral film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid OneStep 600"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid OneStep 600",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20OneStep%20600"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

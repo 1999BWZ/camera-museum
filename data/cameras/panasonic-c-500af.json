@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-c-500af",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "C-500AF",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下胶片相机，1985 年发布",
+  "description": "The Panasonic C-500AF is a compact auto focus 35mm point and shoot camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic C-500AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic C-500AF",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20C-500AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

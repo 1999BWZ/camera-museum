@@ -1,0 +1,29 @@
+{
+  "id": "sun-stereo",
+  "brand": "Sun",
+  "brand_cn": "",
+  "brand_slug": "sun",
+  "country": "待补充",
+  "manufacturer": "Sun",
+  "model": "Stereo",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sun盒式相机，1935 年发布",
+  "description": "The Sun Stereo is a Japanese stereo box camera taking 4.5&times;6cm pictures on 120 film, advertised from 1935 to 1937 by Yamashita Yūjirō Shōten.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sun Stereo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sun Stereo",
+      "url": "https://camera-wiki.org/wiki/Sun%20Stereo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

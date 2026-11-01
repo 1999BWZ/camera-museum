@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-tenax-ii",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Tenax II",
+  "year": 1938,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon旁轴相机，1938 年发布",
+  "description": "The Tenax II model 580/27 is an advanced 24×24mm on 35mm film RF-camera launched by Zeiss Ikon (ZI) in 1938.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tenax II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tenax II",
+      "url": "https://camera-wiki.org/wiki/Tenax%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

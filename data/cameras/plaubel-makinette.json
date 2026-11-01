@@ -1,0 +1,29 @@
+{
+  "id": "plaubel-makinette",
+  "brand": "Plaubel",
+  "brand_cn": "",
+  "brand_slug": "plaubel",
+  "country": "待补充",
+  "manufacturer": "Plaubel",
+  "model": "Makinette",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Plaubel折叠相机，1932 年发布",
+  "description": "The Makinette is a 3×4cm format strut folding camera, made by Plaubel around 1932.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Makinette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Makinette",
+      "url": "https://camera-wiki.org/wiki/Makinette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

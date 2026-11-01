@@ -1,0 +1,29 @@
+{
+  "id": "fuji-x-ds-1p",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "x DS-1P",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji数码相机，1988 年发布",
+  "description": "The Fujix DS-1P is often described as the world's first true digital camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujix DS-1P"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujix DS-1P",
+      "url": "https://camera-wiki.org/wiki/Fujix%20DS-1P"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

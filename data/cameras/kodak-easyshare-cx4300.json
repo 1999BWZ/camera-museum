@@ -1,0 +1,29 @@
+{
+  "id": "kodak-easyshare-cx4300",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "EasyShare CX4300",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码相机，2002 年发布",
+  "description": "The Kodak EasyShare 4300 is a point-and-shoot digital camera giving 3.2megapixel images, made by Kodak.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak EasyShare CX4300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak EasyShare CX4300",
+      "url": "https://camera-wiki.org/wiki/Kodak%20EasyShare%20CX4300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

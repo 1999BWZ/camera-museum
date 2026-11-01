@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-captiva-vision",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Captiva/Vision",
+  "year": 1993,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来胶片单反相机，1993 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Captiva (or Vision) series of cameras from Polaroid were SLRs in a rather odd shape.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Captiva/Vision"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Captiva/Vision",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Captiva/Vision"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

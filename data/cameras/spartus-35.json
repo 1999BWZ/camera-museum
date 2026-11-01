@@ -1,0 +1,29 @@
+{
+  "id": "spartus-35",
+  "brand": "Spartus",
+  "brand_cn": "",
+  "brand_slug": "spartus",
+  "country": "美国",
+  "manufacturer": "Spartus",
+  "model": "35",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spartus取景器相机，1947 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|-\n|\n\n|-\n|\n\n|}\nThe Spartus \"35\" and \"35F\" were a series of cameras for 35mm film made by Spartus, and subsequently Herold and Galter, of Chicago USA.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Spartus 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Spartus 35",
+      "url": "https://camera-wiki.org/wiki/Spartus%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

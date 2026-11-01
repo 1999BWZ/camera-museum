@@ -1,0 +1,29 @@
+{
+  "id": "ansco-410",
+  "brand": "Ansco",
+  "brand_cn": "",
+  "brand_slug": "ansco",
+  "country": "待补充",
+  "manufacturer": "Ansco",
+  "model": "410",
+  "year": 1980,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ansco胶片相机，1980 年发布",
+  "description": "The Ansco 410 is a camera for 110 film produced by Ansco.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ansco 410"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ansco 410",
+      "url": "https://camera-wiki.org/wiki/Ansco%20410"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

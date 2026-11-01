@@ -1,0 +1,29 @@
+{
+  "id": "chinon-cp-7m",
+  "brand": "Chinon",
+  "brand_cn": "",
+  "brand_slug": "chinon",
+  "country": "待补充",
+  "manufacturer": "Chinon",
+  "model": "CP-7m",
+  "year": 1986,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Chinon胶片单反相机，1986 年发布",
+  "description": "The Chinon CP-7m is an angular 35mm SLR introduced by Chinon in about 1986, adding integral motorized film advance.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chinon CP-7m"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chinon CP-7m",
+      "url": "https://camera-wiki.org/wiki/Chinon%20CP-7m"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

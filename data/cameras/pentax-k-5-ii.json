@@ -1,0 +1,29 @@
+{
+  "id": "pentax-k-5-ii",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "K-5 II",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2012 年发布",
+  "description": "The Pentax K-5 II and K-5 IIs are DSLRs introduced by Pentax Ricoh Imaging at Photokina 2012 [http://www.dpreview.com/news/2012/09/10/Pentax-Ricoh-announces-Pentax-K-5-II-DSLR-and-K-5-IIs-with-no-low-pass-filter Pentax Ricoh announces Pentax K-5 II DSLR and K-5 IIs with no low-pass filter] - Press r",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax K-5 II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax K-5 II",
+      "url": "https://camera-wiki.org/wiki/Pentax%20K-5%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-compact-e",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri Compact E",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi取景器相机，1960 年发布",
+  "description": "The Petri Compact E is a half-frame 35mm viewfinder camera produced by Kuribayashi/Petri in 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri Compact E"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri Compact E",
+      "url": "https://camera-wiki.org/wiki/Petri%20Compact%20E"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

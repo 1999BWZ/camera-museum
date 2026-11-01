@@ -1,0 +1,29 @@
+{
+  "id": "samsung-slim-zoom-1150",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "Samsung",
+  "model": "Slim Zoom 1150",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星全景相机，1993 年发布",
+  "description": "The Samsung Slim Zoom 1150 is a full featured compact for 35mm film, made by Samsung in Korea.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samsung Slim Zoom 1150"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samsung Slim Zoom 1150",
+      "url": "https://camera-wiki.org/wiki/Samsung%20Slim%20Zoom%201150"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

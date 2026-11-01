@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-tele-603",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "Tele 603",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片相机，1977 年发布",
+  "description": "The Vivitar Tele 603 takes the 110 film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar Tele 603"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar Tele 603",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20Tele%20603"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

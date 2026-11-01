@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-500-el",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "500 EL",
+  "year": 1965,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏中画幅相机，1965 年发布",
+  "description": "The 500 EL was introduced by Hasselblad in 1965—essentially a 500 C with a permanently-integrated motor drive in the baseplate of the camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad 500 EL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad 500 EL",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%20500%20EL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

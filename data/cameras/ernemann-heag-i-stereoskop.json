@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-heag-i-stereoskop",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Heag I Stereoskop",
+  "year": 1905,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann立体相机，1905 年发布",
+  "description": "The Heag I Stereoskop is a folding stereo plate camera made by Ernemann in the first decade of the 20th century p273.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Heag I Stereoskop"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Heag I Stereoskop",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Heag%20I%20Stereoskop"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "yashica-electro-35-gsn",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Electro 35 GSN",
+  "year": 1973,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡旁轴相机，1973 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Electro 35 GSN is a 35mm rangefinder camera released from Yashica of Japan in 1973.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Electro 35 GSN"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm4.static.flickr.com/3613/3480291544_baa0b585c6.jpg",
+      "caption": "Electro 35 GSN",
+      "source": "Flickr（Olatz eta Leire）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/auggie_tolosa/3480291544/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Electro 35 GSN",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Electro%2035%20GSN"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

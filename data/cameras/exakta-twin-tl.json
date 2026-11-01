@@ -1,0 +1,29 @@
+{
+  "id": "exakta-twin-tl",
+  "brand": "Exakta",
+  "brand_cn": "",
+  "brand_slug": "exakta",
+  "country": "待补充",
+  "manufacturer": "Exakta",
+  "model": "Twin TL",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Exakta胶片单反相机，1973 年发布",
+  "description": "The Exakta Twin TL is a 35 mm SLR camera, made for Ihagee Kamerawerk AG ('Ihagee West') by Petri in 1970[http://exaktaphile.net/captjack/Exakta%20Twin%20TL%20&%20Later%20Pseudo%20Exaktas.htm Twin TL] and other Ihagee West/Cosina cameras, at [http://exaktaphile.net Captain Jack's Exakta Pages] (McKeo",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Exakta Twin TL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Exakta Twin TL",
+      "url": "https://camera-wiki.org/wiki/Exakta%20Twin%20TL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

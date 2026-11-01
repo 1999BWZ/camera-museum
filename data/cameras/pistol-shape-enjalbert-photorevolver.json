@@ -1,0 +1,29 @@
+{
+  "id": "pistol-shape-enjalbert-photorevolver",
+  "brand": "Pistol shape",
+  "brand_cn": "",
+  "brand_slug": "pistol-shape",
+  "country": "法国",
+  "manufacturer": "Pistol shape",
+  "model": "Enjalbert Photorevolver",
+  "year": 1882,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pistol shape胶片相机，1882 年发布",
+  "description": "Theophile-Ernest Enjalbert produced a camera in the shape of a revolver in Paris, France, c.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Enjalbert Photorevolver"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Enjalbert Photorevolver",
+      "url": "https://camera-wiki.org/wiki/Enjalbert%20Photorevolver"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

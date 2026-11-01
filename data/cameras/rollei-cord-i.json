@@ -1,0 +1,29 @@
+{
+  "id": "rollei-cord-i",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "cord I",
+  "year": 1933,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1933 年发布",
+  "description": "The Art Deco Rolleicord I, in Germany colloquially known as the 'Tapeten-Rolleicord' (wallpaper Rolleicord) was produced by Franke and Heidecke from November 1933 to March 1936.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleicord I (Art Deco)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleicord I (Art Deco)",
+      "url": "https://camera-wiki.org/wiki/Rolleicord%20I%20%28Art%20Deco%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

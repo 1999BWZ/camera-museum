@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-romax-plate-folder",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Romax plate folder",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi折叠相机，1934 年发布",
+  "description": "The Romax is a Japanese 6.5×9cm plate folder, about which little is known, and whose mere existence is dubious.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Romax plate folder"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Romax plate folder",
+      "url": "https://camera-wiki.org/wiki/Romax%20plate%20folder"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

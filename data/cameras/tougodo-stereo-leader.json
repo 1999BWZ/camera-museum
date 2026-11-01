@@ -1,0 +1,29 @@
+{
+  "id": "tougodo-stereo-leader",
+  "brand": "Tougodo",
+  "brand_cn": "",
+  "brand_slug": "tougodo",
+  "country": "待补充",
+  "manufacturer": "Tougodo",
+  "model": "Stereo Leader",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tougodo立体相机，1955 年发布",
+  "description": "The Stereo Leader (ステレオリーダー) is a Japanese stereo camera taking pairs of 23&times;24mm exposures on 35mm film, made by Tougodo then by Heart Sangyō in 1955&ndash;6.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Stereo Leader"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Stereo Leader",
+      "url": "https://camera-wiki.org/wiki/Stereo%20Leader"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

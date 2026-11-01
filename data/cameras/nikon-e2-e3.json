@@ -1,0 +1,29 @@
+{
+  "id": "nikon-e2-e3",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "E2/E3",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，1995 年发布",
+  "description": "{| class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|}\nThe cameras of the Nikon E2 and E3 series and the similar Fujix DS-5xx series are early digital SLR cameras developed by Nikon together with Fujifilm and were launched between 1995 and 1999.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon E2/E3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon E2/E3",
+      "url": "https://camera-wiki.org/wiki/Nikon%20E2/E3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

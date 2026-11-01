@@ -1,0 +1,29 @@
+{
+  "id": "topography-pearl-river",
+  "brand": "Topography",
+  "brand_cn": "",
+  "brand_slug": "topography",
+  "country": "中国",
+  "manufacturer": "Topography",
+  "model": "Pearl River",
+  "year": 1970,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Topography胶片相机，1970 年发布",
+  "description": "The Pearl River is a Chinese TLR camera taking either 12 6×6cm exposures on 120 film, or 16 6x4.5 exposures by use of a metal mask.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pearl River"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pearl River",
+      "url": "https://camera-wiki.org/wiki/Pearl%20River"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

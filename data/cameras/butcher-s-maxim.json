@@ -1,0 +1,29 @@
+{
+  "id": "butcher-s-maxim",
+  "brand": "Butcher's",
+  "brand_cn": "",
+  "brand_slug": "butcher-s",
+  "country": "待补充",
+  "manufacturer": "Butcher's",
+  "model": "Maxim",
+  "year": 1903,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Butcher's盒式相机，1903 年发布",
+  "description": "The MaximsThe name is presumably a reference to the Maxim machine gun; Butcher's folding cameras were named Carbines.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Butcher's Maxim"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Butcher's Maxim",
+      "url": "https://camera-wiki.org/wiki/Butcher%27s%20Maxim"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

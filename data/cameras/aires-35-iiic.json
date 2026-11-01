@@ -1,0 +1,29 @@
+{
+  "id": "aires-35-iiic",
+  "brand": "Aires",
+  "brand_cn": "",
+  "brand_slug": "aires",
+  "country": "待补充",
+  "manufacturer": "Aires",
+  "model": "35-IIIC",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aires旁轴相机，1957 年发布",
+  "description": "The Aires 35 IIIC is a leaf-shutter 35mm rangefinder camera made by Aires in 1957-1958.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Aires 35-IIIC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Aires 35-IIIC",
+      "url": "https://camera-wiki.org/wiki/Aires%2035-IIIC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

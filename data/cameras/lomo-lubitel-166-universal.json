@@ -1,0 +1,29 @@
+{
+  "id": "lomo-lubitel-166-universal",
+  "brand": "LOMO",
+  "brand_cn": "",
+  "brand_slug": "lomo",
+  "country": "俄罗斯",
+  "manufacturer": "LOMO",
+  "model": "Lubitel 166 Universal",
+  "year": 1983,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "LOMO玩具相机，1983 年发布",
+  "description": "The Lubitel 166U was made by Lomo in Leningrad (now St.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lubitel 166 Universal"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lubitel 166 Universal",
+      "url": "https://camera-wiki.org/wiki/Lubitel%20166%20Universal"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

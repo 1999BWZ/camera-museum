@@ -1,0 +1,29 @@
+{
+  "id": "chinon-35ee",
+  "brand": "Chinon",
+  "brand_cn": "",
+  "brand_slug": "chinon",
+  "country": "待补充",
+  "manufacturer": "Chinon",
+  "model": "35EE",
+  "year": 1976,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Chinon旁轴相机，1976 年发布",
+  "description": "The Chinon 35 EE is a 35mm compact rangefinder camera made in Japan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chinon 35EE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chinon 35EE",
+      "url": "https://camera-wiki.org/wiki/Chinon%2035EE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

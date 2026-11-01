@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f75",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F75",
+  "year": 2003,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，2003 年发布",
+  "description": "The F75 was released in 2003 by Nikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F75 (N75)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F75 (N75)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F75%20%28N75%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

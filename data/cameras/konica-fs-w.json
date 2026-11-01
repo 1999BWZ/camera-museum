@@ -1,0 +1,29 @@
+{
+  "id": "konica-fs-w",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "FS-W",
+  "year": 1962,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1962 年发布",
+  "description": "The Konica FS-W SLR is a variant of the FS model.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica FS-W"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica FS-W",
+      "url": "https://camera-wiki.org/wiki/Konica%20FS-W"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

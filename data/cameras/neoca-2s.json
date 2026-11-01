@@ -1,0 +1,29 @@
+{
+  "id": "neoca-2s",
+  "brand": "Neoca",
+  "brand_cn": "",
+  "brand_slug": "neoca",
+  "country": "待补充",
+  "manufacturer": "Neoca",
+  "model": "2S",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Neoca旁轴相机，1955 年发布",
+  "description": "The Neoca 2S is a 35mm rangefinder camera made in Japan in 1955 and 1956.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Neoca 2S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Neoca 2S",
+      "url": "https://camera-wiki.org/wiki/Neoca%202S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

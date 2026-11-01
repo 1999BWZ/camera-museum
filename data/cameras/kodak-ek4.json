@@ -1,0 +1,29 @@
+{
+  "id": "kodak-ek4",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "EK4",
+  "year": 1976,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达一次成像相机，1976 年发布",
+  "description": "The EK4 is a very early model in the Kodak Instant line of cameras released in 1976.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak EK4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak EK4",
+      "url": "https://camera-wiki.org/wiki/Kodak%20EK4"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

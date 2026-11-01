@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-kr-30sp",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "KR-30SP",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1985 年发布",
+  "description": "The KR-30 SP Program is an SLR for 35mm film which accepts K mount lenses, introduced by Ricoh in 1985.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh KR-30SP"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh KR-30SP",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20KR-30SP"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-summa-report",
+  "brand": "Press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "意大利",
+  "manufacturer": "Press cameras",
+  "model": "Summa Report",
+  "year": 1954,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Press cameras大画幅相机，1954 年发布",
+  "description": "The Summa Report is a rare and unusual press camera, made in about 1954 by Tiranti of Rome.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Summa Report"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Summa Report",
+      "url": "https://camera-wiki.org/wiki/Summa%20Report"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

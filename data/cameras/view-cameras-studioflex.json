@@ -1,0 +1,29 @@
+{
+  "id": "view-cameras-studioflex",
+  "brand": "View cameras",
+  "brand_cn": "",
+  "brand_slug": "view-cameras",
+  "country": "法国",
+  "manufacturer": "View cameras",
+  "model": "Studioflex",
+  "year": 1948,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "View cameras双镜头反光相机，1948 年发布",
+  "description": "The Studioflex is a studio camera for 9x12cm plates or film, and later made for 13x18cm as well.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Studioflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Studioflex",
+      "url": "https://camera-wiki.org/wiki/Studioflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

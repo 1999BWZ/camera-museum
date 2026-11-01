@@ -1,0 +1,29 @@
+{
+  "id": "kodak-vollenda-48",
+  "brand": "Kodak",
+  "brand_cn": "",
+  "brand_slug": "kodak",
+  "country": "待补充",
+  "manufacturer": "Kodak",
+  "model": "Vollenda 48",
+  "year": 1929,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kodak折叠相机，1929 年发布",
+  "description": "The Vollenda was a line of models made by Nagel, later Kodak AG.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vollenda 48"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vollenda 48",
+      "url": "https://camera-wiki.org/wiki/Vollenda%2048"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

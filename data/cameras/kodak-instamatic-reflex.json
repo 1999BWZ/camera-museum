@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-reflex",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic Reflex",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达胶片单反相机，1968 年发布",
+  "description": "The Kodak Instamatic Reflex is an SLR made in Germany by Kodak AG\nfor 126 Cartridge film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic Reflex",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

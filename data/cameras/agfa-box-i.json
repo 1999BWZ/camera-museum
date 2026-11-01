@@ -1,0 +1,29 @@
+{
+  "id": "agfa-box-i",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Box I",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发盒式相机，1930 年发布",
+  "description": "The Box I is a basic box camera for 6x9 exposures on 120 film (Agfa's film size B2).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Box I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Box I",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Box%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

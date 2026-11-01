@@ -1,0 +1,40 @@
+{
+  "id": "panasonic-lumix-dmc-tz7-q2049112",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "松下電器",
+  "model": "Lumix DMC-TZ7",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下便携相机，2009 年发布",
+  "description": "松下于2009年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2049112",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DMC-TZ7.png?width=800",
+      "caption": "Lumix DMC-TZ7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2049112"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Panasonic Lumix DMC-TZ7",
+      "url": "https://www.wikidata.org/wiki/Q2049112"
+    }
+  ],
+  "qid": "Q2049112",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

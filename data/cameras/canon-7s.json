@@ -1,0 +1,29 @@
+{
+  "id": "canon-7s",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "7s",
+  "year": 1965,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能旁轴相机，1965 年发布",
+  "description": "The Canon 7s is a 35mm rangefinder camera made in Japan by Canon from 1965-1967,, p.180 says 1964; the [http://global.canon/en/c-museum/product/film55.html Canon Museum] says 1965 replacing the Canon 7.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon 7s"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon 7s",
+      "url": "https://camera-wiki.org/wiki/Canon%207s"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

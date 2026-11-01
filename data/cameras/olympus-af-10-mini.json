@@ -1,0 +1,29 @@
+{
+  "id": "olympus-af-10-mini",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "AF-10 Mini",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，1995 年发布",
+  "description": "The AF-10 Mini (also sold as Infinity Hi-Lite) is a fully-automatic 35mm compact camera made by Olympus in 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus AF-10 Mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus AF-10 Mini",
+      "url": "https://camera-wiki.org/wiki/Olympus%20AF-10%20Mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "banco-perfect",
+  "brand": "Banco",
+  "brand_cn": "",
+  "brand_slug": "banco",
+  "country": "法国",
+  "manufacturer": "Banco",
+  "model": "Perfect",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Banco胶片相机，1955 年发布",
+  "description": "The Kaftax Banco Perfect is a simple Bakelite camera with a telescoping lens barrel, made in France, c.1955While McKeown's states \"circa 1955,\" [http://www.collectiongeven.com/piwigo/picture.php?/103/category/750 G.Even] gives 1948; [http://www.collection-appareils.fr/x/html/page_standard.php?id_app",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Banco Perfect"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Banco Perfect",
+      "url": "https://camera-wiki.org/wiki/Banco%20Perfect"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

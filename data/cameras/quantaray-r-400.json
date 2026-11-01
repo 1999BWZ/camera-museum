@@ -1,0 +1,29 @@
+{
+  "id": "quantaray-r-400",
+  "brand": "Quantaray",
+  "brand_cn": "",
+  "brand_slug": "quantaray",
+  "country": "待补充",
+  "manufacturer": "Quantaray",
+  "model": "R 400",
+  "year": 1984,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Quantaray数码单反相机，1984 年发布",
+  "description": "Ritz Camera offered the R 400 35mm SLR beginning in 1983.It is profiled in an [https://books.google.com/books?id=I5iyf8kmlHQC&pg=RA1-PA128&dq=Quantaray+RZ+800&hl=en&sa=X&ved=2ahUKEwja5uSp5cWKAxVTTDABHR59PKkQ6AF6BAgNEAI#v=onepage&q=%22R%20400%22&f=false August 1983 Popular Photography] (Vol.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Quantaray R 400"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Quantaray R 400",
+      "url": "https://camera-wiki.org/wiki/Quantaray%20R%20400"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

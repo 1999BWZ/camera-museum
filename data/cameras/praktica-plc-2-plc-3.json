@@ -1,0 +1,29 @@
+{
+  "id": "praktica-plc-2-plc-3",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "PLC 2/PLC 3",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片单反相机，1976 年发布",
+  "description": "The Praktica PLC 2 and PLC 3 SLR camera bodies for M42 screw mount lenses were the successors of Pentacon's Praktica LLC which was the first with the Pentacon LC light measuring system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica PLC 2/PLC 3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica PLC 2/PLC 3",
+      "url": "https://camera-wiki.org/wiki/Praktica%20PLC%202/PLC%203"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

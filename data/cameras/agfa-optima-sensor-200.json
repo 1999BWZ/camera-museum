@@ -1,0 +1,29 @@
+{
+  "id": "agfa-optima-sensor-200",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Optima Sensor 200",
+  "year": 1969,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发取景器相机，1969 年发布",
+  "description": "The Optima Sensor 200 is an automated 35mm camera made in Germany by Agfa and introduced 1969.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Optima Sensor 200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Optima Sensor 200",
+      "url": "https://camera-wiki.org/wiki/Optima%20Sensor%20200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

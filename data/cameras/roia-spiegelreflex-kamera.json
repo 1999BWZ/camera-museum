@@ -1,0 +1,29 @@
+{
+  "id": "roia-spiegelreflex-kamera",
+  "brand": "Roia",
+  "brand_cn": "",
+  "brand_slug": "roia",
+  "country": "待补充",
+  "manufacturer": "Roia",
+  "model": "Spiegelreflex-Kamera",
+  "year": 1900,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Roia胶片单反相机，1900 年发布",
+  "description": "Emil Busch's Roia Spiegelreflex-Kamera is a single lens reflex camera for film sheets or plates.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Roia Spiegelreflex-Kamera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Roia Spiegelreflex-Kamera",
+      "url": "https://camera-wiki.org/wiki/Roia%20Spiegelreflex-Kamera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

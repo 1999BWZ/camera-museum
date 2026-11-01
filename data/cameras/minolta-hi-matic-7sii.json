@@ -1,0 +1,29 @@
+{
+  "id": "minolta-hi-matic-7sii",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Hi-Matic 7sII",
+  "year": 1977,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1977 年发布",
+  "description": "The Minolta HiMatic 7SII, introduced in 1977, is a versatile 35mm, shutter-priority rangefinder camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Hi-Matic 7sII"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Hi-Matic 7sII",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Hi-Matic%207sII"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

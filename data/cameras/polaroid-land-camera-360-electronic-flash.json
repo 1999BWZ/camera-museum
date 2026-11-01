@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-land-camera-360-electronic-flash",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Land Camera 360 Electronic Flash",
+  "year": 1969,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1969 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Land Camera 360 Electronic Flash is a member of the Polaroid 100-400 series, one of the few not including the word \"Automatic\" in its full model name.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Land Camera 360 Electronic Flash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Land Camera 360 Electronic Flash",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Land%20Camera%20360%20Electronic%20Flash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

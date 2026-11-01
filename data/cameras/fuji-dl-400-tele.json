@@ -1,0 +1,29 @@
+{
+  "id": "fuji-dl-400-tele",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "DL-400 Tele",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片单反相机，1987 年发布",
+  "description": "Dual-lensed compact auto-focus camera from Fuji, offering 35mm and 70mm focal lengths.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji DL-400 Tele"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji DL-400 Tele",
+      "url": "https://camera-wiki.org/wiki/Fuji%20DL-400%20Tele"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

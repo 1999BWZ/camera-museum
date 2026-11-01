@@ -1,0 +1,29 @@
+{
+  "id": "minimax-pocket-110-ee",
+  "brand": "Minimax",
+  "brand_cn": "",
+  "brand_slug": "minimax",
+  "country": "待补充",
+  "manufacturer": "Minimax",
+  "model": "Pocket 110 EE",
+  "year": 1978,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minimax胶片单反相机，1978 年发布",
+  "description": "{|class=floatright\n|\n \n|-\n|\n \n|-\n|\n \n|}\nThe Minimax Pocket 110 EE was a high-quality 110 camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minimax Pocket 110 EE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minimax Pocket 110 EE",
+      "url": "https://camera-wiki.org/wiki/Minimax%20Pocket%20110%20EE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

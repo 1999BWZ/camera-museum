@@ -1,0 +1,37 @@
+{
+  "id": "pentax-mz-5-zx-5",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MZ-5/ZX-5",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1996 年发布",
+  "description": "The Pentax MZ-5 (ZX-5 in US), dating from 1996, was an autofocus 35mm film SLR.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MZ-5/ZX-5"
+  },
+  "images": [
+    {
+      "remote_url": "https://live.staticflickr.com/7294/12789413923_2d6e5d0400_z.jpg",
+      "caption": "MZ-5/ZX-5",
+      "source": "Flickr（Yumi Abe）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/gearporn/12789413923/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MZ-5/ZX-5",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MZ-5/ZX-5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "scientific-cameras-davon",
+  "brand": "Scientific cameras",
+  "brand_cn": "",
+  "brand_slug": "scientific-cameras",
+  "country": "待补充",
+  "manufacturer": "Scientific cameras",
+  "model": "Davon",
+  "year": 1914,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Scientific cameras大画幅相机，1914 年发布",
+  "description": "The Davon Super-Microscope and Micro-Telescope are a number of outfits based on a quarter-plate bellows view camera, made (or at least patented) in 1920 by Frederick Nathaniel Davidson, an optician with a business at 140 and later 29 Great Portland Street, in central London.[https://worldwide.espace",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Davon"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Davon",
+      "url": "https://camera-wiki.org/wiki/Davon"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

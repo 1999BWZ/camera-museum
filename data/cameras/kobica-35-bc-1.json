@@ -1,0 +1,29 @@
+{
+  "id": "kobica-35-bc-1",
+  "brand": "KOBICA",
+  "brand_cn": "",
+  "brand_slug": "kobica",
+  "country": "待补充",
+  "manufacturer": "KOBICA",
+  "model": "35 BC-1",
+  "year": 1976,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KOBICA旁轴相机，1976 年发布",
+  "description": "__NOTOC__\n\n\nThe KOBICA 35 BC-1 is a leaf-shutter fixed-lens rangefinder introduced by Daehan Optical (Korea Optical) in 1976.[https://www.much.go.kr/L/HRF8zl4T61.do 대한민국역사박물관 | KOBICA 35BC 카메라] (National Museum of Korean Contemporary History) In some documents and images, it is also referred to as K",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "KOBICA 35 BC-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – KOBICA 35 BC-1",
+      "url": "https://camera-wiki.org/wiki/KOBICA%2035%20BC-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

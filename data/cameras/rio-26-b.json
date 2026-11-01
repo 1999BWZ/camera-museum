@@ -1,0 +1,29 @@
+{
+  "id": "rio-26-b",
+  "brand": "Rio",
+  "brand_cn": "",
+  "brand_slug": "rio",
+  "country": "待补充",
+  "manufacturer": "Rio",
+  "model": "26 B",
+  "year": 1923,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rio折叠相机，1923 年发布",
+  "description": "The Rio 26 B was made c.1923 by Orionwerk in Hannover, Germany, for 6.5x9 plates.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rio 26 B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rio 26 B",
+      "url": "https://camera-wiki.org/wiki/Rio%2026%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

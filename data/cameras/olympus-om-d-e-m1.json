@@ -1,0 +1,40 @@
+{
+  "id": "olympus-om-d-e-m1",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "OM-D E-M1",
+  "year": 2013,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2013 年发布",
+  "description": "奥林巴斯于2013年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q14954959",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20OM%20D%20E-M1%20-%20Johnragai%20Gear%20-%2009.11.2014%20%2815772393942%29.jpg?width=800",
+      "caption": "OM-D E-M1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q14954959"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus OM-D E-M1",
+      "url": "https://www.wikidata.org/wiki/Q14954959"
+    }
+  ],
+  "qid": "Q14954959",
+  "sitelinks": 8,
+  "imported": "wikidata-5k-2026-11-01"
+}

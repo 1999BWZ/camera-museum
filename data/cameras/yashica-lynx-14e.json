@@ -1,0 +1,29 @@
+{
+  "id": "yashica-lynx-14e",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Lynx 14E",
+  "year": 1966,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡旁轴相机，1966 年发布",
+  "description": "Yashica replaced the selenium meter of the Yashica Lynx 1000 with a CdS cell when it introduced the Lynx 14 and Lynx 5000 in 1965.The standout feature of the Lynx 14 is a massive Yashinon 45mm F/1.4 lens, with a 58mm filter thread.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Lynx 14E"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Lynx 14E",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Lynx%2014E"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

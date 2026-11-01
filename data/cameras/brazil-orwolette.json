@@ -1,0 +1,29 @@
+{
+  "id": "brazil-orwolette",
+  "brand": "Brazil",
+  "brand_cn": "",
+  "brand_slug": "brazil",
+  "country": "待补充",
+  "manufacturer": "Brazil",
+  "model": "Orwolette",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Brazil胶片相机，1964 年发布",
+  "description": "The Orwolette is a copy of the 1956 model of the Pouva Start (with an optical viewfinder), by the Brazilian company Indústria Brasileira Fotográfica.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Orwolette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Orwolette",
+      "url": "https://camera-wiki.org/wiki/Orwolette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

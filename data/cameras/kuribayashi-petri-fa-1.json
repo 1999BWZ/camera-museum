@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-fa-1",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri FA-1",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi胶片单反相机，1976 年发布",
+  "description": "The Petri FA-1 is a shutter priority autoexposure 35mm SLR made in the mid-1970s by the Japanese company Petri (formerly Kuribayashi).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri FA-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri FA-1",
+      "url": "https://camera-wiki.org/wiki/Petri%20FA-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

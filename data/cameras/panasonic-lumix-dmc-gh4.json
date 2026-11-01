@@ -1,0 +1,40 @@
+{
+  "id": "panasonic-lumix-dmc-gh4",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "松下電器",
+  "model": "Lumix DMC-GH4",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下便携相机，2014 年发布",
+  "description": "松下于2014年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q17049200",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/GH4%20crop%20300px.jpg?width=800",
+      "caption": "Lumix DMC-GH4",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q17049200"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Panasonic Lumix DMC-GH4",
+      "url": "https://www.wikidata.org/wiki/Q17049200"
+    }
+  ],
+  "qid": "Q17049200",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

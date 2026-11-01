@@ -1,0 +1,29 @@
+{
+  "id": "half-plate-naturalist-s-reflex-camera",
+  "brand": "Half plate",
+  "brand_cn": "",
+  "brand_slug": "half-plate",
+  "country": "待补充",
+  "manufacturer": "Half plate",
+  "model": "Naturalist's Reflex Camera",
+  "year": 1920,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Half plate大画幅相机，1920 年发布",
+  "description": "The Naturalist's Reflex Camera is a box-form reflex camera made by (or perhaps for) Dallmeyer of London from about 1894.[https://www.leitz-auction.com/en/Dallmeyer-Naturalist-Tropical-Reflex/AI-15-18807 Tropical quarter-plate Naturalist's Reflex Camera] serial no.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Naturalist's Reflex Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Naturalist's Reflex Camera",
+      "url": "https://camera-wiki.org/wiki/Naturalist%27s%20Reflex%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

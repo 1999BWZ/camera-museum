@@ -1,0 +1,29 @@
+{
+  "id": "dacora-daco",
+  "brand": "Dacora",
+  "brand_cn": "",
+  "brand_slug": "dacora",
+  "country": "待补充",
+  "manufacturer": "Dacora",
+  "model": "Daco",
+  "year": 1949,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dacora盒式相机，1949 年发布",
+  "description": "The Daco is a Bakelite box camera made by Dacora in Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Daco"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Daco",
+      "url": "https://camera-wiki.org/wiki/Daco"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

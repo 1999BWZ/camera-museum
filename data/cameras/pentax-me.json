@@ -1,0 +1,29 @@
+{
+  "id": "pentax-me",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "ME",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1977 年发布",
+  "description": "In 1977, Pentax introduced two small 35mm SLRs, the MX and the ME.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax ME"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax ME",
+      "url": "https://camera-wiki.org/wiki/Pentax%20ME"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

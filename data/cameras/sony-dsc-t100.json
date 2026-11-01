@@ -1,0 +1,29 @@
+{
+  "id": "sony-dsc-t100",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "DSC-T100",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2007 年发布",
+  "description": "The Cyber-shot DSC-T100 is a digital camera introduced in 2007 by Japanese manufacture Sony.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony DSC-T100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony DSC-T100",
+      "url": "https://camera-wiki.org/wiki/Sony%20DSC-T100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

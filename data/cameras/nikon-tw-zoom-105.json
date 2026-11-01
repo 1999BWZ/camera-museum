@@ -1,0 +1,29 @@
+{
+  "id": "nikon-tw-zoom-105",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "TW Zoom 105",
+  "year": 1992,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，1992 年发布",
+  "description": "The TW Zoom 105 is a 35mm film camera from Nikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon TW Zoom 105"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon TW Zoom 105",
+      "url": "https://camera-wiki.org/wiki/Nikon%20TW%20Zoom%20105"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

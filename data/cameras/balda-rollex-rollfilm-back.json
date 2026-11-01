@@ -1,0 +1,29 @@
+{
+  "id": "balda-rollex-rollfilm-back",
+  "brand": "Balda",
+  "brand_cn": "",
+  "brand_slug": "balda",
+  "country": "德国",
+  "manufacturer": "Balda",
+  "model": "Rollex rollfilm back",
+  "year": 1927,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Balda胶片相机，1927 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\n__NOTOC__\nRollex is a brand of accessory rollfilm holder (film back) fitted with a dark slide, originally designed as adapters for 9×12 or 6.5×9 plate cameras to use rollfilm (of various sizes—primarily 120 film resulting in a 6×9 image or smaller ).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollex rollfilm back"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollex rollfilm back",
+      "url": "https://camera-wiki.org/wiki/Rollex%20rollfilm%20back"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

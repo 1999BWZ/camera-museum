@@ -1,0 +1,29 @@
+{
+  "id": "graflex-fingerprint-camera",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "Graflex",
+  "model": "Fingerprint Camera",
+  "year": 1918,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲胶片相机，1918 年发布",
+  "description": "The Graflex Fingerprint Camera is a forensic camera produced by Graflex from 1918–1951.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Graflex Fingerprint Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Graflex Fingerprint Camera",
+      "url": "https://camera-wiki.org/wiki/Graflex%20Fingerprint%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

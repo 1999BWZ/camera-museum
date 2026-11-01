@@ -1,0 +1,29 @@
+{
+  "id": "minolta-hi-matic-af2",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Hi-Matic AF2",
+  "year": 1981,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1981 年发布",
+  "description": "{|class=plainlinks\n||[http://www.flickr.com/photos/californiagirl27/3637370904/in/pool-camerawiki/ http://farm3.static.flickr.com/2455/3637370904_81f770c63d.jpg]\n||[http://www.flickr.com/photos/californiagirl27/3636556469/in/pool-camerawiki/ http://farm4.static.flickr.com/3416/3636556469_fde7646496.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Hi-Matic AF2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Hi-Matic AF2",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Hi-Matic%20AF2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

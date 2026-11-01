@@ -1,0 +1,29 @@
+{
+  "id": "bronica-c",
+  "brand": "Bronica",
+  "brand_cn": "勃朗尼卡",
+  "brand_slug": "bronica",
+  "country": "日本",
+  "manufacturer": "Bronica",
+  "model": "C",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "勃朗尼卡胶片单反相机，1964 年发布",
+  "description": "The Bronica C is a 6×6 format focal plane shutter SLR introduced by Bronica in 1964.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bronica C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bronica C",
+      "url": "https://camera-wiki.org/wiki/Bronica%20C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

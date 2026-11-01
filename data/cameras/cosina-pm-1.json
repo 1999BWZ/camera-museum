@@ -1,0 +1,29 @@
+{
+  "id": "cosina-pm-1",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "PM-1",
+  "year": 1963,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina数码单反相机，1963 年发布",
+  "description": "The Cosina PM-1 is an unusual model designation for a 35mm SLR from Cosina, as all of its close relatives are designated \"CT-something.\" This particular model shares its features with the classic CT-1 however its pentaprism cover comes to a sharper point, giving the camera a nice traditional-looking",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cosina PM-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cosina PM-1",
+      "url": "https://camera-wiki.org/wiki/Cosina%20PM-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "agfa-clack",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Clack",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发取景器相机，1954 年发布",
+  "description": "The Clack was manufactured by Agfa from 1954–65.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Clack"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Clack",
+      "url": "https://camera-wiki.org/wiki/Clack"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

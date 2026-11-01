@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-st701",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca ST701",
+  "year": 1970,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji旁轴相机，1970 年发布",
+  "description": "The Fujica ST701 is a fully-manual single-lens reflex camera first produced by Fuji Photo Film from July 1970According to Fujifilm's \"50 Years of Ayumi\"..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica ST701"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica ST701",
+      "url": "https://camera-wiki.org/wiki/Fujica%20ST701"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

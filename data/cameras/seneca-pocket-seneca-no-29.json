@@ -1,0 +1,29 @@
+{
+  "id": "seneca-pocket-seneca-no-29",
+  "brand": "Seneca",
+  "brand_cn": "",
+  "brand_slug": "seneca",
+  "country": "待补充",
+  "manufacturer": "Seneca",
+  "model": "Pocket Seneca No. 29",
+  "year": 1905,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seneca折叠相机，1905 年发布",
+  "description": "The Pocket Seneca No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pocket Seneca No. 29"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pocket Seneca No. 29",
+      "url": "https://camera-wiki.org/wiki/Pocket%20Seneca%20No.%2029"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

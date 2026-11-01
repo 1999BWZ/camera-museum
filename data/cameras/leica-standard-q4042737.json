@@ -1,0 +1,40 @@
+{
+  "id": "leica-standard-q4042737",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "Standard",
+  "year": 1925,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码相机，1925 年发布",
+  "description": "徕卡于1925年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4042737",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LEI0190%20188%20Leica%20Standard%20Chrom%20Sn.%20244297%201937%20-38-M39%20Front%20view-5809%20hf.jpg?width=800",
+      "caption": "Standard",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4042737"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica Standard",
+      "url": "https://www.wikidata.org/wiki/Q4042737"
+    }
+  ],
+  "qid": "Q4042737",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

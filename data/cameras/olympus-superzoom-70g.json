@@ -1,0 +1,29 @@
+{
+  "id": "olympus-superzoom-70g",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Superzoom 70G",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，2002 年发布",
+  "description": "The Superzoom 70G is a 35mm compact camera from Olympus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Superzoom 70G"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Superzoom 70G",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Superzoom%2070G"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

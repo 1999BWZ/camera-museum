@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-t",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex T",
+  "year": 1958,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来中画幅相机，1958 年发布",
+  "description": "The Rolleiflex T is a medium format TLR camera manufactured by Franke & Heidecke and later by Rollei.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex T"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex T",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%20T"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

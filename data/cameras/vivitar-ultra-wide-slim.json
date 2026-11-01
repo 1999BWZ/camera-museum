@@ -1,0 +1,37 @@
+{
+  "id": "vivitar-ultra-wide-slim",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "中国",
+  "manufacturer": "Vivitar",
+  "model": "Ultra Wide & Slim",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar取景器相机，2014 年发布",
+  "description": "The Vivitar Ultra Wide and Slim is an all-plastic, \"focus-free\" 35mm camera marketed by Vivitar.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar Ultra Wide & Slim"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm8.staticflickr.com/7103/7379752982_39bfe436ef.jpg",
+      "caption": "Ultra Wide & Slim",
+      "source": "Flickr（Steve Chatfield）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/amberflykezzie/7379752982/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar Ultra Wide & Slim",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20Ultra%20Wide%20%26%20Slim"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

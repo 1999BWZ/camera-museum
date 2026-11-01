@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f50",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F50",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1994 年发布",
+  "description": "__NOTOC__\n\nThe F50, sold as the N50 in the United States, was an entry-level 35mm film Single-lens reflex camera which was introduced by Nikon in 1994.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F50 (N50)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F50 (N50)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F50%20%28N50%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

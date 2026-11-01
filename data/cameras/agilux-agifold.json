@@ -1,0 +1,29 @@
+{
+  "id": "agilux-agifold",
+  "brand": "Agilux",
+  "brand_cn": "",
+  "brand_slug": "agilux",
+  "country": "英国",
+  "manufacturer": "Agilux",
+  "model": "Agifold",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Agilux折叠相机，1948 年发布",
+  "description": "{|class=floatright\n|\n\n|\n\n|}\nThe Agifold is a folding camera made in Croydon in the UK by Agilux.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agifold"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agifold",
+      "url": "https://camera-wiki.org/wiki/Agifold"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

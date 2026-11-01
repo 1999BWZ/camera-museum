@@ -1,0 +1,29 @@
+{
+  "id": "pentax-espio-iqzoom-120mi",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Espio/IQZoom 120Mi",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得便携相机，1998 年发布",
+  "description": "Pentax Espio 120mi is a 35mm compact camera with autofocus and zoom lens, is is part of the Pentax Espio IQZoom series issued by Pentax in c1998.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Espio/IQZoom 120Mi"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Espio/IQZoom 120Mi",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Espio/IQZoom%20120Mi"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

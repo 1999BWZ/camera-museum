@@ -1,0 +1,29 @@
+{
+  "id": "leica-c1",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "C1",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，1999 年发布",
+  "description": "The Leica C1 was one of the compact cameras offered by Leica Camera AG.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica C1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica C1",
+      "url": "https://camera-wiki.org/wiki/Leica%20C1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ricoh-caplio-rx",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "Caplio RX",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2004 年发布",
+  "description": "理光于2004年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7332324",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caplio%20RX.JPG?width=800",
+      "caption": "Caplio RX",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7332324"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Ricoh Caplio RX",
+      "url": "https://www.wikidata.org/wiki/Q7332324"
+    }
+  ],
+  "qid": "Q7332324",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

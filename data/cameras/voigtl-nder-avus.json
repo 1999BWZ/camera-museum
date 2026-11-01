@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-avus",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Avus",
+  "year": 1913,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer折叠相机，1913 年发布",
+  "description": "{|class=\"plainlinks\" style=\"text-align:center;\"\n|[https://www.flickr.com/photos/s-demir/5337999937/in/pool-camerawiki/ https://farm6.static.flickr.com/5004/5337999937_afacc6a2f3_m.jpg]\n|[https://www.flickr.com/photos/s-demir/5338609964/in/pool-camerawiki/ https://farm6.static.flickr.com/5205/5338609",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Avus"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Avus",
+      "url": "https://camera-wiki.org/wiki/Avus"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

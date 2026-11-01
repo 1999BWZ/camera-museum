@@ -1,0 +1,40 @@
+{
+  "id": "olympus-pen-e-p7",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "OM数位解决方案",
+  "model": "PEN E-P7",
+  "year": 2021,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2021 年发布",
+  "description": "奥林巴斯于2021年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q107366147",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20PEN%20E-P7%2014%20Jul%202021a.jpg?width=800",
+      "caption": "PEN E-P7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q107366147"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 奥林巴斯PEN E-P7",
+      "url": "https://www.wikidata.org/wiki/Q107366147"
+    }
+  ],
+  "qid": "Q107366147",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

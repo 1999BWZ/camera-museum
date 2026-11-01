@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-kr-5-super-ii",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "KR-5 Super II",
+  "year": 1993,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1993 年发布",
+  "description": "Ricoh's success with its cost-reduced, beginner-friendly KR-5 (no suffix) from 1978 led to successor \"5\" models including the CR-5 and KR-5 Super.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh KR-5 Super II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh KR-5 Super II",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20KR-5%20Super%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-myport-zoom-mini",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Myport Zoom mini",
+  "year": 1992,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1992 年发布",
+  "description": "The Myport Zoom mini is an autofocus point-and-shoot camera for 35mm film, introduced by Ricoh in 1992 as the world's smallest[http://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/ List of All Ricoh Cameras] on [http://www.ricoh-imaging.co.jp/japan/index.html Ricoh official webs",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Myport Zoom mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Myport Zoom mini",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Myport%20Zoom%20mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

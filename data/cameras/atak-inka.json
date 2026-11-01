@@ -1,0 +1,29 @@
+{
+  "id": "atak-inka",
+  "brand": "Atak",
+  "brand_cn": "",
+  "brand_slug": "atak",
+  "country": "待补充",
+  "manufacturer": "Atak",
+  "model": "Inka",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Atak盒式相机，1947 年发布",
+  "description": "The Inka is a simple box camera, which looks like a TLR, with the viewfinder served by a 'viewing' lens above the taking one, but is not.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Atak Inka"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Atak Inka",
+      "url": "https://camera-wiki.org/wiki/Atak%20Inka"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

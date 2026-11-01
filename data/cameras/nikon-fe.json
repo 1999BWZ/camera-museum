@@ -1,0 +1,29 @@
+{
+  "id": "nikon-fe",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "FE",
+  "year": 1978,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1978 年发布",
+  "description": "The Nikon FE is a 35mmm SLR manual focus camera introduced by Nikon in 1978, as a compliment to the Nikon FM launched the previous year.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon FE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon FE",
+      "url": "https://camera-wiki.org/wiki/Nikon%20FE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

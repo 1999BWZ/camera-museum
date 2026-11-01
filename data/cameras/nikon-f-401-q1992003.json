@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f-401-q1992003",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F-401",
+  "year": 1987,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1987 年发布",
+  "description": "尼康于1987年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1992003",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/F-401%20401-S%20401-X.jpg?width=800",
+      "caption": "F-401",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1992003"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon F-401",
+      "url": "https://www.wikidata.org/wiki/Q1992003"
+    }
+  ],
+  "qid": "Q1992003",
+  "sitelinks": 7,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "franka-solida-i",
+  "brand": "Franka",
+  "brand_cn": "",
+  "brand_slug": "franka",
+  "country": "待补充",
+  "manufacturer": "Franka",
+  "model": "Solida I",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Franka折叠相机，1952 年发布",
+  "description": "{|class=\"plainlinks floatright\"\n||[https://www.flickr.com/photos/raulm/3255663867/in/pool-camerawiki/ https://farm4.static.flickr.com/3315/3255663867_5b5f6821dd_m.jpg]\n|-\n||[https://www.flickr.com/photos/raulm/3255663443/in/pool-camerawiki/ https://farm4.static.flickr.com/3256/3255663443_1b65fd3c49_",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Solida I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Solida I",
+      "url": "https://camera-wiki.org/wiki/Solida%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

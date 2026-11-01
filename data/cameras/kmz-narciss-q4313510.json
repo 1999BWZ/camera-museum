@@ -1,0 +1,40 @@
+{
+  "id": "kmz-narciss-q4313510",
+  "brand": "KMZ",
+  "brand_cn": "克拉斯诺戈尔斯克",
+  "brand_slug": "kmz",
+  "country": "俄罗斯",
+  "manufacturer": "克拉斯诺戈尔斯克工厂",
+  "model": "Narciss相机",
+  "year": 1961,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "克拉斯诺戈尔斯克胶片相机，1961 年发布",
+  "description": "克拉斯诺戈尔斯克于1961年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4313510",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/White%20Narciss%20camera.JPG?width=800",
+      "caption": "Narciss相机",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4313510"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Narciss相机",
+      "url": "https://www.wikidata.org/wiki/Q4313510"
+    }
+  ],
+  "qid": "Q4313510",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

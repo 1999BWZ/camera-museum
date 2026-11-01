@@ -1,0 +1,29 @@
+{
+  "id": "pinhole-ondu",
+  "brand": "Pinhole",
+  "brand_cn": "",
+  "brand_slug": "pinhole",
+  "country": "待补充",
+  "manufacturer": "Pinhole",
+  "model": "ONDU",
+  "year": 2013,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pinhole胶片相机，2013 年发布",
+  "description": "ONDU is a line of wooden chestnut and maple pinhole cameras designed in Slovenia by Elvis Halilović.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "ONDU"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – ONDU",
+      "url": "https://camera-wiki.org/wiki/ONDU"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

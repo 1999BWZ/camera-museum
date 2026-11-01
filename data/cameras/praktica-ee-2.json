@@ -1,0 +1,29 @@
+{
+  "id": "praktica-ee-2",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "EE 2",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片单反相机，1977 年发布",
+  "description": "The Praktica EE 2 is a 35mm film SLR camera manufactured by Kombinat VEB Pentacon in Dresden from March 1977 to March 1979.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica EE 2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica EE 2",
+      "url": "https://camera-wiki.org/wiki/Praktica%20EE%202"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

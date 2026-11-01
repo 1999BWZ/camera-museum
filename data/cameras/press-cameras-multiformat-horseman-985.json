@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-multiformat-horseman-985",
+  "brand": "Press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "待补充",
+  "manufacturer": "Press cameras",
+  "model": "Multiformat Horseman 985",
+  "year": 1966,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Press cameras旁轴相机，1966 年发布",
+  "description": "The Topcon Multiformat Horseman 985 is a 6&times;9cm and 6&times;7cm press camera with big rangefinder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Topcon Multiformat Horseman 985"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Topcon Multiformat Horseman 985",
+      "url": "https://camera-wiki.org/wiki/Topcon%20Multiformat%20Horseman%20985"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

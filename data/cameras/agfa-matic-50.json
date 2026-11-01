@@ -1,0 +1,29 @@
+{
+  "id": "agfa-matic-50",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "matic 50",
+  "year": 1971,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发胶片相机，1971 年发布",
+  "description": "The Agfamatic 50 is a simple camera for 126 cartridge film introduced by Agfa in 1971 or 1972.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfamatic 50"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfamatic 50",
+      "url": "https://camera-wiki.org/wiki/Agfamatic%2050"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sony-dsc-u40",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSC-U40",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2003 年发布",
+  "description": "索尼于2003年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889256",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSC-U40",
+      "url": "https://www.wikidata.org/wiki/Q20889256"
+    }
+  ],
+  "qid": "Q20889256",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

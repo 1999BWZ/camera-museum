@@ -1,0 +1,29 @@
+{
+  "id": "agfa-box-45",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Box 45",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发盒式相机，1938 年发布",
+  "description": "The Agfa Box 45 is a box camera for 6x9cm exposures on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Box 45"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Box 45",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Box%2045"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

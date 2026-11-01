@@ -1,0 +1,29 @@
+{
+  "id": "pentax-mz-m-zx-m",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MZ-M/ZX-M",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1997 年发布",
+  "description": "Pentax took a big gamble in 1997, and introduced a manual focus camera, knows as Mz-M (ZX-M in the USA).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MZ-M/ZX-M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MZ-M/ZX-M",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MZ-M/ZX-M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

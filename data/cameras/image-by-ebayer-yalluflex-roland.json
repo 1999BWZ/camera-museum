@@ -1,0 +1,29 @@
+{
+  "id": "image-by-ebayer-yalluflex-roland",
+  "brand": "Image by eBayer Yalluflex",
+  "brand_cn": "",
+  "brand_slug": "image-by-ebayer-yalluflex",
+  "country": "待补充",
+  "manufacturer": "Image by eBayer Yalluflex",
+  "model": "Roland",
+  "year": 1931,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Image by eBayer Yalluflex旁轴相机，1931 年发布",
+  "description": "{| class=\"floatright plainlinks\" align=\"center\" style=\"text-align:center; margin:0px 0px 10px 15px;\"\n|[http://www.flickr.com/photos/camerawiki/48725025828/in/pool-camerawiki/ https://live.staticflickr.com/65535/48725025828_18509567f3_z.jpg]\n|-\n|[http://www.flickr.com/photos/camerawiki/48725534142/in",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Roland"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Roland",
+      "url": "https://camera-wiki.org/wiki/Roland"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

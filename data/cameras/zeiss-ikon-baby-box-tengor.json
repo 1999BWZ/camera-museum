@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-baby-box-tengor",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Baby Box Tengor",
+  "year": 1931,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon盒式相机，1931 年发布",
+  "description": "The first version Baby-Box 54/18 was introduced in 1931, a metal box camera for type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baby Box Tengor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baby Box Tengor",
+      "url": "https://camera-wiki.org/wiki/Baby%20Box%20Tengor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cosina-cx5",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "CX5",
+  "year": 1982,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina取景器相机，1982 年发布",
+  "description": "Cosina's CX-5 is a Japanese 35mm viewfinder camera, released in 1982 as a progression from the now semi-classic CX-1 and CX-2.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cosina CX5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cosina CX5",
+      "url": "https://camera-wiki.org/wiki/Cosina%20CX5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

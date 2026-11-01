@@ -1,0 +1,29 @@
+{
+  "id": "multiple-lens-royal-mail-stamp-camera",
+  "brand": "Multiple lens",
+  "brand_cn": "",
+  "brand_slug": "multiple-lens",
+  "country": "英国",
+  "manufacturer": "Multiple lens",
+  "model": "Royal Mail Stamp Camera",
+  "year": 1907,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Multiple lens胶片相机，1907 年发布",
+  "description": "The Royal Mail Stamp Camera is a camera made by W.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Royal Mail Stamp Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Royal Mail Stamp Camera",
+      "url": "https://camera-wiki.org/wiki/Royal%20Mail%20Stamp%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

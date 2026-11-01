@@ -1,0 +1,29 @@
+{
+  "id": "kowa-model-e",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "Model E",
+  "year": 1961,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa胶片单反相机，1961 年发布",
+  "description": "The Kowa E (which appears to have been branded as the Kowaflex E in the USA) was the base model for subsequent Kowa 35mm SLR cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa Model E"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa Model E",
+      "url": "https://camera-wiki.org/wiki/Kowa%20Model%20E"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

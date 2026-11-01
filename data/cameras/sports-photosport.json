@@ -1,0 +1,29 @@
+{
+  "id": "sports-photosport",
+  "brand": "Sports",
+  "brand_cn": "",
+  "brand_slug": "sports",
+  "country": "奥地利",
+  "manufacturer": "Sports",
+  "model": "Photosport",
+  "year": 1925,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sports取景器相机，1925 年发布",
+  "description": "The Photosport is an early still camera for 35mm film, made by A.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Photosport"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Photosport",
+      "url": "https://camera-wiki.org/wiki/Photosport"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

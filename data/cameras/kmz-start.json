@@ -1,0 +1,29 @@
+{
+  "id": "kmz-start",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "Start",
+  "year": 1958,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ胶片单反相机，1958 年发布",
+  "description": "The Start is a 35mm SLR film camera that manufactured by Mechanical Factory of Krasnogorsk (Krasnogorsky Mekhanichesky Zavod) (KMZ), near Moscov, former USSR, between 1958-64.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Start (SLR)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Start (SLR)",
+      "url": "https://camera-wiki.org/wiki/Start%20%28SLR%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

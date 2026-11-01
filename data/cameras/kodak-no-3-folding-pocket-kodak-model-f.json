@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-3-folding-pocket-kodak-model-f",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 3 Folding Pocket Kodak Model F",
+  "year": 1909,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机（折叠），1909 年发布",
+  "description": "柯达于1909年发布的旁轴相机（折叠）。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 3 Folding Pocket Kodak Model F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 3 Folding Pocket Kodak Model F",
+      "url": "https://camera-wiki.org/wiki/No.%203%20Folding%20Pocket%20Kodak%20Model%20F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

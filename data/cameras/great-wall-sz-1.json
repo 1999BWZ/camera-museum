@@ -1,0 +1,29 @@
+{
+  "id": "great-wall-sz-1",
+  "brand": "Great",
+  "brand_cn": "",
+  "brand_slug": "great",
+  "country": "中国",
+  "manufacturer": "Great",
+  "model": "Wall SZ-1",
+  "year": 1969,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Great旁轴相机，1969 年发布",
+  "description": "More than 100.000 of the Great Wall SZ-1 rangefinder cameras with spring motor film advance were made from 1969 to 1977 by the Beijing Camera Factory.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Great Wall SZ-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Great Wall SZ-1",
+      "url": "https://camera-wiki.org/wiki/Great%20Wall%20SZ-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

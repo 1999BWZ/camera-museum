@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-7s-ii",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri 7s II",
+  "year": 1974,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi旁轴相机，1974 年发布",
+  "description": "The Petri 7s II is a fixed-lens 35mm rangefinder camera introduced by Petri in 1974.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri 7s II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri 7s II",
+      "url": "https://camera-wiki.org/wiki/Petri%207s%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

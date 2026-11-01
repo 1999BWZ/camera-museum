@@ -1,0 +1,29 @@
+{
+  "id": "advertising-historic-derby",
+  "brand": "Advertising (historic)",
+  "brand_cn": "",
+  "brand_slug": "advertising-historic",
+  "country": "待补充",
+  "manufacturer": "Advertising (historic)",
+  "model": "Derby",
+  "year": 1931,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Advertising (historic)折叠相机，1931 年发布",
+  "description": "Advertising (historic)于1931年发布的折叠相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Derby"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Derby",
+      "url": "https://camera-wiki.org/wiki/Derby"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

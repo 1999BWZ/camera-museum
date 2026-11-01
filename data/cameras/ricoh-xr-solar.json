@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-xr-solar",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "XR Solar",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1994 年发布",
+  "description": "The XR-Solar should not be confused with the earlier Ricoh XR-S.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh XR Solar"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh XR Solar",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20XR%20Solar"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

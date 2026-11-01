@@ -1,0 +1,29 @@
+{
+  "id": "leonar-model-d-iii",
+  "brand": "Leonar",
+  "brand_cn": "",
+  "brand_slug": "leonar",
+  "country": "待补充",
+  "manufacturer": "Leonar",
+  "model": "Model D III",
+  "year": 1914,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leonar折叠相机，1914 年发布",
+  "description": "The Leonar Model D III is folding camera for filmpacks format 8x14 cm, produced by the German company Leonar-Werke Arndt & Löwengard in Wandsbek near Hamburg c.1914 Article \"Fotografische Nieuwigheden\" (Photography News) as published in the May 1914 issue of the Dutch photography magazine \"Lux\".",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leonar Model D III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leonar Model D III",
+      "url": "https://camera-wiki.org/wiki/Leonar%20Model%20D%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

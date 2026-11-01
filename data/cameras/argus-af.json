@@ -1,0 +1,29 @@
+{
+  "id": "argus-af",
+  "brand": "Argus",
+  "brand_cn": "",
+  "brand_slug": "argus",
+  "country": "美国",
+  "manufacturer": "Argus",
+  "model": "AF",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Argus取景器相机，1937 年发布",
+  "description": "Like the Argus A but with an adjustable lens to provide full focusing abilities (1.25 feet to infinity).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Argus AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Argus AF",
+      "url": "https://camera-wiki.org/wiki/Argus%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

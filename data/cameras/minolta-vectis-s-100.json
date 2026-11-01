@@ -1,0 +1,29 @@
+{
+  "id": "minolta-vectis-s-100",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Vectis S-100",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1997 年发布",
+  "description": "The Minolta Vectis S-100 was the lightest and smallest APS interchangeable lens auto-focus SLR camera for Minolta's V-mount lenses (and a with an adapter could mount popular Minolta Alpha/Dynax/Maxxum-mount lenses), with a splash-proof body, and Advanced Photo System film cartridges.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Vectis S-100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Vectis S-100",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Vectis%20S-100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

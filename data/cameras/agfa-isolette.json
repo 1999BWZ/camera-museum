@@ -1,0 +1,29 @@
+{
+  "id": "agfa-isolette",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Isolette",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发折叠相机，1937 年发布",
+  "description": "The Isolette is the name of a series of compact horizontal-folding camera for twelve 6×6 cm (2¼-inch square) pictures or sixteen 4.5×6 cm (2¼×1⅝ inch) pictures (only on the first model of the camera), on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Isolette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Isolette",
+      "url": "https://camera-wiki.org/wiki/Isolette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

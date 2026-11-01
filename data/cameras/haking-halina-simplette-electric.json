@@ -1,0 +1,29 @@
+{
+  "id": "haking-halina-simplette-electric",
+  "brand": "Haking",
+  "brand_cn": "",
+  "brand_slug": "haking",
+  "country": "待补充",
+  "manufacturer": "Haking",
+  "model": "Halina Simplette Electric",
+  "year": 1970,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Haking胶片相机，1970 年发布",
+  "description": "The Halina Simplette Electric is a camera for 126 films (Kodapak cartridges) made by Haking in Hong Kong c.1970.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Halina Simplette Electric"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Halina Simplette Electric",
+      "url": "https://camera-wiki.org/wiki/Halina%20Simplette%20Electric"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

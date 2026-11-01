@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-model-900",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Model 900",
+  "year": 1960,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1960 年发布",
+  "description": "The Polaroid Land Camera Model 900 Electric Eye is a Type-40 instant roll film camera made between 1960-1963 by Polaroid.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Model 900"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Model 900",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Model%20900"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "continental-disc-201",
+  "brand": "Continental",
+  "brand_cn": "",
+  "brand_slug": "continental",
+  "country": "待补充",
+  "manufacturer": "Continental",
+  "model": "Disc 201",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Continental胶片相机，1982 年发布",
+  "description": "The Continental Disc 201, marked on camera as Continental 201, is a camera for disc film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Continental Disc 201"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Continental Disc 201",
+      "url": "https://camera-wiki.org/wiki/Continental%20Disc%20201"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

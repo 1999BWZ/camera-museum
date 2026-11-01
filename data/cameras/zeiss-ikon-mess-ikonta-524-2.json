@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-mess-ikonta-524-2",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Mess-Ikonta 524/2",
+  "year": 1951,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon旁轴相机，1951 年发布",
+  "description": "The 524/2 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mess-Ikonta 524/2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mess-Ikonta 524/2",
+      "url": "https://camera-wiki.org/wiki/Mess-Ikonta%20524/2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

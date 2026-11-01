@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-rdc-4300",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "RDC-4300",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，1998 年发布",
+  "description": "The Ricoh RDC-4300 was introduced by Ricoh in 1998.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh RDC-4300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh RDC-4300",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20RDC-4300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

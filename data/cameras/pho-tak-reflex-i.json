@@ -1,0 +1,29 @@
+{
+  "id": "pho-tak-reflex-i",
+  "brand": "Pho-Tak",
+  "brand_cn": "",
+  "brand_slug": "pho-tak",
+  "country": "美国",
+  "manufacturer": "Pho-Tak",
+  "model": "Reflex I",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pho-Tak胶片相机，1953 年发布",
+  "description": "A circa-1953 pseudo TLR from Chicago's Pho-Tak Corporation, for 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pho-Tak Reflex I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pho-Tak Reflex I",
+      "url": "https://camera-wiki.org/wiki/Pho-Tak%20Reflex%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

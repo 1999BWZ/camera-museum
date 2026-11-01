@@ -1,0 +1,29 @@
+{
+  "id": "steinheil-casca",
+  "brand": "Steinheil",
+  "brand_cn": "",
+  "brand_slug": "steinheil",
+  "country": "待补充",
+  "manufacturer": "Steinheil",
+  "model": "Casca",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Steinheil取景器相机，1948 年发布",
+  "description": "The Casca is a German 35mm camera with interchangeable lenses, introduced in 1948 by Munich lens-maker Steinheil.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Steinheil Casca"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Steinheil Casca",
+      "url": "https://camera-wiki.org/wiki/Steinheil%20Casca"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

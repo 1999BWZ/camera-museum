@@ -1,0 +1,29 @@
+{
+  "id": "sony-mavica-fd7",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Mavica FD7",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，1997 年发布",
+  "description": "The Mavica FD5 and the Mavica FD7 were introduced together by Sony in 1997.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Mavica FD7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Mavica FD7",
+      "url": "https://camera-wiki.org/wiki/Sony%20Mavica%20FD7"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

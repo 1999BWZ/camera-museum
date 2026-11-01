@@ -1,0 +1,29 @@
+{
+  "id": "lomo-smena-8m",
+  "brand": "LOMO",
+  "brand_cn": "",
+  "brand_slug": "lomo",
+  "country": "待补充",
+  "manufacturer": "LOMO",
+  "model": "Smena 8m",
+  "year": 1970,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "LOMO取景器相机，1970 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe LOMO Smena 8m is an entry-level 35mm camera from the 1970s Soviet Union, now mostly regarded as a toy camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Smena 8m"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Smena 8m",
+      "url": "https://camera-wiki.org/wiki/Smena%208m"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

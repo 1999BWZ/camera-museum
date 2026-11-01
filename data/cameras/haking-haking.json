@@ -1,0 +1,29 @@
+{
+  "id": "haking-haking",
+  "brand": "Haking",
+  "brand_cn": "",
+  "brand_slug": "haking",
+  "country": "待补充",
+  "manufacturer": "Haking",
+  "model": "Haking",
+  "year": 1906,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Haking胶片相机，1906 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nW.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Haking"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Haking",
+      "url": "https://camera-wiki.org/wiki/Haking"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

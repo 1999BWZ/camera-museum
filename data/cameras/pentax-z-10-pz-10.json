@@ -1,0 +1,29 @@
+{
+  "id": "pentax-z-10-pz-10",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Z-10/PZ-10",
+  "year": 1991,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1991 年发布",
+  "description": "The Pentax PZ-10 (Z-10 in US), dating from 1991, is an autofocus 35mm film SLR.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Z-10/PZ-10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Z-10/PZ-10",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Z-10/PZ-10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

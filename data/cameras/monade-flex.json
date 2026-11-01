@@ -1,0 +1,29 @@
+{
+  "id": "monade-flex",
+  "brand": "Monade",
+  "brand_cn": "",
+  "brand_slug": "monade",
+  "country": "待补充",
+  "manufacturer": "Monade",
+  "model": "Flex",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Monade胶片相机，1953 年发布",
+  "description": "The Monade Flex (モナードフレックス) is a Japanese 6&times;6 TLR made in 1953 by Ryūbi Seisakusho.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Monade Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Monade Flex",
+      "url": "https://camera-wiki.org/wiki/Monade%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

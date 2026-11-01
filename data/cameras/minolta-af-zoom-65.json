@@ -1,0 +1,29 @@
+{
+  "id": "minolta-af-zoom-65",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "AF-Zoom 65",
+  "year": 1989,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1989 年发布",
+  "description": "The Minolta AF-Zoom 65 is a compact camera with autofocus and built-in flash made by Minolta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta AF-Zoom 65"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta AF-Zoom 65",
+      "url": "https://camera-wiki.org/wiki/Minolta%20AF-Zoom%2065"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

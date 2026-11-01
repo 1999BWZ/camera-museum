@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-66x",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic 66X",
+  "year": 1973,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1973 年发布",
+  "description": "The Kodak Instamatic 66X was yet another simple viewfinder camera for 126 (Kodapak) film cartridges produced by Kodak Ltd.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic 66X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic 66X",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%2066X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

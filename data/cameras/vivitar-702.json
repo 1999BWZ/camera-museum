@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-702",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "702",
+  "year": 1978,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片相机，1978 年发布",
+  "description": "The Vivitar 702 is a camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar 702"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar 702",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20702"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

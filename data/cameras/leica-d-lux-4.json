@@ -1,0 +1,29 @@
+{
+  "id": "leica-d-lux-4",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "D-Lux 4",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码相机，2008 年发布",
+  "description": "The D-Lux 4 is a compact digital camera from Leica introduced in 2008.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica D-Lux 4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica D-Lux 4",
+      "url": "https://camera-wiki.org/wiki/Leica%20D-Lux%204"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

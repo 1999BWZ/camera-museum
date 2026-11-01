@@ -1,0 +1,29 @@
+{
+  "id": "franka-solida-record",
+  "brand": "Franka",
+  "brand_cn": "",
+  "brand_slug": "franka",
+  "country": "待补充",
+  "manufacturer": "Franka",
+  "model": "Solida Record",
+  "year": 1957,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Franka折叠相机，1957 年发布",
+  "description": "A very simple and light folder camera, post-war built by Franka, \"Made in West Germany, US Zone\".",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Solida Record"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Solida Record",
+      "url": "https://camera-wiki.org/wiki/Solida%20Record"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

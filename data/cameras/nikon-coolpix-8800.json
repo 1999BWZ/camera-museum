@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-8800",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix 8800",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2005 年发布",
+  "description": "The Coolpix 8800 was released in 2005 by Nikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix 8800"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix 8800",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%208800"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

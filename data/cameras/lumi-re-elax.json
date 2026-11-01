@@ -1,0 +1,29 @@
+{
+  "id": "lumi-re-elax",
+  "brand": "Lumière",
+  "brand_cn": "",
+  "brand_slug": "lumi-re",
+  "country": "法国",
+  "manufacturer": "Lumière",
+  "model": "Elax",
+  "year": 1931,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lumière折叠相机，1931 年发布",
+  "description": "The Elax is a folding 3×4cm camera, using 127 film, made by the French maker Lumière from 1931 or 1933 (depending on the source).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Elax"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Elax",
+      "url": "https://camera-wiki.org/wiki/Elax"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

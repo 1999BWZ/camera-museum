@@ -1,0 +1,32 @@
+{
+  "id": "fujifilm-x-a1",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "X-A1",
+  "year": 2013,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士无反相机，2013 年发布",
+  "description": "富士于2013年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q16527306",
+    "多语言词条数": "3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Fujifilm X-A1",
+      "url": "https://www.wikidata.org/wiki/Q16527306"
+    }
+  ],
+  "qid": "Q16527306",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

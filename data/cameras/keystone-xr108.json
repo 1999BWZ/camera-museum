@@ -1,0 +1,29 @@
+{
+  "id": "keystone-xr108",
+  "brand": "Keystone",
+  "brand_cn": "",
+  "brand_slug": "keystone",
+  "country": "美国",
+  "manufacturer": "Keystone",
+  "model": "XR108",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Keystone胶片相机，1982 年发布",
+  "description": "The Keystone XR108 is a camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Keystone XR108"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Keystone XR108",
+      "url": "https://camera-wiki.org/wiki/Keystone%20XR108"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

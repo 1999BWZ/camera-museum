@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-riken-35",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Riken 35",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光旁轴相机，1955 年发布",
+  "description": "The Riken 35 is a fixed-lens, coupled-rangefinder camera for 35mm film, made in about 1955 by Riken Kōgaku Kōgyō, who would become Ricoh in a few more years.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Riken 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Riken 35",
+      "url": "https://camera-wiki.org/wiki/Riken%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

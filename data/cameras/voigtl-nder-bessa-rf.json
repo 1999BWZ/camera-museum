@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-bessa-rf",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Bessa RF",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer折叠相机，1936 年发布",
+  "description": "The Bessa Rangefinder or Bessa RF (also known as the Bessa E Messer, from Entfernungsmesser, the German for 'rangefinder') was introduced in 1936, one of a long-running series of Bessa cameras made by Voigtländer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bessa RF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bessa RF",
+      "url": "https://camera-wiki.org/wiki/Bessa%20RF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

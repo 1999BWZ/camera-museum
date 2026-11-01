@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-sl26",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex SL26",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片单反相机，1968 年发布",
+  "description": "The Rolleiflex SL26 is a manual-exposure SLR camera for Kodak's 126 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex SL26"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex SL26",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%20SL26"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

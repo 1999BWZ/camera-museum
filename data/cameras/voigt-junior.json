@@ -1,0 +1,29 @@
+{
+  "id": "voigt-junior",
+  "brand": "Voigt",
+  "brand_cn": "",
+  "brand_slug": "voigt",
+  "country": "美国",
+  "manufacturer": "Voigt",
+  "model": "Junior",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigt折叠相机，1947 年发布",
+  "description": "The Voigt Junior is a folding camera for 2&frac14;\" square images on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Voigt Junior"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Voigt Junior",
+      "url": "https://camera-wiki.org/wiki/Voigt%20Junior"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

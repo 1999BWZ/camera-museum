@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-sport-kamera",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Sport-Kamera",
+  "year": 1928,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee折叠相机，1928 年发布",
+  "description": "The Sport-Kamera is a strut-folding sports/press camera made by Ihagee as their model 1820 for 9x12cm plates from 1928,[http://www.ihagee.org/cat/IHGcat1928E.pdf English-language Ihagee catalogue for 1928], p.11; at ihagee.org.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ihagee Sport-Kamera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ihagee Sport-Kamera",
+      "url": "https://camera-wiki.org/wiki/Ihagee%20Sport-Kamera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

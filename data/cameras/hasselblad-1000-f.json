@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-1000-f",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "1000 F",
+  "year": 1952,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏中画幅相机，1952 年发布",
+  "description": "After Hasselblad introduced the original 1600 F in 1948, it became evident that the focal-plane shutter was the weak link in the design.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad 1000 F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad 1000 F",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%201000%20F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

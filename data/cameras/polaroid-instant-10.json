@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-instant-10",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Instant 10",
+  "year": 1978,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1978 年发布",
+  "description": "The Polaroid Instant 10 was a rigid plastic-bodied instant camera launched in the UK in 1978.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Instant 10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Instant 10",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Instant%2010"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

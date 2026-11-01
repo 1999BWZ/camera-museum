@@ -1,0 +1,29 @@
+{
+  "id": "plaubel-roll-op",
+  "brand": "Plaubel",
+  "brand_cn": "",
+  "brand_slug": "plaubel",
+  "country": "待补充",
+  "manufacturer": "Plaubel",
+  "model": "Roll-Op",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Plaubel折叠相机，1934 年发布",
+  "description": "This is not the Rollop by Lipca.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Roll-Op"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Roll-Op",
+      "url": "https://camera-wiki.org/wiki/Roll-Op"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

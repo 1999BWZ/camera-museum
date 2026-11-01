@@ -1,0 +1,29 @@
+{
+  "id": "cornu-ontoflex",
+  "brand": "Cornu",
+  "brand_cn": "",
+  "brand_slug": "cornu",
+  "country": "法国",
+  "manufacturer": "Cornu",
+  "model": "Ontoflex",
+  "year": 1934,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cornu胶片相机，1934 年发布",
+  "description": "The Ontoflex is an unusual TLR, made by Cornu, France in 1934.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ontoflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ontoflex",
+      "url": "https://camera-wiki.org/wiki/Ontoflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

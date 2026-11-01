@@ -1,0 +1,29 @@
+{
+  "id": "samsung-tl500-ex1",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "Samsung",
+  "model": "TL500/EX1",
+  "year": 2010,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星无反相机，2010 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nBy 2010, Korean industrial giant Samsung had made several attempts to find a viable niche in the digital camera marketplace.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samsung TL500/EX1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samsung TL500/EX1",
+      "url": "https://camera-wiki.org/wiki/Samsung%20TL500/EX1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

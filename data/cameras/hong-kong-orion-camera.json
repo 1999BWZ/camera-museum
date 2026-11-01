@@ -1,0 +1,29 @@
+{
+  "id": "hong-kong-orion-camera",
+  "brand": "Hong Kong",
+  "brand_cn": "",
+  "brand_slug": "hong-kong",
+  "country": "待补充",
+  "manufacturer": "Hong Kong",
+  "model": "Orion Camera",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hong Kong玩具相机，1960 年发布",
+  "description": "__NOTOC__\n\nSee also the disambiguation page Orion for other cameras with that name..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Orion Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Orion Camera",
+      "url": "https://camera-wiki.org/wiki/Orion%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

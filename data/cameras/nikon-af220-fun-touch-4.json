@@ -1,0 +1,29 @@
+{
+  "id": "nikon-af220-fun-touch-4",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "AF220/Fun•Touch 4",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1995 年发布",
+  "description": "The Nikon AF220 or Fun•Touch 4 was an entry-level compact camera for 35mm film, introduced by Nikon in 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon AF220/Fun•Touch 4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon AF220/Fun•Touch 4",
+      "url": "https://camera-wiki.org/wiki/Nikon%20AF220/Fun%E2%80%A2Touch%204"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

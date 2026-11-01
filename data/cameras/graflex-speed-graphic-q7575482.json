@@ -1,0 +1,40 @@
+{
+  "id": "graflex-speed-graphic-q7575482",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "格拉菲",
+  "model": "Speed Graphic",
+  "year": 1912,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲胶片相机，1912 年发布",
+  "description": "格拉菲于1912年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7575482",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Graflex%20Speed%20Graphic%20medium%20format%20camera.jpg?width=800",
+      "caption": "Speed Graphic",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7575482"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Speed Graphic",
+      "url": "https://www.wikidata.org/wiki/Q7575482"
+    }
+  ],
+  "qid": "Q7575482",
+  "sitelinks": 7,
+  "imported": "wikidata-5k-2026-11-01"
+}

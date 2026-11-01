@@ -1,0 +1,29 @@
+{
+  "id": "fuji-finepix-a350",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "FinePix A350",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji数码相机，2005 年发布",
+  "description": "The digital compact camera Fujifilm FinePix A350 was launched in 2005.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji FinePix A350"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji FinePix A350",
+      "url": "https://camera-wiki.org/wiki/Fuji%20FinePix%20A350"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

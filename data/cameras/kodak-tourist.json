@@ -1,0 +1,29 @@
+{
+  "id": "kodak-tourist",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Tourist",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达折叠相机，1948 年发布",
+  "description": "The Kodak Tourists were the last in a long line of American-made folding roll film cameras from Eastman Kodak.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Tourist"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Tourist",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Tourist"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

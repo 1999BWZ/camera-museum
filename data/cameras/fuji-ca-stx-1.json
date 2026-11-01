@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-stx-1",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca STX-1",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片单反相机，1979 年发布",
+  "description": "The Fujica STX-1 was marketed by Fuji during the late 1970s and early 1980s and was their entry level SLR during that time.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica STX-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica STX-1",
+      "url": "https://camera-wiki.org/wiki/Fujica%20STX-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

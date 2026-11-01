@@ -1,0 +1,29 @@
+{
+  "id": "zunow-mine-six",
+  "brand": "Zunow",
+  "brand_cn": "",
+  "brand_slug": "zunow",
+  "country": "待补充",
+  "manufacturer": "Zunow",
+  "model": "Mine Six",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zunow旁轴相机，1955 年发布",
+  "description": "Mine Six is the name of a series of 6×6 folding rangefinder cameras produced by Takane Kōgaku in the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mine Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mine Six",
+      "url": "https://camera-wiki.org/wiki/Mine%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

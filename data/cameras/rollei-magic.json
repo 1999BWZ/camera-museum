@@ -1,0 +1,29 @@
+{
+  "id": "rollei-magic",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "Magic",
+  "year": 1960,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来中画幅相机，1960 年发布",
+  "description": "The Rollei magic is a medium format TLR camera manufactured by Franke & Heidecke, Braunschweig, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei Magic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei Magic",
+      "url": "https://camera-wiki.org/wiki/Rollei%20Magic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-p3-p4",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix P3 & P4",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2006 年发布",
+  "description": "The Nikon Coolpix P3 and P4 are eight megapixel compact digital cameras with fixed 3.5x zoom lenses, made in China for the Nikon Corporation of Japan, announced on 21st February 2006[https://web.archive.org/web/20101218212722/http://www.nikon.com/about/news/2006/0221_01.htm Nikon's announcement] (ar",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix P3 & P4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix P3 & P4",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%20P3%20%26%20P4"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

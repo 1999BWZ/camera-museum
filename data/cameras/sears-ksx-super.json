@@ -1,0 +1,29 @@
+{
+  "id": "sears-ksx-super",
+  "brand": "Sears",
+  "brand_cn": "",
+  "brand_slug": "sears",
+  "country": "待补充",
+  "manufacturer": "Sears",
+  "model": "KSX Super",
+  "year": 1984,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sears数码单反相机，1984 年发布",
+  "description": "{|class=floatright\n|\n \n|-\n|\n \n|}\nThe KSX Super is an auto-exposure SLR offered by US retailer Sears in 1984,It is first seen in the [https://christmas.musetechnical.com/ShowCatalogPage/1984-Sears-Fall-Winter-Catalog/1099 Fall/Winter catalog, pg.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sears KSX Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sears KSX Super",
+      "url": "https://camera-wiki.org/wiki/Sears%20KSX%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

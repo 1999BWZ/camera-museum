@@ -1,0 +1,29 @@
+{
+  "id": "revere-eye-matic-ee-127",
+  "brand": "Revere",
+  "brand_cn": "",
+  "brand_slug": "revere",
+  "country": "待补充",
+  "manufacturer": "Revere",
+  "model": "Eye-Matic EE 127",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Revere旁轴相机，1958 年发布",
+  "description": "The Revere Eye-Matic EE 127 is an auto-exposure 4×4cm 127 film rangefinder camera made by Revere around 1958.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revere Eye-Matic EE 127"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revere Eye-Matic EE 127",
+      "url": "https://camera-wiki.org/wiki/Revere%20Eye-Matic%20EE%20127"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

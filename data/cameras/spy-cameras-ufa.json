@@ -1,0 +1,29 @@
+{
+  "id": "spy-cameras-ufa",
+  "brand": "Spy cameras",
+  "brand_cn": "",
+  "brand_slug": "spy-cameras",
+  "country": "俄罗斯",
+  "manufacturer": "Spy cameras",
+  "model": "Ufa",
+  "year": 1945,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spy cameras微型相机，1945 年发布",
+  "description": "The Ufa (Уфа) is a miniature camera made in the Soviet Union; a 'spy camera' that may actually have been intended for use by the secret services.[https://www.leitz-auction.com/en/UFA-Spy-Camera/AI-20220121-1128-41445 Ufa camera with battery, cable and metal box]; box and camera both numbered 201; ca",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ufa"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ufa",
+      "url": "https://camera-wiki.org/wiki/Ufa"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

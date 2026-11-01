@@ -1,0 +1,29 @@
+{
+  "id": "minolta-9000",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "9000",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1985 年发布",
+  "description": "The Minolta 9000 was introduced in 1985 and was Minolta's first professional autofocus SLR.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta 9000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta 9000",
+      "url": "https://camera-wiki.org/wiki/Minolta%209000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pentax-q-q20889202",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "Q",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2011 年发布",
+  "description": "宾得于2011年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20889202",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20Q%2001n2000.jpg?width=800",
+      "caption": "Q",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20889202"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax Q",
+      "url": "https://www.wikidata.org/wiki/Q20889202"
+    }
+  ],
+  "qid": "Q20889202",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

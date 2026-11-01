@@ -1,0 +1,29 @@
+{
+  "id": "certex-werlisa-mat",
+  "brand": "Certex",
+  "brand_cn": "",
+  "brand_slug": "certex",
+  "country": "西班牙",
+  "manufacturer": "Certex",
+  "model": "Werlisa Mat",
+  "year": 1969,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Certex取景器相机，1969 年发布",
+  "description": "The Werlisa Mat is a 35mm film viewfinder camera made in Spain in 1969 Page 193.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Werlisa Mat"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Werlisa Mat",
+      "url": "https://camera-wiki.org/wiki/Werlisa%20Mat"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

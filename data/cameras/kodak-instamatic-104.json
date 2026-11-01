@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-104",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic 104",
+  "year": 1965,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1965 年发布",
+  "description": "Kodak's greatest success in camera history was the Instamatic camera series for its 126 film cartridge.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic 104"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic 104",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%20104"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

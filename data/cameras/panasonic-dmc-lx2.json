@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-dmc-lx2",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "DMC-LX2",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2006 年发布",
+  "description": "The Panasonic Lumix DMC-LX2 is the successor to the unique DMC-LX1, the world's first compact with a 16:9 widescreen sensor.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic DMC-LX2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic DMC-LX2",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20DMC-LX2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "praktica-praktica",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "Praktica",
+  "year": 1949,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康数码单反相机，1949 年发布",
+  "description": "The Praktica is sometimes held to be the first M42 camera, though this is also said to be the Contax S.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica (1949)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica (1949)",
+      "url": "https://camera-wiki.org/wiki/Praktica%20%281949%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

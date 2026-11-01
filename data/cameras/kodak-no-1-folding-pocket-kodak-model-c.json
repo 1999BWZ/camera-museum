@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-1-folding-pocket-kodak-model-c",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 1 Folding Pocket Kodak Model C",
+  "year": 1905,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机（折叠），1905 年发布",
+  "description": "The No.1 Folding Pocket Kodak Model C is a folding camera that produced 2¼ x 3¼ inch exposures on type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 1 Folding Pocket Kodak Model C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 1 Folding Pocket Kodak Model C",
+      "url": "https://camera-wiki.org/wiki/No.%201%20Folding%20Pocket%20Kodak%20Model%20C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

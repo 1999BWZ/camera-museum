@@ -1,0 +1,29 @@
+{
+  "id": "lighter-shape-echo-8-and-camera-lite",
+  "brand": "Lighter shape",
+  "brand_cn": "",
+  "brand_slug": "lighter-shape",
+  "country": "待补充",
+  "manufacturer": "Lighter shape",
+  "model": "Echo 8 and Camera-Lite",
+  "year": 1951,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lighter shape胶片相机，1951 年发布",
+  "description": "The Echo 8 is a combination of camera and cigarette lighter, made by Suzuki from 1951.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Echo 8 and Camera-Lite"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Echo 8 and Camera-Lite",
+      "url": "https://camera-wiki.org/wiki/Echo%208%20and%20Camera-Lite"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

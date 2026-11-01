@@ -1,0 +1,29 @@
+{
+  "id": "ica-b-b",
+  "brand": "ICA",
+  "brand_cn": "",
+  "brand_slug": "ica",
+  "country": "待补充",
+  "manufacturer": "ICA",
+  "model": "Bébé",
+  "year": 1925,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "ICA折叠相机，1925 年发布",
+  "description": "ICA于1925年发布的折叠相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ica Bébé"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ica Bébé",
+      "url": "https://camera-wiki.org/wiki/Ica%20B%C3%A9b%C3%A9"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

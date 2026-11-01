@@ -1,0 +1,29 @@
+{
+  "id": "pentax-pino-35m",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Pino 35M",
+  "year": 1985,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得取景器相机，1985 年发布",
+  "description": "The Pino 35M is a compact 35mm film camera from Pentax",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Pino 35M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Pino 35M",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Pino%2035M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

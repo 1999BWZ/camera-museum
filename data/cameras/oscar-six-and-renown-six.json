@@ -1,0 +1,29 @@
+{
+  "id": "oscar-six-and-renown-six",
+  "brand": "Oscar",
+  "brand_cn": "",
+  "brand_slug": "oscar",
+  "country": "待补充",
+  "manufacturer": "Oscar",
+  "model": "Six and Renown Six",
+  "year": 1953,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Oscar旁轴相机，1953 年发布",
+  "description": "The Oscar Six (オスカーシックス) and Renown Six (レナウンシックス) are Japanese 6×6 folding cameras with a non-coupled rangefinder, made by Fujiwara Seisakusho in 1953–4.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Oscar Six and Renown Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Oscar Six and Renown Six",
+      "url": "https://camera-wiki.org/wiki/Oscar%20Six%20and%20Renown%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

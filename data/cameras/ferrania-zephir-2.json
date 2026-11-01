@@ -1,0 +1,29 @@
+{
+  "id": "ferrania-zephir-2",
+  "brand": "Ferrania",
+  "brand_cn": "",
+  "brand_slug": "ferrania",
+  "country": "待补充",
+  "manufacturer": "Ferrania",
+  "model": "Zephir 2",
+  "year": 1970,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ferrania取景器相机，1970 年发布",
+  "description": "The Zephir 2 is a plastic and aluminium viewfinder camera for 35mm film, made in Italy by Ferrania, c.1970.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zephir 2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zephir 2",
+      "url": "https://camera-wiki.org/wiki/Zephir%202"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

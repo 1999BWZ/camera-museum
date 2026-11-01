@@ -1,0 +1,32 @@
+{
+  "id": "olympus-c-2100-uz",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "C-2100 UZ",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2000 年发布",
+  "description": "奥林巴斯于2000年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7089211",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus C-2100 UZ",
+      "url": "https://www.wikidata.org/wiki/Q7089211"
+    }
+  ],
+  "qid": "Q7089211",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

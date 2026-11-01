@@ -1,0 +1,29 @@
+{
+  "id": "canon-powershot-v10",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "PowerShot V10",
+  "year": 2023,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，2023 年发布",
+  "description": "The PowerShot V10 is a compact camera intended for vlogging, though it can also be used for still photographs.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon PowerShot V10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon PowerShot V10",
+      "url": "https://camera-wiki.org/wiki/Canon%20PowerShot%20V10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

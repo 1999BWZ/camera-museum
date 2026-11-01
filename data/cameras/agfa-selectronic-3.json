@@ -1,0 +1,29 @@
+{
+  "id": "agfa-selectronic-3",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Selectronic 3",
+  "year": 1980,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发数码单反相机，1980 年发布",
+  "description": "Three Selectronic SLRs featuring the K mount were introduced in 1980.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Selectronic 3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Selectronic 3",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Selectronic%203"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

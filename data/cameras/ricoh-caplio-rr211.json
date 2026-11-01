@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-caplio-rr211",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Caplio RR211",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2003 年发布",
+  "description": "The Ricoh Caplio RR211 was introduced by Ricoh in 2003.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Caplio RR211"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Caplio RR211",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Caplio%20RR211"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

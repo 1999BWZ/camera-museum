@@ -1,0 +1,29 @@
+{
+  "id": "agfa-flex",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "flex",
+  "year": 1958,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发数码单反相机，1958 年发布",
+  "description": "The Agfaflex I/II is a 35mm fixed-lens SLR made c1958 by Agfa in Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfaflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfaflex",
+      "url": "https://camera-wiki.org/wiki/Agfaflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

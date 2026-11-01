@@ -1,0 +1,29 @@
+{
+  "id": "nobility-baron-folders",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Baron folders",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility折叠相机，1952 年发布",
+  "description": "The Baron folders are Japanese 6×6 cameras made by Chūō Seiki, later Baron Camera, from 1952 to 1956.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baron folders"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baron folders",
+      "url": "https://camera-wiki.org/wiki/Baron%20folders"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kodak-q45341747",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "伊士曼柯达公司",
+  "model": "Q45341747",
+  "year": 1888,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1888 年发布",
+  "description": "柯达于1888年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q45341747",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak%20ad%201888.GIF?width=800",
+      "caption": "Q45341747",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q45341747"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Q45341747",
+      "url": "https://www.wikidata.org/wiki/Q45341747"
+    }
+  ],
+  "qid": "Q45341747",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

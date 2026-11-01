@@ -1,0 +1,29 @@
+{
+  "id": "miranda-tm",
+  "brand": "Miranda",
+  "brand_cn": "",
+  "brand_slug": "miranda",
+  "country": "待补充",
+  "manufacturer": "Miranda",
+  "model": "TM",
+  "year": 1974,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Miranda胶片单反相机，1974 年发布",
+  "description": "The TM was an SLR for 35mm film by Miranda, introduced in 1974.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miranda TM"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miranda TM",
+      "url": "https://camera-wiki.org/wiki/Miranda%20TM"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

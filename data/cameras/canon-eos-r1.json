@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-r1",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS R1",
+  "year": 2024,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能无反相机，2024 年发布",
+  "description": "佳能于2024年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q105883423",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20EOS%20R1%2012%20apr%202025c.jpg?width=800",
+      "caption": "EOS R1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q105883423"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS R1",
+      "url": "https://www.wikidata.org/wiki/Q105883423"
+    }
+  ],
+  "qid": "Q105883423",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lomography-lomoapparat",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "LomoApparat",
+  "year": 2022,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography胶片单反相机，2022 年发布",
+  "description": "The LomoApparat is a 35mm camera issued by Lomography in October 2022.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "LomoApparat"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – LomoApparat",
+      "url": "https://camera-wiki.org/wiki/LomoApparat"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

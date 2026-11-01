@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-995",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix 995",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2001 年发布",
+  "description": "{|\n|-valign=bottom\n||\n\n||\n\n||\n\n|-\n| colspan=3 align=center |\nimages by \n|}\nThe Nikon Coolpix 995 is a 3.1 megapixel digital camera and part of the Coolpix series announced by the Nikon Corporation in April 2001 (introduced in July).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix 995"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix 995",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%20995"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

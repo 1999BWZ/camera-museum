@@ -1,0 +1,29 @@
+{
+  "id": "kodak-101-dalmatians",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "101 Dalmatians",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达玩具相机，1997 年发布",
+  "description": "Kodak released a camera to tie-in with the 1996 film 101 Dalmatians.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak 101 Dalmatians"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak 101 Dalmatians",
+      "url": "https://camera-wiki.org/wiki/Kodak%20101%20Dalmatians"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

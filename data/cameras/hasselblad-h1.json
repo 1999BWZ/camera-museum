@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-h1",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "H1",
+  "year": 2006,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏中画幅相机，2006 年发布",
+  "description": "The Hasselblad H1 is a autofocus 6x4.5 medium format system camera from Hasselblad released in November 2002.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad H1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad H1",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%20H1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

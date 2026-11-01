@@ -1,0 +1,29 @@
+{
+  "id": "seagull-4b",
+  "brand": "Seagull",
+  "brand_cn": "",
+  "brand_slug": "seagull",
+  "country": "待补充",
+  "manufacturer": "Seagull",
+  "model": "4B",
+  "year": 1965,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seagull胶片相机，1965 年发布",
+  "description": "The Seagull 4B cameras are a series of TLRs made by Seagull.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Seagull 4B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Seagull 4B",
+      "url": "https://camera-wiki.org/wiki/Seagull%204B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

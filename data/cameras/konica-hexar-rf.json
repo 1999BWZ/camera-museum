@@ -1,0 +1,29 @@
+{
+  "id": "konica-hexar-rf",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Hexar RF",
+  "year": 1999,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡旁轴相机，1999 年发布",
+  "description": "The Konica Hexar RF is a rangefinder 35mm film camera introduced in 1999.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Hexar RF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Hexar RF",
+      "url": "https://camera-wiki.org/wiki/Konica%20Hexar%20RF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

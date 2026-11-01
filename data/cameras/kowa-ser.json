@@ -1,0 +1,29 @@
+{
+  "id": "kowa-ser",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "SER",
+  "year": 1965,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa数码单反相机，1965 年发布",
+  "description": "The SER is Kowa's interchangeable-lens counterpart to the SE.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa SER"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa SER",
+      "url": "https://camera-wiki.org/wiki/Kowa%20SER"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

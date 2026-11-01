@@ -1,0 +1,40 @@
+{
+  "id": "nikon-z-6",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Z 6",
+  "year": 2018,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康无反相机，2018 年发布",
+  "description": "尼康于2018年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q56239870",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Z%206%2028%20nov%202018a.jpg?width=800",
+      "caption": "Z 6",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q56239870"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Z 6",
+      "url": "https://www.wikidata.org/wiki/Q56239870"
+    }
+  ],
+  "qid": "Q56239870",
+  "sitelinks": 10,
+  "imported": "wikidata-5k-2026-11-01"
+}

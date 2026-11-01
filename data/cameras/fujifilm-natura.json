@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-natura",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "Natura",
+  "year": 2004,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士胶片相机，2004 年发布",
+  "description": "The Natura Classica is a 35mm auto focus zoom cameras introduced by Fuji in 2004.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm Natura"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm Natura",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20Natura"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

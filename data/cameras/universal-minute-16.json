@@ -1,0 +1,29 @@
+{
+  "id": "universal-minute-16",
+  "brand": "Universal",
+  "brand_cn": "",
+  "brand_slug": "universal",
+  "country": "美国",
+  "manufacturer": "Universal",
+  "model": "Minute 16",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Universal胶片单反相机，1949 年发布",
+  "description": "The Minute 16 is a sub-miniature camera for 16mm perforated film in reloadable cartridges.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Universal Minute 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Universal Minute 16",
+      "url": "https://camera-wiki.org/wiki/Universal%20Minute%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

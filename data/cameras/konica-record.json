@@ -1,0 +1,29 @@
+{
+  "id": "konica-record",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Record",
+  "year": 1926,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡取景器相机，1926 年发布",
+  "description": "The Record (レコード) is a Japanese camera taking unperforated 35mm film, made from about 1926 by Rokuoh-sha, manufacturing branch of Konishiroku (predecessor of Konica).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Record (Konishiroku)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Record (Konishiroku)",
+      "url": "https://camera-wiki.org/wiki/Record%20%28Konishiroku%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

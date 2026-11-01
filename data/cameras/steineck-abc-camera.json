@@ -1,0 +1,29 @@
+{
+  "id": "steineck-abc-camera",
+  "brand": "Steineck",
+  "brand_cn": "",
+  "brand_slug": "steineck",
+  "country": "待补充",
+  "manufacturer": "Steineck",
+  "model": "ABC camera",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Steineck微型相机，1948 年发布",
+  "description": "The Steineck ABC wristwatch camera was made by Steineck Kamerawerk in Tutzing, West Germany and introduced c.1948.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Steineck ABC camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Steineck ABC camera",
+      "url": "https://camera-wiki.org/wiki/Steineck%20ABC%20camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

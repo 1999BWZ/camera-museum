@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f-q1931209",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1959 年发布",
+  "description": "尼康于1959年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1931209",
+    "多语言词条数": "13"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20F%20Eye%20Level.jpg?width=800",
+      "caption": "F",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1931209"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康 F",
+      "url": "https://www.wikidata.org/wiki/Q1931209"
+    }
+  ],
+  "qid": "Q1931209",
+  "sitelinks": 13,
+  "imported": "wikidata-5k-2026-11-01"
+}

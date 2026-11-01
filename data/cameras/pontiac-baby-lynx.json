@@ -1,0 +1,29 @@
+{
+  "id": "pontiac-baby-lynx",
+  "brand": "Pontiac",
+  "brand_cn": "",
+  "brand_slug": "pontiac",
+  "country": "法国",
+  "manufacturer": "Pontiac",
+  "model": "Baby Lynx",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pontiac取景器相机，1948 年发布",
+  "description": "The Baby Lynx is a 35mm viewfinder camera launched by the French maker Pontiac in 1948Both McKeown and Vial say 1950, but a Pontiac advertisement dated 1948, previously visible at [https://stereocollection.pagesperso-orange.fr/ Stereocollection], shows the Baby Lynx.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baby Lynx"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baby Lynx",
+      "url": "https://camera-wiki.org/wiki/Baby%20Lynx"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

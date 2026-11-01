@@ -1,0 +1,40 @@
+{
+  "id": "minolta-xg-m",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "XG-M",
+  "year": 1981,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1981 年发布",
+  "description": "美能达于1981年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q6869036",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minolta%20X-GM%20series%20camera%20-front.JPG?width=800",
+      "caption": "XG-M",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q6869036"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Minolta XG-M",
+      "url": "https://www.wikidata.org/wiki/Q6869036"
+    }
+  ],
+  "qid": "Q6869036",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

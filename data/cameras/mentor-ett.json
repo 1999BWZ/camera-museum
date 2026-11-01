@@ -1,0 +1,29 @@
+{
+  "id": "mentor-ett",
+  "brand": "Mentor",
+  "brand_cn": "",
+  "brand_slug": "mentor",
+  "country": "待补充",
+  "manufacturer": "Mentor",
+  "model": "ett",
+  "year": 1936,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mentor双镜头反光相机，1936 年发布",
+  "description": "The 1936 Mentorett is a twin-lens reflex made by Goltz & Breutmann/Mentor in Dresden.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mentorett"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mentorett",
+      "url": "https://camera-wiki.org/wiki/Mentorett"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

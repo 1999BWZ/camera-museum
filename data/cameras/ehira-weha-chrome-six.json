@@ -1,0 +1,29 @@
+{
+  "id": "ehira-weha-chrome-six",
+  "brand": "Ehira",
+  "brand_cn": "",
+  "brand_slug": "ehira",
+  "country": "待补充",
+  "manufacturer": "Ehira",
+  "model": "Weha Chrome Six",
+  "year": 1937,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ehira旁轴相机，1937 年发布",
+  "description": "The Weha Chrome Six are Japanese 6×6 coupled-rangefinder cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Weha Chrome Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Weha Chrome Six",
+      "url": "https://camera-wiki.org/wiki/Weha%20Chrome%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

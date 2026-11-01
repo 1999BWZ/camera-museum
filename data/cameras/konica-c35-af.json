@@ -1,0 +1,29 @@
+{
+  "id": "konica-c35-af",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "C35 AF",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1977 年发布",
+  "description": "__NOTOC__ \n{|align=right\n||\n\n|-\n||\n\n|}\nThe Konica C35 AF (nicknamed \"Jasupin\"'Jasupin' means 'in sharp focus' and can be found in Japanese photo-blogs etc.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica C35 AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica C35 AF",
+      "url": "https://camera-wiki.org/wiki/Konica%20C35%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

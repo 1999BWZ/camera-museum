@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-eagle-plate-folders",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "待补充",
+  "manufacturer": "Bestiary",
+  "model": "Eagle plate folders",
+  "year": 1915,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary折叠相机，1915 年发布",
+  "description": "The Eagle are Japanese folding bed cameras taking film plates, distributed by Asanuma Shōkai around 1915.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Eagle plate folders"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Eagle plate folders",
+      "url": "https://camera-wiki.org/wiki/Eagle%20plate%20folders"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

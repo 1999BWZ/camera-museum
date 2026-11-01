@@ -1,0 +1,29 @@
+{
+  "id": "kodak-six-20-hawkeye-major",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Six-20 'Hawkeye'-Major",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1935 年发布",
+  "description": "Kodak's Six-20 'Hawkeye'-Major was made in the UK, and was a standard box camera for 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Six-20 'Hawkeye'-Major"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Six-20 'Hawkeye'-Major",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Six-20%20%27Hawkeye%27-Major"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

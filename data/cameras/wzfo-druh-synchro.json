@@ -1,0 +1,29 @@
+{
+  "id": "wzfo-druh-synchro",
+  "brand": "WZFO",
+  "brand_cn": "",
+  "brand_slug": "wzfo",
+  "country": "波兰",
+  "manufacturer": "WZFO",
+  "model": "Druh synchro",
+  "year": 1956,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "WZFO取景器相机，1956 年发布",
+  "description": "The Druh Synchro was a medium format camera made of bakelite by the Polish camera maker Warszawskie Zakłady Fotooptyczne (WZFO), it was advanced Druh with added PC sync port for flash and coldshoe.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Druh synchro"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Druh synchro",
+      "url": "https://camera-wiki.org/wiki/Druh%20synchro"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

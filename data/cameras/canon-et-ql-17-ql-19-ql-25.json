@@ -1,0 +1,29 @@
+{
+  "id": "canon-et-ql-17-ql-19-ql-25",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "et QL 17 / QL 19 / QL 25",
+  "year": 1965,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能旁轴相机，1965 年发布",
+  "description": "The Canonet QL range was introduced by Canon in March 1965[http://global.canon/en/c-museum/product/film53.html Canon Museum], as a development of the Canonet.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Canonet QL 17 / QL 19 / QL 25"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Canonet QL 17 / QL 19 / QL 25",
+      "url": "https://camera-wiki.org/wiki/Canon%20Canonet%20QL%2017%20/%20QL%2019%20/%20QL%2025"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

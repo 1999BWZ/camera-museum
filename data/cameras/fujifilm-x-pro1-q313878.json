@@ -1,0 +1,40 @@
+{
+  "id": "fujifilm-x-pro1-q313878",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "X-Pro1",
+  "year": 2012,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士无反相机，2012 年发布",
+  "description": "富士于2012年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q313878",
+    "多语言词条数": "9"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/130128%20Fujifilm%20X-Pro1%20004.jpg?width=800",
+      "caption": "X-Pro1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q313878"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 富士X-Pro1",
+      "url": "https://www.wikidata.org/wiki/Q313878"
+    }
+  ],
+  "qid": "Q313878",
+  "sitelinks": 9,
+  "imported": "wikidata-5k-2026-11-01"
+}

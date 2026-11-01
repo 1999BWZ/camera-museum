@@ -1,0 +1,40 @@
+{
+  "id": "kmz-zorki-3s",
+  "brand": "KMZ",
+  "brand_cn": "克拉斯诺戈尔斯克",
+  "brand_slug": "kmz",
+  "country": "俄罗斯",
+  "manufacturer": "克拉斯诺戈尔斯克工厂",
+  "model": "Zorki 3S",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "克拉斯诺戈尔斯克旁轴相机，1955 年发布",
+  "description": "克拉斯诺戈尔斯克于1955年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4194007",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%BE%D1%80%D0%BA%D0%B8%D0%B9-3%D0%A1.jpg?width=800",
+      "caption": "Zorki 3S",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4194007"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Zorki 3S",
+      "url": "https://www.wikidata.org/wiki/Q4194007"
+    }
+  ],
+  "qid": "Q4194007",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

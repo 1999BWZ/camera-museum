@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-xc-2",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "XC-2",
+  "year": 1976,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar数码单反相机，1976 年发布",
+  "description": "The XC-2 was an M42 mount 35mm SLR marketed by Vivitar.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar XC-2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar XC-2",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20XC-2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

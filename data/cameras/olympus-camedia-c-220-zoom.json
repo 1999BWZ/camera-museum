@@ -1,0 +1,40 @@
+{
+  "id": "olympus-camedia-c-220-zoom",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "CAMEDIA C-220 Zoom",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2002 年发布",
+  "description": "奥林巴斯于2002年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7089212",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/OlympusC220ZoomCamera.jpg?width=800",
+      "caption": "CAMEDIA C-220 Zoom",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7089212"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus CAMEDIA C-220 Zoom",
+      "url": "https://www.wikidata.org/wiki/Q7089212"
+    }
+  ],
+  "qid": "Q7089212",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

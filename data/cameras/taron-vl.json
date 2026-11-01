@@ -1,0 +1,29 @@
+{
+  "id": "taron-vl",
+  "brand": "Taron",
+  "brand_cn": "",
+  "brand_slug": "taron",
+  "country": "待补充",
+  "manufacturer": "Taron",
+  "model": "VL",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Taron旁轴相机，1959 年发布",
+  "description": "{| class=\"plainlinks floatright\" style=\"text-align: center;\"\n|| [https://www.flickr.com/photos/raulm/6687079529/in/pool-camerawiki https://live.staticflickr.com/7169/6687079529_5d0a244f90.jpg]\n|-\n|| Taron VL 2.8Picture by .",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Taron VL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Taron VL",
+      "url": "https://camera-wiki.org/wiki/Taron%20VL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

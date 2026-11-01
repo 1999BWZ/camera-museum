@@ -1,0 +1,29 @@
+{
+  "id": "nytech-nd-6360",
+  "brand": "Nytech",
+  "brand_cn": "",
+  "brand_slug": "nytech",
+  "country": "待补充",
+  "manufacturer": "Nytech",
+  "model": "ND-6360",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nytech数码相机，2004 年发布",
+  "description": "The Nytech ND-6360 is a digital compact camera distributed by TARGA GmbH.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nytech ND-6360"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nytech ND-6360",
+      "url": "https://camera-wiki.org/wiki/Nytech%20ND-6360"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

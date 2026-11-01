@@ -1,0 +1,40 @@
+{
+  "id": "olympus-om-d-e-m5-mark-iii",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "OM-D E-M5 Mark III",
+  "year": 2019,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2019 年发布",
+  "description": "奥林巴斯于2019年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q78581560",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20OM-D%20E-M5%20Mark%20III%204%20mar%202020a.jpg?width=800",
+      "caption": "OM-D E-M5 Mark III",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q78581560"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus OM-D E-M5 Mark III",
+      "url": "https://www.wikidata.org/wiki/Q78581560"
+    }
+  ],
+  "qid": "Q78581560",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

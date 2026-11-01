@@ -1,0 +1,29 @@
+{
+  "id": "kodak-portrait-hawkeye-star",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Portrait 'Hawkeye' *Star*",
+  "year": 1933,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1933 年发布",
+  "description": "Kodak's Portrait 'Hawkeye' *Star* is a British-made camera box camera for 620 film, at the time a very popular film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Portrait 'Hawkeye' *Star*"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Portrait 'Hawkeye' *Star*",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Portrait%20%27Hawkeye%27%20%2AStar%2A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

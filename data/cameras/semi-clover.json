@@ -1,0 +1,29 @@
+{
+  "id": "semi-clover",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Clover",
+  "year": 1940,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi折叠相机，1940 年发布",
+  "description": "The Semi Clover , item 1033, and , p.374, call the camera \"Clover\" but the full name in the advertisements was \"Semi Clover\".",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Clover"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Clover",
+      "url": "https://camera-wiki.org/wiki/Semi%20Clover"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

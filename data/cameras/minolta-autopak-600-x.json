@@ -1,0 +1,29 @@
+{
+  "id": "minolta-autopak-600-x",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Autopak 600-X",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1972 年发布",
+  "description": "The Minolta Autopak was introduced by Minolta in 1972.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Autopak 600-X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Autopak 600-X",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Autopak%20600-X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

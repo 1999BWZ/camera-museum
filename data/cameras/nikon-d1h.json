@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d1h",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D1H",
+  "year": 2001,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2001 年发布",
+  "description": "尼康于2001年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2789923",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capas-d1.jpg?width=800",
+      "caption": "D1H",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2789923"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon D1H",
+      "url": "https://www.wikidata.org/wiki/Q2789923"
+    }
+  ],
+  "qid": "Q2789923",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

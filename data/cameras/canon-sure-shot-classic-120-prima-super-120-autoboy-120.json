@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-classic-120-prima-super-120-autoboy-120",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot Classic 120/Prima Super 120/Autoboy 120",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1999 年发布",
+  "description": "{|align=right\n||\n\n\n|}\nCanon Sure Shot Classic 120\nA 1999 model from Canon's phenomenally successful Sure Shot range, this compact 35mm film camera - known as the Prima Super 120 in continental Europe and Autoboy 120 in Japan - has an impressive array of features.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot Classic 120/Prima Super 120/Autoboy 120"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot Classic 120/Prima Super 120/Autoboy 120",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20Classic%20120/Prima%20Super%20120/Autoboy%20120"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

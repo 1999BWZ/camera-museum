@@ -1,0 +1,37 @@
+{
+  "id": "ricoh-auto-tls-ee",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Auto TLS EE",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1973 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Auto TLS EE is an SLR for 35mm film, introduced in 1973A [https://www.flickr.com/photos/camerawiki/52719432299/in/pool-camerawiki/ July, 1973, magazine ad] introduces this model to the US, contradicting the 1976 date stated in the Ricoh Japan page linked below.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Auto TLS EE"
+  },
+  "images": [
+    {
+      "remote_url": "https://live.staticflickr.com/65535/51885916747_6c1cfe36ef.jpg",
+      "caption": "Auto TLS EE",
+      "source": "Flickr（Joost J. Bakker IJmuiden）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/joostjbakkerijmuiden/51885916747/in/photostream/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Auto TLS EE",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Auto%20TLS%20EE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

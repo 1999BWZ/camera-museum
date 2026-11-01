@@ -1,0 +1,29 @@
+{
+  "id": "pentax-espio-115g",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Espio 115G",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得便携相机，1997 年发布",
+  "description": "The Pentax Espio 115G is a 35mm compact zoom camera with autofocus made by Pentax.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Espio 115G"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Espio 115G",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Espio%20115G"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

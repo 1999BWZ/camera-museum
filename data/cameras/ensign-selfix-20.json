@@ -1,0 +1,29 @@
+{
+  "id": "ensign-selfix-20",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "待补充",
+  "manufacturer": "Ensign",
+  "model": "Selfix 20",
+  "year": 1933,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign折叠相机，1933 年发布",
+  "description": "The Ensign Selfix 20 is a folding camera that was sold by Ensign Ltd.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Selfix 20"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Selfix 20",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Selfix%2020"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

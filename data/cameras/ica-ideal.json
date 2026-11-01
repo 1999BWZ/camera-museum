@@ -1,0 +1,29 @@
+{
+  "id": "ica-ideal",
+  "brand": "ICA",
+  "brand_cn": "",
+  "brand_slug": "ica",
+  "country": "待补充",
+  "manufacturer": "ICA",
+  "model": "Ideal",
+  "year": 1908,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "ICA折叠相机，1908 年发布",
+  "description": "The Ica Ideal is a folding bed 9&times;12cm plate camera by Ica, originally launched in 1908 as Hüttig's Ideal.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ica Ideal"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ica Ideal",
+      "url": "https://camera-wiki.org/wiki/Ica%20Ideal"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

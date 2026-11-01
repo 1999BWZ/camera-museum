@@ -1,0 +1,29 @@
+{
+  "id": "fujicarex-ii",
+  "brand": "Fujicarex",
+  "brand_cn": "",
+  "brand_slug": "fujicarex",
+  "country": "待补充",
+  "manufacturer": "Fujicarex",
+  "model": "II",
+  "year": 1963,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fujicarex胶片单反相机，1963 年发布",
+  "description": "The Fujica Fujicarex II was introduced to Europe in about 1963.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujicarex II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujicarex II",
+      "url": "https://camera-wiki.org/wiki/Fujicarex%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

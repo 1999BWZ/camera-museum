@@ -1,0 +1,29 @@
+{
+  "id": "nikon-nikomat-nikkormat-el-elw",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Nikomat/Nikkormat EL/ELW",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，1972 年发布",
+  "description": "The Nikon Nikomat EL (in Japan) or Nikkormat EL (elsewhere) was introduced in 1972.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikomat/Nikkormat EL/ELW"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikomat/Nikkormat EL/ELW",
+      "url": "https://camera-wiki.org/wiki/Nikomat/Nikkormat%20EL/ELW"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

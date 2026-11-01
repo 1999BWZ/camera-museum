@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-6008-professional",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex 6008 Professional",
+  "year": 1988,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来数码单反相机，1988 年发布",
+  "description": "The Rolleiflex 6008 Professional is a medium format SLR system camera manufactured by Rollei, Braunschweig, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex 6008 Professional"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex 6008 Professional",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%206008%20Professional"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

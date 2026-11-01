@@ -1,0 +1,29 @@
+{
+  "id": "okada-daiichi-union-semi",
+  "brand": "Okada/Daiichi",
+  "brand_cn": "",
+  "brand_slug": "okada-daiichi",
+  "country": "待补充",
+  "manufacturer": "Okada/Daiichi",
+  "model": "Union Semi",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Okada/Daiichi折叠相机，1953 年发布",
+  "description": "The Union Semi (ユニオン・セミ) is a Japanese 4.5&times;6 folder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Union Semi"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Union Semi",
+      "url": "https://camera-wiki.org/wiki/Union%20Semi"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

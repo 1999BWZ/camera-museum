@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-xr-p",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "XR-P",
+  "year": 1984,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1984 年发布",
+  "description": "The XR-P Multi-Program is a full-featured SLR for 35mm film introduced by Ricoh in 1984.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh XR-P"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh XR-P",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20XR-P"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mihama-six",
+  "brand": "Mihama",
+  "brand_cn": "",
+  "brand_slug": "mihama",
+  "country": "待补充",
+  "manufacturer": "Mihama",
+  "model": "Six",
+  "year": 1952,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mihama旁轴相机，1952 年发布",
+  "description": "The Mihama Six is a series of 6×6 folding cameras using 120 film, produced by Mihama (or Suruga) from 1952 until 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mihama Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mihama Six",
+      "url": "https://camera-wiki.org/wiki/Mihama%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

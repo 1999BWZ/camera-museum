@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-636-talking-camera",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "636 Talking Camera",
+  "year": 1995,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1995 年发布",
+  "description": "Designed for Polaroid's Integral 600 series film, the 636 Talking Camera has a unique gimmick.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid 636 Talking Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid 636 Talking Camera",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20636%20Talking%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

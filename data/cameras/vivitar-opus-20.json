@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-opus-20",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "Opus 20",
+  "year": 1993,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片相机，1993 年发布",
+  "description": "The Vivitar Opus 20 is a later example of a mainstream 110 film camera (not counting 2010s-era novelties such as the Diana Baby 110).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar Opus 20"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar Opus 20",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20Opus%2020"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

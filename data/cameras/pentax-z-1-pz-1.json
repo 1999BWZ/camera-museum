@@ -1,0 +1,29 @@
+{
+  "id": "pentax-z-1-pz-1",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Z-1/PZ-1",
+  "year": 1991,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，1991 年发布",
+  "description": "The Z-1 (aka PZ-1) is a high-end 35mm SLR with autofocus introduced by Pentax in 1991.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Z-1/PZ-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Z-1/PZ-1",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Z-1/PZ-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

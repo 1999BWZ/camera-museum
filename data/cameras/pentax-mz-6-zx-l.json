@@ -1,0 +1,37 @@
+{
+  "id": "pentax-mz-6-zx-l",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MZ-6/ZX-L",
+  "year": 2001,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，2001 年发布",
+  "description": "The MZ-6 is a autofocus 35mm SLR camera from Pentax introduced in 2001 concurrently with the Pentax MZ-S.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MZ-6/ZX-L"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm6.staticflickr.com/5288/5251352034_cc3af866fa.jpg",
+      "caption": "MZ-6/ZX-L",
+      "source": "Flickr（Nesster）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/nesster/5251352034/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MZ-6/ZX-L",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MZ-6/ZX-L"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nobility-royal-35",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Royal 35",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility旁轴相机，1955 年发布",
+  "description": "See also the earlier unrelated Royal 35, version of the Picny 35.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Royal 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Royal 35",
+      "url": "https://camera-wiki.org/wiki/Royal%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

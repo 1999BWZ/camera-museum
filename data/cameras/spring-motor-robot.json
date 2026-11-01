@@ -1,0 +1,29 @@
+{
+  "id": "spring-motor-robot",
+  "brand": "Spring motor",
+  "brand_cn": "",
+  "brand_slug": "spring-motor",
+  "country": "待补充",
+  "manufacturer": "Spring motor",
+  "model": "Robot",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spring motor取景器相机，1935 年发布",
+  "description": "The Robot was made by Otto Berning & Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Robot"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Robot",
+      "url": "https://camera-wiki.org/wiki/Robot"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-singlex",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Singlex",
+  "year": 1962,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1962 年发布",
+  "description": "Note that the Ricoh Singlex TLS is a different model.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Singlex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Singlex",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Singlex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

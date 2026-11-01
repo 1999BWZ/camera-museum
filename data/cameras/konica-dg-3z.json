@@ -1,0 +1,29 @@
+{
+  "id": "konica-dg-3z",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "DG-3Z",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡数码相机，2003 年发布",
+  "description": "The Digital 現場監督 DG-3Z is a rugged digital camera introduced by Konica in 2003.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica DG-3Z"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica DG-3Z",
+      "url": "https://camera-wiki.org/wiki/Konica%20DG-3Z"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

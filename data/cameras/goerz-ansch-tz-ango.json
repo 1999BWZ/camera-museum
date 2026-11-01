@@ -1,0 +1,29 @@
+{
+  "id": "goerz-ansch-tz-ango",
+  "brand": "Goerz",
+  "brand_cn": "",
+  "brand_slug": "goerz",
+  "country": "待补充",
+  "manufacturer": "Goerz",
+  "model": "Anschütz Ango",
+  "year": 1922,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Goerz折叠相机，1922 年发布",
+  "description": "{|class=\"floatright plainlinks\" style=\"margin: 0px 0px 15px 15px;\"\n|colspan=2|\n|-\n|\n|\n|-\n|colspan=2|Images by \n|}\nMany of C.P.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Goerz Anschütz Ango"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Goerz Anschütz Ango",
+      "url": "https://camera-wiki.org/wiki/Goerz%20Ansch%C3%BCtz%20Ango"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

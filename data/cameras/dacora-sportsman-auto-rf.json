@@ -1,0 +1,29 @@
+{
+  "id": "dacora-sportsman-auto-rf",
+  "brand": "Dacora",
+  "brand_cn": "",
+  "brand_slug": "dacora",
+  "country": "英国",
+  "manufacturer": "Dacora",
+  "model": "Sportsman Auto RF",
+  "year": 1962,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dacora旁轴相机，1962 年发布",
+  "description": "The Ilford Sportsman Auto RF was made by Dacora in Germany for British company Ilford - one of a range of Sportsman 35mm cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ilford Sportsman Auto RF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ilford Sportsman Auto RF",
+      "url": "https://camera-wiki.org/wiki/Ilford%20Sportsman%20Auto%20RF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

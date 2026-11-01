@@ -1,0 +1,29 @@
+{
+  "id": "vredeborch-alka-box",
+  "brand": "Vredeborch",
+  "brand_cn": "",
+  "brand_slug": "vredeborch",
+  "country": "待补充",
+  "manufacturer": "Vredeborch",
+  "model": "Alka Box",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vredeborch盒式相机，1953 年发布",
+  "description": "The Alka Box by Vredeborch, c1953.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Alka Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Alka Box",
+      "url": "https://camera-wiki.org/wiki/Alka%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

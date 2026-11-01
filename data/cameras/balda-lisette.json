@@ -1,0 +1,29 @@
+{
+  "id": "balda-lisette",
+  "brand": "Balda",
+  "brand_cn": "",
+  "brand_slug": "balda",
+  "country": "待补充",
+  "manufacturer": "Balda",
+  "model": "Lisette",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Balda折叠相机，1934 年发布",
+  "description": "The Lisette is a Balda Baldax 6&times;4.5 strut folder which was distributed by the German photo retailer Hanns Porst between 1934 and about 1938.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lisette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lisette",
+      "url": "https://camera-wiki.org/wiki/Lisette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

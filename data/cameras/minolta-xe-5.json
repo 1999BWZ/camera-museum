@@ -1,0 +1,29 @@
+{
+  "id": "minolta-xe-5",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "XE-5",
+  "year": 1975,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1975 年发布",
+  "description": "The Minolta XE-5 is the one year younger, less advanced sibling of the Minolta XE 35mm SLR cameras; introduced in 1975.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta XE-5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta XE-5",
+      "url": "https://camera-wiki.org/wiki/Minolta%20XE-5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

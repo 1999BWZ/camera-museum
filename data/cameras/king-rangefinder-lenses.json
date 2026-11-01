@@ -1,0 +1,29 @@
+{
+  "id": "king-rangefinder-lenses",
+  "brand": "King",
+  "brand_cn": "",
+  "brand_slug": "king",
+  "country": "待补充",
+  "manufacturer": "King",
+  "model": "Rangefinder Lenses",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "King旁轴相机，1956 年发布",
+  "description": "The King Regula bayonet lens mount was introduced in 1956 for the King Regula IIIc and King Regula IIId rangefinder camera models.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "King Regula Rangefinder Lenses"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – King Regula Rangefinder Lenses",
+      "url": "https://camera-wiki.org/wiki/King%20Regula%20Rangefinder%20Lenses"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

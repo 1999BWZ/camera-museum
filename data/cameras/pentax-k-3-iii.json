@@ -1,0 +1,37 @@
+{
+  "id": "pentax-k-3-iii",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "K-3 III",
+  "year": 2021,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2021 年发布",
+  "description": "__NOTOC__\nThe K-3 III is a DSLR which was introduced by the Pentax brand of Ricoh Imaging in 2021.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax K-3 III"
+  },
+  "images": [
+    {
+      "remote_url": "https://live.staticflickr.com/65535/52257238831_715e2db944_n.jpg",
+      "caption": "K-3 III",
+      "source": "Flickr（Pablo Coronel）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/titrisol/52257238831/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax K-3 III",
+      "url": "https://camera-wiki.org/wiki/Pentax%20K-3%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

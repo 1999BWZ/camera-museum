@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-yf-20x",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "YF-20X",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1993 年发布",
+  "description": "__NOTOC__\n\nThe YF-20X is a fixed-focus point-and-shoot camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1993.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh YF-20X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh YF-20X",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20YF-20X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

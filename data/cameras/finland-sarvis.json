@@ -1,0 +1,29 @@
+{
+  "id": "finland-sarvis",
+  "brand": "Finland",
+  "brand_cn": "",
+  "brand_slug": "finland",
+  "country": "待补充",
+  "manufacturer": "Finland",
+  "model": "Sarvis",
+  "year": 1921,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Finland胶片相机，1921 年发布",
+  "description": "Sarvis (1921-1990's) was a pioneering Finnish plastics factory.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sarvis"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sarvis",
+      "url": "https://camera-wiki.org/wiki/Sarvis"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

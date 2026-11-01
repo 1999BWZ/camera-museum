@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-tropen-heag-xi",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Tropen Heag XI",
+  "year": 1917,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann折叠相机，1917 年发布",
+  "description": "Camera produced by the German company Ernemann.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tropen Heag XI"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tropen Heag XI",
+      "url": "https://camera-wiki.org/wiki/Tropen%20Heag%20XI"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

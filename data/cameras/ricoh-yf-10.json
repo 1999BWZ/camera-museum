@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-yf-10",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "YF-10",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1994 年发布",
+  "description": "The YF-10 is a fixed-focus point-and-shoot camera introduced by Japanese manufacturer Ricoh in 1994.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh YF-10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh YF-10",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20YF-10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

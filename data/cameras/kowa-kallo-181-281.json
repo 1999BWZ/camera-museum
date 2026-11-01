@@ -1,0 +1,29 @@
+{
+  "id": "kowa-kallo-181-281",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "Kallo 181/281",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa旁轴相机，1959 年发布",
+  "description": "The Kallo 181 and Kallo 281 are rangefinder cameras that use 35mm film and were produced from about 1959 to 1960 by Kowa.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa Kallo 181/281"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa Kallo 181/281",
+      "url": "https://camera-wiki.org/wiki/Kowa%20Kallo%20181/281"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

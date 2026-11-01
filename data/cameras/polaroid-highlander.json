@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-highlander",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Highlander",
+  "year": 1954,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1954 年发布",
+  "description": "Polaroid cameras that used Type 30 instant rollfilm.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Highlander"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Highlander",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Highlander"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

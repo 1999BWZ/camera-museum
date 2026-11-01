@@ -1,0 +1,29 @@
+{
+  "id": "rower-bijou",
+  "brand": "Rower",
+  "brand_cn": "",
+  "brand_slug": "rower",
+  "country": "法国",
+  "manufacturer": "Rower",
+  "model": "Bijou",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rower折叠相机，1937 年发布",
+  "description": "The Rower Bijou is a camera made by the French company FAP.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rower Bijou"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rower Bijou",
+      "url": "https://camera-wiki.org/wiki/Rower%20Bijou"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

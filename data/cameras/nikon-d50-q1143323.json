@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d50-q1143323",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D50",
+  "year": 2005,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2005 年发布",
+  "description": "尼康于2005年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1143323",
+    "多语言词条数": "21"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D50%20Wikipedia.jpg?width=800",
+      "caption": "D50",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1143323"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D50",
+      "url": "https://www.wikidata.org/wiki/Q1143323"
+    }
+  ],
+  "qid": "Q1143323",
+  "sitelinks": 21,
+  "imported": "wikidata-5k-2026-11-01"
+}

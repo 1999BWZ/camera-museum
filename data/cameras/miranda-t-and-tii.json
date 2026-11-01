@@ -1,0 +1,29 @@
+{
+  "id": "miranda-t-and-tii",
+  "brand": "Miranda",
+  "brand_cn": "",
+  "brand_slug": "miranda",
+  "country": "待补充",
+  "manufacturer": "Miranda",
+  "model": "T and TII",
+  "year": 1955,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Miranda数码单反相机，1955 年发布",
+  "description": "The Miranda T is the first Japanese 35mm SLR camera with an eyelevel pentaprism finder, launched in 1955 by the Orion Camera Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miranda T and TII"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miranda T and TII",
+      "url": "https://camera-wiki.org/wiki/Miranda%20T%20and%20TII"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

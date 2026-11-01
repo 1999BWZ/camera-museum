@@ -1,0 +1,29 @@
+{
+  "id": "ensign-j-b-ensign",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "待补充",
+  "manufacturer": "Ensign",
+  "model": "J-B Ensign",
+  "year": 1929,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign盒式相机，1929 年发布",
+  "description": "The \"J-B\" Ensign is a box camera made for a few years from 1929 by Houghton-Butcher.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "J-B Ensign"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – J-B Ensign",
+      "url": "https://camera-wiki.org/wiki/J-B%20Ensign"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

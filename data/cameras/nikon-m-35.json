@@ -1,0 +1,29 @@
+{
+  "id": "nikon-m-35",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "M-35",
+  "year": 1967,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康旁轴相机，1967 年发布",
+  "description": "The M-35 is a 35mm film camera body made by Nikon from 1967 onward[https://www.nicovandijk.net/m35.htm Nikon M-35 page] by [https://www.nicovandijk.net/ Nico van Dijk] for attachment to a microscope, part of a series of outfits named Microflex.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon M-35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon M-35",
+      "url": "https://camera-wiki.org/wiki/Nikon%20M-35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

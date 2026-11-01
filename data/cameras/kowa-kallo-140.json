@@ -1,0 +1,29 @@
+{
+  "id": "kowa-kallo-140",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "Kallo 140",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa旁轴相机，1959 年发布",
+  "description": "The Kallo 140 is a Japanese rangefinder camera that uses 35mm film and was produced by Kowa.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa Kallo 140"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa Kallo 140",
+      "url": "https://camera-wiki.org/wiki/Kowa%20Kallo%20140"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

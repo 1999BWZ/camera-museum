@@ -1,0 +1,29 @@
+{
+  "id": "rewo-louise",
+  "brand": "Rewo",
+  "brand_cn": "",
+  "brand_slug": "rewo",
+  "country": "荷兰",
+  "manufacturer": "Rewo",
+  "model": "Louise",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rewo盒式相机，1948 年发布",
+  "description": "Rewo Louise is a metal box camera for 6x9 exposures on 120 rollfilm, made by Reneman Works, Utrecht, Netherlands from c.1948.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rewo Louise"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rewo Louise",
+      "url": "https://camera-wiki.org/wiki/Rewo%20Louise"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

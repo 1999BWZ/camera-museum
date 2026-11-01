@@ -1,0 +1,29 @@
+{
+  "id": "sisley-1-and-balm-six",
+  "brand": "Sisley",
+  "brand_cn": "",
+  "brand_slug": "sisley",
+  "country": "待补充",
+  "manufacturer": "Sisley",
+  "model": "1 and Balm Six",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sisley旁轴相机，1954 年发布",
+  "description": "The Sisley (シスレー, shisurē) Model-1, released around May 1954, was the first product of the newly renamed Takane Kōgaku, whose previous cameras had been the Daido Six and Daido Semi.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sisley 1 and Balm Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sisley 1 and Balm Six",
+      "url": "https://camera-wiki.org/wiki/Sisley%201%20and%20Balm%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

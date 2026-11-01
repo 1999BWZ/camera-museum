@@ -1,0 +1,29 @@
+{
+  "id": "detective-cameras-stirn-concealed-vest-camera",
+  "brand": "Detective cameras",
+  "brand_cn": "",
+  "brand_slug": "detective-cameras",
+  "country": "待补充",
+  "manufacturer": "Detective cameras",
+  "model": "Stirn Concealed Vest Camera",
+  "year": 1886,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Detective cameras胶片相机，1886 年发布",
+  "description": "Detective cameras于1886年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Stirn Concealed Vest Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Stirn Concealed Vest Camera",
+      "url": "https://camera-wiki.org/wiki/Stirn%20Concealed%20Vest%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

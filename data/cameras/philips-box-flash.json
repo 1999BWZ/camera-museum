@@ -1,0 +1,29 @@
+{
+  "id": "philips-box-flash",
+  "brand": "Philips",
+  "brand_cn": "飞利浦",
+  "brand_slug": "philips",
+  "country": "荷兰",
+  "manufacturer": "Philips",
+  "model": "Box Flash",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "飞利浦盒式相机，1950 年发布",
+  "description": "The Box Flash, also sold as Flitscamera, is a BakeliteThe material is actually Philite, Philips' own thermoset resin material, used for making radio bodies, according to the [http://www.vieilalbum.com/PhilipsBoxUS.htm Philips Box Flash] page on [http://www.vieilalbum.com Le Vieil Album] box camera w",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Philips Box Flash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Philips Box Flash",
+      "url": "https://camera-wiki.org/wiki/Philips%20Box%20Flash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

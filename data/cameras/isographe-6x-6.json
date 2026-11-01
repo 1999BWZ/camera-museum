@@ -1,0 +1,29 @@
+{
+  "id": "isographe-6x-6",
+  "brand": "Isographe",
+  "brand_cn": "",
+  "brand_slug": "isographe",
+  "country": "法国",
+  "manufacturer": "Isographe",
+  "model": "6x 6",
+  "year": 1928,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Isographe立体相机，1928 年发布",
+  "description": "The Isographe is a strut-folding stereo camera for 6x6cm stereo pairs, made by Baudry from 1928 until about 1945,[http://www.collection-appareils.fr/x/html/page_standard_eng.php?id_appareil=826 Fixed-focus, 6x13cm plate] and [http://www.collection-appareils.fr/x/html/page_standard_eng.php?id_apparei",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Isographe 6x 6"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Isographe 6x 6",
+      "url": "https://camera-wiki.org/wiki/Isographe%206x%206"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

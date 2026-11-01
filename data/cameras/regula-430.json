@@ -1,0 +1,29 @@
+{
+  "id": "regula-430",
+  "brand": "Regula",
+  "brand_cn": "",
+  "brand_slug": "regula",
+  "country": "待补充",
+  "manufacturer": "Regula",
+  "model": "430",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Regula胶片相机，1977 年发布",
+  "description": "Regula 430, 110 film pocket camera with Regulon 25mm f/5.6 lens and built-in flash.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Regula 430"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Regula 430",
+      "url": "https://camera-wiki.org/wiki/Regula%20430"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

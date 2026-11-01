@@ -1,0 +1,29 @@
+{
+  "id": "cosina-petri-mf-101a",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "Petri MF-101A",
+  "year": 1981,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina数码单反相机，1981 年发布",
+  "description": "By the late 1970s, Petri (Kuribayashi) had ceased manufacturing cameras, but the familiar brand was taken over for use on a series of rebadged products.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri MF-101A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri MF-101A",
+      "url": "https://camera-wiki.org/wiki/Petri%20MF-101A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

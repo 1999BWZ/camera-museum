@@ -1,0 +1,29 @@
+{
+  "id": "wzfo-ami-66",
+  "brand": "WZFO",
+  "brand_cn": "",
+  "brand_slug": "wzfo",
+  "country": "波兰",
+  "manufacturer": "WZFO",
+  "model": "Ami 66",
+  "year": 1969,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "WZFO取景器相机，1969 年发布",
+  "description": "The Ami 66 is a toy viewfinder cameras made of plastic and issued from 1969 to c.1985 by the Polish firm Warszawskie Zakłady Fotooptyczne (WZFO).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ami 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ami 66",
+      "url": "https://camera-wiki.org/wiki/Ami%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

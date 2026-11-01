@@ -1,0 +1,29 @@
+{
+  "id": "wirgin-gewirette",
+  "brand": "Wirgin",
+  "brand_cn": "",
+  "brand_slug": "wirgin",
+  "country": "待补充",
+  "manufacturer": "Wirgin",
+  "model": "Gewirette",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wirgin取景器相机，1937 年发布",
+  "description": "The Gewirette is a small viewfinder-type camera made by Wirgin in Wiesbaden, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Gewirette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Gewirette",
+      "url": "https://camera-wiki.org/wiki/Gewirette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

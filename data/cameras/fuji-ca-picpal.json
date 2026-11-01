@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-picpal",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca PicPAL",
+  "year": 1982,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji取景器相机，1982 年发布",
+  "description": "The Fujica PicPAL, also known as the Fujica MF, is a fixed focus 35mm camera released in 1982 by Fuji.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica PicPAL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica PicPAL",
+      "url": "https://camera-wiki.org/wiki/Fujica%20PicPAL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

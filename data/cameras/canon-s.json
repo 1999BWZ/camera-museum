@@ -1,0 +1,29 @@
+{
+  "id": "canon-s",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "S",
+  "year": 1939,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能旁轴相机，1939 年发布",
+  "description": "The Canon S is a high-quality 35mm focal-plane shutter rangefinder camera made by the Japanese company Seiki Kogaku (Canon).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon S",
+      "url": "https://camera-wiki.org/wiki/Canon%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

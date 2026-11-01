@@ -1,0 +1,29 @@
+{
+  "id": "aires-35-v",
+  "brand": "Aires",
+  "brand_cn": "",
+  "brand_slug": "aires",
+  "country": "待补充",
+  "manufacturer": "Aires",
+  "model": "35-V",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aires旁轴相机，1958 年发布",
+  "description": "The 1959 advertising for the Aires 35-V emphasized that this was the most technologically ambitious model yet in the Aires company's line of 35mm rangefinder cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Aires 35-V"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Aires 35-V",
+      "url": "https://camera-wiki.org/wiki/Aires%2035-V"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

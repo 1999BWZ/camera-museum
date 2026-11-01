@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-propack",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "ProPack",
+  "year": 1993,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1993 年发布",
+  "description": "A handheld folding instant camera, compatible with a large array of peel-apart instant films, including: type 84, 85, 88, 89, 664, 665, 667, 679, 669, and 690.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid ProPack"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid ProPack",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20ProPack"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

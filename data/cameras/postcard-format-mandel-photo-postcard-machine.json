@@ -1,0 +1,29 @@
+{
+  "id": "postcard-format-mandel-photo-postcard-machine",
+  "brand": "Postcard format",
+  "brand_cn": "",
+  "brand_slug": "postcard-format",
+  "country": "待补充",
+  "manufacturer": "Postcard format",
+  "model": "Mandel Photo Postcard Machine",
+  "year": 1911,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Postcard format一次成像相机，1911 年发布",
+  "description": "The Mandel Photo Postcard Machine Camera was made by the Chicago Ferrotype Company from 1911 to 1930.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mandel Photo Postcard Machine"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mandel Photo Postcard Machine",
+      "url": "https://camera-wiki.org/wiki/Mandel%20Photo%20Postcard%20Machine"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

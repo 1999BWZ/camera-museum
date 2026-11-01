@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-natura-s",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "Natura S",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士便携相机，2001 年发布",
+  "description": "The Fujifilm Natura S is a 35mm autofocus compact camera designed by Fujifilm and released in 2001 and discontinued in 2006.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm Natura S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm Natura S",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20Natura%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

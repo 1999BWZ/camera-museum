@@ -1,0 +1,29 @@
+{
+  "id": "royflex-iii",
+  "brand": "Royflex",
+  "brand_cn": "",
+  "brand_slug": "royflex",
+  "country": "法国",
+  "manufacturer": "Royflex",
+  "model": "III",
+  "year": 1954,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Royflex胶片相机，1954 年发布",
+  "description": "The Royflex III was made by Royer from 1954 to 1958.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Royflex III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Royflex III",
+      "url": "https://camera-wiki.org/wiki/Royflex%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

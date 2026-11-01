@@ -1,0 +1,29 @@
+{
+  "id": "monaco-mecaflex",
+  "brand": "Monaco",
+  "brand_cn": "",
+  "brand_slug": "monaco",
+  "country": "待补充",
+  "manufacturer": "Monaco",
+  "model": "Mecaflex",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Monaco胶片单反相机，1953 年发布",
+  "description": "The Mecaflex is a 35mm SLR camera, initially made in Germany starting in 1951.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mecaflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mecaflex",
+      "url": "https://camera-wiki.org/wiki/Mecaflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

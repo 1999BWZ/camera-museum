@@ -1,0 +1,29 @@
+{
+  "id": "leidolf-lordomat-c35-se-sle",
+  "brand": "Leidolf",
+  "brand_cn": "",
+  "brand_slug": "leidolf",
+  "country": "待补充",
+  "manufacturer": "Leidolf",
+  "model": "Lordomat C35/SE/SLE",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leidolf旁轴相机，1956 年发布",
+  "description": "A Leidolf 35mm rangefinder camera offering interchangeable lenses and a selenium light meter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lordomat C35/SE/SLE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lordomat C35/SE/SLE",
+      "url": "https://camera-wiki.org/wiki/Lordomat%20C35/SE/SLE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

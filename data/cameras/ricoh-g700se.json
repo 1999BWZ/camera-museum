@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-g700se",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "G700SE",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2010 年发布",
+  "description": "The Ricoh G700SE was introduced by Ricoh in 2010.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh G700SE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh G700SE",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20G700SE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

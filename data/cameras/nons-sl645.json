@@ -1,0 +1,29 @@
+{
+  "id": "nons-sl645",
+  "brand": "Nons",
+  "brand_cn": "",
+  "brand_slug": "nons",
+  "country": "中国",
+  "manufacturer": "Nons",
+  "model": "SL645",
+  "year": 2023,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nons一次成像相机，2023 年发布",
+  "description": "The SL645 is an SLR camera for Instax Mini media (62x46mm), made by the Hong Kong/Shenzhen maker Nons in 2023.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nons SL645"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nons SL645",
+      "url": "https://camera-wiki.org/wiki/Nons%20SL645"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

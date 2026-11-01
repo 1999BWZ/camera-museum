@@ -1,0 +1,29 @@
+{
+  "id": "conley-model-xiv",
+  "brand": "Conley",
+  "brand_cn": "",
+  "brand_slug": "conley",
+  "country": "待补充",
+  "manufacturer": "Conley",
+  "model": "Model XIV",
+  "year": 1907,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Conley胶片相机，1907 年发布",
+  "description": "The 4&frac12;&times;6&frac12;&times;\" folding bed plate camera Conley Model XIV was designed as all-round camera, made of mahogany, in finest genuine leather coating outside and piano finish inside, probably produced from 1900-1918.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Conley Model XIV"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Conley Model XIV",
+      "url": "https://camera-wiki.org/wiki/Conley%20Model%20XIV"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

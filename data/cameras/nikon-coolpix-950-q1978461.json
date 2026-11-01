@@ -1,0 +1,40 @@
+{
+  "id": "nikon-coolpix-950-q1978461",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Coolpix 950",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1999 年发布",
+  "description": "尼康于1999年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1978461",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCN1606-coolpix-950.jpg?width=800",
+      "caption": "Coolpix 950",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1978461"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Coolpix 950",
+      "url": "https://www.wikidata.org/wiki/Q1978461"
+    }
+  ],
+  "qid": "Q1978461",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

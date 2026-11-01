@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-snappa",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "待补充",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Snappa",
+  "year": 1913,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard盒式相机，1913 年发布",
+  "description": "The Snappa is a box camera for 4x6.5cm exposures, made by Thornton-Pickard in about 1913-16.[http://redbellows.co.uk/CameraCollection/ThorntonPickard/Snappa_091.htm Snappa] at [http://redbellows.co.uk Redbellows] The body is wooden, with leatherette covering.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Snappa (box)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Snappa (box)",
+      "url": "https://camera-wiki.org/wiki/Snappa%20%28box%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

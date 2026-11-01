@@ -1,0 +1,29 @@
+{
+  "id": "ilford-sportina-rapid",
+  "brand": "Ilford",
+  "brand_cn": "",
+  "brand_slug": "ilford",
+  "country": "待补充",
+  "manufacturer": "Ilford",
+  "model": "Sportina Rapid",
+  "year": 1965,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ilford胶片相机，1965 年发布",
+  "description": "The Ilford Sportina Rapid was a range of small viewfinder cameras made in Germany by Dacora for Ilford, introduced to the UK in 1965[http://www.photomemorabilia.co.uk/Ilford/Sportina_Rapid.html Maurice Fisher's site].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ilford Sportina Rapid"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ilford Sportina Rapid",
+      "url": "https://camera-wiki.org/wiki/Ilford%20Sportina%20Rapid"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "magazine-cameras-lancaster-rover",
+  "brand": "Magazine cameras",
+  "brand_cn": "",
+  "brand_slug": "magazine-cameras",
+  "country": "英国",
+  "manufacturer": "Magazine cameras",
+  "model": "Lancaster Rover",
+  "year": 1890,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Magazine cameras胶片相机，1890 年发布",
+  "description": "The Rover detective camera was made by J.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lancaster Rover"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lancaster Rover",
+      "url": "https://camera-wiki.org/wiki/Lancaster%20Rover"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

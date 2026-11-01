@@ -1,0 +1,29 @@
+{
+  "id": "yashica-230-af",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "230-AF",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片单反相机，1987 年发布",
+  "description": "The Yashica 230 AF is an autofocus 35mm SLR introduced 1987 by Kyocera in Japan alongside a new autofocus lens system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica 230-AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica 230-AF",
+      "url": "https://camera-wiki.org/wiki/Yashica%20230-AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

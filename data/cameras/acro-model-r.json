@@ -1,0 +1,29 @@
+{
+  "id": "acro-model-r",
+  "brand": "Acro",
+  "brand_cn": "",
+  "brand_slug": "acro",
+  "country": "待补充",
+  "manufacturer": "Acro",
+  "model": "Model R",
+  "year": 1940,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Acro旁轴相机，1940 年发布",
+  "description": "The Model R (identified on the box, as in the advertisement below, as the Model R Candid Camera) is a half-frame (i.e.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Acro Model R"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Acro Model R",
+      "url": "https://camera-wiki.org/wiki/Acro%20Model%20R"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

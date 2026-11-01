@@ -1,0 +1,29 @@
+{
+  "id": "minolta-sr-3",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "SR-3",
+  "year": 1960,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1960 年发布",
+  "description": "The Minolta SR-3 was launched in 1960 as the third 35mm SLR camera model from Chiyoda Kogaku.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta SR-3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta SR-3",
+      "url": "https://camera-wiki.org/wiki/Minolta%20SR-3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

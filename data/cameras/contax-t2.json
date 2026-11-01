@@ -1,0 +1,37 @@
+{
+  "id": "contax-t2",
+  "brand": "Contax",
+  "brand_cn": "康泰时",
+  "brand_slug": "contax",
+  "country": "德国",
+  "manufacturer": "Contax",
+  "model": "T2",
+  "year": 1991,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "康泰时旁轴相机，1991 年发布",
+  "description": "The Contax T2 is a autofocus 35mm compact camera released in 1991 by Kyocera under the Contax brand.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contax T2"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm8.staticflickr.com/7140/7581651692_fd626fdef2.jpg",
+      "caption": "T2",
+      "source": "Flickr（Miki Yoshihito）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/mujitra/7581651692/in/pool-1618922@N23/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contax T2",
+      "url": "https://camera-wiki.org/wiki/Contax%20T2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

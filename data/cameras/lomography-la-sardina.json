@@ -1,0 +1,29 @@
+{
+  "id": "lomography-la-sardina",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "La Sardina",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography玩具相机，2011 年发布",
+  "description": "The La Sardina is a wide angle 35mm film camera issued by Lomography in June 2011[https://filmphotography.eu/en/la-sardina/ La Sardina] at [https://filmphotography.eu/en-p/home/ Filmphotography.eu].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lomography La Sardina"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lomography La Sardina",
+      "url": "https://camera-wiki.org/wiki/Lomography%20La%20Sardina"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

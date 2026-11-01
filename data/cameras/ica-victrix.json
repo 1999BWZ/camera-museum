@@ -1,0 +1,29 @@
+{
+  "id": "ica-victrix",
+  "brand": "ICA",
+  "brand_cn": "",
+  "brand_slug": "ica",
+  "country": "待补充",
+  "manufacturer": "ICA",
+  "model": "Victrix",
+  "year": 1912,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "ICA折叠相机，1912 年发布",
+  "description": "There is also a 9x12cm strut-folding plate camera called Victrix, made by Wünsche, one of the companies that merged to form ICA.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Victrix (folding-bed)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Victrix (folding-bed)",
+      "url": "https://camera-wiki.org/wiki/Victrix%20%28folding-bed%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

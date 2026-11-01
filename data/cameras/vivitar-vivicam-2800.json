@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-vivicam-2800",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "台湾",
+  "manufacturer": "Vivitar",
+  "model": "ViviCam 2800",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar数码相机，1999 年发布",
+  "description": "The Vivitar ViviCam 2800 was released in 1999, and is a digital camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar ViviCam 2800"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar ViviCam 2800",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20ViviCam%202800"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

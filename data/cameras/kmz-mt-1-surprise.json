@@ -1,0 +1,29 @@
+{
+  "id": "kmz-mt-1-surprise",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "MT-1 Surprise",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ胶片单反相机，1979 年发布",
+  "description": "The Zenit MT-1 сюрприз ('Surprise') is a half-frame 35 mm SLR camera made by KMZ from 1979 until about 1990.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit MT-1 Surprise"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit MT-1 Surprise",
+      "url": "https://camera-wiki.org/wiki/Zenit%20MT-1%20Surprise"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

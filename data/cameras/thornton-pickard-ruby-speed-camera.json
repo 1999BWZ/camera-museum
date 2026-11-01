@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-ruby-speed-camera",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "待补充",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Ruby Speed Camera",
+  "year": 1926,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard胶片相机，1926 年发布",
+  "description": "The Ruby Speed Camera is a straightforward copy of the Ermanox, made by Thornton-Pickard in about 1926.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ruby Speed Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ruby Speed Camera",
+      "url": "https://camera-wiki.org/wiki/Ruby%20Speed%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

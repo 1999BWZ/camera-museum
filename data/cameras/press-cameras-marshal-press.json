@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-marshal-press",
+  "brand": "press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "待补充",
+  "manufacturer": "press cameras",
+  "model": "Marshal Press",
+  "year": 1966,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "press cameras旁轴相机，1966 年发布",
+  "description": "Built in the mid 1960s, by Marshal Optical Works, of Japan, the Marshal Press was a design direct from the brain of Mr.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Marshal Press"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Marshal Press",
+      "url": "https://camera-wiki.org/wiki/Marshal%20Press"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "aerial-cameras-goldmann-aerial-camera",
+  "brand": "Aerial cameras",
+  "brand_cn": "",
+  "brand_slug": "aerial-cameras",
+  "country": "奥地利",
+  "manufacturer": "Aerial cameras",
+  "model": "Goldmann Aerial Camera",
+  "year": 1915,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aerial cameras胶片相机，1915 年发布",
+  "description": "Aerial cameras于1915年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Goldmann Aerial Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Goldmann Aerial Camera",
+      "url": "https://camera-wiki.org/wiki/Goldmann%20Aerial%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

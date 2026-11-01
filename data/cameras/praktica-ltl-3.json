@@ -1,0 +1,29 @@
+{
+  "id": "praktica-ltl-3",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "LTL 3",
+  "year": 1975,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片相机，1975 年发布",
+  "description": "The Praktica LTL3 is one of many version of the Praktica M42 cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica LTL 3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica LTL 3",
+      "url": "https://camera-wiki.org/wiki/Praktica%20LTL%203"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

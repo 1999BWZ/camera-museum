@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-adler-c",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Adler C",
+  "year": 1941,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光折叠相机，1941 年发布",
+  "description": "See also the Semi Adler and Adler III (4.5×6cm), Adler A (4.5×6cm), Adler B (4.5×6cm), Adler Four (4×4cm), Adler Six (6×6cm) and Vest Adler (4×6.5cm).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Adler C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Adler C",
+      "url": "https://camera-wiki.org/wiki/Adler%20C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

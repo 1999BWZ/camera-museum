@@ -1,0 +1,40 @@
+{
+  "id": "panasonic-lumix-dc-s1m2",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "松下電器",
+  "model": "Lumix DC-S1M2",
+  "year": 2025,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下便携相机，2025 年发布",
+  "description": "松下于2025年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q139854486",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panasonic%20Lumix%20DC-S1M2%204%20jul%202025h.jpg?width=800",
+      "caption": "Lumix DC-S1M2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q139854486"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 松下Lumix DC-S1M2",
+      "url": "https://www.wikidata.org/wiki/Q139854486"
+    }
+  ],
+  "qid": "Q139854486",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

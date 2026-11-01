@@ -1,0 +1,29 @@
+{
+  "id": "universal-uniflex",
+  "brand": "Universal",
+  "brand_cn": "",
+  "brand_slug": "universal",
+  "country": "美国",
+  "manufacturer": "Universal",
+  "model": "Uniflex",
+  "year": 1947,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Universal胶片相机，1947 年发布",
+  "description": "The Universal Uniflex I, II, and III are aluminum bodied TLR cameras built between 1947 and 1950 by the Universal Camera Corp.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Uniflex (TLR)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Uniflex (TLR)",
+      "url": "https://camera-wiki.org/wiki/Uniflex%20%28TLR%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

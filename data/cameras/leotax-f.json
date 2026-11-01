@@ -1,0 +1,29 @@
+{
+  "id": "leotax-f",
+  "brand": "Leotax",
+  "brand_cn": "",
+  "brand_slug": "leotax",
+  "country": "待补充",
+  "manufacturer": "Leotax",
+  "model": "F",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leotax旁轴相机，1954 年发布",
+  "description": "{| class=\"plainlinks\" style=\"float: right; text-align: center;\"\n|| [http://www.flickr.com/photos/camerawiki/47244404171/in/pool-camerawiki/ http://farm8.staticflickr.com/7830/47244404171_91e2f7143a.jpg]\n|-\n|| [http://www.flickr.com/photos/camerawiki/47244423081/in/pool-camerawiki/ http://farm8.stati",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leotax F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leotax F",
+      "url": "https://camera-wiki.org/wiki/Leotax%20F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

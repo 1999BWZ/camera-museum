@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-35-ee",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca 35-EE",
+  "year": 1961,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji旁轴相机，1961 年发布",
+  "description": "The Fujica 35-EE is a 35mm rangefinder camera manufactured by Fuji from 1961.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica 35-EE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica 35-EE",
+      "url": "https://camera-wiki.org/wiki/Fujica%2035-EE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

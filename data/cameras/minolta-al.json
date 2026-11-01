@@ -1,0 +1,29 @@
+{
+  "id": "minolta-al",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "AL",
+  "year": 1961,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1961 年发布",
+  "description": "The Minolta AL is a rangefinder camera with selenium meter made by Minolta in Japan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta AL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta AL",
+      "url": "https://camera-wiki.org/wiki/Minolta%20AL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

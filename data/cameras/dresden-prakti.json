@@ -1,0 +1,29 @@
+{
+  "id": "dresden-prakti",
+  "brand": "Dresden",
+  "brand_cn": "",
+  "brand_slug": "dresden",
+  "country": "待补充",
+  "manufacturer": "Dresden",
+  "model": "Prakti",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dresden取景器相机，1961 年发布",
+  "description": "The Prakti is a sophisticated viewfinder camera for 35mm film introduced in 1961.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Prakti"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Prakti",
+      "url": "https://camera-wiki.org/wiki/Prakti"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

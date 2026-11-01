@@ -1,0 +1,29 @@
+{
+  "id": "lotus-view-camera",
+  "brand": "Lotus",
+  "brand_cn": "",
+  "brand_slug": "lotus",
+  "country": "奥地利",
+  "manufacturer": "Lotus",
+  "model": "View Camera",
+  "year": 1997,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lotus大画幅相机，1997 年发布",
+  "description": "Lotus View Camera is a camera maker in Ostermiething, Austria.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lotus View Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lotus View Camera",
+      "url": "https://camera-wiki.org/wiki/Lotus%20View%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

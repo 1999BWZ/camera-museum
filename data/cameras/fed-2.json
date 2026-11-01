@@ -1,0 +1,29 @@
+{
+  "id": "fed-2",
+  "brand": "FED",
+  "brand_cn": "",
+  "brand_slug": "fed",
+  "country": "待补充",
+  "manufacturer": "FED",
+  "model": "2",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FED胶片单反相机，1955 年发布",
+  "description": "__NOTOC__\n{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "FED 2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – FED 2",
+      "url": "https://camera-wiki.org/wiki/FED%202"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

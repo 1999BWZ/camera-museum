@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-r8",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "R8",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2008 年发布",
+  "description": "The Ricoh R8 was introduced by Ricoh in 2008.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh R8"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh R8",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20R8"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

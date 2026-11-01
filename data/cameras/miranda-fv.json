@@ -1,0 +1,29 @@
+{
+  "id": "miranda-fv",
+  "brand": "Miranda",
+  "brand_cn": "",
+  "brand_slug": "miranda",
+  "country": "待补充",
+  "manufacturer": "Miranda",
+  "model": "Fv",
+  "year": 1966,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Miranda胶片单反相机，1966 年发布",
+  "description": "The Miranda Fv belonged to group of Miranda cameras made between 1963 and 1969 - starting with the F - which was modified to become the Fv (via the FM).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miranda Fv"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miranda Fv",
+      "url": "https://camera-wiki.org/wiki/Miranda%20Fv"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

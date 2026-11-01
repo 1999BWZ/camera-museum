@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-ikoflex-ic",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Ikoflex Ic",
+  "year": 1956,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon胶片相机，1956 年发布",
+  "description": "The Ikoflex Ic (886/16) was made by Zeiss Ikon from 1956 onwards.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ikoflex Ic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ikoflex Ic",
+      "url": "https://camera-wiki.org/wiki/Ikoflex%20Ic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

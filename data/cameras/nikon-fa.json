@@ -1,0 +1,29 @@
+{
+  "id": "nikon-fa",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "FA",
+  "year": 1983,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1983 年发布",
+  "description": "The Nikon FA is a 35mm manual focus SLR camera introduced in 1983.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon FA"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon FA",
+      "url": "https://camera-wiki.org/wiki/Nikon%20FA"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f60-q489172",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F60",
+  "year": 1998,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1998 年发布",
+  "description": "尼康于1998年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q489172",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon-f60-2.jpg?width=800",
+      "caption": "F60",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q489172"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon F60",
+      "url": "https://www.wikidata.org/wiki/Q489172"
+    }
+  ],
+  "qid": "Q489172",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

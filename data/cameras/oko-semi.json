@@ -1,0 +1,29 @@
+{
+  "id": "oko-semi",
+  "brand": "Oko",
+  "brand_cn": "",
+  "brand_slug": "oko",
+  "country": "待补充",
+  "manufacturer": "Oko",
+  "model": "Semi",
+  "year": 1940,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Oko折叠相机，1940 年发布",
+  "description": "The Oko Semi (オコーセミ or オーコーセミ) In the only advertisement observed, the name of the camera is written オコーセミ (with a short \"O\") but the title is オーコーカメラ (Oko cameras, with a long \"O\").",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Oko Semi"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Oko Semi",
+      "url": "https://camera-wiki.org/wiki/Oko%20Semi"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

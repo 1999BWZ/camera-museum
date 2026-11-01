@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f3-q1470486",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F3",
+  "year": 1980,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1980 年发布",
+  "description": "尼康于1980年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1470486",
+    "多语言词条数": "14"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/F3big.jpg?width=800",
+      "caption": "F3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1470486"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康 F3",
+      "url": "https://www.wikidata.org/wiki/Q1470486"
+    }
+  ],
+  "qid": "Q1470486",
+  "sitelinks": 14,
+  "imported": "wikidata-5k-2026-11-01"
+}

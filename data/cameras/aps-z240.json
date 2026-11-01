@@ -1,0 +1,29 @@
+{
+  "id": "aps-z240",
+  "brand": "APS",
+  "brand_cn": "",
+  "brand_slug": "aps",
+  "country": "待补充",
+  "manufacturer": "APS",
+  "model": "Z240",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "APS胶片相机，1997 年发布",
+  "description": "The Vivitar Z240 is an APS film camera distributed by Vivitar.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar Z240"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar Z240",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20Z240"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

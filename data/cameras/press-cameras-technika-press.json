@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-technika-press",
+  "brand": "press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "待补充",
+  "manufacturer": "press cameras",
+  "model": "Technika Press",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "press cameras旁轴相机，1956 年发布",
+  "description": "[http://www.flickr.com/photos/146425980@N02/31594030782/in/pool-camerawiki/ http://farm7.staticflickr.com/433/31594030782_4160954aec_n.jpg]Linhof Technika Press with Carl Zeiss 100mm Planar F2.8image by \nThe Linhof Technika Press is a 6,5x9cm camera made by Linhof from 1956-1962/63, introduced at th",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Linhof Technika Press"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Linhof Technika Press",
+      "url": "https://camera-wiki.org/wiki/Linhof%20Technika%20Press"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

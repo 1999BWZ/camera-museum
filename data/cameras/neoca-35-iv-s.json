@@ -1,0 +1,29 @@
+{
+  "id": "neoca-35-iv-s",
+  "brand": "Neoca",
+  "brand_cn": "",
+  "brand_slug": "neoca",
+  "country": "待补充",
+  "manufacturer": "Neoca",
+  "model": "35 IV S",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Neoca旁轴相机，1959 年发布",
+  "description": "The Neoca 35 IV S is a rangefinder camera made in 1959 by Neoca Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Neoca 35 IV S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Neoca 35 IV S",
+      "url": "https://camera-wiki.org/wiki/Neoca%2035%20IV%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

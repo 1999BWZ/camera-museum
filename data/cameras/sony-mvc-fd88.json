@@ -1,0 +1,40 @@
+{
+  "id": "sony-mvc-fd88",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "MVC-FD88",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，1999 年发布",
+  "description": "索尼于1999年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3490759",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Mavica%20MVC-FD88%20arri%C3%A8re.jpg?width=800",
+      "caption": "MVC-FD88",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q3490759"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony MVC-FD88",
+      "url": "https://www.wikidata.org/wiki/Q3490759"
+    }
+  ],
+  "qid": "Q3490759",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "olympus-om-d-e-m1-mark-ii",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "OM-D E-M1 Mark II",
+  "year": 2016,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯无反相机，2016 年发布",
+  "description": "奥林巴斯于2016年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q31836316",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20OM-D%20E-M1%20Mark%20II%20D81%208378-2.jpg?width=800",
+      "caption": "OM-D E-M1 Mark II",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q31836316"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus OM-D E-M1 Mark II",
+      "url": "https://www.wikidata.org/wiki/Q31836316"
+    }
+  ],
+  "qid": "Q31836316",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

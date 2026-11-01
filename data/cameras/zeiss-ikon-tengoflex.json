@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-tengoflex",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Tengoflex",
+  "year": 1941,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon盒式相机，1941 年发布",
+  "description": "The Tengoflex (85/16) is a Pseudo TLR camera that was made by Zeiss Ikon from 1941 till 1942, page 1061 in small quantities.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tengoflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tengoflex",
+      "url": "https://camera-wiki.org/wiki/Tengoflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "conley-improved-compact-camera",
+  "brand": "Conley",
+  "brand_cn": "",
+  "brand_slug": "conley",
+  "country": "待补充",
+  "manufacturer": "Conley",
+  "model": "Improved Compact Camera",
+  "year": 1906,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Conley折叠相机，1906 年发布",
+  "description": "The Conley Improved Compact Camera was a fine offer in Sears 1908 catalog.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Conley Improved Compact Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Conley Improved Compact Camera",
+      "url": "https://camera-wiki.org/wiki/Conley%20Improved%20Compact%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

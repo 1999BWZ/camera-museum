@@ -1,0 +1,29 @@
+{
+  "id": "kodak-ektar-h35",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Ektar H35",
+  "year": 2022,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，2022 年发布",
+  "description": "The Ektar H35 is a simple half-frame camera for 35mm film, made in 2022 by the Hong Kong company RETO, but under the Kodak brand.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ektar H35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ektar H35",
+      "url": "https://camera-wiki.org/wiki/Ektar%20H35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

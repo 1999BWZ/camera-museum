@@ -1,0 +1,29 @@
+{
+  "id": "mundus-16",
+  "brand": "Mundus",
+  "brand_cn": "",
+  "brand_slug": "mundus",
+  "country": "法国",
+  "manufacturer": "Mundus",
+  "model": "16",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mundus胶片相机，1953 年发布",
+  "description": "Camera produced by the French company Mundus c.1953.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mundus 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mundus 16",
+      "url": "https://camera-wiki.org/wiki/Mundus%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

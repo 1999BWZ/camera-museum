@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-zweiverschluss-duplex",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Zweiverschluss Duplex",
+  "year": 1927,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee折叠相机，1927 年发布",
+  "description": "The Zweiverschluss Duplex is a folding bed camera made by Ihagee from 1927 to '39.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zweiverschluss Duplex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zweiverschluss Duplex",
+      "url": "https://camera-wiki.org/wiki/Zweiverschluss%20Duplex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

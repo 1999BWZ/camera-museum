@@ -1,0 +1,29 @@
+{
+  "id": "kowa-sw",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "SW",
+  "year": 1964,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa取景器相机，1964 年发布",
+  "description": "The Kowa SW is a wide-angle 35 mm camera made by Kowa in 1964.Kowa SW with [https://www.leitz-auction.com/en/Kowa-SW-Chrome/AI-21-13679 chrome] and with [https://www.leitz-auction.com/en/Kowa-SW-Black-Paint/AI-21-13680 black] finish, sold at the [https://www.leitz-auction.com/en/Cameras/Past-Auction",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa SW"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa SW",
+      "url": "https://camera-wiki.org/wiki/Kowa%20SW"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

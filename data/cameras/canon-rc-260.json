@@ -1,0 +1,29 @@
+{
+  "id": "canon-rc-260",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "RC-260",
+  "year": 1991,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片相机，1991 年发布",
+  "description": "The RC-260 was an electronic still video camera introduced by Canon in 1991 as a follow up to the RC-250.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon RC-260"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon RC-260",
+      "url": "https://camera-wiki.org/wiki/Canon%20RC-260"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

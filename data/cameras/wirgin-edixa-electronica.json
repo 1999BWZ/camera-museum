@@ -1,0 +1,29 @@
+{
+  "id": "wirgin-edixa-electronica",
+  "brand": "Wirgin",
+  "brand_cn": "",
+  "brand_slug": "wirgin",
+  "country": "待补充",
+  "manufacturer": "Wirgin",
+  "model": "Edixa Electronica",
+  "year": 1962,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wirgin数码单反相机，1962 年发布",
+  "description": "The 35mm SLR Edixa Electronica of 1962 was a masterpiece of Heinz Waaske's camera constructionsJörg Eikmann, Ulrich Vogt, Kameras für Millionen - Heinz Waaske, Konstrukteur, Wittig 1997, ISBN 3-930359-56-1, pages 103ff, patented in 1958[https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&doc",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Edixa Electronica"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Edixa Electronica",
+      "url": "https://camera-wiki.org/wiki/Edixa%20Electronica"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

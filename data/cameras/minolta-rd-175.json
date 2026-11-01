@@ -1,0 +1,29 @@
+{
+  "id": "minolta-rd-175",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "RD-175",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码相机，1995 年发布",
+  "description": "{|class=\"floatright plainlinks\" style=\"margin:0px 0px 15px 15px;\"\n|colspan=2|[https://www.flickr.com/photos/mikeladell/3941602755/in/pool-camerawiki/ https://farm3.static.flickr.com/2449/3941602755_7c07292236.jpg]\n|-\n|[https://www.flickr.com/photos/mikeladell/3941603635/in/pool-camerawiki https://fa",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta RD-175"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta RD-175",
+      "url": "https://camera-wiki.org/wiki/Minolta%20RD-175"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-lubo",
+  "brand": "Press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "法国",
+  "manufacturer": "Press cameras",
+  "model": "Lubo",
+  "year": 1941,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Press cameras双镜头反光相机，1941 年发布",
+  "description": "The LuboMcKeown and some auctioneers name the camera the 'Lubo 41', and the 1941 advertisement reproduced here calls it the 'Lubo 1941', but the camera itself is only engraved Lubo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lubo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lubo",
+      "url": "https://camera-wiki.org/wiki/Lubo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

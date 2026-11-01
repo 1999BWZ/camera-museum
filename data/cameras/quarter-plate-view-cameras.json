@@ -1,0 +1,29 @@
+{
+  "id": "quarter-plate-view-cameras",
+  "brand": "Quarter plate",
+  "brand_cn": "",
+  "brand_slug": "quarter-plate",
+  "country": "待补充",
+  "manufacturer": "Quarter plate",
+  "model": "View Cameras",
+  "year": 1926,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Quarter plate折叠相机，1926 年发布",
+  "description": "The Ansco View cameras are wooden-bodied folding field cameras made from about 1925-39.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ansco View Cameras"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ansco View Cameras",
+      "url": "https://camera-wiki.org/wiki/Ansco%20View%20Cameras"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

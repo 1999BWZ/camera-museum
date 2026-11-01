@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-land-model-355",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Land Model 355",
+  "year": 1974,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1974 年发布",
+  "description": "Part of the series of Polaroid cameras started with the Automatic 100 and finishing at the Automatic 450, this camera shares a common set of features with all models in this line:\n* Folding Bellows\n* Automatic Exposure\n* 100-series Packfilm\n\nThe 355 is one of the higher end models of the 100-400 ser",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Land Model 355"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Land Model 355",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Land%20Model%20355"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

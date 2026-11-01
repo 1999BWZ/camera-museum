@@ -1,0 +1,29 @@
+{
+  "id": "mulber-six",
+  "brand": "Mulber",
+  "brand_cn": "",
+  "brand_slug": "mulber",
+  "country": "待补充",
+  "manufacturer": "Mulber",
+  "model": "Six",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mulber折叠相机，1935 年发布",
+  "description": "The Mulber Six (マルバシックス [http://sts.kahaku.go.jp/sts/detail.php?18=&no=103310371052 This page] of the JCII says マルバーシックス, but the advertisements have no long vowel, except on rare occasions about the Mulber shutter written マルバーシャッター.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mulber Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mulber Six",
+      "url": "https://camera-wiki.org/wiki/Mulber%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

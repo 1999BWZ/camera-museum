@@ -1,0 +1,29 @@
+{
+  "id": "no-need-darkroom-box-shaped-cameras",
+  "brand": "No-need-darkroom",
+  "brand_cn": "",
+  "brand_slug": "no-need-darkroom",
+  "country": "待补充",
+  "manufacturer": "No-need-darkroom",
+  "model": "box-shaped cameras",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "No-need-darkroom盒式相机，1930 年发布",
+  "description": "The Tougo cameras (トウゴーカメラ or トーゴーカメラ) In the original documents observed so far, the name \"Tougo camera\" is written in katakana script: either トウゴーカメラ (Tougō kamera) or トーゴーカメラ (Tōgō kamera), whereas the company name is written 東郷堂 in kanji script.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tougodo box-shaped cameras"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tougodo box-shaped cameras",
+      "url": "https://camera-wiki.org/wiki/Tougodo%20box-shaped%20cameras"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

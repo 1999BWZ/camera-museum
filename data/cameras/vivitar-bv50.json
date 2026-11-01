@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-bv50",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "BV50",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar取景器相机，1999 年发布",
+  "description": "The Vivitar BV50 dates from 1999,[https://web.archive.org/web/20000111200223/http://vivitar.com/pressrel/BV50pr.htm VIVITAR INTRODUCES BV50 35MM BIGVIEW CAMERA, Press Release], archived 11 January 2000 by Wayback Machine at Internet Archive.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar BV50"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar BV50",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20BV50"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "samoca-28-x-and-35-x",
+  "brand": "Samoca",
+  "brand_cn": "",
+  "brand_slug": "samoca",
+  "country": "待补充",
+  "manufacturer": "Samoca",
+  "model": "28 X and 35 X",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Samoca旁轴相机，1957 年发布",
+  "description": "The Samoca 28 X and the 35 X are both rangefinder cameras for 35mm film with a built-in light meter, made in Japan by Sanei Sangyō K.K.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samoca 28 X and 35 X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samoca 28 X and 35 X",
+      "url": "https://camera-wiki.org/wiki/Samoca%2028%20X%20and%2035%20X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

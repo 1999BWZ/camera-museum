@@ -1,0 +1,29 @@
+{
+  "id": "nikon-zoom-400af-lite-touch-zoom-80af",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Zoom 400AF/Lite•Touch Zoom 80AF",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1999 年发布",
+  "description": "The Zoom 400 AF is a 35mm compact camera from Nikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Zoom 400AF/Lite•Touch Zoom 80AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Zoom 400AF/Lite•Touch Zoom 80AF",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Zoom%20400AF/Lite%E2%80%A2Touch%20Zoom%2080AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

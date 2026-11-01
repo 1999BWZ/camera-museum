@@ -1,0 +1,29 @@
+{
+  "id": "sem-kim",
+  "brand": "SEM",
+  "brand_cn": "",
+  "brand_slug": "sem",
+  "country": "法国",
+  "manufacturer": "SEM",
+  "model": "Kim",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "SEM取景器相机，1947 年发布",
+  "description": "The SEM Kim is a 35mm viewfinder camera made by the French camera maker SEM in 1947.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "SEM Kim"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – SEM Kim",
+      "url": "https://camera-wiki.org/wiki/SEM%20Kim"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

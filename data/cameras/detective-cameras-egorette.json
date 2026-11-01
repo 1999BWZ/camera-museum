@@ -1,0 +1,29 @@
+{
+  "id": "detective-cameras-egorette",
+  "brand": "Detective cameras",
+  "brand_cn": "",
+  "brand_slug": "detective-cameras",
+  "country": "待补充",
+  "manufacturer": "Detective cameras",
+  "model": "Egorette",
+  "year": 1932,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Detective cameras胶片相机，1932 年发布",
+  "description": "The Egorette (エゴレット) is a Japanese camera taking 4.5×6cm film plates.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Egorette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Egorette",
+      "url": "https://camera-wiki.org/wiki/Egorette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

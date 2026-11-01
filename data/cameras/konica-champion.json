@@ -1,0 +1,29 @@
+{
+  "id": "konica-champion",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Champion",
+  "year": 1904,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡盒式相机，1904 年发布",
+  "description": "The Champion Hand Camera (チャンピオン手提暗函) The phrase tesage anbako (手提暗函) is rendered as \"Hand Camera\" in the Konishi catalogue dated December 1911.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Champion (Konishi)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Champion (Konishi)",
+      "url": "https://camera-wiki.org/wiki/Champion%20%28Konishi%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

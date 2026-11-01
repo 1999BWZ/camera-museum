@@ -1,0 +1,29 @@
+{
+  "id": "agfa-selectaflex",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Selectaflex",
+  "year": 1963,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发数码单反相机，1963 年发布",
+  "description": "The Selectaflex is a 35mm leaf-shutter SLR camera made by the German company Agfa.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Selectaflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Selectaflex",
+      "url": "https://camera-wiki.org/wiki/Selectaflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

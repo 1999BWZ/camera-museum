@@ -1,0 +1,29 @@
+{
+  "id": "miranda-d",
+  "brand": "Miranda",
+  "brand_cn": "",
+  "brand_slug": "miranda",
+  "country": "待补充",
+  "manufacturer": "Miranda",
+  "model": "D",
+  "year": 1960,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Miranda胶片单反相机，1960 年发布",
+  "description": "The Miranda D is a 35mm SLR with interchangeable viewfinders, produced in Japan by Miranda from c.1960The Miranda D is on the 1961 price list on [https://web.archive.org/web/20090806113755/http://www.geocities.com/bill14210/1961list/1961list.html Bill's Miranda Pages] (archived) and is dated 1960 on",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miranda D"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miranda D",
+      "url": "https://camera-wiki.org/wiki/Miranda%20D"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

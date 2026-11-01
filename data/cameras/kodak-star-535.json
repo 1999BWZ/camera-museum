@@ -1,0 +1,29 @@
+{
+  "id": "kodak-star-535",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Star 535",
+  "year": 1992,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1992 年发布",
+  "description": "The Star 535 is a fixed-focus 35mm film camera from Kodak.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Star 535"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Star 535",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Star%20535"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

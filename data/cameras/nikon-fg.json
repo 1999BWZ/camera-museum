@@ -1,0 +1,29 @@
+{
+  "id": "nikon-fg",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "FG",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1982 年发布",
+  "description": "The Nikon FG is a 35mm SLR, made by Nippon Kōgaku from 1982 to 1984.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon FG"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon FG",
+      "url": "https://camera-wiki.org/wiki/Nikon%20FG"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

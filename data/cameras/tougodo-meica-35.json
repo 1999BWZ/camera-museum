@@ -1,0 +1,29 @@
+{
+  "id": "tougodo-meica-35",
+  "brand": "Tougodo",
+  "brand_cn": "",
+  "brand_slug": "tougodo",
+  "country": "待补充",
+  "manufacturer": "Tougodo",
+  "model": "Meica 35",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tougodo取景器相机，1960 年发布",
+  "description": "The Meica 35 is a very basic 35mm film viewfinder camera produced by the Japanese company Tougodo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Meica 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Meica 35",
+      "url": "https://camera-wiki.org/wiki/Meica%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

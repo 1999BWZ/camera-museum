@@ -1,0 +1,29 @@
+{
+  "id": "london-paris-optic-clock-company",
+  "brand": "London",
+  "brand_cn": "",
+  "brand_slug": "london",
+  "country": "英国",
+  "manufacturer": "London",
+  "model": "& Paris Optic & Clock Company",
+  "year": 1891,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "London胶片相机，1891 年发布",
+  "description": "The London & Paris Optic & Clock Company were camera makers at 7 Jewin Street and 22 Edmund Place, Aldersgate Street, London Addresses on the nameplate of a Duchess camera sold by Christie's 18 July 1991.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "London & Paris Optic & Clock Company"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – London & Paris Optic & Clock Company",
+      "url": "https://camera-wiki.org/wiki/London%20%26%20Paris%20Optic%20%26%20Clock%20Company"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

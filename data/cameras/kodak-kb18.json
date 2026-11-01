@@ -1,0 +1,29 @@
+{
+  "id": "kodak-kb18",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "KB18",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1999 年发布",
+  "description": "Kodak KB18 is a 35mm camera produced by Kodak in 1999[https://web.archive.org/web/20100215013422/http://www.kodak.com/global/en/consumer/products/pdf/kb18.pdf PDF manual] (archived) copyright date as part of their KB series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak KB18"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak KB18",
+      "url": "https://camera-wiki.org/wiki/Kodak%20KB18"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

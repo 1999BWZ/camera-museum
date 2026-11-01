@@ -1,0 +1,29 @@
+{
+  "id": "wittnauer-adventurer",
+  "brand": "Wittnauer",
+  "brand_cn": "",
+  "brand_slug": "wittnauer",
+  "country": "美国",
+  "manufacturer": "Wittnauer",
+  "model": "Adventurer",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wittnauer旁轴相机，1958 年发布",
+  "description": "The Adventurer is a 35mm coupled-rangefinder camera, sold under the Wittnauer brand in about 1956-8, but manufactured by Braun in Nuremberg, Germany (it is a re-badged Super Colorette I).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wittnauer Adventurer"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wittnauer Adventurer",
+      "url": "https://camera-wiki.org/wiki/Wittnauer%20Adventurer"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

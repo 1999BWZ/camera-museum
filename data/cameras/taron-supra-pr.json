@@ -1,0 +1,29 @@
+{
+  "id": "taron-supra-pr",
+  "brand": "Taron",
+  "brand_cn": "",
+  "brand_slug": "taron",
+  "country": "待补充",
+  "manufacturer": "Taron",
+  "model": "Supra PR",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Taron旁轴相机，1957 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Supra PR was made c.1957 by Nippon Kōsokki Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Supra PR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Supra PR",
+      "url": "https://camera-wiki.org/wiki/Supra%20PR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

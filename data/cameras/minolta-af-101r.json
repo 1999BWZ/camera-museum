@@ -1,0 +1,29 @@
+{
+  "id": "minolta-af-101r",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "AF 101R",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1994 年发布",
+  "description": "The Minolta AF 101R is a cheap autofocus compact camera launched in 1994.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta AF 101R"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta AF 101R",
+      "url": "https://camera-wiki.org/wiki/Minolta%20AF%20101R"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "binocular-cambinox",
+  "brand": "Binocular",
+  "brand_cn": "",
+  "brand_slug": "binocular",
+  "country": "待补充",
+  "manufacturer": "Binocular",
+  "model": "Cambinox",
+  "year": 1956,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Binocular胶片相机，1956 年发布",
+  "description": "The Cambinox is a camera combined with a pair of binoculars, made by J.D.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cambinox"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cambinox",
+      "url": "https://camera-wiki.org/wiki/Cambinox"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

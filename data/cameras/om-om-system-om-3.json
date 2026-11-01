@@ -1,0 +1,40 @@
+{
+  "id": "om-om-system-om-3",
+  "brand": "OM数位解决方案",
+  "brand_cn": "",
+  "brand_slug": "om",
+  "country": "待补充",
+  "manufacturer": "OM数位解决方案",
+  "model": "OM System OM-3",
+  "year": 2025,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "OM数位解决方案数码相机，2025 年发布",
+  "description": "OM数位解决方案于2025年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q132174714",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM%20System%20OM-3%2028%20feb%202025a.jpg?width=800",
+      "caption": "OM System OM-3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q132174714"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – OM System OM-3",
+      "url": "https://www.wikidata.org/wiki/Q132174714"
+    }
+  ],
+  "qid": "Q132174714",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

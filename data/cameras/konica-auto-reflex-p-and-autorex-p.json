@@ -1,0 +1,29 @@
+{
+  "id": "konica-auto-reflex-p-and-autorex-p",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Auto-Reflex P and Autorex P",
+  "year": 1966,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡数码单反相机，1966 年发布",
+  "description": "The Konica Auto-Reflex P (or Autorex P in Japan) is a 35mm SLR camera with a switchable half and full frame feature.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Auto-Reflex P and Autorex P"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Auto-Reflex P and Autorex P",
+      "url": "https://camera-wiki.org/wiki/Konica%20Auto-Reflex%20P%20and%20Autorex%20P"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-450-sld",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "450/SLD",
+  "year": 1975,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片单反相机，1975 年发布",
+  "description": "The Vivitar 450/SLD is a Cosina-made M42 mount, 35mm SLR, marketed by Vivitar.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar 450/SLD"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar 450/SLD",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20450/SLD"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

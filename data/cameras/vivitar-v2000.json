@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-v2000",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "V2000",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片单反相机，1988 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n \n|\n|}\nThe Vivitar V2000 is a 35mm film SLR camera marketed by Vivitar in the late 1980s and early 1990s.It is noted as an attractive style refresh of the Vivitar V335 in a [https://books.google.com/books?id=hU8sHSz9ZkYC&pg=PA37&dq=vivitar+V2000&hl=en&sa=X&ved=2ahUKEwiR6Jz",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar V2000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar V2000",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20V2000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "yashica-half-17",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Half 17",
+  "year": 1964,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡取景器相机，1964 年发布",
+  "description": "The Half 17 is a half-frame 35 mm viewfinder camera made by Yashica in about 1964.[http://www.subclub.org/shop/yashica.htm Yashica half-frame cameras] including the [http://www.subclub.org/shop/yahalf17.htm Half 17], at Joe McGloin's [http://www.subclub.org/index.htm Sub Club].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Half 17"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Half 17",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Half%2017"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

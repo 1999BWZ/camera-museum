@@ -1,0 +1,29 @@
+{
+  "id": "lomography-simple-use",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "Simple Use",
+  "year": 2017,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography玩具相机，2017 年发布",
+  "description": "The Simple Use is sold by Lomography as both a single use/disposable and a optional reloadable 35mm film camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lomography Simple Use"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lomography Simple Use",
+      "url": "https://camera-wiki.org/wiki/Lomography%20Simple%20Use"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

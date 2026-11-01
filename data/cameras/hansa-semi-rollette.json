@@ -1,0 +1,29 @@
+{
+  "id": "hansa-semi-rollette",
+  "brand": "Hansa",
+  "brand_cn": "",
+  "brand_slug": "hansa",
+  "country": "待补充",
+  "manufacturer": "Hansa",
+  "model": "Semi Rollette",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hansa折叠相机，1936 年发布",
+  "description": "The Hansa Semi Rollette The name is spelled \"Hanza Semi Rollette\" in , p.339, but this is a typo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hansa Semi Rollette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hansa Semi Rollette",
+      "url": "https://camera-wiki.org/wiki/Hansa%20Semi%20Rollette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-instant-pro",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Instant Pro",
+  "year": 1990,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达一次成像相机，1990 年发布",
+  "description": "Introduced in 1990, the Minolta Instant Pro was very similar to the Polaroid Spectra Pro, and uses Polaroid Spectra film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Instant Pro"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Instant Pro",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Instant%20Pro"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

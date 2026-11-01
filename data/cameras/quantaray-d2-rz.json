@@ -1,0 +1,29 @@
+{
+  "id": "quantaray-d2-rz",
+  "brand": "Quantaray",
+  "brand_cn": "",
+  "brand_slug": "quantaray",
+  "country": "待补充",
+  "manufacturer": "Quantaray",
+  "model": "D2-RZ",
+  "year": 1978,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Quantaray数码单反相机，1978 年发布",
+  "description": "US retailer Ritz Camera announced the Delta 2 RZ or D2-RZ in late 1978.The editors of Modern Photography [https://www.flickr.com/photos/camerawiki/52802455583/in/pool-camerawiki/ were given details] after that year's Photokina.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Quantaray D2-RZ"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Quantaray D2-RZ",
+      "url": "https://camera-wiki.org/wiki/Quantaray%20D2-RZ"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

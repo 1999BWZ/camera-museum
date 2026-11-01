@@ -1,0 +1,29 @@
+{
+  "id": "vena-box",
+  "brand": "Vena",
+  "brand_cn": "",
+  "brand_slug": "vena",
+  "country": "荷兰",
+  "manufacturer": "Vena",
+  "model": "Box",
+  "year": 1949,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vena盒式相机，1949 年发布",
+  "description": "The Vena is a box camera made by Vena in Amsterdam.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vena Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vena Box",
+      "url": "https://camera-wiki.org/wiki/Vena%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

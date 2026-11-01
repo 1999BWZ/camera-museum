@@ -1,0 +1,29 @@
+{
+  "id": "canon-af-32-prima-junior-af",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "AF 32/Prima Junior AF",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1995 年发布",
+  "description": "The Canon Prima Junior AF (or simply AF 32 in America) is a budget compact autofocus camera released in 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon AF 32/Prima Junior AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon AF 32/Prima Junior AF",
+      "url": "https://camera-wiki.org/wiki/Canon%20AF%2032/Prima%20Junior%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

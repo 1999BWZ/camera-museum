@@ -1,0 +1,29 @@
+{
+  "id": "exakta-exa-1b",
+  "brand": "Exakta",
+  "brand_cn": "",
+  "brand_slug": "exakta",
+  "country": "待补充",
+  "manufacturer": "Exakta",
+  "model": "Exa 1b",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Exakta胶片单反相机，1977 年发布",
+  "description": "The Exa 1b is a 35mm film SLR camera, manufactured by VEB Pentacon, former East Germany, and produced between 1977-85.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Exa 1b"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Exa 1b",
+      "url": "https://camera-wiki.org/wiki/Exa%201b"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

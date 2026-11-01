@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-vito-automatic",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Vito Automatic",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer取景器相机，1961 年发布",
+  "description": "The Vito Automatic was introduced in the early 1960's by Voigtländer; and is a continuation of the fixed lens VITO C series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vito Automatic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vito Automatic",
+      "url": "https://camera-wiki.org/wiki/Vito%20Automatic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

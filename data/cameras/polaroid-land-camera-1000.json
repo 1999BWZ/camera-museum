@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-land-camera-1000",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Land Camera 1000",
+  "year": 2012,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来胶片单反相机，2012 年发布",
+  "description": "The Land Camera 1000 is a plastic-bodied, non-folding consumer camera that uses SX-70 integral film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Land Camera 1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Land Camera 1000",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Land%20Camera%201000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

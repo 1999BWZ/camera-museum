@@ -1,0 +1,29 @@
+{
+  "id": "peace-and-micky",
+  "brand": "Peace",
+  "brand_cn": "",
+  "brand_slug": "peace",
+  "country": "待补充",
+  "manufacturer": "Peace",
+  "model": "and Micky",
+  "year": 1949,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Peace微型相机，1949 年发布",
+  "description": "__NOTOC__ \n\nThe Peace and Micky are Japanese subminiature cameras made in the late 1940s or early 1950s, taking 14×14mm pictures on 17.5mm paper backed rollfilm.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Peace and Micky"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Peace and Micky",
+      "url": "https://camera-wiki.org/wiki/Peace%20and%20Micky"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

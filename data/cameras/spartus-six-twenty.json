@@ -1,0 +1,29 @@
+{
+  "id": "spartus-six-twenty",
+  "brand": "Spartus",
+  "brand_cn": "",
+  "brand_slug": "spartus",
+  "country": "美国",
+  "manufacturer": "Spartus",
+  "model": "Six Twenty",
+  "year": 1950,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spartus胶片相机，1950 年发布",
+  "description": "A nicely-styled pseudo-TLR from Herold Products Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Spartus Six Twenty"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Spartus Six Twenty",
+      "url": "https://camera-wiki.org/wiki/Spartus%20Six%20Twenty"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

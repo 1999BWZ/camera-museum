@@ -1,0 +1,29 @@
+{
+  "id": "beier-beirette-sl-300",
+  "brand": "Beier",
+  "brand_cn": "",
+  "brand_slug": "beier",
+  "country": "待补充",
+  "manufacturer": "Beier",
+  "model": "Beirette SL 300",
+  "year": 1970,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beier便携相机，1970 年发布",
+  "description": "The Beirette SL 300 was made by the East German company Woldemar Beier KG in Freital from 1970 well into 1980s, being one of the more advanced cameras of the SL System.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Beirette SL 300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Beirette SL 300",
+      "url": "https://camera-wiki.org/wiki/Beirette%20SL%20300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

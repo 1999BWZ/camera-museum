@@ -1,0 +1,29 @@
+{
+  "id": "kodak-target-brownie-six-16",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Target Brownie Six-16",
+  "year": 1941,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1941 年发布",
+  "description": "The Kodak Target Brownie Six-16 was a box camera made by Kodak.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Target Brownie Six-16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Target Brownie Six-16",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Target%20Brownie%20Six-16"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-4x4-prewar-series",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex 4x4 prewar series",
+  "year": 1931,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1931 年发布",
+  "description": "The Rolleiflex 4x4 is a small format TLR camera manufactured by Franke & Heidecke.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex 4x4 prewar series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex 4x4 prewar series",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%204x4%20prewar%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-lumix-dmc-gh3",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "Lumix DMC-GH3",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2012 年发布",
+  "description": "The Panasonic Lumix DMC-GH3 was launched in 2012 and is a quite heavy compact digital system camera body for the Micro Four Thirds system, heavier than the classic Lumix G1 of 2008, the first µ4/3 camera, and its sister for video-freaks, the Lumix GH1.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic Lumix DMC-GH3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic Lumix DMC-GH3",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20Lumix%20DMC-GH3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

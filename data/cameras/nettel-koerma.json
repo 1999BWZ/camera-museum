@@ -1,0 +1,29 @@
+{
+  "id": "nettel-koerma",
+  "brand": "Nettel",
+  "brand_cn": "",
+  "brand_slug": "nettel",
+  "country": "待补充",
+  "manufacturer": "Nettel",
+  "model": "Koerma",
+  "year": 1902,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nettel折叠相机，1902 年发布",
+  "description": "The Koerma is a strut-folding plate camera, first made in about 1902-3 by Körner und Mayer, the company which became Nettel Kamerawerk; p713.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Koerma"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Koerma",
+      "url": "https://camera-wiki.org/wiki/Koerma"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

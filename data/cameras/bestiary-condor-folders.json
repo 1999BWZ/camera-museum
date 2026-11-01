@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-condor-folders",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "待补充",
+  "manufacturer": "Bestiary",
+  "model": "Condor folders",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary折叠相机，1939 年发布",
+  "description": "The Condor is a series of Japanese 4.5×6 and 6×6 folders, made from 1939 by Motodori, Date: advertisements and articles listed in , pp.336–7.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Condor folders"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Condor folders",
+      "url": "https://camera-wiki.org/wiki/Condor%20folders"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

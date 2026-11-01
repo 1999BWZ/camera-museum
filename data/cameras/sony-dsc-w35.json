@@ -1,0 +1,40 @@
+{
+  "id": "sony-dsc-w35",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSC-W35",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2007 年发布",
+  "description": "索尼于2007年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q10373386",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Cyber-shot%20DSC-W35%20front.jpg?width=800",
+      "caption": "DSC-W35",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q10373386"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSC-W35",
+      "url": "https://www.wikidata.org/wiki/Q10373386"
+    }
+  ],
+  "qid": "Q10373386",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

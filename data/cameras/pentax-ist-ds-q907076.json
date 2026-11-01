@@ -1,0 +1,40 @@
+{
+  "id": "pentax-ist-ds-q907076",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "*ist DS",
+  "year": 2004,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，2004 年发布",
+  "description": "宾得于2004年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q907076",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20ist%20DS%20front.jpg?width=800",
+      "caption": "*ist DS",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q907076"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax *ist DS",
+      "url": "https://www.wikidata.org/wiki/Q907076"
+    }
+  ],
+  "qid": "Q907076",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

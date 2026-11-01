@@ -1,0 +1,29 @@
+{
+  "id": "argus-40",
+  "brand": "Argus",
+  "brand_cn": "",
+  "brand_slug": "argus",
+  "country": "美国",
+  "manufacturer": "Argus",
+  "model": "40",
+  "year": 1950,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Argus胶片相机，1950 年发布",
+  "description": "Argus introduced the \"Argoflex Model\" in 1950, but it was only offered for a few months.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Argus 40"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Argus 40",
+      "url": "https://camera-wiki.org/wiki/Argus%2040"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

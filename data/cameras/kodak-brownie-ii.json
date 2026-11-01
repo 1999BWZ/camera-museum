@@ -1,0 +1,29 @@
+{
+  "id": "kodak-brownie-ii",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Brownie II",
+  "year": 1987,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1987 年发布",
+  "description": "The Kodak Brownie II is a 110 film pocket camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Brownie II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Brownie II",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Brownie%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

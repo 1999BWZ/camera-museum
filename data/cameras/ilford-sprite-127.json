@@ -1,0 +1,29 @@
+{
+  "id": "ilford-sprite-127",
+  "brand": "Ilford",
+  "brand_cn": "",
+  "brand_slug": "ilford",
+  "country": "待补充",
+  "manufacturer": "Ilford",
+  "model": "Sprite 127",
+  "year": 1962,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ilford胶片相机，1962 年发布",
+  "description": "The Ilford Sprite is a basic 127 film camera, introduced by Ilford in 1962.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ilford Sprite 127"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ilford Sprite 127",
+      "url": "https://camera-wiki.org/wiki/Ilford%20Sprite%20127"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

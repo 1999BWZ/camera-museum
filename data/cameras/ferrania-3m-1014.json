@@ -1,0 +1,29 @@
+{
+  "id": "ferrania-3m-1014",
+  "brand": "Ferrania",
+  "brand_cn": "",
+  "brand_slug": "ferrania",
+  "country": "意大利",
+  "manufacturer": "Ferrania",
+  "model": "3M 1014",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ferrania胶片相机，1973 年发布",
+  "description": "The Ferrania 3M 1014 camera was made in Italy by Ferrania in the 1973.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ferrania 3M 1014"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ferrania 3M 1014",
+      "url": "https://camera-wiki.org/wiki/Ferrania%203M%201014"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

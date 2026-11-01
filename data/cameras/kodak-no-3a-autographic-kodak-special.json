@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-3a-autographic-kodak-special",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 3A Autographic Kodak Special",
+  "year": 1916,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1916 年发布",
+  "description": "A historically significant model, this is thought to be the first coupled rangefinder camera model ever sold, beginning circa 1916[https://www.kodak.com/en/company/page/milestones History of Kodak Cameras] at [https://www.kodak.com/en/company/home the Kodak Company].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 3A Autographic Kodak Special"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 3A Autographic Kodak Special",
+      "url": "https://camera-wiki.org/wiki/No.%203A%20Autographic%20Kodak%20Special"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

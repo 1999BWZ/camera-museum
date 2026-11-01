@@ -1,0 +1,29 @@
+{
+  "id": "pentax-optio-33l",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Optio 33L",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2003 年发布",
+  "description": "{|class=floatright\n\n|-\n|\n\n|}\nThe Optio 33L was a 3.2 megapixel digital camera made by Pentax, which has been discontinued.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Optio 33L"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Optio 33L",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Optio%2033L"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

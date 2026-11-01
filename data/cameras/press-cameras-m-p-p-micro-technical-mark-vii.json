@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-m-p-p-micro-technical-mark-vii",
+  "brand": "Press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "英国",
+  "manufacturer": "Press cameras",
+  "model": "M.P.P. Micro Technical Mark VII",
+  "year": 1956,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Press cameras折叠相机，1956 年发布",
+  "description": "MPP's Micro Technical Mark ...",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "M.P.P. Micro Technical Mark VII"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – M.P.P. Micro Technical Mark VII",
+      "url": "https://camera-wiki.org/wiki/M.P.P.%20Micro%20Technical%20Mark%20VII"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

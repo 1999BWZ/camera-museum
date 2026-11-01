@@ -1,0 +1,29 @@
+{
+  "id": "kodak-ek300",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "EK300",
+  "year": 1978,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达一次成像相机，1978 年发布",
+  "description": "A more sophisticated model of the Kodak instant film cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak EK300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak EK300",
+      "url": "https://camera-wiki.org/wiki/Kodak%20EK300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

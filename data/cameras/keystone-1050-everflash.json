@@ -1,0 +1,29 @@
+{
+  "id": "keystone-1050-everflash",
+  "brand": "Keystone",
+  "brand_cn": "",
+  "brand_slug": "keystone",
+  "country": "美国",
+  "manufacturer": "Keystone",
+  "model": "1050 Everflash",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Keystone胶片相机，1983 年发布",
+  "description": "The Keystone 1050 Everflash is a camera for the briefly popular but ultimately unsuccessful disc film format of the 1980s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Keystone 1050 Everflash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Keystone 1050 Everflash",
+      "url": "https://camera-wiki.org/wiki/Keystone%201050%20Everflash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-land-model-100",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Land Model 100",
+  "year": 1963,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1963 年发布",
+  "description": "The Land Camera 100, or Land Camera Automatic 100 is a folding coupled rangefinder camera for Polaroid 100-series instant pack film, made from 1963 to 1966 in Little Rock, Arkansas.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Land Model 100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Land Model 100",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Land%20Model%20100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

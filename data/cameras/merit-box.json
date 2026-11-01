@@ -1,0 +1,29 @@
+{
+  "id": "merit-box",
+  "brand": "Merit",
+  "brand_cn": "",
+  "brand_slug": "merit",
+  "country": "待补充",
+  "manufacturer": "Merit",
+  "model": "Box",
+  "year": 1933,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Merit盒式相机，1933 年发布",
+  "description": "The Merit Box is a bakelite-bodied box camera for 4x6.5-cm pictures on 127 film, made from about 1933 by Merten Brothers of Gummersbach, North Rhein-Westphalia in Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Merit Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Merit Box",
+      "url": "https://camera-wiki.org/wiki/Merit%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

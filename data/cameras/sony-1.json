@@ -1,0 +1,29 @@
+{
+  "id": "sony-1",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "α1",
+  "year": 2021,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2021 年发布",
+  "description": "α1\nCategory:Japanese digital system cameras\nα1 Sony\nCategory:S\nCategory:2021",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony α1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony α1",
+      "url": "https://camera-wiki.org/wiki/Sony%20%CE%B11"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

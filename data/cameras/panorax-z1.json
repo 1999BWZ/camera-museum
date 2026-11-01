@@ -1,0 +1,29 @@
+{
+  "id": "panorax-z1",
+  "brand": "Panorax",
+  "brand_cn": "",
+  "brand_slug": "panorax",
+  "country": "待补充",
+  "manufacturer": "Panorax",
+  "model": "Z1",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Panorax全景相机，1959 年发布",
+  "description": "The Panorax Z1 p771.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panorax Z1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panorax Z1",
+      "url": "https://camera-wiki.org/wiki/Panorax%20Z1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

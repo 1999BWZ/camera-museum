@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-ultrix",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Ultrix",
+  "year": 1922,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee折叠相机，1922 年发布",
+  "description": "The Ultrix is a series of self-unfolding and non self-unfolding roll film cameras made by Ihagee, Dresden in the period 1922[https://www.flickr.com/photos/29504544@N08/38957797071 Ihagee Ultrix advertisement August 1922] on Flickr/1939.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ultrix"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ultrix",
+      "url": "https://camera-wiki.org/wiki/Ultrix"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

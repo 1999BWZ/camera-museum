@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-owl-pf-af-7s-prima-af-9-s",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot Owl PF/AF-7S/Prima AF-9 S",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2000 年发布",
+  "description": "The Canon Sure Shot AF-7S (also sold as Sure Shot Owl PF or Prima AF-9 S) is a 35mm autofocus compact made by Canon as part of it's Sure Shot Series with a fixed length 35mm lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot Owl PF/AF-7S/Prima AF-9 S (Date)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot Owl PF/AF-7S/Prima AF-9 S (Date)",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20Owl%20PF/AF-7S/Prima%20AF-9%20S%20%28Date%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

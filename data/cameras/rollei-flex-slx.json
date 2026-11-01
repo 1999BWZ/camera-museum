@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-slx",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex SLX",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片单反相机，1976 年发布",
+  "description": "The Rolleiflex SLX is an SLR camera for 120 or 220 film, made by Rolleiwerke Franke and Heidecke (Rollei) from 1976.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex SLX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex SLX",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%20SLX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

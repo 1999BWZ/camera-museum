@@ -1,0 +1,29 @@
+{
+  "id": "minolta-hi-matic-g",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Hi-Matic G",
+  "year": 1974,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达取景器相机，1974 年发布",
+  "description": "The Minolta Hi-Matic G is a compact viewfinder camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Hi-Matic G"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Hi-Matic G",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Hi-Matic%20G"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

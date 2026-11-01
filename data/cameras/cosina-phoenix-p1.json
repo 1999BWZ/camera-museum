@@ -1,0 +1,29 @@
+{
+  "id": "cosina-phoenix-p1",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "Phoenix P1",
+  "year": 1999,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina数码单反相机，1999 年发布",
+  "description": "The New York area company Phoenix had been a distributor of third-party lenses and flashes, when in 1999 they branched out to offer the Phoenix P1 and P2 35mm SLR cameras.As seen in [https://books.google.com/books?id=vycjsc5OjtwC&dq=Popular+Photography&q=Phoenix#v=onepage&q=%22back%20to%20basics%22&",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Phoenix P1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Phoenix P1",
+      "url": "https://camera-wiki.org/wiki/Phoenix%20P1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

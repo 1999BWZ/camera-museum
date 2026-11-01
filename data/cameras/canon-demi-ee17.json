@@ -1,0 +1,29 @@
+{
+  "id": "canon-demi-ee17",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Demi EE17",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能取景器相机，1959 年发布",
+  "description": "The Canon Demi is a half frame camera, 'Demi' being the French word for \"half\".",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Demi EE17"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Demi EE17",
+      "url": "https://camera-wiki.org/wiki/Canon%20Demi%20EE17"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

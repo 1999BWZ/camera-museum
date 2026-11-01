@@ -1,0 +1,29 @@
+{
+  "id": "makinon-mk-ii",
+  "brand": "Makinon",
+  "brand_cn": "",
+  "brand_slug": "makinon",
+  "country": "待补充",
+  "manufacturer": "Makinon",
+  "model": "MK-II",
+  "year": 1982,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Makinon取景器相机，1982 年发布",
+  "description": "{|class=floatright\n |\n\n|-\n|\n\n|}\nThe Makinon MK-II is a simple camera for 35mm film dating from circa 1982, produced by Makina Optical.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Makinon MK-II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Makinon MK-II",
+      "url": "https://camera-wiki.org/wiki/Makinon%20MK-II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

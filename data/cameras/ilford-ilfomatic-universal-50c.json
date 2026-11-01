@@ -1,0 +1,29 @@
+{
+  "id": "ilford-ilfomatic-universal-50c",
+  "brand": "Ilford",
+  "brand_cn": "",
+  "brand_slug": "ilford",
+  "country": "待补充",
+  "manufacturer": "Ilford",
+  "model": "Ilfomatic Universal 50C",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ilford胶片相机，1968 年发布",
+  "description": "This simple camera for 126 film cartridges was introduced by Ilford circa 1968.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ilford Ilfomatic Universal 50C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ilford Ilfomatic Universal 50C",
+      "url": "https://camera-wiki.org/wiki/Ilford%20Ilfomatic%20Universal%2050C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

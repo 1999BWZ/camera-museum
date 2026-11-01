@@ -1,0 +1,29 @@
+{
+  "id": "minolta-auto-semi-minolta",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Auto Semi Minolta",
+  "year": 1937,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1937 年发布",
+  "description": "The Auto Semi Minolta (オート・セミ・ミノルタ) is a Japanese 4.5×6 folding rangefinder camera, released in 1937 and available at least until 1943.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Auto Semi Minolta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Auto Semi Minolta",
+      "url": "https://camera-wiki.org/wiki/Auto%20Semi%20Minolta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "canon-ixus-aps-cameras",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "IXUS APS cameras",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1996 年发布",
+  "description": "Canon introduced their first IXUS camera along with the introduction of APS film in 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "IXUS APS cameras"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – IXUS APS cameras",
+      "url": "https://camera-wiki.org/wiki/IXUS%20APS%20cameras"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

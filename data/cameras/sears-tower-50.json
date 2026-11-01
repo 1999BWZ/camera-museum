@@ -1,0 +1,29 @@
+{
+  "id": "sears-tower-50",
+  "brand": "Sears",
+  "brand_cn": "",
+  "brand_slug": "sears",
+  "country": "待补充",
+  "manufacturer": "Sears",
+  "model": "Tower 50",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sears取景器相机，1954 年发布",
+  "description": "The Tower 50 was a rebranding by Sears of two 1950s models from Iloca, the Quick L and Quick R.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tower 50"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tower 50",
+      "url": "https://camera-wiki.org/wiki/Tower%2050"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

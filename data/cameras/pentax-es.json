@@ -1,0 +1,29 @@
+{
+  "id": "pentax-es",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "ES",
+  "year": 1972,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，1972 年发布",
+  "description": "{|class=floatright plainlinks\n|\n\n|\n|-\n|\n\n|-\n||\n|-\n||\n\n\n|-\n|}\nThe Pentax ES was announced by Asahi in 1971, as a continuation of their succesful Spotmatic cameras, as the world's first SLR with 'fully-automatic electronic shutter'.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax ES"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax ES",
+      "url": "https://camera-wiki.org/wiki/Pentax%20ES"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

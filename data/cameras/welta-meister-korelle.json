@@ -1,0 +1,29 @@
+{
+  "id": "welta-meister-korelle",
+  "brand": "Welta",
+  "brand_cn": "",
+  "brand_slug": "welta",
+  "country": "待补充",
+  "manufacturer": "Welta",
+  "model": "Meister-Korelle",
+  "year": 1950,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Welta胶片单反相机，1950 年发布",
+  "description": "The Meister-Korelle, made by VEB WEFO and then Welta from 1950-52,WEFO was taken over by Welta in 1951 (both were state-operated companies) The last cameras were branded for Welta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Meister-Korelle"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Meister-Korelle",
+      "url": "https://camera-wiki.org/wiki/Meister-Korelle"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

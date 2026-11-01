@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-35r",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "35R",
+  "year": 1999,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1999 年发布",
+  "description": "The Ricoh 35R is a 35mm autofocus point & shoot camera produced in 1999.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh 35R"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh 35R",
+      "url": "https://camera-wiki.org/wiki/Ricoh%2035R"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lumi-re-ludax",
+  "brand": "Lumière",
+  "brand_cn": "",
+  "brand_slug": "lumi-re",
+  "country": "法国",
+  "manufacturer": "Lumière",
+  "model": "Ludax",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lumière折叠相机，1950 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Ludax is a folding camera taking 6&times;9 cm images on 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ludax"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ludax",
+      "url": "https://camera-wiki.org/wiki/Ludax"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

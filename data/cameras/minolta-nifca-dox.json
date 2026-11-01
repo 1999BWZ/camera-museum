@@ -1,0 +1,29 @@
+{
+  "id": "minolta-nifca-dox",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Nifca-Dox",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达折叠相机，1930 年发布",
+  "description": "The Nifca-Dox (ニフカドックス) is a Japanese strut folding camera taking 6.5×9cm film plates or pack film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nifca-Dox"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nifca-Dox",
+      "url": "https://camera-wiki.org/wiki/Nifca-Dox"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

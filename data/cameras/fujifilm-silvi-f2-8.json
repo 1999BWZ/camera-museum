@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-silvi-f2-8",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "Silvi F2.8",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士便携相机，2003 年发布",
+  "description": "The Fujifilm Silvi F2.8 is a 35mm autofocus compact camera released in 2003.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm Silvi F2.8"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm Silvi F2.8",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20Silvi%20F2.8"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

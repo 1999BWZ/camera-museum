@@ -1,0 +1,29 @@
+{
+  "id": "goerz-goerz",
+  "brand": "Goerz",
+  "brand_cn": "",
+  "brand_slug": "goerz",
+  "country": "待补充",
+  "manufacturer": "Goerz",
+  "model": "Goerz",
+  "year": 1888,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Goerz胶片相机，1888 年发布",
+  "description": "Based in Berlin, Germany, C.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Goerz"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Goerz",
+      "url": "https://camera-wiki.org/wiki/Goerz"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

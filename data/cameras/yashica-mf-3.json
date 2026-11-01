@@ -1,0 +1,29 @@
+{
+  "id": "yashica-mf-3",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "MF-3",
+  "year": 1985,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡取景器相机，1985 年发布",
+  "description": "Introduced in the market in 1985, the MF-3 was the first Yashica camera produced exclusively in Brazil where 1.2 million units were manufactured.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica MF-3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica MF-3",
+      "url": "https://camera-wiki.org/wiki/Yashica%20MF-3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

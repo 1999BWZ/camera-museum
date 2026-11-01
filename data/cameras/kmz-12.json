@@ -1,0 +1,29 @@
+{
+  "id": "kmz-12",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "12",
+  "year": 1967,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ旁轴相机，1967 年发布",
+  "description": "The Zorki 12 was the last of the Zorki series, not being just a modification of the Zorki 11, but whole redesign.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zorki 12"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zorki 12",
+      "url": "https://camera-wiki.org/wiki/Zorki%2012"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

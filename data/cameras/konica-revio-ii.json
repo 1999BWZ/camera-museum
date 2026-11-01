@@ -1,0 +1,29 @@
+{
+  "id": "konica-revio-ii",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Revio II",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡便携相机，2001 年发布",
+  "description": "The Konica Revio II is an APS film compact camera with a zoom lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Revio II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Revio II",
+      "url": "https://camera-wiki.org/wiki/Konica%20Revio%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

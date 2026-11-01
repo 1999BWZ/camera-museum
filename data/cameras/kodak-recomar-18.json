@@ -1,0 +1,29 @@
+{
+  "id": "kodak-recomar-18",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Recomar 18",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达折叠相机，1932 年发布",
+  "description": "In 1932 Kodak acquired the Nagel camera works of Stuttgart, Germany, including their existing camera lines.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Recomar 18"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Recomar 18",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Recomar%2018"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

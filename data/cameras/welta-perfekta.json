@@ -1,0 +1,29 @@
+{
+  "id": "welta-perfekta",
+  "brand": "Welta",
+  "brand_cn": "",
+  "brand_slug": "welta",
+  "country": "待补充",
+  "manufacturer": "Welta",
+  "model": "Perfekta",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Welta折叠相机，1934 年发布",
+  "description": "There is also a Bakelite Perfekta 6x6 viewfinder camera made by VEB Rheinmetall.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Perfekta (TLR)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Perfekta (TLR)",
+      "url": "https://camera-wiki.org/wiki/Perfekta%20%28TLR%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leica-iiia",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "IIIa",
+  "year": 1935,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，1935 年发布",
+  "description": "The Leica IIIa, or Leica IIIa (G), is a 35mm rangefinder camera introduced by Leica in 1935 as an upgraded Leica III, adding a 1/1000s shutter speed.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica IIIa"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica IIIa",
+      "url": "https://camera-wiki.org/wiki/Leica%20IIIa"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

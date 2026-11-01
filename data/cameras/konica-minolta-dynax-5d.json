@@ -1,0 +1,29 @@
+{
+  "id": "konica-minolta-dynax-5d",
+  "brand": "Konica Minolta",
+  "brand_cn": "柯尼卡美能达",
+  "brand_slug": "konica-minolta",
+  "country": "日本",
+  "manufacturer": "Konica Minolta",
+  "model": "Dynax 5D",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡美能达数码相机，2005 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Konica Minolta Dynax 5D is a Digital SLR camera announced by Konica Minolta on July 15, 2005[https://www.konicaminolta.com/about/releases/2005/0715_03_01.html KONICA MINOLTA Dynax5D/Maxxum5D press release 2005/0715_03_01].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Minolta Dynax 5D"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Minolta Dynax 5D",
+      "url": "https://camera-wiki.org/wiki/Konica%20Minolta%20Dynax%205D"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

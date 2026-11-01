@@ -1,0 +1,29 @@
+{
+  "id": "kyocera-socius",
+  "brand": "Kyocera",
+  "brand_cn": "",
+  "brand_slug": "kyocera",
+  "country": "待补充",
+  "manufacturer": "Kyocera",
+  "model": "Socius",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kyocera便携相机，2000 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Socius is a compact camera for APS film offered by Kyocera, circa 2000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kyocera Socius"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kyocera Socius",
+      "url": "https://camera-wiki.org/wiki/Kyocera%20Socius"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

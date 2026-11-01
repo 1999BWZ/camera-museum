@@ -1,0 +1,29 @@
+{
+  "id": "yashica-t4",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "T4",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡便携相机，1994 年发布",
+  "description": "The Yashica T4 (also known as the Kyocera Slim T) was a 35mm compact camera from Kyocera with a high quality lens and a viewing window (waist-level finder) on the top of the body.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica T4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica T4",
+      "url": "https://camera-wiki.org/wiki/Yashica%20T4"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

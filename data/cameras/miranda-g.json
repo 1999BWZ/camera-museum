@@ -1,0 +1,29 @@
+{
+  "id": "miranda-g",
+  "brand": "Miranda",
+  "brand_cn": "",
+  "brand_slug": "miranda",
+  "country": "待补充",
+  "manufacturer": "Miranda",
+  "model": "G",
+  "year": 1965,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Miranda数码单反相机，1965 年发布",
+  "description": "The Miranda G is a 35mm SLR camera introduced in 1965.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miranda G"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miranda G",
+      "url": "https://camera-wiki.org/wiki/Miranda%20G"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

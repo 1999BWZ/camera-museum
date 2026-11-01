@@ -1,0 +1,29 @@
+{
+  "id": "kigawa-carl-six",
+  "brand": "Kigawa",
+  "brand_cn": "",
+  "brand_slug": "kigawa",
+  "country": "待补充",
+  "manufacturer": "Kigawa",
+  "model": "Carl Six",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kigawa折叠相机，1952 年发布",
+  "description": "The Carl Six or Carl-6 The camera itself is engraved Carl-6 but the advertisements are labelled \"Carl Six\".",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Carl Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Carl Six",
+      "url": "https://camera-wiki.org/wiki/Carl%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

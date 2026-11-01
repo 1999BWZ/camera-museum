@@ -1,0 +1,29 @@
+{
+  "id": "minolta-sky",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Sky",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1957 年发布",
+  "description": "== Minolta Sky ==\nThe Minolta Sky was an advanced 35mm rangefinder prototype, and as such only the one hundred or so pre-production units were finished.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Sky"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Sky",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Sky"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

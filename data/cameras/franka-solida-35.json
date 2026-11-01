@@ -1,0 +1,29 @@
+{
+  "id": "franka-solida-35",
+  "brand": "Franka",
+  "brand_cn": "",
+  "brand_slug": "franka",
+  "country": "待补充",
+  "manufacturer": "Franka",
+  "model": "Solida 35",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Franka旁轴相机，1957 年发布",
+  "description": "The Solida 35 is a leaf-shuttered 35mm rangefinder camera with interchangeable lenses made by Franka in 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Solida 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Solida 35",
+      "url": "https://camera-wiki.org/wiki/Solida%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

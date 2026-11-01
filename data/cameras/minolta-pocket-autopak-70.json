@@ -1,0 +1,29 @@
+{
+  "id": "minolta-pocket-autopak-70",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Pocket Autopak 70",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1973 年发布",
+  "description": "*Type: pocket camera\n*Manufacturer: Minolta\n*Year of release: 1973\n*Films: Type 110 16mm film cartridges\n*Lens: Rokkor 1:3.5/26mm (4 elements), additional close-up (50cm) element combined with viewfinder yellow filter shiftable in front of lens and finder\n*Focusing: shifter on top with one distance ",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Pocket Autopak 70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Pocket Autopak 70",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Pocket%20Autopak%2070"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

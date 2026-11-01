@@ -1,0 +1,29 @@
+{
+  "id": "sony-dsc-s650",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "DSC-S650",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2007 年发布",
+  "description": "The Sony Cyber-shot DSC-S650 is an entry level compact digital camera, launched in 2007 by Sony.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony DSC-S650"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony DSC-S650",
+      "url": "https://camera-wiki.org/wiki/Sony%20DSC-S650"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

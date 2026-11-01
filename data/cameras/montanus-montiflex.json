@@ -1,0 +1,29 @@
+{
+  "id": "montanus-montiflex",
+  "brand": "Montanus",
+  "brand_cn": "",
+  "brand_slug": "montanus",
+  "country": "待补充",
+  "manufacturer": "Montanus",
+  "model": "Montiflex",
+  "year": 1956,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Montanus胶片相机，1956 年发布",
+  "description": "Note: a different Montanus Montiflex which lacks the curved bevel above the viewing lens is a name variant of the Montanus Delmonta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Montiflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Montiflex",
+      "url": "https://camera-wiki.org/wiki/Montiflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

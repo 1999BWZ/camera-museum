@@ -1,0 +1,29 @@
+{
+  "id": "linhof-aero-press",
+  "brand": "Linhof",
+  "brand_cn": "",
+  "brand_slug": "linhof",
+  "country": "待补充",
+  "manufacturer": "Linhof",
+  "model": "Aero Press",
+  "year": 1963,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Linhof胶片相机，1963 年发布",
+  "description": "The Aero Press is an aerial camera for 6x7 exposures, made by Linhof.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Linhof Aero Press"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Linhof Aero Press",
+      "url": "https://camera-wiki.org/wiki/Linhof%20Aero%20Press"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-necono-digital-camera",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "中国",
+  "manufacturer": "Bestiary",
+  "model": "Necono digital camera",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary数码相机，2010 年发布",
+  "description": "The Necono digital camera is a novelty digital camera marketed as a Powershovel/Superheadz product in 2010-11.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Necono digital camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Necono digital camera",
+      "url": "https://camera-wiki.org/wiki/Necono%20digital%20camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

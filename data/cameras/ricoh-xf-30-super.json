@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-xf-30-super",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "XF-30 Super",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1990 年发布",
+  "description": "The XF-30 Super is a point-and-shoot camera introduced by Japanese manufacturer Ricoh in 1990.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh XF-30 Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh XF-30 Super",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20XF-30%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

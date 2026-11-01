@@ -1,0 +1,29 @@
+{
+  "id": "coronet-cub",
+  "brand": "Coronet",
+  "brand_cn": "",
+  "brand_slug": "coronet",
+  "country": "英国",
+  "manufacturer": "Coronet",
+  "model": "Cub",
+  "year": 1939,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Coronet胶片相机，1939 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Cub name was also used for a small plastic 828 camera, made for a US marketing promotion.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Coronet Cub"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Coronet Cub",
+      "url": "https://camera-wiki.org/wiki/Coronet%20Cub"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

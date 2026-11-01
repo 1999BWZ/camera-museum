@@ -1,0 +1,29 @@
+{
+  "id": "spy-kids-110-camera",
+  "brand": "Spy",
+  "brand_cn": "",
+  "brand_slug": "spy",
+  "country": "中国",
+  "manufacturer": "Spy",
+  "model": "Kids 110 Camera",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spy玩具相机，2001 年发布",
+  "description": "The Spy Kids camera was an inexpensive 110-format point and shoot camera given away as a toy in McDonald's Happy Meals in 2001.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Spy Kids 110 Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Spy Kids 110 Camera",
+      "url": "https://camera-wiki.org/wiki/Spy%20Kids%20110%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "beauty-35-super",
+  "brand": "Beauty",
+  "brand_cn": "",
+  "brand_slug": "beauty",
+  "country": "待补充",
+  "manufacturer": "Beauty",
+  "model": "35 Super",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beauty旁轴相机，1956 年发布",
+  "description": "The Beauty 35 Super is a 35mm coupled rangefinder introduced in 1956 by the Japanese company Taiyōdō.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Beauty 35 Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Beauty 35 Super",
+      "url": "https://camera-wiki.org/wiki/Beauty%2035%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

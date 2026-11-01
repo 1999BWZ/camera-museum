@@ -1,0 +1,29 @@
+{
+  "id": "kyocera-finecam-s5",
+  "brand": "Kyocera",
+  "brand_cn": "",
+  "brand_slug": "kyocera",
+  "country": "待补充",
+  "manufacturer": "Kyocera",
+  "model": "Finecam S5",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kyocera数码相机，2003 年发布",
+  "description": "The Finecam S5 is a digital camera released in 2003 by Kyocera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kyocera Finecam S5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kyocera Finecam S5",
+      "url": "https://camera-wiki.org/wiki/Kyocera%20Finecam%20S5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

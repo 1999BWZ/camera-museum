@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d3000",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D3000",
+  "year": 2009,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2009 年发布",
+  "description": "尼康于2009年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q612433",
+    "多语言词条数": "21"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D3000%20DSLR%20by%20Davit%20Sharyan%20%28adjusted%29.jpg?width=800",
+      "caption": "D3000",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q612433"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D3000",
+      "url": "https://www.wikidata.org/wiki/Q612433"
+    }
+  ],
+  "qid": "Q612433",
+  "sitelinks": 21,
+  "imported": "wikidata-5k-2026-11-01"
+}

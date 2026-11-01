@@ -1,0 +1,29 @@
+{
+  "id": "vokar-i",
+  "brand": "Vokar",
+  "brand_cn": "",
+  "brand_slug": "vokar",
+  "country": "美国",
+  "manufacturer": "Vokar",
+  "model": "I",
+  "year": 1946,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vokar旁轴相机，1946 年发布",
+  "description": "The Vokar I camera had been designed by Richard Bills before WWII Lahue, Kalton C.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vokar I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vokar I",
+      "url": "https://camera-wiki.org/wiki/Vokar%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

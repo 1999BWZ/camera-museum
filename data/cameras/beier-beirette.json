@@ -1,0 +1,29 @@
+{
+  "id": "beier-beirette",
+  "brand": "Beier",
+  "brand_cn": "",
+  "brand_slug": "beier",
+  "country": "待补充",
+  "manufacturer": "Beier",
+  "model": "Beirette",
+  "year": 1970,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beier取景器相机，1970 年发布",
+  "description": "Beirette was a name applied to a long sequence of compact 35mm viewfinder camera models, made from 1958 to the 1980s in East Germany by Beier.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Beirette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Beirette",
+      "url": "https://camera-wiki.org/wiki/Beirette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

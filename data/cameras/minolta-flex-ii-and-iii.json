@@ -1,0 +1,29 @@
+{
+  "id": "minolta-flex-ii-and-iii",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "flex II and III",
+  "year": 1937,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1937 年发布",
+  "description": "The Minoltaflex is a series of TLR (twin lens reflex) cameras for 120 film made by Chiyoda Kōgaku (later Minolta) from 1937 until the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minoltaflex II and III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minoltaflex II and III",
+      "url": "https://camera-wiki.org/wiki/Minoltaflex%20II%20and%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

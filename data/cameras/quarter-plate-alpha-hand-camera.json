@@ -1,0 +1,29 @@
+{
+  "id": "quarter-plate-alpha-hand-camera",
+  "brand": "Quarter plate",
+  "brand_cn": "",
+  "brand_slug": "quarter-plate",
+  "country": "英国",
+  "manufacturer": "Quarter plate",
+  "model": "Alpha hand camera",
+  "year": 1896,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Quarter plate折叠相机，1896 年发布",
+  "description": "The Alpha is a folding hand camera, made from 1892 by Watson of London.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Alpha hand camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Alpha hand camera",
+      "url": "https://camera-wiki.org/wiki/Alpha%20hand%20camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

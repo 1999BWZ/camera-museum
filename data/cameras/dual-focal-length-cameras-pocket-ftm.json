@@ -1,0 +1,29 @@
+{
+  "id": "dual-focal-length-cameras-pocket-ftm",
+  "brand": "Dual focal length cameras",
+  "brand_cn": "",
+  "brand_slug": "dual-focal-length-cameras",
+  "country": "待补充",
+  "manufacturer": "Dual focal length cameras",
+  "model": "Pocket FTM",
+  "year": 1981,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dual focal length cameras胶片相机，1981 年发布",
+  "description": "The Revue Pocket FTM is a pocket camera for cassette film of the popular miniature film type 110.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revue Pocket FTM"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revue Pocket FTM",
+      "url": "https://camera-wiki.org/wiki/Revue%20Pocket%20FTM"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

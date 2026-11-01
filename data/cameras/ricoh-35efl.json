@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-35efl",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "35EFL",
+  "year": 1981,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光取景器相机，1981 年发布",
+  "description": "Ricoh introduced the 35EFL in 1981 as a simple, inexpensive model for mass-market retailers.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh 35EFL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh 35EFL",
+      "url": "https://camera-wiki.org/wiki/Ricoh%2035EFL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

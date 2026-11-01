@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f-801",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F-801",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1988 年发布",
+  "description": "Nikon F-801 is a 35mm film SLR autofocus electronic camera, manufactured by Nikon Corporation, Japan and produced between 1988-1991.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F-801 (N8008)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F-801 (N8008)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F-801%20%28N8008%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

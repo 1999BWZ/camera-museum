@@ -1,0 +1,29 @@
+{
+  "id": "minolta-minoltina-al-s",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Minoltina AL-S",
+  "year": 1964,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1964 年发布",
+  "description": "The Minoltina AL-S aka Minoltina-s is a slim-bodied rangefinder camera from Minolta, made in 1964.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Minoltina AL-S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Minoltina AL-S",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Minoltina%20AL-S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

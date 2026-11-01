@@ -1,0 +1,29 @@
+{
+  "id": "kodak-tele-instamatic-608",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Tele-Instamatic 608",
+  "year": 1975,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1975 年发布",
+  "description": "The Kodak Tele-Instamatic 608 was among many 110 film cameras released by Kodak.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Tele-Instamatic 608"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Tele-Instamatic 608",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Tele-Instamatic%20608"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

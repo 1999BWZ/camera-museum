@@ -1,0 +1,29 @@
+{
+  "id": "seneca-pocket-seneca-no-30-no-31-and-no-32",
+  "brand": "Seneca",
+  "brand_cn": "",
+  "brand_slug": "seneca",
+  "country": "待补充",
+  "manufacturer": "Seneca",
+  "model": "Pocket Seneca No. 30, No. 31, and No. 32",
+  "year": 1913,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seneca折叠相机，1913 年发布",
+  "description": "Beginning in 1913, the folding bed camera cameras Pocket Seneca No.30, Pocket Seneca No.31 and Pocket Seneca No.32 were offered in a new design, for giving these cameras a common falling&rising front.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pocket Seneca No. 30, No. 31, and No. 32"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pocket Seneca No. 30, No. 31, and No. 32",
+      "url": "https://camera-wiki.org/wiki/Pocket%20Seneca%20No.%2030%2C%20No.%2031%2C%20and%20No.%2032"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

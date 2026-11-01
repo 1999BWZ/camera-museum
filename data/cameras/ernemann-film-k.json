@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-film-k",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Film K",
+  "year": 1915,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann盒式相机，1915 年发布",
+  "description": "The Film K series of rollfilm box cameras with simple standard shutter and slow lens existed at least since 1915.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Film K"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Film K",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Film%20K"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-600si-maxxum-600si",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 600si / Maxxum 600si",
+  "year": 1995,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1995 年发布",
+  "description": "__NOTOC__\n\nThis particular Minolta 35mm film AF SLR camera was identified as a Dynax 600si Classic in Europe, Maxxum 600si in North America.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 600si / Maxxum 600si"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 600si / Maxxum 600si",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%20600si%20/%20Maxxum%20600si"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

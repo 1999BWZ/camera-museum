@@ -1,0 +1,29 @@
+{
+  "id": "canon-flex",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "flex",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片单反相机，1959 年发布",
+  "description": "The Canonflex 35mm SLR camera was launched in May 1959 by the Canon Camera Co., Tokyo, Japan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canonflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canonflex",
+      "url": "https://camera-wiki.org/wiki/Canonflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nikon-zoom-210af-one-touch-zoom-70af",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Zoom 210AF/One•Touch Zoom 70AF",
+  "year": 1997,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1997 年发布",
+  "description": "The Zoom 210 is a 35mm compact camera from Nikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Zoom 210AF/One•Touch Zoom 70AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Zoom 210AF/One•Touch Zoom 70AF",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Zoom%20210AF/One%E2%80%A2Touch%20Zoom%2070AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

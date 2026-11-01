@@ -1,0 +1,29 @@
+{
+  "id": "minolta-af-s",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "AF-S",
+  "year": 1984,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1984 年发布",
+  "description": "{|style=\"float:right\"\n|colspan=\"2\"|\n\n|-\n|\n|\n|}\nA compact autofocus camera released around 1984, the Minolta AF-S is basically an AF-Sv (Talker) without the voice chip (or the other way around), with the other difference being a blue line on the right side instead of a red line.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta AF-S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta AF-S",
+      "url": "https://camera-wiki.org/wiki/Minolta%20AF-S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

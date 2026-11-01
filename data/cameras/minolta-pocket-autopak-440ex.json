@@ -1,0 +1,29 @@
+{
+  "id": "minolta-pocket-autopak-440ex",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Pocket Autopak 440Ex",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1979 年发布",
+  "description": "The Minolta Pocket Autopak 440Ex is a camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Pocket Autopak 440Ex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Pocket Autopak 440Ex",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Pocket%20Autopak%20440Ex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

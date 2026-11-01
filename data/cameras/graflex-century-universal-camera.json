@@ -1,0 +1,29 @@
+{
+  "id": "graflex-century-universal-camera",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "Graflex",
+  "model": "Century Universal Camera",
+  "year": 1929,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲大画幅相机，1929 年发布",
+  "description": "The Century Universal was an 8x10 field camera, produced by Folmer & Schwing and aimed the professional market, alongside the Crown View 4x5 camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Century Universal Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Century Universal Camera",
+      "url": "https://camera-wiki.org/wiki/Century%20Universal%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

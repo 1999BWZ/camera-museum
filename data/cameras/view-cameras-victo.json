@@ -1,0 +1,29 @@
+{
+  "id": "view-cameras-victo",
+  "brand": "View cameras",
+  "brand_cn": "",
+  "brand_slug": "view-cameras",
+  "country": "待补充",
+  "manufacturer": "View cameras",
+  "model": "Victo",
+  "year": 1908,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "View cameras折叠相机，1908 年发布",
+  "description": "The Victo is a folding half-plate (and other sizes[http://www.christies.com/lotFinder/lot_details.aspx?intObjectID=2098930 Triple Victo] said to be postcard (5½x3½-inch) size, sold at auction by [http://www.christies.com/ Christie's] of London in July 2001; no picture.) field camera made by Houghton",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Victo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Victo",
+      "url": "https://camera-wiki.org/wiki/Victo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

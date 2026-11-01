@@ -1,0 +1,29 @@
+{
+  "id": "balda-pontina",
+  "brand": "Balda",
+  "brand_cn": "",
+  "brand_slug": "balda",
+  "country": "待补充",
+  "manufacturer": "Balda",
+  "model": "Pontina",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Balda折叠相机，1936 年发布",
+  "description": "The Pontina is a German folding camera made by Balda.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pontina"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pontina",
+      "url": "https://camera-wiki.org/wiki/Pontina"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

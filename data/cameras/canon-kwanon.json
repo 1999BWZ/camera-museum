@@ -1,0 +1,29 @@
+{
+  "id": "canon-kwanon",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Kwanon",
+  "year": 1934,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能旁轴相机，1934 年发布",
+  "description": "In November 1933 Yoshida Gorō (吉田五郎) and Uchida Saburō (内田三郎)As usual within Camera-wiki.org, these Japanese names are presented in Japanese order, surname first.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kwanon"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kwanon",
+      "url": "https://camera-wiki.org/wiki/Kwanon"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

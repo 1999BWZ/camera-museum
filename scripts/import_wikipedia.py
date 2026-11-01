@@ -60,7 +60,7 @@ JUNK_DESC_RE = re.compile(
     r"video game|printer|打印|tablet|laptop|watch|手表|television|"
     r"webcam|movie camera|cinema|shaver|"
     r"\bbrand\b|品牌|"
-    r"range of|trademark|\bcompany\b|公司", re.I)
+    r"range of|trademark|\bcompany\b|enterprise|公司", re.I)
 
 JUNK_TITLE_RE = re.compile(
     r"iphone|galaxy s|galaxy note|pixel \d|nokia [a-z0-9]|huawei|xiaomi|oneplus|"

@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-finepix-40i",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "FinePix 40i",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，2001 年发布",
+  "description": "The FinePix 40i is part of a line of Fujifilm digital cameras release in 2000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm FinePix 40i"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm FinePix 40i",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20FinePix%2040i"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

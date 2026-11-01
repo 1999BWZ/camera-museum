@@ -1,0 +1,29 @@
+{
+  "id": "pretec-dc-530",
+  "brand": "Pretec",
+  "brand_cn": "",
+  "brand_slug": "pretec",
+  "country": "台湾",
+  "manufacturer": "Pretec",
+  "model": "DC-530",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pretec数码相机，2000 年发布",
+  "description": "The Pretec DC-530 is a digital camera from circa 2000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pretec DC-530"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pretec DC-530",
+      "url": "https://camera-wiki.org/wiki/Pretec%20DC-530"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

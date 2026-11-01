@@ -1,0 +1,29 @@
+{
+  "id": "graflex-photorecord",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "Graflex",
+  "model": "Photorecord",
+  "year": 1934,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲胶片相机，1934 年发布",
+  "description": "{|class=plainlinks\n||[http://www.flickr.com/photos/uwe_kulick/1847929078/in/pool-camerawiki/ http://farm3.staticflickr.com/2182/1847929078_2e2f96a170_n.jpg]\n||[http://www.flickr.com/photos/uwe_kulick/1847929092/in/pool-camerawiki/ http://farm3.staticflickr.com/2161/1847929092_7838bdea28_m.jpg]\n||[ht",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Graflex Photorecord"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Graflex Photorecord",
+      "url": "https://camera-wiki.org/wiki/Graflex%20Photorecord"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "beauty-varicon",
+  "brand": "Beauty",
+  "brand_cn": "",
+  "brand_slug": "beauty",
+  "country": "待补充",
+  "manufacturer": "Beauty",
+  "model": "Varicon",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beauty旁轴相机，1958 年发布",
+  "description": "The Varicon B.C.C., (Beauty Camera Company) branding appeared on two models made by Beauty in 1958: the Varicon SII, and Varicon Super L.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Varicon"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Varicon",
+      "url": "https://camera-wiki.org/wiki/Varicon"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

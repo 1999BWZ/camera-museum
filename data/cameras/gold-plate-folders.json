@@ -1,0 +1,29 @@
+{
+  "id": "gold-plate-folders",
+  "brand": "Gold",
+  "brand_cn": "",
+  "brand_slug": "gold",
+  "country": "待补充",
+  "manufacturer": "Gold",
+  "model": "plate folders",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Gold折叠相机，1935 年发布",
+  "description": "The Gold plate folders are Japanese folding cameras taking 6.5×9cm pictures.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Gold plate folders"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Gold plate folders",
+      "url": "https://camera-wiki.org/wiki/Gold%20plate%20folders"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

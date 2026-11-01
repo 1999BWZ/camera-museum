@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d7100-q5062127",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D7100",
+  "year": 2013,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2013 年发布",
+  "description": "尼康于2013年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q5062127",
+    "多语言词条数": "15"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D7100%20DSC7312EC.jpg?width=800",
+      "caption": "D7100",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q5062127"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D7100",
+      "url": "https://www.wikidata.org/wiki/Q5062127"
+    }
+  ],
+  "qid": "Q5062127",
+  "sitelinks": 15,
+  "imported": "wikidata-5k-2026-11-01"
+}

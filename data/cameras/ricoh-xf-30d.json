@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-xf-30d",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "XF-30D",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1985 年发布",
+  "description": "The XF-30 is compact 35mm film camera from Ricoh.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh XF-30D"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh XF-30D",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20XF-30D"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

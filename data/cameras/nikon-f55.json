@@ -1,0 +1,29 @@
+{
+  "id": "nikon-f55",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "F55",
+  "year": 2002,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2002 年发布",
+  "description": "The Nikon F55 (N55 in the US), is an entry level 35mm SLR camera distributed by Nikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon F55 (N55)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon F55 (N55)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20F55%20%28N55%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-tf-200",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "TF-200",
+  "year": 1986,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1986 年发布",
+  "description": "The Ricoh TF-200 is an 80s compact camera with autofocus and a 38 mm lens, switchable to 65 mm by a ring around the lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh TF-200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh TF-200",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20TF-200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

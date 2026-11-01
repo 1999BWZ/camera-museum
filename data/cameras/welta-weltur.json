@@ -1,0 +1,29 @@
+{
+  "id": "welta-weltur",
+  "brand": "Welta",
+  "brand_cn": "",
+  "brand_slug": "welta",
+  "country": "待补充",
+  "manufacturer": "Welta",
+  "model": "Weltur",
+  "year": 1937,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Welta旁轴相机，1937 年发布",
+  "description": "The Weltur is a series of rangefinder folding cameras using 120 film, made in the 1930s by the German company Welta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Weltur"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Weltur",
+      "url": "https://camera-wiki.org/wiki/Weltur"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

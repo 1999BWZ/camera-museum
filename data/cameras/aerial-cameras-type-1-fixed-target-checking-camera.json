@@ -1,0 +1,29 @@
+{
+  "id": "aerial-cameras-type-1-fixed-target-checking-camera",
+  "brand": "Aerial cameras",
+  "brand_cn": "",
+  "brand_slug": "aerial-cameras",
+  "country": "日本",
+  "manufacturer": "Aerial cameras",
+  "model": "Type 1 Fixed Target-checking Camera",
+  "year": 1942,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aerial cameras胶片单反相机，1942 年发布",
+  "description": "__NOTOC__\n\nThe Type 1 Fixed Target-checking Camera (一式固定射撃鑑査写真機) is an aerial camera developed by Rokuoh-sha (六桜社) for the Imperial Japanese Army (IJA) as a gun sight aiming point (GSAP) camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Type 1 Fixed Target-checking Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Type 1 Fixed Target-checking Camera",
+      "url": "https://camera-wiki.org/wiki/Type%201%20Fixed%20Target-checking%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

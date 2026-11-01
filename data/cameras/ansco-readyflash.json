@@ -1,0 +1,29 @@
+{
+  "id": "ansco-readyflash",
+  "brand": "Ansco",
+  "brand_cn": "",
+  "brand_slug": "ansco",
+  "country": "待补充",
+  "manufacturer": "Ansco",
+  "model": "Readyflash",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ansco胶片相机，1953 年发布",
+  "description": "The Ansco Readyflash is a simple viewfinder-type camera with a fixed-focus lens, fixed aperture and single-speed shutter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Readyflash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Readyflash",
+      "url": "https://camera-wiki.org/wiki/Readyflash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

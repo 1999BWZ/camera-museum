@@ -1,0 +1,29 @@
+{
+  "id": "konica-mr-70",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "MR.70",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1985 年发布",
+  "description": "The Konica MR.70 \"Power Shooter\" is a compact auto focus 35mm camera first seen at in 1985 at Salon de la Photo in Paris.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica MR.70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica MR.70",
+      "url": "https://camera-wiki.org/wiki/Konica%20MR.70"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

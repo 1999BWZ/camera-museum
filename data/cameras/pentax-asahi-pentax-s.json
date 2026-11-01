@@ -1,0 +1,40 @@
+{
+  "id": "pentax-asahi-pentax-s",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "Asahi Pentax S",
+  "year": 1958,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片相机，1958 年发布",
+  "description": "宾得于1958年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4046637",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Asahi%20Pentax%20S%20front.jpg?width=800",
+      "caption": "Asahi Pentax S",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4046637"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Asahi Pentax S",
+      "url": "https://www.wikidata.org/wiki/Q4046637"
+    }
+  ],
+  "qid": "Q4046637",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

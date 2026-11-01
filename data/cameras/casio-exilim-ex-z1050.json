@@ -1,0 +1,40 @@
+{
+  "id": "casio-exilim-ex-z1050",
+  "brand": "Casio",
+  "brand_cn": "卡西欧",
+  "brand_slug": "casio",
+  "country": "日本",
+  "manufacturer": "卡西欧",
+  "model": "Exilim EX-Z1050",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "卡西欧便携相机，2007 年发布",
+  "description": "卡西欧于2007年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11197935",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EXILIM%20EX-Z1050.JPG?width=800",
+      "caption": "Exilim EX-Z1050",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q11197935"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Casio Exilim EX-Z1050",
+      "url": "https://www.wikidata.org/wiki/Q11197935"
+    }
+  ],
+  "qid": "Q11197935",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "usc-reflex-iii",
+  "brand": "USC",
+  "brand_cn": "",
+  "brand_slug": "usc",
+  "country": "美国",
+  "manufacturer": "USC",
+  "model": "Reflex III",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "USC盒式相机，1960 年发布",
+  "description": "The Reflex III is a pseudo TLR made by the United States Camera company (17 North Loomis Street, Chicago, Illinois, U.S.A).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "USC Reflex III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – USC Reflex III",
+      "url": "https://camera-wiki.org/wiki/USC%20Reflex%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

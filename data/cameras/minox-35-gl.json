@@ -1,0 +1,29 @@
+{
+  "id": "minox-35-gl",
+  "brand": "Minox",
+  "brand_cn": "",
+  "brand_slug": "minox",
+  "country": "待补充",
+  "manufacturer": "Minox",
+  "model": "35 GL",
+  "year": 1979,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minox取景器相机，1979 年发布",
+  "description": "The Minox 35 GL followed the Minox 35 EL in Minox's successful range of 35mm compact cameras, reputedly the smallest full-frame 35mm cameras ever made.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minox 35 GL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minox 35 GL",
+      "url": "https://camera-wiki.org/wiki/Minox%2035%20GL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

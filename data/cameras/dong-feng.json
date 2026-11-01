@@ -1,0 +1,29 @@
+{
+  "id": "dong-feng",
+  "brand": "Dong",
+  "brand_cn": "",
+  "brand_slug": "dong",
+  "country": "中国",
+  "manufacturer": "Dong",
+  "model": "Feng",
+  "year": 1970,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dong胶片单反相机，1970 年发布",
+  "description": "The Dong Feng (东风; East Wind) is a 2¼-inch square format SLR camera, a copy of the Hasselblad 500 C, made in Shanghai to commemorate the 20th anniversary of the founding of the People's Republic of China.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Dong Feng"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Dong Feng",
+      "url": "https://camera-wiki.org/wiki/Dong%20Feng"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

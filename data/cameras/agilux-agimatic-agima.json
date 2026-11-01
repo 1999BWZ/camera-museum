@@ -1,0 +1,29 @@
+{
+  "id": "agilux-agimatic-agima",
+  "brand": "Agilux",
+  "brand_cn": "",
+  "brand_slug": "agilux",
+  "country": "英国",
+  "manufacturer": "Agilux",
+  "model": "Agimatic & Agima",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Agilux旁轴相机，1958 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Agimatic and Agima were rangefinder cameras, made in England by Agilux.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agimatic & Agima"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agimatic & Agima",
+      "url": "https://camera-wiki.org/wiki/Agimatic%20%26%20Agima"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sports-sport-korelle-66",
+  "brand": "Sports",
+  "brand_cn": "",
+  "brand_slug": "sports",
+  "country": "待补充",
+  "manufacturer": "Sports",
+  "model": "Sport-Korelle 66",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sports折叠相机，1939 年发布",
+  "description": "The Sport-Korelle 66 is a strut-folding camera for 6x6 cm pictures on 120 film, made in 1939 by Korelle-Werk G.H.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sport-Korelle 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sport-Korelle 66",
+      "url": "https://camera-wiki.org/wiki/Sport-Korelle%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

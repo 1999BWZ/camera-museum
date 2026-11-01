@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-es-auto",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri ES Auto",
+  "year": 1974,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi旁轴相机，1974 年发布",
+  "description": "The Petri ES Auto is a rangefinder camera offered by Petri in 1974; it is apparently just a renaming of the earlier Petri Computor II Page 580..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri ES Auto"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri ES Auto",
+      "url": "https://camera-wiki.org/wiki/Petri%20ES%20Auto"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-ee100-special",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "EE100 Special",
+  "year": 1985,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1985 年发布",
+  "description": "The EE100 Special is one of Polaroid's second generation of folding, 100-series packfilm cameras, made for a few years from about 1985.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid EE100 Special"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid EE100 Special",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20EE100%20Special"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

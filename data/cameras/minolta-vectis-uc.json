@@ -1,0 +1,29 @@
+{
+  "id": "minolta-vectis-uc",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Vectis UC",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1996 年发布",
+  "description": "The Minolta Vectis UC is a compact camera of Minolta's Vectis series for the Advanced Photo System.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Vectis UC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Vectis UC",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Vectis%20UC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

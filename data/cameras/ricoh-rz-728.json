@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-rz-728",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "RZ-728",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，2000 年发布",
+  "description": "The RZ-728, introduced in December 2000 by Ricoh, was a compact Zoom lensed camera, marketed as a pocketable travel companion thanks to its wide-angle range.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh RZ-728"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh RZ-728",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20RZ-728"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

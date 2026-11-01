@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-old-standard-model",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex old standard model",
+  "year": 1932,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1932 年发布",
+  "description": "The old standard model of Rolleiflex was made by Franke & Heidecke in Braunschweig, Germany, from 1932 to 1938.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex old standard model"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex old standard model",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%20old%20standard%20model"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

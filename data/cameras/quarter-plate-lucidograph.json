@@ -1,0 +1,29 @@
+{
+  "id": "quarter-plate-lucidograph",
+  "brand": "Quarter plate",
+  "brand_cn": "",
+  "brand_slug": "quarter-plate",
+  "country": "美国",
+  "manufacturer": "Quarter plate",
+  "model": "Lucidograph",
+  "year": 1884,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Quarter plate便携相机，1884 年发布",
+  "description": "Blair's Lucidograph was one of the earliest modern folding plate cameras for amateurs.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lucidograph"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lucidograph",
+      "url": "https://camera-wiki.org/wiki/Lucidograph"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

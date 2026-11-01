@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f70-q3341822",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F70",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1994 年发布",
+  "description": "尼康于1994年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3341822",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20F70%20BL%20%28filter%20retouch%29.jpg?width=800",
+      "caption": "F70",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q3341822"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon F70",
+      "url": "https://www.wikidata.org/wiki/Q3341822"
+    }
+  ],
+  "qid": "Q3341822",
+  "sitelinks": 7,
+  "imported": "wikidata-5k-2026-11-01"
+}

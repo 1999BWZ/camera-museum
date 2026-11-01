@@ -1,0 +1,29 @@
+{
+  "id": "ilford-witness",
+  "brand": "Ilford",
+  "brand_cn": "",
+  "brand_slug": "ilford",
+  "country": "待补充",
+  "manufacturer": "Ilford",
+  "model": "Witness",
+  "year": 1951,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ilford旁轴相机，1951 年发布",
+  "description": "The Witnesss is an advanced 35mm coupled-rangefinder camera made by Ilford and sold between 1951 and 1953.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ilford Witness"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ilford Witness",
+      "url": "https://camera-wiki.org/wiki/Ilford%20Witness"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

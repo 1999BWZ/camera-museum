@@ -1,0 +1,29 @@
+{
+  "id": "olympus-is-2000-qd-dlx-aka-is-2-and-l-2000",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "iS-2000 (QD/DLX), aka iS-2 and L-2000",
+  "year": 1991,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，1991 年发布",
+  "description": "The Olympus iS-2000 was introduced in 1991.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus iS-2000 (QD/DLX), aka iS-2 and L-2000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus iS-2000 (QD/DLX), aka iS-2 and L-2000",
+      "url": "https://camera-wiki.org/wiki/Olympus%20iS-2000%20%28QD/DLX%29%2C%20aka%20iS-2%20and%20L-2000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

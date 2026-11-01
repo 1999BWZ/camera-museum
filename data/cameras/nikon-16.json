@@ -1,0 +1,29 @@
+{
+  "id": "nikon-16",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "16",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康旁轴相机，1959 年发布",
+  "description": "The Nikon 16 is a prototype subminiature camera made by Nippon Kōgaku around 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon 16",
+      "url": "https://camera-wiki.org/wiki/Nikon%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

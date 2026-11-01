@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-233",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic 233",
+  "year": 1968,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1968 年发布",
+  "description": "A simple viewfinder camera from Kodak in the Instamatic series for 126 film cartridges.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic 233"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic 233",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%20233"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "goerz-minicord",
+  "brand": "Goerz",
+  "brand_cn": "",
+  "brand_slug": "goerz",
+  "country": "奥地利",
+  "manufacturer": "Goerz",
+  "model": "Minicord",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Goerz微型相机，1951 年发布",
+  "description": "The Goerz Minicord was introduced in 1951 by Optische Anstalt C.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minicord"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minicord",
+      "url": "https://camera-wiki.org/wiki/Minicord"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

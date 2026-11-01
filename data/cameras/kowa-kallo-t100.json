@@ -1,0 +1,29 @@
+{
+  "id": "kowa-kallo-t100",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "Kallo T100",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa旁轴相机，1959 年发布",
+  "description": "The Kallo T100 is a 35 mm coupled-rangefinder camera with a fixed telephoto lens, made by Kowa in 1959.[https://www.leitz-auction.com/en/Kowa-Kallo-T-100/AI-4-22368 Kallo T100] serial no.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kallo T100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kallo T100",
+      "url": "https://camera-wiki.org/wiki/Kallo%20T100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

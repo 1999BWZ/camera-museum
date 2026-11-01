@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-ermanox",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Ermanox",
+  "year": 1924,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann取景器相机，1924 年发布",
+  "description": "__NOTOC__\n\n\n\n\n\n{|class=\"wikitable\" style=\"text-align:center;\"\n|-\n|colspan=4|Catalogue numbers of various modelsPOA: Price on Application\n|-style=\"vertical-align:top;\"\n| \n| Ernemann1924\n|Zeiss Ikon1927\n|Zeiss Ikon1930\n|-\n|4.5x6cm, f/2\n|254\n|479, X\n|n/a\n|-\n|4.5x6cm f/1.8\n| n/a\n|479, Y\n|858\n|-\n|4.5x6cm",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ermanox"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ermanox",
+      "url": "https://camera-wiki.org/wiki/Ermanox"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

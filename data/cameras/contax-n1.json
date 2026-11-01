@@ -1,0 +1,29 @@
+{
+  "id": "contax-n1",
+  "brand": "Contax",
+  "brand_cn": "康泰时",
+  "brand_slug": "contax",
+  "country": "德国",
+  "manufacturer": "Contax",
+  "model": "N1",
+  "year": 2001,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "康泰时数码单反相机，2001 年发布",
+  "description": "The Contax N1 is a 35mm auto focus SLR camera introduced in 2001.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contax N1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contax N1",
+      "url": "https://camera-wiki.org/wiki/Contax%20N1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

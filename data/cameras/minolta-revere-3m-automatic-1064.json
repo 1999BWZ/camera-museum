@@ -1,0 +1,29 @@
+{
+  "id": "minolta-revere-3m-automatic-1064",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Revere 3M Automatic 1064",
+  "year": 1969,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1969 年发布",
+  "description": "The Revere 3M Automatic 1064 is a Kodapak film camera made by Minolta for 3M using the Revere label.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revere 3M Automatic 1064"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revere 3M Automatic 1064",
+      "url": "https://camera-wiki.org/wiki/Revere%203M%20Automatic%201064"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-and-auto-minolta",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "and Auto Minolta",
+  "year": 1933,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达折叠相机，1933 年发布",
+  "description": "The Minolta (ミノルタ) and the Autofocus Minolta (オートフォーカスミノルタ) or Auto Minolta (オートミノルタ) are strut-folding cameras taking 6.5×9cm plates or film sheets, made by Molta and later Chiyoda Kōgaku Seikō (predecessors of the Minolta company).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta and Auto Minolta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta and Auto Minolta",
+      "url": "https://camera-wiki.org/wiki/Minolta%20and%20Auto%20Minolta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

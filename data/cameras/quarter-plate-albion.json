@@ -1,0 +1,29 @@
+{
+  "id": "quarter-plate-albion",
+  "brand": "Quarter plate",
+  "brand_cn": "",
+  "brand_slug": "quarter-plate",
+  "country": "英国",
+  "manufacturer": "Quarter plate",
+  "model": "Albion",
+  "year": 1890,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Quarter plate胶片相机，1890 年发布",
+  "description": "There is also a folding quarter-plate field camera named the Albion, sold by the high-street chemist Taylor's Drug Company Ltd of Leeds and London, at about the same time.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Albion"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Albion",
+      "url": "https://camera-wiki.org/wiki/Albion"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

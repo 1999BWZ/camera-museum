@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-bergheil",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Bergheil",
+  "year": 1912,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer折叠相机，1912 年发布",
+  "description": "__NOTOC__\n\n{| class=\"floatright plainlinks\" style=\"text-align: center; margin:0px 0px 10px 15px;\"\n|[https://www.flickr.com/photos/camerawiki/49119870423/in/pool-camerawiki/ https://live.staticflickr.com/65535/49119870423_14b584eae8.jpg] \n|-\n|[https://www.flickr.com/photos/camerawiki/49121368931/in/p",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bergheil"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bergheil",
+      "url": "https://camera-wiki.org/wiki/Bergheil"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-swinger-ii",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Swinger II",
+  "year": 1965,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1965 年发布",
+  "description": "The Polaroid Swinger II also known as the Polaroid Swinger Sentinel is a Type-20 instant roll film camera made in the late 1960's by Polaroid.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Swinger II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Swinger II",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Swinger%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

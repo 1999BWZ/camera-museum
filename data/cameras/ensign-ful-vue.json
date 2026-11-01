@@ -1,0 +1,29 @@
+{
+  "id": "ensign-ful-vue",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "英国",
+  "manufacturer": "Ensign",
+  "model": "Ful-Vue",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign盒式相机，1939 年发布",
+  "description": "{|align=right\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\"The Ful-Vue camera is really a very simple camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Ful-Vue"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Ful-Vue",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Ful-Vue"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

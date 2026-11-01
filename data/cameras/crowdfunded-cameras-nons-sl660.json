@@ -1,0 +1,29 @@
+{
+  "id": "crowdfunded-cameras-nons-sl660",
+  "brand": "Crowdfunded cameras",
+  "brand_cn": "",
+  "brand_slug": "crowdfunded-cameras",
+  "country": "中国",
+  "manufacturer": "Crowdfunded cameras",
+  "model": "Nons SL660",
+  "year": 2022,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Crowdfunded cameras一次成像相机，2022 年发布",
+  "description": "The Nons SL660 is an interchangeable lens SLR for Instax Square launched by Chinese maker Nons in 2022.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nons SL660"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nons SL660",
+      "url": "https://camera-wiki.org/wiki/Nons%20SL660"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

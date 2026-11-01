@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-3100",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix 3100",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2003 年发布",
+  "description": "The Coolpix 3100 is a 3.2 megapixel compact which is part of the Coolpix series of digital cameras made by Nikon, announced in February 2003[http://www.dpreview.com/news/0302/03021802cp2100cp3100.asp Press release] via [http://www.dpreview.com/ DPReview.com].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix 3100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix 3100",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%203100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

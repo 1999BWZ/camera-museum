@@ -1,0 +1,29 @@
+{
+  "id": "pinhole-zero-2000",
+  "brand": "Pinhole",
+  "brand_cn": "",
+  "brand_slug": "pinhole",
+  "country": "待补充",
+  "manufacturer": "Pinhole",
+  "model": "Zero 2000",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pinhole胶片相机，2000 年发布",
+  "description": "For the year 2000, Zero Image created a limited run of the Zero 2000, a teak wood pinhole camera using 120 roll film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zero 2000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zero 2000",
+      "url": "https://camera-wiki.org/wiki/Zero%202000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rollei-16",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "16",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来微型相机，1963 年发布",
+  "description": "The Rollei 16 is a quite small viewfinder camera for 16mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei 16",
+      "url": "https://camera-wiki.org/wiki/Rollei%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

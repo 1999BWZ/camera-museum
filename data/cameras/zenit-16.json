@@ -1,0 +1,29 @@
+{
+  "id": "zenit-16",
+  "brand": "Zenit",
+  "brand_cn": "",
+  "brand_slug": "zenit",
+  "country": "俄罗斯",
+  "manufacturer": "Zenit",
+  "model": "16",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zenit胶片单反相机，1973 年发布",
+  "description": "The Zenit 16 is a 35mm SLR camera made by KMZ from 1974-76.[http://www.zenitcamera.com/archive/zenit-16/index.html Zenit 16] camera series (in Russian), at [http://www.zenitcamera.com/index.html Zenitcamera.com], being archive material from KMZ.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit 16",
+      "url": "https://camera-wiki.org/wiki/Zenit%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

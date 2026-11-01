@@ -1,0 +1,29 @@
+{
+  "id": "fed-50",
+  "brand": "FED",
+  "brand_cn": "",
+  "brand_slug": "fed",
+  "country": "待补充",
+  "manufacturer": "FED",
+  "model": "50",
+  "year": 1986,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FED取景器相机，1986 年发布",
+  "description": "{|class=floatright\n|\n \n|-\n|\n \n|-\n|\n \n|-\n|align=center | images by \n|}\nThe FED 50 (ФЭД-50 in Cyrillic) is a 35mm film viewfinder camera with fixed lens made by the Ukrainian factory FED.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "FED 50"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – FED 50",
+      "url": "https://camera-wiki.org/wiki/FED%2050"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

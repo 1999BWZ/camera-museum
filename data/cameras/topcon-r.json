@@ -1,0 +1,29 @@
+{
+  "id": "topcon-r",
+  "brand": "Topcon",
+  "brand_cn": "",
+  "brand_slug": "topcon",
+  "country": "待补充",
+  "manufacturer": "Topcon",
+  "model": "R",
+  "year": 1958,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Topcon数码单反相机，1958 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Topcon R is a 35mm SLR from Tōkyō Kōgaku which appeared in 1958.It is [https://www.flickr.com/photos/camerawiki/52486275579/in/pool-camerawiki/ advertised] and [https://www.flickr.com/photos/vox/52485783162/ noted as new] in the October, 1958, Modern Photography ma",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Topcon R"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Topcon R",
+      "url": "https://camera-wiki.org/wiki/Topcon%20R"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

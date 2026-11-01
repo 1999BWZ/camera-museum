@@ -1,0 +1,29 @@
+{
+  "id": "argus-automatic-35",
+  "brand": "Argus",
+  "brand_cn": "",
+  "brand_slug": "argus",
+  "country": "待补充",
+  "manufacturer": "Argus",
+  "model": "Automatic 35",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Argus取景器相机，1963 年发布",
+  "description": "Note: the Argus Autronic models are different cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Argus Automatic 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Argus Automatic 35",
+      "url": "https://camera-wiki.org/wiki/Argus%20Automatic%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

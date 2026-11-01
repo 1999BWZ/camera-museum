@@ -1,0 +1,29 @@
+{
+  "id": "fex-indo-indo-126-xr",
+  "brand": "Fex Indo",
+  "brand_cn": "",
+  "brand_slug": "fex-indo",
+  "country": "待补充",
+  "manufacturer": "Fex Indo",
+  "model": "Indo 126 XR",
+  "year": 1978,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fex Indo取景器相机，1978 年发布",
+  "description": "Camera made by the French company Fex Indo c.1978.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Indo 126 XR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Indo 126 XR",
+      "url": "https://camera-wiki.org/wiki/Indo%20126%20XR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

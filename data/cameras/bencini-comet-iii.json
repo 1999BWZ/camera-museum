@@ -1,0 +1,29 @@
+{
+  "id": "bencini-comet-iii",
+  "brand": "Bencini",
+  "brand_cn": "",
+  "brand_slug": "bencini",
+  "country": "待补充",
+  "manufacturer": "Bencini",
+  "model": "Comet III",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bencini胶片相机，1953 年发布",
+  "description": "The Comet III is an unusual vertical-format 127 film camera made in Italy by Bencini, c.1953.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bencini Comet III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bencini Comet III",
+      "url": "https://camera-wiki.org/wiki/Bencini%20Comet%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

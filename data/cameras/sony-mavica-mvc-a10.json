@@ -1,0 +1,29 @@
+{
+  "id": "sony-mavica-mvc-a10",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Mavica MVC-A10",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼胶片相机，1989 年发布",
+  "description": "The Sony still-video camera MVC-A10 was a 1989 update to the Sony MVC-C1.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Mavica MVC-A10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Mavica MVC-A10",
+      "url": "https://camera-wiki.org/wiki/Sony%20Mavica%20MVC-A10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

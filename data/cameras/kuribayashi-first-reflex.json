@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-first-reflex",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "First Reflex",
+  "year": 1938,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi胶片相机，1938 年发布",
+  "description": "The First Reflex is a Japanese 6×6 TLR, made from late 1938 to 1944.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "First Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – First Reflex",
+      "url": "https://camera-wiki.org/wiki/First%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

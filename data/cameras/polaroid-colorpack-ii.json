@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-colorpack-ii",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Colorpack II",
+  "year": 1969,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1969 年发布",
+  "description": "The Polaroid Colorpack II was a rigid plastic bodied instant camera, made between 1969-1972.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Colorpack II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Colorpack II",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Colorpack%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

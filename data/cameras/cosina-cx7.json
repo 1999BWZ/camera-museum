@@ -1,0 +1,29 @@
+{
+  "id": "cosina-cx7",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "CX7",
+  "year": 1983,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina便携相机，1983 年发布",
+  "description": "The CX7 is a simple compact camera for 35 mm film released by Cosina in 1983.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cosina CX7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cosina CX7",
+      "url": "https://camera-wiki.org/wiki/Cosina%20CX7"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hanimex-vxl",
+  "brand": "Hanimex",
+  "brand_cn": "",
+  "brand_slug": "hanimex",
+  "country": "待补充",
+  "manufacturer": "Hanimex",
+  "model": "VXL",
+  "year": 1978,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hanimex胶片相机，1978 年发布",
+  "description": "The Hanimex VXL is a camera that was marketed by (but not made by) Hanimex.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hanimex VXL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hanimex VXL",
+      "url": "https://camera-wiki.org/wiki/Hanimex%20VXL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

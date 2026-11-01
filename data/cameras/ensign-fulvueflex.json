@@ -1,0 +1,29 @@
+{
+  "id": "ensign-fulvueflex",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "印度",
+  "manufacturer": "Ensign",
+  "model": "Fulvueflex",
+  "year": 1957,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign胶片相机，1957 年发布",
+  "description": "Ross-Ensign's Fulvueflex Synchroflash is a pseudo TLR, made from 1957 to 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fulvueflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fulvueflex",
+      "url": "https://camera-wiki.org/wiki/Fulvueflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

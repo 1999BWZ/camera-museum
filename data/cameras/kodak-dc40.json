@@ -1,0 +1,29 @@
+{
+  "id": "kodak-dc40",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "DC40",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码相机，1995 年发布",
+  "description": "The Kodak DC40 was among the first consumer digital cameras sold.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak DC40"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak DC40",
+      "url": "https://camera-wiki.org/wiki/Kodak%20DC40"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

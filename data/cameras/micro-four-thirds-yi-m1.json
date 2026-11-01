@@ -1,0 +1,29 @@
+{
+  "id": "micro-four-thirds-yi-m1",
+  "brand": "Micro four-thirds",
+  "brand_cn": "",
+  "brand_slug": "micro-four-thirds",
+  "country": "中国",
+  "manufacturer": "Micro four-thirds",
+  "model": "YI M1",
+  "year": 2016,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Micro four-thirds数码相机，2016 年发布",
+  "description": "The YI M1 is the first system camera of Chinese camera maker Yi.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "YI M1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – YI M1",
+      "url": "https://camera-wiki.org/wiki/YI%20M1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

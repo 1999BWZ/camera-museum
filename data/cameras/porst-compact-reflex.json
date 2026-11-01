@@ -1,0 +1,29 @@
+{
+  "id": "porst-compact-reflex",
+  "brand": "Porst",
+  "brand_cn": "",
+  "brand_slug": "porst",
+  "country": "待补充",
+  "manufacturer": "Porst",
+  "model": "Compact-reflex",
+  "year": 1977,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Porst数码单反相机，1977 年发布",
+  "description": "German retailer Porst offered the compact-reflex (no suffixes; styled in all lowercase) as one of it many rebadgings of SLR cameras manufactured by Cosina.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Porst Compact-reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Porst Compact-reflex",
+      "url": "https://camera-wiki.org/wiki/Porst%20Compact-reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

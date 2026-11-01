@@ -1,0 +1,29 @@
+{
+  "id": "fed-micron",
+  "brand": "FED",
+  "brand_cn": "",
+  "brand_slug": "fed",
+  "country": "待补充",
+  "manufacturer": "FED",
+  "model": "Micron",
+  "year": 1968,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FED取景器相机，1968 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe FED MicronOr Mikron: either is a valid rendition of the Cyrillic name; but 'micro-' is more normal in latin-alphabet languages.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "FED Micron"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – FED Micron",
+      "url": "https://camera-wiki.org/wiki/FED%20Micron"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

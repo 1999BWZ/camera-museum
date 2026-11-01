@@ -1,0 +1,29 @@
+{
+  "id": "graflex-series-b",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "Graflex",
+  "model": "Series B",
+  "year": 1923,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲胶片单反相机，1923 年发布",
+  "description": "The Graflex Series B was an SLR produced by Folmer & Schwing from 1923–1951.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Graflex Series B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Graflex Series B",
+      "url": "https://camera-wiki.org/wiki/Graflex%20Series%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sony-mavica-fd87",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Mavica FD87",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2001 年发布",
+  "description": "The MVC-FD87 was one of the Mavica series of digital cameras from Sony, announced at the February, 2001, PMA show alongside the MVC-FD75, MVC-FD92, and MVC-FD97Sony press release, from [http://www.dpreview.com/news/2001/2/14/newsonys \"Seven new Sony's\"] at [http://www.dpreview.com/ DPReview.com]—the",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Mavica FD87"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Mavica FD87",
+      "url": "https://camera-wiki.org/wiki/Sony%20Mavica%20FD87"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "yashica-penta-j",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Penta J",
+  "year": 1961,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片单反相机，1961 年发布",
+  "description": "The Penta J is a 35 mm SLR camera made by Yashica from late 1961 to 1964, p.1029..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Penta J"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Penta J",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Penta%20J"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

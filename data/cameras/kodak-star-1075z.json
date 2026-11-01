@@ -1,0 +1,29 @@
+{
+  "id": "kodak-star-1075z",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Star 1075z",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1994 年发布",
+  "description": "Kodak Star 1075z is a cheap compact camera with a (very basic) zoom lens not usually find in its price class.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Star 1075z"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Star 1075z",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Star%201075z"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

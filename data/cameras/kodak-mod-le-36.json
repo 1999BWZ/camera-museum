@@ -1,0 +1,29 @@
+{
+  "id": "kodak-mod-le-36",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Modèle 36",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达折叠相机，1953 年发布",
+  "description": "The Kodak 4,5 Modèle 36 is a French-made folding camera for the 620 film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Modèle 36"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Modèle 36",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Mod%C3%A8le%2036"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mithra-47",
+  "brand": "Mithra",
+  "brand_cn": "",
+  "brand_slug": "mithra",
+  "country": "瑞士",
+  "manufacturer": "Mithra",
+  "model": "47",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mithra盒式相机，1947 年发布",
+  "description": "The Mithra 47 is a metal-bodied box camera for 6&times;9 cm exposures on 120 film, made in 1947 in Switzerland.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mithra 47"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mithra 47",
+      "url": "https://camera-wiki.org/wiki/Mithra%2047"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

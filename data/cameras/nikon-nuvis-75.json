@@ -1,0 +1,29 @@
+{
+  "id": "nikon-nuvis-75",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Nuvis 75",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1996 年发布",
+  "description": "The Nikon Nuvis 75 was one of the earlier compact cameras for the Advanced Photo System, introduced by Nikon in 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Nuvis 75"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Nuvis 75",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Nuvis%2075"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

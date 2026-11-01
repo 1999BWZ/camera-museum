@@ -1,0 +1,29 @@
+{
+  "id": "dallmeyer-snapshot",
+  "brand": "Dallmeyer",
+  "brand_cn": "",
+  "brand_slug": "dallmeyer",
+  "country": "英国",
+  "manufacturer": "Dallmeyer",
+  "model": "Snapshot",
+  "year": 1929,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dallmeyer折叠相机，1929 年发布",
+  "description": "The Dallmeyer Snapshot Camera is a strut-folding camera taking 2¼×3¼\" (6×9 cm) exposures.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Dallmeyer Snapshot"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Dallmeyer Snapshot",
+      "url": "https://camera-wiki.org/wiki/Dallmeyer%20Snapshot"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

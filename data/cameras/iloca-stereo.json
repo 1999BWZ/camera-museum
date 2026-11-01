@@ -1,0 +1,29 @@
+{
+  "id": "iloca-stereo",
+  "brand": "Iloca",
+  "brand_cn": "",
+  "brand_slug": "iloca",
+  "country": "待补充",
+  "manufacturer": "Iloca",
+  "model": "Stereo",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Iloca立体相机，1950 年发布",
+  "description": "{|class=\"floatright\"\n|\n\n|}\n\n\nThis camera is the first Iloca Stereo model.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Iloca Stereo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Iloca Stereo",
+      "url": "https://camera-wiki.org/wiki/Iloca%20Stereo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

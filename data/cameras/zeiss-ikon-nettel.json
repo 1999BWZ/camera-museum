@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-nettel",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Nettel",
+  "year": 1934,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon旁轴相机，1934 年发布",
+  "description": "{| class=\"plainlinks\" align=\"right\" style=\"text-align: center;\"\n|| [https://www.flickr.com/photos/camerawiki/48815912367/in/pool-camerawiki/ https://live.staticflickr.com/65535/48815912367_f6b54fb0cf_m_d.jpg] [https://www.flickr.com/photos/camerawiki/48815456528/in/pool-camerawiki/ https://live.stat",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Nettel"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Nettel",
+      "url": "https://camera-wiki.org/wiki/Super%20Nettel"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

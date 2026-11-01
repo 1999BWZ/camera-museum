@@ -1,0 +1,29 @@
+{
+  "id": "cosina-hi-lite-405",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "Hi-Lite 405",
+  "year": 1974,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina胶片单反相机，1974 年发布",
+  "description": "The Hi-Lite 405 from Cosina is one of the more full-featured models among the company's many stopdown-metering SLRs accepting 42mm screw lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cosina Hi-Lite 405"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cosina Hi-Lite 405",
+      "url": "https://camera-wiki.org/wiki/Cosina%20Hi-Lite%20405"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

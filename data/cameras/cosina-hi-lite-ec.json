@@ -1,0 +1,29 @@
+{
+  "id": "cosina-hi-lite-ec",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "Hi-Lite EC",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina胶片单反相机，1972 年发布",
+  "description": "The Hi-Lite EC is an innovative SLR from Cosina introduced in 1972.Page 229, It is among the few models ever to offer aperture-priority autoexposure using plain-vanilla M42 screwmount lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cosina Hi-Lite EC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cosina Hi-Lite EC",
+      "url": "https://camera-wiki.org/wiki/Cosina%20Hi-Lite%20EC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

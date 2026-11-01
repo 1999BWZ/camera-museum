@@ -1,0 +1,29 @@
+{
+  "id": "porst-135-ke",
+  "brand": "Porst",
+  "brand_cn": "",
+  "brand_slug": "porst",
+  "country": "待补充",
+  "manufacturer": "Porst",
+  "model": "135 KE",
+  "year": 1981,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Porst取景器相机，1981 年发布",
+  "description": "The Porst 135 KE is a 35mm compact camera distributed in Germany by Porst in c.1981[http://www.kamera-geschichte.de/porst-135ke-d/ Porst 135 KE page] at [http://www.kamera-geschichte.de/start-deutsch/ Kamera-geschichte.de] (in German).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Porst 135 KE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Porst 135 KE",
+      "url": "https://camera-wiki.org/wiki/Porst%20135%20KE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

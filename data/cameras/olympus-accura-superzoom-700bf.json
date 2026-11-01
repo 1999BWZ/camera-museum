@@ -1,0 +1,29 @@
+{
+  "id": "olympus-accura-superzoom-700bf",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Accura/Superzoom 700BF",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，1997 年发布",
+  "description": "This bulky 35mm film camera was part of Olympus' Superzoom series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Accura/Superzoom 700BF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Accura/Superzoom 700BF",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Accura/Superzoom%20700BF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

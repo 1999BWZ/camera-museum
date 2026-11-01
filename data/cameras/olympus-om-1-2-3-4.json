@@ -1,0 +1,29 @@
+{
+  "id": "olympus-om-1-2-3-4",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "OM-1/2/3/4",
+  "year": 1972,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，1972 年发布",
+  "description": "The OM-System was introduced by Olympus in 1972, more than a decade later than most of the, by then, well-established 35mm SLR brands.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus OM-1/2/3/4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus OM-1/2/3/4",
+      "url": "https://camera-wiki.org/wiki/Olympus%20OM-1/2/3/4"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

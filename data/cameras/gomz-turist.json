@@ -1,0 +1,29 @@
+{
+  "id": "gomz-turist",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "俄罗斯",
+  "manufacturer": "GOMZ",
+  "model": "Turist",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ折叠相机，1934 年发布",
+  "description": "The Turist (Турист) is a strut-folding camera with a rectangular Bakelite body, made by the Soviet maker GOMZ in 1934.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Turist"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Turist",
+      "url": "https://camera-wiki.org/wiki/Turist"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

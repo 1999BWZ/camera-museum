@@ -1,0 +1,29 @@
+{
+  "id": "canon-eos-3000n",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "EOS 3000N",
+  "year": 2002,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片单反相机，2002 年发布",
+  "description": "The Canon 3000N released in 2002, was one of Canon's last 35mm film consumer SLR bodies for Canon EF autofocus system lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon EOS 3000N"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon EOS 3000N",
+      "url": "https://camera-wiki.org/wiki/Canon%20EOS%203000N"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

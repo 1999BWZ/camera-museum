@@ -1,0 +1,29 @@
+{
+  "id": "romain-talbot",
+  "brand": "Romain",
+  "brand_cn": "",
+  "brand_slug": "romain",
+  "country": "待补充",
+  "manufacturer": "Romain",
+  "model": "Talbot",
+  "year": 1855,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Romain旁轴相机（折叠），1855 年发布",
+  "description": "Romain Talbot was a wholesale dealer in photographic goods in Berlin, from 1855.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Romain Talbot"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Romain Talbot",
+      "url": "https://camera-wiki.org/wiki/Romain%20Talbot"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

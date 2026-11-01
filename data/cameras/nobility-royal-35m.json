@@ -1,0 +1,29 @@
+{
+  "id": "nobility-royal-35m",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Royal 35M",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility旁轴相机，1957 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Royal 35M fixed lens rangefinder camera was made by Royal Camera of Tokyo in 1957, featuring:\n* Rangefinder-coupled Tomioka Tominor 45mm / f2.8, or Tominor 45mm / f1.9 lens for the 35M Deluxe, both to f16.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Royal 35M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Royal 35M",
+      "url": "https://camera-wiki.org/wiki/Royal%2035M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

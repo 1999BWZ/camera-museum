@@ -1,0 +1,29 @@
+{
+  "id": "escaflex-and-rolly-flex",
+  "brand": "Escaflex",
+  "brand_cn": "",
+  "brand_slug": "escaflex",
+  "country": "待补充",
+  "manufacturer": "Escaflex",
+  "model": "and Rolly Flex",
+  "year": 1938,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Escaflex数码单反相机，1938 年发布",
+  "description": "The Escaflex J (エスカフレックスJ型) is a Japanese 6×6 SLR made by Esca Kōgaku in 1954–5.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Escaflex and Rolly Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Escaflex and Rolly Flex",
+      "url": "https://camera-wiki.org/wiki/Escaflex%20and%20Rolly%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

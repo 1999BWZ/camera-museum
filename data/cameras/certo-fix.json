@@ -1,0 +1,29 @@
+{
+  "id": "certo-fix",
+  "brand": "Certo",
+  "brand_cn": "",
+  "brand_slug": "certo",
+  "country": "待补充",
+  "manufacturer": "Certo",
+  "model": "fix",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Certo折叠相机，1930 年发布",
+  "description": "Certofix, Certotix and Certix are all cameras in a line of 6x9 cm format folders produced by the German company Certo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Certofix"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Certofix",
+      "url": "https://camera-wiki.org/wiki/Certofix"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

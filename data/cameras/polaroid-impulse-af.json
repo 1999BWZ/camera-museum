@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-impulse-af",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Impulse AF",
+  "year": 1990,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1990 年发布",
+  "description": "Designed for Polaroid's 600-series integral film, the Impulse AF models are similar in body design to the autofocus models released for SX-70 film (usually known as OneStep AF models) in that they feature a non-folding plastic body, plastic lens and sonar focusing.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Impulse AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Impulse AF",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Impulse%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

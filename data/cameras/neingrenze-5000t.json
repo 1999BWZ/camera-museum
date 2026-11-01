@@ -1,0 +1,29 @@
+{
+  "id": "neingrenze-5000t",
+  "brand": "Neingrenze",
+  "brand_cn": "",
+  "brand_slug": "neingrenze",
+  "country": "待补充",
+  "manufacturer": "Neingrenze",
+  "model": "5000T",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Neingrenze数码相机，2012 年发布",
+  "description": "The NeinGrenze 5000T (black), 5000W (white) and 5000P (pink) are novelty digital cameras made by Global DC of Tokyo in about 2012.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Neingrenze 5000T"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Neingrenze 5000T",
+      "url": "https://camera-wiki.org/wiki/Neingrenze%205000T"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eho-altissa-altissa",
+  "brand": "Eho-Altissa",
+  "brand_cn": "",
+  "brand_slug": "eho-altissa",
+  "country": "待补充",
+  "manufacturer": "Eho-Altissa",
+  "model": "Altissa",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Eho-Altissa盒式相机，1938 年发布",
+  "description": "The Super Altissa is a small box camera with a leather covering.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Altissa"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Altissa",
+      "url": "https://camera-wiki.org/wiki/Super%20Altissa"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

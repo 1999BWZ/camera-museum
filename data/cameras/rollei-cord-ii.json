@@ -1,0 +1,29 @@
+{
+  "id": "rollei-cord-ii",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "cord II",
+  "year": 1936,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来中画幅相机，1936 年发布",
+  "description": "The Rolleicord II is a model in a long line of Rolleicords which started in 1933\nand ended in 1977 and were produced by Franke & Heidecke and later on by Rollei-Werke in Braunschweig, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleicord II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleicord II",
+      "url": "https://camera-wiki.org/wiki/Rolleicord%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

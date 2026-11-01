@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-ikoflex-ib",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Ikoflex Ib",
+  "year": 1956,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon中画幅相机，1956 年发布",
+  "description": "The Ikoflex 1b is a model in a long line of Ikoflexes which started in 1934\nand ended in 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ikoflex Ib"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ikoflex Ib",
+      "url": "https://camera-wiki.org/wiki/Ikoflex%20Ib"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

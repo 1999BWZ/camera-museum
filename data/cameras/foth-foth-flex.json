@@ -1,0 +1,29 @@
+{
+  "id": "foth-foth-flex",
+  "brand": "Foth",
+  "brand_cn": "",
+  "brand_slug": "foth",
+  "country": "待补充",
+  "manufacturer": "Foth",
+  "model": "Foth-Flex",
+  "year": 1935,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Foth胶片相机，1935 年发布",
+  "description": "The Foth-Flex is a TLR camera for 6&times;6 cm exposures on 120 film, produced by Foth in Germany in 1935.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Foth-Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Foth-Flex",
+      "url": "https://camera-wiki.org/wiki/Foth-Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

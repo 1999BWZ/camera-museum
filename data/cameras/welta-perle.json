@@ -1,0 +1,29 @@
+{
+  "id": "welta-perle",
+  "brand": "Welta",
+  "brand_cn": "",
+  "brand_slug": "welta",
+  "country": "待补充",
+  "manufacturer": "Welta",
+  "model": "Perle",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Welta折叠相机，1932 年发布",
+  "description": "The Perle is a series of folding cameras made by Welta in the 1930s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Perle"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Perle",
+      "url": "https://camera-wiki.org/wiki/Perle"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

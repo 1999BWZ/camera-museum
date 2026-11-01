@@ -1,0 +1,29 @@
+{
+  "id": "agilux-autoflash-super-44",
+  "brand": "Agilux",
+  "brand_cn": "",
+  "brand_slug": "agilux",
+  "country": "待补充",
+  "manufacturer": "Agilux",
+  "model": "Autoflash super 44",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Agilux胶片相机，1959 年发布",
+  "description": "The Agilux Autoflash super 44 is a plastic viewfinder camera taking 4x4cm images on 127 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agilux Autoflash super 44"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agilux Autoflash super 44",
+      "url": "https://camera-wiki.org/wiki/Agilux%20Autoflash%20super%2044"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

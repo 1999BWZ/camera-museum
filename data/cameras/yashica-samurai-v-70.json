@@ -1,0 +1,29 @@
+{
+  "id": "yashica-samurai-v-70",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Samurai V-70",
+  "year": 1990,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片相机，1990 年发布",
+  "description": "The Kyocera (Yashica Samurai) V-70 is a still-video camera announced in prototype form by Kyocera in early 1990\"Battle of the prototypes: A still-video sextet,\" May 1990 Popular Photography (Vol.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Samurai V-70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Samurai V-70",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Samurai%20V-70"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

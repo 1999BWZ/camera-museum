@@ -1,0 +1,29 @@
+{
+  "id": "kodak-star-premo",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Star Premo",
+  "year": 1903,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机（折叠），1903 年发布",
+  "description": "The Star Premo is a folding camera for 3¼×4¼\" filmpacks or plates.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Star Premo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Star Premo",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Star%20Premo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

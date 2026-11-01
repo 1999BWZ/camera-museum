@@ -1,0 +1,29 @@
+{
+  "id": "bradac-brothers-kamarad-ii",
+  "brand": "Bradac brothers",
+  "brand_cn": "",
+  "brand_slug": "bradac-brothers",
+  "country": "待补充",
+  "manufacturer": "Bradac brothers",
+  "model": "Kamarad II",
+  "year": 1937,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bradac brothers胶片相机，1937 年发布",
+  "description": "__NOTOC__\n[https://www.flickr.com/photos/50678983@N00/243367880/in/pool-camerawiki https://static.flickr.com/88/243367880_1e9a59c2dd_m.jpg]\n\nThe Kamarad II is a Czechoslovak TLR made in 1937 by the Bradac brothers in Hovorcovice.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kamarad II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kamarad II",
+      "url": "https://camera-wiki.org/wiki/Kamarad%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-r-600",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "R-600",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片相机，1989 年发布",
+  "description": "Auto Focus Point & Shoot 35mm Film camera made by Vivitar\n\nR-600 Vivitar\nR-600\nCategory:35mm autofocus\nCategory:1989",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar R-600"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar R-600",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20R-600"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

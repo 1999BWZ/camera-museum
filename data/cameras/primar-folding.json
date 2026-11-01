@@ -1,0 +1,29 @@
+{
+  "id": "primar-folding",
+  "brand": "Primar",
+  "brand_cn": "",
+  "brand_slug": "primar",
+  "country": "待补充",
+  "manufacturer": "Primar",
+  "model": "Folding",
+  "year": 1930,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Primar旁轴相机（折叠），1930 年发布",
+  "description": "Compact folding camera for 6.5&times;9cm plates made by Bentzin c.1930.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Primar Folding"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Primar Folding",
+      "url": "https://camera-wiki.org/wiki/Primar%20Folding"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

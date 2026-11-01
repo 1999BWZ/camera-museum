@@ -1,0 +1,29 @@
+{
+  "id": "kodak-vollenda-70",
+  "brand": "Kodak",
+  "brand_cn": "",
+  "brand_slug": "kodak",
+  "country": "待补充",
+  "manufacturer": "Kodak",
+  "model": "Vollenda 70",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kodak折叠相机，1930 年发布",
+  "description": "The Vollenda was a line of viewfinder folding camera models made by Nagel, later Kodak AG.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vollenda 70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vollenda 70",
+      "url": "https://camera-wiki.org/wiki/Vollenda%2070"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

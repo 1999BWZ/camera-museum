@@ -1,0 +1,29 @@
+{
+  "id": "saica-kiku-16-gem-16-and-halmat",
+  "brand": "Saica,",
+  "brand_cn": "",
+  "brand_slug": "saica",
+  "country": "待补充",
+  "manufacturer": "Saica,",
+  "model": "Kiku 16, Gem 16 and Halmat",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Saica,微型相机，1954 年发布",
+  "description": "The Saica, Kiku 16, Gem 16 and Halmat are Japanese subminiature cameras made around 1956–7, certainly by Morita Shōkai.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Saica, Kiku 16, Gem 16 and Halmat"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Saica, Kiku 16, Gem 16 and Halmat",
+      "url": "https://camera-wiki.org/wiki/Saica%2C%20Kiku%2016%2C%20Gem%2016%20and%20Halmat"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

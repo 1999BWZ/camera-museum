@@ -1,0 +1,29 @@
+{
+  "id": "ica-nixe",
+  "brand": "ICA",
+  "brand_cn": "",
+  "brand_slug": "ica",
+  "country": "待补充",
+  "manufacturer": "ICA",
+  "model": "Nixe",
+  "year": 1909,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "ICA胶片相机，1909 年发布",
+  "description": "The Nixe is a dual format folding bed camera for roll film or plates.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nixe"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nixe",
+      "url": "https://camera-wiki.org/wiki/Nixe"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

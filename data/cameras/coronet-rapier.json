@@ -1,0 +1,29 @@
+{
+  "id": "coronet-rapier",
+  "brand": "Coronet",
+  "brand_cn": "",
+  "brand_slug": "coronet",
+  "country": "英国",
+  "manufacturer": "Coronet",
+  "model": "Rapier",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Coronet取景器相机，1959 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Coronet Rapier is a plastic 120 roll film viewfinder camera made by Coronet in Birmingham, UK.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Coronet Rapier"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Coronet Rapier",
+      "url": "https://camera-wiki.org/wiki/Coronet%20Rapier"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

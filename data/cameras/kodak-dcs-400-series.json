@@ -1,0 +1,37 @@
+{
+  "id": "kodak-dcs-400-series",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "DCS 400 series",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码相机，1995 年发布",
+  "description": "The Kodak DCS 400 series are DSLR cameras based upon the body of a Nikon N90 (F90) or N90s (F90X) if manufactured after 1994.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak DCS 400 series"
+  },
+  "images": [
+    {
+      "remote_url": "https://static.flickr.com/10/14573519_334d5c6f4c_n.jpg",
+      "caption": "DCS 400 series",
+      "source": "Flickr（Gisle Hannemyr）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/gisleh/14573519/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak DCS 400 series",
+      "url": "https://camera-wiki.org/wiki/Kodak%20DCS%20400%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

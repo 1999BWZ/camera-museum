@@ -1,0 +1,29 @@
+{
+  "id": "canon-autoboy-luna-xl",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Autoboy Luna XL",
+  "year": 1999,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片相机，1999 年发布",
+  "description": "The Canon Autoboy Luna XL is a compact, automatic 35mm film camera introduced in 1999, with a zoom lens and autofocus, and a dial for selecting shooting modes.[http://global.canon/en/c-museum/product/film208.html Autoboy Luna XL on Canon Camera Museum] It was released in Japan only.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Autoboy Luna XL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Autoboy Luna XL",
+      "url": "https://camera-wiki.org/wiki/Canon%20Autoboy%20Luna%20XL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

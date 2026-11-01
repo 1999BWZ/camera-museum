@@ -1,0 +1,29 @@
+{
+  "id": "wards-slr-500-600",
+  "brand": "Wards",
+  "brand_cn": "",
+  "brand_slug": "wards",
+  "country": "待补充",
+  "manufacturer": "Wards",
+  "model": "SLR 500 & 600",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wards胶片单反相机，1964 年发布",
+  "description": "The Wards SLR 500 and SLR 600 cameras were fully mechanical SLRs sold by the Montgomery Ward department store chain.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wards SLR 500 & 600"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wards SLR 500 & 600",
+      "url": "https://camera-wiki.org/wiki/Wards%20SLR%20500%20%26%20600"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

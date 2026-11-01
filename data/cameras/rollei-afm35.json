@@ -1,0 +1,29 @@
+{
+  "id": "rollei-afm35",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "AFM35",
+  "year": 2002,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，2002 年发布",
+  "description": "The AFM35 is a compact 35 mm camera distributed by Rollei.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei AFM35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei AFM35",
+      "url": "https://camera-wiki.org/wiki/Rollei%20AFM35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

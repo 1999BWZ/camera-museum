@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-60-zoom-prima-zoom-shot-autoboy-juno",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot 60 Zoom/Prima Zoom Shot/Autoboy Juno",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1995 年发布",
+  "description": "{|align=right style=\"margin:0px 0px 0px 20px;\"\n||\n\n|-\n||\n\n|}\nA March 1995 model from Canon's Sure Shot series, the Sure Shot 60 Zoom (Europe: Prima Zoom Shot, Japan: Autoboy Juno) is a compact camera with fully automatic 3-zone autofocus and a zoom lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot 60 Zoom/Prima Zoom Shot/Autoboy Juno"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot 60 Zoom/Prima Zoom Shot/Autoboy Juno",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%2060%20Zoom/Prima%20Zoom%20Shot/Autoboy%20Juno"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

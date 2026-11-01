@@ -1,0 +1,40 @@
+{
+  "id": "olympus-e-400-q1193780",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-400",
+  "year": 2006,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，2006 年发布",
+  "description": "奥林巴斯于2006年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1193780",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oly%20e%20400%20voorkant.jpg?width=800",
+      "caption": "E-400",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1193780"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus E-400",
+      "url": "https://www.wikidata.org/wiki/Q1193780"
+    }
+  ],
+  "qid": "Q1193780",
+  "sitelinks": 10,
+  "imported": "wikidata-5k-2026-11-01"
+}

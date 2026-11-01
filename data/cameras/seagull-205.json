@@ -1,0 +1,29 @@
+{
+  "id": "seagull-205",
+  "brand": "Seagull",
+  "brand_cn": "",
+  "brand_slug": "seagull",
+  "country": "待补充",
+  "manufacturer": "Seagull",
+  "model": "205",
+  "year": 1967,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seagull旁轴相机，1967 年发布",
+  "description": "The Phenix 205 (凤凰205 = fèng huáng 205 = phoenix 205) or Seagull 205 (海鸥205) is a rangefinder camera with coupled rangefinder and 1:2.8 f=50mm lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Seagull 205"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Seagull 205",
+      "url": "https://camera-wiki.org/wiki/Seagull%20205"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

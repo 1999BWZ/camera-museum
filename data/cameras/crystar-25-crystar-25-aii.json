@@ -1,0 +1,29 @@
+{
+  "id": "crystar-25-crystar-25-aii",
+  "brand": "Crystar",
+  "brand_cn": "",
+  "brand_slug": "crystar",
+  "country": "待补充",
+  "manufacturer": "Crystar",
+  "model": "25/Crystar 25 AII",
+  "year": 1954,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Crystar胶片相机，1954 年发布",
+  "description": "These were two variants of Crystar's geared-lens TLR from circa 1954.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Crystar 25/Crystar 25 AII"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Crystar 25/Crystar 25 AII",
+      "url": "https://camera-wiki.org/wiki/Crystar%2025/Crystar%2025%20AII"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

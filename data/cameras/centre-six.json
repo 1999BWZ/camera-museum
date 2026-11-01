@@ -1,0 +1,29 @@
+{
+  "id": "centre-six",
+  "brand": "Centre",
+  "brand_cn": "",
+  "brand_slug": "centre",
+  "country": "待补充",
+  "manufacturer": "Centre",
+  "model": "Six",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Centre折叠相机，1951 年发布",
+  "description": "The Centre Six or Center Six (センターシックス) The camera itself is engraved Centre Six but it is called \"Center Six\" in an advertisement in Asahi Camera November 1951, reproduced in , p.145.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Centre Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Centre Six",
+      "url": "https://camera-wiki.org/wiki/Centre%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

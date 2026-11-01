@@ -1,0 +1,40 @@
+{
+  "id": "ricoh-gr-digital-q7332326",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "GR Digital",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，2005 年发布",
+  "description": "理光于2005年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7332326",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricoh%20GR%20Digital%201st%20Anniversary%20Model.jpg?width=800",
+      "caption": "GR Digital",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q7332326"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Ricoh GR Digital",
+      "url": "https://www.wikidata.org/wiki/Q7332326"
+    }
+  ],
+  "qid": "Q7332326",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

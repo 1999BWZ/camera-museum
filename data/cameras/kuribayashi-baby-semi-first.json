@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-baby-semi-first",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Baby Semi First",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi折叠相机，1937 年发布",
+  "description": "The Baby Semi First is a Japanese 4.5×6 folding camera, made by Kuribayashi The attribution to Kuribayashi is confirmed by the , items 8–11.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baby Semi First"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baby Semi First",
+      "url": "https://camera-wiki.org/wiki/Baby%20Semi%20First"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

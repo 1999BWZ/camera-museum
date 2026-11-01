@@ -1,0 +1,29 @@
+{
+  "id": "gomz-reporter",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "待补充",
+  "manufacturer": "GOMZ",
+  "model": "Reporter",
+  "year": 1938,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ旁轴相机，1938 年发布",
+  "description": "The Reporter is a strut-folding press camera for 6.5x9cm plates, made by GOMZ in about 1938.[https://www.leitz-auction.com/en/GOMZ-Reporter/AI-35-38001 Reporter] sold at the [https://www.leitz-auction.com/en/Cameras/Past-Auctions/Auction-35/ 35th Leitz Photographica Auction], on 23 November 2019.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "GOMZ Reporter"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – GOMZ Reporter",
+      "url": "https://camera-wiki.org/wiki/GOMZ%20Reporter"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

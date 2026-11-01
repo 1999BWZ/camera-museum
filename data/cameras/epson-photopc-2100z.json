@@ -1,0 +1,29 @@
+{
+  "id": "epson-photopc-2100z",
+  "brand": "Epson",
+  "brand_cn": "",
+  "brand_slug": "epson",
+  "country": "待补充",
+  "manufacturer": "Epson",
+  "model": "PhotoPC 2100Z",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Epson数码相机，2001 年发布",
+  "description": "The Epson Photo PC 2100Z was introduced in 2001 as a point-and-shoot digital camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Epson PhotoPC 2100Z"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Epson PhotoPC 2100Z",
+      "url": "https://camera-wiki.org/wiki/Epson%20PhotoPC%202100Z"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodak-advantix-3600ix",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Advantix 3600ix",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1996 年发布",
+  "description": "The Advantix 3600ix by Kodak is a camera for APS film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Advantix 3600ix"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Advantix 3600ix",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Advantix%203600ix"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

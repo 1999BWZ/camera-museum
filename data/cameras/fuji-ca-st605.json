@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-st605",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca ST605",
+  "year": 1978,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji数码单反相机，1978 年发布",
+  "description": "The Fujica ST605 is a 35mm SLR made in Japan by Fuji, introduced in c.1976.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica ST605"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica ST605",
+      "url": "https://camera-wiki.org/wiki/Fujica%20ST605"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

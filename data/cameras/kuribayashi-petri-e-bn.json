@@ -1,0 +1,37 @@
+{
+  "id": "kuribayashi-petri-e-bn",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri E.Bn",
+  "year": 1960,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi旁轴相机，1960 年发布",
+  "description": "__NOTOC__\n\nThe Petri E.Bn is a Japanese fixed-lens 35mm rangefinder introduced by Kuribayashi/Petri in 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri E.Bn"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm5.static.flickr.com/4034/4385365148_c8046a5fea_z.jpg",
+      "caption": "Petri E.Bn",
+      "source": "Flickr（Anthony Rabun）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/verelse/4385365148/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri E.Bn",
+      "url": "https://camera-wiki.org/wiki/Petri%20E.Bn"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

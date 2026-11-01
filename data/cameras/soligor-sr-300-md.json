@@ -1,0 +1,29 @@
+{
+  "id": "soligor-sr-300-md",
+  "brand": "Soligor",
+  "brand_cn": "",
+  "brand_slug": "soligor",
+  "country": "待补充",
+  "manufacturer": "Soligor",
+  "model": "SR-300 MD",
+  "year": 1994,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Soligor数码单反相机，1994 年发布",
+  "description": "The Soligor SR-300 MD is a compact SLR camera body with a Minolta MD SR-bayonet mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Soligor SR-300 MD"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Soligor SR-300 MD",
+      "url": "https://camera-wiki.org/wiki/Soligor%20SR-300%20MD"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

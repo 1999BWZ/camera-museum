@@ -1,0 +1,29 @@
+{
+  "id": "linden-lindi",
+  "brand": "Linden",
+  "brand_cn": "",
+  "brand_slug": "linden",
+  "country": "待补充",
+  "manufacturer": "Linden",
+  "model": "Lindi",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Linden盒式相机，1950 年发布",
+  "description": "The Lindi is a simple non-adjustable box camera made by Linden for 6x6cm exposures on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Linden Lindi"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Linden Lindi",
+      "url": "https://camera-wiki.org/wiki/Linden%20Lindi"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

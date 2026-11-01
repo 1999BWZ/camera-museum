@@ -1,0 +1,29 @@
+{
+  "id": "fuji-k-gaku-dianette-and-pionette",
+  "brand": "Fuji Kōgaku",
+  "brand_cn": "",
+  "brand_slug": "fuji-k-gaku",
+  "country": "待补充",
+  "manufacturer": "Fuji Kōgaku",
+  "model": "Dianette and Pionette",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji Kōgaku折叠相机，1936 年发布",
+  "description": "The Dianette (ダイアネット) and Pionette (ピオネット) are Japanese strut-folders taking 4×6.5cm and 3×4cm exposures on 127 film, made by Fuji Kōgaku around 1936.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Dianette and Pionette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Dianette and Pionette",
+      "url": "https://camera-wiki.org/wiki/Dianette%20and%20Pionette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

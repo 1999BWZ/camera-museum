@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-1000-q117715379",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS 1000",
+  "year": 1990,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片单反相机，1990 年发布",
+  "description": "佳能于1990年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q117715379",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EOS%20Rebel%20body.jpg?width=800",
+      "caption": "EOS 1000",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q117715379"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon EOS 1000",
+      "url": "https://www.wikidata.org/wiki/Q117715379"
+    }
+  ],
+  "qid": "Q117715379",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

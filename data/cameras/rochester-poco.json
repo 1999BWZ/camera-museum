@@ -1,0 +1,29 @@
+{
+  "id": "rochester-poco",
+  "brand": "Rochester",
+  "brand_cn": "",
+  "brand_slug": "rochester",
+  "country": "待补充",
+  "manufacturer": "Rochester",
+  "model": "Poco",
+  "year": 1893,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rochester旁轴相机（折叠），1893 年发布",
+  "description": "The Poco and Cycle Poco camera series were made by Rochester Camera and Supply Co..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Poco"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Poco",
+      "url": "https://camera-wiki.org/wiki/Poco"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

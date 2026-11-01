@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-big-shot",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Big Shot",
+  "year": 1971,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1971 年发布",
+  "description": "The Big Shot was one of the most unusual cameras Polaroid ever introduced.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Big Shot"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Big Shot",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Big%20Shot"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ansco-junior-model-a",
+  "brand": "Ansco",
+  "brand_cn": "",
+  "brand_slug": "ansco",
+  "country": "美国",
+  "manufacturer": "Ansco",
+  "model": "Junior Model A",
+  "year": 1906,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ansco折叠相机，1906 年发布",
+  "description": "Ansco Junior Model A, a folding bed camera for rollfilm, made from 1906 to 1913, with fine lens in ever-ready T/B/I-modes shutter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ansco Junior Model A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ansco Junior Model A",
+      "url": "https://camera-wiki.org/wiki/Ansco%20Junior%20Model%20A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

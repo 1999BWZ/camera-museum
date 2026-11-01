@@ -1,0 +1,29 @@
+{
+  "id": "olympus-az-300-super-zoom-infinity-zoom-300-izm300",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "AZ-300 Super Zoom/Infinity Zoom 300/IZM300",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "便携相机（桥机）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机（桥机），1988 年发布",
+  "description": "The Olympus AZ300 Superzoom (aka the Infinity 300 and IZM300) is a bulky point and shoot zoom camera taking 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus AZ-300 Super Zoom/Infinity Zoom 300/IZM300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus AZ-300 Super Zoom/Infinity Zoom 300/IZM300",
+      "url": "https://camera-wiki.org/wiki/Olympus%20AZ-300%20Super%20Zoom/Infinity%20Zoom%20300/IZM300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-finepix-xp",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "FinePix XP",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，2010 年发布",
+  "description": "The Fujifilm FinePix XP cameras are digital compact cameras for outdoor usage.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm FinePix XP"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm FinePix XP",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20FinePix%20XP"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

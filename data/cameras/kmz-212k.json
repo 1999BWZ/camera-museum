@@ -1,0 +1,29 @@
+{
+  "id": "kmz-212k",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "俄罗斯",
+  "manufacturer": "KMZ",
+  "model": "212k",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ胶片单反相机，1994 年发布",
+  "description": "The Zenit 212k is a 35mm film SLR camera made in 1994 by KMZ in Russia.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit 212k"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit 212k",
+      "url": "https://camera-wiki.org/wiki/Zenit%20212k"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

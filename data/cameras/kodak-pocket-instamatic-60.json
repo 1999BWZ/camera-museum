@@ -1,0 +1,37 @@
+{
+  "id": "kodak-pocket-instamatic-60",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Pocket Instamatic 60",
+  "year": 1972,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1972 年发布",
+  "description": "One of many Kodak models for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Pocket Instamatic 60"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm1.static.flickr.com/99/283191869_3b14bbceff.jpg",
+      "caption": "Pocket Instamatic 60",
+      "source": "Flickr（pointnshoot）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/pointnshoot/283191869/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Pocket Instamatic 60",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Pocket%20Instamatic%2060"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

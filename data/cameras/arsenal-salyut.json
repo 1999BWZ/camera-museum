@@ -1,0 +1,29 @@
+{
+  "id": "arsenal-salyut",
+  "brand": "Arsenal",
+  "brand_cn": "",
+  "brand_slug": "arsenal",
+  "country": "待补充",
+  "manufacturer": "Arsenal",
+  "model": "Salyut",
+  "year": 1957,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arsenal胶片单反相机，1957 年发布",
+  "description": "Salyut is a medium format SLR film system camera, manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR , made from 1957-1974 with quantity 50000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Salyut"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Salyut",
+      "url": "https://camera-wiki.org/wiki/Salyut"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

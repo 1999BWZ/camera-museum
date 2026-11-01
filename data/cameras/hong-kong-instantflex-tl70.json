@@ -1,0 +1,29 @@
+{
+  "id": "hong-kong-instantflex-tl70",
+  "brand": "Hong Kong",
+  "brand_cn": "",
+  "brand_slug": "hong-kong",
+  "country": "待补充",
+  "manufacturer": "Hong Kong",
+  "model": "InstantFlex TL70",
+  "year": 2015,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hong Kong一次成像相机，2015 年发布",
+  "description": "The InstantFlex TL70 is an instant TLR camera manufactured by Mint and released in 2015.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "InstantFlex TL70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – InstantFlex TL70",
+      "url": "https://camera-wiki.org/wiki/InstantFlex%20TL70"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

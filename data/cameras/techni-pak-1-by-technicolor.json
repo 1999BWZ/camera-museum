@@ -1,0 +1,29 @@
+{
+  "id": "techni-pak-1-by-technicolor",
+  "brand": "Techni-pak",
+  "brand_cn": "",
+  "brand_slug": "techni-pak",
+  "country": "待补充",
+  "manufacturer": "Techni-pak",
+  "model": "1 by Technicolor",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Techni-pak取景器相机，1960 年发布",
+  "description": "The Techni-pak 1 by Technicolor is a simple plastic \"single use\" camera, preloaded with color film for 20 exposures.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Techni-pak 1 by Technicolor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Techni-pak 1 by Technicolor",
+      "url": "https://camera-wiki.org/wiki/Techni-pak%201%20by%20Technicolor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

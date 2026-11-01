@@ -1,0 +1,40 @@
+{
+  "id": "panasonic-lumix-dc-g9",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "松下電器",
+  "model": "Lumix DC-G9",
+  "year": 2017,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下便携相机，2017 年发布",
+  "description": "松下于2017年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q47312693",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panasonic.Lumix.DC-G9.jpg?width=800",
+      "caption": "Lumix DC-G9",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q47312693"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Panasonic Lumix DC-G9",
+      "url": "https://www.wikidata.org/wiki/Q47312693"
+    }
+  ],
+  "qid": "Q47312693",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

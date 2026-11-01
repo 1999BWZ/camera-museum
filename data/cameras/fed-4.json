@@ -1,0 +1,29 @@
+{
+  "id": "fed-4",
+  "brand": "FED",
+  "brand_cn": "",
+  "brand_slug": "fed",
+  "country": "待补充",
+  "manufacturer": "FED",
+  "model": "4",
+  "year": 1964,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FED旁轴相机，1964 年发布",
+  "description": "The FED 4 rangefinder camera was produced by the FED factory in Kharkov, Ukraine from 1964 to 1980.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "FED 4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – FED 4",
+      "url": "https://camera-wiki.org/wiki/FED%204"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

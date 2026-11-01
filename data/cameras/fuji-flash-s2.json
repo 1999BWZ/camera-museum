@@ -1,0 +1,29 @@
+{
+  "id": "fuji-flash-s2",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "Flash S2",
+  "year": 1985,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji取景器相机，1985 年发布",
+  "description": "The Flash S2 is a compact 35mm film camera by Fuji.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji Flash S2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji Flash S2",
+      "url": "https://camera-wiki.org/wiki/Fuji%20Flash%20S2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

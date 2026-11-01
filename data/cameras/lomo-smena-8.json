@@ -1,0 +1,29 @@
+{
+  "id": "lomo-smena-8",
+  "brand": "LOMO",
+  "brand_cn": "",
+  "brand_slug": "lomo",
+  "country": "待补充",
+  "manufacturer": "LOMO",
+  "model": "Smena 8",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "LOMO取景器相机，1963 年发布",
+  "description": "LOMO于1963年发布的取景器相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Smena 8"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Smena 8",
+      "url": "https://camera-wiki.org/wiki/Smena%208"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

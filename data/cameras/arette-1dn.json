@@ -1,0 +1,29 @@
+{
+  "id": "arette-1dn",
+  "brand": "Arette",
+  "brand_cn": "",
+  "brand_slug": "arette",
+  "country": "待补充",
+  "manufacturer": "Arette",
+  "model": "1Dn",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arette旁轴相机，1957 年发布",
+  "description": "The Arette 1DN, was made by Apparate & Kamerabau in 1958, and was one of the Arette series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Arette 1Dn"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Arette 1Dn",
+      "url": "https://camera-wiki.org/wiki/Arette%201Dn"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-500-el-m",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "500 EL/M",
+  "year": 1971,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏胶片单反相机，1971 年发布",
+  "description": "The Hasselblad 500 EL/M is a medium format film SLR system camera with motor drive, manufactured by Victor Hasselblad Aktiebolag, Göteborg, Sweden, and produced between 1971-84.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad 500 EL/M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad 500 EL/M",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%20500%20EL/M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

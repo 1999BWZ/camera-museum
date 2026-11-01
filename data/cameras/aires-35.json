@@ -1,0 +1,29 @@
+{
+  "id": "aires-35",
+  "brand": "Aires",
+  "brand_cn": "",
+  "brand_slug": "aires",
+  "country": "待补充",
+  "manufacturer": "Aires",
+  "model": "35",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aires旁轴相机，1954 年发布",
+  "description": "{|class=plainlinks align=right\n|\n \n|-\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Aires 35 series of rangefinder cameras were made by Aires from 1954 through 1962.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Aires 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Aires 35",
+      "url": "https://camera-wiki.org/wiki/Aires%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

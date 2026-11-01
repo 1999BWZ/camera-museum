@@ -1,0 +1,37 @@
+{
+  "id": "pentax-k-7",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "K-7",
+  "year": 2009,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得无反相机，2009 年发布",
+  "description": "The K-7 succeeded the K20D in 2009 as the top DSLR model from Pentax, using K-mount lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax K-7"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm6.static.flickr.com/5249/5214209927_6b1f57a4e9.jpg",
+      "caption": "K-7",
+      "source": "Flickr（nubobo）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/nubobo/5214209927/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax K-7",
+      "url": "https://camera-wiki.org/wiki/Pentax%20K-7"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

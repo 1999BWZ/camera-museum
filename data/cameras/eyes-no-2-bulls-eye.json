@@ -1,0 +1,29 @@
+{
+  "id": "eyes-no-2-bulls-eye",
+  "brand": "Eyes",
+  "brand_cn": "",
+  "brand_slug": "eyes",
+  "country": "待补充",
+  "manufacturer": "Eyes",
+  "model": "No. 2 Bulls-Eye",
+  "year": 1892,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Eyes盒式相机，1892 年发布",
+  "description": "Eyes于1892年发布的盒式相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 2 Bulls-Eye"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 2 Bulls-Eye",
+      "url": "https://camera-wiki.org/wiki/No.%202%20Bulls-Eye"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

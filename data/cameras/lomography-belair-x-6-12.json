@@ -1,0 +1,29 @@
+{
+  "id": "lomography-belair-x-6-12",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "Belair X 6-12",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography折叠相机，2012 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|} \n\nThe Belair X 6-12 is a interchangeable lens, medium format, auto exposure folding panorama camera released by Lomography in 2012.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lomography Belair X 6-12"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lomography Belair X 6-12",
+      "url": "https://camera-wiki.org/wiki/Lomography%20Belair%20X%206-12"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

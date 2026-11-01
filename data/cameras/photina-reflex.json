@@ -1,0 +1,29 @@
+{
+  "id": "photina-reflex",
+  "brand": "Photina",
+  "brand_cn": "",
+  "brand_slug": "photina",
+  "country": "待补充",
+  "manufacturer": "Photina",
+  "model": "Reflex",
+  "year": 1952,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Photina双镜头反光相机，1952 年发布",
+  "description": "The Photina is a pseudo TLR camera for 6&times;6cm exposures on 120 film, made in 1952 by Photavit in Nürnberg, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Photina Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Photina Reflex",
+      "url": "https://camera-wiki.org/wiki/Photina%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

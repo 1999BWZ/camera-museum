@@ -1,0 +1,29 @@
+{
+  "id": "nobility-lord-se",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Lord SE",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility旁轴相机，1958 年发布",
+  "description": "The Lord SE fixed lens rangefinder camera was made by Okaya Optical Works of Nagano, Japan in 1958, featuring:\n* Rangefinder-coupled Okaya Optical Highkor 40mm / f1.9 to f16 lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lord SE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lord SE",
+      "url": "https://camera-wiki.org/wiki/Lord%20SE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

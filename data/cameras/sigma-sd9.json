@@ -1,0 +1,40 @@
+{
+  "id": "sigma-sd9",
+  "brand": "Sigma",
+  "brand_cn": "适马",
+  "brand_slug": "sigma",
+  "country": "日本",
+  "manufacturer": "适马",
+  "model": "SD9",
+  "year": 2002,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "适马数码单反相机，2002 年发布",
+  "description": "适马于2002年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2284895",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigma%20SD9%20front.jpg?width=800",
+      "caption": "SD9",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2284895"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sigma SD9",
+      "url": "https://www.wikidata.org/wiki/Q2284895"
+    }
+  ],
+  "qid": "Q2284895",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arsenal-kiev-rangefinder",
+  "brand": "Arsenal",
+  "brand_cn": "",
+  "brand_slug": "arsenal",
+  "country": "待补充",
+  "manufacturer": "Arsenal",
+  "model": "Kiev rangefinder",
+  "year": 1947,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arsenal旁轴相机，1947 年发布",
+  "description": "The Kiev rangefinder cameras are derivatives of the pre-WW2 Contax rangefinder bodies, and were made after the War by the Zavod Arsenal factory in Kiev, Ukraine.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kiev rangefinder"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kiev rangefinder",
+      "url": "https://camera-wiki.org/wiki/Kiev%20rangefinder"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

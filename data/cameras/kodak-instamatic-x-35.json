@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-x-35",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic X-35",
+  "year": 1970,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1970 年发布",
+  "description": "The Instamatic X-35 was a viewfinder camera in Kodak's Instamatic series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic X-35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic X-35",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%20X-35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

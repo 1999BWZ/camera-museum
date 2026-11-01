@@ -1,0 +1,29 @@
+{
+  "id": "union-ref-and-hansa-rollette-ref",
+  "brand": "Union",
+  "brand_cn": "",
+  "brand_slug": "union",
+  "country": "待补充",
+  "manufacturer": "Union",
+  "model": "Ref and Hansa Rollette Ref",
+  "year": 1936,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Union胶片相机，1936 年发布",
+  "description": "The Union Ref and Hansa Rollette Ref The name is spelled \"Hanza Rollette Ref\" in , p.339, but this is a typo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Union Ref and Hansa Rollette Ref"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Union Ref and Hansa Rollette Ref",
+      "url": "https://camera-wiki.org/wiki/Union%20Ref%20and%20Hansa%20Rollette%20Ref"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

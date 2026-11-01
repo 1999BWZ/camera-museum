@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-izone200",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "izone200",
+  "year": 2005,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，2005 年发布",
+  "description": "The Polaroid izone200 was a more compact camera type for the Polaroid I-Zone miniature instant film concept, but it needed thicker film packs than the I-Zone camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid izone200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid izone200",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20izone200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "agfa-automatic-66",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Automatic 66",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发旁轴相机，1956 年发布",
+  "description": "The Automatic 66 is an innovative coupled-rangefinder camera for 2¼-inch square (6x6cm) pictures on 120 film, made by Agfa in 1956.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Automatic 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Automatic 66",
+      "url": "https://camera-wiki.org/wiki/Automatic%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

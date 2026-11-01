@@ -1,0 +1,29 @@
+{
+  "id": "tougodo-toyoca-ace",
+  "brand": "Tougodo",
+  "brand_cn": "",
+  "brand_slug": "tougodo",
+  "country": "待补充",
+  "manufacturer": "Tougodo",
+  "model": "Toyoca Ace",
+  "year": 1965,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tougodo微型相机，1965 年发布",
+  "description": "The Toyoca Ace \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Toyoca Ace"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Toyoca Ace",
+      "url": "https://camera-wiki.org/wiki/Toyoca%20Ace"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

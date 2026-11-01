@@ -1,0 +1,29 @@
+{
+  "id": "minolta-weathermatic-35-dl",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Weathermatic 35 DL",
+  "year": 1987,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1987 年发布",
+  "description": "The Weathermatic 35DL issued by Minolta in 1987 is basically the same dual-focus compact camera as the Minolta AF-DL.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Weathermatic 35 DL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Weathermatic 35 DL",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Weathermatic%2035%20DL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

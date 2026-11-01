@@ -1,0 +1,29 @@
+{
+  "id": "kodak-six-20-kodak-a",
+  "brand": "Kodak",
+  "brand_cn": "",
+  "brand_slug": "kodak",
+  "country": "英国",
+  "manufacturer": "Kodak",
+  "model": "Six-20 Kodak A",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kodak折叠相机，1951 年发布",
+  "description": "The Six-20 Kodak A is a camera that was produced in the UK by Kodak Ltd., and unsurprisingly took 620 film (no longer available, though there are several ways to still use 620 film cameras).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Six-20 Kodak A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Six-20 Kodak A",
+      "url": "https://camera-wiki.org/wiki/Six-20%20Kodak%20A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

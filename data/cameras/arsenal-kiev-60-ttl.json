@@ -1,0 +1,29 @@
+{
+  "id": "arsenal-kiev-60-ttl",
+  "brand": "Arsenal",
+  "brand_cn": "",
+  "brand_slug": "arsenal",
+  "country": "待补充",
+  "manufacturer": "Arsenal",
+  "model": "Kiev 60 TTL",
+  "year": 1984,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arsenal胶片单反相机，1984 年发布",
+  "description": "Kiev 60 is a medium format SLR film system camera manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR, and produced between 1984-99.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kiev 60 TTL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kiev 60 TTL",
+      "url": "https://camera-wiki.org/wiki/Kiev%2060%20TTL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

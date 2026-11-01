@@ -1,0 +1,29 @@
+{
+  "id": "plaubel-brooks-plaubel-veriwide-100",
+  "brand": "Plaubel",
+  "brand_cn": "",
+  "brand_slug": "plaubel",
+  "country": "美国",
+  "manufacturer": "Plaubel",
+  "model": "Brooks-Plaubel Veriwide 100",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Plaubel全景相机，1959 年发布",
+  "description": "The Veriwide 100 is a medium format panoramic camera from Brooks in cooperation with Plaubel, and released in about 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Brooks-Plaubel Veriwide 100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Brooks-Plaubel Veriwide 100",
+      "url": "https://camera-wiki.org/wiki/Brooks-Plaubel%20Veriwide%20100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

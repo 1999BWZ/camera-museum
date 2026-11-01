@@ -1,0 +1,29 @@
+{
+  "id": "olympus-eye-44",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Eye 44",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，1959 年发布",
+  "description": "The Olympus Eye 44 (オリンパス・アイ44) or Olympus Eye Flex (オリンパス・アイフレックス) The name \"Olympus Eye 44\" was used in the original press release, notably in June 1959, p.594, where it was presented as a provisional name.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Eye 44"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Eye 44",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Eye%2044"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

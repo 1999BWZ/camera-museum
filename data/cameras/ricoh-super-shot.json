@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-super-shot",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Super Shot",
+  "year": 1965,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光旁轴相机，1965 年发布",
+  "description": "The Ricoh Super Shot is a rangefinder camera with fixed lens made in Japan by Ricoh from 1965.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Super Shot"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Super Shot",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Super%20Shot"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "porst-126s",
+  "brand": "Porst",
+  "brand_cn": "",
+  "brand_slug": "porst",
+  "country": "待补充",
+  "manufacturer": "Porst",
+  "model": "126S",
+  "year": 1970,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Porst胶片相机，1970 年发布",
+  "description": "This Porst 126S camera takes 126 cartridge film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Porst 126S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Porst 126S",
+      "url": "https://camera-wiki.org/wiki/Porst%20126S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

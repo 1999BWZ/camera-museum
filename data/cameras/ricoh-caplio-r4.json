@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-caplio-r4",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Caplio R4",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2006 年发布",
+  "description": "The Caplio R4 is a digital camera produced by Ricoh and released in 2006.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Caplio R4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Caplio R4",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Caplio%20R4"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

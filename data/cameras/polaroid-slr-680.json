@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-slr-680",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "SLR 680",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来胶片单反相机，1982 年发布",
+  "description": "Introduced in 1982, the Polaroid SLR 680 is the sonar-focusing model based on the Polaroid SX-70, this is one of only two Polaroid SLR models that were designed for the later, higher-speed 600 film packs.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid SLR 680"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid SLR 680",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20SLR%20680"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

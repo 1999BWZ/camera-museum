@@ -1,0 +1,29 @@
+{
+  "id": "cosina-ms-1-super",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "MS-1 Super",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina胶片单反相机，1983 年发布",
+  "description": "After the 1976 bankruptcy of the historical Miranda Camera Company, its brand name was recycled by British retailer Dixons for various house-brand camera equipment.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miranda MS-1 Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miranda MS-1 Super",
+      "url": "https://camera-wiki.org/wiki/Miranda%20MS-1%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

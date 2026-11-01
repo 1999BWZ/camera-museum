@@ -1,0 +1,29 @@
+{
+  "id": "olympus-supertrip",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Supertrip",
+  "year": 1985,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯取景器相机，1985 年发布",
+  "description": "The Supertrip is a 35mm fixed focus compact camera from Olympus introduced in c.1985[https://www.collectiecameramuseum.nl/cgi-bin/objecten.pl?ident=03500&search=1980-1990&veld=datering&display=gallery&istart=421 Olympus Supertrip page] at [https://cameramuseum.nl/ Cameramuseum] (in Dutch).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Supertrip"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Supertrip",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Supertrip"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

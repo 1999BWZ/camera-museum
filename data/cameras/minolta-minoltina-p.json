@@ -1,0 +1,29 @@
+{
+  "id": "minolta-minoltina-p",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Minoltina-P",
+  "year": 1964,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达取景器相机，1964 年发布",
+  "description": "The Minoltina-P was a quite compact 35mm viewfinder camera with coupled selenium meter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Minoltina-P"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Minoltina-P",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Minoltina-P"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

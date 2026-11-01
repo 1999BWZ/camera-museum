@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dim-ge-v",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dimâge V",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码相机，1996 年发布",
+  "description": "{|class=floatleft\n||&nbsp;&nbsp;&nbsp;&nbsp;\n|}\n\n\nSaid to be the first digital camera with a swivelling & detachable lens; the lens can be removed from the body, connected by a cable, allowing viewfinding on the LCD screen from different angles to the lens, and changing the flash direction.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dimâge V"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dimâge V",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dim%C3%A2ge%20V"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

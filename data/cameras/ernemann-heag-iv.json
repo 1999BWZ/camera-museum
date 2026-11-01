@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-heag-iv",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Heag IV",
+  "year": 1925,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann折叠相机，1925 年发布",
+  "description": "Ernemann于1925年发布的折叠相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Heag IV"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Heag IV",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Heag%20IV"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

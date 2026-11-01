@@ -1,0 +1,29 @@
+{
+  "id": "kodak-iiis",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "IIIS",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1958 年发布",
+  "description": "The first nonfolding Retina from Kodak AG, the Retina IIIS, factory type 027, was made from 1958 to 1961.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Retina IIIS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Retina IIIS",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Retina%20IIIS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

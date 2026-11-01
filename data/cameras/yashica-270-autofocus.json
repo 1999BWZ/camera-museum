@@ -1,0 +1,29 @@
+{
+  "id": "yashica-270-autofocus",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "270 Autofocus",
+  "year": 1991,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡数码单反相机，1991 年发布",
+  "description": "Yashica, as a division of Kyocera, had begun a new series of SLRs which left behind the earlier C/Y lens mount in favor of a new lens series enabling autofocus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica 270 Autofocus"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica 270 Autofocus",
+      "url": "https://camera-wiki.org/wiki/Yashica%20270%20Autofocus"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

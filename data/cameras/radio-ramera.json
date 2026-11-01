@@ -1,0 +1,29 @@
+{
+  "id": "radio-ramera",
+  "brand": "Radio",
+  "brand_cn": "",
+  "brand_slug": "radio",
+  "country": "待补充",
+  "manufacturer": "Radio",
+  "model": "Ramera",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Radio胶片相机，1959 年发布",
+  "description": "The Ramera (ラメラ) is a combination of a transistor radio and a 16mm camera, made by Kowa in 1959–60.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ramera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ramera",
+      "url": "https://camera-wiki.org/wiki/Ramera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

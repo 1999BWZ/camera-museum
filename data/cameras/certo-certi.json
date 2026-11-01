@@ -1,0 +1,29 @@
+{
+  "id": "certo-certi",
+  "brand": "Certo",
+  "brand_cn": "",
+  "brand_slug": "certo",
+  "country": "待补充",
+  "manufacturer": "Certo",
+  "model": "Certi",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Certo取景器相机，1963 年发布",
+  "description": "{|align=right\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Certi is a viewfinder camera made by Certo introduced in 1963.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Certi"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Certi",
+      "url": "https://camera-wiki.org/wiki/Certi"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

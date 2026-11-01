@@ -1,0 +1,29 @@
+{
+  "id": "nikon-pronea-6i",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Pronea 6i",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1996 年发布",
+  "description": "The Nikon Pronea 6i was an autofocus SLR body for Nikon F mount lenses and IX240 APS film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Pronea 6i"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Pronea 6i",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Pronea%206i"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

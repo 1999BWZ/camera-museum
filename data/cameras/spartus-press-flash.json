@@ -1,0 +1,29 @@
+{
+  "id": "spartus-press-flash",
+  "brand": "Spartus",
+  "brand_cn": "",
+  "brand_slug": "spartus",
+  "country": "待补充",
+  "manufacturer": "Spartus",
+  "model": "Press Flash",
+  "year": 1939,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spartus胶片相机，1939 年发布",
+  "description": "Introduced as the Falcon Press FlashAn example can be seen [https://www.flickr.com/photos/totempoleprops/6015385048/in/pool-camerawiki here] (view [https://www.flickr.com/photos/totempoleprops/6015385048/sizes/l/in/pool-camerawiki larger]), from [http://www.flickr.com/photos/totempoleprops/ Totem Po",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Spartus Press Flash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Spartus Press Flash",
+      "url": "https://camera-wiki.org/wiki/Spartus%20Press%20Flash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

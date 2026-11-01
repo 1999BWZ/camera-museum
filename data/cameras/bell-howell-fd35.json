@@ -1,0 +1,29 @@
+{
+  "id": "bell-howell-fd35",
+  "brand": "Bell",
+  "brand_cn": "",
+  "brand_slug": "bell",
+  "country": "待补充",
+  "manufacturer": "Bell",
+  "model": "& Howell FD35",
+  "year": 1962,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bell胶片相机，1962 年发布",
+  "description": "The FD35 from Bell & Howell is one offshoot of its co-branding arrangement with Canon beginning in 1962.See an [https://www.flickr.com/photos/camerawiki/52561408817/in/pool-camerawiki/ August, 1962, ad in Popular Photography magazine] (Vol.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bell & Howell FD35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bell & Howell FD35",
+      "url": "https://camera-wiki.org/wiki/Bell%20%26%20Howell%20FD35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

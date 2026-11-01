@@ -1,0 +1,29 @@
+{
+  "id": "nikon-nikomat-nikkormat-ft3",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Nikomat/Nikkormat FT3",
+  "year": 1977,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1977 年发布",
+  "description": "This camera, released as the Nikomat FT3 in Japan, was released as the Nikkormat FT3 elsewhere.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikomat/Nikkormat FT3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikomat/Nikkormat FT3",
+      "url": "https://camera-wiki.org/wiki/Nikomat/Nikkormat%20FT3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

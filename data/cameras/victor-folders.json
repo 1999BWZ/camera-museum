@@ -1,0 +1,29 @@
+{
+  "id": "victor-folders",
+  "brand": "Victor",
+  "brand_cn": "",
+  "brand_slug": "victor",
+  "country": "待补充",
+  "manufacturer": "Victor",
+  "model": "folders",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Victor折叠相机，1937 年发布",
+  "description": "See also the Auto Victor rigid model and the Victor Vest.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Victor folders"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Victor folders",
+      "url": "https://camera-wiki.org/wiki/Victor%20folders"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

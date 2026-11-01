@@ -1,0 +1,29 @@
+{
+  "id": "yashica-35-me",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "35-ME",
+  "year": 1972,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡取景器相机，1972 年发布",
+  "description": "The Yashica 35-ME is a small, compact 35mm viewfinder camera with auto exposure, made in Japan by Yashica, introduced c.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica 35-ME"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica 35-ME",
+      "url": "https://camera-wiki.org/wiki/Yashica%2035-ME"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

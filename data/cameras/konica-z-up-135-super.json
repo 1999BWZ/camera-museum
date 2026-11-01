@@ -1,0 +1,29 @@
+{
+  "id": "konica-z-up-135-super",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Z-up 135 Super",
+  "year": 1995,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1995 年发布",
+  "description": "Compact viewfinder camera, full automatic exposure and focus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Z-up 135 Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Z-up 135 Super",
+      "url": "https://camera-wiki.org/wiki/Konica%20Z-up%20135%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

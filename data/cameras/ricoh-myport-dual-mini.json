@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-myport-dual-mini",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Myport Dual mini",
+  "year": 1992,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1992 年发布",
+  "description": "The Myport Dual mini is a bi-focal autofocus compact camera for 35mm film, introduced by Japanese manufacturer Ricoh in June 1992.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Myport Dual mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Myport Dual mini",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Myport%20Dual%20mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-bobette-ii",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Bobette II",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon折叠相机，1936 年发布",
+  "description": "The Bobette II is one of the Ernemann cameras that was continued in production after the merger that created Zeiss Ikon in 1926.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bobette II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bobette II",
+      "url": "https://camera-wiki.org/wiki/Bobette%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

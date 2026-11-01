@@ -1,0 +1,29 @@
+{
+  "id": "ica-volta",
+  "brand": "ICA",
+  "brand_cn": "",
+  "brand_slug": "ica",
+  "country": "待补充",
+  "manufacturer": "ICA",
+  "model": "Volta",
+  "year": 1920,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "ICA折叠相机，1920 年发布",
+  "description": "The Volta is a folding bed camera for 9x12cm plates or sheet film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Volta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Volta",
+      "url": "https://camera-wiki.org/wiki/Volta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

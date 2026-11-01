@@ -1,0 +1,29 @@
+{
+  "id": "ofuna-six",
+  "brand": "Ofuna",
+  "brand_cn": "",
+  "brand_slug": "ofuna",
+  "country": "待补充",
+  "manufacturer": "Ofuna",
+  "model": "Six",
+  "year": 1953,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ofuna旁轴相机，1953 年发布",
+  "description": "Ofuna Six (オフナーシックス, Ofunā Shikkusu)Note the change of pronunciation from that of Ōfuna (大船), the manufacturer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ofuna Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ofuna Six",
+      "url": "https://camera-wiki.org/wiki/Ofuna%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

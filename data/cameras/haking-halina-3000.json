@@ -1,0 +1,29 @@
+{
+  "id": "haking-halina-3000",
+  "brand": "Haking",
+  "brand_cn": "",
+  "brand_slug": "haking",
+  "country": "待补充",
+  "manufacturer": "Haking",
+  "model": "Halina 3000",
+  "year": 1974,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Haking取景器相机，1974 年发布",
+  "description": "The Halina 3000 is a viewfinder camera for 35mm film, with a built-in meter, made by Hakings in Hong Kong - introduced c.1974.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Halina 3000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Halina 3000",
+      "url": "https://camera-wiki.org/wiki/Halina%203000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

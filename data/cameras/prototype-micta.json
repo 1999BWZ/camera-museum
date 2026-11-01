@@ -1,0 +1,29 @@
+{
+  "id": "prototype-micta",
+  "brand": "Prototype",
+  "brand_cn": "",
+  "brand_slug": "prototype",
+  "country": "待补充",
+  "manufacturer": "Prototype",
+  "model": "Micta",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Prototype微型相机，1952 年发布",
+  "description": "The Micta (ミクタ) is a Japanese subminiature camera, made at prototype level, perhaps in 1952–3.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Micta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Micta",
+      "url": "https://camera-wiki.org/wiki/Micta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

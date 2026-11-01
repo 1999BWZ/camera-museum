@@ -1,0 +1,29 @@
+{
+  "id": "rollei-tele-pocketline-300",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "Tele Pocketline 300",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1977 年发布",
+  "description": "The Rollei Tele Pocketline 300 was one of three very similar basic 110 film cameras made from 1977 - 1979.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei Tele Pocketline 300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei Tele Pocketline 300",
+      "url": "https://camera-wiki.org/wiki/Rollei%20Tele%20Pocketline%20300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

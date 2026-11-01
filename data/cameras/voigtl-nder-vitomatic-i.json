@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-vitomatic-i",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Vitomatic I",
+  "year": 1957,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer取景器相机，1957 年发布",
+  "description": "There were four generations of Voigtlander Vitomatic cameras, all of which had coupled light meters.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vitomatic I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vitomatic I",
+      "url": "https://camera-wiki.org/wiki/Vitomatic%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

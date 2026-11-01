@@ -1,0 +1,29 @@
+{
+  "id": "pentax-645",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "645",
+  "year": 1984,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1984 年发布",
+  "description": "__TOC__\n\nThe Pentax 645 is a medium format SLR camera, introduced at the 1984 PMA.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax 645"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax 645",
+      "url": "https://camera-wiki.org/wiki/Pentax%20645"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

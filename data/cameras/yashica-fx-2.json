@@ -1,0 +1,29 @@
+{
+  "id": "yashica-fx-2",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "FX-2",
+  "year": 1976,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡数码单反相机，1976 年发布",
+  "description": "__NOTOc__\nThe Yashica FX-2 is a 35mm SLR camera manufactured by Yashica in 1976.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica FX-2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica FX-2",
+      "url": "https://camera-wiki.org/wiki/Yashica%20FX-2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

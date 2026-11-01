@@ -1,0 +1,40 @@
+{
+  "id": "sony-nex-5n",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "NEX-5N",
+  "year": 2011,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼无反相机，2011 年发布",
+  "description": "索尼于2011年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q115858",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Alpha%20NEX-5N%20-%2008.JPG?width=800",
+      "caption": "NEX-5N",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q115858"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 索尼 NEX-5N",
+      "url": "https://www.wikidata.org/wiki/Q115858"
+    }
+  ],
+  "qid": "Q115858",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

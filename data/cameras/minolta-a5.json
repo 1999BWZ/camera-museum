@@ -1,0 +1,29 @@
+{
+  "id": "minolta-a5",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "A5",
+  "year": 1960,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1960 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Minolta A5 was the last of Minolta's A-series rangefinder cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta A5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta A5",
+      "url": "https://camera-wiki.org/wiki/Minolta%20A5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

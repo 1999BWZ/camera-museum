@@ -1,0 +1,37 @@
+{
+  "id": "canon-a-1",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "A-1",
+  "year": 1978,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片单反相机，1978 年发布",
+  "description": "The A-1 is a 35mm SLR camera from Canon that, like its predecessor the AE-1, was innovative when released in 1978.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon A-1"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm1.static.flickr.com/95/281049981_91621fa71d.jpg",
+      "caption": "A-1",
+      "source": "Flickr（pointnshoot）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/pointnshoot/281049981/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon A-1",
+      "url": "https://camera-wiki.org/wiki/Canon%20A-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dim-ge-2300",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dimâge 2300",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码相机，2000 年发布",
+  "description": "This slow digital camera, the Minolta Dimâge 2300, is a taiwanese OEM product, badged as Minolta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dimâge 2300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dimâge 2300",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dim%C3%A2ge%202300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

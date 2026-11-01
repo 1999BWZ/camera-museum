@@ -1,0 +1,29 @@
+{
+  "id": "kodak-no-2c-kodak-series-iii",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "No. 2C Kodak Series III",
+  "year": 1924,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1924 年发布",
+  "description": "柯达于1924年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 2C Kodak Series III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 2C Kodak Series III",
+      "url": "https://camera-wiki.org/wiki/No.%202C%20Kodak%20Series%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pentax-sfx",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "SFX",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1987 年发布",
+  "description": "The Pentax SFX (SF-1 in US), dating from 1987, was the world's first autofocus 35mm film SLR with built-in TTL auto flash.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax SFX (SF1)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax SFX (SF1)",
+      "url": "https://camera-wiki.org/wiki/Pentax%20SFX%20%28SF1%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

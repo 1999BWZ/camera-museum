@@ -1,0 +1,29 @@
+{
+  "id": "mom-fotobox",
+  "brand": "MOM",
+  "brand_cn": "",
+  "brand_slug": "mom",
+  "country": "匈牙利",
+  "manufacturer": "MOM",
+  "model": "Fotobox",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "MOM盒式相机，1959 年发布",
+  "description": "There is also a French Fotobox\n\nFotobox is a steel sheet box camera from MOM (Magyar Optikai Művek, Hungarian Optical Works) with reverse-Galilean finder, rotary shutter 1/25, 1/50, 1/100, B, with a flash contact.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "MOM Fotobox"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – MOM Fotobox",
+      "url": "https://camera-wiki.org/wiki/MOM%20Fotobox"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

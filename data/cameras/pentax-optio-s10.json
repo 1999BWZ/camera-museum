@@ -1,0 +1,29 @@
+{
+  "id": "pentax-optio-s10",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Optio S10",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2007 年发布",
+  "description": "The Optio S10 is a digital compact camera from Japanese manufacturer Pentax released in 2007.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Optio S10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Optio S10",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Optio%20S10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

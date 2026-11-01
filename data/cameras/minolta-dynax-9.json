@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-9",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 9",
+  "year": 1999,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1999 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Dynax 9 is an auto-focus 35mm SLR camera made by Minolta in c.1999[https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBPERS01:003175013:mpeg21:a00264 Foka advertisement in Dutch newspaper \"Algemeen Dagblad\", April 16 1999].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 9"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 9",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%209"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

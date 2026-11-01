@@ -1,0 +1,29 @@
+{
+  "id": "nikon-af600-lite-touch-minitouch",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "AF600/Lite•Touch/MiniTouch",
+  "year": 1993,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1993 年发布",
+  "description": "__NOTOC__ \n\nThe Nikon AF600 is a autofocus, auto-exposure, compact camera for 35mm film, introduced by Nikon in 1993.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon AF600/Lite•Touch/MiniTouch (QD)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon AF600/Lite•Touch/MiniTouch (QD)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20AF600/Lite%E2%80%A2Touch/MiniTouch%20%28QD%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

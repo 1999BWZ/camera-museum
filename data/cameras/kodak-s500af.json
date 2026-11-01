@@ -1,0 +1,29 @@
+{
+  "id": "kodak-s500af",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "S500AF",
+  "year": 1989,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1989 年发布",
+  "description": "From the Kodak S-series point-and-shoot line, the S500AF had a 35mm f3.5 lens with autofocus, autoexposure and power winding.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak S500AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak S500AF",
+      "url": "https://camera-wiki.org/wiki/Kodak%20S500AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

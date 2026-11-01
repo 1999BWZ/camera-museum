@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f5-q1510216",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F5",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，1996 年发布",
+  "description": "尼康于1996年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1510216",
+    "多语言词条数": "11"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/16-04-09%20Nikon%20F5%20RalfR%20WAT%206948.jpg?width=800",
+      "caption": "F5",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1510216"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康F5",
+      "url": "https://www.wikidata.org/wiki/Q1510216"
+    }
+  ],
+  "qid": "Q1510216",
+  "sitelinks": 11,
+  "imported": "wikidata-5k-2026-11-01"
+}

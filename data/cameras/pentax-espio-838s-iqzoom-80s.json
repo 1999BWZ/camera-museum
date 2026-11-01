@@ -1,0 +1,29 @@
+{
+  "id": "pentax-espio-838s-iqzoom-80s",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Espio 838S / IQZoom 80S",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得便携相机，2002 年发布",
+  "description": "The Pentax Espio 838S is a fully automatic compact camera manufactured by Pentax in 2002[https://collection-appareils.fr/x/html/camera-13157.html Pentax Espio 838S page] at [https://www.collection-appareils.fr/ Sylvain Halgand's www.collection-appareils.fr] (in French)].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Espio 838S / IQZoom 80S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Espio 838S / IQZoom 80S",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Espio%20838S%20/%20IQZoom%2080S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

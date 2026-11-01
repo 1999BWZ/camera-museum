@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-lynx",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "法国",
+  "manufacturer": "Bestiary",
+  "model": "Lynx",
+  "year": 1942,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary取景器相机，1942 年发布",
+  "description": "Lynx is also a name used for Yashica rangefinder cameras\n\nThe Lynx is a 3x4 camera, using 127 film, made from 1942 to 1950 by the French maker MFAP (Pontiac).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lynx"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lynx",
+      "url": "https://camera-wiki.org/wiki/Lynx"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

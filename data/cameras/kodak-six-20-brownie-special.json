@@ -1,0 +1,29 @@
+{
+  "id": "kodak-six-20-brownie-special",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Six-20 Brownie Special",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1938 年发布",
+  "description": "The Kodak Six-20 Brownie Special is a sheet metal box camera made for 620 roll film by Kodak in the USA.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Six-20 Brownie Special"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Six-20 Brownie Special",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Six-20%20Brownie%20Special"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

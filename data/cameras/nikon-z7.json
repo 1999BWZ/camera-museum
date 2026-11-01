@@ -1,0 +1,29 @@
+{
+  "id": "nikon-z7",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Z7",
+  "year": 2018,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2018 年发布",
+  "description": "In September 2018 Nikon answered the challenge which was given since 2013 by the 35mm (=&nbsp;\"full-frame\" =&nbsp;small format) CSCs of the Sony α system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Z7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Z7",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Z7"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

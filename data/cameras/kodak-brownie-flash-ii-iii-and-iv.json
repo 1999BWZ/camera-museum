@@ -1,0 +1,29 @@
+{
+  "id": "kodak-brownie-flash-ii-iii-and-iv",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Brownie Flash II, III and IV",
+  "year": 1956,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1956 年发布",
+  "description": "The Kodak Brownie Flash II, III and IV were box cameras, taking 2&frac14; &times; 3&frac14;\" exposures on type 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Brownie Flash II, III and IV"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Brownie Flash II, III and IV",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Brownie%20Flash%20II%2C%20III%20and%20IV"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

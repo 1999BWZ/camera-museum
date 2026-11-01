@@ -1,0 +1,29 @@
+{
+  "id": "tdc-stereo-colorist",
+  "brand": "TDC",
+  "brand_cn": "",
+  "brand_slug": "tdc",
+  "country": "待补充",
+  "manufacturer": "TDC",
+  "model": "Stereo Colorist",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "TDC立体相机，1954 年发布",
+  "description": "The TDC Stereo Colorist was introduced in 1954 as a competitor in the stereo market to the popular Stereo Realist.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "TDC Stereo Colorist"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – TDC Stereo Colorist",
+      "url": "https://camera-wiki.org/wiki/TDC%20Stereo%20Colorist"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

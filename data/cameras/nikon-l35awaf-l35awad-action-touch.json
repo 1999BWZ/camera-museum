@@ -1,0 +1,29 @@
+{
+  "id": "nikon-l35awaf-l35awad-action-touch",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "L35AWAF/L35AWAD/Action•Touch",
+  "year": 1986,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1986 年发布",
+  "description": "{|class=floatright\n||\n\n\n|}\nThe Nikon L35AWAF (also known as Action•Touch) was a compact camera for 35mm film, introduced as part of the L series, by Nikon in 1986.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon L35AWAF/L35AWAD/Action•Touch"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon L35AWAF/L35AWAD/Action•Touch",
+      "url": "https://camera-wiki.org/wiki/Nikon%20L35AWAF/L35AWAD/Action%E2%80%A2Touch"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

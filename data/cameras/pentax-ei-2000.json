@@ -1,0 +1,29 @@
+{
+  "id": "pentax-ei-2000",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "EI-2000",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2000 年发布",
+  "description": "The EI-2000 is a digital camera from Pentax.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax EI-2000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax EI-2000",
+      "url": "https://camera-wiki.org/wiki/Pentax%20EI-2000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

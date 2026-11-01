@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-500-st",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "500 ST",
+  "year": 1980,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光取景器相机，1980 年发布",
+  "description": "In 1980 Ricoh presented four new models of the popular \"500\" compact camera series for 35mm film at the Photokina in Cologne: The 500 ST and the 500 ZF, both viewfinder, the latter one without self-timer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh 500 ST"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh 500 ST",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20500%20ST"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "canon-110ed-20",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "110ED 20",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片相机，1977 年发布",
+  "description": "The Canon 110ED20 is a 110 film camera released from Canon in 1977.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon 110ED 20"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm2.staticflickr.com/1275/5178215735_3d9b3e45b1.jpg",
+      "caption": "110ED 20",
+      "source": "Flickr（edjpgcom）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/maderik/5178215735/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon 110ED 20",
+      "url": "https://camera-wiki.org/wiki/Canon%20110ED%2020"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

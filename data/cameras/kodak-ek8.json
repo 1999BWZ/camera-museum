@@ -1,0 +1,29 @@
+{
+  "id": "kodak-ek8",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "EK8",
+  "year": 1977,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达一次成像相机，1977 年发布",
+  "description": "Kodak AG produced this folding bellows camera in Germany from 1977-79 to use it's own PR10 instant print film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak EK8"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak EK8",
+      "url": "https://camera-wiki.org/wiki/Kodak%20EK8"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kershaw-soho-soho-model-b",
+  "brand": "Kershaw-Soho",
+  "brand_cn": "",
+  "brand_slug": "kershaw-soho",
+  "country": "英国",
+  "manufacturer": "Kershaw-Soho",
+  "model": "Soho Model B",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kershaw-Soho折叠相机，1935 年发布",
+  "description": "The Soho Model B is a 120 roll film camera sold by Soho Ltd.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Soho Model B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Soho Model B",
+      "url": "https://camera-wiki.org/wiki/Soho%20Model%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

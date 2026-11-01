@@ -1,0 +1,29 @@
+{
+  "id": "fuji-fz-5",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "FZ-5",
+  "year": 1989,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji取景器相机，1989 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n\n|}\nA fixed-focus compact camera from Fuji, the FZ-5 was introduced in 1989 after being exhibited at Photokina the previous year.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji FZ-5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji FZ-5",
+      "url": "https://camera-wiki.org/wiki/Fuji%20FZ-5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

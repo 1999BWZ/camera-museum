@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-ps88",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "PS88",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar便携相机，1990 年发布",
+  "description": "Autofocus compact camera for 35mm film sold by Vivitar.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar PS88"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar PS88",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20PS88"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

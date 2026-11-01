@@ -1,0 +1,29 @@
+{
+  "id": "fuji-dl-550-zoom",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "DL-550 Zoom",
+  "year": 1993,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片相机，1993 年发布",
+  "description": "The DL-550 Zoom is a compact 35mm film camera introduced by Fuji in 1993.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji DL-550 Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji DL-550 Zoom",
+      "url": "https://camera-wiki.org/wiki/Fuji%20DL-550%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

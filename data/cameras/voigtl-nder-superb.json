@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-superb",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Superb",
+  "year": 1933,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer胶片相机，1933 年发布",
+  "description": "The Superb is a well-engineered but somewhat quirky metal-bodied TLR for 6x6 cm pictures on 120 roll film, made by Voigtländer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Superb"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Superb",
+      "url": "https://camera-wiki.org/wiki/Superb"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

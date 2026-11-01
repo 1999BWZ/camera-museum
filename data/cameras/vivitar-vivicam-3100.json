@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-vivicam-3100",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "ViviCam 3100",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar数码相机，1998 年发布",
+  "description": "The ViviCam 3100 by Vivitar is a digital camera introduced in 1998.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar ViviCam 3100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar ViviCam 3100",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20ViviCam%203100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

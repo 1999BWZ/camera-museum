@@ -1,0 +1,29 @@
+{
+  "id": "nikon-nuvis-s-2000",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Nuvis S 2000",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，2000 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Nikon Nuvis S 2000 was one of the cutest compact zoom cameras made ever.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Nuvis S 2000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Nuvis S 2000",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Nuvis%20S%202000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

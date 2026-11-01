@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-ikoflex-ii-852-16",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Ikoflex II 852/16",
+  "year": 1938,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon胶片相机，1938 年发布",
+  "description": "The Ikoflex II (852/16) is a TLR camera that was made by Zeiss Ikon from 1938 till 1951Zeiss Ikon brochure 1951, Ikoflex, 003-013-0 75 651, German, page 12..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ikoflex II 852/16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ikoflex II 852/16",
+      "url": "https://camera-wiki.org/wiki/Ikoflex%20II%20852/16"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leotax-g",
+  "brand": "Leotax",
+  "brand_cn": "",
+  "brand_slug": "leotax",
+  "country": "待补充",
+  "manufacturer": "Leotax",
+  "model": "G",
+  "year": 1961,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leotax旁轴相机，1961 年发布",
+  "description": "The Leotax G was Leotax's last camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leotax G"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leotax G",
+      "url": "https://camera-wiki.org/wiki/Leotax%20G"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

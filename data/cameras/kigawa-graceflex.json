@@ -1,0 +1,29 @@
+{
+  "id": "kigawa-graceflex",
+  "brand": "Kigawa",
+  "brand_cn": "",
+  "brand_slug": "kigawa",
+  "country": "待补充",
+  "manufacturer": "Kigawa",
+  "model": "Graceflex",
+  "year": 1952,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kigawa胶片相机，1952 年发布",
+  "description": "__NOTOC__\nThe Graceflex The name is written in uppercase in one word on the cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Graceflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Graceflex",
+      "url": "https://camera-wiki.org/wiki/Graceflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

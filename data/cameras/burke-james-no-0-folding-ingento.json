@@ -1,0 +1,29 @@
+{
+  "id": "burke-james-no-0-folding-ingento",
+  "brand": "Burke & James",
+  "brand_cn": "",
+  "brand_slug": "burke-james",
+  "country": "待补充",
+  "manufacturer": "Burke & James",
+  "model": "No. 0 Folding Ingento",
+  "year": 1914,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Burke & James旁轴相机（折叠），1914 年发布",
+  "description": "Folding camera produced by the US company Burke & James in c.1914[https://dn720404.ca.archive.org/0/items/photoera33unse/photoera33unse.pdf Advertisement of a No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 0 Folding Ingento"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 0 Folding Ingento",
+      "url": "https://camera-wiki.org/wiki/No.%200%20Folding%20Ingento"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

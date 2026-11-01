@@ -1,0 +1,29 @@
+{
+  "id": "rochester-pocket-ray",
+  "brand": "Rochester",
+  "brand_cn": "",
+  "brand_slug": "rochester",
+  "country": "待补充",
+  "manufacturer": "Rochester",
+  "model": "Pocket Ray",
+  "year": 1900,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rochester折叠相机，1900 年发布",
+  "description": "The Pocket Ray is a folding bed camera made by Mutschler, Robertson & Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pocket Ray"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pocket Ray",
+      "url": "https://camera-wiki.org/wiki/Pocket%20Ray"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

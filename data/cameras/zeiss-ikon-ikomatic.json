@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-ikomatic",
+  "brand": "Zeiss",
+  "brand_cn": "蔡司",
+  "brand_slug": "zeiss",
+  "country": "德国",
+  "manufacturer": "Zeiss",
+  "model": "Ikon Ikomatic",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "蔡司胶片相机，1964 年发布",
+  "description": "The Zeiss Ikon Ikomatic viewfinder cameras were made by Bilora for Zeiss Ikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zeiss Ikon Ikomatic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zeiss Ikon Ikomatic",
+      "url": "https://camera-wiki.org/wiki/Zeiss%20Ikon%20Ikomatic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

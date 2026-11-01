@@ -1,0 +1,29 @@
+{
+  "id": "view-master-personal",
+  "brand": "View-Master",
+  "brand_cn": "",
+  "brand_slug": "view-master",
+  "country": "美国",
+  "manufacturer": "View-Master",
+  "model": "Personal",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "View-Master立体相机，1952 年发布",
+  "description": "The View-Master Personal Camera is a stereoscopic camera used for the creation of View-Master slide reels, usable in any View-Master viewer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "View-Master Personal"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – View-Master Personal",
+      "url": "https://camera-wiki.org/wiki/View-Master%20Personal"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

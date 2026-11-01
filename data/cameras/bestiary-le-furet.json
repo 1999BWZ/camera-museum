@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-le-furet",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "法国",
+  "manufacturer": "Bestiary",
+  "model": "Le Furet",
+  "year": 1923,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary取景器相机，1923 年发布",
+  "description": "Le Furet (French: the Ferret) is an early camera for 24×37.5 mm pictures on 35 mm film, in 25-exposure spools,[http://www.collection-appareils.fr/x/html/page_standard.php?id_appareil=20368 Advertisement for Le Furet], showing picture of single-speed model, at [http://www.collection-appareils.fr/carr",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Le Furet"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Le Furet",
+      "url": "https://camera-wiki.org/wiki/Le%20Furet"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leidolf-lordox-24x36mm",
+  "brand": "Leidolf",
+  "brand_cn": "",
+  "brand_slug": "leidolf",
+  "country": "待补充",
+  "manufacturer": "Leidolf",
+  "model": "Lordox 24x36mm",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leidolf取景器相机，1952 年发布",
+  "description": "A Leidolf 35mm viewfinder camera also known in some markets as the Lordette or Optina 24x36 (Canada).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lordox 24x36mm"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lordox 24x36mm",
+      "url": "https://camera-wiki.org/wiki/Lordox%2024x36mm"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

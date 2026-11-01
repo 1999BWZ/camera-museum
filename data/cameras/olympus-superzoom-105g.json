@@ -1,0 +1,29 @@
+{
+  "id": "olympus-superzoom-105g",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Superzoom 105G",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，2002 年发布",
+  "description": "The Superzoom 105G is a 35mm compact camera from Olympus released in 2002.[https://web.archive.org/web/20150323095818/http://www.olympus-global.com/en/news/2002a/nr020611sza105ge.jsp Olympus Announces Superzoom 105G Compact 35mm Camera] at [https://web.archive.org/web/20150315081139/http://www.olymp",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Superzoom 105G"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Superzoom 105G",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Superzoom%20105G"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

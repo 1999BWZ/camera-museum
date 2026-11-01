@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-mega-zoom-76",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot Mega Zoom 76",
+  "year": 1991,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片相机，1991 年发布",
+  "description": "The Canon Sure Shot Mega Zoom 76 (Euro: Prima Zoom 76, Japan: Autoboy Zoom 76) is a compact 35mm film camera with autofocus, a short zoom lens and built-in flash; a model in Canon's very successful Sure Shot range.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot Mega Zoom 76"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot Mega Zoom 76",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20Mega%20Zoom%2076"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

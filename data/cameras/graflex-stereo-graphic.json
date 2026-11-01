@@ -1,0 +1,29 @@
+{
+  "id": "graflex-stereo-graphic",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "Graflex",
+  "model": "Stereo Graphic",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲立体相机，1955 年发布",
+  "description": "The Stereo Graphic is a 35mm stereo camera that was made by Graflex from 1955-1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Graflex Stereo Graphic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Graflex Stereo Graphic",
+      "url": "https://camera-wiki.org/wiki/Graflex%20Stereo%20Graphic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

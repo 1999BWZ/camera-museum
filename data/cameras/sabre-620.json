@@ -1,0 +1,29 @@
+{
+  "id": "sabre-620",
+  "brand": "Sabre",
+  "brand_cn": "",
+  "brand_slug": "sabre",
+  "country": "美国",
+  "manufacturer": "Sabre",
+  "model": "620",
+  "year": 1956,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sabre盒式相机，1956 年发布",
+  "description": "The Sabre 620 is a simple plastic box camera for 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sabre 620"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sabre 620",
+      "url": "https://camera-wiki.org/wiki/Sabre%20620"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

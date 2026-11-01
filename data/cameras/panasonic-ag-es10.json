@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-ag-es10",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "AG-ES10",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下胶片相机，1988 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nPanasonic introduced the AG-ES10 in about 1988, as one of the first wave of \"filmless, electronic\" cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic AG-ES10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic AG-ES10",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20AG-ES10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kmz-zenit-1",
+  "brand": "KMZ",
+  "brand_cn": "克拉斯诺戈尔斯克",
+  "brand_slug": "kmz",
+  "country": "俄罗斯",
+  "manufacturer": "克拉斯诺戈尔斯克工厂",
+  "model": "Zenit №1",
+  "year": 1952,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "克拉斯诺戈尔斯克胶片单反相机，1952 年发布",
+  "description": "克拉斯诺戈尔斯克于1952年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4191395",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zenit%20%28458841015%29.jpg?width=800",
+      "caption": "Zenit №1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4191395"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Zenit №1",
+      "url": "https://www.wikidata.org/wiki/Q4191395"
+    }
+  ],
+  "qid": "Q4191395",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

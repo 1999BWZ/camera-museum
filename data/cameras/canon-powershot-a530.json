@@ -1,0 +1,37 @@
+{
+  "id": "canon-powershot-a530",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "PowerShot A530",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，2006 年发布",
+  "description": "The PowerShot A530 was introduced by Canon in March 2006, with a 5 megapixel CCD sensor giving images of up to 2592x1944 pixels.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon PowerShot A530"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm4.static.flickr.com/3031/3026498310_dde17eeb2a.jpg",
+      "caption": "PowerShot A530",
+      "source": "Flickr（Marc Carlson）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/imarcc/3026498310/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon PowerShot A530",
+      "url": "https://camera-wiki.org/wiki/Canon%20PowerShot%20A530"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

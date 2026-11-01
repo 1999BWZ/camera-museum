@@ -1,0 +1,29 @@
+{
+  "id": "gomz-komsomolets",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "待补充",
+  "manufacturer": "GOMZ",
+  "model": "Komsomolets",
+  "year": 1946,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ胶片相机，1946 年发布",
+  "description": "The Komsomolets („Комсомолец“) was a sophisticated pseudo TLR, almost like the German pre-war Voigtländer Brillant.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Komsomolets"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Komsomolets",
+      "url": "https://camera-wiki.org/wiki/Komsomolets"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

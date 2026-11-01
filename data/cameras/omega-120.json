@@ -1,0 +1,29 @@
+{
+  "id": "omega-120",
+  "brand": "Omega",
+  "brand_cn": "",
+  "brand_slug": "omega",
+  "country": "美国",
+  "manufacturer": "Omega",
+  "model": "120",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Omega旁轴相机，1954 年发布",
+  "description": "The Simmon Brothers, known for their line of enlargers, built one camera for the civilian market, the Simmon Omega 120 rangefinder camera, for 6x7cm exposures on 120 roll film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Omega 120"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Omega 120",
+      "url": "https://camera-wiki.org/wiki/Omega%20120"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

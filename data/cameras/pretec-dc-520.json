@@ -1,0 +1,29 @@
+{
+  "id": "pretec-dc-520",
+  "brand": "Pretec",
+  "brand_cn": "",
+  "brand_slug": "pretec",
+  "country": "台湾",
+  "manufacturer": "Pretec",
+  "model": "DC-520",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pretec数码相机，1999 年发布",
+  "description": "The Pretec DC-520 is a digital camera from circa 1999.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pretec DC-520"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pretec DC-520",
+      "url": "https://camera-wiki.org/wiki/Pretec%20DC-520"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

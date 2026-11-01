@@ -1,0 +1,29 @@
+{
+  "id": "olympus-trip-xb3",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Trip XB3",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯取景器相机，1996 年发布",
+  "description": "The Trip XB3 is a straightforward fully automatic compact camera introduced by Olympus in 1996 with a bright, extra-large viewfinder, integrated flash with red-eye reduction, and a self-timer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Trip XB3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Trip XB3",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Trip%20XB3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

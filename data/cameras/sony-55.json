@@ -1,0 +1,29 @@
+{
+  "id": "sony-55",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "α55",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2010 年发布",
+  "description": "In 2010 Sony presented an alternate conception for sophisticated digital system cameras, the SLT concept with EVF which is optimized for video shooting with continuous autofocus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony α55"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony α55",
+      "url": "https://camera-wiki.org/wiki/Sony%20%CE%B155"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

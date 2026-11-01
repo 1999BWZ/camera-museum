@@ -1,0 +1,29 @@
+{
+  "id": "seagull-reflex-df",
+  "brand": "Seagull",
+  "brand_cn": "",
+  "brand_slug": "seagull",
+  "country": "待补充",
+  "manufacturer": "Seagull",
+  "model": "Reflex DF",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seagull胶片单反相机，1964 年发布",
+  "description": "The Seagull Reflex DF was a SLR camera body for 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Seagull Reflex DF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Seagull Reflex DF",
+      "url": "https://camera-wiki.org/wiki/Seagull%20Reflex%20DF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

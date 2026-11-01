@@ -1,0 +1,29 @@
+{
+  "id": "fuji-x-ds-300",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "x DS-300",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji数码相机，1997 年发布",
+  "description": "The Fujix DS-300 is an early professional digital camera released by Fujifilm in 1997.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujix DS-300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujix DS-300",
+      "url": "https://camera-wiki.org/wiki/Fujix%20DS-300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

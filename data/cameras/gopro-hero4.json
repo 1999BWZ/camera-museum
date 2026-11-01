@@ -1,0 +1,40 @@
+{
+  "id": "gopro-hero4",
+  "brand": "GoPro",
+  "brand_cn": "",
+  "brand_slug": "gopro",
+  "country": "待补充",
+  "manufacturer": "GoPro",
+  "model": "Hero4",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "运动相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GoPro运动相机，2014 年发布",
+  "description": "GoPro于2014年发布的运动相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q45422180",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyclisme%20%26%20GoPro%20-%20GoPro%20Hero%204%20%2803%29.JPG?width=800",
+      "caption": "Hero4",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q45422180"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – GoPro Hero4",
+      "url": "https://www.wikidata.org/wiki/Q45422180"
+    }
+  ],
+  "qid": "Q45422180",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sl-system-beirette-k",
+  "brand": "SL-System",
+  "brand_cn": "",
+  "brand_slug": "sl-system",
+  "country": "待补充",
+  "manufacturer": "SL-System",
+  "model": "Beirette k",
+  "year": 1965,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "SL-System便携相机，1965 年发布",
+  "description": "Beirette k compact camera was made by the East German company Woldemar Beier KG in Freital from 1965 to around 1970, when it was replaced by the modern Beirette SL 200/SL 300 cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Beirette k"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Beirette k",
+      "url": "https://camera-wiki.org/wiki/Beirette%20k"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

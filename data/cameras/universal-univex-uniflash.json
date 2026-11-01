@@ -1,0 +1,29 @@
+{
+  "id": "universal-univex-uniflash",
+  "brand": "Universal",
+  "brand_cn": "",
+  "brand_slug": "universal",
+  "country": "待补充",
+  "manufacturer": "Universal",
+  "model": "Univex Uniflash",
+  "year": 1941,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Universal胶片相机，1941 年发布",
+  "description": "The Univex Uniflash is a bakelite viewfinder camera for Univex 00 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Univex Uniflash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Univex Uniflash",
+      "url": "https://camera-wiki.org/wiki/Univex%20Uniflash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

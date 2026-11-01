@@ -1,0 +1,29 @@
+{
+  "id": "gallus-derby",
+  "brand": "Gallus",
+  "brand_cn": "",
+  "brand_slug": "gallus",
+  "country": "法国",
+  "manufacturer": "Gallus",
+  "model": "Derby",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Gallus折叠相机，1937 年发布",
+  "description": "It was a strut folding viewfinder camera for 127 film rolls, made by the French manufacturer Gallus (probably under license by Foth) from 1937 to about 1940.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Gallus Derby"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Gallus Derby",
+      "url": "https://camera-wiki.org/wiki/Gallus%20Derby"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

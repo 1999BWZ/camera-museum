@@ -1,0 +1,29 @@
+{
+  "id": "image-by-rick-soloway-petal",
+  "brand": "Image by Rick Soloway",
+  "brand_cn": "",
+  "brand_slug": "image-by-rick-soloway",
+  "country": "待补充",
+  "manufacturer": "Image by Rick Soloway",
+  "model": "Petal",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Image by Rick Soloway微型相机，1948 年发布",
+  "description": "The Petal (ペタル) is a Japanese subminiature camera taking circular images on round film stock.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petal"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petal",
+      "url": "https://camera-wiki.org/wiki/Petal"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

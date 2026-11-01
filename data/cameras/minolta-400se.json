@@ -1,0 +1,29 @@
+{
+  "id": "minolta-400se",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "400SE",
+  "year": 1977,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1977 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nIntroduced in 1977 by Foto-Quelle under the Revue label[https://www.hifi-archiv.info/Foto%20und%20Filmkameras/Foto-Quelle%20Katalog%201977/02.jpg Foto-Quelle catalog 1977, page 2] at [https://www.hifi-archiv.info/ HiFi Archiv (in German)], the Revue 400 SE is a compa",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revue 400SE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revue 400SE",
+      "url": "https://camera-wiki.org/wiki/Revue%20400SE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

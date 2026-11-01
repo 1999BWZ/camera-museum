@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-800-si",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 800 si",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1997 年发布",
+  "description": "After Minolta had introduced its fourth generation of AF camera, the first being the 7000, the second the 7000i, the third the 7xi, with the 700si; Minolta wanted to expand the capabilities and features of the 700si and add some semi-professional features like High-Eyepoint viewfinder and picture me",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 800 si"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 800 si",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%20800%20si"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

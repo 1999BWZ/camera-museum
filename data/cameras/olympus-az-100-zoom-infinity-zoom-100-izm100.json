@@ -1,0 +1,29 @@
+{
+  "id": "olympus-az-100-zoom-infinity-zoom-100-izm100",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "AZ-100 Zoom/Infinity Zoom 100/IZM100",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片单反相机，1989 年发布",
+  "description": "The Olympus AZ-100 Zoom is a 35mm Autofocus Zoom camera produced by the Japanese company Olympus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus AZ-100 Zoom/Infinity Zoom 100/IZM100 (QD)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus AZ-100 Zoom/Infinity Zoom 100/IZM100 (QD)",
+      "url": "https://camera-wiki.org/wiki/Olympus%20AZ-100%20Zoom/Infinity%20Zoom%20100/IZM100%20%28QD%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

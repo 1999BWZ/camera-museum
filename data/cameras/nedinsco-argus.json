@@ -1,0 +1,29 @@
+{
+  "id": "nedinsco-argus",
+  "brand": "Nedinsco",
+  "brand_cn": "",
+  "brand_slug": "nedinsco",
+  "country": "荷兰",
+  "manufacturer": "Nedinsco",
+  "model": "Argus",
+  "year": 1957,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nedinsco取景器相机，1957 年发布",
+  "description": "The Argus is a 35mm viewfinder camera produced by the Dutch company Nedinsco.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nedinsco Argus"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nedinsco Argus",
+      "url": "https://camera-wiki.org/wiki/Nedinsco%20Argus"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

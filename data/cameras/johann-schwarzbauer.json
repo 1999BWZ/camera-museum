@@ -1,0 +1,29 @@
+{
+  "id": "johann-schwarzbauer",
+  "brand": "Johann",
+  "brand_cn": "",
+  "brand_slug": "johann",
+  "country": "奥地利",
+  "manufacturer": "Johann",
+  "model": "Schwarzbauer",
+  "year": 1954,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Johann胶片相机，1954 年发布",
+  "description": "Johann Schwarzbauer was an Austrian camera manufacturer from Vienna about which little is known.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Johann Schwarzbauer"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Johann Schwarzbauer",
+      "url": "https://camera-wiki.org/wiki/Johann%20Schwarzbauer"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

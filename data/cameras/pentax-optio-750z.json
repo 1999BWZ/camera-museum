@@ -1,0 +1,29 @@
+{
+  "id": "pentax-optio-750z",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Optio 750z",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2004 年发布",
+  "description": "The Optio 750z is a 7 megapixel digital camera made by Pentax, introduced in 2004[https://www.dpreview.com/reviews/pentax750z/3 Pentax Optio 750z review] at [https://www.dpreview.com/ DPReview.com].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Optio 750z"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Optio 750z",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Optio%20750z"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

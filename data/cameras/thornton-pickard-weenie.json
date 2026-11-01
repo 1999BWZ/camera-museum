@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-weenie",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "待补充",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Weenie",
+  "year": 1913,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard胶片相机，1913 年发布",
+  "description": "The Weenie is a wooden bodied, folding plate camera made by Thornton-Pickard from about 1908.[http://historiccamera.com/cgi-bin/librarium2/pm.cgi?action=app_display&app=datasheet&app_id=1055 Weenie] (old style) at Historic Camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Weenie"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Weenie",
+      "url": "https://camera-wiki.org/wiki/Weenie"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "seagull-4a",
+  "brand": "Seagull",
+  "brand_cn": "",
+  "brand_slug": "seagull",
+  "country": "待补充",
+  "manufacturer": "Seagull",
+  "model": "4A",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seagull胶片相机，1964 年发布",
+  "description": "The Seagull 4A is a 6×6 TLR camera for 120 roll film made in Shanghai, China by the Shanghai Camera Factory.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Seagull 4A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Seagull 4A",
+      "url": "https://camera-wiki.org/wiki/Seagull%204A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

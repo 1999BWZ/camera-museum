@@ -1,0 +1,29 @@
+{
+  "id": "pentax-mz-3",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MZ-3",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1997 年发布",
+  "description": "The Pentax MZ-3 (ZX-3 in US) from 1997, is an autofocus 35mm film SLR.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MZ-3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MZ-3",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MZ-3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

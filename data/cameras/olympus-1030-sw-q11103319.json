@@ -1,0 +1,40 @@
+{
+  "id": "olympus-1030-sw-q11103319",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "µ 1030 SW",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，2008 年发布",
+  "description": "奥林巴斯于2008年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11103319",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20%C2%B5%201030%20SW%20001.jpg?width=800",
+      "caption": "µ 1030 SW",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q11103319"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Olympus µ 1030 SW",
+      "url": "https://www.wikidata.org/wiki/Q11103319"
+    }
+  ],
+  "qid": "Q11103319",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

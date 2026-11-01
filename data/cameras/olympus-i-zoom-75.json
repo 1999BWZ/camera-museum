@@ -1,0 +1,29 @@
+{
+  "id": "olympus-i-zoom-75",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "i Zoom 75",
+  "year": 1999,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片相机，1999 年发布",
+  "description": "The i-Zoom 75 is an APS film zoom-lens camera assembled in China for Olympus, announced in January 1999[https://web.archive.org/web/20030926032548/http://www.olympusamerica.com/cpg_section/cpg_pressdetails.asp?pressno=2 Olympus press release] (archived).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus i Zoom 75"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus i Zoom 75",
+      "url": "https://camera-wiki.org/wiki/Olympus%20i%20Zoom%2075"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nobility-lord-iva",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Lord IVA",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility旁轴相机，1956 年发布",
+  "description": "__NOTOC__\nThe Lord IVA is a 35mm rangefinder introduced in 1956 by Okaya Optical Works of Nagano, Japan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lord IVA"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lord IVA",
+      "url": "https://camera-wiki.org/wiki/Lord%20IVA"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

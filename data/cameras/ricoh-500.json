@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-500",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "500",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光旁轴相机，1957 年发布",
+  "description": "The Ricoh 500 is a 35 mm rangefinder camera with fixed lens made in Japan by Ricoh from 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh 500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh 500",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

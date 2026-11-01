@@ -1,0 +1,29 @@
+{
+  "id": "conley-seroco-junior",
+  "brand": "Conley",
+  "brand_cn": "",
+  "brand_slug": "conley",
+  "country": "待补充",
+  "manufacturer": "Conley",
+  "model": "Seroco Junior",
+  "year": 1900,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Conley折叠相机，1900 年发布",
+  "description": "{|class=\"plainlinks\"\n||[http://www.flickr.com/photos/ricksoloway/3510335584/in/pool-camerawiki http://farm4.static.flickr.com/3394/3510335584_95d2240e4b.jpg] \n||[http://www.flickr.com/photos/ricksoloway/3510335466/in/pool-camerawiki/ http://farm4.static.flickr.com/3578/3510335466_36984402d3.jpg]\n|-\n",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Seroco Junior"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Seroco Junior",
+      "url": "https://camera-wiki.org/wiki/Seroco%20Junior"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

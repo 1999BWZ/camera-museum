@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-44",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic 44",
+  "year": 1969,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1969 年发布",
+  "description": "The Kodak Instamatic 44 was an inexpensive (US $9.95) Instamatic camera for the 126 Kodapak film cartridge.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic 44"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic 44",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%2044"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-4-0-fw",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex 4.0 FW",
+  "year": 2003,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来中画幅相机，2003 年发布",
+  "description": "The Rolleiflex 4.0 FW is a medium format Wide-angle TLR camera manufactured by Rollei and later on by DHW Fototechnik from 2003 till 2014.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex 4.0 FW"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex 4.0 FW",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%204.0%20FW"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

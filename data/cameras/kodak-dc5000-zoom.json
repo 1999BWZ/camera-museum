@@ -1,0 +1,29 @@
+{
+  "id": "kodak-dc5000-zoom",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "DC5000 Zoom",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码相机，2000 年发布",
+  "description": "The DC5000 Zoom is a rugged, weather-resistant, 2 megapixel digital camera released by Kodak (June 2000).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak DC5000 Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak DC5000 Zoom",
+      "url": "https://camera-wiki.org/wiki/Kodak%20DC5000%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

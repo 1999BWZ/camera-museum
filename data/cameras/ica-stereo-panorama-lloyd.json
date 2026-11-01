@@ -1,0 +1,29 @@
+{
+  "id": "ica-stereo-panorama-lloyd",
+  "brand": "ICA",
+  "brand_cn": "",
+  "brand_slug": "ica",
+  "country": "待补充",
+  "manufacturer": "ICA",
+  "model": "Stereo-Panorama Lloyd",
+  "year": 1910,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "ICA立体相机，1910 年发布",
+  "description": "The Stereo-Panorama Lloyd is a folding bed stereo camera for plates or rollfilm Page 418.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Stereo-Panorama Lloyd"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Stereo-Panorama Lloyd",
+      "url": "https://camera-wiki.org/wiki/Stereo-Panorama%20Lloyd"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "plaubel-peco-supra",
+  "brand": "Plaubel",
+  "brand_cn": "",
+  "brand_slug": "plaubel",
+  "country": "待补充",
+  "manufacturer": "Plaubel",
+  "model": "Peco Supra",
+  "year": 1954,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Plaubel胶片相机，1954 年发布",
+  "description": "The Peco Supra is a monorail camera made by Plaubel between 1954 and 1960.[https://www.cameraeccentric.com/static/img/pdfs/plaubel_1.pdf Brochure] for various Peco cameras including the Supra, about 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Peco Supra"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Peco Supra",
+      "url": "https://camera-wiki.org/wiki/Peco%20Supra"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

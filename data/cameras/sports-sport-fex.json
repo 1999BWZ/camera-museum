@@ -1,0 +1,29 @@
+{
+  "id": "sports-sport-fex",
+  "brand": "Sports",
+  "brand_cn": "",
+  "brand_slug": "sports",
+  "country": "法国",
+  "manufacturer": "Sports",
+  "model": "Sport-Fex",
+  "year": 1966,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sports胶片相机，1966 年发布",
+  "description": "French camera made by Fex",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sport-Fex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sport-Fex",
+      "url": "https://camera-wiki.org/wiki/Sport-Fex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

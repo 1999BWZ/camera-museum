@@ -1,0 +1,40 @@
+{
+  "id": "sony-dslr-a390",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSLR-A390",
+  "year": 2010,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码单反相机，2010 年发布",
+  "description": "索尼于2010年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4049753",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20DSLR-A390.jpg?width=800",
+      "caption": "DSLR-A390",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4049753"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSLR-A390",
+      "url": "https://www.wikidata.org/wiki/Q4049753"
+    }
+  ],
+  "qid": "Q4049753",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

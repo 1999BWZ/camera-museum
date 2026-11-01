@@ -1,0 +1,29 @@
+{
+  "id": "certo-certo-matic",
+  "brand": "Certo",
+  "brand_cn": "",
+  "brand_slug": "certo",
+  "country": "待补充",
+  "manufacturer": "Certo",
+  "model": "Certo-matic",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Certo取景器相机，1960 年发布",
+  "description": "The Certo-matic is a medium format camera made by Certo from about 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Certo-matic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Certo-matic",
+      "url": "https://camera-wiki.org/wiki/Certo-matic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "efka-24",
+  "brand": "Efka",
+  "brand_cn": "",
+  "brand_slug": "efka",
+  "country": "待补充",
+  "manufacturer": "Efka",
+  "model": "24",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Efka取景器相机，1947 年发布",
+  "description": "The Efka 24 is a viewfinder camera for 24-mm square exposures on 35mm film, made in about 1947 by Frizt Kuhnert of Freiburg (later Futura).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Efka 24"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Efka 24",
+      "url": "https://camera-wiki.org/wiki/Efka%2024"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

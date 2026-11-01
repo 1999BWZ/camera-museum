@@ -1,0 +1,29 @@
+{
+  "id": "olympus-oz-280-panorama-zoom",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "OZ 280 Panorama Zoom",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯全景相机，1994 年发布",
+  "description": "The OZ 280 Panorama Zoom from the OZ series is a 35mm compact camera released from Olympus in 1994[https://web.archive.org/web/20090315100137/http://www.olympus-global.com/en/corc/history/camera/popup/zoom_oz280.cfm?message=1 OZ280 Panorama Zoom page at Olympus History Chronicle] (archived).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus OZ 280 Panorama Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus OZ 280 Panorama Zoom",
+      "url": "https://camera-wiki.org/wiki/Olympus%20OZ%20280%20Panorama%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

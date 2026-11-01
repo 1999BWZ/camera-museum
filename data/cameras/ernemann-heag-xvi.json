@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-heag-xvi",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Heag XVI",
+  "year": 1918,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann折叠相机，1918 年发布",
+  "description": "==Overview==\nThe Ernemann Heag XVI was produced from 1909 to c.1918.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Heag XVI"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Heag XVI",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Heag%20XVI"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

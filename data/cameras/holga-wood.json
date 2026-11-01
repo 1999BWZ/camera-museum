@@ -1,0 +1,29 @@
+{
+  "id": "holga-wood",
+  "brand": "Holga",
+  "brand_cn": "",
+  "brand_slug": "holga",
+  "country": "待补充",
+  "manufacturer": "Holga",
+  "model": "wood",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Holga玩具相机，2008 年发布",
+  "description": "Holgawood is a series of Holga 120N cameras painted in an assortment of colours and released in 2008.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Holgawood"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Holgawood",
+      "url": "https://camera-wiki.org/wiki/Holgawood"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

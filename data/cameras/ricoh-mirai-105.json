@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-mirai-105",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Mirai 105",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1988 年发布",
+  "description": "The Ricoh Mirai 105 is a autofocus camera with zoom lens made by Ricoh from 1988.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Mirai 105"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Mirai 105",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Mirai%20105"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

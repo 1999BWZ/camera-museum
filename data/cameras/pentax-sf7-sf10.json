@@ -1,0 +1,29 @@
+{
+  "id": "pentax-sf7-sf10",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "SF7/SF10",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1988 年发布",
+  "description": "{|class=floatright\n||\n|-\n||\n\n|}\nThe SF7 (SF10 in some territories) is an autofocus 35mm film SLR made by Pentax, from 1988.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax SF7/SF10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax SF7/SF10",
+      "url": "https://camera-wiki.org/wiki/Pentax%20SF7/SF10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

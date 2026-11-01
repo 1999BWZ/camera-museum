@@ -1,0 +1,29 @@
+{
+  "id": "printex-press",
+  "brand": "Printex",
+  "brand_cn": "",
+  "brand_slug": "printex",
+  "country": "待补充",
+  "manufacturer": "Printex",
+  "model": "Press",
+  "year": 1946,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Printex折叠相机，1946 年发布",
+  "description": "The Printex Press is a camera made in the 1940s by enlarger manufacturer Printex of Pasadena, California.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Printex Press"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Printex Press",
+      "url": "https://camera-wiki.org/wiki/Printex%20Press"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

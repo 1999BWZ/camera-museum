@@ -1,0 +1,29 @@
+{
+  "id": "samoca-mr",
+  "brand": "Samoca",
+  "brand_cn": "",
+  "brand_slug": "samoca",
+  "country": "待补充",
+  "manufacturer": "Samoca",
+  "model": "MR",
+  "year": 1961,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Samoca旁轴相机，1961 年发布",
+  "description": "The Samoca MR was one of the late camera models of Samoca, introduced in 1961.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samoca MR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samoca MR",
+      "url": "https://camera-wiki.org/wiki/Samoca%20MR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

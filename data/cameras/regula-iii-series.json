@@ -1,0 +1,29 @@
+{
+  "id": "regula-iii-series",
+  "brand": "Regula",
+  "brand_cn": "",
+  "brand_slug": "regula",
+  "country": "待补充",
+  "manufacturer": "Regula",
+  "model": "III series",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Regula旁轴相机，1956 年发布",
+  "description": "The King Regula III series were a range of 35mm viewfinder and rangefinder cameras made by King between 1956-1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Regula III series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Regula III series",
+      "url": "https://camera-wiki.org/wiki/Regula%20III%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fuji-gs645-professional-series",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "GS645 Professional series",
+  "year": 1983,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji旁轴相机，1983 年发布",
+  "description": "__NOTOC__\n\nThe Fuji GS645 series of compact medium format cameras was released in the early 1980's.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji GS645 Professional series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji GS645 Professional series",
+      "url": "https://camera-wiki.org/wiki/Fuji%20GS645%20Professional%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

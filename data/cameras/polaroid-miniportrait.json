@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-miniportrait",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Miniportrait",
+  "year": 1977,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1977 年发布",
+  "description": "The Miniportrait is a series of Polaroid Passport cameras with multiple lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Miniportrait"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Miniportrait",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Miniportrait"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

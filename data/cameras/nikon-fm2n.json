@@ -1,0 +1,29 @@
+{
+  "id": "nikon-fm2n",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "FM2n",
+  "year": 1983,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1983 年发布",
+  "description": "After having launched the original Nikon FM in 1977, succeeded by the FM2 in 1982, the FM2n followed one year later in 1983 together with the electronic FE2 and Nikon’s first multimode auto exposure FA.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon FM2n"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon FM2n",
+      "url": "https://camera-wiki.org/wiki/Nikon%20FM2n"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

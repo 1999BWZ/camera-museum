@@ -1,0 +1,29 @@
+{
+  "id": "kodak-p850",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "P850",
+  "year": 2005,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码单反相机，2005 年发布",
+  "description": "The Kodak EasyShare P850 is part of Kodak's new performance series which includes the P850 and P880.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak P850"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak P850",
+      "url": "https://camera-wiki.org/wiki/Kodak%20P850"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

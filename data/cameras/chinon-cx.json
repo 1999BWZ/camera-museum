@@ -1,0 +1,29 @@
+{
+  "id": "chinon-cx",
+  "brand": "Chinon",
+  "brand_cn": "",
+  "brand_slug": "chinon",
+  "country": "待补充",
+  "manufacturer": "Chinon",
+  "model": "CX",
+  "year": 1974,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Chinon胶片单反相机，1974 年发布",
+  "description": "The CX is a Japanese 35mm SLR with 42mm screw lenses, introduced by Chinon in 1974.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chinon CX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chinon CX",
+      "url": "https://camera-wiki.org/wiki/Chinon%20CX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

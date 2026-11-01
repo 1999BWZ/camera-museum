@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dim-ge-ex",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dimâge EX",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码相机，1998 年发布",
+  "description": "In 1998 the Minolta Dimâge EX was an avantgarde product among Minolta's early digital cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dimâge EX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dimâge EX",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dim%C3%A2ge%20EX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

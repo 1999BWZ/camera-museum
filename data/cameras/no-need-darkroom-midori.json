@@ -1,0 +1,29 @@
+{
+  "id": "no-need-darkroom-midori",
+  "brand": "No-need-darkroom",
+  "brand_cn": "",
+  "brand_slug": "no-need-darkroom",
+  "country": "待补充",
+  "manufacturer": "No-need-darkroom",
+  "model": "Midori",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "No-need-darkroom折叠相机，1930 年发布",
+  "description": "The Midori Kind Camera is a Japanese strut-folding camera taking no-need-darkroom film sheets.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Midori"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Midori",
+      "url": "https://camera-wiki.org/wiki/Midori"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

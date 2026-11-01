@@ -1,0 +1,29 @@
+{
+  "id": "soligor-reflex-ii",
+  "brand": "Soligor",
+  "brand_cn": "",
+  "brand_slug": "soligor",
+  "country": "待补充",
+  "manufacturer": "Soligor",
+  "model": "Reflex II",
+  "year": 1952,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Soligor胶片相机，1952 年发布",
+  "description": "Alongside the budget Soligor Reflex, in 1955A [https://www.flickr.com/photos/nesster/3931390412/in/pool-camerawiki/ December, 1955 Modern Photography item] lists these and their geared-focusing sibling as new offerings; scan courtesy [https://www.flickr.com/photos/nesster/ Nesster].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Soligor Reflex II (TLR)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Soligor Reflex II (TLR)",
+      "url": "https://camera-wiki.org/wiki/Soligor%20Reflex%20II%20%28TLR%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

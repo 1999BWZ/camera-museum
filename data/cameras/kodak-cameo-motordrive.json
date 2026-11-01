@@ -1,0 +1,29 @@
+{
+  "id": "kodak-cameo-motordrive",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Cameo Motordrive",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1995 年发布",
+  "description": "The Kodak Cameo Motordrive was introduced in 1995 with a price of $US99.95[http://kodak.3106.net/index.php?p=210&cam=1316 Kodak Cameo Motordrive] at [http://kodak.3106.net/index.php Kodak Classics].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Cameo Motordrive"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Cameo Motordrive",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Cameo%20Motordrive"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

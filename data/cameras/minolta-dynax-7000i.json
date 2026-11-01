@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-7000i",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 7000i",
+  "year": 1988,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1988 年发布",
+  "description": "In 1988 Minolta launched the second series of SLR camera bodies with the Minolta AF mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 7000i"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 7000i",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%207000i"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

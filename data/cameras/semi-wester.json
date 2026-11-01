@@ -1,0 +1,29 @@
+{
+  "id": "semi-wester",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Wester",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi折叠相机，1951 年发布",
+  "description": "See also the wartime Wester, a very different 4.5×6cm camera made by the same manufacturer in the first half of the 1940s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Wester (postwar)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Wester (postwar)",
+      "url": "https://camera-wiki.org/wiki/Semi%20Wester%20%28postwar%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

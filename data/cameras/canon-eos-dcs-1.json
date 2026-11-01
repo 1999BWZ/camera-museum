@@ -1,0 +1,32 @@
+{
+  "id": "canon-eos-dcs-1",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS DCS 1",
+  "year": 1995,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，1995 年发布",
+  "description": "佳能于1995年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q66356",
+    "多语言词条数": "6"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Canon EOS DCS 1",
+      "url": "https://www.wikidata.org/wiki/Q66356"
+    }
+  ],
+  "qid": "Q66356",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

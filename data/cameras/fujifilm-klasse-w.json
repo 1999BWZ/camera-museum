@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-klasse-w",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "Klasse W",
+  "year": 2007,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士胶片相机，2007 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|}\n\nReleased in 2007, the Klasse W by Fujifilm is a wide angle version of the Fujifilm Klasse S, camera featuring a 28mm lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm Klasse W"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm Klasse W",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20Klasse%20W"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

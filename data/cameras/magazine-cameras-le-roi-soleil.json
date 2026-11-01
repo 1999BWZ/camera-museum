@@ -1,0 +1,29 @@
+{
+  "id": "magazine-cameras-le-roi-soleil",
+  "brand": "Magazine cameras",
+  "brand_cn": "",
+  "brand_slug": "magazine-cameras",
+  "country": "法国",
+  "manufacturer": "Magazine cameras",
+  "model": "Le Roi-Soleil",
+  "year": 1907,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Magazine cameras胶片相机，1907 年发布",
+  "description": "Le Roi-Soleil is a box-format magazine camera for 9x12cm glass or film plates[http://www.collection-appareils.fr/x/html/page_standard.php?id_appareil=1842 Girard ad on Sylvain Halgand's site] made in France by Girard, from c.1907.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Le Roi-Soleil"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Le Roi-Soleil",
+      "url": "https://camera-wiki.org/wiki/Le%20Roi-Soleil"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

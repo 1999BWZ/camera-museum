@@ -1,0 +1,29 @@
+{
+  "id": "fuji-pocket-fujica-flash-aw",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "Pocket Fujica Flash AW",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片相机，1979 年发布",
+  "description": "The Pocket Fujica Flash AW is a camera for 110 film produced by Fuji in c.1979[https://www.awane-camera.com/6/2/fuji_pocket_fujica_flash_aw/ Pocket Fujica Flash AW page] at [https://www.awane-camera.com/index.htm Awane-camera.com] (in Japanese).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pocket Fujica Flash AW"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pocket Fujica Flash AW",
+      "url": "https://camera-wiki.org/wiki/Pocket%20Fujica%20Flash%20AW"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

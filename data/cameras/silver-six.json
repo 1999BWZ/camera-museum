@@ -1,0 +1,29 @@
+{
+  "id": "silver-six",
+  "brand": "Silver",
+  "brand_cn": "",
+  "brand_slug": "silver",
+  "country": "待补充",
+  "manufacturer": "Silver",
+  "model": "Six",
+  "year": 1953,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Silver旁轴相机，1953 年发布",
+  "description": "The Silver Six (シルバーシックス) is a Japanese folding camera taking 6×6cm or 4.5×6cm exposures, made by Nippon Kōki from 1953 to 1955.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Silver Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Silver Six",
+      "url": "https://camera-wiki.org/wiki/Silver%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

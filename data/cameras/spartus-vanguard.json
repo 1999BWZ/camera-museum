@@ -1,0 +1,29 @@
+{
+  "id": "spartus-vanguard",
+  "brand": "Spartus",
+  "brand_cn": "",
+  "brand_slug": "spartus",
+  "country": "待补充",
+  "manufacturer": "Spartus",
+  "model": "Vanguard",
+  "year": 1962,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spartus胶片相机，1962 年发布",
+  "description": "The Spartus Vanguard is a camera for square pictures on 127 film, by Herold Products of Chicago.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Spartus Vanguard"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Spartus Vanguard",
+      "url": "https://camera-wiki.org/wiki/Spartus%20Vanguard"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nikon-35ti",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "35Ti",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1993 年发布",
+  "description": "The Nikon 35Ti is an instantly recognisable compact camera issued in 1993.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon 35Ti"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon 35Ti",
+      "url": "https://camera-wiki.org/wiki/Nikon%2035Ti"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

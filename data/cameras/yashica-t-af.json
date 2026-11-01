@@ -1,0 +1,29 @@
+{
+  "id": "yashica-t-af",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "T AF",
+  "year": 1984,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片相机，1984 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Yashica T AF was the first camera in T* series of compact auto focus 35mm cameras made under the Yashica name by Kyocera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica T AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica T AF",
+      "url": "https://camera-wiki.org/wiki/Yashica%20T%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

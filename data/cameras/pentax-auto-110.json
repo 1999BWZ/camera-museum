@@ -1,0 +1,29 @@
+{
+  "id": "pentax-auto-110",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Auto 110",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1979 年发布",
+  "description": "__NOTOC__\n=== Pentax Auto 110 camera ===\nIn 1979, as the 110 format was dying, Pentax inexplicably launched the Auto 110 - the most competent 110 format camera ever, and one of the few that looked like a real SLR.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Auto 110"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Auto 110",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Auto%20110"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "linhof-kardan",
+  "brand": "Linhof",
+  "brand_cn": "",
+  "brand_slug": "linhof",
+  "country": "待补充",
+  "manufacturer": "Linhof",
+  "model": "Kardan",
+  "year": 1960,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Linhof胶片相机，1960 年发布",
+  "description": "The Linhof Kardan cameras are a series of classical monorail cameras (Linhof would say: optical bench cameras).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Linhof Kardan"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Linhof Kardan",
+      "url": "https://camera-wiki.org/wiki/Linhof%20Kardan"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

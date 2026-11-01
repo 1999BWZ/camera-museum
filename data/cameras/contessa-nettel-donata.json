@@ -1,0 +1,29 @@
+{
+  "id": "contessa-nettel-donata",
+  "brand": "Contessa-Nettel",
+  "brand_cn": "",
+  "brand_slug": "contessa-nettel",
+  "country": "待补充",
+  "manufacturer": "Contessa-Nettel",
+  "model": "Donata",
+  "year": 1920,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Contessa-Nettel折叠相机，1920 年发布",
+  "description": "Contessa-Nettel Donata was manufactured by Contessa-Nettel AG, Stuttgart, Germany.It is a folder bed plate film camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Donata"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Donata",
+      "url": "https://camera-wiki.org/wiki/Donata"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

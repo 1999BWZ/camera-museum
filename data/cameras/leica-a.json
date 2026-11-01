@@ -1,0 +1,29 @@
+{
+  "id": "leica-a",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "A",
+  "year": 1925,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡取景器相机，1925 年发布",
+  "description": "The Leica I (A) was introduced in 1925.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica A",
+      "url": "https://camera-wiki.org/wiki/Leica%20A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

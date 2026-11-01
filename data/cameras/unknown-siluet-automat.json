@@ -1,0 +1,40 @@
+{
+  "id": "unknown-siluet-automat",
+  "brand": "БелОМА",
+  "brand_cn": "",
+  "brand_slug": "unknown",
+  "country": "待补充",
+  "manufacturer": "БелОМА",
+  "model": "Siluet automat",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "БелОМА胶片相机，1977 年发布",
+  "description": "БелОМА于1977年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4419296",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%BE%D1%82%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%20%D0%A1%D0%B8%D0%BB%D1%83%D1%8D%D1%82-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%20%D1%84%D0%BE%D1%82%D0%BE1.JPG?width=800",
+      "caption": "Siluet automat",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4419296"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Siluet automat",
+      "url": "https://www.wikidata.org/wiki/Q4419296"
+    }
+  ],
+  "qid": "Q4419296",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

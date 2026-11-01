@@ -1,0 +1,29 @@
+{
+  "id": "leica-r4-r7",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "R4–R7",
+  "year": 1980,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码单反相机，1980 年发布",
+  "description": "The Leica R4 family of Leica 35mm SLR cameras was launched in 1980.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica R4–R7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica R4–R7",
+      "url": "https://camera-wiki.org/wiki/Leica%20R4%E2%80%93R7"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

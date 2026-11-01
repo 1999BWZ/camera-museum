@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-neugold",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Neugold",
+  "year": 1922,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee折叠相机，1922 年发布",
+  "description": "The Neugold is a tropical folding plate camera made by Ihagee in the 1920s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Neugold"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Neugold",
+      "url": "https://camera-wiki.org/wiki/Neugold"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

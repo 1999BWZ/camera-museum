@@ -1,0 +1,29 @@
+{
+  "id": "fuji-k-gaku-lyra-six",
+  "brand": "Fuji Kōgaku",
+  "brand_cn": "",
+  "brand_slug": "fuji-k-gaku",
+  "country": "待补充",
+  "manufacturer": "Fuji Kōgaku",
+  "model": "Lyra Six",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji Kōgaku折叠相机，1937 年发布",
+  "description": "The Lyra Six (ライラシックス) is a Japanese 6×6 folder made by Fuji Kōgaku from 1937.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lyra Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lyra Six",
+      "url": "https://camera-wiki.org/wiki/Lyra%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

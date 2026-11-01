@@ -1,0 +1,29 @@
+{
+  "id": "bronica-s",
+  "brand": "Bronica",
+  "brand_cn": "勃朗尼卡",
+  "brand_slug": "bronica",
+  "country": "日本",
+  "manufacturer": "Bronica",
+  "model": "S",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "勃朗尼卡胶片单反相机，1964 年发布",
+  "description": "__NOTOC__\n{|class=floatright\n|\n\n|-\n|\n\n|}\n\nThe Bronica S is a 6×6 format focal plane SLR introduced by Bronica in 1961.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bronica S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bronica S",
+      "url": "https://camera-wiki.org/wiki/Bronica%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

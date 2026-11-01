@@ -1,0 +1,29 @@
+{
+  "id": "kowa-set",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "SET",
+  "year": 1967,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa数码单反相机，1967 年发布",
+  "description": "The Kowa SET is a fixed lens 35mm SLR introduced by Kowa in 1967, and was a replacement for the Kowa SE.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa SET"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa SET",
+      "url": "https://camera-wiki.org/wiki/Kowa%20SET"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

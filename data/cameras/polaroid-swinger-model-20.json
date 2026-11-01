@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-swinger-model-20",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Swinger Model 20",
+  "year": 1965,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1965 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nTypical elements of simple box cameras were combined in the Polaroid Swinger Model 20: a non-focusable meniscus lens (Polaroid f17 100mm), a simple rotary single-speed shutter (1/200 sec.), and last not least roll film as media, the first type of roll film for",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Swinger Model 20"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Swinger Model 20",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Swinger%20Model%2020"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

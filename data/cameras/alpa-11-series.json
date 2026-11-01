@@ -1,0 +1,37 @@
+{
+  "id": "alpa-11-series",
+  "brand": "Alpa",
+  "brand_cn": "",
+  "brand_slug": "alpa",
+  "country": "瑞士",
+  "manufacturer": "Alpa",
+  "model": "11 series",
+  "year": 1971,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Alpa数码单反相机，1971 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|}\nIncorporating all the refinements of 1968's Alpa 10d, the Alpa 11e and its successors were the final evolution of the 35mm SLR series from Alpa.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Alpa 11 series"
+  },
+  "images": [
+    {
+      "remote_url": "https://live.staticflickr.com/5755/30446314871_ae8cc0a766_w.jpg",
+      "caption": "11 series",
+      "source": "Flickr（Joe Haupt）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/51764518@N02/30446314871/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Alpa 11 series",
+      "url": "https://camera-wiki.org/wiki/Alpa%2011%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

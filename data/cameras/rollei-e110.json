@@ -1,0 +1,37 @@
+{
+  "id": "rollei-e110",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "E110",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1976 年发布",
+  "description": "The Rollei E110 is the \"budget\" version of the Rollei A110.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei E110"
+  },
+  "images": [
+    {
+      "remote_url": "https://static.flickr.com/24/44464024_f13bbb5e71.jpg",
+      "caption": "E110",
+      "source": "Flickr（ja1vbn）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/ja1vbn/44464024/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei E110",
+      "url": "https://camera-wiki.org/wiki/Rollei%20E110"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

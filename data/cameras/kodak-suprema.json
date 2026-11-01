@@ -1,0 +1,29 @@
+{
+  "id": "kodak-suprema",
+  "brand": "Kodak",
+  "brand_cn": "",
+  "brand_slug": "kodak",
+  "country": "待补充",
+  "manufacturer": "Kodak",
+  "model": "Suprema",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kodak折叠相机，1938 年发布",
+  "description": "The Suprema is a horizontal folding camera made in 1938-9 by Kodak in Germany, for 2½-inch square exposures on 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Suprema"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Suprema",
+      "url": "https://camera-wiki.org/wiki/Suprema"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

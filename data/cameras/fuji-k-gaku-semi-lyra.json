@@ -1,0 +1,29 @@
+{
+  "id": "fuji-k-gaku-semi-lyra",
+  "brand": "Fuji Kōgaku",
+  "brand_cn": "",
+  "brand_slug": "fuji-k-gaku",
+  "country": "待补充",
+  "manufacturer": "Fuji Kōgaku",
+  "model": "Semi Lyra",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji Kōgaku折叠相机，1936 年发布",
+  "description": "For the postwar models, made in the 1950s by Katsuma Kōgaku, see Semi Lyra (postwar).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Lyra"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Lyra",
+      "url": "https://camera-wiki.org/wiki/Semi%20Lyra"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

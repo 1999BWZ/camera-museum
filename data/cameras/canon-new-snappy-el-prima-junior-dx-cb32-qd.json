@@ -1,0 +1,29 @@
+{
+  "id": "canon-new-snappy-el-prima-junior-dx-cb32-qd",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "New Snappy EL/Prima Junior DX/CB32 QD",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能取景器相机，1995 年发布",
+  "description": "Known as CB32 QD in Japan, New Snappy EL in the Americas and Prima Junior DX in Europe, this 35mm compact camera by Canon was introduced in March 1995, and featured automatic film advance and rewind, a built-in flash which fires automatically in low-light, and was a low-cost model.[http://global.can",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon New Snappy EL/Prima Junior DX/CB32 QD"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon New Snappy EL/Prima Junior DX/CB32 QD",
+      "url": "https://camera-wiki.org/wiki/Canon%20New%20Snappy%20EL/Prima%20Junior%20DX/CB32%20QD"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

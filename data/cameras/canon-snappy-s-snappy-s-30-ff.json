@@ -1,0 +1,29 @@
+{
+  "id": "canon-snappy-s-snappy-s-30-ff",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Snappy S/Snappy S-30 FF",
+  "year": 1985,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能取景器相机，1985 年发布",
+  "description": "The Canon Snappy S (Snappy S-30 FF in Europe) of July 1985 is a compact camera for budget-conscious photographers, and was the third member of the Canon Snappy series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Snappy S/Snappy S-30 FF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Snappy S/Snappy S-30 FF",
+      "url": "https://camera-wiki.org/wiki/Canon%20Snappy%20S/Snappy%20S-30%20FF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

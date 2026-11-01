@@ -1,0 +1,29 @@
+{
+  "id": "multiple-lens-nishika-3-d-n8000",
+  "brand": "Multiple lens",
+  "brand_cn": "",
+  "brand_slug": "multiple-lens",
+  "country": "美国",
+  "manufacturer": "Multiple lens",
+  "model": "Nishika 3-D N8000",
+  "year": 1989,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Multiple lens立体相机，1989 年发布",
+  "description": "The Nishika 3-D N8000 was a new variant of the Nimslo 3D.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nishika 3-D N8000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nishika 3-D N8000",
+      "url": "https://camera-wiki.org/wiki/Nishika%203-D%20N8000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

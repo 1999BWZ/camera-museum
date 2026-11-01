@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-vest-alex-and-vest-olympic",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Vest Alex and Vest Olympic",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光取景器相机，1936 年发布",
+  "description": "The Vest Alex (ベスト・アレックス) is a Japanese camera taking 4×6.5cm pictures on 127 film, sold from 1936 by Misuzu Shōkai, and modified in 1937 as a dual-format camera (4×6.5cm and 3×4cm).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vest Alex and Vest Olympic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vest Alex and Vest Olympic",
+      "url": "https://camera-wiki.org/wiki/Vest%20Alex%20and%20Vest%20Olympic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "yashica-samurai-x3-0",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Samurai X3.0",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片单反相机，1987 年发布",
+  "description": "The unusual Samurai series was begun by Kyocera in 1987 with the X3.0.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Samurai X3.0"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Samurai X3.0",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Samurai%20X3.0"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mikono-flex",
+  "brand": "Mikono",
+  "brand_cn": "",
+  "brand_slug": "mikono",
+  "country": "待补充",
+  "manufacturer": "Mikono",
+  "model": "Flex",
+  "year": 1952,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mikono胶片相机，1952 年发布",
+  "description": "__NOTOC__ \nThe Mikono Flex (ミコノフレックス) are Japanese 6&times;6cm TLRs, made in 1952&ndash;3 by Kojima Kōgaku Seiki.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mikono Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mikono Flex",
+      "url": "https://camera-wiki.org/wiki/Mikono%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

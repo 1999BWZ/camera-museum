@@ -1,0 +1,29 @@
+{
+  "id": "konica-kc-100",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "KC-100",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1988 年发布",
+  "description": "In 1987, Konica joined the short-lived still video camera movement by announcing the Konica KC-400.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica KC-100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica KC-100",
+      "url": "https://camera-wiki.org/wiki/Konica%20KC-100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

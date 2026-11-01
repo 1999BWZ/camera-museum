@@ -1,0 +1,29 @@
+{
+  "id": "ensign-selfix-420",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "英国",
+  "manufacturer": "Ensign",
+  "model": "Selfix 420",
+  "year": 1946,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign折叠相机，1946 年发布",
+  "description": "The Ensign Selfix 420 is a folding camera sold by Ensign from 1946.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Selfix 420"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Selfix 420",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Selfix%20420"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

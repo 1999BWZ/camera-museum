@@ -1,0 +1,29 @@
+{
+  "id": "pentax-mz-s",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MZ-S",
+  "year": 2001,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，2001 年发布",
+  "description": "The MZ-S was the flagship model of a range of 35mm SLRs with autofocus, and was introduced by Pentax in 2001.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MZ-S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MZ-S",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MZ-S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

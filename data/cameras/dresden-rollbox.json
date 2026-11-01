@@ -1,0 +1,29 @@
+{
+  "id": "dresden-rollbox",
+  "brand": "Dresden",
+  "brand_cn": "",
+  "brand_slug": "dresden",
+  "country": "待补充",
+  "manufacturer": "Dresden",
+  "model": "Rollbox",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dresden盒式相机，1932 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThere were two versions of the Rollbox, another one of the many simple box camera's made by Balda in the nineteen-thirties.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollbox (6×9)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollbox (6×9)",
+      "url": "https://camera-wiki.org/wiki/Rollbox%20%286%C3%979%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

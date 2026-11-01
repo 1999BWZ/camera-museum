@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-30d-q64061",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS 30D",
+  "year": 2006,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2006 年发布",
+  "description": "佳能于2006年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q64061",
+    "多语言词条数": "21"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20EOS%2030D%20with%20EF%2050mm%201.4.jpg?width=800",
+      "caption": "EOS 30D",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q64061"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS 30D",
+      "url": "https://www.wikidata.org/wiki/Q64061"
+    }
+  ],
+  "qid": "Q64061",
+  "sitelinks": 21,
+  "imported": "wikidata-5k-2026-11-01"
+}

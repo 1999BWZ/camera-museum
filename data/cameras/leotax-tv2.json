@@ -1,0 +1,29 @@
+{
+  "id": "leotax-tv2",
+  "brand": "Leotax",
+  "brand_cn": "",
+  "brand_slug": "leotax",
+  "country": "待补充",
+  "manufacturer": "Leotax",
+  "model": "TV2",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leotax旁轴相机，1958 年发布",
+  "description": "The Leotax TV2, also known as Leotax Merite, is a 35mm rangefinder camera produced by Shōwa Kōgaku in the years 1958/59, looking like constructed almost like Leica's rangefinder conception.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leotax TV2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leotax TV2",
+      "url": "https://camera-wiki.org/wiki/Leotax%20TV2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

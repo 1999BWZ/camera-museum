@@ -1,0 +1,29 @@
+{
+  "id": "konica-genba-kantoku",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Genba Kantoku",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1988 年发布",
+  "description": "The Genba Kantoku (現場監督) (translated as Site supervisor) or referred to as Foreman or Work camera is a rugged 35mm film cameras released in Japan by Konica in 1988.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Genba Kantoku"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Genba Kantoku",
+      "url": "https://camera-wiki.org/wiki/Konica%20Genba%20Kantoku"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

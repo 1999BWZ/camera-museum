@@ -1,0 +1,29 @@
+{
+  "id": "konica-fp-1",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "FP-1",
+  "year": 1981,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1981 年发布",
+  "description": "*See also the Konica FP, an all mechanical SLR in Konica F mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica FP-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica FP-1",
+      "url": "https://camera-wiki.org/wiki/Konica%20FP-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "robbin-reflex",
+  "brand": "Robbin",
+  "brand_cn": "",
+  "brand_slug": "robbin",
+  "country": "美国",
+  "manufacturer": "Robbin",
+  "model": "Reflex",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Robbin胶片相机，1949 年发布",
+  "description": "The Robbin Reflex is a pseudo-TLR camera from Robbin products, Los Angeles, CA.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Robbin Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Robbin Reflex",
+      "url": "https://camera-wiki.org/wiki/Robbin%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

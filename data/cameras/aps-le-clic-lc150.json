@@ -1,0 +1,29 @@
+{
+  "id": "aps-le-clic-lc150",
+  "brand": "APS",
+  "brand_cn": "",
+  "brand_slug": "aps",
+  "country": "待补充",
+  "manufacturer": "APS",
+  "model": "Le Clic LC150",
+  "year": 1999,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "APS胶片相机，1999 年发布",
+  "description": "The Le Clic LC150 by Keystone is a very obscure camera for the forgotten APS film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Keystone Le Clic LC150"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Keystone Le Clic LC150",
+      "url": "https://camera-wiki.org/wiki/Keystone%20Le%20Clic%20LC150"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

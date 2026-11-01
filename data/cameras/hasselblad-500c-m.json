@@ -1,0 +1,40 @@
+{
+  "id": "hasselblad-500c-m",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "哈苏",
+  "model": "500C/M",
+  "year": 1957,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏中画幅相机，1957 年发布",
+  "description": "哈苏于1957年发布的中画幅相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q60040531",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hasselblad%20500%20CM%20by%20Christopher%20Crouzet.jpg?width=800",
+      "caption": "500C/M",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q60040531"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Hasselblad 500C/M",
+      "url": "https://www.wikidata.org/wiki/Q60040531"
+    }
+  ],
+  "qid": "Q60040531",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

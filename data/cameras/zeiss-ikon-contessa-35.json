@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-contessa-35",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Contessa 35",
+  "year": 1950,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon旁轴相机，1950 年发布",
+  "description": "Contessa was the name given to a family of 35mm film cameras produced by Zeiss Ikon in Stuttgart between 1950-1955 (folding) and 1960-1971 (non-folding), the name is a reference to the Contessa-Nettel factory.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contessa 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contessa 35",
+      "url": "https://camera-wiki.org/wiki/Contessa%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-rolf-i",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Rolf I",
+  "year": 1924,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann折叠相机，1924 年发布",
+  "description": "The cute little folding bed camera Ernemann Rolf I is made for use with type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Rolf I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Rolf I",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Rolf%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

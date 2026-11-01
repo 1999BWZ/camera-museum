@@ -1,0 +1,29 @@
+{
+  "id": "leica-d-lux-3",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "D-Lux 3",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码相机，2006 年发布",
+  "description": "The D-Lux 3 is a Leica compact digital camera; it is a variation on the Panasonic DMC-LX2.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica D-Lux 3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica D-Lux 3",
+      "url": "https://camera-wiki.org/wiki/Leica%20D-Lux%203"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

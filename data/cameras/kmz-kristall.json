@@ -1,0 +1,29 @@
+{
+  "id": "kmz-kristall",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "Kristall",
+  "year": 1961,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ胶片单反相机，1961 年发布",
+  "description": "__NOTOC__\n\nThe Kristall is a 35mm film SLR camera, made by Krasnogorsky Mekhanichesky Zavod (KMZ) , (Mechanical Factory of Krasnogorsk), Moscow, former USSR, between 1961-62 with quantity 65,433.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kristall (KMZ)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kristall (KMZ)",
+      "url": "https://camera-wiki.org/wiki/Kristall%20%28KMZ%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

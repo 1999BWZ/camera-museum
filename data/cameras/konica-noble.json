@@ -1,0 +1,29 @@
+{
+  "id": "konica-noble",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Noble",
+  "year": 1908,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡折叠相机，1908 年发布",
+  "description": "The Noble Hand Camera (ノーブル手提暗函) The phrase tesage anbako (手提暗函) is rendered as \"Hand Camera\" in the Konishi catalogue dated December 1911.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Noble"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Noble",
+      "url": "https://camera-wiki.org/wiki/Noble"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

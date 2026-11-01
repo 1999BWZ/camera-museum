@@ -1,0 +1,29 @@
+{
+  "id": "national-and-ugein",
+  "brand": "National",
+  "brand_cn": "",
+  "brand_slug": "national",
+  "country": "待补充",
+  "manufacturer": "National",
+  "model": "and Ugein",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "National折叠相机，1937 年发布",
+  "description": "See also the National (4×6.5) folder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "National and Ugein"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – National and Ugein",
+      "url": "https://camera-wiki.org/wiki/National%20and%20Ugein"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

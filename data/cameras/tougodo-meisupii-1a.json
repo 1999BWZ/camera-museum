@@ -1,0 +1,29 @@
+{
+  "id": "tougodo-meisupii-1a",
+  "brand": "Tougodo",
+  "brand_cn": "",
+  "brand_slug": "tougodo",
+  "country": "待补充",
+  "manufacturer": "Tougodo",
+  "model": "Meisupii 1a",
+  "year": 1950,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tougodo胶片相机，1950 年发布",
+  "description": "The Meisupii 1a is a simple camera for 24x36 mm pictures on Bolta unperforated 35 mm roll film, made by the Yamanishi Tōgōdō plant in the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Meisupii 1a"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Meisupii 1a",
+      "url": "https://camera-wiki.org/wiki/Meisupii%201a"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

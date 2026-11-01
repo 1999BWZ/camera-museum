@@ -1,0 +1,29 @@
+{
+  "id": "rollei-matic",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "matic",
+  "year": 1980,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来取景器相机，1980 年发布",
+  "description": "The Rolleimatic was designed by Heinz Waaske.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleimatic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleimatic",
+      "url": "https://camera-wiki.org/wiki/Rolleimatic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

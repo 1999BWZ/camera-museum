@@ -1,0 +1,29 @@
+{
+  "id": "voigtlander-perkeo",
+  "brand": "Voigtländer",
+  "brand_cn": "福伦达",
+  "brand_slug": "voigtlander",
+  "country": "德国",
+  "manufacturer": "Voigtländer",
+  "model": "Perkeo",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "福伦达折叠相机，1932 年发布",
+  "description": "There are also other cameras called Perkeo; Voigtländer's later 6x6 folding Perkeo series, and Dr.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Voigtländer Perkeo (3x4)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Voigtländer Perkeo (3x4)",
+      "url": "https://camera-wiki.org/wiki/Voigtl%C3%A4nder%20Perkeo%20%283x4%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

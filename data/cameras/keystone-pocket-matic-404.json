@@ -1,0 +1,29 @@
+{
+  "id": "keystone-pocket-matic-404",
+  "brand": "Keystone",
+  "brand_cn": "",
+  "brand_slug": "keystone",
+  "country": "待补充",
+  "manufacturer": "Keystone",
+  "model": "Pocket-Matic 404",
+  "year": 1974,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Keystone胶片相机，1974 年发布",
+  "description": "The Keystone Pocket-Matic 404 was introduced in 1974, and is a camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Keystone Pocket-Matic 404"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Keystone Pocket-Matic 404",
+      "url": "https://camera-wiki.org/wiki/Keystone%20Pocket-Matic%20404"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-kr-5-super",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "KR-5 Super",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1982 年发布",
+  "description": "The KR-5 Super is one of a series of simple manual-exposure SLRs for 35mm film by Ricoh, all accepting K-mount lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh KR-5 Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh KR-5 Super",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20KR-5%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

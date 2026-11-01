@@ -1,0 +1,29 @@
+{
+  "id": "konica-big-mini-zoom-tr",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Big Mini Zoom TR",
+  "year": 1995,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1995 年发布",
+  "description": "{|style=\"float:right\"\n|colspan=\"2\"|\n|-\n|\n|\n|}\nPart of the \"Big Mini\" series, the Konica BM-610Z, or Big Mini TR (Big Mini Standa in Japan) has a 28–70 mm (f/3,5–8,4) zoom lens protected by a folding door, and as a stand-out feature (also giving the camera its name), a built-in tripod.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Big Mini Zoom TR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Big Mini Zoom TR",
+      "url": "https://camera-wiki.org/wiki/Konica%20Big%20Mini%20Zoom%20TR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

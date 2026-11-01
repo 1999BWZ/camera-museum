@@ -1,0 +1,29 @@
+{
+  "id": "holga-120tlr",
+  "brand": "Holga",
+  "brand_cn": "",
+  "brand_slug": "holga",
+  "country": "待补充",
+  "manufacturer": "Holga",
+  "model": "120TLR",
+  "year": 2009,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Holga中画幅相机，2009 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Holga 120TLR is a toy camera that uses medium format 120 film and introduced in 2009 by Universal Electronics (Holga).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Holga 120TLR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Holga 120TLR",
+      "url": "https://camera-wiki.org/wiki/Holga%20120TLR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hewlett-packard-hp-photosmart-320",
+  "brand": "Hewlett-Packard",
+  "brand_cn": "",
+  "brand_slug": "hewlett-packard",
+  "country": "待补充",
+  "manufacturer": "Hewlett-Packard",
+  "model": "HP PhotoSmart 320",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hewlett-Packard数码相机，2002 年发布",
+  "description": "The HP Photosmart 320 is a digital camera made in China for Hewlett-Packard, c.2002.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "HP PhotoSmart 320"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – HP PhotoSmart 320",
+      "url": "https://camera-wiki.org/wiki/HP%20PhotoSmart%20320"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "king-sawyers-view-master-stereo-color-camera",
+  "brand": "King",
+  "brand_cn": "",
+  "brand_slug": "king",
+  "country": "德国",
+  "manufacturer": "King",
+  "model": "Sawyers View-Master Stereo Color Camera",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "King立体相机，1961 年发布",
+  "description": "In about 1961, the European division of Sawyer's (based in Belgium) commissioned this stereo camera, designed to be compatible with the View-Master stereoscope viewer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sawyers View-Master Stereo Color Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sawyers View-Master Stereo Color Camera",
+      "url": "https://camera-wiki.org/wiki/Sawyers%20View-Master%20Stereo%20Color%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

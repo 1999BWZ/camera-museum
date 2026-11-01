@@ -1,0 +1,29 @@
+{
+  "id": "kodak-signet-35",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Signet 35",
+  "year": 1951,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1951 年发布",
+  "description": "The Kodak Signet 35 was Kodak's top American-made 35mm camera of the 1950's and the first of the Kodak Signet camera line.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Signet 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Signet 35",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Signet%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

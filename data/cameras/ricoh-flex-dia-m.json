@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-flex-dia-m",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "flex Dia M",
+  "year": 1956,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1956 年发布",
+  "description": "The Ricohflex Dia M is a 6x6 TLR camera made in Japan by Ricoh from 1956.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricohflex Dia M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricohflex Dia M",
+      "url": "https://camera-wiki.org/wiki/Ricohflex%20Dia%20M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-sr-1",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "SR-1",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1959 年发布",
+  "description": "__NOTOC__\n{|align=right\n|\n\n|-\n||\n\n|-\n||\n\n|}\nThe Minolta SR-1 was launched in 1959 as the second 35mm SLR camera from Chiyoda Kōgaku Seikō.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta SR-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta SR-1",
+      "url": "https://camera-wiki.org/wiki/Minolta%20SR-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

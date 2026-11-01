@@ -1,0 +1,29 @@
+{
+  "id": "cambo-miniwide",
+  "brand": "Cambo",
+  "brand_cn": "",
+  "brand_slug": "cambo",
+  "country": "荷兰",
+  "manufacturer": "Cambo",
+  "model": "Miniwide",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cambo数码相机，2003 年发布",
+  "description": "The Miniwide (or MW) is a wide angle camera system made by the Dutch company Cambo for use with different digital backs.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miniwide"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miniwide",
+      "url": "https://camera-wiki.org/wiki/Miniwide"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

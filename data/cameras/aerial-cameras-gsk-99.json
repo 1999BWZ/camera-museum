@@ -1,0 +1,29 @@
+{
+  "id": "aerial-cameras-gsk-99",
+  "brand": "Aerial cameras",
+  "brand_cn": "",
+  "brand_slug": "aerial-cameras",
+  "country": "待补充",
+  "manufacturer": "Aerial cameras",
+  "model": "GSK-99",
+  "year": 1941,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aerial cameras胶片相机，1941 年发布",
+  "description": "The Type 99 Ultra Small Aerial Camera (GSK-99) entered service with the Imperial Japanese Army in 1940.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "GSK-99"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – GSK-99",
+      "url": "https://camera-wiki.org/wiki/GSK-99"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

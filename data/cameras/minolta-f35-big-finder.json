@@ -1,0 +1,29 @@
+{
+  "id": "minolta-f35-big-finder",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "F35 Big Finder",
+  "year": 1991,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达取景器相机，1991 年发布",
+  "description": "The F35 Big Finder is a point-and-shoot compact camera made by Minolta in c.1991[https://www.collection-appareils.fr/x/html/camera-9672-Minolta_F35%20Big%20Finder.html Minolta F35 Big Finder page] at [https://www.collection-appareils.fr/ Sylvain Halgand's www.collection-appareils.fr] (in French).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta F35 Big Finder"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta F35 Big Finder",
+      "url": "https://camera-wiki.org/wiki/Minolta%20F35%20Big%20Finder"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

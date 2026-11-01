@@ -1,0 +1,29 @@
+{
+  "id": "praktica-report",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "Report",
+  "year": 1989,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康便携相机，1989 年发布",
+  "description": "__NOTOC__\n\nThe Praktica Report is a 35mm compact camera issued in 1989[https://fotocccp.ru/praktica-report PHOTOCCP].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica Report"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica Report",
+      "url": "https://camera-wiki.org/wiki/Praktica%20Report"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

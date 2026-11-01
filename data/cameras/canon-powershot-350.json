@@ -1,0 +1,29 @@
+{
+  "id": "canon-powershot-350",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "PowerShot 350",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，1997 年发布",
+  "description": "This very early Canon digital camera (introduced 1997) offered 640 x 480 resolution on 1/3\" CCD, no zoom, and recorded images to Compact Flash cards.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon PowerShot 350"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon PowerShot 350",
+      "url": "https://camera-wiki.org/wiki/Canon%20PowerShot%20350"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

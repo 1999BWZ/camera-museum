@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f-501-q1992006",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F-501",
+  "year": 1986,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1986 年发布",
+  "description": "尼康于1986年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1992006",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20F-501-Nikkor.jpg?width=800",
+      "caption": "F-501",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1992006"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon F-501",
+      "url": "https://www.wikidata.org/wiki/Q1992006"
+    }
+  ],
+  "qid": "Q1992006",
+  "sitelinks": 8,
+  "imported": "wikidata-5k-2026-11-01"
+}

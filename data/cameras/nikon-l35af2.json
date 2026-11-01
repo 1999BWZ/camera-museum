@@ -1,0 +1,29 @@
+{
+  "id": "nikon-l35af2",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "L35AF2",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片相机，1985 年发布",
+  "description": "The L35AF2 was Nikon's second camera in the L series and was an update of the Nikon L35AF/AD with 11 automatic features.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon L35AF2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon L35AF2",
+      "url": "https://camera-wiki.org/wiki/Nikon%20L35AF2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

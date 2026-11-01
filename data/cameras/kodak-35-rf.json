@@ -1,0 +1,29 @@
+{
+  "id": "kodak-35-rf",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "35 RF",
+  "year": 1940,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1940 年发布",
+  "description": "__NOTOC__ \n\n\nA contemporary of the Argus C3 and the Universal Mercury, the Kodak 35 RF astonished users with its ungainly looks, due to the coupling between the rangefinder and the focusing mechanism which was accomplished by a cam and levers located under an external housing.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak 35 RF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak 35 RF",
+      "url": "https://camera-wiki.org/wiki/Kodak%2035%20RF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

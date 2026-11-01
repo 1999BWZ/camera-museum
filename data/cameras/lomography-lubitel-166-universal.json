@@ -1,0 +1,40 @@
+{
+  "id": "lomography-lubitel-166-universal",
+  "brand": "Lomography",
+  "brand_cn": "LOMO",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "LOMO公司",
+  "model": "Lubitel 166 universal",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "LOMO胶片相机，1983 年发布",
+  "description": "LOMO于1983年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4271609",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20166%20%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB.jpg?width=800",
+      "caption": "Lubitel 166 universal",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4271609"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Lubitel 166 universal",
+      "url": "https://www.wikidata.org/wiki/Q4271609"
+    }
+  ],
+  "qid": "Q4271609",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

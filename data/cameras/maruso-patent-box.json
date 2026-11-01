@@ -1,0 +1,29 @@
+{
+  "id": "maruso-patent-box",
+  "brand": "Maruso",
+  "brand_cn": "",
+  "brand_slug": "maruso",
+  "country": "待补充",
+  "manufacturer": "Maruso",
+  "model": "Patent Box",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Maruso胶片相机，1949 年发布",
+  "description": "The Maruso Patent Box is a Japanese camera for Bolta film, made c.1949.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Maruso Patent Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Maruso Patent Box",
+      "url": "https://camera-wiki.org/wiki/Maruso%20Patent%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

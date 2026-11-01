@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dimage-f200",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "DiMAGE F200",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码相机，2003 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Minolta Dimage F200 is a compact digital camera from 2003.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta DiMAGE F200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta DiMAGE F200",
+      "url": "https://camera-wiki.org/wiki/Minolta%20DiMAGE%20F200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

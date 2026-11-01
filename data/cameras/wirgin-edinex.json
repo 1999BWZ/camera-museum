@@ -1,0 +1,29 @@
+{
+  "id": "wirgin-edinex",
+  "brand": "Wirgin",
+  "brand_cn": "",
+  "brand_slug": "wirgin",
+  "country": "待补充",
+  "manufacturer": "Wirgin",
+  "model": "Edinex",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wirgin取景器相机，1936 年发布",
+  "description": "{| class=\"plainlinks floatright\" width=500px style=\"text-align: center;\"\n|| [https://www.flickr.com/photos/myimagehost/8055932655/in/pool-camerawiki/ https://farm9.staticflickr.com/8175/8055932655_3713b38b6f_w.jpg]\n|-\n|| Early Edinex, Schneider-Kreuznach Radionar 1:2,9/50in Prontor II shutter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Edinex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Edinex",
+      "url": "https://camera-wiki.org/wiki/Edinex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

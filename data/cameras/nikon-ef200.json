@@ -1,0 +1,29 @@
+{
+  "id": "nikon-ef200",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "EF200",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康取景器相机，1995 年发布",
+  "description": "The EF200 is a fixed focus compact camera for 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon EF200"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon EF200",
+      "url": "https://camera-wiki.org/wiki/Nikon%20EF200"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

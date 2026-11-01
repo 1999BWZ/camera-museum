@@ -1,0 +1,29 @@
+{
+  "id": "contax-ax",
+  "brand": "Contax",
+  "brand_cn": "康泰时",
+  "brand_slug": "contax",
+  "country": "德国",
+  "manufacturer": "Contax",
+  "model": "AX",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "康泰时胶片单反相机，1996 年发布",
+  "description": "The AX is a 35mm SLR made in 1996 by Kyocera/Yashica.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contax AX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contax AX",
+      "url": "https://camera-wiki.org/wiki/Contax%20AX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

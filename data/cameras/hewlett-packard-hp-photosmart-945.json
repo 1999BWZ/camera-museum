@@ -1,0 +1,29 @@
+{
+  "id": "hewlett-packard-hp-photosmart-945",
+  "brand": "Hewlett-Packard",
+  "brand_cn": "",
+  "brand_slug": "hewlett-packard",
+  "country": "待补充",
+  "manufacturer": "Hewlett-Packard",
+  "model": "HP PhotoSmart 945",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hewlett-Packard数码相机，2003 年发布",
+  "description": "The HP PhotoSmart 945 is a 5.3 megapixel compact digital camera released in 2003.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "HP PhotoSmart 945"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – HP PhotoSmart 945",
+      "url": "https://camera-wiki.org/wiki/HP%20PhotoSmart%20945"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

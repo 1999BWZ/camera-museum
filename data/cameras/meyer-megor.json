@@ -1,0 +1,29 @@
+{
+  "id": "meyer-megor",
+  "brand": "Meyer",
+  "brand_cn": "",
+  "brand_slug": "meyer",
+  "country": "待补充",
+  "manufacturer": "Meyer",
+  "model": "Megor",
+  "year": 1931,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Meyer折叠相机，1931 年发布",
+  "description": "The Megor is either of two functionally similar strut-folding vest pocket cameras for 3x4 cm exposures on 127 film, sold by Meyer in the early 1930s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Megor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Megor",
+      "url": "https://camera-wiki.org/wiki/Megor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

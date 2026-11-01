@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-onestep-express",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "OneStep express",
+  "year": 1998,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1998 年发布",
+  "description": "The Polaroid OneStep express is a instant camera that takes 600 series film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid OneStep express"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid OneStep express",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20OneStep%20express"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

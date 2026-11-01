@@ -1,0 +1,29 @@
+{
+  "id": "detective-cameras-demon",
+  "brand": "Detective cameras",
+  "brand_cn": "",
+  "brand_slug": "detective-cameras",
+  "country": "英国",
+  "manufacturer": "Detective cameras",
+  "model": "Demon",
+  "year": 1889,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Detective cameras胶片相机，1889 年发布",
+  "description": "The Demon is a detective camera introduced in 1889.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Demon"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Demon",
+      "url": "https://camera-wiki.org/wiki/Demon"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

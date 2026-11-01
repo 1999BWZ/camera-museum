@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex",
+  "year": 1927,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片单反相机，1927 年发布",
+  "description": "Rolleiflex is the name of most of the 6×6 TLR cameras manufactured by Franke & Heidecke and later Rollei GmbH, in Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

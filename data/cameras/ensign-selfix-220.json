@@ -1,0 +1,29 @@
+{
+  "id": "ensign-selfix-220",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "英国",
+  "manufacturer": "Ensign",
+  "model": "Selfix 220",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign折叠相机，1939 年发布",
+  "description": "The Selfix 220 was the name given to a family of Selfix cameras made by Ensign in England since c.1939, maybe a tad earlier Formerly seen at a Selfix 220 entry at Paul Cowan's blog.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Selfix 220"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Selfix 220",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Selfix%20220"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

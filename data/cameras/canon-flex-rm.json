@@ -1,0 +1,29 @@
+{
+  "id": "canon-flex-rm",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "flex RM",
+  "year": 1962,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，1962 年发布",
+  "description": "The Canonflex RM was introduced in 1962.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canonflex RM"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canonflex RM",
+      "url": "https://camera-wiki.org/wiki/Canonflex%20RM"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

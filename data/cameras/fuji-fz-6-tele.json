@@ -1,0 +1,29 @@
+{
+  "id": "fuji-fz-6-tele",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "FZ-6 Tele",
+  "year": 1990,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片相机，1990 年发布",
+  "description": "The FZ-6 Tele is a compact 35mm film camera released by Fuji in 1990.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji FZ-6 Tele"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji FZ-6 Tele",
+      "url": "https://camera-wiki.org/wiki/Fuji%20FZ-6%20Tele"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

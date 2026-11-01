@@ -1,0 +1,29 @@
+{
+  "id": "coronet-midget",
+  "brand": "Coronet",
+  "brand_cn": "",
+  "brand_slug": "coronet",
+  "country": "英国",
+  "manufacturer": "Coronet",
+  "model": "Midget",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Coronet微型相机，1935 年发布",
+  "description": "The Coronet Midget is a tiny box camera made of Bakelite by the Coronet Camera Co.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Coronet Midget"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Coronet Midget",
+      "url": "https://camera-wiki.org/wiki/Coronet%20Midget"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

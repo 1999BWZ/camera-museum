@@ -1,0 +1,29 @@
+{
+  "id": "sony-dsc-p10",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "DSC-P10",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2003 年发布",
+  "description": "The Sony DSC-P10 Cybershot is a digital point and shoot camera released in 2003, offering a variety of functions for the beginning digital photographer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony DSC-P10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony DSC-P10",
+      "url": "https://camera-wiki.org/wiki/Sony%20DSC-P10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

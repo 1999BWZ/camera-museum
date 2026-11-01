@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-2000fc",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "2000FC",
+  "year": 1952,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏胶片单反相机，1952 年发布",
+  "description": "__NOTOC__\n\n\nThe 2000FC is a 6×6 medium format SLR system camera released by Swedish manufacturer Hasselblad in 1977.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad 2000FC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad 2000FC",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%202000FC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

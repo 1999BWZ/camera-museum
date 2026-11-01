@@ -1,0 +1,29 @@
+{
+  "id": "rollei-doscop",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "doscop",
+  "year": 1926,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来立体相机，1926 年发布",
+  "description": "The Rolleidoscop is a stereo camera with a reflex viewfinder, made by Franke and Heidecke (later Rollei-Werke Franke & Heidecke).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleidoscop"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleidoscop",
+      "url": "https://camera-wiki.org/wiki/Rolleidoscop"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

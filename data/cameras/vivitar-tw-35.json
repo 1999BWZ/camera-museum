@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-tw-35",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "TW 35",
+  "year": 1986,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片相机，1986 年发布",
+  "description": "The TW 35 by Vivitar is a c.1986 35mm autofocus camera switchable between 35mm f/5.6 Wide Angle and 80mm f/8.0 Telephoto lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar TW 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar TW 35",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20TW%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

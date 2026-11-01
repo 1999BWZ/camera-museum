@@ -1,0 +1,29 @@
+{
+  "id": "konica-sakura-honor",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Sakura Honor",
+  "year": 1907,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡盒式相机，1907 年发布",
+  "description": "See also the Honor S1 and Honor SL Leica copies.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sakura Honor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sakura Honor",
+      "url": "https://camera-wiki.org/wiki/Sakura%20Honor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

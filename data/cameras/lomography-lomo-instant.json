@@ -1,0 +1,29 @@
+{
+  "id": "lomography-lomo-instant",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "Lomo'Instant",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography玩具相机，2014 年发布",
+  "description": "The Lomo'Instant is a instant camera produced by Lomography.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lomography Lomo'Instant"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lomography Lomo'Instant",
+      "url": "https://camera-wiki.org/wiki/Lomography%20Lomo%27Instant"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

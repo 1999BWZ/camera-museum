@@ -1,0 +1,29 @@
+{
+  "id": "meridian-45b",
+  "brand": "Meridian",
+  "brand_cn": "",
+  "brand_slug": "meridian",
+  "country": "待补充",
+  "manufacturer": "Meridian",
+  "model": "45B",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Meridian折叠相机，1947 年发布",
+  "description": "*Type: press camera\n*Manufacturer: Meridian\n*Film: 4x5\n*Year of launch: later 1940s?",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Meridian 45B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Meridian 45B",
+      "url": "https://camera-wiki.org/wiki/Meridian%2045B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

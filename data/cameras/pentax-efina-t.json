@@ -1,0 +1,29 @@
+{
+  "id": "pentax-efina-t",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "efina T",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片相机，2000 年发布",
+  "description": "The Pentax efina T is a tiny metal APS zoom camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax efina T"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax efina T",
+      "url": "https://camera-wiki.org/wiki/Pentax%20efina%20T"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

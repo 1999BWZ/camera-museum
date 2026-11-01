@@ -1,0 +1,29 @@
+{
+  "id": "bencini-koroll",
+  "brand": "Bencini",
+  "brand_cn": "",
+  "brand_slug": "bencini",
+  "country": "意大利",
+  "manufacturer": "Bencini",
+  "model": "Koroll",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bencini取景器相机，1951 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Koroll cameras were 120 film and 35mm viewfinder cameras made by Bencini in Milan, Italy starting in the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bencini Koroll"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bencini Koroll",
+      "url": "https://camera-wiki.org/wiki/Bencini%20Koroll"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

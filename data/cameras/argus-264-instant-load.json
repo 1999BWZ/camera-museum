@@ -1,0 +1,29 @@
+{
+  "id": "argus-264-instant-load",
+  "brand": "Argus",
+  "brand_cn": "",
+  "brand_slug": "argus",
+  "country": "待补充",
+  "manufacturer": "Argus",
+  "model": "264 Instant Load",
+  "year": 1966,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Argus胶片相机，1966 年发布",
+  "description": "The 264 Instant Load is a continuation of the stout metal autoexposure cameras for 126 film cartridges offered by Argus in the 1960s, which began with the 260 Automatic.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Argus 264 Instant Load"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Argus 264 Instant Load",
+      "url": "https://camera-wiki.org/wiki/Argus%20264%20Instant%20Load"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

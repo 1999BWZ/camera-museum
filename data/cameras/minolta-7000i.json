@@ -1,0 +1,40 @@
+{
+  "id": "minolta-7000i",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "7000i",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1988 年发布",
+  "description": "美能达于1988年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q427749",
+    "多语言词条数": "4"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/20170108%20Minolta%20Dynax%207000i%20Front%20stacked%20850%209418.jpg?width=800",
+      "caption": "7000i",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q427749"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Minolta 7000i",
+      "url": "https://www.wikidata.org/wiki/Q427749"
+    }
+  ],
+  "qid": "Q427749",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

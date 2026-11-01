@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-matic-126",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "matic 126",
+  "year": 1963,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1963 年发布",
+  "description": "The Ricohmatic 126 is a 1960s camera by Riken/Ricoh using 126 film cartridges, whose metal finish shows much more refinement than the typical Instamatic.The Rikenon 35mm f/2.8 lens uses scale focusing and is surrounded by a selenium meter cell.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricohmatic 126"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricohmatic 126",
+      "url": "https://camera-wiki.org/wiki/Ricohmatic%20126"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

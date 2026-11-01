@@ -1,0 +1,29 @@
+{
+  "id": "quarter-plate-dallmeyer-speed",
+  "brand": "Quarter plate",
+  "brand_cn": "",
+  "brand_slug": "quarter-plate",
+  "country": "待补充",
+  "manufacturer": "Quarter plate",
+  "model": "Dallmeyer Speed",
+  "year": 1923,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Quarter plate折叠相机，1923 年发布",
+  "description": "Dallmeyer also made a f/1.5 and even f/0.99 cine lenses a few years later, named the 'Speed' Anastigmat, and often referred to as the Dallmeyer Speed.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Dallmeyer Speed"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Dallmeyer Speed",
+      "url": "https://camera-wiki.org/wiki/Dallmeyer%20Speed"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

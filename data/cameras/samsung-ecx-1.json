@@ -1,0 +1,29 @@
+{
+  "id": "samsung-ecx-1",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "Samsung",
+  "model": "ECX 1",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星便携相机，1994 年发布",
+  "description": "{|align=right\n||\n \n|-\n||\n \n|-\n||\n \n|-\n||\n \n|-\n|}\nThe Samsung ECX 1 is a 35mm auto focus point and shoot camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samsung ECX 1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samsung ECX 1",
+      "url": "https://camera-wiki.org/wiki/Samsung%20ECX%201"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

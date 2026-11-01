@@ -1,0 +1,29 @@
+{
+  "id": "postcard-format-black-beauty",
+  "brand": "Postcard format",
+  "brand_cn": "",
+  "brand_slug": "postcard-format",
+  "country": "待补充",
+  "manufacturer": "Postcard format",
+  "model": "Black Beauty",
+  "year": 1906,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Postcard format折叠相机，1906 年发布",
+  "description": "Seneca's Black Beauty is a folding-bed plate camera for use with 3&frac14;&times;5&frac12; inch postcard format film plates.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Black Beauty"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Black Beauty",
+      "url": "https://camera-wiki.org/wiki/Black%20Beauty"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

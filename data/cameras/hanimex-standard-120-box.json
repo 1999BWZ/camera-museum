@@ -1,0 +1,29 @@
+{
+  "id": "hanimex-standard-120-box",
+  "brand": "Hanimex",
+  "brand_cn": "",
+  "brand_slug": "hanimex",
+  "country": "待补充",
+  "manufacturer": "Hanimex",
+  "model": "Standard 120 Box",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hanimex盒式相机，1954 年发布",
+  "description": "The Hanimex Standard 120 Box is a 120 film box camera for 6x9cm images, made by Vredeborch for Hanimex, c.1954.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hanimex Standard 120 Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hanimex Standard 120 Box",
+      "url": "https://camera-wiki.org/wiki/Hanimex%20Standard%20120%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "king-sprint",
+  "brand": "King",
+  "brand_cn": "",
+  "brand_slug": "king",
+  "country": "待补充",
+  "manufacturer": "King",
+  "model": "Sprint",
+  "year": 1962,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "King取景器相机，1962 年发布",
+  "description": "The Regula Sprint models were 35mm viewfinder cameras made at Bad Liebenzell in the Black Forest by King KG, c.1962 Page 815..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Regula Sprint"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Regula Sprint",
+      "url": "https://camera-wiki.org/wiki/Regula%20Sprint"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

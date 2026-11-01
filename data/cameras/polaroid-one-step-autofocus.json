@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-one-step-autofocus",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "One Step Autofocus",
+  "year": 1997,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1997 年发布",
+  "description": "Not to be confused with the earlier One Step that used SX-70 film, or the later rounded body 670AF, the Polaroid One Step Autofocus (with curved corners) was part of a new generation of models (circa 1997) in Polaroid's 600-series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid One Step Autofocus"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid One Step Autofocus",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20One%20Step%20Autofocus"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

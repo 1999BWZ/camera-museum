@@ -1,0 +1,37 @@
+{
+  "id": "olympus-trip-af",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Trip AF",
+  "year": 1984,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，1984 年发布",
+  "description": "The Trip AF of 1984 was an automatic 35mm compact camera, with manual winding and 2-point autofocus manufactured by Olympus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Trip AF"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm5.static.flickr.com/4135/4882484660_5d0c6c8476.jpg",
+      "caption": "Trip AF",
+      "source": "Flickr（John Banbury）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/johnbanbury/4882484660/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Trip AF",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Trip%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

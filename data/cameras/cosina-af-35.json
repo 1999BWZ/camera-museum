@@ -1,0 +1,29 @@
+{
+  "id": "cosina-af-35",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "AF-35",
+  "year": 1979,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina便携相机，1979 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\n\nThe Cosina AF-35 is a compact camera for 35 mm film, introduced by Cosina in 1979.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cosina AF-35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cosina AF-35",
+      "url": "https://camera-wiki.org/wiki/Cosina%20AF-35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

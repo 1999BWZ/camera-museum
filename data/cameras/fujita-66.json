@@ -1,0 +1,29 @@
+{
+  "id": "fujita-66",
+  "brand": "Fujita",
+  "brand_cn": "",
+  "brand_slug": "fujita",
+  "country": "待补充",
+  "manufacturer": "Fujita",
+  "model": "66",
+  "year": 1956,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fujita数码单反相机，1956 年发布",
+  "description": "The Fujita 66 is a 6×6 format SLR introduced in 1956, known for its budget price.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujita 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujita 66",
+      "url": "https://camera-wiki.org/wiki/Fujita%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

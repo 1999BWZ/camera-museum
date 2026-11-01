@@ -1,0 +1,29 @@
+{
+  "id": "spring-motor-tessina",
+  "brand": "Spring motor",
+  "brand_cn": "",
+  "brand_slug": "spring-motor",
+  "country": "瑞士",
+  "manufacturer": "Spring motor",
+  "model": "Tessina",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spring motor微型相机，1960 年发布",
+  "description": "Tessina cameras are a range of subminiature cameras made in Switzerland by Sigrist, and distributed by Concava S.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tessina"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tessina",
+      "url": "https://camera-wiki.org/wiki/Tessina"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

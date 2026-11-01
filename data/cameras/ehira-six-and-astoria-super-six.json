@@ -1,0 +1,29 @@
+{
+  "id": "ehira-six-and-astoria-super-six",
+  "brand": "Ehira",
+  "brand_cn": "",
+  "brand_slug": "ehira",
+  "country": "待补充",
+  "manufacturer": "Ehira",
+  "model": "Six and Astoria Super Six",
+  "year": 1949,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ehira旁轴相机，1949 年发布",
+  "description": "The Ehira Six and Astoria Super Six are Japanese 6×6 coupled-rangefinder folding cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ehira Six and Astoria Super Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ehira Six and Astoria Super Six",
+      "url": "https://camera-wiki.org/wiki/Ehira%20Six%20and%20Astoria%20Super%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

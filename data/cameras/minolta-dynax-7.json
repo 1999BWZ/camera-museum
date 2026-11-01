@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-7",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 7",
+  "year": 2000,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，2000 年发布",
+  "description": "The Minolta Dynax 7 is an autofocus 35mm SLR made by Minolta in c.2000[https://www.mhohner.de/sony-minolta/onebody/7 Minolta Dynax 7 specifications page] at [https://www.mhohner.de/ Michael Hohner Photography Pages].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 7",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%207"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "welta-x",
+  "brand": "Welta",
+  "brand_cn": "",
+  "brand_slug": "welta",
+  "country": "待补充",
+  "manufacturer": "Welta",
+  "model": "x",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Welta折叠相机，1938 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Weltax was a self-erecting folding camera made by Welta offering 6&times;6 or 6&times;4.5 images on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Weltax"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Weltax",
+      "url": "https://camera-wiki.org/wiki/Weltax"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

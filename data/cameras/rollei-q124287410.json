@@ -1,0 +1,40 @@
+{
+  "id": "rollei-q124287410",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "禄莱",
+  "model": "Q124287410",
+  "year": 1974,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1974 年发布",
+  "description": "禄来于1974年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q124287410",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rollei%20XF%2035.jpg?width=800",
+      "caption": "Q124287410",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q124287410"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Q124287410",
+      "url": "https://www.wikidata.org/wiki/Q124287410"
+    }
+  ],
+  "qid": "Q124287410",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

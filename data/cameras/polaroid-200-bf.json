@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-200-bf",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "200 Bf",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来取景器相机，1999 年发布",
+  "description": "The Polaroid 200 Bf is a fixed-focus camera for 24 x 36mm pictures on 135 film cartridges, made by Polaroid around 1999.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid 200 Bf"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid 200 Bf",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20200%20Bf"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

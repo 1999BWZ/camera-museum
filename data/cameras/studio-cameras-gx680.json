@@ -1,0 +1,29 @@
+{
+  "id": "studio-cameras-gx680",
+  "brand": "Studio cameras",
+  "brand_cn": "",
+  "brand_slug": "studio-cameras",
+  "country": "待补充",
+  "manufacturer": "Studio cameras",
+  "model": "GX680",
+  "year": 1995,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Studio cameras胶片单反相机，1995 年发布",
+  "description": "The GX680 is in a series of medium format SLR studio system cameras that uses 120/220 roll film in a 6x8 format and introduced by Fuji in 1986[https://fujifilm-x.com/global/stories/the-history-of-fujinon-episode6/ The History of FUJINON episode6].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji GX680"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji GX680",
+      "url": "https://camera-wiki.org/wiki/Fuji%20GX680"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leidolf-lordomat",
+  "brand": "Leidolf",
+  "brand_cn": "",
+  "brand_slug": "leidolf",
+  "country": "待补充",
+  "manufacturer": "Leidolf",
+  "model": "Lordomat",
+  "year": 1953,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leidolf旁轴相机，1953 年发布",
+  "description": "The Lordordomat is a 1953 rangefinder camera by Leidolf offering interchangeable lenses in a Prontor-SVS shutter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lordomat"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lordomat",
+      "url": "https://camera-wiki.org/wiki/Lordomat"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

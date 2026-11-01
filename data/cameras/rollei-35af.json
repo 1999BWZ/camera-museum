@@ -1,0 +1,29 @@
+{
+  "id": "rollei-35af",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "35AF",
+  "year": 2024,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片单反相机，2024 年发布",
+  "description": "The Rollei 35AF is a 35mm camera, developed by Mint as result of a project that started in 2022, to make a version of the Rollei 35 with auto-focus.[https://mint-camera.com/35mm-camera/ Blog, 35mm camera at Mint] about the project.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei 35AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei 35AF",
+      "url": "https://camera-wiki.org/wiki/Rollei%2035AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "agfa-isoly",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Isoly",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发取景器相机，1960 年发布",
+  "description": "In the period 1960-1971, Agfa offered a series of simple cameras for shooting 16 exposures of 4x4 cm on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Isoly"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Isoly",
+      "url": "https://camera-wiki.org/wiki/Isoly"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

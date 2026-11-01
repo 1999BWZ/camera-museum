@@ -1,0 +1,29 @@
+{
+  "id": "foca-flex",
+  "brand": "Foca",
+  "brand_cn": "",
+  "brand_slug": "foca",
+  "country": "法国",
+  "manufacturer": "Foca",
+  "model": "flex",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Foca胶片单反相机，1959 年发布",
+  "description": "The Focaflex and Focaflex Automatique are a series of three unusual leaf shutter 35mm SLR cameras which were produced by OPL-Foca (France) from 1959-63.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Focaflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Focaflex",
+      "url": "https://camera-wiki.org/wiki/Focaflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "camera-designers-domnick",
+  "brand": "Camera designers",
+  "brand_cn": "",
+  "brand_slug": "camera-designers",
+  "country": "待补充",
+  "manufacturer": "Camera designers",
+  "model": "Domnick",
+  "year": 1962,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Camera designers旁轴相机，1962 年发布",
+  "description": "Hans F W Domnick was a camera designer in Berlin in the 1960s and '70s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Domnick"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Domnick",
+      "url": "https://camera-wiki.org/wiki/Domnick"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

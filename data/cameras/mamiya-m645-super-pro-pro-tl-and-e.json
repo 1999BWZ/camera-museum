@@ -1,0 +1,29 @@
+{
+  "id": "mamiya-m645-super-pro-pro-tl-and-e",
+  "brand": "Mamiya",
+  "brand_cn": "玛米亚",
+  "brand_slug": "mamiya",
+  "country": "日本",
+  "manufacturer": "Mamiya",
+  "model": "M645 Super, Pro, Pro TL and E",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "玛米亚胶片单反相机，1985 年发布",
+  "description": "The M645 Super, 645 Pro, 645 Pro TL and 645E are medium-format SLR cameras made in Japan by Mamiya from the mid-1980's.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mamiya M645 Super, Pro, Pro TL and E"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mamiya M645 Super, Pro, Pro TL and E",
+      "url": "https://camera-wiki.org/wiki/Mamiya%20M645%20Super%2C%20Pro%2C%20Pro%20TL%20and%20E"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

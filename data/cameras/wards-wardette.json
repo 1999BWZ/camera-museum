@@ -1,0 +1,29 @@
+{
+  "id": "wards-wardette",
+  "brand": "Wards",
+  "brand_cn": "",
+  "brand_slug": "wards",
+  "country": "美国",
+  "manufacturer": "Wards",
+  "model": "Wardette",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wards盒式相机，1948 年发布",
+  "description": "The Wardette is a box camera for type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wardette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wardette",
+      "url": "https://camera-wiki.org/wiki/Wardette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

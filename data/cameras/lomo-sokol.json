@@ -1,0 +1,29 @@
+{
+  "id": "lomo-sokol",
+  "brand": "LOMO",
+  "brand_cn": "",
+  "brand_slug": "lomo",
+  "country": "待补充",
+  "manufacturer": "LOMO",
+  "model": "Sokol",
+  "year": 1966,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "LOMO旁轴相机，1966 年发布",
+  "description": "===Sokol Automat===\nThe Sokol Automat is a 35mm rangefinder camera made by GOMZ in Leningrad, launched in 1966.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sokol"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sokol",
+      "url": "https://camera-wiki.org/wiki/Sokol"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

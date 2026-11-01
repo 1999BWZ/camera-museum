@@ -1,0 +1,29 @@
+{
+  "id": "wzfo-start",
+  "brand": "WZFO",
+  "brand_cn": "",
+  "brand_slug": "wzfo",
+  "country": "波兰",
+  "manufacturer": "WZFO",
+  "model": "Start",
+  "year": 1951,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "WZFO胶片相机，1951 年发布",
+  "description": "__NOTOC__\nThere is also a Russian Start Single-Lens-Reflex camera, and the Pouva Start Bakelite camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Start (TLR)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Start (TLR)",
+      "url": "https://camera-wiki.org/wiki/Start%20%28TLR%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

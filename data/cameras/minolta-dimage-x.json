@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dimage-x",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "DiMAGE X",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码相机，2002 年发布",
+  "description": "The Minolta DiMAGE X was the original model in Minolta's series of stylish, flattened digital compact cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta DiMAGE X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta DiMAGE X",
+      "url": "https://camera-wiki.org/wiki/Minolta%20DiMAGE%20X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

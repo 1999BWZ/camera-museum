@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-2000",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "2000",
+  "year": 1976,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来旁轴相机，1976 年发布",
+  "description": "The Land Camera 2000 is the non-US name of the Pronto!, the model Polaroid introduced in 1976 as a lower-cost, rigid-bodied option accepting the same integral film as the premium SX-70.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid 2000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid 2000",
+      "url": "https://camera-wiki.org/wiki/Polaroid%202000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

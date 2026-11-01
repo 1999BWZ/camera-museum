@@ -1,0 +1,29 @@
+{
+  "id": "konica-auto-s-261",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Auto S 261",
+  "year": 1968,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡旁轴相机，1968 年发布",
+  "description": "The Auto S 261 is a c.1968 camera from Konica designed to accept drop-in 126 film cartridges.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Auto S 261"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Auto S 261",
+      "url": "https://camera-wiki.org/wiki/Konica%20Auto%20S%20261"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

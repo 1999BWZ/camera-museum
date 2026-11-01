@@ -1,0 +1,29 @@
+{
+  "id": "view-cameras-8",
+  "brand": "view cameras",
+  "brand_cn": "",
+  "brand_slug": "view-cameras",
+  "country": "待补充",
+  "manufacturer": "view cameras",
+  "model": "8",
+  "year": 1919,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "view cameras胶片相机，1919 年发布",
+  "description": "{|class=plainlinks\n||[https://www.flickr.com/photos/photoplastic/6588263815 http://farm8.staticflickr.com/7010/6588263815_9c6b3cb37f_n.jpg]\n||[https://www.flickr.com/photos/photoplastic/6588264741 http://farm8.staticflickr.com/7175/6588264741_24aec47f02_m.jpg]\n||[https://www.flickr.com/photos/photop",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Seneca 8"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Seneca 8",
+      "url": "https://camera-wiki.org/wiki/Seneca%208"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

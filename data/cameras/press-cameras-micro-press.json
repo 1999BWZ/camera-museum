@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-micro-press",
+  "brand": "Press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "英国",
+  "manufacturer": "Press cameras",
+  "model": "Micro-Press",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Press cameras折叠相机，1951 年发布",
+  "description": "This press camera of MPP was based on the Pacemaker Speed Graphic.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Micro-Press"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Micro-Press",
+      "url": "https://camera-wiki.org/wiki/Micro-Press"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

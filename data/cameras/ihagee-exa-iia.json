@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-exa-iia",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "Exa IIa",
+  "year": 1963,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee胶片单反相机，1963 年发布",
+  "description": "{| class=\"floatright plainlinks\"\n|colspan=2|\n|-\n|\n|\n\n|-\n|}\nThe Exa IIa is a 35 mm SLR camera made by Ihagee in 1963-4.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Exa IIa"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Exa IIa",
+      "url": "https://camera-wiki.org/wiki/Exa%20IIa"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

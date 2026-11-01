@@ -1,0 +1,29 @@
+{
+  "id": "agfa-optima-rapid-250",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Optima Rapid 250",
+  "year": 1965,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发取景器相机，1965 年发布",
+  "description": "The Agfa Optima Rapid 250 is a German made 35mm camera with a Color-Agnar f/2.8 45mm lens .",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Optima Rapid 250"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Optima Rapid 250",
+      "url": "https://camera-wiki.org/wiki/Optima%20Rapid%20250"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

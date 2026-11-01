@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-3xi",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 3xi",
+  "year": 1991,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1991 年发布",
+  "description": "The Dynax 3xi is a autofocus 35mm film SLR.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 3xi"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 3xi",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%203xi"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "middl-flex",
+  "brand": "Middl",
+  "brand_cn": "",
+  "brand_slug": "middl",
+  "country": "待补充",
+  "manufacturer": "Middl",
+  "model": "Flex",
+  "year": 1952,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Middl双镜头反光相机，1952 年发布",
+  "description": "The Middl Flex (ミドルフレックス) is a twin-lens reflex camera for 6x6 cm pictures on 120 film, made by Otowa in Japan in about 1952.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Middl Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Middl Flex",
+      "url": "https://camera-wiki.org/wiki/Middl%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

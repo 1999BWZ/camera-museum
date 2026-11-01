@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-finepix-s3500",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "FinePix S3500",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，2004 年发布",
+  "description": "The FinePix 3500 or FinePix S3100 is in the FinePix line of digital cameras released by Fujifilm in 2004.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm FinePix S3500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm FinePix S3500",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20FinePix%20S3500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

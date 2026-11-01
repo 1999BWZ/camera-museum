@@ -1,0 +1,29 @@
+{
+  "id": "sony-77",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "α77",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2011 年发布",
+  "description": "The Sony α77 (SLT-A77) was introduced in late summer of 2011 as the new flagship of the Sony α system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony α77"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony α77",
+      "url": "https://camera-wiki.org/wiki/Sony%20%CE%B177"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

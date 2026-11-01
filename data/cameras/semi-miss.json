@@ -1,0 +1,29 @@
+{
+  "id": "semi-miss",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Miss",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi折叠相机，1939 年发布",
+  "description": "The Miss (ミース) or Semi Miss (セミミース) The camera is called ミース (Mīsu) in official price lists, and セミミース (Semi Mīsu) in the April 1943 government inquiry and in , p.341.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Miss"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Miss",
+      "url": "https://camera-wiki.org/wiki/Semi%20Miss"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

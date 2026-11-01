@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-xr-x-3pf",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "XR-X 3PF",
+  "year": 1995,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1995 年发布",
+  "description": "In 1995 Ricoh introduced two \"flagship\" models in their series of K mount-lens SLRs for 35mm film: These were the XR-10PF, and the nearly-identical XR-10P, omitting the popup flash of the PF.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh XR-X 3PF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh XR-X 3PF",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20XR-X%203PF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

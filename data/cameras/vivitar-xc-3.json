@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-xc-3",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "XC-3",
+  "year": 1978,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar数码单反相机，1978 年发布",
+  "description": "The Vivitar XC-3 is an M42 mount, 35mm SLR, marketed by Vivitar and manufactured by Cosina.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar XC-3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar XC-3",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20XC-3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

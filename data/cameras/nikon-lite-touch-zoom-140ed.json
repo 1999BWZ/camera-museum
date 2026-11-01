@@ -1,0 +1,29 @@
+{
+  "id": "nikon-lite-touch-zoom-140ed",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Lite•Touch Zoom 140ED",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2001 年发布",
+  "description": "The Nikon Lite•Touch Zoom 140ED is a 35mm compact camera with autofocus introduced by Nikon in 2001[https://web.archive.org/web/20010823035309/http://www2.prnewswire.com/cgi-bin/micro_stories.pl?ACCT=130907&TICK=NIKON&STORY=/www/story/07-16-2001/0001533828&EDATE=Jul+16,+2001 Nikon Press Release] (ar",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Lite•Touch Zoom 140ED (QD)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Lite•Touch Zoom 140ED (QD)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Lite%E2%80%A2Touch%20Zoom%20140ED%20%28QD%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

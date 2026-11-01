@@ -1,0 +1,29 @@
+{
+  "id": "photo-deluxe-reflex",
+  "brand": "Photo",
+  "brand_cn": "",
+  "brand_slug": "photo",
+  "country": "待补充",
+  "manufacturer": "Photo",
+  "model": "Deluxe Reflex",
+  "year": 1929,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Photo数码单反相机，1929 年发布",
+  "description": "The Photo Deluxe (ホトデルックス) or Photo Deluxe Reflex (ホトデルックスレフレックス) The name in the advertisements is either \"Photo Deluxe\", \"Photo Deluxe Reflex\" or \"Photo Deluxe Reflex ¼ Plate\".",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Photo Deluxe Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Photo Deluxe Reflex",
+      "url": "https://camera-wiki.org/wiki/Photo%20Deluxe%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

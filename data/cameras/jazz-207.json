@@ -1,0 +1,29 @@
+{
+  "id": "jazz-207",
+  "brand": "Jazz",
+  "brand_cn": "",
+  "brand_slug": "jazz",
+  "country": "待补充",
+  "manufacturer": "Jazz",
+  "model": "207",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Jazz取景器相机，1996 年发布",
+  "description": "The Jazz 207 is a \"focus free\" camera with built-in flash which uses 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Jazz 207"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Jazz 207",
+      "url": "https://camera-wiki.org/wiki/Jazz%20207"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

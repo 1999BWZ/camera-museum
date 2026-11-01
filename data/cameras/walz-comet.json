@@ -1,0 +1,29 @@
+{
+  "id": "walz-comet",
+  "brand": "Walz",
+  "brand_cn": "",
+  "brand_slug": "walz",
+  "country": "待补充",
+  "manufacturer": "Walz",
+  "model": "Comet",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Walz旁轴相机，1958 年发布",
+  "description": "A Walz rangefinder camera for 35mm film c.1958.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Walz Comet"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Walz Comet",
+      "url": "https://camera-wiki.org/wiki/Walz%20Comet"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

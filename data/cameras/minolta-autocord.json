@@ -1,0 +1,29 @@
+{
+  "id": "minolta-autocord",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Autocord",
+  "year": 1945,
+  "type": "tlr",
+  "type_cn": "双镜头反光相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达双镜头反光相机，1945 年发布",
+  "description": "Twin-lens reflexes bearing the Minolta name had been offered as early as 1937, starting with the Minoltaflex (I).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Autocord"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Autocord",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Autocord"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

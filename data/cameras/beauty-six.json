@@ -1,0 +1,29 @@
+{
+  "id": "beauty-six",
+  "brand": "Beauty",
+  "brand_cn": "",
+  "brand_slug": "beauty",
+  "country": "待补充",
+  "manufacturer": "Beauty",
+  "model": "Six",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beauty折叠相机，1953 年发布",
+  "description": "The Beauty Six is a Japanese folding camera taking 6×6cm and 4.5×6cm exposures, made by Taiyōdō Kōki in 1953–4.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Beauty Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Beauty Six",
+      "url": "https://camera-wiki.org/wiki/Beauty%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-automat-model-2",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex Automat Model 2",
+  "year": 1938,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来中画幅相机，1938 年发布",
+  "description": "The Rolleiflex Automat, model 2 is a medium format TLR camera manufactured by Franke & Heidecke, Braunschweig, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex Automat Model 2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex Automat Model 2",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%20Automat%20Model%202"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

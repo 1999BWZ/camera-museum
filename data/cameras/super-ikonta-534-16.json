@@ -1,0 +1,29 @@
+{
+  "id": "super-ikonta-534-16",
+  "brand": "Super",
+  "brand_cn": "",
+  "brand_slug": "super",
+  "country": "待补充",
+  "manufacturer": "Super",
+  "model": "Ikonta 534/16",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Super旁轴相机，1955 年发布",
+  "description": "The 534/16 is a folding camera in the Ikonta line, produced by the German company Zeiss Ikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Ikonta 534/16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Ikonta 534/16",
+      "url": "https://camera-wiki.org/wiki/Super%20Ikonta%20534/16"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

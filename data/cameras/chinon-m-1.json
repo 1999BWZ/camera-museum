@@ -1,0 +1,29 @@
+{
+  "id": "chinon-m-1",
+  "brand": "Chinon",
+  "brand_cn": "",
+  "brand_slug": "chinon",
+  "country": "待补充",
+  "manufacturer": "Chinon",
+  "model": "M-1",
+  "year": 1972,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Chinon数码单反相机，1972 年发布",
+  "description": "The Chinon M-1 is a 35mm SLR camera released in 1972.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chinon M-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chinon M-1",
+      "url": "https://camera-wiki.org/wiki/Chinon%20M-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

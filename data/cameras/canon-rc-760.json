@@ -1,0 +1,29 @@
+{
+  "id": "canon-rc-760",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "RC-760",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，1988 年发布",
+  "description": "{|class=plainlinks\n|rowspan=2|[http://www.flickr.com/photos/andrys_stienstra/3089801785/in/pool-camerawiki http://farm4.static.flickr.com/3159/3089801785_3ed5b737e4.jpg]\n||[http://www.flickr.com/photos/andrys_stienstra/3089801111/in/pool-camerawiki http://farm4.static.flickr.com/3219/3089801111_a323",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon RC-760"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon RC-760",
+      "url": "https://camera-wiki.org/wiki/Canon%20RC-760"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

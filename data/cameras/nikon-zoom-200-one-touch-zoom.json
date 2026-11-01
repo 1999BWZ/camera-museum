@@ -1,0 +1,29 @@
+{
+  "id": "nikon-zoom-200-one-touch-zoom",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Zoom 200/One•Touch Zoom",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1995 年发布",
+  "description": "The Nikon Zoom 200 is a fully automated compact camera for 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Zoom 200/One•Touch Zoom (QD)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Zoom 200/One•Touch Zoom (QD)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Zoom%20200/One%E2%80%A2Touch%20Zoom%20%28QD%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

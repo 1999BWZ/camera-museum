@@ -1,0 +1,29 @@
+{
+  "id": "fex-indo-ultra-reflex-4-5",
+  "brand": "Fex Indo",
+  "brand_cn": "",
+  "brand_slug": "fex-indo",
+  "country": "法国",
+  "manufacturer": "Fex Indo",
+  "model": "Ultra-Reflex 4,5",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fex Indo胶片相机，1955 年发布",
+  "description": "The Ultra-Reflex 4,5 is a Pseudo-TLR produced by the French company Fex Indo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ultra-Reflex 4,5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ultra-Reflex 4,5",
+      "url": "https://camera-wiki.org/wiki/Ultra-Reflex%204%2C5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rollei-a110",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "A110",
+  "year": 1975,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1975 年发布",
+  "description": "When the Rollei A 110 (or A110) appeared on the market it was advertised as the world's smallest pocket camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei A110"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei A110",
+      "url": "https://camera-wiki.org/wiki/Rollei%20A110"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

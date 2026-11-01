@@ -1,0 +1,29 @@
+{
+  "id": "agfa-selecta-m",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Selecta m",
+  "year": 1962,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发旁轴相机，1962 年发布",
+  "description": "The Selecta m is a 35mm coupled-rangefinder camera made by Agfa from 1962.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Selecta m"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Selecta m",
+      "url": "https://camera-wiki.org/wiki/Selecta%20m"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fuji-pocket-fujica-350-zoom",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "Pocket Fujica 350 Zoom",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片相机，1977 年发布",
+  "description": "The Pocket Fujica 350 Zoom is a 1970s-era camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pocket Fujica 350 Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pocket Fujica 350 Zoom",
+      "url": "https://camera-wiki.org/wiki/Pocket%20Fujica%20350%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

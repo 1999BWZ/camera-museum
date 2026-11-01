@@ -1,0 +1,29 @@
+{
+  "id": "minolta-flex-automat",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "flex Automat",
+  "year": 1941,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1941 年发布",
+  "description": "See also the 1937 Minoltaflex (I), the later Minoltaflex Automat prototypes and the postwar Minoltaflex II and III.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minoltaflex Automat"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minoltaflex Automat",
+      "url": "https://camera-wiki.org/wiki/Minoltaflex%20Automat"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

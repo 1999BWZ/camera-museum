@@ -1,0 +1,29 @@
+{
+  "id": "braun-paxiflash",
+  "brand": "Braun",
+  "brand_cn": "",
+  "brand_slug": "braun",
+  "country": "待补充",
+  "manufacturer": "Braun",
+  "model": "Paxiflash",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Braun盒式相机，1961 年发布",
+  "description": "The Paxiflash is a plastic box camera for 4&times;4 cm pictures on 127 film, made by the German company Braun c.1961.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Paxiflash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Paxiflash",
+      "url": "https://camera-wiki.org/wiki/Paxiflash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

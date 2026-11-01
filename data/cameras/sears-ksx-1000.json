@@ -1,0 +1,29 @@
+{
+  "id": "sears-ksx-1000",
+  "brand": "Sears",
+  "brand_cn": "",
+  "brand_slug": "sears",
+  "country": "待补充",
+  "manufacturer": "Sears",
+  "model": "KSX-1000",
+  "year": 1982,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sears数码单反相机，1982 年发布",
+  "description": "Note: this article covers the manual-exposure KSX-1000; the KSX (no suffix) and KSX Super are different, autoexposure models.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sears KSX-1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sears KSX-1000",
+      "url": "https://camera-wiki.org/wiki/Sears%20KSX-1000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

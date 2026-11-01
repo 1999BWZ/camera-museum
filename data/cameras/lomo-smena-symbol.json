@@ -1,0 +1,29 @@
+{
+  "id": "lomo-smena-symbol",
+  "brand": "LOMO",
+  "brand_cn": "",
+  "brand_slug": "lomo",
+  "country": "待补充",
+  "manufacturer": "LOMO",
+  "model": "Smena Symbol",
+  "year": 1973,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "LOMO取景器相机，1973 年发布",
+  "description": "The Smena Symbol (also marked \"Смена Символ\" \"Smena Symvol\", or called Cosmic Symbol) is a 35mm camera that features a LOMO T-43 40mm f/4 coated triplet lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Smena Symbol"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Smena Symbol",
+      "url": "https://camera-wiki.org/wiki/Smena%20Symbol"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

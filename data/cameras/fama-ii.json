@@ -1,0 +1,29 @@
+{
+  "id": "fama-ii",
+  "brand": "Fama",
+  "brand_cn": "",
+  "brand_slug": "fama",
+  "country": "待补充",
+  "manufacturer": "Fama",
+  "model": "II",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fama取景器相机，1950 年发布",
+  "description": "The Fama II is a viewfinder camera for 35mm film, made in about 1950 by Cornu of Paris.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fama II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fama II",
+      "url": "https://camera-wiki.org/wiki/Fama%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

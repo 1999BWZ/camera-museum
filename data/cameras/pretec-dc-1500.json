@@ -1,0 +1,29 @@
+{
+  "id": "pretec-dc-1500",
+  "brand": "Pretec",
+  "brand_cn": "",
+  "brand_slug": "pretec",
+  "country": "台湾",
+  "manufacturer": "Pretec",
+  "model": "DC-1500",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pretec数码相机，1999 年发布",
+  "description": "The Pretec DC-1500 is a digital camera introduced in 1999[https://www.digitalkameramuseum.de/en/cameras/item/pretec-dc-1500 Pretec DC-1500 page] at the [https://www.digitalkameramuseum.de/en/ Digitalkamera Museum].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pretec DC-1500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pretec DC-1500",
+      "url": "https://camera-wiki.org/wiki/Pretec%20DC-1500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

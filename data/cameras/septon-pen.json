@@ -1,0 +1,29 @@
+{
+  "id": "septon-pen",
+  "brand": "Septon",
+  "brand_cn": "",
+  "brand_slug": "septon",
+  "country": "待补充",
+  "manufacturer": "Septon",
+  "model": "Pen",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Septon微型相机，1953 年发布",
+  "description": "The Septon Pen is a Japanese subminiature camera combined with a sharp pencil, sold in the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Septon Pen"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Septon Pen",
+      "url": "https://camera-wiki.org/wiki/Septon%20Pen"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

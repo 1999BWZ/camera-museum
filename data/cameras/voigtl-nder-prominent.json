@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-prominent",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Prominent",
+  "year": 1950,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer旁轴相机，1950 年发布",
+  "description": "See also the earlier Prominent (6×9cm folder).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Prominent (35mm)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Prominent (35mm)",
+      "url": "https://camera-wiki.org/wiki/Prominent%20%2835mm%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

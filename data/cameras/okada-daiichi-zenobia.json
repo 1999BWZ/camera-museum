@@ -1,0 +1,29 @@
+{
+  "id": "okada-daiichi-zenobia",
+  "brand": "Okada/Daiichi",
+  "brand_cn": "",
+  "brand_slug": "okada-daiichi",
+  "country": "待补充",
+  "manufacturer": "Okada/Daiichi",
+  "model": "Zenobia",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Okada/Daiichi折叠相机，1952 年发布",
+  "description": "The Zenobia (ゼノビア) is a series of Japanese 4.5×6 folders, successors to the Waltax.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenobia"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenobia",
+      "url": "https://camera-wiki.org/wiki/Zenobia"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

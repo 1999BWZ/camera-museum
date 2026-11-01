@@ -1,0 +1,29 @@
+{
+  "id": "ihagee-nachtreflex",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "德国",
+  "manufacturer": "Ihagee",
+  "model": "Nachtreflex",
+  "year": 1929,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee胶片单反相机，1929 年发布",
+  "description": "The Nachtreflex (Night Reflex; named in English-language catalogues as Nocturnal Reflex Camera[http://www.ihagee.org/cat/IHGcat1930-31-4.pdf Ihagee catalogue in four languages including English] for 1930-31, p.83; at ihagee.org) is an SLR camera, made by Ihagee to exploit the low-light capability of",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nachtreflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nachtreflex",
+      "url": "https://camera-wiki.org/wiki/Nachtreflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

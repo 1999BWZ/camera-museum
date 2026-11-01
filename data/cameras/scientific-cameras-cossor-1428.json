@@ -1,0 +1,29 @@
+{
+  "id": "scientific-cameras-cossor-1428",
+  "brand": "Scientific cameras",
+  "brand_cn": "",
+  "brand_slug": "scientific-cameras",
+  "country": "英国",
+  "manufacturer": "Scientific cameras",
+  "model": "Cossor 1428",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Scientific cameras胶片相机，1953 年发布",
+  "description": "The Cossor 1428 Oscillograph Camera (about 1953-1961) was a fixed focus camera for recording wave images.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cossor 1428"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cossor 1428",
+      "url": "https://camera-wiki.org/wiki/Cossor%201428"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

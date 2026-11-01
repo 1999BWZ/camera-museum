@@ -1,0 +1,37 @@
+{
+  "id": "polaroid-j33",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "J33",
+  "year": 1961,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1961 年发布",
+  "description": "The Polaroid Land Camera Model J33 is a Type-30 instant roll film camera made between 1961-1963 by Polaroid.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid J33"
+  },
+  "images": [
+    {
+      "remote_url": "https://live.staticflickr.com/65535/50814564402_cf3057a351_w.jpg",
+      "caption": "J33",
+      "source": "Flickr（Christoph Batz）",
+      "license": "CC，见原页面",
+      "url": "https://flic.kr/p/2kqiVDm"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid J33",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20J33"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

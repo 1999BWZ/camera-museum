@@ -1,0 +1,29 @@
+{
+  "id": "view-cameras-astra",
+  "brand": "View cameras",
+  "brand_cn": "",
+  "brand_slug": "view-cameras",
+  "country": "澳大利亚",
+  "manufacturer": "View cameras",
+  "model": "Astra",
+  "year": 1948,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "View cameras大画幅相机，1948 年发布",
+  "description": "for Dutch photo supply brand „Astra“ see E.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Astra"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Astra",
+      "url": "https://camera-wiki.org/wiki/Astra"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nobility-lord-4d-and-5d",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Lord 4D and 5D",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility旁轴相机，1956 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|}\n\n__NOTOC__\nThe Lord 4D is a 35mm fixed lens rangefinder introduced in 1956 by Okaya Optical Works of Nagano, Japan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lord 4D and 5D"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lord 4D and 5D",
+      "url": "https://camera-wiki.org/wiki/Lord%204D%20and%205D"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

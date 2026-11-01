@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-v3800n",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "V3800N",
+  "year": 2001,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片单反相机，2001 年发布",
+  "description": "__NOTOC__\n\nThe Vivitar V3800N is a Pentax K mount manual-focus 35mm SLR announced by Vivitar beginning in 2001, A [https://www.shutterbug.com/content/35mm-slr-cameras-lenses-and-flashes Shutterbug magazine article] reports it appearing at the February 2001 PMA show in Orlando, Florida.New York retai",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar V3800N"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar V3800N",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20V3800N"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

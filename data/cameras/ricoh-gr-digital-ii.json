@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-gr-digital-ii",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "GR Digital II",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2007 年发布",
+  "description": "The Ricoh GR Digital II was introduced by Ricoh in 2007.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh GR Digital II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh GR Digital II",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20GR%20Digital%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

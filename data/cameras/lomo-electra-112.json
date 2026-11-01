@@ -1,0 +1,29 @@
+{
+  "id": "lomo-electra-112",
+  "brand": "LOMO",
+  "brand_cn": "",
+  "brand_slug": "lomo",
+  "country": "待补充",
+  "manufacturer": "LOMO",
+  "model": "Electra 112",
+  "year": 1979,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "LOMO旁轴相机，1979 年发布",
+  "description": "The Electra 112 is a 35mm film rangefinder camera from the former Soviet Union, produced by LOMO.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Electra 112"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Electra 112",
+      "url": "https://camera-wiki.org/wiki/Electra%20112"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

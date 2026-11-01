@@ -1,0 +1,29 @@
+{
+  "id": "casio-gv-20",
+  "brand": "Casio",
+  "brand_cn": "卡西欧",
+  "brand_slug": "casio",
+  "country": "日本",
+  "manufacturer": "Casio",
+  "model": "GV-20",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "卡西欧数码相机，2002 年发布",
+  "description": "The GV-20 is a weather resistant digital camera introduced from Casio in 2002.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Casio GV-20"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Casio GV-20",
+      "url": "https://camera-wiki.org/wiki/Casio%20GV-20"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

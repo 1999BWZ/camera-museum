@@ -1,0 +1,29 @@
+{
+  "id": "canon-exee",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "EXEE",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片单反相机，1973 年发布",
+  "description": "The EXEE is a 35 mm SLR camera made by Canon from 1969 until the early 1970s.[http://global.canon/en/c-museum/product/film75.html Canon Camera Museum] listing for the EXEE.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon EXEE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon EXEE",
+      "url": "https://camera-wiki.org/wiki/Canon%20EXEE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "seneca-no-1-seneca-jr",
+  "brand": "Seneca",
+  "brand_cn": "",
+  "brand_slug": "seneca",
+  "country": "待补充",
+  "manufacturer": "Seneca",
+  "model": "No. 1 Seneca Jr.",
+  "year": 1917,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seneca折叠相机，1917 年发布",
+  "description": "Seneca于1917年发布的折叠相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "No. 1 Seneca Jr."
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – No. 1 Seneca Jr.",
+      "url": "https://camera-wiki.org/wiki/No.%201%20Seneca%20Jr."
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

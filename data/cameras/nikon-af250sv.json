@@ -1,0 +1,29 @@
+{
+  "id": "nikon-af250sv",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "AF250SV",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2002 年发布",
+  "description": "The Nikon AF250SV is a compact camera with autofocus introduced by Nikon in 2002[https://web.archive.org/web/20110415061400/https://imaging.nikon.com/lineup/filmcamera/compact/af250sv_af250sv_qd/index.htm Nikon AF250SV / AF250SV QD in the Nikon Archives] (archived).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon AF250SV (QD)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon AF250SV (QD)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20AF250SV%20%28QD%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "konica-autoreflex",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Autoreflex",
+  "year": 1965,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1965 年发布",
+  "description": "Auto-Reflex and Autoreflex are a series of 35mm SLR cameras made by Konica from 1965.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Autoreflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Autoreflex",
+      "url": "https://camera-wiki.org/wiki/Konica%20Autoreflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

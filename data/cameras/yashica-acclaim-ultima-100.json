@@ -1,0 +1,29 @@
+{
+  "id": "yashica-acclaim-ultima-100",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Acclaim/Ultima 100",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片相机，1996 年发布",
+  "description": "The Yashica Acclaim 100 (or Ultima 100 in many markets) was an autofocus point & shoot for APS film, apparently released in about 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Acclaim/Ultima 100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Acclaim/Ultima 100",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Acclaim/Ultima%20100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "view-cameras-optical-new-model",
+  "brand": "View cameras",
+  "brand_cn": "",
+  "brand_slug": "view-cameras",
+  "country": "待补充",
+  "manufacturer": "View cameras",
+  "model": "Optical New Model",
+  "year": 1883,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "View cameras大画幅相机，1883 年发布",
+  "description": "The New Model was one of the first camera models of Rochester Optical Co..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rochester Optical New Model"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rochester Optical New Model",
+      "url": "https://camera-wiki.org/wiki/Rochester%20Optical%20New%20Model"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

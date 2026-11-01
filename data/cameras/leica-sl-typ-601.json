@@ -1,0 +1,40 @@
+{
+  "id": "leica-sl-typ-601",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "SL Typ 601",
+  "year": 2015,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡无反相机，2015 年发布",
+  "description": "徕卡于2015年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q21233178",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20SL-IMG%209921.JPG?width=800",
+      "caption": "SL Typ 601",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q21233178"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica SL Typ 601",
+      "url": "https://www.wikidata.org/wiki/Q21233178"
+    }
+  ],
+  "qid": "Q21233178",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

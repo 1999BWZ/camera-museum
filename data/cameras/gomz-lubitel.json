@@ -1,0 +1,29 @@
+{
+  "id": "gomz-lubitel",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "俄罗斯",
+  "manufacturer": "GOMZ",
+  "model": "Lubitel",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ胶片相机，1949 年发布",
+  "description": "The Lubitel is a TLR made by GOMZ from 1949 to 1956.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lubitel"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lubitel",
+      "url": "https://camera-wiki.org/wiki/Lubitel"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

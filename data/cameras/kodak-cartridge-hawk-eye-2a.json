@@ -1,0 +1,29 @@
+{
+  "id": "kodak-cartridge-hawk-eye-2a",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Cartridge Hawk-Eye 2A",
+  "year": 1924,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1924 年发布",
+  "description": "The Cartridge Hawk-Eye 2A is a box camera manufactured by Kodak from\n1924 to 1925.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Cartridge Hawk-Eye 2A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Cartridge Hawk-Eye 2A",
+      "url": "https://camera-wiki.org/wiki/Cartridge%20Hawk-Eye%202A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

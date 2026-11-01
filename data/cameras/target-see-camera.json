@@ -1,0 +1,29 @@
+{
+  "id": "target-see-camera",
+  "brand": "Target",
+  "brand_cn": "",
+  "brand_slug": "target",
+  "country": "中国",
+  "manufacturer": "Target",
+  "model": "See: Camera",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Target取景器相机，2005 年发布",
+  "description": "The Target See: Camera is a simple plastic point and shoot camera that takes 24x36mm images on 135 size film was released in 2005 by the large chain store Target.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Target See: Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Target See: Camera",
+      "url": "https://camera-wiki.org/wiki/Target%20See%3A%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

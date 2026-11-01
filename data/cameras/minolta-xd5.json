@@ -1,0 +1,29 @@
+{
+  "id": "minolta-xd5",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "XD5",
+  "year": 1978,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1978 年发布",
+  "description": "The Minolta XD5 was the cheaper version of the XD series cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta XD5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta XD5",
+      "url": "https://camera-wiki.org/wiki/Minolta%20XD5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

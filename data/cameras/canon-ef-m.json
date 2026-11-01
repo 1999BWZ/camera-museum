@@ -1,0 +1,29 @@
+{
+  "id": "canon-ef-m",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "EF-M",
+  "year": 1991,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能无反相机，1991 年发布",
+  "description": "There is also a lens-mount known as EF-M, produced for (link to category) Canon's first range of mirrorless digital cameras beginning with the EOS M.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon EF-M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon EF-M",
+      "url": "https://camera-wiki.org/wiki/Canon%20EF-M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

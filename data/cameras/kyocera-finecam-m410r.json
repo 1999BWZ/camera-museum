@@ -1,0 +1,29 @@
+{
+  "id": "kyocera-finecam-m410r",
+  "brand": "Kyocera",
+  "brand_cn": "",
+  "brand_slug": "kyocera",
+  "country": "待补充",
+  "manufacturer": "Kyocera",
+  "model": "Finecam M410R",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kyocera数码相机，2004 年发布",
+  "description": "The Finecam M410R is a digital camera released from Kyocera in 2004.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kyocera Finecam M410R"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kyocera Finecam M410R",
+      "url": "https://camera-wiki.org/wiki/Kyocera%20Finecam%20M410R"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

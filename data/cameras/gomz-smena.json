@@ -1,0 +1,29 @@
+{
+  "id": "gomz-smena",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "待补充",
+  "manufacturer": "GOMZ",
+  "model": "Smena",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ取景器相机，1953 年发布",
+  "description": "The Smena (смена: 'change') is a viewfinder camera for 35mm film developed and made by GOMZ.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Smena"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Smena",
+      "url": "https://camera-wiki.org/wiki/Smena"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-ikoflex-ia",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Ikoflex Ia",
+  "year": 1952,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon胶片相机，1952 年发布",
+  "description": "The Ikoflex Ia (854/16) is a TLR made by Zeiss Ikon from 1952-1956 Page 1051..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ikoflex Ia"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ikoflex Ia",
+      "url": "https://camera-wiki.org/wiki/Ikoflex%20Ia"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

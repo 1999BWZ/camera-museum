@@ -1,0 +1,29 @@
+{
+  "id": "ferrania-euralux-34",
+  "brand": "Ferrania",
+  "brand_cn": "",
+  "brand_slug": "ferrania",
+  "country": "待补充",
+  "manufacturer": "Ferrania",
+  "model": "Euralux 34",
+  "year": 1961,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ferrania胶片相机，1961 年发布",
+  "description": "The Euralux 34 is a plastic viewfinder camera made by Italian manufacturers Ferrania, c.1961.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ferrania Euralux 34"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ferrania Euralux 34",
+      "url": "https://camera-wiki.org/wiki/Ferrania%20Euralux%2034"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

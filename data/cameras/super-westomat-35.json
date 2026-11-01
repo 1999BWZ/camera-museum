@@ -1,0 +1,29 @@
+{
+  "id": "super-westomat-35",
+  "brand": "Super",
+  "brand_cn": "",
+  "brand_slug": "super",
+  "country": "待补充",
+  "manufacturer": "Super",
+  "model": "Westomat 35",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Super旁轴相机，1956 年发布",
+  "description": "The Super Westomat 35 is a 35mm rangefinder made by Taisei Kōki in the mid 50's.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Westomat 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Westomat 35",
+      "url": "https://camera-wiki.org/wiki/Super%20Westomat%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

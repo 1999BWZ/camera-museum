@@ -1,0 +1,29 @@
+{
+  "id": "kaftax-mp",
+  "brand": "Kaftax",
+  "brand_cn": "",
+  "brand_slug": "kaftax",
+  "country": "法国",
+  "manufacturer": "Kaftax",
+  "model": "MP",
+  "year": 1951,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kaftax胶片相机，1951 年发布",
+  "description": "The Kaftax MP is a simple Bakelite camera with a telescoping lens barrel, made in France, c.1951 by Kaftanski.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kaftax MP"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kaftax MP",
+      "url": "https://camera-wiki.org/wiki/Kaftax%20MP"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

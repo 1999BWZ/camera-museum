@@ -1,0 +1,40 @@
+{
+  "id": "panasonic-lumix-dmc-gx7",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "松下電器",
+  "model": "Lumix DMC-GX7",
+  "year": 2013,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下无反相机，2013 年发布",
+  "description": "松下于2013年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q17049295",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lumix%20GX7.jpg?width=800",
+      "caption": "Lumix DMC-GX7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q17049295"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Panasonic Lumix DMC-GX7",
+      "url": "https://www.wikidata.org/wiki/Q17049295"
+    }
+  ],
+  "qid": "Q17049295",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

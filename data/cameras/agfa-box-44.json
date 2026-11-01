@@ -1,0 +1,29 @@
+{
+  "id": "agfa-box-44",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Box 44",
+  "year": 1933,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发盒式相机，1933 年发布",
+  "description": "In 1932 the German Agfa company had a new idea for an advertising campaign.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Box 44"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Box 44",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Box%2044"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

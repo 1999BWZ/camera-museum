@@ -1,0 +1,29 @@
+{
+  "id": "bell-and-howell-bf35",
+  "brand": "Bell",
+  "brand_cn": "",
+  "brand_slug": "bell",
+  "country": "中国",
+  "manufacturer": "Bell",
+  "model": "and Howell BF35",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bell取景器相机，2006 年发布",
+  "description": "The Bell + Howell BF35 is a simple fixed-focus 35mm viewfinder camera, made in China[https://canon-a.fantastic-camera.com/dasoku/omocha/bf35/bf35.htm According to this BF35 page] at [https://canon-a.fantastic-camera.com/index.html canon-a.fantastic-camera.com] (in Japanese) for Bell and Howell, prob",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bell and Howell BF35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bell and Howell BF35",
+      "url": "https://camera-wiki.org/wiki/Bell%20and%20Howell%20BF35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

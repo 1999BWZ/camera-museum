@@ -1,0 +1,29 @@
+{
+  "id": "view-cameras-vostok-9x12",
+  "brand": "View cameras",
+  "brand_cn": "",
+  "brand_slug": "view-cameras",
+  "country": "俄罗斯",
+  "manufacturer": "View cameras",
+  "model": "Vostok 9x12",
+  "year": 1948,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "View cameras大画幅相机，1948 年发布",
+  "description": "The Vostok 9 x 12cm view camera was produced in the late 1940s by Novosibirsky Pribori Zavod (NPZ; Новосибирский Приборы Завод; 'Novosibirsk Instrument Plant') in Novosibirsk, USSR.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vostok 9x12"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vostok 9x12",
+      "url": "https://camera-wiki.org/wiki/Vostok%209x12"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

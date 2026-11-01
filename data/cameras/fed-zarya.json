@@ -1,0 +1,29 @@
+{
+  "id": "fed-zarya",
+  "brand": "FED",
+  "brand_cn": "",
+  "brand_slug": "fed",
+  "country": "待补充",
+  "manufacturer": "FED",
+  "model": "Zarya",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FED取景器相机，1959 年发布",
+  "description": "The Zarya is a 35mm film Viewfinder camera, manufactured by F.E.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zarya"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zarya",
+      "url": "https://camera-wiki.org/wiki/Zarya"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

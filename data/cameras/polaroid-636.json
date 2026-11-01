@@ -1,0 +1,40 @@
+{
+  "id": "polaroid-636",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "636",
+  "year": 1989,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1989 年发布",
+  "description": "宝丽来于1989年发布的一次成像相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4047164",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polaroid%20636%20Closeup%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%201.jpg?width=800",
+      "caption": "636",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4047164"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Polaroid 636",
+      "url": "https://www.wikidata.org/wiki/Q4047164"
+    }
+  ],
+  "qid": "Q4047164",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

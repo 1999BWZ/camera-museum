@@ -1,0 +1,29 @@
+{
+  "id": "concord-le-clic-le-mini",
+  "brand": "Concord",
+  "brand_cn": "",
+  "brand_slug": "concord",
+  "country": "待补充",
+  "manufacturer": "Concord",
+  "model": "Le Clic Le Mini",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Concord胶片相机，1987 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Le Mini by Le Clic is a simple 110 film camera sold under the Le Clic branding by Concord Camera Corp from 1987.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Le Clic Le Mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Le Clic Le Mini",
+      "url": "https://camera-wiki.org/wiki/Le%20Clic%20Le%20Mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

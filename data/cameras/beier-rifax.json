@@ -1,0 +1,29 @@
+{
+  "id": "beier-rifax",
+  "brand": "Beier",
+  "brand_cn": "",
+  "brand_slug": "beier",
+  "country": "待补充",
+  "manufacturer": "Beier",
+  "model": "Rifax",
+  "year": 1936,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beier旁轴相机，1936 年发布",
+  "description": "Rifax is the name given to a series of self-erecting folders made by Beier in the 1930's.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rifax"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rifax",
+      "url": "https://camera-wiki.org/wiki/Rifax"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

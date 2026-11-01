@@ -1,0 +1,29 @@
+{
+  "id": "pentax-mz-10-zx-10",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MZ-10/ZX-10",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1996 年发布",
+  "description": "The Pentax MZ-10, sold as ZX-10 in the USA, is an autofocus SLR-camera for 35mm film introduced in 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MZ-10/ZX-10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MZ-10/ZX-10",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MZ-10/ZX-10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

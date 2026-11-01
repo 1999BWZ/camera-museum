@@ -1,0 +1,29 @@
+{
+  "id": "kodak-happy-times-coca-cola-camera",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Happy Times (Coca-Cola) Camera",
+  "year": 1978,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达一次成像相机，1978 年发布",
+  "description": "Made in 1978, the Happy Times is a special premium version of Kodak's \"The Handle\".",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Happy Times (Coca-Cola) Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Happy Times (Coca-Cola) Camera",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Happy%20Times%20%28Coca-Cola%29%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

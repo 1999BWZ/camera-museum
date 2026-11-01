@@ -1,0 +1,29 @@
+{
+  "id": "nikon-zoom-500-lite-touch-zoom-105",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Zoom 500/Lite•Touch Zoom 105",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1994 年发布",
+  "description": "The Nikon Zoom 500 AF, also known as the Lite•Touch Zoom 105 35mm compact camera was introduced by Nikon in 1994 - part of a series of similar cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Zoom 500/Lite•Touch Zoom 105 (QD)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Zoom 500/Lite•Touch Zoom 105 (QD)",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Zoom%20500/Lite%E2%80%A2Touch%20Zoom%20105%20%28QD%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

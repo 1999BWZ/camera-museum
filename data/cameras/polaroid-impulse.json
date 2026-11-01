@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-impulse",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Impulse",
+  "year": 1988,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1988 年发布",
+  "description": "Designed for Polaroid's 600-series integral film, the Impulse models are similar in body design to the OneStep or Pronto!",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Impulse"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Impulse",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Impulse"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

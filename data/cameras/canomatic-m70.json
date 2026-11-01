@@ -1,0 +1,29 @@
+{
+  "id": "canomatic-m70",
+  "brand": "Canomatic",
+  "brand_cn": "",
+  "brand_slug": "canomatic",
+  "country": "待补充",
+  "manufacturer": "Canomatic",
+  "model": "M70",
+  "year": 1970,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Canomatic胶片相机，1970 年发布",
+  "description": "This model should not be confused with the fraudulent \"Canomatic\"-badged version of the Olympia plastic camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canomatic M70"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canomatic M70",
+      "url": "https://camera-wiki.org/wiki/Canomatic%20M70"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-karoron",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Karoron",
+  "year": 1949,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi折叠相机，1949 年发布",
+  "description": "The Karoron is a self-erecting folding camera for 4.5x6cm exposures on 120 film, made by Kuribayashi for about two years from 1949.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Karoron"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Karoron",
+      "url": "https://camera-wiki.org/wiki/Karoron"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

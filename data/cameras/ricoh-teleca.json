@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-teleca",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Teleca",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光微型相机，1950 年发布",
+  "description": "The Teleca is binoculars and 16-mm subminiature camera combined, made by the Tōkō Shashin K.K.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Teleca"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Teleca",
+      "url": "https://camera-wiki.org/wiki/Teleca"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

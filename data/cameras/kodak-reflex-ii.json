@@ -1,0 +1,29 @@
+{
+  "id": "kodak-reflex-ii",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Reflex II",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1948 年发布",
+  "description": "The Kodak Reflex II is a TLR camera that made 2&frac14;&times;2&frac14; inch exposures on 620 rollfilm.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Reflex II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Reflex II",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Reflex%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

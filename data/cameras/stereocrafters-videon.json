@@ -1,0 +1,29 @@
+{
+  "id": "stereocrafters-videon",
+  "brand": "Stereocrafters",
+  "brand_cn": "",
+  "brand_slug": "stereocrafters",
+  "country": "美国",
+  "manufacturer": "Stereocrafters",
+  "model": "Videon",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Stereocrafters取景器相机，1950 年发布",
+  "description": "The Videon is a 35mm stereo camera comprising a bakelite-type plastic body with metal top and bottom plates, produced by Stereocrafters of Wisconsin, USA, in the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Stereocrafters Videon"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Stereocrafters Videon",
+      "url": "https://camera-wiki.org/wiki/Stereocrafters%20Videon"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

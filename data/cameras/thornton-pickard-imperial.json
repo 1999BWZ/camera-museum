@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-imperial",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "待补充",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Imperial",
+  "year": 1910,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard大画幅相机，1910 年发布",
+  "description": "The Imperial is a range of folding field cameras made by Thornton-Pickard in the early years of the twentieth century.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Thornton-Pickard Imperial"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Thornton-Pickard Imperial",
+      "url": "https://camera-wiki.org/wiki/Thornton-Pickard%20Imperial"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

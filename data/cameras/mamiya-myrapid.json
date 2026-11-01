@@ -1,0 +1,29 @@
+{
+  "id": "mamiya-myrapid",
+  "brand": "Mamiya",
+  "brand_cn": "玛米亚",
+  "brand_slug": "mamiya",
+  "country": "日本",
+  "manufacturer": "Mamiya",
+  "model": "Myrapid",
+  "year": 1967,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "玛米亚取景器相机，1967 年发布",
+  "description": "During the 1960s Japanese boom for half-frame cameras, Mamiya offered this c.1967 model with full autoexposure controlled by the selenium meter cell around the lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mamiya Myrapid"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mamiya Myrapid",
+      "url": "https://camera-wiki.org/wiki/Mamiya%20Myrapid"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

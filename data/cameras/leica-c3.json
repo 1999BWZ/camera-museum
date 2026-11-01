@@ -1,0 +1,29 @@
+{
+  "id": "leica-c3",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "C3",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡便携相机，2002 年发布",
+  "description": "The Leica C3 is a fully-automatic autofocus \"point & shoot\" 35mm compact camera from Leica, introduced 2002.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica C3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica C3",
+      "url": "https://camera-wiki.org/wiki/Leica%20C3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bronica-rf645",
+  "brand": "Bronica",
+  "brand_cn": "勃朗尼卡",
+  "brand_slug": "bronica",
+  "country": "日本",
+  "manufacturer": "Bronica",
+  "model": "RF645",
+  "year": 2001,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "勃朗尼卡旁轴相机，2001 年发布",
+  "description": "The Bronica RF645 is a medium format rangefinder camera with interchangeable lenses made by the Japanese company Bronica.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bronica RF645"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bronica RF645",
+      "url": "https://camera-wiki.org/wiki/Bronica%20RF645"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

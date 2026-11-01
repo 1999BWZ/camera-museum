@@ -1,0 +1,40 @@
+{
+  "id": "film-ferrania-ferrania-elioflex",
+  "brand": "FILM Ferrania",
+  "brand_cn": "",
+  "brand_slug": "film-ferrania",
+  "country": "待补充",
+  "manufacturer": "FILM Ferrania",
+  "model": "Ferrania Elioflex",
+  "year": 1950,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FILM Ferrania胶片相机，1950 年发布",
+  "description": "FILM Ferrania于1950年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q55831106",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferrania%20Elioflex.jpg?width=800",
+      "caption": "Ferrania Elioflex",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q55831106"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Ferrania Elioflex",
+      "url": "https://www.wikidata.org/wiki/Q55831106"
+    }
+  ],
+  "qid": "Q55831106",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

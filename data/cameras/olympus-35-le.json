@@ -1,0 +1,29 @@
+{
+  "id": "olympus-35-le",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "35 LE",
+  "year": 1965,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯旁轴相机，1965 年发布",
+  "description": "The Olympus 35 LE rangefinder camera was launched in 1965, originally with a badge reading \"6 transistors,\" referring to its meter circuit.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus 35 LE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus 35 LE",
+      "url": "https://camera-wiki.org/wiki/Olympus%2035%20LE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

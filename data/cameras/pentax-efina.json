@@ -1,0 +1,29 @@
+{
+  "id": "pentax-efina",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "efina",
+  "year": 1997,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，1997 年发布",
+  "description": "The Pentax efina is a Japanese compact APS zoom camera assembled in the Philippines c.1997[https://resolver.kb.nl/resolve?urn=KBPERS01:003147005:mpeg21:a00128 Advertisement in the Dutchs newspaper \"Algemeen Dagblad\" of 05-12-1997].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax efina"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax efina",
+      "url": "https://camera-wiki.org/wiki/Pentax%20efina"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

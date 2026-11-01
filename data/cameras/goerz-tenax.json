@@ -1,0 +1,29 @@
+{
+  "id": "goerz-tenax",
+  "brand": "Goerz",
+  "brand_cn": "",
+  "brand_slug": "goerz",
+  "country": "待补充",
+  "manufacturer": "Goerz",
+  "model": "Tenax",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Goerz折叠相机，1938 年发布",
+  "description": "Before its 1926 merger into Zeiss Ikon, the Berlin company C.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tenax (folding bed camera)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tenax (folding bed camera)",
+      "url": "https://camera-wiki.org/wiki/Tenax%20%28folding%20bed%20camera%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sony-dsc-s70-q4049755",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSC-S70",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼便携相机，2000 年发布",
+  "description": "索尼于2000年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4049755",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Cyber-shot%20DSC-S70%201.jpg?width=800",
+      "caption": "DSC-S70",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4049755"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSC-S70",
+      "url": "https://www.wikidata.org/wiki/Q4049755"
+    }
+  ],
+  "qid": "Q4049755",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

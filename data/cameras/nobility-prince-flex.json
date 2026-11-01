@@ -1,0 +1,29 @@
+{
+  "id": "nobility-prince-flex",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Prince Flex",
+  "year": 1937,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility胶片相机，1937 年发布",
+  "description": "The Prince Flex is a Japanese 6×6 TLR, made by Neumann & Heilemann, then by Fujimoto Shashinki Seisakusho and distributed by Fukada Shōkai from 1937 to 1939.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Prince Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Prince Flex",
+      "url": "https://camera-wiki.org/wiki/Prince%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

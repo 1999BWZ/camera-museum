@@ -1,0 +1,29 @@
+{
+  "id": "tripods-schiansky",
+  "brand": "Tripods",
+  "brand_cn": "",
+  "brand_slug": "tripods",
+  "country": "德国",
+  "manufacturer": "Tripods",
+  "model": "Schiansky",
+  "year": 1948,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tripods胶片相机，1948 年发布",
+  "description": "Schiansky Feinmechanik was a maker of tripods for medium- to large-format cameras in Munich at least from the post-War period until the late 1960s, and also made some studio cameras.[https://auction-team.de/wp-content/uploads/eCatalogue/PH_II_2018/mobile/index.html#p=122 Schiansky 18x24cm Universal-",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Schiansky"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Schiansky",
+      "url": "https://camera-wiki.org/wiki/Schiansky"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

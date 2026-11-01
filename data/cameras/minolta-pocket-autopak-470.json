@@ -1,0 +1,29 @@
+{
+  "id": "minolta-pocket-autopak-470",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Pocket Autopak 470",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1977 年发布",
+  "description": "The Minolta Pocket Autopak 470 is a pocket camera for 110 film, made in Japan in 1977[https://www.subcompactcam.com/110_minolta_pocket_autopak_470.htm Minolta Pocket Autopak 470 page] at [https://www.subcompactcam.com/index.htm Subcompactcam.com].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Pocket Autopak 470"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Pocket Autopak 470",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Pocket%20Autopak%20470"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

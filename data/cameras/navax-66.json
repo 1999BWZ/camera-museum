@@ -1,0 +1,29 @@
+{
+  "id": "navax-66",
+  "brand": "Navax",
+  "brand_cn": "",
+  "brand_slug": "navax",
+  "country": "待补充",
+  "manufacturer": "Navax",
+  "model": "66",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Navax胶片相机，1955 年发布",
+  "description": "The Navax 66 is a viewfinderNeeds confirmation camera for 6x6 cm pictures on 120 filmNeeds confirmation, made by Westfälische Kamera und Apparatebau in Heeßen, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Navax 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Navax 66",
+      "url": "https://camera-wiki.org/wiki/Navax%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

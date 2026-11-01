@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-ff-9s",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "FF-9s",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1990 年发布",
+  "description": "The Ricoh FF-9s is a compact camera with an 1:3.5 f=35mm lens which is protected by a sliding door when the camera is switched off.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh FF-9s"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh FF-9s",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20FF-9s"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

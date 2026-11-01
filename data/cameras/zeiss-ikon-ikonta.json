@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-ikonta",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Ikonta",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon折叠相机，1930 年发布",
+  "description": "Zeiss-Ikon's top product line of folding medium-format cameras were badged Ikonta and were generally of superior quality compared with corresponding folding camera models of Zeiss-Ikon's Nettar product line.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ikonta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ikonta",
+      "url": "https://camera-wiki.org/wiki/Ikonta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

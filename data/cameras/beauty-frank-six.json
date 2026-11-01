@@ -1,0 +1,29 @@
+{
+  "id": "beauty-frank-six",
+  "brand": "Beauty",
+  "brand_cn": "",
+  "brand_slug": "beauty",
+  "country": "待补充",
+  "manufacturer": "Beauty",
+  "model": "Frank Six",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beauty折叠相机，1950 年发布",
+  "description": "The Frank Six (フランクシックス) is a series of Japanese 6×6 folding cameras produced from 1950 to 1954 by Tōsei Kōki.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Frank Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Frank Six",
+      "url": "https://camera-wiki.org/wiki/Frank%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

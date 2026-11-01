@@ -1,0 +1,29 @@
+{
+  "id": "national-instruments",
+  "brand": "National",
+  "brand_cn": "",
+  "brand_slug": "national",
+  "country": "印度",
+  "manufacturer": "National",
+  "model": "Instruments",
+  "year": 2010,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "National胶片相机，2010 年发布",
+  "description": "National Instruments Ltd was a camera company in Jadavpur Kolkata, and has been referred to as India's first and only camera factory.[https://web.archive.org/web/20200523161548/http://www.artslant.com/ind/events/show/140237-through-a-lens-darkly Manas Bhattacharya & Madhuban Mltra: Through a Lens Da",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "National Instruments"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – National Instruments",
+      "url": "https://camera-wiki.org/wiki/National%20Instruments"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

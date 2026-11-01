@@ -1,0 +1,29 @@
+{
+  "id": "continental-tele-flash-800z",
+  "brand": "Continental",
+  "brand_cn": "",
+  "brand_slug": "continental",
+  "country": "待补充",
+  "manufacturer": "Continental",
+  "model": "Tele-Flash 800Z",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Continental胶片相机，1979 年发布",
+  "description": "The Continental Tele-Flash 800Z is a camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Continental Tele-Flash 800Z"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Continental Tele-Flash 800Z",
+      "url": "https://camera-wiki.org/wiki/Continental%20Tele-Flash%20800Z"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

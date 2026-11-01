@@ -1,0 +1,29 @@
+{
+  "id": "canon-l",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "L",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能旁轴相机，1957 年发布",
+  "description": "__NOTOC__ \nCanon L refers to a line of 35mm rangefinder cameras made by Canon and launched in 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon L"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon L",
+      "url": "https://camera-wiki.org/wiki/Canon%20L"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-hi-matic-f",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Hi-Matic F",
+  "year": 1972,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1972 年发布",
+  "description": "In 1972 Minolta released a new version of their Hi-Matic consumer rangefinder cameras, the HI-MATIC F, with the less sophisticated 38mm (f2.7) Rokkor lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Hi-Matic F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Hi-Matic F",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Hi-Matic%20F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

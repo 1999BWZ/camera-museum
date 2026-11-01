@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-easi-load-fc-600",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Easi-Load FC 600",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1972 年发布",
+  "description": "The Sears Easi-Load FC 600 is a rebadged version of a Ricoh 126C Automatic camera for Kodapak cartridges.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sears Easi-Load FC 600"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sears Easi-Load FC 600",
+      "url": "https://camera-wiki.org/wiki/Sears%20Easi-Load%20FC%20600"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

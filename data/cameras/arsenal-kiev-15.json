@@ -1,0 +1,29 @@
+{
+  "id": "arsenal-kiev-15",
+  "brand": "Arsenal",
+  "brand_cn": "",
+  "brand_slug": "arsenal",
+  "country": "待补充",
+  "manufacturer": "Arsenal",
+  "model": "Kiev 15",
+  "year": 1974,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arsenal数码单反相机，1974 年发布",
+  "description": "Following the Arsenal factory's innovative Kiev 10 35mm SLR, from c.1974 to 1980 came the Kiev 15TEE (cyrillic: Киев-15) and the apparently-identical (apart from the TTL marking) Kiev 15 TTL in 1980.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kiev 15"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kiev 15",
+      "url": "https://camera-wiki.org/wiki/Kiev%2015"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

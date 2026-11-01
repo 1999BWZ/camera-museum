@@ -1,0 +1,29 @@
+{
+  "id": "kodak-lenses",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "lenses",
+  "year": 1914,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达大画幅相机，1914 年发布",
+  "description": "Note: this article covers Kodak lenses primarily from the mid-1930s through the 1960s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak lenses"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak lenses",
+      "url": "https://camera-wiki.org/wiki/Kodak%20lenses"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

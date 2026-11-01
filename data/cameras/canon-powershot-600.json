@@ -1,0 +1,29 @@
+{
+  "id": "canon-powershot-600",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "PowerShot 600",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，1996 年发布",
+  "description": "The PowerShot 600 is a early digital camera released from Canon in 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon PowerShot 600"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon PowerShot 600",
+      "url": "https://camera-wiki.org/wiki/Canon%20PowerShot%20600"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

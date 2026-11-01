@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-dl-100",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "DL-100",
+  "year": 2002,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士胶片相机，2002 年发布",
+  "description": "Fujifilm DL-100 is a basic autofocus camera released in 2002 by Fuji.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm DL-100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm DL-100",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20DL-100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

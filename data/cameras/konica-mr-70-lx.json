@@ -1,0 +1,29 @@
+{
+  "id": "konica-mr-70-lx",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "MR.70 LX",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1987 年发布",
+  "description": "The MR.70 LX is a 1987 autofocus camera with two focal lengths by Konica.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica MR.70 LX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica MR.70 LX",
+      "url": "https://camera-wiki.org/wiki/Konica%20MR.70%20LX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

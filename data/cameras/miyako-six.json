@@ -1,0 +1,29 @@
+{
+  "id": "miyako-six",
+  "brand": "Miyako",
+  "brand_cn": "",
+  "brand_slug": "miyako",
+  "country": "待补充",
+  "manufacturer": "Miyako",
+  "model": "Six",
+  "year": 1942,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Miyako折叠相机，1942 年发布",
+  "description": "The Miyako Six (ミヤコシックス) is a Japanese 6&times;6 folding camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miyako Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miyako Six",
+      "url": "https://camera-wiki.org/wiki/Miyako%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

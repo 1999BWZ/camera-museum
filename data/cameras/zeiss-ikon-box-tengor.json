@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-box-tengor",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Box Tengor",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon盒式相机，1934 年发布",
+  "description": "Box cameras were dedicated to photographic beginners.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Box Tengor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Box Tengor",
+      "url": "https://camera-wiki.org/wiki/Box%20Tengor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-555-eld",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "555 ELD",
+  "year": 1998,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏胶片单反相机，1998 年发布",
+  "description": "The 555 ELD was introduced by Hasselblad in 1998 as the most advanced version of its 6&times;6 SLR series providing an integral winding motor, begun with the Hasselblad 500 EL in 1965.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad 555 ELD"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad 555 ELD",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%20555%20ELD"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

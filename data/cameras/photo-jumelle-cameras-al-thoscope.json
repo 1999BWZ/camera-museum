@@ -1,0 +1,29 @@
+{
+  "id": "photo-jumelle-cameras-al-thoscope",
+  "brand": "Photo-jumelle cameras",
+  "brand_cn": "",
+  "brand_slug": "photo-jumelle-cameras",
+  "country": "法国",
+  "manufacturer": "Photo-jumelle cameras",
+  "model": "Aléthoscope",
+  "year": 1914,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Photo-jumelle cameras立体相机，1914 年发布",
+  "description": "The AléthoscopeThe name refers to the Greek Aletheia (truth).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Aléthoscope"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Aléthoscope",
+      "url": "https://camera-wiki.org/wiki/Al%C3%A9thoscope"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

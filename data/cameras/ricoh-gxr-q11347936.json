@@ -1,0 +1,40 @@
+{
+  "id": "ricoh-gxr-q11347936",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "理光",
+  "model": "GXR",
+  "year": 2009,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2009 年发布",
+  "description": "理光于2009年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q11347936",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricoh%20GXR%20IMG%205351.JPG?width=800",
+      "caption": "GXR",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q11347936"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 理光GXR",
+      "url": "https://www.wikidata.org/wiki/Q11347936"
+    }
+  ],
+  "qid": "Q11347936",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lomography-lomo-lc-a",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "LOMO LC-A+",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography玩具相机，2006 年发布",
+  "description": "The LOMO LC-A+ is a 35mm compact camera produced by Lomography in 2006 based on the original LOMO LC-A.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lomography LOMO LC-A+"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lomography LOMO LC-A+",
+      "url": "https://camera-wiki.org/wiki/Lomography%20LOMO%20LC-A%2B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

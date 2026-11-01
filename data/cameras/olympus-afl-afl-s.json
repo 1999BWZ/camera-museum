@@ -1,0 +1,29 @@
+{
+  "id": "olympus-afl-afl-s",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "AFL & AFL-S",
+  "year": 1983,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，1983 年发布",
+  "description": "The Olympus AFL Quick Flash series of 35mm compact cameras were some of the first mass-produced autofocus cameras manufactured by Olympus and were so advanced for their time that they were priced almost as highly as SLRs.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus AFL & AFL-S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus AFL & AFL-S",
+      "url": "https://camera-wiki.org/wiki/Olympus%20AFL%20%26%20AFL-S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

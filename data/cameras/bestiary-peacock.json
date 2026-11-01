@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-peacock",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "待补充",
+  "manufacturer": "Bestiary",
+  "model": "Peacock",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary取景器相机，1939 年发布",
+  "description": "The Peacock (ピーコック) are Japanese cameras taking 3×4cm pictures on 127 film, made from 1939 by Tōyō Kōki.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Peacock"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Peacock",
+      "url": "https://camera-wiki.org/wiki/Peacock"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

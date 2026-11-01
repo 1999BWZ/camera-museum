@@ -1,0 +1,29 @@
+{
+  "id": "minox-35-al",
+  "brand": "Minox",
+  "brand_cn": "",
+  "brand_slug": "minox",
+  "country": "待补充",
+  "manufacturer": "Minox",
+  "model": "35 AL",
+  "year": 1987,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minox折叠相机，1987 年发布",
+  "description": "The Minox 35 AL is a 35mm film viewfinder auto-exposure camera introduced by Minox in c.1987.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minox 35 AL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minox 35 AL",
+      "url": "https://camera-wiki.org/wiki/Minox%2035%20AL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "braun-automatic-500",
+  "brand": "Braun",
+  "brand_cn": "",
+  "brand_slug": "braun",
+  "country": "待补充",
+  "manufacturer": "Braun",
+  "model": "Automatic 500",
+  "year": 1965,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Braun胶片相机，1965 年发布",
+  "description": "The Porst Automatic 500 was made by Braun for distributor Porst in 1965*[http://www.kamera-geschichte.de/files_1/porst_automatic_500_d.html Porst Automatic 500 page] at [http://www.kamera-geschichte.de Kamera-geschichte] (in German).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Porst Automatic 500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Porst Automatic 500",
+      "url": "https://camera-wiki.org/wiki/Porst%20Automatic%20500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

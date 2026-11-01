@@ -1,0 +1,29 @@
+{
+  "id": "graflex-1a-graflex",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "Graflex",
+  "model": "1A Graflex",
+  "year": 1909,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲胶片单反相机，1909 年发布",
+  "description": "The 1A Graflex is a SLR produced by Graflex from 1909–1925.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "1A Graflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – 1A Graflex",
+      "url": "https://camera-wiki.org/wiki/1A%20Graflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

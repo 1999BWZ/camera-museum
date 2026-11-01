@@ -1,0 +1,29 @@
+{
+  "id": "usc-reflex-ii-x",
+  "brand": "USC",
+  "brand_cn": "",
+  "brand_slug": "usc",
+  "country": "美国",
+  "manufacturer": "USC",
+  "model": "Reflex II X",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "USC盒式相机，1960 年发布",
+  "description": "The Reflex II X is box camera, made of bakelite in the style of a pseudo TLR by the United States Camera Co..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "USC Reflex II X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – USC Reflex II X",
+      "url": "https://camera-wiki.org/wiki/USC%20Reflex%20II%20X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

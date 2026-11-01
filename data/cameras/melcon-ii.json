@@ -1,0 +1,29 @@
+{
+  "id": "melcon-ii",
+  "brand": "Melcon",
+  "brand_cn": "",
+  "brand_slug": "melcon",
+  "country": "待补充",
+  "manufacturer": "Melcon",
+  "model": "II",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Melcon旁轴相机，1957 年发布",
+  "description": "The Melcon II (メルコンII) is a Japanese 35mm rangefinder camera with interchangeable lenses in Leica screw mount, made by Meguro Kōgaku Kōgyō and distributed by Hinomaruya for a brief period in late 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Melcon II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Melcon II",
+      "url": "https://camera-wiki.org/wiki/Melcon%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

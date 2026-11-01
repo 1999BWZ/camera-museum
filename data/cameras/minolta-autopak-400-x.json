@@ -1,0 +1,29 @@
+{
+  "id": "minolta-autopak-400-x",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Autopak 400-X",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1972 年发布",
+  "description": "The Minolta Autopak 400-X was one of Minolta's last cameras for Kodapak film cartridges.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Autopak 400-X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Autopak 400-X",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Autopak%20400-X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

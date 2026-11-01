@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-ruby",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "英国",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Ruby",
+  "year": 1907,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard折叠相机，1907 年发布",
+  "description": "The Ruby is a wooden folding field camera made by Thornton-Pickard from about 1890 to 1907.[https://web.archive.org/web/20160311095220/http://woodandbrass.co.uk/detail.php?cat_num=0031 Half-plate Ruby] of about 1897, at [http://www.woodandbrass.co.uk/index.php Wood and Brass] (archived at Internet A",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Thornton-Pickard Ruby"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Thornton-Pickard Ruby",
+      "url": "https://camera-wiki.org/wiki/Thornton-Pickard%20Ruby"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

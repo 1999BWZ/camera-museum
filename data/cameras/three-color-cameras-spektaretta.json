@@ -1,0 +1,29 @@
+{
+  "id": "three-color-cameras-spektaretta",
+  "brand": "Three-color cameras",
+  "brand_cn": "",
+  "brand_slug": "three-color-cameras",
+  "country": "待补充",
+  "manufacturer": "Three-color cameras",
+  "model": "Spektaretta",
+  "year": 1939,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Three-color cameras胶片相机，1939 年发布",
+  "description": "The Spektaretta is a camera that makes colour images by a colour-separation method: the image from the lens is split into three by a system of prisms, to make three simultaneous exposures (24×24 mm) through red, green and blue filters, onto monochrome 35 mm film.[https://web.archive.org/web/20210411",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Spektaretta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Spektaretta",
+      "url": "https://camera-wiki.org/wiki/Spektaretta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

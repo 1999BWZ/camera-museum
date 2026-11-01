@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-bob",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Bob",
+  "year": 1913,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann折叠相机，1913 年发布",
+  "description": "The Bob series are folding cameras for various sizes of both plates and rollfilm, made by Ernemann of Dresden from about 1902 until the company took part in the merger to create Zeiss Ikon in 1926.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Bob"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Bob",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Bob"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

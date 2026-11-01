@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-tele-top-twin-autoboy-tele",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot Tele/Top Twin/Autoboy Tele",
+  "year": 1986,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1986 年发布",
+  "description": "The Canon Top Twin, known as Sure Shot Tele in America and Autoboy Tele in Japan, is an enthusiast's autofocus compact camera from 1986.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot Tele/Top Twin/Autoboy Tele"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot Tele/Top Twin/Autoboy Tele",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20Tele/Top%20Twin/Autoboy%20Tele"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-ricoreo-16",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Ricoreo 16",
+  "year": 1957,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光立体相机，1957 年发布",
+  "description": "The Ricoreo 16 is a prototype camera made by Riken around 1957, taking stereo pairs on 16mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoreo 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoreo 16",
+      "url": "https://camera-wiki.org/wiki/Ricoreo%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

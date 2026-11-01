@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-nexia-4100ix-z-mrc",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "nexia 4100ix Z MRC",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士胶片相机，2000 年发布",
+  "description": "A compact APS film camera by Fuji, introduced c.2000.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm nexia 4100ix Z MRC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm nexia 4100ix Z MRC",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20nexia%204100ix%20Z%20MRC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

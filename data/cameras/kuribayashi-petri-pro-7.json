@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-pro-7",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri Pro 7",
+  "year": 1964,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi旁轴相机，1964 年发布",
+  "description": "The Petri Pro 7 is a 35mm fixed-lens rangefinder camera made by Petri in 1964.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri Pro 7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri Pro 7",
+      "url": "https://camera-wiki.org/wiki/Petri%20Pro%207"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "spartus-120-flash",
+  "brand": "Spartus",
+  "brand_cn": "",
+  "brand_slug": "spartus",
+  "country": "美国",
+  "manufacturer": "Spartus",
+  "model": "120 Flash",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spartus盒式相机，1953 年发布",
+  "description": "The Spartus \"120\" Flash Camera is a simple molded-plastic box camera from Herold Products Co., successor to Spartus Camera Corp, offered circa 1953.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Spartus 120 Flash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Spartus 120 Flash",
+      "url": "https://camera-wiki.org/wiki/Spartus%20120%20Flash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "contessa-nettel-nettix",
+  "brand": "Contessa-Nettel",
+  "brand_cn": "",
+  "brand_slug": "contessa-nettel",
+  "country": "待补充",
+  "manufacturer": "Contessa-Nettel",
+  "model": "Nettix",
+  "year": 1923,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Contessa-Nettel折叠相机，1923 年发布",
+  "description": "The Contessa-Nettel Nettix is a strut folding plate camera in a leather coated metal body.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contessa-Nettel Nettix"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contessa-Nettel Nettix",
+      "url": "https://camera-wiki.org/wiki/Contessa-Nettel%20Nettix"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

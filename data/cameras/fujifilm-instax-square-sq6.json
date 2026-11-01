@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-instax-square-sq6",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "Instax Square SQ6",
+  "year": 2018,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士一次成像相机，2018 年发布",
+  "description": "An instant camera launched in May 2018 by Fujifilm.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm Instax Square SQ6"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm Instax Square SQ6",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20Instax%20Square%20SQ6"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

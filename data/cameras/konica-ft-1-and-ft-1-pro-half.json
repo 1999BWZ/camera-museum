@@ -1,0 +1,29 @@
+{
+  "id": "konica-ft-1-and-ft-1-pro-half",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "FT-1 and FT-1 Pro Half",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡胶片单反相机，1982 年发布",
+  "description": "The Konica FT-1 Motor was first offered in 1982, replacing the FS-1 as the company's top-of-the-line, and is considered by many to be the best Konica electronic camera body.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica FT-1 and FT-1 Pro Half"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica FT-1 and FT-1 Pro Half",
+      "url": "https://camera-wiki.org/wiki/Konica%20FT-1%20and%20FT-1%20Pro%20Half"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

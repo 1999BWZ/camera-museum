@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-mf-3",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri MF-3",
+  "year": 1978,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi数码单反相机，1978 年发布",
+  "description": "The Petri MF-3 is an SLR from 1978, at the point when Cosina had begun manufacturing Petri-branded cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri MF-3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri MF-3",
+      "url": "https://camera-wiki.org/wiki/Petri%20MF-3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

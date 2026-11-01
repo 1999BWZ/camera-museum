@@ -1,0 +1,29 @@
+{
+  "id": "tiranty-st-280",
+  "brand": "Tiranty",
+  "brand_cn": "",
+  "brand_slug": "tiranty",
+  "country": "法国",
+  "manufacturer": "Tiranty",
+  "model": "ST 280",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tiranty旁轴相机，1959 年发布",
+  "description": "The ST 280 is a 35mm rangefinder camera made by Tiranty, a French camera manufacturer based in Paris.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tiranty ST 280"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tiranty ST 280",
+      "url": "https://camera-wiki.org/wiki/Tiranty%20ST%20280"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

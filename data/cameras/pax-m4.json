@@ -1,0 +1,29 @@
+{
+  "id": "pax-m4",
+  "brand": "Pax",
+  "brand_cn": "",
+  "brand_slug": "pax",
+  "country": "待补充",
+  "manufacturer": "Pax",
+  "model": "M4",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pax旁轴相机，1958 年发布",
+  "description": "The Pax M4 from about 1958 is a revision to the Pax M3 which added a frosted central window to illuminate a bright-line viewfinder frame.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pax M4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pax M4",
+      "url": "https://camera-wiki.org/wiki/Pax%20M4"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-fs-e",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "FS-E",
+  "year": 1985,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达取景器相机，1985 年发布",
+  "description": "Minolta FS-E is a fixed-focus compact camera, largely based on the AF-E.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta FS-E"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta FS-E",
+      "url": "https://camera-wiki.org/wiki/Minolta%20FS-E"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

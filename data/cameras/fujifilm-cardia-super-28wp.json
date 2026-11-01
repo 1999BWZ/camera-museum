@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-cardia-super-28wp",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "Cardia Super 28WP",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士取景器相机，1995 年发布",
+  "description": "The Cardia Super 28WP is a compact 35mm film camera released by Fujifilm in 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm Cardia Super 28WP"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm Cardia Super 28WP",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20Cardia%20Super%2028WP"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-bessaflex-tm",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Bessaflex TM",
+  "year": 2007,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer胶片单反相机，2007 年发布",
+  "description": "The Bessaflex TM is a retro styled SLR camera body for 35mm film by Cosina Voigtländer released in May, 2003 and discontinued in 2007.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bessaflex TM"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bessaflex TM",
+      "url": "https://camera-wiki.org/wiki/Bessaflex%20TM"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

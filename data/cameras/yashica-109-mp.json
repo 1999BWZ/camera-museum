@@ -1,0 +1,29 @@
+{
+  "id": "yashica-109-mp",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "109 MP",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片单反相机，1989 年发布",
+  "description": "__NOTOC__\n\nThe Yashica 109 MP also known as Yashica 109 Multi Program, Yashica 109, or name variation incorporating Kyocera, Kyocera Yashica 109, etc.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica 109 MP"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica 109 MP",
+      "url": "https://camera-wiki.org/wiki/Yashica%20109%20MP"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

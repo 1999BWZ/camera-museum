@@ -1,0 +1,29 @@
+{
+  "id": "minolta-hi-matic-7",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Hi-Matic 7",
+  "year": 1963,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1963 年发布",
+  "description": "In 1963 the Minolta HI-MATIC 7 succeeded the original Minolta Hi-Matic 35mm rangefinder camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Hi-Matic 7"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Hi-Matic 7",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Hi-Matic%207"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

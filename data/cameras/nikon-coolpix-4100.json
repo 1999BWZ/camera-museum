@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-4100",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix 4100",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，2004 年发布",
+  "description": "The Nikon Coolpix 4100 is part of the Coolpix series of digital cameras introduced by Nikon in 2004.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix 4100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix 4100",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%204100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

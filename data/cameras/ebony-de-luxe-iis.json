@@ -1,0 +1,29 @@
+{
+  "id": "ebony-de-luxe-iis",
+  "brand": "Ebony",
+  "brand_cn": "",
+  "brand_slug": "ebony",
+  "country": "待补充",
+  "manufacturer": "Ebony",
+  "model": "de Luxe IIS",
+  "year": 1957,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ebony取景器相机，1957 年发布",
+  "description": "The Ebony de Luxe IIS is a viewfinder camera for 828 film, made by Hōei in about 1957; p392.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ebony de Luxe IIS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ebony de Luxe IIS",
+      "url": "https://camera-wiki.org/wiki/Ebony%20de%20Luxe%20IIS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

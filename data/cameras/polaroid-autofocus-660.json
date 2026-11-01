@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-autofocus-660",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Autofocus 660",
+  "year": 1981,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1981 年发布",
+  "description": "__NOTOC__\n\nThe Polaroid Autofocus 660 is a square-bodied instant camera, one of Polaroid's 600-series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Autofocus 660"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Autofocus 660",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Autofocus%20660"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

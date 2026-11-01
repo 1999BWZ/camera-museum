@@ -1,0 +1,29 @@
+{
+  "id": "dresden-micky-2",
+  "brand": "Dresden",
+  "brand_cn": "",
+  "brand_slug": "dresden",
+  "country": "待补充",
+  "manufacturer": "Dresden",
+  "model": "Micky 2",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dresden盒式相机，1932 年发布",
+  "description": "In 1932 Balda-Werk Max Baldeweg in Dresden introduced a box camera for 127 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Micky 2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Micky 2",
+      "url": "https://camera-wiki.org/wiki/Micky%202"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-racer",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri Racer",
+  "year": 1966,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi旁轴相机，1966 年发布",
+  "description": "__NOTOC__\n\nThe Petri Racer is a Japanese fixed-lens 35mm rangefinder introduced in 1966 by Petri.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri Racer"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri Racer",
+      "url": "https://camera-wiki.org/wiki/Petri%20Racer"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

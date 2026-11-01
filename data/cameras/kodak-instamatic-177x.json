@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-177x",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic 177X",
+  "year": 1976,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1976 年发布",
+  "description": "The Kodak Instamatic 177x is one in a huge family of 126 film Instamatics produced from 1976-1984.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic 177X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic 177X",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%20177X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

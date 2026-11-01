@@ -1,0 +1,29 @@
+{
+  "id": "canon-sprint-jet-af35j-autoboy-lite",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sprint/Jet (AF35J)/Autoboy LITE",
+  "year": 1985,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1985 年发布",
+  "description": "The fourth model in Canon's Sure Shot series, released in July 1985, this autofocus compact camera was variously known as the Sprint, AF35J (Jet) and Autoboy LITE.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sprint/Jet (AF35J)/Autoboy LITE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sprint/Jet (AF35J)/Autoboy LITE",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sprint/Jet%20%28AF35J%29/Autoboy%20LITE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

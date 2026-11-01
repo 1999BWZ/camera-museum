@@ -1,0 +1,29 @@
+{
+  "id": "canon-eos-rt",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "EOS RT",
+  "year": 1989,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，1989 年发布",
+  "description": "The Canon EOS RT is a member of the Canon EOS system of autofocus SLR cameras introduced in the late 1980s as a replacement of the T series manual focus SLRs.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon EOS RT"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon EOS RT",
+      "url": "https://camera-wiki.org/wiki/Canon%20EOS%20RT"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

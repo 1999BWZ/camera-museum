@@ -1,0 +1,40 @@
+{
+  "id": "om-om-system-om-1",
+  "brand": "OM数位解决方案",
+  "brand_cn": "",
+  "brand_slug": "om",
+  "country": "待补充",
+  "manufacturer": "OM数位解决方案",
+  "model": "OM System OM-1",
+  "year": 2022,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "OM数位解决方案数码相机，2022 年发布",
+  "description": "OM数位解决方案于2022年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q110962635",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM%20System%20OM-1%20Geh%C3%A4use-20250121-RM-180629.jpg?width=800",
+      "caption": "OM System OM-1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q110962635"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – OM System OM-1",
+      "url": "https://www.wikidata.org/wiki/Q110962635"
+    }
+  ],
+  "qid": "Q110962635",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "beauty-reflex-beauty",
+  "brand": "Beauty",
+  "brand_cn": "",
+  "brand_slug": "beauty",
+  "country": "待补充",
+  "manufacturer": "Beauty",
+  "model": "Reflex Beauty",
+  "year": 1954,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beauty数码单反相机，1954 年发布",
+  "description": "The Reflex Beauty (レフレックス・ビューティ) is a Japanese 6×6 SLR made by Taiyōdō in the mid-1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Reflex Beauty"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Reflex Beauty",
+      "url": "https://camera-wiki.org/wiki/Reflex%20Beauty"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

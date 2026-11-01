@@ -1,0 +1,29 @@
+{
+  "id": "richter-reflecta",
+  "brand": "Richter",
+  "brand_cn": "",
+  "brand_slug": "richter",
+  "country": "待补充",
+  "manufacturer": "Richter",
+  "model": "Reflecta",
+  "year": 1930,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Richter胶片相机，1930 年发布",
+  "description": "The Reflecta is a German TLR made by Richter in Tharandt, Germany from the early 1930s onwards.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Reflecta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Reflecta",
+      "url": "https://camera-wiki.org/wiki/Reflecta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

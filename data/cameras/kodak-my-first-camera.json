@@ -1,0 +1,29 @@
+{
+  "id": "kodak-my-first-camera",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "My First Camera",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达玩具相机，1988 年发布",
+  "description": "The My First Camera is a very basic fixed-focus 110 film camera by Kodak from circa late-1980s.[http://kodak.3106.net/index.php?p=211&cam=1039 My First Camera] at [http://kodak.3106.net/index.php Kodak Classics] Its name suggests it was intended for children, \n\nKodak released several very similar ca",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "My First Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – My First Camera",
+      "url": "https://camera-wiki.org/wiki/My%20First%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

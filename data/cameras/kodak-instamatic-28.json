@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-28",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic 28",
+  "year": 1972,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1972 年发布",
+  "description": "The Kodak Instamatic 28 took 126 film and is a fixed-focus model without any flash facility.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic 28"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic 28",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%2028"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

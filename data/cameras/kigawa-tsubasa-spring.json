@@ -1,0 +1,29 @@
+{
+  "id": "kigawa-tsubasa-spring",
+  "brand": "Kigawa",
+  "brand_cn": "",
+  "brand_slug": "kigawa",
+  "country": "待补充",
+  "manufacturer": "Kigawa",
+  "model": "Tsubasa Spring",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kigawa折叠相机，1938 年发布",
+  "description": "The Tsubasa Spring is a Japanese folding camera taking 4×6.5 and 3×4 pictures on 127 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tsubasa Spring"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tsubasa Spring",
+      "url": "https://camera-wiki.org/wiki/Tsubasa%20Spring"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

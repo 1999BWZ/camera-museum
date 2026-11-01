@@ -1,0 +1,40 @@
+{
+  "id": "leica-m7-q314013",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "M7",
+  "year": 2002,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡旁轴相机，2002 年发布",
+  "description": "徕卡于2002年发布的旁轴相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q314013",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica-M7-p1020464.jpg?width=800",
+      "caption": "M7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q314013"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica M7",
+      "url": "https://www.wikidata.org/wiki/Q314013"
+    }
+  ],
+  "qid": "Q314013",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

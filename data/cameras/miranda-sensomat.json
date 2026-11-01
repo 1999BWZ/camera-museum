@@ -1,0 +1,29 @@
+{
+  "id": "miranda-sensomat",
+  "brand": "Miranda",
+  "brand_cn": "",
+  "brand_slug": "miranda",
+  "country": "待补充",
+  "manufacturer": "Miranda",
+  "model": "Sensomat",
+  "year": 1969,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Miranda胶片单反相机，1969 年发布",
+  "description": "The Miranda Sensomat is a 35mm SLR launched in 1969.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miranda Sensomat"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miranda Sensomat",
+      "url": "https://camera-wiki.org/wiki/Miranda%20Sensomat"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

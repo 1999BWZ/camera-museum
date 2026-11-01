@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-z70w",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot Z70W",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1995 年发布",
+  "description": "A March 1995 model from Canon's Sure Shot series, the Sure Shot Z70W (Euro: Prima Super 28) is a compact camera with fully automatic autofocus and a zoom lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot Z70W (Caption)/Prima Super 28 (Caption)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot Z70W (Caption)/Prima Super 28 (Caption)",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20Z70W%20%28Caption%29/Prima%20Super%2028%20%28Caption%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

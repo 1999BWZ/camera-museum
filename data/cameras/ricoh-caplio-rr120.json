@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-caplio-rr120",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Caplio RR120",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2002 年发布",
+  "description": "The Ricoh Caplio RR120 is a digital compact camera from 2002.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Caplio RR120"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Caplio RR120",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Caplio%20RR120"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

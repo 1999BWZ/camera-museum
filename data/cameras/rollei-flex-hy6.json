@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-hy6",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex Hy6",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来数码相机，2007 年发布",
+  "description": "The Rolleiflex Hy6 is a robust compact medium format camera developed for digital camera backs of Sinar.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex Hy6"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex Hy6",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%20Hy6"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

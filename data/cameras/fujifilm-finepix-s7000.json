@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-finepix-s7000",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "FinePix S7000",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，2003 年发布",
+  "description": "The Fujifilm FinePix S7000 is a compact, bridge The term Bridge camera means that it fills the gap between the SLRs and the Point-and-shoot cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm FinePix S7000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm FinePix S7000",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20FinePix%20S7000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

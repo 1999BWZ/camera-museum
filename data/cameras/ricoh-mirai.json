@@ -1,0 +1,37 @@
+{
+  "id": "ricoh-mirai",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Mirai",
+  "year": 1988,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码单反相机，1988 年发布",
+  "description": "The Ricoh Mirai, introduced in 1988, is an SLR camera with a fixed 35&ndash;135mm zoom lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Mirai"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm5.static.flickr.com/4122/4766316315_48242afc03.jpg",
+      "caption": "Mirai",
+      "source": "Flickr（edjpgcom）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/maderik/4766316315/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Mirai",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Mirai"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

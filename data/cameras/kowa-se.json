@@ -1,0 +1,29 @@
+{
+  "id": "kowa-se",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "SE",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa胶片单反相机，1964 年发布",
+  "description": "{| class=\"plainlinks floatright\" style=\"text-align: right;\"\n|| [https://www.flickr.com/photos/75468899@N05/52295681275/in/pool-camerawiki https://live.staticflickr.com/65535/52295681275_feec4ed5a6.jpg]\n|-\n|| Kowa SE image by \n|}\n__NOTOC__\n\nThe Kowa SE is a fixed lens leaf-shutter SLR introduced by K",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa SE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa SE",
+      "url": "https://camera-wiki.org/wiki/Kowa%20SE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

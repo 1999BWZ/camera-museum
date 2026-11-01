@@ -1,0 +1,29 @@
+{
+  "id": "ensign-ranger",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "待补充",
+  "manufacturer": "Ensign",
+  "model": "Ranger",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign折叠相机，1948 年发布",
+  "description": "{|class=floatright\n|\n\n|\n\n|}\nEnsign Ranger is the name of a series of 120 film vertical folding cameras made by Houghtons in England, under their Ensign brand.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Ranger"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Ranger",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Ranger"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

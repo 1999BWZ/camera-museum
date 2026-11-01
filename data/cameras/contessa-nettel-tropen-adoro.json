@@ -1,0 +1,29 @@
+{
+  "id": "contessa-nettel-tropen-adoro",
+  "brand": "Contessa-Nettel",
+  "brand_cn": "",
+  "brand_slug": "contessa-nettel",
+  "country": "待补充",
+  "manufacturer": "Contessa-Nettel",
+  "model": "Tropen Adoro",
+  "year": 1921,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Contessa-Nettel折叠相机，1921 年发布",
+  "description": "The Tropen Adoro was made from 1921 to 1926 by Contessa-Nettel.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tropen Adoro"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tropen Adoro",
+      "url": "https://camera-wiki.org/wiki/Tropen%20Adoro"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

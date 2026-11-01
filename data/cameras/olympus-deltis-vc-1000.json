@@ -1,0 +1,29 @@
+{
+  "id": "olympus-deltis-vc-1000",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Deltis VC-1000",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，1993 年发布",
+  "description": "The VC-1000 was introduced by Olympus in 1993, replacing their analog still-video VC-100 with a true digital camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Deltis VC-1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Deltis VC-1000",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Deltis%20VC-1000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

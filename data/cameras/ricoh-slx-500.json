@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-slx-500",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "SLX 500",
+  "year": 1975,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1975 年发布",
+  "description": "The SLX 500 is an SLR for 35mm film from Ricoh which accepts 42mm screw-mount lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh SLX 500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh SLX 500",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20SLX%20500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

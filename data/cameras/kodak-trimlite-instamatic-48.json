@@ -1,0 +1,29 @@
+{
+  "id": "kodak-trimlite-instamatic-48",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Trimlite Instamatic 48",
+  "year": 1975,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1975 年发布",
+  "description": "The Trimlite Instamatic 48 was the top model introduced by Kodak in their 1975 line of new 110 film-cartridge cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Trimlite Instamatic 48"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Trimlite Instamatic 48",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Trimlite%20Instamatic%2048"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

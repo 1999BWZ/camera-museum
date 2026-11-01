@@ -1,0 +1,29 @@
+{
+  "id": "nobility-prince-peerless",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Prince Peerless",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility折叠相机，1934 年发布",
+  "description": "The Prince Peerless is a Japanese 6.5×9 folding plate camera sold from 1934, probably by the distributor Fukada Shōkai, owner of the Prince brand name and of the P.C.W.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Prince Peerless"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Prince Peerless",
+      "url": "https://camera-wiki.org/wiki/Prince%20Peerless"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

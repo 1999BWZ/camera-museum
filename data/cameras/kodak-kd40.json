@@ -1,0 +1,29 @@
+{
+  "id": "kodak-kd40",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "KD40",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1997 年发布",
+  "description": "The Kodak KD40 is a 1990s-era camera for 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak KD40"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak KD40",
+      "url": "https://camera-wiki.org/wiki/Kodak%20KD40"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "three-color-cameras-jos-pe",
+  "brand": "Three-color cameras",
+  "brand_cn": "",
+  "brand_slug": "three-color-cameras",
+  "country": "待补充",
+  "manufacturer": "Three-color cameras",
+  "model": "Jos-Pe",
+  "year": 1924,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Three-color cameras胶片相机，1924 年发布",
+  "description": "Jos-Pe Farben-Photo GmbH was a camera-maker in Hamburg and later Munich.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Jos-Pe"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Jos-Pe",
+      "url": "https://camera-wiki.org/wiki/Jos-Pe"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

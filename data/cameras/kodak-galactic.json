@@ -1,0 +1,29 @@
+{
+  "id": "kodak-galactic",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Galactic",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1988 年发布",
+  "description": "The Kodak Galactic is a 110 film camera from the 1980s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Galactic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Galactic",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Galactic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

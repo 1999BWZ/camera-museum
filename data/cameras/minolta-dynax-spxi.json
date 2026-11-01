@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-spxi",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax SPxi",
+  "year": 1992,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1992 年发布",
+  "description": "The Dynax SPxi is an autofocus 35mm SLR camera, released by Minolta in 1992.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax SPxi"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax SPxi",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%20SPxi"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

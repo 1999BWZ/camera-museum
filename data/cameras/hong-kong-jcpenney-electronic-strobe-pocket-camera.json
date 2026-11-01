@@ -1,0 +1,29 @@
+{
+  "id": "hong-kong-jcpenney-electronic-strobe-pocket-camera",
+  "brand": "Hong Kong",
+  "brand_cn": "",
+  "brand_slug": "hong-kong",
+  "country": "待补充",
+  "manufacturer": "Hong Kong",
+  "model": "JCPenney Electronic Strobe Pocket Camera",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hong Kong胶片相机，1977 年发布",
+  "description": "The JCPenney Electronic Strobe Pocket Camera is a basic camera from unknown date for the still-available 110 film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "JCPenney Electronic Strobe Pocket Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – JCPenney Electronic Strobe Pocket Camera",
+      "url": "https://camera-wiki.org/wiki/JCPenney%20Electronic%20Strobe%20Pocket%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

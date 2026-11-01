@@ -1,0 +1,29 @@
+{
+  "id": "bonzart-ampel",
+  "brand": "Bonzart",
+  "brand_cn": "",
+  "brand_slug": "bonzart",
+  "country": "待补充",
+  "manufacturer": "Bonzart",
+  "model": "Ampel",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bonzart数码相机，2012 年发布",
+  "description": "The Bonzart Ampel'Ampel' is German for a lamp, especially a traffic light.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bonzart Ampel"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bonzart Ampel",
+      "url": "https://camera-wiki.org/wiki/Bonzart%20Ampel"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "iloca-electric",
+  "brand": "Iloca",
+  "brand_cn": "",
+  "brand_slug": "iloca",
+  "country": "待补充",
+  "manufacturer": "Iloca",
+  "model": "Electric",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Iloca旁轴相机，1959 年发布",
+  "description": "Introduced in 1959 at a price a shade under the Leica M2 and with no name \"cachet\" Iloca had entered a market far above the one they had been familiar with.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Iloca Electric"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Iloca Electric",
+      "url": "https://camera-wiki.org/wiki/Iloca%20Electric"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

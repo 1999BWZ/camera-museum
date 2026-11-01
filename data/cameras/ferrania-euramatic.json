@@ -1,0 +1,29 @@
+{
+  "id": "ferrania-euramatic",
+  "brand": "Ferrania",
+  "brand_cn": "",
+  "brand_slug": "ferrania",
+  "country": "待补充",
+  "manufacturer": "Ferrania",
+  "model": "Euramatic",
+  "year": 1964,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ferrania胶片相机，1964 年发布",
+  "description": "The Ferrania 3M Euramatic FC is a viewfinder camera for type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Euramatic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Euramatic",
+      "url": "https://camera-wiki.org/wiki/Euramatic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

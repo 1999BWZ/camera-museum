@@ -1,0 +1,29 @@
+{
+  "id": "super-duplex-120",
+  "brand": "Super",
+  "brand_cn": "",
+  "brand_slug": "super",
+  "country": "意大利",
+  "manufacturer": "Super",
+  "model": "Duplex 120",
+  "year": 1956,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Super立体相机，1956 年发布",
+  "description": "The Super Duplex 120 is a dual-lens camera for 24 stereo pairs of 24 mm-square images on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Duplex 120"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Duplex 120",
+      "url": "https://camera-wiki.org/wiki/Super%20Duplex%20120"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

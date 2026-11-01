@@ -1,0 +1,29 @@
+{
+  "id": "olympus-mju-ii-zoom-80",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "mju II ZOOM 80",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，1999 年发布",
+  "description": "Known as the Olympus Stylus Epic ZOOM 80 in the US, this was a 35mm compact camera from the very successful mju/Stylus/Epic series, and was introduced by Olympus in 1999.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus mju II ZOOM 80"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus mju II ZOOM 80",
+      "url": "https://camera-wiki.org/wiki/Olympus%20mju%20II%20ZOOM%2080"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

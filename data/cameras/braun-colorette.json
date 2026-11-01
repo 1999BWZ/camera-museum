@@ -1,0 +1,29 @@
+{
+  "id": "braun-colorette",
+  "brand": "Braun",
+  "brand_cn": "",
+  "brand_slug": "braun",
+  "country": "待补充",
+  "manufacturer": "Braun",
+  "model": "Colorette",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Braun旁轴相机，1956 年发布",
+  "description": "The Colorette Super (or Super Colorette) is a line of coupled rangefinder cameras made by Braun in Nuremberg from about 1956 to 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Colorette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Colorette",
+      "url": "https://camera-wiki.org/wiki/Super%20Colorette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

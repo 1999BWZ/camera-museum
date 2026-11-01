@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-heag-ii",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Heag II",
+  "year": 1900,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann折叠相机，1900 年发布",
+  "description": "===Specifications===\n*Type: Folding bed plate camera, lens panel focusing adjustment by spiral gear\n*Manufacturer: Heinrich Ernemann\n*Year of launch: 1900\n*Film: film plates of size 9&times;12 cm\n*Lens/shutter-configurations\n**1.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Heag II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Heag II",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Heag%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "linhof-technika-iii-and-iv",
+  "brand": "Linhof",
+  "brand_cn": "",
+  "brand_slug": "linhof",
+  "country": "待补充",
+  "manufacturer": "Linhof",
+  "model": "Technika III and IV",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Linhof折叠相机，1951 年发布",
+  "description": "Linhof is credited with perfecting the all-metal technical field cameraLinhof The Early Cameras, Richard Shimonkevitz - Author.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Technika III and IV"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Technika III and IV",
+      "url": "https://camera-wiki.org/wiki/Super%20Technika%20III%20and%20IV"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

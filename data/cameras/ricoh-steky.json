@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-steky",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Steky",
+  "year": 1947,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1947 年发布",
+  "description": "The Steky is a series of 16mm cameras introduced in Japan after WW2, made by Asahi Musen.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Steky"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Steky",
+      "url": "https://camera-wiki.org/wiki/Steky"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

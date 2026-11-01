@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-af-80",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "AF-80",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1996 年发布",
+  "description": "The AF-80 is a compact 35mm camera made by Ricoh in 1996,[https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/AF-80.html AF-80] in the [https://www.ricoh-imaging.co.jp/japan/products/ricoh-filmcamera/cameralist/ camera-list] at [https://www.ricoh-imaging.co.jp/ Ricoh] (Japan).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh AF-80"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh AF-80",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20AF-80"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

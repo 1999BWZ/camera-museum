@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-dmc-fz5",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "DMC-FZ5",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2005 年发布",
+  "description": "The Lumix DMC-FZ5 is a digital camera made by Panasonic in 2005.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic DMC-FZ5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic DMC-FZ5",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20DMC-FZ5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

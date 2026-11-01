@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-ez-point-n-shoot-big-view",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "中国",
+  "manufacturer": "Vivitar",
+  "model": "EZ Point 'n Shoot Big View",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar玩具相机，1996 年发布",
+  "description": "The EZ Point 'n Shoot Big View is a cheap and cheerful plastic camera designed for 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar EZ Point 'n Shoot Big View"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar EZ Point 'n Shoot Big View",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20EZ%20Point%20%27n%20Shoot%20Big%20View"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

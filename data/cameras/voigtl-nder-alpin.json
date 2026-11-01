@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-alpin",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Alpin",
+  "year": 1903,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer折叠相机，1903 年发布",
+  "description": "{|class=floatright\n|\n\n|}\n\n\nThe Alpin Spelled 'Alpine' in U.S.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Alpin"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Alpin",
+      "url": "https://camera-wiki.org/wiki/Alpin"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

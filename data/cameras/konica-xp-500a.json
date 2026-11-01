@@ -1,0 +1,29 @@
+{
+  "id": "konica-xp-500a",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "xp 500a",
+  "year": 1963,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡旁轴相机，1963 年发布",
+  "description": "A rebranded Konica EE-Matic camera sold by the Montgomery Ward department stores chain.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wards xp 500a"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wards xp 500a",
+      "url": "https://camera-wiki.org/wiki/Wards%20xp%20500a"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

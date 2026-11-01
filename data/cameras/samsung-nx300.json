@@ -1,0 +1,29 @@
+{
+  "id": "samsung-nx300",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "Samsung",
+  "model": "NX300",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星数码相机，2013 年发布",
+  "description": "三星于2013年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samsung NX300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samsung NX300",
+      "url": "https://camera-wiki.org/wiki/Samsung%20NX300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

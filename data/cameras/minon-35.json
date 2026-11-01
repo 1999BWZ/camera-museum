@@ -1,0 +1,29 @@
+{
+  "id": "minon-35",
+  "brand": "Minon",
+  "brand_cn": "",
+  "brand_slug": "minon",
+  "country": "待补充",
+  "manufacturer": "Minon",
+  "model": "35",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minon胶片相机，1949 年发布",
+  "description": "The Minon 35 (ミノン35) is a Japanese camera taking twelve exposures on Bolta film, made by Yamato Kōki around 1950.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minon 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minon 35",
+      "url": "https://camera-wiki.org/wiki/Minon%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

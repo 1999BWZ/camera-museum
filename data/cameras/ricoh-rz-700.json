@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-rz-700",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "RZ-700",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1990 年发布",
+  "description": "The RZ-700 is an autofocus compact camera for 35mm film, introduced by Ricoh in 1990.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh RZ-700"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh RZ-700",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20RZ-700"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

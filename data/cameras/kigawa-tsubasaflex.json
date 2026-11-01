@@ -1,0 +1,29 @@
+{
+  "id": "kigawa-tsubasaflex",
+  "brand": "Kigawa",
+  "brand_cn": "",
+  "brand_slug": "kigawa",
+  "country": "待补充",
+  "manufacturer": "Kigawa",
+  "model": "Tsubasaflex",
+  "year": 1951,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kigawa胶片相机，1951 年发布",
+  "description": "The Tsubasaflex or Tubasaflex These are merely alternative romanizations of the katakana ツバサフレックス.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tsubasaflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tsubasaflex",
+      "url": "https://camera-wiki.org/wiki/Tsubasaflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

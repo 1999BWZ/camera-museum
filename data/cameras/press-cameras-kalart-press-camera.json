@@ -1,0 +1,29 @@
+{
+  "id": "press-cameras-kalart-press-camera",
+  "brand": "Press cameras",
+  "brand_cn": "",
+  "brand_slug": "press-cameras",
+  "country": "美国",
+  "manufacturer": "Press cameras",
+  "model": "Kalart Press Camera",
+  "year": 1948,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Press cameras旁轴相机，1948 年发布",
+  "description": "The Kalart Press Camera was made from 1948 to 1953 Page 454.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kalart Press Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kalart Press Camera",
+      "url": "https://camera-wiki.org/wiki/Kalart%20Press%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

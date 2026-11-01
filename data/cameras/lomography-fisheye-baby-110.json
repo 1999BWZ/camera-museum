@@ -1,0 +1,29 @@
+{
+  "id": "lomography-fisheye-baby-110",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "Fisheye Baby 110",
+  "year": 2012,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography胶片相机，2012 年发布",
+  "description": "The Fisheye Baby 110 by Lomography is a cute little camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lomography Fisheye Baby 110"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lomography Fisheye Baby 110",
+      "url": "https://camera-wiki.org/wiki/Lomography%20Fisheye%20Baby%20110"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

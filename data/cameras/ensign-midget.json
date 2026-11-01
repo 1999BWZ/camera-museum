@@ -1,0 +1,29 @@
+{
+  "id": "ensign-midget",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "待补充",
+  "manufacturer": "Ensign",
+  "model": "Midget",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign折叠相机，1934 年发布",
+  "description": "The Ensign Midget is a tiny[https://www.flickr.com/photos/21896638@N06/3251215343/in/pool-camerawiki This image] of someone holding an Ensign Midget, posted to Flickr by [https://www.flickr.com/photos/21896638@N06/ Neil Curry], illustrates how small the camera is.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Midget"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Midget",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Midget"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

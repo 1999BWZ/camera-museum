@@ -1,0 +1,29 @@
+{
+  "id": "kmz-520",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "俄罗斯",
+  "manufacturer": "KMZ",
+  "model": "520",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ取景器相机，2000 年发布",
+  "description": "Russian company KMZ and Taiwan company Toptronic teamed together to produce some cheap 35mm film compact cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit 520"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit 520",
+      "url": "https://camera-wiki.org/wiki/Zenit%20520"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

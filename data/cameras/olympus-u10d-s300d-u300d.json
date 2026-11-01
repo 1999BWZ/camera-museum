@@ -1,0 +1,32 @@
+{
+  "id": "olympus-u10d-s300d-u300d",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "U10D,S300D,u300D",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2003 年发布",
+  "description": "奥林巴斯于2003年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q7863564",
+    "多语言词条数": "2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – U10D,S300D,u300D",
+      "url": "https://www.wikidata.org/wiki/Q7863564"
+    }
+  ],
+  "qid": "Q7863564",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

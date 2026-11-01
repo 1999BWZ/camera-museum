@@ -1,0 +1,29 @@
+{
+  "id": "konica-ohca",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Ohca",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡折叠相机，1935 年发布",
+  "description": "The Ohca is a Japanese 6.5×9cm plate folder made from 1935 by Rokuoh-sha, the manufacturing branch of Konishiroku.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ohca"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ohca",
+      "url": "https://camera-wiki.org/wiki/Ohca"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

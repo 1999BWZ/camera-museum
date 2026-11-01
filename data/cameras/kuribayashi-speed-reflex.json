@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-speed-reflex",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Speed Reflex",
+  "year": 1919,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi数码单反相机，1919 年发布",
+  "description": "The Speed Reflex (スピードレフレックス) is a Japanese SLR made in the 1920s by Kuribayashi, and distributed by Saneidō and Sone Shunsuidō.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Speed Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Speed Reflex",
+      "url": "https://camera-wiki.org/wiki/Speed%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

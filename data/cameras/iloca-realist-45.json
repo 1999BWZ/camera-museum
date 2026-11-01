@@ -1,0 +1,29 @@
+{
+  "id": "iloca-realist-45",
+  "brand": "Iloca",
+  "brand_cn": "",
+  "brand_slug": "iloca",
+  "country": "待补充",
+  "manufacturer": "Iloca",
+  "model": "Realist 45",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Iloca立体相机，1955 年发布",
+  "description": "Introduced by Realist Inc.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Realist 45"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Realist 45",
+      "url": "https://camera-wiki.org/wiki/Realist%2045"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

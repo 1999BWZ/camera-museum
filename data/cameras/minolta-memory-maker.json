@@ -1,0 +1,29 @@
+{
+  "id": "minolta-memory-maker",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Memory Maker",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达取景器相机，1993 年发布",
+  "description": "The Minolta Memory Maker is a simple plastic viewfinder which takes 35mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Memory Maker"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Memory Maker",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Memory%20Maker"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

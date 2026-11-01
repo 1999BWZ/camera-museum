@@ -1,0 +1,29 @@
+{
+  "id": "umemoto-makinet-six-and-neure-six",
+  "brand": "Umemoto",
+  "brand_cn": "",
+  "brand_slug": "umemoto",
+  "country": "待补充",
+  "manufacturer": "Umemoto",
+  "model": "Makinet Six and Neure Six",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Umemoto折叠相机，1936 年发布",
+  "description": "The Super Makinet Six is a Japanese 6×6 strut folder, made by Umemoto and sold by Kikōdō from 1936 to 1939.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Makinet Six and Neure Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Makinet Six and Neure Six",
+      "url": "https://camera-wiki.org/wiki/Super%20Makinet%20Six%20and%20Neure%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

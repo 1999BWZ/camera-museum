@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-erni",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Erni",
+  "year": 1926,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann盒式相机，1926 年发布",
+  "description": "{|class= \"floatright plainlinks\"\n||[http://www.flickr.com/photos/53230277@N07/5001149296/in/pool-camerawiki/ http://farm5.static.flickr.com/4153/5001149296_61ef04bdda_m_d.jpg]\n|rowspan=2|[http://www.flickr.com/photos/53230277@N07/5001148398/in/pool-camerawiki/ http://farm5.static.flickr.com/4085/500",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Erni"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Erni",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Erni"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

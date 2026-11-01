@@ -1,0 +1,29 @@
+{
+  "id": "passport-cameras-quad-camera",
+  "brand": "Passport cameras",
+  "brand_cn": "",
+  "brand_slug": "passport-cameras",
+  "country": "待补充",
+  "manufacturer": "Passport cameras",
+  "model": "Quad Camera",
+  "year": 1964,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Passport cameras一次成像相机，1964 年发布",
+  "description": "The Quad Camera was invented as passport photo shooter for the U.S.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Quad Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Quad Camera",
+      "url": "https://camera-wiki.org/wiki/Quad%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

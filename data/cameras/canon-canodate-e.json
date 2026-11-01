@@ -1,0 +1,29 @@
+{
+  "id": "canon-canodate-e",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Canodate E",
+  "year": 1973,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能旁轴相机，1973 年发布",
+  "description": "A 1970 compact rangefinder camera from Canon, similar to the Canonet series but with an early date-imprinting function.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Canodate E"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Canodate E",
+      "url": "https://camera-wiki.org/wiki/Canon%20Canodate%20E"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

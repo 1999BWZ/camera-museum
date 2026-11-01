@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-kr-10-super",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "KR-10 Super",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1983 年发布",
+  "description": "The KR-10 Super was introduced by Ricoh in 1983, as a significant revision to the previous KR-10 (without suffix).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh KR-10 Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh KR-10 Super",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20KR-10%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

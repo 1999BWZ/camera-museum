@@ -1,0 +1,29 @@
+{
+  "id": "cambo-legend",
+  "brand": "Cambo",
+  "brand_cn": "",
+  "brand_slug": "cambo",
+  "country": "荷兰",
+  "manufacturer": "Cambo",
+  "model": "Legend",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cambo胶片相机，1987 年发布",
+  "description": "The Legend is a monorail camera made by the Dutch company Cambo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Legend"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Legend",
+      "url": "https://camera-wiki.org/wiki/Legend"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

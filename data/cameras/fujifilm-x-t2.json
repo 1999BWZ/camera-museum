@@ -1,0 +1,40 @@
+{
+  "id": "fujifilm-x-t2",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "富士胶片",
+  "model": "X-T2",
+  "year": 2016,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士无反相机，2016 年发布",
+  "description": "富士于2016年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q26961018",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X-T2%2020160716a.jpg?width=800",
+      "caption": "X-T2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q26961018"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Fujifilm X-T2",
+      "url": "https://www.wikidata.org/wiki/Q26961018"
+    }
+  ],
+  "qid": "Q26961018",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

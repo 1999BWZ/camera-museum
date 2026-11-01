@@ -1,0 +1,37 @@
+{
+  "id": "minolta-sr-2",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "SR-2",
+  "year": 1958,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1958 年发布",
+  "description": "The Minolta SR-2 was introduced in 1958 as the first 35mm SLR camera from Chiyoda Kōgaku Seikō.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta SR-2"
+  },
+  "images": [
+    {
+      "remote_url": "https://live.staticflickr.com/65535/50914985893_444859bcea_w.jpg",
+      "caption": "SR-2",
+      "source": "Flickr（Christoph Batz）",
+      "license": "CC，见原页面",
+      "url": "https://flic.kr/p/2kzbBsn"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta SR-2",
+      "url": "https://camera-wiki.org/wiki/Minolta%20SR-2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "palma-brilliant-and-rosko-brilliant",
+  "brand": "Palma",
+  "brand_cn": "",
+  "brand_slug": "palma",
+  "country": "待补充",
+  "manufacturer": "Palma",
+  "model": "Brilliant and Rosko Brilliant",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Palma胶片相机，1955 年发布",
+  "description": "__NOTOC__\n\nThe Palma Brilliant and Rosko Brilliant are Japanese 6×6 pseudo TLR cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Palma Brilliant and Rosko Brilliant"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Palma Brilliant and Rosko Brilliant",
+      "url": "https://camera-wiki.org/wiki/Palma%20Brilliant%20and%20Rosko%20Brilliant"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

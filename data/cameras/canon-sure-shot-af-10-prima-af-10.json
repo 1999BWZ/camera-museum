@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-af-10-prima-af-10",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot AF-10/Prima AF-10",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，2003 年发布",
+  "description": "A 2003 model from Canon's phenomenally successful Sure Shot range, this compact film camera - known as the 'Prima AF-10' in Europe - has a uniquely wide 26mm lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot AF-10/Prima AF-10"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot AF-10/Prima AF-10",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20AF-10/Prima%20AF-10"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "wembley-sports",
+  "brand": "Wembley",
+  "brand_cn": "",
+  "brand_slug": "wembley",
+  "country": "英国",
+  "manufacturer": "Wembley",
+  "model": "Sports",
+  "year": 1950,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wembley胶片相机，1950 年发布",
+  "description": "The Wembley Sports is a Bakelite camera made in England by Truvox, introduced in 1950.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wembley Sports"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wembley Sports",
+      "url": "https://camera-wiki.org/wiki/Wembley%20Sports"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

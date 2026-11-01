@@ -1,0 +1,29 @@
+{
+  "id": "yashica-fr-i",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "FR I",
+  "year": 1977,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡数码单反相机，1977 年发布",
+  "description": "The Yashica FR I was an electronically-controlled SLR camera, first introduced in 1977.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica FR I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica FR I",
+      "url": "https://camera-wiki.org/wiki/Yashica%20FR%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

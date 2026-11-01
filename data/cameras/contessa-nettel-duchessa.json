@@ -1,0 +1,29 @@
+{
+  "id": "contessa-nettel-duchessa",
+  "brand": "Contessa-Nettel",
+  "brand_cn": "",
+  "brand_slug": "contessa-nettel",
+  "country": "待补充",
+  "manufacturer": "Contessa-Nettel",
+  "model": "Duchessa",
+  "year": 1913,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Contessa-Nettel折叠相机，1913 年发布",
+  "description": "The Duchessa is a strut-folding camera for 4.5x6cm plates (in single metal holders) or film-packs, made by Contessa-Nettel from 1913-25., p214.Duchessa with Staeble Doppel-Anastigmat Isoplast, sold by LP Foto Auktioner in May 2022 (sadly not shown any longer at their website).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Duchessa (strut-folding)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Duchessa (strut-folding)",
+      "url": "https://camera-wiki.org/wiki/Duchessa%20%28strut-folding%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

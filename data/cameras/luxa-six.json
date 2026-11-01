@@ -1,0 +1,29 @@
+{
+  "id": "luxa-six",
+  "brand": "Luxa",
+  "brand_cn": "",
+  "brand_slug": "luxa",
+  "country": "待补充",
+  "manufacturer": "Luxa",
+  "model": "Six",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Luxa折叠相机，1953 年发布",
+  "description": "This is a Wolf Luxa Six folding camera for 6×6 cm exposures on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Luxa Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Luxa Six",
+      "url": "https://camera-wiki.org/wiki/Luxa%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

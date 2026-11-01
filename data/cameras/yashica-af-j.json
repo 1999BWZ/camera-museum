@@ -1,0 +1,29 @@
+{
+  "id": "yashica-af-j",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "AF-j",
+  "year": 1987,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡便携相机，1987 年发布",
+  "description": "The Yashica AF-j is a typical early fully automatic compact camera, made in 1987 by Kyocera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica AF-j"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica AF-j",
+      "url": "https://camera-wiki.org/wiki/Yashica%20AF-j"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

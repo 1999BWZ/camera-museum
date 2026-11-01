@@ -1,0 +1,29 @@
+{
+  "id": "ensign-folding-reflex",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "待补充",
+  "manufacturer": "Ensign",
+  "model": "Folding Reflex",
+  "year": 1911,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign折叠相机，1911 年发布",
+  "description": "The Ensign Folding Reflex is a large-format SLR camera for plates (at least 9x12cm and quarter-plate, as offered in the advertisement shown here).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Folding Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Folding Reflex",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Folding%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

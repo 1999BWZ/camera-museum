@@ -1,0 +1,29 @@
+{
+  "id": "okada-daiichi-zenobia-35",
+  "brand": "Okada/Daiichi",
+  "brand_cn": "",
+  "brand_slug": "okada-daiichi",
+  "country": "待补充",
+  "manufacturer": "Okada/Daiichi",
+  "model": "Zenobia 35",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Okada/Daiichi旁轴相机，1957 年发布",
+  "description": "The Zenobia 35 is a Japanese 35mm rangefinder camera made by Zenobia Kōgaku (former Daiichi Kōgaku) in 1957–8.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenobia 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenobia 35",
+      "url": "https://camera-wiki.org/wiki/Zenobia%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

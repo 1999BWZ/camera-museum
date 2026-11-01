@@ -1,0 +1,29 @@
+{
+  "id": "kodak-brownie-flash-b",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Brownie Flash B",
+  "year": 1958,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1958 年发布",
+  "description": "The Brownie Flash B is a box camera taking 2&frac14; &times; 3&frac14;\" frames on 620 film, made of sheet metal by Kodak Ltd.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Brownie Flash B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Brownie Flash B",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Brownie%20Flash%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

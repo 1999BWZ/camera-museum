@@ -1,0 +1,29 @@
+{
+  "id": "rollei-35-rf",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "35 RF",
+  "year": 2002,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来旁轴相机，2002 年发布",
+  "description": "The Rollei 35 RF (2002) is a version of the Cosina Voigtländer Bessa R2 marketed not by Cosina but instead by Rollei, complete with a Rollei Sonnar 40mm f/2.8 HFT lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei 35 RF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei 35 RF",
+      "url": "https://camera-wiki.org/wiki/Rollei%2035%20RF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

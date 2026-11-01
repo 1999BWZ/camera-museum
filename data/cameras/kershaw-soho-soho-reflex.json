@@ -1,0 +1,29 @@
+{
+  "id": "kershaw-soho-soho-reflex",
+  "brand": "Kershaw-Soho",
+  "brand_cn": "",
+  "brand_slug": "kershaw-soho",
+  "country": "英国",
+  "manufacturer": "Kershaw-Soho",
+  "model": "Soho Reflex",
+  "year": 1929,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kershaw-Soho胶片单反相机，1929 年发布",
+  "description": "The Soho Reflex is a large-format single-lens reflex camera made from about 1905 to the 1940s[http://www.earlyphotography.co.uk/site/entry_C34.html Early Photography].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Soho Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Soho Reflex",
+      "url": "https://camera-wiki.org/wiki/Soho%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

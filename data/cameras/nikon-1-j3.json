@@ -1,0 +1,32 @@
+{
+  "id": "nikon-1-j3",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "1 J3",
+  "year": 2013,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康无反相机，2013 年发布",
+  "description": "尼康于2013年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3341723",
+    "多语言词条数": "4"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon 1 J3",
+      "url": "https://www.wikidata.org/wiki/Q3341723"
+    }
+  ],
+  "qid": "Q3341723",
+  "sitelinks": 4,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lindenblatt-kl-2",
+  "brand": "Lindenblatt",
+  "brand_cn": "",
+  "brand_slug": "lindenblatt",
+  "country": "美国",
+  "manufacturer": "Lindenblatt",
+  "model": "KL-2",
+  "year": 1983,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lindenblatt数码单反相机，1983 年发布",
+  "description": "Lindenblatt was a private-label brand from New York City retailer Cambridge Camera Exchange, evidently named for the company's founder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lindenblatt KL-2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lindenblatt KL-2",
+      "url": "https://camera-wiki.org/wiki/Lindenblatt%20KL-2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

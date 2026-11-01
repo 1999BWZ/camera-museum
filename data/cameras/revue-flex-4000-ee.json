@@ -1,0 +1,29 @@
+{
+  "id": "revue-flex-4000-ee",
+  "brand": "Revue",
+  "brand_cn": "",
+  "brand_slug": "revue",
+  "country": "待补充",
+  "manufacturer": "Revue",
+  "model": "flex 4000 EE",
+  "year": 1974,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Revue数码单反相机，1974 年发布",
+  "description": "The Revueflex 4000EE is a rebadged Chinon CE Memotron SLR camera sold c.1974[https://kameramuseum.de/objekte/revue-revueflex-4000-ee/ Revueflex 4000 EE page] at [https://kameramuseum.de/ Kurt Tauber's Deutsches Kameramuseum] (in German) by Foto-Quelle in Europe (the Revueflex 5000 EE rebadges the Ch",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revueflex 4000 EE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revueflex 4000 EE",
+      "url": "https://camera-wiki.org/wiki/Revueflex%204000%20EE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-zoom-prima-zoom-autoboy-zoom",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot Zoom/Prima Zoom/Autoboy Zoom",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1988 年发布",
+  "description": "This 1988 camera labeled Canon Zoom on its front (with no other letters or numbers) is a significant model in the company's long-running point & shoot series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot Zoom/Prima Zoom/Autoboy Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot Zoom/Prima Zoom/Autoboy Zoom",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20Zoom/Prima%20Zoom/Autoboy%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-klapp-camera",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Klapp-Camera",
+  "year": 1911,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann折叠相机，1911 年发布",
+  "description": "== Ernemann Klapp-Camera Mod.I ==\n\n\n\n\n\nThe Ernemann’s Klapp-Camera Mod.I was in production from 1901 to c.1911, in 3 types.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Klapp-Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Klapp-Camera",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Klapp-Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

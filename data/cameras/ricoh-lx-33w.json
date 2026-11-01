@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-lx-33w",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "LX-33W",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光取景器相机，1993 年发布",
+  "description": "__NOTOC__\n\nThe LX-33W is a fixed-focus compact camera for 35mm film, introduced by Japanese manufacturer Ricoh in 1993.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh LX-33W"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh LX-33W",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20LX-33W"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

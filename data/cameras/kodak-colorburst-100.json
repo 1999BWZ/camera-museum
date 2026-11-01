@@ -1,0 +1,29 @@
+{
+  "id": "kodak-colorburst-100",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Colorburst 100",
+  "year": 1978,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达一次成像相机，1978 年发布",
+  "description": "The Colorburst 100 is an instant picture camera introduced by Kodak in 1978 - costing $45.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Colorburst 100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Colorburst 100",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Colorburst%20100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

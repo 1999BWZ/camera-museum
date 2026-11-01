@@ -1,0 +1,29 @@
+{
+  "id": "nikon-coolpix-600",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Coolpix 600",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码相机，1998 年发布",
+  "description": "The Coolpix 600 is a digital compact camera introduced by Nikon in 1998[https://imaging.nikon.com/imaging/information/products_history/1990/#y_1998 Nikon Coolpix 600, Year 1998 product] at [https://imaging.nikon.com/imaging/information/products_history/ Nikon Product History].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Coolpix 600"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Coolpix 600",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Coolpix%20600"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

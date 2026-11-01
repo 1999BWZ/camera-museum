@@ -1,0 +1,29 @@
+{
+  "id": "kodak-dcs-760",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "DCS 760",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码相机，2001 年发布",
+  "description": "The DCS 760 is a DSLR camera based upon the body of a Nikon F5 35mm film camera and built by Kodak in 2001.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak DCS 760"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak DCS 760",
+      "url": "https://camera-wiki.org/wiki/Kodak%20DCS%20760"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-110ef",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "中国",
+  "manufacturer": "Vivitar",
+  "model": "110EF",
+  "year": 1991,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片相机，1991 年发布",
+  "description": "The Vivitar 110EF is yet another camera for 110 film, and probably sold under other brand names as well.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar 110EF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar 110EF",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20110EF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

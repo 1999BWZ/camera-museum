@@ -1,0 +1,29 @@
+{
+  "id": "yashica-electro-35-gl",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Electro 35 GL",
+  "year": 1974,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡旁轴相机，1974 年发布",
+  "description": "Despite the great sales success of the Electro 35 series, in about 1974 Page 1026.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Electro 35 GL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Electro 35 GL",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Electro%2035%20GL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

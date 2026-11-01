@@ -1,0 +1,29 @@
+{
+  "id": "fex-indo-mosquito-i",
+  "brand": "Fex Indo",
+  "brand_cn": "",
+  "brand_slug": "fex-indo",
+  "country": "法国",
+  "manufacturer": "Fex Indo",
+  "model": "Mosquito I",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fex Indo取景器相机，1955 年发布",
+  "description": "A camera from the French company Fex for 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mosquito I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mosquito I",
+      "url": "https://camera-wiki.org/wiki/Mosquito%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

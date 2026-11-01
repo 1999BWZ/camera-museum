@@ -1,0 +1,29 @@
+{
+  "id": "revue-flex-1001",
+  "brand": "Revue",
+  "brand_cn": "",
+  "brand_slug": "revue",
+  "country": "待补充",
+  "manufacturer": "Revue",
+  "model": "flex 1001",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Revue胶片单反相机，1976 年发布",
+  "description": "The Revueflex 1001 is a basic stopdown-metering 35mm SLR rebranded and distributed by Foto-Quelle in Germany c.1976[https://kameramuseum.de/objekte/revue-revueflex-1001/ Revueflex 1001 page] at [https://kameramuseum.de/ Kurt Tauber's Deutsches Kameramuseum] (in German).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revueflex 1001"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revueflex 1001",
+      "url": "https://camera-wiki.org/wiki/Revueflex%201001"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

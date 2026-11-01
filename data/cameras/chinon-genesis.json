@@ -1,0 +1,29 @@
+{
+  "id": "chinon-genesis",
+  "brand": "Chinon",
+  "brand_cn": "",
+  "brand_slug": "chinon",
+  "country": "待补充",
+  "manufacturer": "Chinon",
+  "model": "Genesis",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Chinon胶片单反相机，1988 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n\n|}\nThe Genesis series from Chinon helped define the the late 1980s and early 1990s category of 35mm \"bridge cameras.\" These were models offering more advanced features associated with SLRs (parallax-free framing and a well-specified zoom lens), but with \"point & sh",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chinon Genesis"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chinon Genesis",
+      "url": "https://camera-wiki.org/wiki/Chinon%20Genesis"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

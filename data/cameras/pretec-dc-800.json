@@ -1,0 +1,29 @@
+{
+  "id": "pretec-dc-800",
+  "brand": "Pretec",
+  "brand_cn": "",
+  "brand_slug": "pretec",
+  "country": "台湾",
+  "manufacturer": "Pretec",
+  "model": "DC-800",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pretec数码相机，1999 年发布",
+  "description": "The Pretec DC-800 is a digital camera from circa 1999.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pretec DC-800"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pretec DC-800",
+      "url": "https://camera-wiki.org/wiki/Pretec%20DC-800"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

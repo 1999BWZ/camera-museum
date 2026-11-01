@@ -1,0 +1,29 @@
+{
+  "id": "pentax-k-1",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "K-1",
+  "year": 2016,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2016 年发布",
+  "description": "Pentax K-1 is the flagship full frame digital SLR by Ricoh Imaging introduced in 2016.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax K-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax K-1",
+      "url": "https://camera-wiki.org/wiki/Pentax%20K-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

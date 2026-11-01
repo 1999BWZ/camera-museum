@@ -1,0 +1,29 @@
+{
+  "id": "vredeborch-slomexa",
+  "brand": "Vredeborch",
+  "brand_cn": "",
+  "brand_slug": "vredeborch",
+  "country": "待补充",
+  "manufacturer": "Vredeborch",
+  "model": "Slomexa",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vredeborch盒式相机，1950 年发布",
+  "description": "The Slomexa is a sheet metal box camera made in Germany by Vredeborch, c.1950.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vredeborch Slomexa"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vredeborch Slomexa",
+      "url": "https://camera-wiki.org/wiki/Vredeborch%20Slomexa"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

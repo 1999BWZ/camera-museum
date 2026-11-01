@@ -1,0 +1,29 @@
+{
+  "id": "kmz-b",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "B",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ胶片单反相机，1968 年发布",
+  "description": "The Zenit-B is one of the Zenit series of 35 mm SLR cameras, made by the Russian maker KMZ between 1968 and 78.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit B",
+      "url": "https://camera-wiki.org/wiki/Zenit%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

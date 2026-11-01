@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-m",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS M",
+  "year": 2012,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能无反相机，2012 年发布",
+  "description": "佳能于2012年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q63318",
+    "多语言词条数": "15"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EOS%20M%20weiss%20Frontal%20mit%20Speedlite%2090EX.jpg?width=800",
+      "caption": "EOS M",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q63318"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS M",
+      "url": "https://www.wikidata.org/wiki/Q63318"
+    }
+  ],
+  "qid": "Q63318",
+  "sitelinks": 15,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "vivitar-v335",
+  "brand": "Vivitar",
+  "brand_cn": "",
+  "brand_slug": "vivitar",
+  "country": "待补充",
+  "manufacturer": "Vivitar",
+  "model": "V335",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vivitar胶片单反相机，1987 年发布",
+  "description": "The Vivitar V335 is a 35mm SLR camera manufactured by Cosina and marketed by Vivitar in the late 1980s.[https://books.google.com/books?id=hU8sHSz9ZkYC&pg=PA37&dq=vivitar+V2000&hl=en&sa=X&ved=2ahUKEwiR6JzAk5rwAhU1oFsKHbHhDCEQ6AEwA3oECAEQAg#v=onepage&q=vivitar%20V2000&f=false A rundown of the latest 3",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Vivitar V335"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Vivitar V335",
+      "url": "https://camera-wiki.org/wiki/Vivitar%20V335"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

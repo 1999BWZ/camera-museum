@@ -1,0 +1,29 @@
+{
+  "id": "red-flag-20",
+  "brand": "Red",
+  "brand_cn": "",
+  "brand_slug": "red",
+  "country": "中国",
+  "manufacturer": "Red",
+  "model": "Flag 20",
+  "year": 1973,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Red旁轴相机，1973 年发布",
+  "description": "The Red Flag 20 (红旗 20; Hongqi 20) is a copy of the Leica M4 made in Shanghai in about 1971-77 (McKeown suggests 1971-76, but the serial number of the camera illustrated here suggests 1977, and serial no.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Red Flag 20"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Red Flag 20",
+      "url": "https://camera-wiki.org/wiki/Red%20Flag%2020"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

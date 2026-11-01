@@ -1,0 +1,29 @@
+{
+  "id": "kigawa-tsubasa-chrome",
+  "brand": "Kigawa",
+  "brand_cn": "",
+  "brand_slug": "kigawa",
+  "country": "待补充",
+  "manufacturer": "Kigawa",
+  "model": "Tsubasa Chrome",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kigawa取景器相机，1937 年发布",
+  "description": "The Tsubasa Chrome is a Japanese camera taking 4×6.5cm and 3×4cm exposures on 127 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tsubasa Chrome"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tsubasa Chrome",
+      "url": "https://camera-wiki.org/wiki/Tsubasa%20Chrome"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

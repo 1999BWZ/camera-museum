@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-1600-f",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "1600 F",
+  "year": 1948,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏胶片单反相机，1948 年发布",
+  "description": "The Hasselblad 1600F camera was introduced in New York in October 1948.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad 1600 F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad 1600 F",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%201600%20F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

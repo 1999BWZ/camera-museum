@@ -1,0 +1,29 @@
+{
+  "id": "braun-norca",
+  "brand": "Braun",
+  "brand_cn": "",
+  "brand_slug": "braun",
+  "country": "待补充",
+  "manufacturer": "Braun",
+  "model": "Norca",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Braun折叠相机，1952 年发布",
+  "description": "There is also a series of 35 mm cameras called Norca, made in France by FAP.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Norca (6×9)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Norca (6×9)",
+      "url": "https://camera-wiki.org/wiki/Norca%20%286%C3%979%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fuji-dl-250-tele",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "DL-250 Tele",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片相机，1987 年发布",
+  "description": "DL-250 Tele is a dual-lensed compact auto-focus camera from Fuji, offering 34mm and 53mm focal lengths.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji DL-250 Tele"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji DL-250 Tele",
+      "url": "https://camera-wiki.org/wiki/Fuji%20DL-250%20Tele"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

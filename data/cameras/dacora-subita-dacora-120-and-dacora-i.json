@@ -1,0 +1,29 @@
+{
+  "id": "dacora-subita-dacora-120-and-dacora-i",
+  "brand": "Dacora",
+  "brand_cn": "",
+  "brand_slug": "dacora",
+  "country": "待补充",
+  "manufacturer": "Dacora",
+  "model": "Subita, Dacora 120 and Dacora I",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dacora折叠相机，1953 年发布",
+  "description": "The Subita is a folding camera with optical viewfinder for 120 film made by the German manufacturer Dacora.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Subita, Dacora 120 and Dacora I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Subita, Dacora 120 and Dacora I",
+      "url": "https://camera-wiki.org/wiki/Subita%2C%20Dacora%20120%20and%20Dacora%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

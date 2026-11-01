@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-del-sol-prima-sol-autoboy-se",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot Del Sol/Prima Sol/Autoboy SE",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1995 年发布",
+  "description": "A March 1995 model from Canon's very successful Sure Shot range, the Sure Shot Del Sol - known as the Prima Sol in continental Europe and Autoboy SE in Japan - was the world's first camera using solar energy for all its power requirements.[http://global.canon/en/c-museum/product/film178.html Canon C",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot Del Sol/Prima Sol/Autoboy SE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot Del Sol/Prima Sol/Autoboy SE",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20Del%20Sol/Prima%20Sol/Autoboy%20SE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

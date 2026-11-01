@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-regal-olympic",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Regal Olympic",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光取景器相机，1937 年发布",
+  "description": "The Regal Olympic is a viewfinder camera taking 4×6.5cm and 3×4cm pictures on 127 film, announced in late 1937 by Asahi Bussan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Regal Olympic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Regal Olympic",
+      "url": "https://camera-wiki.org/wiki/Regal%20Olympic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

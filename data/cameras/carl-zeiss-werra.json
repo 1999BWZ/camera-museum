@@ -1,0 +1,29 @@
+{
+  "id": "carl-zeiss-werra",
+  "brand": "Carl Zeiss",
+  "brand_cn": "",
+  "brand_slug": "carl-zeiss",
+  "country": "待补充",
+  "manufacturer": "Carl Zeiss",
+  "model": "Werra",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Carl Zeiss取景器相机，1954 年发布",
+  "description": "Carl Zeiss于1954年发布的取景器相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Werra"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Werra",
+      "url": "https://camera-wiki.org/wiki/Werra"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

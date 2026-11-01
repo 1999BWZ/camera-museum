@@ -1,0 +1,29 @@
+{
+  "id": "underwater-sea-sea-sx-1000",
+  "brand": "Underwater",
+  "brand_cn": "",
+  "brand_slug": "underwater",
+  "country": "待补充",
+  "manufacturer": "Underwater",
+  "model": "Sea & Sea SX-1000",
+  "year": 1994,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Underwater胶片单反相机，1994 年发布",
+  "description": "In 1994According to the [https://www.seaandsea.jp/information/brandhistory.html Sea & Sea company history] at [https://www.seaandsea.jp/ the company's website]., Sea & Sea introduced a complete underwater SLR system including a K-mount body, a waterproof housing, and several dedicated lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sea & Sea SX-1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sea & Sea SX-1000",
+      "url": "https://camera-wiki.org/wiki/Sea%20%26%20Sea%20SX-1000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-gw690",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca GW690",
+  "year": 1978,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji旁轴相机，1978 年发布",
+  "description": "The Fujica GW690 Professional and the nine similar models that followed it are leaf-shutter fixed-lens rangefinder cameras for 120/220 film that Fuji brought out as successors to its interchangeable-lens Fujica GL690 and GM670 Professional models.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica GW690"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica GW690",
+      "url": "https://camera-wiki.org/wiki/Fujica%20GW690"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

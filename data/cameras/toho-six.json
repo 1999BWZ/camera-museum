@@ -1,0 +1,29 @@
+{
+  "id": "toho-six",
+  "brand": "Toho",
+  "brand_cn": "",
+  "brand_slug": "toho",
+  "country": "待补充",
+  "manufacturer": "Toho",
+  "model": "Six",
+  "year": 1953,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Toho折叠相机，1953 年发布",
+  "description": "The Toho Six is a Japanese 6&times;6cm folding camera, made in 1953 by Tōhō Kōgaku.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Toho Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Toho Six",
+      "url": "https://camera-wiki.org/wiki/Toho%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

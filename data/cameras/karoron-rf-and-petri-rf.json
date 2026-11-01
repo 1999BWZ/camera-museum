@@ -1,0 +1,29 @@
+{
+  "id": "karoron-rf-and-petri-rf",
+  "brand": "Karoron",
+  "brand_cn": "",
+  "brand_slug": "karoron",
+  "country": "待补充",
+  "manufacturer": "Karoron",
+  "model": "RF and Petri RF",
+  "year": 1952,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Karoron旁轴相机，1952 年发布",
+  "description": "The Petri RF, Karoron RF and Karoron SII are different model names used for the same camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Karoron RF and Petri RF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Karoron RF and Petri RF",
+      "url": "https://camera-wiki.org/wiki/Karoron%20RF%20and%20Petri%20RF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

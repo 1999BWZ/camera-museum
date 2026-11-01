@@ -1,0 +1,29 @@
+{
+  "id": "autoload-342",
+  "brand": "Autoload",
+  "brand_cn": "",
+  "brand_slug": "autoload",
+  "country": "美国",
+  "manufacturer": "Autoload",
+  "model": "342",
+  "year": 1962,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Autoload旁轴相机，1962 年发布",
+  "description": "The Bell & Howell Autoload 342 is a quite sophisticated viewfinder camera for type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Autoload 342"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Autoload 342",
+      "url": "https://camera-wiki.org/wiki/Autoload%20342"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

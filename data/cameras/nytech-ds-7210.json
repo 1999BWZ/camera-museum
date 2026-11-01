@@ -1,0 +1,29 @@
+{
+  "id": "nytech-ds-7210",
+  "brand": "Nytech",
+  "brand_cn": "",
+  "brand_slug": "nytech",
+  "country": "待补充",
+  "manufacturer": "Nytech",
+  "model": "DS-7210",
+  "year": 2007,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nytech数码相机，2007 年发布",
+  "description": "The Nytech DS-7210 is a digital compact camera distributed by TARGA GmbH.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nytech DS-7210"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nytech DS-7210",
+      "url": "https://camera-wiki.org/wiki/Nytech%20DS-7210"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minox-35-gt-x",
+  "brand": "Minox",
+  "brand_cn": "",
+  "brand_slug": "minox",
+  "country": "待补充",
+  "manufacturer": "Minox",
+  "model": "35 GT-X",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minox折叠相机，1998 年发布",
+  "description": "Minox 35 GT-X is a 35mm film viewfinder camera made by Minox in 1998.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minox 35 GT-X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minox 35 GT-X",
+      "url": "https://camera-wiki.org/wiki/Minox%2035%20GT-X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

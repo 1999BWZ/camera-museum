@@ -1,0 +1,29 @@
+{
+  "id": "epson-r-d1",
+  "brand": "Epson",
+  "brand_cn": "",
+  "brand_slug": "epson",
+  "country": "待补充",
+  "manufacturer": "Epson",
+  "model": "R-D1",
+  "year": 2004,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Epson旁轴相机，2004 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Epson R-D1, based on the Voigtländer Bessa, is the first (2004) digital rangefinder camera ever made.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Epson R-D1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Epson R-D1",
+      "url": "https://camera-wiki.org/wiki/Epson%20R-D1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

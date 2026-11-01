@@ -1,0 +1,29 @@
+{
+  "id": "sears-tower-no-1",
+  "brand": "Sears",
+  "brand_cn": "",
+  "brand_slug": "sears",
+  "country": "美国",
+  "manufacturer": "Sears",
+  "model": "Tower No. 1",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sears盒式相机，1955 年发布",
+  "description": "Sears于1955年发布的盒式相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tower No. 1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tower No. 1",
+      "url": "https://camera-wiki.org/wiki/Tower%20No.%201"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

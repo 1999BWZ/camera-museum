@@ -1,0 +1,29 @@
+{
+  "id": "topcon-rs",
+  "brand": "Topcon",
+  "brand_cn": "",
+  "brand_slug": "topcon",
+  "country": "待补充",
+  "manufacturer": "Topcon",
+  "model": "RS",
+  "year": 1962,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Topcon胶片单反相机，1962 年发布",
+  "description": "The Topcon RS model 32A, is a meter-less early version of the Topcon RE Super model 46A.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Topcon RS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Topcon RS",
+      "url": "https://camera-wiki.org/wiki/Topcon%20RS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

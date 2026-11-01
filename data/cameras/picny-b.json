@@ -1,0 +1,29 @@
+{
+  "id": "picny-b",
+  "brand": "Picny",
+  "brand_cn": "",
+  "brand_slug": "picny",
+  "country": "待补充",
+  "manufacturer": "Picny",
+  "model": "B",
+  "year": 1948,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Picny胶片相机，1948 年发布",
+  "description": "See also the Picny (3×4cm) and the Picny 35.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Picny B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Picny B",
+      "url": "https://camera-wiki.org/wiki/Picny%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

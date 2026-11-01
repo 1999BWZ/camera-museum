@@ -1,0 +1,29 @@
+{
+  "id": "beauty-spy-16-and-beauty-16",
+  "brand": "Beauty",
+  "brand_cn": "",
+  "brand_slug": "beauty",
+  "country": "待补充",
+  "manufacturer": "Beauty",
+  "model": "Spy 16 and Beauty 16",
+  "year": 1949,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beauty微型相机，1949 年发布",
+  "description": "The Spy 16 (スパイ16) and Beauty 16 (ビューティ16) are Japanese subminiature cameras made by Taiyōdō in the late 1940s and early 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Spy 16 and Beauty 16"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Spy 16 and Beauty 16",
+      "url": "https://camera-wiki.org/wiki/Spy%2016%20and%20Beauty%2016"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-2-8-gx",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex 2.8 GX",
+  "year": 1987,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来中画幅相机，1987 年发布",
+  "description": "The Rolleiflex 2.8 GX is a medium format TLR camera manufactured by Rollei Fototechnic GmbH.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex 2.8 GX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex 2.8 GX",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%202.8%20GX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

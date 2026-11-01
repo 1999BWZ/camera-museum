@@ -1,0 +1,29 @@
+{
+  "id": "bencini-comet",
+  "brand": "Bencini",
+  "brand_cn": "",
+  "brand_slug": "bencini",
+  "country": "意大利",
+  "manufacturer": "Bencini",
+  "model": "Comet",
+  "year": 1948,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bencini胶片相机，1948 年发布",
+  "description": "The original Bencini Comet cameras are viewfinder cameras for either 3x4 or 4x4 cm pictures on 127 film, made in Italy by CMF Bencini from 1948 into the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bencini Comet"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bencini Comet",
+      "url": "https://camera-wiki.org/wiki/Bencini%20Comet"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

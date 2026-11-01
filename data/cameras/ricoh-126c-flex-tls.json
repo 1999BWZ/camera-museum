@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-126c-flex-tls",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "126C-Flex TLS",
+  "year": 1969,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1969 年发布",
+  "description": "The 126C-Flex TLS is an SLR for 126 film, with interchangeable lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh 126C-Flex TLS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh 126C-Flex TLS",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20126C-Flex%20TLS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

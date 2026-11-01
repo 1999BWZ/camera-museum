@@ -1,0 +1,29 @@
+{
+  "id": "canon-snappy-el-macro-prima-junior-s-macro-cb35-m",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Snappy EL Macro/Prima Junior S Macro/CB35 M",
+  "year": 1992,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能取景器相机，1992 年发布",
+  "description": "The Prima Junior S Macro (or Snappy EL Macro or CB35M in various countries) is a compact plastic point-and-shoot camera made by Canon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Snappy EL Macro/Prima Junior S Macro/CB35 M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Snappy EL Macro/Prima Junior S Macro/CB35 M",
+      "url": "https://camera-wiki.org/wiki/Canon%20Snappy%20EL%20Macro/Prima%20Junior%20S%20Macro/CB35%20M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

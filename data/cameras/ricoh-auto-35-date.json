@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-auto-35-date",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Auto 35 Date",
+  "year": 1991,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1991 年发布",
+  "description": "This camera should not be confused with Ricoh's 1960's scale focus focus viewfinder camera of the same name.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh Auto 35 Date"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh Auto 35 Date",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20Auto%2035%20Date"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

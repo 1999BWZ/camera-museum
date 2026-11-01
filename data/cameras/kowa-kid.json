@@ -1,0 +1,29 @@
+{
+  "id": "kowa-kid",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "Kid",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa取景器相机，1960 年发布",
+  "description": "The Kowa Kid (コウワキッド) is a Japanese inexpensive camera taking 4×6.5cm and 4×4cm exposures on 127 film, made in 1960 by Kowa.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa Kid"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa Kid",
+      "url": "https://camera-wiki.org/wiki/Kowa%20Kid"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

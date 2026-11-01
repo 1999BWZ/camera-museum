@@ -1,0 +1,29 @@
+{
+  "id": "barn-door-ingo",
+  "brand": "Barn door",
+  "brand_cn": "",
+  "brand_slug": "barn-door",
+  "country": "待补充",
+  "manufacturer": "Barn door",
+  "model": "Ingo",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Barn door折叠相机，1932 年发布",
+  "description": "The Ingo is a barn-door folding camera for 3x4 cm images on 127 film, made by Glunz in about 1937.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ingo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ingo",
+      "url": "https://camera-wiki.org/wiki/Ingo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

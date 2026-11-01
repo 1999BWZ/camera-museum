@@ -1,0 +1,29 @@
+{
+  "id": "praktica-bcs",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "BCS",
+  "year": 1989,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康数码单反相机，1989 年发布",
+  "description": "The BCS is a 35mm SLR camera released by Praktica in 1989.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica BCS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica BCS",
+      "url": "https://camera-wiki.org/wiki/Praktica%20BCS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

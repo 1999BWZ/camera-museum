@@ -1,0 +1,29 @@
+{
+  "id": "king-iid",
+  "brand": "King",
+  "brand_cn": "",
+  "brand_slug": "king",
+  "country": "待补充",
+  "manufacturer": "King",
+  "model": "IId",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "King旁轴相机，1954 年发布",
+  "description": "{| class=\"toccolours plainlinks\" align= \"right\" style=\"clear: both; text-align: left; margin: 0 0 1em 1em;\"\n|-\n!",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Regula IId"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Regula IId",
+      "url": "https://camera-wiki.org/wiki/Regula%20IId"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

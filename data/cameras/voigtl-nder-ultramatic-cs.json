@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-ultramatic-cs",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Ultramatic CS",
+  "year": 1965,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer数码单反相机，1965 年发布",
+  "description": "The Ultramatic CS is a 35mm leaf shutter SLR made by Voigtländer in 1965.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ultramatic CS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ultramatic CS",
+      "url": "https://camera-wiki.org/wiki/Ultramatic%20CS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

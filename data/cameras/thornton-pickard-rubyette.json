@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-rubyette",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "待补充",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Rubyette",
+  "year": 1934,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard数码单反相机，1934 年发布",
+  "description": "The Rubyette is an SLR camera for small plates, made in about 1934 by Thornton-Pickard.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rubyette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rubyette",
+      "url": "https://camera-wiki.org/wiki/Rubyette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

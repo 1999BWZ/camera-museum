@@ -1,0 +1,29 @@
+{
+  "id": "nettel-piccolette",
+  "brand": "Nettel",
+  "brand_cn": "",
+  "brand_slug": "nettel",
+  "country": "待补充",
+  "manufacturer": "Nettel",
+  "model": "Piccolette",
+  "year": 1919,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nettel折叠相机，1919 年发布",
+  "description": "The Piccolette is a strut-folding camera for 127 film made by Contessa-Nettel and its successor company Zeiss Ikon in Stuttgart from 1919 to 1930.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Piccolette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Piccolette",
+      "url": "https://camera-wiki.org/wiki/Piccolette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

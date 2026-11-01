@@ -1,0 +1,29 @@
+{
+  "id": "minolta-riva-100-af",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Riva 100 AF",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1996 年发布",
+  "description": "The Minolta Riva 100 AF is a cheap autofocus compact camera released in 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Riva 100 AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Riva 100 AF",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Riva%20100%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-500",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic 500",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1963 年发布",
+  "description": "The Kodak Typ 048 Instamatic 500 was a manual-exposure viewfinder camera for 126 film cartridges—one of the highest-specification models ever to be offered in the Instamatic range.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic 500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic 500",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%20500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

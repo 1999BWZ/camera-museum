@@ -1,0 +1,29 @@
+{
+  "id": "rollei-a-26",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "A 26",
+  "year": 1972,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来便携相机，1972 年发布",
+  "description": "The Rollei A 26 was the most compact of the better cameras for type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rollei A 26"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rollei A 26",
+      "url": "https://camera-wiki.org/wiki/Rollei%20A%2026"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

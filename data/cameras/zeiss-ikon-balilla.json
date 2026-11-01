@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-balilla",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "意大利",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Balilla",
+  "year": 1926,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon盒式相机，1926 年发布",
+  "description": "The Balilla is a box camera for 4.5x6cm exposures, made by Zeiss Ikon for supply to the Italian Fascist boys' club, the Opera Nazionale Balilla (active 1926-37), named after a Genoese boy who supposedly began a revolt against Austro-Hungarian occupation of Genoa in the eighteenth century.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Balilla"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Balilla",
+      "url": "https://camera-wiki.org/wiki/Balilla"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodak-s100",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "S100",
+  "year": 1987,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1987 年发布",
+  "description": "From the Kodak S-series point-and-shoot line, the S100EF featured a (plastic?) 35mm f/4.5 lens and 3 aperture settings.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak S100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak S100",
+      "url": "https://camera-wiki.org/wiki/Kodak%20S100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

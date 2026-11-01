@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-1d-mark-ii-q63382",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS-1D Mark II",
+  "year": 2004,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，2004 年发布",
+  "description": "佳能于2004年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q63382",
+    "多语言词条数": "13"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%201D%20II%20img%200496.jpg?width=800",
+      "caption": "EOS-1D Mark II",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q63382"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS-1D Mark II",
+      "url": "https://www.wikidata.org/wiki/Q63382"
+    }
+  ],
+  "qid": "Q63382",
+  "sitelinks": 13,
+  "imported": "wikidata-5k-2026-11-01"
+}

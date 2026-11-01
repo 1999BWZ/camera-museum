@@ -1,0 +1,29 @@
+{
+  "id": "gomz-liliput",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "苏联",
+  "manufacturer": "GOMZ",
+  "model": "Liliput",
+  "year": 1937,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ胶片相机，1937 年发布",
+  "description": "The Liliput is a camera from the former Soviet Union.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Liliput (GOMZ)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Liliput (GOMZ)",
+      "url": "https://camera-wiki.org/wiki/Liliput%20%28GOMZ%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

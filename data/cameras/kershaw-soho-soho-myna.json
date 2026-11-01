@@ -1,0 +1,29 @@
+{
+  "id": "kershaw-soho-soho-myna",
+  "brand": "Kershaw-Soho",
+  "brand_cn": "",
+  "brand_slug": "kershaw-soho",
+  "country": "英国",
+  "manufacturer": "Kershaw-Soho",
+  "model": "Soho Myna",
+  "year": 1929,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kershaw-Soho折叠相机，1929 年发布",
+  "description": "{|class=floatright plainlinks \n|\n|\n|}\nThe Soho Myna is a 120 film folding camera made in England by Soho Ltd.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Soho Myna"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Soho Myna",
+      "url": "https://camera-wiki.org/wiki/Soho%20Myna"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

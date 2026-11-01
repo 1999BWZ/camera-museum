@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-505si",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 505si",
+  "year": 1998,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1998 年发布",
+  "description": "The Minolta Dynax 505si or Maxxum HTsi Plus is a simplified version of the Dynax 505si Super / Maxxum XTsi / α Sweet.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 505si"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 505si",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%20505si"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "yashica-fx-70-quartz",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "FX-70 Quartz",
+  "year": 1983,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片单反相机，1983 年发布",
+  "description": "The FX-70 is an automatic exposure 35mm SLR camera from Yashica and introduced in 1983.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica FX-70 Quartz"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica FX-70 Quartz",
+      "url": "https://camera-wiki.org/wiki/Yashica%20FX-70%20Quartz"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

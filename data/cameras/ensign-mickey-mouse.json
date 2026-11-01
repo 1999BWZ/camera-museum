@@ -1,0 +1,29 @@
+{
+  "id": "ensign-mickey-mouse",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "待补充",
+  "manufacturer": "Ensign",
+  "model": "Mickey Mouse",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign盒式相机，1935 年发布",
+  "description": "The Ensign Mickey Mouse camera is a small wooden-bodied box camera made by Houghton in about 1935.[https://www.pacificrimcamera.com/rl/02382/02382.pdf Ensign catalogue], dated to about 1936 by [https://www.pacificrimcamera.com/index.htm Pacific Rim], but probably actually 1935 (it offers a 'Silver J",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Mickey Mouse"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Mickey Mouse",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Mickey%20Mouse"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

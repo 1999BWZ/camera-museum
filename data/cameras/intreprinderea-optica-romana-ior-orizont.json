@@ -1,0 +1,29 @@
+{
+  "id": "intreprinderea-optica-romana-ior-orizont",
+  "brand": "Intreprinderea Optica Romana (IOR)",
+  "brand_cn": "",
+  "brand_slug": "intreprinderea-optica-romana-ior",
+  "country": "罗马尼亚",
+  "manufacturer": "Intreprinderea Optica Romana (IOR)",
+  "model": "Orizont",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Intreprinderea Optica Romana (IOR)取景器相机，1960 年发布",
+  "description": "The Orizont or Orizont 1, is a Romanian viewfinder camera produced around 1960 by Intreprinderea Optica Romana (IOR), the Romanian Optical Factory, probably copying the Altix V produced by Eho-Altissa, Dresden, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Orizont"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Orizont",
+      "url": "https://camera-wiki.org/wiki/Orizont"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

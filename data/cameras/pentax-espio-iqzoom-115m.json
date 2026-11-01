@@ -1,0 +1,29 @@
+{
+  "id": "pentax-espio-iqzoom-115m",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Espio/IQZoom 115M",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得便携相机，1996 年发布",
+  "description": "{|class=floatright plainlinks\n||\n\n|-\n||\n\n|-\n|}\nThe Pentax Espio 115(M) is a 35mm compact zoom camera with autofocus made by Pentax, introduced in 1996Copyright date on [https://www.cameramanuals.org/pentax_p&s/pentax_p&s_iqzoom115m.pdf the manual].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Espio/IQZoom 115M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Espio/IQZoom 115M",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Espio/IQZoom%20115M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

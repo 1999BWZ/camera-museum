@@ -1,0 +1,29 @@
+{
+  "id": "mundus-color-60",
+  "brand": "Mundus",
+  "brand_cn": "",
+  "brand_slug": "mundus",
+  "country": "法国",
+  "manufacturer": "Mundus",
+  "model": "Color 60",
+  "year": 1960,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Mundus微型相机，1960 年发布",
+  "description": "The Color 60 is a subminiature camera made by the French company Mundus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mundus Color 60"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mundus Color 60",
+      "url": "https://camera-wiki.org/wiki/Mundus%20Color%2060"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

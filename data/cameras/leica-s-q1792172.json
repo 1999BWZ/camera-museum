@@ -1,0 +1,40 @@
+{
+  "id": "leica-s-q1792172",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "S",
+  "year": 2009,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡中画幅相机，2009 年发布",
+  "description": "徕卡于2009年发布的中画幅相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1792172",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20S2%20IMG%202919-white.jpg?width=800",
+      "caption": "S",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1792172"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica S",
+      "url": "https://www.wikidata.org/wiki/Q1792172"
+    }
+  ],
+  "qid": "Q1792172",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

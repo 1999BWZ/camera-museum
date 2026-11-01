@@ -1,0 +1,29 @@
+{
+  "id": "wista-field-45",
+  "brand": "Wista",
+  "brand_cn": "",
+  "brand_slug": "wista",
+  "country": "待补充",
+  "manufacturer": "Wista",
+  "model": "Field 45",
+  "year": 1972,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wista折叠相机，1972 年发布",
+  "description": "The Wista Field cameras are a range of straightforward wooden-bodied field cameras made in Japan by Wista.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wista Field 45"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wista Field 45",
+      "url": "https://camera-wiki.org/wiki/Wista%20Field%2045"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

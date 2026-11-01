@@ -1,0 +1,29 @@
+{
+  "id": "contax-s",
+  "brand": "Contax",
+  "brand_cn": "康泰时",
+  "brand_slug": "contax",
+  "country": "德国",
+  "manufacturer": "Contax",
+  "model": "S",
+  "year": 1949,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "康泰时数码单反相机，1949 年发布",
+  "description": "== Contax S ==\n{|class=floatleft\n|\n \n|\n \n|}\n\nThe Contax S is a 35mm SLR camera introduced by the East German VEB Zeiss Ikon in 1949.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contax S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contax S",
+      "url": "https://camera-wiki.org/wiki/Contax%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

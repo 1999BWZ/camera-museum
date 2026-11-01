@@ -1,0 +1,40 @@
+{
+  "id": "olympus-e-300-q908948",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-300",
+  "year": 2005,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，2005 年发布",
+  "description": "奥林巴斯于2005年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q908948",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/E-300.jpg?width=800",
+      "caption": "E-300",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q908948"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 奥林巴斯E-300",
+      "url": "https://www.wikidata.org/wiki/Q908948"
+    }
+  ],
+  "qid": "Q908948",
+  "sitelinks": 7,
+  "imported": "wikidata-5k-2026-11-01"
+}

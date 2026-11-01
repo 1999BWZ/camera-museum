@@ -1,0 +1,29 @@
+{
+  "id": "porst-135-l",
+  "brand": "Porst",
+  "brand_cn": "",
+  "brand_slug": "porst",
+  "country": "待补充",
+  "manufacturer": "Porst",
+  "model": "135 L",
+  "year": 1971,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Porst旁轴相机，1971 年发布",
+  "description": "This Porst 135 L rangefinder is another clone made by Cosina, it goes on the long list of small cameras which came in many name variants such as Chinon 35EE, GAF Memo 35 ET, Revue 400S etcetera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Porst 135 L"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Porst 135 L",
+      "url": "https://camera-wiki.org/wiki/Porst%20135%20L"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

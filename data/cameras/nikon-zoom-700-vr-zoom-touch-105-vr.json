@@ -1,0 +1,29 @@
+{
+  "id": "nikon-zoom-700-vr-zoom-touch-105-vr",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "Zoom 700 VR/Zoom-Touch 105 VR",
+  "year": 1994,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1994 年发布",
+  "description": "The Nikon Zoom 700 VR, also known as the Zoom•Touch 105 VR 35mm compact camera was introduced by Nikon in 1994 - part of a series of similar cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon Zoom 700 VR/Zoom-Touch 105 VR"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon Zoom 700 VR/Zoom-Touch 105 VR",
+      "url": "https://camera-wiki.org/wiki/Nikon%20Zoom%20700%20VR/Zoom-Touch%20105%20VR"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

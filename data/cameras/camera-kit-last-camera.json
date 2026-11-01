@@ -1,0 +1,29 @@
+{
+  "id": "camera-kit-last-camera",
+  "brand": "Camera kit",
+  "brand_cn": "",
+  "brand_slug": "camera-kit",
+  "country": "待补充",
+  "manufacturer": "Camera kit",
+  "model": "Last camera",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Camera kit取景器相机，2012 年发布",
+  "description": "The Last Camera is a simple 35 mm camera made in self-assembly kit form, sold under the Powershovel Superheadz brand.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Last camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Last camera",
+      "url": "https://camera-wiki.org/wiki/Last%20camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

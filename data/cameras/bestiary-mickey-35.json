@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-mickey-35",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "待补充",
+  "manufacturer": "Bestiary",
+  "model": "Mickey 35",
+  "year": 1953,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary胶片相机，1953 年发布",
+  "description": "The Mickey 35 is a bakelite-bodied viewfinder camera apparently made by the Miki Camera Company of Tokyo in 1953, p670.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mickey 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mickey 35",
+      "url": "https://camera-wiki.org/wiki/Mickey%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

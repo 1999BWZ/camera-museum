@@ -1,0 +1,29 @@
+{
+  "id": "olympus-af-10-twin",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "AF-10 Twin",
+  "year": 1991,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片单反相机，1991 年发布",
+  "description": "The Olympus AF-10 Twin of 1991 has a biaxial (twin-lens) system so the user can switch between a 35mm wide-angle lens and a 70mm telephoto lens at the touch of a button.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus AF-10 Twin"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus AF-10 Twin",
+      "url": "https://camera-wiki.org/wiki/Olympus%20AF-10%20Twin"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "canon-eos-ix",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "EOS IX",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片单反相机，1996 年发布",
+  "description": "The Canon IX is an SLR camera for the APS film system, introduced in 1996.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon EOS IX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon EOS IX",
+      "url": "https://camera-wiki.org/wiki/Canon%20EOS%20IX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

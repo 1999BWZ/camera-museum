@@ -1,0 +1,29 @@
+{
+  "id": "cosina-ms-2-super",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "MS-2 Super",
+  "year": 1986,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina数码单反相机，1986 年发布",
+  "description": "The Miranda MS-2 Super was a recycling of the Miranda brand by Dixons on an autoexposure SLR actually manufactured by Cosina—specifically in c.1986[https://web.archive.org/web/20200217104914/http://mirandacamera.com/_modelinfo/modelinfo.htm#Cosina Cosina SLRs with K mount badge engineered as \"MIRAND",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Miranda MS-2 Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Miranda MS-2 Super",
+      "url": "https://camera-wiki.org/wiki/Miranda%20MS-2%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

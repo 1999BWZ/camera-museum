@@ -1,0 +1,40 @@
+{
+  "id": "nikon-coolpix-p310",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Coolpix P310",
+  "year": 2012,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2012 年发布",
+  "description": "尼康于2012年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q20872147",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Coolpix%20P310.jpg?width=800",
+      "caption": "Coolpix P310",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q20872147"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Coolpix P310",
+      "url": "https://www.wikidata.org/wiki/Q20872147"
+    }
+  ],
+  "qid": "Q20872147",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

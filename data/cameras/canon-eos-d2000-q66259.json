@@ -1,0 +1,40 @@
+{
+  "id": "canon-eos-d2000-q66259",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "EOS D2000",
+  "year": 1998,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，1998 年发布",
+  "description": "佳能于1998年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q66259",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20EOS%20D2000%20CP%2B%202011.jpg?width=800",
+      "caption": "EOS D2000",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q66259"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 佳能 EOS D2000",
+      "url": "https://www.wikidata.org/wiki/Q66259"
+    }
+  ],
+  "qid": "Q66259",
+  "sitelinks": 8,
+  "imported": "wikidata-5k-2026-11-01"
+}

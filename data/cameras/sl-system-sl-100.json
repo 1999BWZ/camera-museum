@@ -1,0 +1,29 @@
+{
+  "id": "sl-system-sl-100",
+  "brand": "SL-System",
+  "brand_cn": "",
+  "brand_slug": "sl-system",
+  "country": "待补充",
+  "manufacturer": "SL-System",
+  "model": "SL 100",
+  "year": 1968,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "SL-System便携相机，1968 年发布",
+  "description": "The Certo SL 100 compact camera was produced by the German maker Certo of Dresden from around 1968-69.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Certo SL 100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Certo SL 100",
+      "url": "https://camera-wiki.org/wiki/Certo%20SL%20100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

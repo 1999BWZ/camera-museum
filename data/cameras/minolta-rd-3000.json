@@ -1,0 +1,29 @@
+{
+  "id": "minolta-rd-3000",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "RD-3000",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码相机，1999 年发布",
+  "description": "{| class=floatright\n|\n\n|-\n|\n\n|-\n|\n\n|-\n|\n\n|}\n\nThe Minolta Dimâge RD-3000 was a digital SLR camera for the Minolta V-lenses which were originally designed for the Minolta Vectis S-100 and Minolta Vectis S-1 SLRs for APS-films (and a with an adapter could mount popular Minolta Alpha/Dynax/Maxxum-mount ",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta RD-3000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta RD-3000",
+      "url": "https://camera-wiki.org/wiki/Minolta%20RD-3000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

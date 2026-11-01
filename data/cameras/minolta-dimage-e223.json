@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dimage-e223",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "DiMAGE E223",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码相机，2003 年发布",
+  "description": "The Minolta DiMAGE E223 is a digital camera made in China for Minolta in c.2003[https://www.dpreview.com/articles/0623247144/minoltadimagee223 Minolta DiMAGE E223 announcement, March 2003] at [https://www.dpreview.com/ DPReview.com].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta DiMAGE E223"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta DiMAGE E223",
+      "url": "https://camera-wiki.org/wiki/Minolta%20DiMAGE%20E223"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "argus-argoflex-ef",
+  "brand": "Argus",
+  "brand_cn": "",
+  "brand_slug": "argus",
+  "country": "美国",
+  "manufacturer": "Argus",
+  "model": "Argoflex EF",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Argus盒式相机，1948 年发布",
+  "description": "The Argoflex EF was an entry-level TLR made by Argus from 1948-1951, a minor redesign of the earlier and less common Argoflex EM with added flash sync.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Argus Argoflex EF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Argus Argoflex EF",
+      "url": "https://camera-wiki.org/wiki/Argus%20Argoflex%20EF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

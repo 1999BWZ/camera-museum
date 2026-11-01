@@ -1,0 +1,29 @@
+{
+  "id": "kodak-advantix-f300",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Advantix F300",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1999 年发布",
+  "description": "The Advantix F300 is a compact camera for the APS film system, made by Kodak from about 1999.Chris Eve/Mischa Konig's [http://kodak.3106.net/index.php?p=202&cam=902 table of dates] for Advantix cameras, at [http://kodak.3106.net/index.php Kodak Classics], states the camera was announced in a 1998 pr",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Advantix F300"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Advantix F300",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Advantix%20F300"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

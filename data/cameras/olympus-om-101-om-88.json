@@ -1,0 +1,29 @@
+{
+  "id": "olympus-om-101-om-88",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "OM-101 / OM-88",
+  "year": 1988,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，1988 年发布",
+  "description": "The Olympus OM-101 was a single lens reflex released in 1988 by Olympus, as part of the OM System.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus OM-101 / OM-88"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus OM-101 / OM-88",
+      "url": "https://camera-wiki.org/wiki/Olympus%20OM-101%20/%20OM-88"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

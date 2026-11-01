@@ -1,0 +1,29 @@
+{
+  "id": "super-cambo",
+  "brand": "Super",
+  "brand_cn": "",
+  "brand_slug": "super",
+  "country": "荷兰",
+  "manufacturer": "Super",
+  "model": "Cambo",
+  "year": 1959,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Super大画幅相机，1959 年发布",
+  "description": "__TOC__\n\n\n\nThe Super Cambo is a monorail camera, made by Cambo in the Netherlands from 1959 onwardsArticle \"Professionele Nederlandse Foto Apparatuur, Historie van Cambo\" part 2, by Leo Hilkhuijzen in magazine PHT 3/1989 published by [https://www.fotografica.nl/ Fotografica].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Cambo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Cambo",
+      "url": "https://camera-wiki.org/wiki/Super%20Cambo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

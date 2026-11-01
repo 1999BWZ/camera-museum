@@ -1,0 +1,40 @@
+{
+  "id": "leica-digilux-3-q1757075",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "Digilux 3",
+  "year": 2006,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码相机，2006 年发布",
+  "description": "徕卡于2006年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1757075",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica-IMG%200094.JPG?width=800",
+      "caption": "Digilux 3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1757075"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 徕卡Digilux 3",
+      "url": "https://www.wikidata.org/wiki/Q1757075"
+    }
+  ],
+  "qid": "Q1757075",
+  "sitelinks": 7,
+  "imported": "wikidata-5k-2026-11-01"
+}

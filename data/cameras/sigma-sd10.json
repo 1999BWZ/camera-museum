@@ -1,0 +1,40 @@
+{
+  "id": "sigma-sd10",
+  "brand": "Sigma",
+  "brand_cn": "适马",
+  "brand_slug": "sigma",
+  "country": "日本",
+  "manufacturer": "适马",
+  "model": "SD10",
+  "year": 2003,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "适马数码单反相机，2003 年发布",
+  "description": "适马于2003年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2284889",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigma%20SD10.jpg?width=800",
+      "caption": "SD10",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2284889"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sigma SD10",
+      "url": "https://www.wikidata.org/wiki/Q2284889"
+    }
+  ],
+  "qid": "Q2284889",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

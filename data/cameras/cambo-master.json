@@ -1,0 +1,29 @@
+{
+  "id": "cambo-master",
+  "brand": "Cambo",
+  "brand_cn": "",
+  "brand_slug": "cambo",
+  "country": "荷兰",
+  "manufacturer": "Cambo",
+  "model": "Master",
+  "year": 1988,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cambo胶片相机，1988 年发布",
+  "description": "The Master is a 4x5inch monorail camera made by the Dutch company Cambo.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Master"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Master",
+      "url": "https://camera-wiki.org/wiki/Master"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

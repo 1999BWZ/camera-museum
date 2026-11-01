@@ -1,0 +1,29 @@
+{
+  "id": "minolta-xg-series",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "XG series",
+  "year": 1977,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1977 年发布",
+  "description": "The Minolta XG cameras are 35mm SLRs of the Minolta SR system, sold from 1977 to 1984.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta XG series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta XG series",
+      "url": "https://camera-wiki.org/wiki/Minolta%20XG%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

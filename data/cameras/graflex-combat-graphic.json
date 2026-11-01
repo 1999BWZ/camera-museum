@@ -1,0 +1,29 @@
+{
+  "id": "graflex-combat-graphic",
+  "brand": "Graflex",
+  "brand_cn": "格拉菲",
+  "brand_slug": "graflex",
+  "country": "美国",
+  "manufacturer": "Graflex",
+  "model": "Combat Graphic",
+  "year": 1944,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "格拉菲旁轴相机，1944 年发布",
+  "description": "The Combat Graflex, also called a Combat70 or Gullivers Contax, is a rangefinder camera made by Graflex and using 70mm film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Combat Graphic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Combat Graphic",
+      "url": "https://camera-wiki.org/wiki/Combat%20Graphic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

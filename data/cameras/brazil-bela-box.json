@@ -1,0 +1,29 @@
+{
+  "id": "brazil-bela-box",
+  "brand": "Brazil",
+  "brand_cn": "",
+  "brand_slug": "brazil",
+  "country": "待补充",
+  "manufacturer": "Brazil",
+  "model": "Bela Box",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Brazil盒式相机，1952 年发布",
+  "description": "The Bela Box is a box camera which can use either 120 or 620 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bela Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bela Box",
+      "url": "https://camera-wiki.org/wiki/Bela%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

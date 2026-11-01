@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-color-corrected-super",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri Color Corrected Super",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi旁轴相机，1954 年发布",
+  "description": "A series of 35mm coupled rangefinder cameras made by Kuribayashi (soon to be renamed Petri) carry a badge on the front right-hand side of the body including the phrase Color Corrected Super.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri Color Corrected Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri Color Corrected Super",
+      "url": "https://camera-wiki.org/wiki/Petri%20Color%20Corrected%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

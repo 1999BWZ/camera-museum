@@ -1,0 +1,40 @@
+{
+  "id": "yashica-fx-3-q124079730",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "雅西卡",
+  "model": "FX-3",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片单反相机，1979 年发布",
+  "description": "雅西卡于1979年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q124079730",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yashica%20FX-3.jpg?width=800",
+      "caption": "FX-3",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q124079730"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Yashica FX-3",
+      "url": "https://www.wikidata.org/wiki/Q124079730"
+    }
+  ],
+  "qid": "Q124079730",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

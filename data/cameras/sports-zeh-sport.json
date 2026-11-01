@@ -1,0 +1,29 @@
+{
+  "id": "sports-zeh-sport",
+  "brand": "Sports",
+  "brand_cn": "",
+  "brand_slug": "sports",
+  "country": "待补充",
+  "manufacturer": "Sports",
+  "model": "Zeh Sport",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sports折叠相机，1937 年发布",
+  "description": "There is also a folding plate camera called the Sport, also made by Zeh, in about 1933.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zeh Sport"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zeh Sport",
+      "url": "https://camera-wiki.org/wiki/Zeh%20Sport"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

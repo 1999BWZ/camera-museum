@@ -1,0 +1,29 @@
+{
+  "id": "minolta-riva-zoom-140ex",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Riva Zoom 140EX",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1995 年发布",
+  "description": "The Riva Zoom 140EX is a compact 35mm film camera released by Minolta in 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Riva Zoom 140EX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Riva Zoom 140EX",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Riva%20Zoom%20140EX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

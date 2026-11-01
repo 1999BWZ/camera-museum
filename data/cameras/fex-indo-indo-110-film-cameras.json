@@ -1,0 +1,29 @@
+{
+  "id": "fex-indo-indo-110-film-cameras",
+  "brand": "Fex Indo",
+  "brand_cn": "",
+  "brand_slug": "fex-indo",
+  "country": "法国",
+  "manufacturer": "Fex Indo",
+  "model": "Indo 110 film cameras",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fex Indo胶片相机，1977 年发布",
+  "description": "Cameras made by Indo and taking 110 film:\n\n* Indo 110, \n* Indo 110 MX3\n* Fura 110 XA\n* Fura 110 XA Electro\n* Pocket 110 X\n* Rhaco 110L\n* Camara 110 FCR",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Indo 110 film cameras"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Indo 110 film cameras",
+      "url": "https://camera-wiki.org/wiki/Indo%20110%20film%20cameras"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

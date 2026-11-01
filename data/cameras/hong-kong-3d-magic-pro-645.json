@@ -1,0 +1,29 @@
+{
+  "id": "hong-kong-3d-magic-pro-645",
+  "brand": "Hong Kong",
+  "brand_cn": "",
+  "brand_slug": "hong-kong",
+  "country": "中国",
+  "manufacturer": "Hong Kong",
+  "model": "3D Magic Pro 645",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hong Kong立体相机，1998 年发布",
+  "description": "The 3D Magic Pro 645 is a camera for making the source negatives from which lenticular 3D prints may be made.[https://auction-team.de/project/lenticular-camera-3d-magic-pro-645/ 3D Magic Pro 645] sold by auctioneer [https://auction-team.de/ Breker] in May 2025 (also shown in the [https://auction-tea",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "3D Magic Pro 645"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – 3D Magic Pro 645",
+      "url": "https://camera-wiki.org/wiki/3D%20Magic%20Pro%20645"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

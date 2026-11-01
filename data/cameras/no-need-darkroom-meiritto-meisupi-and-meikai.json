@@ -1,0 +1,29 @@
+{
+  "id": "no-need-darkroom-meiritto-meisupi-and-meikai",
+  "brand": "No-need-darkroom",
+  "brand_cn": "",
+  "brand_slug": "no-need-darkroom",
+  "country": "待补充",
+  "manufacturer": "No-need-darkroom",
+  "model": "Meiritto, Meisupi and Meikai",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "No-need-darkroom取景器相机，1937 年发布",
+  "description": "The Meiritto (メイリット), Meisupi (メイスピイ) and Meikai (メイカイ) are Japanese cameras made and sold by Tougodo before 1945.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Meiritto, Meisupi and Meikai"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Meiritto, Meisupi and Meikai",
+      "url": "https://camera-wiki.org/wiki/Meiritto%2C%20Meisupi%20and%20Meikai"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fuji-dl-50",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "DL-50",
+  "year": 1984,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片相机，1984 年发布",
+  "description": "The Fuji DL-50, or Fuji Lucia in Japan, is a compact autofocus camera released 1984, to coincide with Fuji's new branding.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji DL-50"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji DL-50",
+      "url": "https://camera-wiki.org/wiki/Fuji%20DL-50"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

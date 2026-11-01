@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm-finepix-s5000-zoom",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "FinePix S5000 Zoom",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士数码相机，2003 年发布",
+  "description": "The FinePix S5000 Zoom is a 2003 digital camera from Fujifilm.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm FinePix S5000 Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm FinePix S5000 Zoom",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20FinePix%20S5000%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

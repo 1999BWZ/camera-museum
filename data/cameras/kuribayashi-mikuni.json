@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-mikuni",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Mikuni",
+  "year": 1926,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi折叠相机，1926 年发布",
+  "description": "The Mikuni or Mikuni Camera (ミクニカメラ) is a Japanese 6.5×9cm plate folder, distributed by Saneidō and Minagawa in the late 1920s and early 1930s, and probably made by Kuribayashi.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mikuni"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mikuni",
+      "url": "https://camera-wiki.org/wiki/Mikuni"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

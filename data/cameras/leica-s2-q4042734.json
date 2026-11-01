@@ -1,0 +1,40 @@
+{
+  "id": "leica-s2-q4042734",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "S2",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码相机，2008 年发布",
+  "description": "徕卡于2008年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q4042734",
+    "多语言词条数": "3"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20S2%20IMG%202919-white.jpg?width=800",
+      "caption": "S2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q4042734"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica S2",
+      "url": "https://www.wikidata.org/wiki/Q4042734"
+    }
+  ],
+  "qid": "Q4042734",
+  "sitelinks": 3,
+  "imported": "wikidata-5k-2026-11-01"
+}

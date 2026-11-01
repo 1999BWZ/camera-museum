@@ -1,0 +1,29 @@
+{
+  "id": "zeiss-ikon-taxo",
+  "brand": "Zeiss Ikon",
+  "brand_cn": "",
+  "brand_slug": "zeiss-ikon",
+  "country": "待补充",
+  "manufacturer": "Zeiss Ikon",
+  "model": "Taxo",
+  "year": 1926,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Zeiss Ikon折叠相机，1926 年发布",
+  "description": "The Taxo was a continuation by Zeiss Ikon of a model introduced by Contessa-Nettel.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Taxo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Taxo",
+      "url": "https://camera-wiki.org/wiki/Taxo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodak-target-brownie-six-20",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Target Brownie Six-20",
+  "year": 1941,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1941 年发布",
+  "description": "The Target Brownie Six-20 is a basic box camera manufactured by Kodak in 1941, part of a long design lineage that includes both the earliest box Kodaks and the very last bakelite box cameras Kodak made.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Target Brownie Six-20"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Target Brownie Six-20",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Target%20Brownie%20Six-20"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

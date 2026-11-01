@@ -1,0 +1,29 @@
+{
+  "id": "agfa-billy-i-luxus",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Billy I Luxus",
+  "year": 1928,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发折叠相机，1928 年发布",
+  "description": "The Agfa Billy I Luxus:\n*Year of manufacture From 1928 to 1930.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Billy I Luxus"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Billy I Luxus",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Billy%20I%20Luxus"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

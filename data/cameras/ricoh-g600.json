@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-g600",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "G600",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光数码相机，2008 年发布",
+  "description": "The G600 is a rugged shock, dirt and water resistant digital camera from Ricoh introduced in 2008.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh G600"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh G600",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20G600"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

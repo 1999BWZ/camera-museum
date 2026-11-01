@@ -1,0 +1,29 @@
+{
+  "id": "kmz-horizont-205pc",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "Horizont-205PC",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ全景相机，2000 年发布",
+  "description": "The Horizont-205PC is a panoramic camera, making six exposures, each approximately 50x110 mm, on a 120 film.[http://www.zenitcamera.com/archive/horizon/index.html#horizon-205 Horizont 205PC] (text in Russian) at [http://www.zenitcamera.com/archive/index-eng.html KMZ Zenit archive].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Horizont-205PC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Horizont-205PC",
+      "url": "https://camera-wiki.org/wiki/Horizont-205PC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

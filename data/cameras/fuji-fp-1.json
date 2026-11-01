@@ -1,0 +1,29 @@
+{
+  "id": "fuji-fp-1",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "FP-1",
+  "year": 1980,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji一次成像相机，1980 年发布",
+  "description": "The Fuji FP-1 is a professional instant film rangefinder camera from Fuji released around 1987.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji FP-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji FP-1",
+      "url": "https://camera-wiki.org/wiki/Fuji%20FP-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "semi-gelto",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Gelto",
+  "year": 1941,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi折叠相机，1941 年发布",
+  "description": "The Semi Gelto is a series of Japanese 4.5×6 folders made by Tōa Kōki, distributed by Hattori Tokei-ten from 1941 to 1944, and again by Taiyōdō in the late 1940s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Gelto"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Gelto",
+      "url": "https://camera-wiki.org/wiki/Semi%20Gelto"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

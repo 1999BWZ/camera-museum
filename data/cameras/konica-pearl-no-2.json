@@ -1,0 +1,29 @@
+{
+  "id": "konica-pearl-no-2",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Pearl No.2",
+  "year": 1923,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡折叠相机，1923 年发布",
+  "description": "The Pearl No.2 (パール2号), \"Pearl\" is written in roman script on most or all of these models.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pearl No.2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pearl No.2",
+      "url": "https://camera-wiki.org/wiki/Pearl%20No.2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

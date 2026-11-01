@@ -1,0 +1,29 @@
+{
+  "id": "minolta-fs-e-ii",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "FS-E II",
+  "year": 1987,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达取景器相机，1987 年发布",
+  "description": "Minolta FS-E II (called Freedom 100 in America) is a fixed-focus compact camera, largely based on the AF-E II.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta FS-E II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta FS-E II",
+      "url": "https://camera-wiki.org/wiki/Minolta%20FS-E%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

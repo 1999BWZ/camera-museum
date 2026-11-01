@@ -1,0 +1,29 @@
+{
+  "id": "aires-radar-eye",
+  "brand": "Aires",
+  "brand_cn": "",
+  "brand_slug": "aires",
+  "country": "待补充",
+  "manufacturer": "Aires",
+  "model": "Radar Eye",
+  "year": 1960,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aires旁轴相机，1960 年发布",
+  "description": "The Aires Radar Eye is a last leaf-shutter 35mm rangefinder camera made by Aires in 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Aires Radar Eye"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Aires Radar Eye",
+      "url": "https://camera-wiki.org/wiki/Aires%20Radar%20Eye"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

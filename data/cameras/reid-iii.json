@@ -1,0 +1,29 @@
+{
+  "id": "reid-iii",
+  "brand": "Reid",
+  "brand_cn": "",
+  "brand_slug": "reid",
+  "country": "英国",
+  "manufacturer": "Reid",
+  "model": "III",
+  "year": 1947,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Reid旁轴相机，1947 年发布",
+  "description": "A high-quality rangefinder camera based on the design of the Leica III, made in small volumes by Britain's Reid & Sigrist.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Reid III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Reid III",
+      "url": "https://camera-wiki.org/wiki/Reid%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "minolta-xeb",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "XEb",
+  "year": 1976,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1976 年发布",
+  "description": "The Minolta XEb was introduced in 1976 for the domestic Japanese market.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta XEb"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta XEb",
+      "url": "https://camera-wiki.org/wiki/Minolta%20XEb"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

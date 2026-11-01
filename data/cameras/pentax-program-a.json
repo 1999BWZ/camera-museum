@@ -1,0 +1,29 @@
+{
+  "id": "pentax-program-a",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Program A",
+  "year": 1984,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，1984 年发布",
+  "description": "{|class=floatright\n|\n\n|}\nPentax introduced the Program A (or Program Plus in North America) in 1984.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Program A"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Program A",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Program%20A"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

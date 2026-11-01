@@ -1,0 +1,29 @@
+{
+  "id": "hong-kong-halina-super-35x",
+  "brand": "Hong Kong",
+  "brand_cn": "",
+  "brand_slug": "hong-kong",
+  "country": "待补充",
+  "manufacturer": "Hong Kong",
+  "model": "Halina Super 35X",
+  "year": 1963,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hong Kong取景器相机，1963 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Halina Super 35X (or 35X Super) is an upgrade on the Halina 35X, made in Hong Kong by Haking, c.1963.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Halina Super 35X"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Halina Super 35X",
+      "url": "https://camera-wiki.org/wiki/Halina%20Super%2035X"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

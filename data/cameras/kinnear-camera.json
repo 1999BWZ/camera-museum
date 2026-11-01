@@ -1,0 +1,29 @@
+{
+  "id": "kinnear-camera",
+  "brand": "Kinnear",
+  "brand_cn": "",
+  "brand_slug": "kinnear",
+  "country": "英国",
+  "manufacturer": "Kinnear",
+  "model": "Camera",
+  "year": 1858,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kinnear折叠相机，1858 年发布",
+  "description": "\"Kinnear Camera\" stands for a conception of a folding camera, invented in 1857 by Scotsman C.G.H.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kinnear Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kinnear Camera",
+      "url": "https://camera-wiki.org/wiki/Kinnear%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gomz-smena-2",
+  "brand": "GOMZ",
+  "brand_cn": "",
+  "brand_slug": "gomz",
+  "country": "待补充",
+  "manufacturer": "GOMZ",
+  "model": "Smena-2",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "GOMZ取景器相机，1955 年发布",
+  "description": "The Smena-2 was the flash synchronized variant of GOMZ's Smena.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Smena-2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Smena-2",
+      "url": "https://camera-wiki.org/wiki/Smena-2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

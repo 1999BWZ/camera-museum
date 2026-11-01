@@ -1,0 +1,29 @@
+{
+  "id": "roll-light-ref",
+  "brand": "Roll",
+  "brand_cn": "",
+  "brand_slug": "roll",
+  "country": "待补充",
+  "manufacturer": "Roll",
+  "model": "Light Ref",
+  "year": 1937,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Roll胶片相机，1937 年发布",
+  "description": "The Roll Light Ref (ロールライトレフ) is a Japanese 4.5×6 camera shaped like a TLR, made by Ōhashi Kōki Seisakusho in 1937.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Roll Light Ref"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Roll Light Ref",
+      "url": "https://camera-wiki.org/wiki/Roll%20Light%20Ref"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

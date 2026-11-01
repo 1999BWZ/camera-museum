@@ -1,0 +1,29 @@
+{
+  "id": "taron-taromatic-f",
+  "brand": "Taron",
+  "brand_cn": "",
+  "brand_slug": "taron",
+  "country": "待补充",
+  "manufacturer": "Taron",
+  "model": "Taromatic F",
+  "year": 1969,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Taron取景器相机，1969 年发布",
+  "description": "The Taromatic F is an auto exposure viewfinder camera for 126 film made by Taron in 1969.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Taromatic F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Taromatic F",
+      "url": "https://camera-wiki.org/wiki/Taromatic%20F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

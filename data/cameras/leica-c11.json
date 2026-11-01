@@ -1,0 +1,29 @@
+{
+  "id": "leica-c11",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "C11",
+  "year": 1999,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡胶片相机，1999 年发布",
+  "description": "The Leica C11 was one of the best compact zoom cameras for the APS film system, the only one made by Leica Camera AG.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica C11"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica C11",
+      "url": "https://camera-wiki.org/wiki/Leica%20C11"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

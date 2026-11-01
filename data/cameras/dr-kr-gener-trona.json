@@ -1,0 +1,29 @@
+{
+  "id": "dr-kr-gener-trona",
+  "brand": "Dr. Krügener",
+  "brand_cn": "",
+  "brand_slug": "dr-kr-gener",
+  "country": "待补充",
+  "manufacturer": "Dr. Krügener",
+  "model": "Trona",
+  "year": 1906,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dr. Krügener折叠相机，1906 年发布",
+  "description": "The Trona is a folding plate camera, originally made by Krugener.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Trona"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Trona",
+      "url": "https://camera-wiki.org/wiki/Trona"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

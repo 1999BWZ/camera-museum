@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-tf-500-tf-900",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "TF-500/TF-900",
+  "year": 1987,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光便携相机，1987 年发布",
+  "description": "The Ricoh TF-500 or TF-900 is a late 80s compact camera with autofocus and a 35 mm lens, switchable to 70 mm through a button on the top.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh TF-500/TF-900"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh TF-500/TF-900",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20TF-500/TF-900"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

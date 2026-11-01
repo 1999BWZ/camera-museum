@@ -1,0 +1,29 @@
+{
+  "id": "bonzart-ziegel",
+  "brand": "Bonzart",
+  "brand_cn": "",
+  "brand_slug": "bonzart",
+  "country": "待补充",
+  "manufacturer": "Bonzart",
+  "model": "Ziegel",
+  "year": 2022,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bonzart数码相机，2022 年发布",
+  "description": "The Bonzart Ziegel'Ziegel' is German and can mean 'brick' or (more likely here) 'tile'; the name presumably refers to the curved shape of the front plate.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bonzart Ziegel"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bonzart Ziegel",
+      "url": "https://camera-wiki.org/wiki/Bonzart%20Ziegel"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

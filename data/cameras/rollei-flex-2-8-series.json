@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-2-8-series",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex 2.8 series",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1949 年发布",
+  "description": "Germany 1949, four years after the end of WWII and the country is still in ruins.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex 2.8 series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex 2.8 series",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%202.8%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

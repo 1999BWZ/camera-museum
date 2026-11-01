@@ -1,0 +1,29 @@
+{
+  "id": "kodak-kodamatic-940",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Kodamatic 940",
+  "year": 1983,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达一次成像相机，1983 年发布",
+  "description": "The Kodamatic 940 is a instant camera manufactured by Kodak in 1983 and retailed for $45.00.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Kodamatic 940"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Kodamatic 940",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Kodamatic%20940"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

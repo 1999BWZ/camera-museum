@@ -1,0 +1,29 @@
+{
+  "id": "konica-kd-25",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "KD-25",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡数码相机，2001 年发布",
+  "description": "The KD-25 is a compact digital camera released by Konica in 2001.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica KD-25"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica KD-25",
+      "url": "https://camera-wiki.org/wiki/Konica%20KD-25"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

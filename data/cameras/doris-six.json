@@ -1,0 +1,29 @@
+{
+  "id": "doris-six",
+  "brand": "Doris",
+  "brand_cn": "",
+  "brand_slug": "doris",
+  "country": "待补充",
+  "manufacturer": "Doris",
+  "model": "Six",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Doris折叠相机，1955 年发布",
+  "description": "The Doris Six (ドリスシックス) are Japanese 6×6cm folding cameras, made by Doris Camera around 1955.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Doris Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Doris Six",
+      "url": "https://camera-wiki.org/wiki/Doris%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

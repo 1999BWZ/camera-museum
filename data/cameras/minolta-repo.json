@@ -1,0 +1,29 @@
+{
+  "id": "minolta-repo",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Repo",
+  "year": 1963,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1963 年发布",
+  "description": "The Minolta Repo is one of Minolta's two half-frame cameras, released in 1963.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Repo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Repo",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Repo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

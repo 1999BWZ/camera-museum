@@ -1,0 +1,29 @@
+{
+  "id": "cornu-ontoscope",
+  "brand": "Cornu",
+  "brand_cn": "",
+  "brand_slug": "cornu",
+  "country": "法国",
+  "manufacturer": "Cornu",
+  "model": "Ontoscope",
+  "year": 1924,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cornu立体相机，1924 年发布",
+  "description": "Stereo cameras made by the French company Cornu.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ontoscope"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ontoscope",
+      "url": "https://camera-wiki.org/wiki/Ontoscope"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-77x",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic 77x",
+  "year": 1977,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1977 年发布",
+  "description": "The Instamatic 77X was in the low-end of the Instamatic range made by Kodak Ltd., by Kodak AG, and even by Argentine camera industry between January 1977 and 1984.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic 77x"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic 77x",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%2077x"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

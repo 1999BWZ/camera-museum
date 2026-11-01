@@ -1,0 +1,29 @@
+{
+  "id": "nikon-tw2-tw2d-tele-touch-deluxe",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "TW2 / TW2D / Tele•Touch Deluxe",
+  "year": 1987,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1987 年发布",
+  "description": "The Nikon TW2 is Nikon's first autofocus point-and-shoot camera that gave the user a choice in focal length.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon TW2 / TW2D / Tele•Touch Deluxe"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon TW2 / TW2D / Tele•Touch Deluxe",
+      "url": "https://camera-wiki.org/wiki/Nikon%20TW2%20/%20TW2D%20/%20Tele%E2%80%A2Touch%20Deluxe"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

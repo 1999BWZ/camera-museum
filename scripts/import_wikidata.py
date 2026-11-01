@@ -39,7 +39,7 @@ LIMIT 600
 """
 
 EXCLUDE_CLASS = ["webcam", "网络摄像头", "智能手机", "smartphone", "电玩",
-                 "video game", "列表条目", "企业", "品牌", "廢棄", "废弃"]
+                 "video game", "列表条目", "企业", "品牌", "enterprise", "廢棄", "废弃"]
 
 # 配件/外设描述关键词（EyeToy 这类 PS 配件，不是相机）
 ACCESSORY_KW = ["camera accessory", "peripheral", "外设", "accessory for"]
@@ -270,6 +270,11 @@ def map_brand(mfr_label):
     return (name, "", slug, "待补充")
 
 
+def map_brand_strict(mfr_label):
+    """只认 MFR_MAP 内的条目（含显式排除的 None），未知制造商返回 None。"""
+    return MFR_MAP.get(mfr_label)
+
+
 def detect_brand_from_label(label):
     """从型号标签开头识别品牌（如“宾得 K-5”->Pentax），用于制造商是集团母公司的情况。
     返回 ((brand_en, brand_cn, slug, country), 匹配到的前缀) 或 (None, "")。"""
@@ -308,10 +313,16 @@ def map_type(desc, class_label, model, bslug, year):
             if t == "dslr" and ("film" in text or "analog" in text):
                 return "slr", "胶片单反相机"
             return t, tcn
-    # 2) 品牌型号命名规律（无反 2008 年后才出现，老机型跳过误判）
+    # 2) 品牌型号命名规律（无反 2008 年后才出现，老机型跳过误判；
+    #    数码单反 1991 年（Kodak DCS-100）前不存在；描述明确胶片时 dslr 转 slr）
     for pat, t, tcn in NAME_RULES.get(bslug, []):
         if re.search(pat, model, re.I):
             if t == "mirrorless" and year and year < 2008:
+                continue
+            if t == "dslr" and ("film" in text or "analog" in text
+                                or re.search(r"35\s?mm", text)):
+                return "slr", "胶片单反相机"
+            if t == "dslr" and year and year < 1991:
                 continue
             return t, tcn
     # 3) 泛关键词

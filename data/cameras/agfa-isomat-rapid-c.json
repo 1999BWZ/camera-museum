@@ -1,0 +1,29 @@
+{
+  "id": "agfa-isomat-rapid-c",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Isomat Rapid C",
+  "year": 1966,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发取景器相机，1966 年发布",
+  "description": "The Isomat Rapid C is a automatic exposure viewfinder camera released from Agfa in 1966.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Isomat Rapid C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Isomat Rapid C",
+      "url": "https://camera-wiki.org/wiki/Isomat%20Rapid%20C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

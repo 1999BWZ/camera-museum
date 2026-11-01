@@ -1,0 +1,29 @@
+{
+  "id": "five-below-camera",
+  "brand": "Five",
+  "brand_cn": "",
+  "brand_slug": "five",
+  "country": "美国",
+  "manufacturer": "Five",
+  "model": "Below camera",
+  "year": 2022,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Five玩具相机，2022 年发布",
+  "description": "In late 2022 the American chain of discount stores [https://en.wikipedia.org/wiki/Five_Below \"Five Below\"] released an unnamed 35mm toy camera at a $5.25 price.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Five Below camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Five Below camera",
+      "url": "https://camera-wiki.org/wiki/Five%20Below%20camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sears-marvel-flex",
+  "brand": "Sears",
+  "brand_cn": "",
+  "brand_slug": "sears",
+  "country": "美国",
+  "manufacturer": "Sears",
+  "model": "Marvel-flex",
+  "year": 1941,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Sears胶片相机，1941 年发布",
+  "description": "The Marvel-flex 6&times;6cm TLR was made in USA for Sears by Ciro c.1941.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Marvel-flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Marvel-flex",
+      "url": "https://camera-wiki.org/wiki/Marvel-flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

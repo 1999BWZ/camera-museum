@@ -1,0 +1,29 @@
+{
+  "id": "wirgin-auta",
+  "brand": "Wirgin",
+  "brand_cn": "",
+  "brand_slug": "wirgin",
+  "country": "待补充",
+  "manufacturer": "Wirgin",
+  "model": "Auta",
+  "year": 1934,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Wirgin折叠相机，1934 年发布",
+  "description": "The focal length of this camera is given as 10.5 cm, indicating a pre-World War II production.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Wirgin Auta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Wirgin Auta",
+      "url": "https://camera-wiki.org/wiki/Wirgin%20Auta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

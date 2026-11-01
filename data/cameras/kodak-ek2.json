@@ -1,0 +1,29 @@
+{
+  "id": "kodak-ek2",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "EK2",
+  "year": 1977,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达一次成像相机，1977 年发布",
+  "description": "The Kodak EK2 is a instant camera produced in 1977.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak EK2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak EK2",
+      "url": "https://camera-wiki.org/wiki/Kodak%20EK2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

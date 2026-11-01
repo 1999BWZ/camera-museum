@@ -1,0 +1,29 @@
+{
+  "id": "bronica-sq",
+  "brand": "Bronica",
+  "brand_cn": "勃朗尼卡",
+  "brand_slug": "bronica",
+  "country": "日本",
+  "manufacturer": "Bronica",
+  "model": "SQ",
+  "year": 1980,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "勃朗尼卡数码单反相机，1980 年发布",
+  "description": "The Bronica SQ series is a line of 6x6 medium format SLR camera system introduced in 1980.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bronica SQ"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bronica SQ",
+      "url": "https://camera-wiki.org/wiki/Bronica%20SQ"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

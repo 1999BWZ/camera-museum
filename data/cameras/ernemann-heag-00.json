@@ -1,0 +1,29 @@
+{
+  "id": "ernemann-heag-00",
+  "brand": "Ernemann",
+  "brand_cn": "",
+  "brand_slug": "ernemann",
+  "country": "待补充",
+  "manufacturer": "Ernemann",
+  "model": "Heag 00",
+  "year": 1911,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ernemann折叠相机，1911 年发布",
+  "description": "The Ernemann Heag 00 was a folding bed camera for 6.5x9cm or 9x12cm film plates with single extension bellows.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ernemann Heag 00"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ernemann Heag 00",
+      "url": "https://camera-wiki.org/wiki/Ernemann%20Heag%2000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

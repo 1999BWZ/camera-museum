@@ -1,0 +1,29 @@
+{
+  "id": "ansco-pioneer",
+  "brand": "Ansco",
+  "brand_cn": "",
+  "brand_slug": "ansco",
+  "country": "待补充",
+  "manufacturer": "Ansco",
+  "model": "Pioneer",
+  "year": 1940,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ansco取景器相机，1940 年发布",
+  "description": "The Pioneer is a rollfilm camera manufactured in Ansco's Binghamton, New York, factory beginning around 1940.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ansco Pioneer"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ansco Pioneer",
+      "url": "https://camera-wiki.org/wiki/Ansco%20Pioneer"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

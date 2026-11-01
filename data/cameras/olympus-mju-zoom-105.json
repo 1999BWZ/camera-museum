@@ -1,0 +1,29 @@
+{
+  "id": "olympus-mju-zoom-105",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "mju ZOOM 105",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，1995 年发布",
+  "description": "__NOTOC__\n\nThe Olympus mju ZOOM 105 (US: ∞ Stylus Zoom 105) is a fully automatic 35mm compact camera introduced by Olympus in 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus mju ZOOM 105"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus mju ZOOM 105",
+      "url": "https://camera-wiki.org/wiki/Olympus%20mju%20ZOOM%20105"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

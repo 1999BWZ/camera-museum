@@ -1,0 +1,29 @@
+{
+  "id": "kmz-moskva-5",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "Moskva-5",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ旁轴相机，1956 年发布",
+  "description": "[https://www.flickr.com/photos/50678983@N00/162266676/in/pool-camerawiki/ https://static.flickr.com/50/162266676_e8b435f7ee_m.jpg]",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Moskva-5"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Moskva-5",
+      "url": "https://camera-wiki.org/wiki/Moskva-5"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

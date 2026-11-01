@@ -1,0 +1,29 @@
+{
+  "id": "kodak-iiic",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "IIIc",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机，1954 年发布",
+  "description": "Introduced at Photokina Cologne in 1954, the Retina IIIc was the most expensive of the new range of the Retina models.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Retina IIIc"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Retina IIIc",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Retina%20IIIc"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

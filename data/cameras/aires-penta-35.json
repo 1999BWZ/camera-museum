@@ -1,0 +1,29 @@
+{
+  "id": "aires-penta-35",
+  "brand": "Aires",
+  "brand_cn": "",
+  "brand_slug": "aires",
+  "country": "待补充",
+  "manufacturer": "Aires",
+  "model": "Penta 35",
+  "year": 1960,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aires胶片单反相机，1960 年发布",
+  "description": "{| class=\"floatright\"\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Aires Penta 35 is an SLR produced by Aires and introduced c.1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Aires Penta 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Aires Penta 35",
+      "url": "https://camera-wiki.org/wiki/Aires%20Penta%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

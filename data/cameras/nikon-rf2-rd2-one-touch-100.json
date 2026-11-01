@@ -1,0 +1,29 @@
+{
+  "id": "nikon-rf2-rd2-one-touch-100",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "RF2/RD2/One•Touch 100",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1988 年发布",
+  "description": "The Nikon RF2 (also known as One•Touch 100) is a 35mm compact camera with autofocus introduced by Nikon in 1988 as part of the One•Touch series.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon RF2/RD2/One•Touch 100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon RF2/RD2/One•Touch 100",
+      "url": "https://camera-wiki.org/wiki/Nikon%20RF2/RD2/One%E2%80%A2Touch%20100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

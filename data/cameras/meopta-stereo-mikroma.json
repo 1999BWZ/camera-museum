@@ -1,0 +1,29 @@
+{
+  "id": "meopta-stereo-mikroma",
+  "brand": "Meopta",
+  "brand_cn": "",
+  "brand_slug": "meopta",
+  "country": "待补充",
+  "manufacturer": "Meopta",
+  "model": "Stereo-Mikroma",
+  "year": 1961,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Meopta立体相机，1961 年发布",
+  "description": "The Stereo-Mikroma is, as the name suggests, a stereo camera based on the Mikroma, made by Meopta in Prerov (then in Czechoslovakia; now the Czech Republic) from 1961.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Stereo-Mikroma"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Stereo-Mikroma",
+      "url": "https://camera-wiki.org/wiki/Stereo-Mikroma"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

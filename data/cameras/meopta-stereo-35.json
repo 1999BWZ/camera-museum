@@ -1,0 +1,29 @@
+{
+  "id": "meopta-stereo-35",
+  "brand": "Meopta",
+  "brand_cn": "",
+  "brand_slug": "meopta",
+  "country": "待补充",
+  "manufacturer": "Meopta",
+  "model": "Stereo 35",
+  "year": 1971,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Meopta立体相机，1971 年发布",
+  "description": "The Stereo 35 is a 35mm film stereo camera produced by the Czech company Meopta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Meopta Stereo 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Meopta Stereo 35",
+      "url": "https://camera-wiki.org/wiki/Meopta%20Stereo%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

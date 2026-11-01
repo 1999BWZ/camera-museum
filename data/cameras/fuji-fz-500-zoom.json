@@ -1,0 +1,29 @@
+{
+  "id": "fuji-fz-500-zoom",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "FZ-500 Zoom",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji便携相机，1988 年发布",
+  "description": "The FZ-500 Zoom is a 35mm autofocus compact cameras from Fuji introduced in 1988.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fuji FZ-500 Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fuji FZ-500 Zoom",
+      "url": "https://camera-wiki.org/wiki/Fuji%20FZ-500%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

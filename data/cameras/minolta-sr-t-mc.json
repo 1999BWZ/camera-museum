@@ -1,0 +1,29 @@
+{
+  "id": "minolta-sr-t-mc",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "SR-T MC",
+  "year": 1973,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1973 年发布",
+  "description": "The SR-T MC is a 35mm SLR camera released by Minolta in 1973.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta SR-T MC"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta SR-T MC",
+      "url": "https://camera-wiki.org/wiki/Minolta%20SR-T%20MC"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

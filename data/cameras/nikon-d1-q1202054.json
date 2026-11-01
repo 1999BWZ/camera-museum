@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d1-q1202054",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D1",
+  "year": 1999,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，1999 年发布",
+  "description": "尼康于1999年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1202054",
+    "多语言词条数": "19"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D1%208373.jpg?width=800",
+      "caption": "D1",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1202054"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D1",
+      "url": "https://www.wikidata.org/wiki/Q1202054"
+    }
+  ],
+  "qid": "Q1202054",
+  "sitelinks": 19,
+  "imported": "wikidata-5k-2026-11-01"
+}

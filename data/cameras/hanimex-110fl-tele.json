@@ -1,0 +1,29 @@
+{
+  "id": "hanimex-110fl-tele",
+  "brand": "Hanimex",
+  "brand_cn": "",
+  "brand_slug": "hanimex",
+  "country": "待补充",
+  "manufacturer": "Hanimex",
+  "model": "110FL Tele",
+  "year": 1990,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hanimex胶片相机，1990 年发布",
+  "description": "The Hanimex 110FL Tele is a camera for 110 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hanimex 110FL Tele"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hanimex 110FL Tele",
+      "url": "https://camera-wiki.org/wiki/Hanimex%20110FL%20Tele"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

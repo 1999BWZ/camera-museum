@@ -1,0 +1,29 @@
+{
+  "id": "minolta-mica-automat",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Mica Automat",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达微型相机，1947 年发布",
+  "description": "The Mica Automat (ミカオートマット) is a Japanese subminiature camera using 16mm film, made by Konan in the late 1940s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mica Automat"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mica Automat",
+      "url": "https://camera-wiki.org/wiki/Mica%20Automat"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

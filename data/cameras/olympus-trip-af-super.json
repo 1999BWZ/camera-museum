@@ -1,0 +1,29 @@
+{
+  "id": "olympus-trip-af-super",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Trip AF Super",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，1990 年发布",
+  "description": "The Trip AF Super of 1990 is a fully-automatic 35mm compact camera, with motor drive and autofocus manufactured by Olympus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Trip AF Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Trip AF Super",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Trip%20AF%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

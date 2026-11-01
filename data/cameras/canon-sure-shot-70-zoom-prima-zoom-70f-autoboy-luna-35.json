@@ -1,0 +1,37 @@
+{
+  "id": "canon-sure-shot-70-zoom-prima-zoom-70f-autoboy-luna-35",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot 70 Zoom/Prima Zoom 70F/Autoboy Luna 35",
+  "year": 1995,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1995 年发布",
+  "description": "An April 1995 model from the Sure Shot series, the Sure Shot 70 Zoom (Euro: Prima Zoom 70F, Japan: Autoboy Luna 35) was a compact camera with fully automatic 3-point autofocus and a zoom lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot 70 Zoom/Prima Zoom 70F/Autoboy Luna 35"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm4.staticflickr.com/3169/2979365008_7eea1ed22d.jpg",
+      "caption": "Sure Shot 70 Zoom/Prima Zoom 70F/Autoboy Luna 35",
+      "source": "Flickr（accurimbono）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/10220762@N05/2979365008/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot 70 Zoom/Prima Zoom 70F/Autoboy Luna 35",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%2070%20Zoom/Prima%20Zoom%2070F/Autoboy%20Luna%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

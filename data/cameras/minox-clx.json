@@ -1,0 +1,29 @@
+{
+  "id": "minox-clx",
+  "brand": "Minox",
+  "brand_cn": "",
+  "brand_slug": "minox",
+  "country": "待补充",
+  "manufacturer": "Minox",
+  "model": "CLX",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minox微型相机，1998 年发布",
+  "description": "Properties of the Minox CLX:\n* All technical data as of Minox TLX\n* Brass body, chrome-plated and polished surface (called \"Guillochierung\")\n* Engraved with a Walter Zapp signature and the dates 1938-1998",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minox CLX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minox CLX",
+      "url": "https://camera-wiki.org/wiki/Minox%20CLX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

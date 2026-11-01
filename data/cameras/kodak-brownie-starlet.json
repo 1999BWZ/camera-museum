@@ -1,0 +1,29 @@
+{
+  "id": "kodak-brownie-starlet",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Brownie Starlet",
+  "year": 1957,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1957 年发布",
+  "description": "The Brownie Starlet is a simple plastic fixed focus camera made by Kodak starting in 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Brownie Starlet"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Brownie Starlet",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Brownie%20Starlet"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

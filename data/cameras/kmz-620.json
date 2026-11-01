@@ -1,0 +1,29 @@
+{
+  "id": "kmz-620",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "俄罗斯",
+  "manufacturer": "KMZ",
+  "model": "620",
+  "year": 2000,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ胶片相机，2000 年发布",
+  "description": "The Zenit 620 is a 35mm film camera released in 2000 and produced in Taiwan.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit 620"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit 620",
+      "url": "https://camera-wiki.org/wiki/Zenit%20620"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

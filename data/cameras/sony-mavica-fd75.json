@@ -1,0 +1,29 @@
+{
+  "id": "sony-mavica-fd75",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Mavica FD75",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2001 年发布",
+  "description": "The MVC-FD75 was the base model in the 2001 digital Mavica line from Sony, introduced alongside the higher-spec Mavica FD87, FD92, and FD97 [http://www.dpreview.com/news/2001/2/14/newsonys \"Seven New Sony's\"], Feb 14, 2001, at [http://www.dpreview.com/ DPReview.com]..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Mavica FD75"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Mavica FD75",
+      "url": "https://camera-wiki.org/wiki/Sony%20Mavica%20FD75"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pentax-q-s1",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Q-S1",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2014 年发布",
+  "description": "The QS-1 is a digital mirrorless interchangeable lens system camera introduced by Pentax Ricoh Imaging in 2014.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax Q-S1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax Q-S1",
+      "url": "https://camera-wiki.org/wiki/Pentax%20Q-S1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

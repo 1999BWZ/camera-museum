@@ -1,0 +1,29 @@
+{
+  "id": "hewlett-packard-hp-photosmart-m417",
+  "brand": "Hewlett-Packard",
+  "brand_cn": "",
+  "brand_slug": "hewlett-packard",
+  "country": "待补充",
+  "manufacturer": "Hewlett-Packard",
+  "model": "HP PhotoSmart M417",
+  "year": 2005,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Hewlett-Packard数码相机，2005 年发布",
+  "description": "The HP PhotoSmart M417 is a 2005 digital camera from Hewlett-Packard, with a 3x optical zoom and a 5.2 megapixel sensor.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "HP PhotoSmart M417"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – HP PhotoSmart M417",
+      "url": "https://camera-wiki.org/wiki/HP%20PhotoSmart%20M417"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

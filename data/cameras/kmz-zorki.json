@@ -1,0 +1,29 @@
+{
+  "id": "kmz-zorki",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "苏联",
+  "manufacturer": "KMZ",
+  "model": "Zorki",
+  "year": 1948,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ旁轴相机，1948 年发布",
+  "description": "Zorki ( Зоркий, meaning \"sharp-sighted\") is one of the most widely known Soviet photo brands.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zorki"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zorki",
+      "url": "https://camera-wiki.org/wiki/Zorki"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

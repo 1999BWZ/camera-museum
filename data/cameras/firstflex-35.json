@@ -1,0 +1,29 @@
+{
+  "id": "firstflex-35",
+  "brand": "Firstflex",
+  "brand_cn": "",
+  "brand_slug": "firstflex",
+  "country": "待补充",
+  "manufacturer": "Firstflex",
+  "model": "35",
+  "year": 1955,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Firstflex数码单反相机，1955 年发布",
+  "description": "The early Firstflex-35 model is a leaf-shutter SLR with waist level finder and a special lens bayonet, made starting in 1955 by Tokiwa Seiki.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Firstflex 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Firstflex 35",
+      "url": "https://camera-wiki.org/wiki/Firstflex%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "beier-regina",
+  "brand": "Beier",
+  "brand_cn": "",
+  "brand_slug": "beier",
+  "country": "待补充",
+  "manufacturer": "Beier",
+  "model": "Regina",
+  "year": 1938,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beier折叠相机，1938 年发布",
+  "description": "The Regina folding camera has no maker's name but looks identical to a Beier Precisa.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Regina"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Regina",
+      "url": "https://camera-wiki.org/wiki/Regina"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

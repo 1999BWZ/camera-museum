@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-royal-ruby-stereo-camera",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "待补充",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Royal Ruby stereo camera",
+  "year": 1908,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard立体相机，1908 年发布",
+  "description": "The Royal Ruby stereo camera is a top-of-the-range folding plate camera for half-plate as well as stereo format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Thornton-Pickard Royal Ruby stereo camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Thornton-Pickard Royal Ruby stereo camera",
+      "url": "https://camera-wiki.org/wiki/Thornton-Pickard%20Royal%20Ruby%20stereo%20camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

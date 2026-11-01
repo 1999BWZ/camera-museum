@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-gaica",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "Gaica",
+  "year": 1940,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光折叠相机，1940 年发布",
+  "description": "The Gaica (ガイカ) is a Japanese 4.5×6 folder made and sold from 1940 by Riken Kōgaku Kōgyō (today Ricoh), in the Ōji plant.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Gaica"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Gaica",
+      "url": "https://camera-wiki.org/wiki/Gaica"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

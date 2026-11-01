@@ -1,0 +1,29 @@
+{
+  "id": "konica-ee-matic",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "EE-Matic",
+  "year": 1963,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡旁轴相机，1963 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Konica EE-Matic is a rangefinder camera with selenium meter controlled exposure.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica EE-Matic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica EE-Matic",
+      "url": "https://camera-wiki.org/wiki/Konica%20EE-Matic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

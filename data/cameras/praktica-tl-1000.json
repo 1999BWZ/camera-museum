@@ -1,0 +1,29 @@
+{
+  "id": "praktica-tl-1000",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "TL 1000",
+  "year": 1979,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片单反相机，1979 年发布",
+  "description": "The Praktika Super TL 1000 was made by Pentacon from 1979-86 Page 589.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica super TL 1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica super TL 1000",
+      "url": "https://camera-wiki.org/wiki/Praktica%20super%20TL%201000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

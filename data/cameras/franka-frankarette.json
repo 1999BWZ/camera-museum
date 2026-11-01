@@ -1,0 +1,29 @@
+{
+  "id": "franka-frankarette",
+  "brand": "Franka",
+  "brand_cn": "",
+  "brand_slug": "franka",
+  "country": "待补充",
+  "manufacturer": "Franka",
+  "model": "Frankarette",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Franka旁轴相机，1956 年发布",
+  "description": "The specialty of Franka's Super Frankarette was the coupled pair of setting rings for aperture and shutter speed.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Frankarette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Frankarette",
+      "url": "https://camera-wiki.org/wiki/Super%20Frankarette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

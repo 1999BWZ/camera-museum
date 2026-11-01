@@ -1,0 +1,29 @@
+{
+  "id": "voigtl-nder-virtus",
+  "brand": "Voigtländer",
+  "brand_cn": "",
+  "brand_slug": "voigtl-nder",
+  "country": "待补充",
+  "manufacturer": "Voigtländer",
+  "model": "Virtus",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Voigtländer折叠相机，1932 年发布",
+  "description": "The Virtus was produced in 1932 by Voigtländer.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Virtus"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Virtus",
+      "url": "https://camera-wiki.org/wiki/Virtus"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

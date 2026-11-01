@@ -1,0 +1,29 @@
+{
+  "id": "nicca-3-f",
+  "brand": "Nicca",
+  "brand_cn": "",
+  "brand_slug": "nicca",
+  "country": "待补充",
+  "manufacturer": "Nicca",
+  "model": "3-F",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nicca旁轴相机，1956 年发布",
+  "description": "The Nicca 3-F is a 35mm Leica thread mount camera produced by the Japanese company Nicca from 1956 to 1957.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nicca 3-F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nicca 3-F",
+      "url": "https://camera-wiki.org/wiki/Nicca%203-F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

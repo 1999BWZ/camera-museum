@@ -1,0 +1,29 @@
+{
+  "id": "sony-mavica-cd1000",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Mavica CD1000",
+  "year": 2000,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2000 年发布",
+  "description": "Introduced in 2000, the Mavica MVC-CD1000 was the first Mavica digital camera from Sony to use optical CD-R discs, where earlier Mavicas (like the CD1000's predecessor the FD95) used 3.5\" floppies.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Mavica CD1000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Mavica CD1000",
+      "url": "https://camera-wiki.org/wiki/Sony%20Mavica%20CD1000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

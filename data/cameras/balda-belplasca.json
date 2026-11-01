@@ -1,0 +1,29 @@
+{
+  "id": "balda-belplasca",
+  "brand": "Balda",
+  "brand_cn": "",
+  "brand_slug": "balda",
+  "country": "待补充",
+  "manufacturer": "Balda",
+  "model": "Belplasca",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Balda立体相机，1954 年发布",
+  "description": "The Belplasca was the main part of VEB Belca-Werk's product palette for stereoscopic photography.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Belplasca"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Belplasca",
+      "url": "https://camera-wiki.org/wiki/Belplasca"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

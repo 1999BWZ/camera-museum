@@ -1,0 +1,29 @@
+{
+  "id": "konica-eye",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "EYE",
+  "year": 1964,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡取景器相机，1964 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|-\n||\n\n|}\nThe Konica EYE cameras are a series half frame viewfinder cameras for 35mm film which were made by Konica from 1964.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica EYE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica EYE",
+      "url": "https://camera-wiki.org/wiki/Konica%20EYE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

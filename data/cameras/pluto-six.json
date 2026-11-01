@@ -1,0 +1,29 @@
+{
+  "id": "pluto-six",
+  "brand": "Pluto",
+  "brand_cn": "",
+  "brand_slug": "pluto",
+  "country": "待补充",
+  "manufacturer": "Pluto",
+  "model": "Six",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pluto折叠相机，1955 年发布",
+  "description": "The Pluto Six (プラトーシックス) are Japanese 6×6 folders made in 1955 by Shichiyō Kōgaku Kōgyō and distributed by Pluto Shōkai.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pluto Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pluto Six",
+      "url": "https://camera-wiki.org/wiki/Pluto%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

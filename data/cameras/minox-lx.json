@@ -1,0 +1,29 @@
+{
+  "id": "minox-lx",
+  "brand": "Minox",
+  "brand_cn": "",
+  "brand_slug": "minox",
+  "country": "待补充",
+  "manufacturer": "Minox",
+  "model": "LX",
+  "year": 1978,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minox微型相机，1978 年发布",
+  "description": "The Minox Model LX is the most long-lived Minox model.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minox LX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minox LX",
+      "url": "https://camera-wiki.org/wiki/Minox%20LX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

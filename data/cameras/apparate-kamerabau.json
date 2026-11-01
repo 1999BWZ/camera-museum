@@ -1,0 +1,29 @@
+{
+  "id": "apparate-kamerabau",
+  "brand": "Apparate",
+  "brand_cn": "",
+  "brand_slug": "apparate",
+  "country": "待补充",
+  "manufacturer": "Apparate",
+  "model": "& Kamerabau",
+  "year": 1959,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Apparate立体相机，1959 年发布",
+  "description": "Apparate und Kamerabau GmbH was a camera manufacturer based in Friedrichshafen, Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Apparate & Kamerabau"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Apparate & Kamerabau",
+      "url": "https://camera-wiki.org/wiki/Apparate%20%26%20Kamerabau"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "character-cameras-dick-tracy",
+  "brand": "Character cameras",
+  "brand_cn": "",
+  "brand_slug": "character-cameras",
+  "country": "待补充",
+  "manufacturer": "Character cameras",
+  "model": "Dick Tracy",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Character cameras取景器相机，1947 年发布",
+  "description": "{| align=\"right\"\n|-\n|\n\n|-\n|\n\n|}\n\nThe Dick Tracy is a small bakelite camera for 127 film, made c.1947 by Seymour Products Co, using a 1938 design by Jack Galter[http://www.freepatentsonline.com/D114324.pdf US design patent 114,324] from [http://www.freepatentsonline.com/ freepatentsonline.com].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Dick Tracy"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Dick Tracy",
+      "url": "https://camera-wiki.org/wiki/Dick%20Tracy"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

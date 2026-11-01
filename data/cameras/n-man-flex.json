@@ -1,0 +1,29 @@
+{
+  "id": "n-man-flex",
+  "brand": "Nōman",
+  "brand_cn": "",
+  "brand_slug": "n-man",
+  "country": "待补充",
+  "manufacturer": "Nōman",
+  "model": "Flex",
+  "year": 1942,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nōman胶片相机，1942 年发布",
+  "description": "The Nōman Flex The spelling \"Norman Flex\" found in , item 2018, and in [http://web.archive.org/web/20080208205842/http://rd2h-ari.hp.infoseek.co.jp/2GAN_SHIRYOU2.htm this page (archive.org)] at [http://www.asahi-net.or.jp/~rd2h-ari/ Japan Family Camera] is a mistake.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nōman Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nōman Flex",
+      "url": "https://camera-wiki.org/wiki/N%C5%8Dman%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fuji-caflex",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "caflex",
+  "year": 1954,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji中画幅相机，1954 年发布",
+  "description": "The Fujicaflex is a 6x6 TLR camera that uses 120 medium format roll film and introduced by Fuji in 1954.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujicaflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujicaflex",
+      "url": "https://camera-wiki.org/wiki/Fujicaflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

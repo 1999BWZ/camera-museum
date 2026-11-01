@@ -1,0 +1,40 @@
+{
+  "id": "sigma-sd15",
+  "brand": "Sigma",
+  "brand_cn": "适马",
+  "brand_slug": "sigma",
+  "country": "日本",
+  "manufacturer": "适马",
+  "model": "SD15",
+  "year": 2011,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "适马数码单反相机，2011 年发布",
+  "description": "适马于2011年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q252689",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigma%20SD15.jpg?width=800",
+      "caption": "SD15",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q252689"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sigma SD15",
+      "url": "https://www.wikidata.org/wiki/Q252689"
+    }
+  ],
+  "qid": "Q252689",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

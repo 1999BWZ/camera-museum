@@ -1,0 +1,29 @@
+{
+  "id": "ilford-sportsman-c-instant",
+  "brand": "Ilford",
+  "brand_cn": "",
+  "brand_slug": "ilford",
+  "country": "待补充",
+  "manufacturer": "Ilford",
+  "model": "Sportsman C Instant",
+  "year": 1967,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ilford胶片相机，1967 年发布",
+  "description": "The Ilford Sportsman C Instant was a viewfinder camera for type No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ilford Sportsman C Instant"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ilford Sportsman C Instant",
+      "url": "https://camera-wiki.org/wiki/Ilford%20Sportsman%20C%20Instant"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

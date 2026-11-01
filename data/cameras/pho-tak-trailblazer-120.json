@@ -1,0 +1,29 @@
+{
+  "id": "pho-tak-trailblazer-120",
+  "brand": "Pho-Tak",
+  "brand_cn": "",
+  "brand_slug": "pho-tak",
+  "country": "美国",
+  "manufacturer": "Pho-Tak",
+  "model": "Trailblazer 120",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pho-Tak盒式相机，1950 年发布",
+  "description": "The Trailblazer \"120\" is another of Pho-Tak's basic box cameras for 6&times;9 exposures on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Trailblazer 120"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Trailblazer 120",
+      "url": "https://camera-wiki.org/wiki/Trailblazer%20120"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

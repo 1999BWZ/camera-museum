@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-pathfinder",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Pathfinder",
+  "year": 1952,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1952 年发布",
+  "description": "Pathfinder was the name given a series of cameras manufactured by Polaroid and Yashica from the early 1950s until 1964.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Pathfinder"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Pathfinder",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Pathfinder"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pentax-645n",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "645N",
+  "year": 1997,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1997 年发布",
+  "description": "The 645N is a auto focus medium format SLR film camera released by Pentax on 6 December 1997 in Japan, and introduced in the US in February 1998.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax 645N"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax 645N",
+      "url": "https://camera-wiki.org/wiki/Pentax%20645N"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

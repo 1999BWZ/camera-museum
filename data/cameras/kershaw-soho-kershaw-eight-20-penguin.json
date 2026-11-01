@@ -1,0 +1,29 @@
+{
+  "id": "kershaw-soho-kershaw-eight-20-penguin",
+  "brand": "Kershaw-Soho",
+  "brand_cn": "",
+  "brand_slug": "kershaw-soho",
+  "country": "英国",
+  "manufacturer": "Kershaw-Soho",
+  "model": "Kershaw Eight-20 Penguin",
+  "year": 1946,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kershaw-Soho折叠相机，1946 年发布",
+  "description": "The Kershaw Eight-20 Penguin is one of the simpler cameras by Kershaw-Soho.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kershaw Eight-20 Penguin"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kershaw Eight-20 Penguin",
+      "url": "https://camera-wiki.org/wiki/Kershaw%20Eight-20%20Penguin"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

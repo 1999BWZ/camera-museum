@@ -1,0 +1,29 @@
+{
+  "id": "vredeborch-regia-box",
+  "brand": "Vredeborch",
+  "brand_cn": "",
+  "brand_slug": "vredeborch",
+  "country": "待补充",
+  "manufacturer": "Vredeborch",
+  "model": "Regia Box",
+  "year": 1952,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Vredeborch盒式相机，1952 年发布",
+  "description": "One of the numerous variations on the basic Vrede Box camera from Vredeborch, this is a box camera for 6x9 exposures on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Regia Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Regia Box",
+      "url": "https://camera-wiki.org/wiki/Regia%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

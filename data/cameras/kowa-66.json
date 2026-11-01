@@ -1,0 +1,29 @@
+{
+  "id": "kowa-66",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "66",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa胶片单反相机，1968 年发布",
+  "description": "The Super 66 is an SLR camera for 6x6 cm pictures on 120 film or 220 film, made by Kowa in about 1968.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa Super 66"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa Super 66",
+      "url": "https://camera-wiki.org/wiki/Kowa%20Super%2066"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leica-af-c1",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "AF-C1",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡胶片相机，1989 年发布",
+  "description": "The AF-C1 (not to be confused with the later Leica C1) was Leica's first compact autofocus camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica AF-C1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica AF-C1",
+      "url": "https://camera-wiki.org/wiki/Leica%20AF-C1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "aires-yallu-flex",
+  "brand": "Aires",
+  "brand_cn": "",
+  "brand_slug": "aires",
+  "country": "待补充",
+  "manufacturer": "Aires",
+  "model": "Yallu Flex",
+  "year": 1949,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Aires胶片相机，1949 年发布",
+  "description": "The Yallu Flex (ヤルーフレックス) is a 35mm TLR produced as a prototype in 1949 by Yallu Optical Co Ltd (ヤルー光学, Yarū Kōgaku), a company formed afresh for the purpose.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yallu Flex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yallu Flex",
+      "url": "https://camera-wiki.org/wiki/Yallu%20Flex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

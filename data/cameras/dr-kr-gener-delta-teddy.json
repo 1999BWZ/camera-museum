@@ -1,0 +1,29 @@
+{
+  "id": "dr-kr-gener-delta-teddy",
+  "brand": "Dr. Krügener",
+  "brand_cn": "",
+  "brand_slug": "dr-kr-gener",
+  "country": "待补充",
+  "manufacturer": "Dr. Krügener",
+  "model": "Delta Teddy",
+  "year": 1908,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dr. Krügener折叠相机，1908 年发布",
+  "description": "Delta was a trademark for a series of cameras made by Dr.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Dr. Krügener Delta Teddy"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Dr. Krügener Delta Teddy",
+      "url": "https://camera-wiki.org/wiki/Dr.%20Kr%C3%BCgener%20Delta%20Teddy"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

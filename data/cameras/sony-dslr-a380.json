@@ -1,0 +1,40 @@
+{
+  "id": "sony-dslr-a380",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "索尼",
+  "model": "DSLR-A380",
+  "year": 2009,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码单反相机，2009 年发布",
+  "description": "索尼于2009年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q851638",
+    "多语言词条数": "6"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Alpha%20380%20--%202014%20--%200055A.jpg?width=800",
+      "caption": "DSLR-A380",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q851638"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Sony DSLR-A380",
+      "url": "https://www.wikidata.org/wiki/Q851638"
+    }
+  ],
+  "qid": "Q851638",
+  "sitelinks": 6,
+  "imported": "wikidata-5k-2026-11-01"
+}

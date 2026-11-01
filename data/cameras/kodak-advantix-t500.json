@@ -1,0 +1,29 @@
+{
+  "id": "kodak-advantix-t500",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Advantix T500",
+  "year": 1999,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1999 年发布",
+  "description": "The Advantix T500 is an auto-focus compact camera for the APS film system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Advantix T500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Advantix T500",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Advantix%20T500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

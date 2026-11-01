@@ -1,0 +1,29 @@
+{
+  "id": "pentacon-praktisix",
+  "brand": "Pentacon",
+  "brand_cn": "",
+  "brand_slug": "pentacon",
+  "country": "待补充",
+  "manufacturer": "Pentacon",
+  "model": "Praktisix",
+  "year": 1957,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pentacon胶片单反相机，1957 年发布",
+  "description": "The Praktisix was a medium-format SLR with a waist-level viewfinder, made by by KW and later Pentacon in East Germany.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktisix"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktisix",
+      "url": "https://camera-wiki.org/wiki/Praktisix"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

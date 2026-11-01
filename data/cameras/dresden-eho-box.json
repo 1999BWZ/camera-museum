@@ -1,0 +1,29 @@
+{
+  "id": "dresden-eho-box",
+  "brand": "Dresden",
+  "brand_cn": "",
+  "brand_slug": "dresden",
+  "country": "待补充",
+  "manufacturer": "Dresden",
+  "model": "EHO Box",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dresden盒式相机，1930 年发布",
+  "description": "From 1930 onwards Eho-Altissa in Dresden produced a whole series of box cameras known as EHO box followed by a model number.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "EHO Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – EHO Box",
+      "url": "https://camera-wiki.org/wiki/EHO%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hasselblad-503-cw",
+  "brand": "Hasselblad",
+  "brand_cn": "哈苏",
+  "brand_slug": "hasselblad",
+  "country": "瑞典",
+  "manufacturer": "Hasselblad",
+  "model": "503 CW",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "哈苏胶片单反相机，1996 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\n\nIntroduced in 1996, the 503CW was the final model in the series of 6&times;6 SLRs from Hasselblad which originated from the 1957 Hasselblad 500 C.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Hasselblad 503 CW"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Hasselblad 503 CW",
+      "url": "https://camera-wiki.org/wiki/Hasselblad%20503%20CW"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

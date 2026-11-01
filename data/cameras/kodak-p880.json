@@ -1,0 +1,37 @@
+{
+  "id": "kodak-p880",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "P880",
+  "year": 2005,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码单反相机，2005 年发布",
+  "description": "The Kodak Easyshare P880 was introduced in September 2005, it is the top camera in the new performance series which also includes the P850.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak P880"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm3.static.flickr.com/2342/2260724114_8272a02bd3.jpg",
+      "caption": "P880",
+      "source": "Flickr（Terri Monahan）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/californiagirl27/2260724114/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak P880",
+      "url": "https://camera-wiki.org/wiki/Kodak%20P880"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

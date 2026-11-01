@@ -1,0 +1,29 @@
+{
+  "id": "franka-franka",
+  "brand": "Franka",
+  "brand_cn": "",
+  "brand_slug": "franka",
+  "country": "待补充",
+  "manufacturer": "Franka",
+  "model": "Franka",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Franka胶片相机，1959 年发布",
+  "description": "The Franka-Kamerawerk in Bayreuth was in its time the biggest camera factory in the Bavarian region of Oberfranken (Upper Frankonia).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Franka"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Franka",
+      "url": "https://camera-wiki.org/wiki/Franka"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

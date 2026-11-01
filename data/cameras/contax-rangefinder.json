@@ -1,0 +1,29 @@
+{
+  "id": "contax-rangefinder",
+  "brand": "Contax",
+  "brand_cn": "康泰时",
+  "brand_slug": "contax",
+  "country": "德国",
+  "manufacturer": "Contax",
+  "model": "rangefinder",
+  "year": 1932,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "康泰时旁轴相机，1932 年发布",
+  "description": "Contax are a range of cameras with a proprietary bayonet mount made by Zeiss Ikon.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contax rangefinder"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contax rangefinder",
+      "url": "https://camera-wiki.org/wiki/Contax%20rangefinder"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

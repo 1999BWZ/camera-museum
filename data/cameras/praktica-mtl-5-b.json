@@ -1,0 +1,29 @@
+{
+  "id": "praktica-mtl-5-b",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "MTL 5 B",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康胶片单反相机，1985 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Praktica MTL 5 B is a 35mm SLR made in Dresden, East Germany by Pentacon between 1985 & 1989.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica MTL 5 B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica MTL 5 B",
+      "url": "https://camera-wiki.org/wiki/Praktica%20MTL%205%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

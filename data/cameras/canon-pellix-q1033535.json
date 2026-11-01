@@ -1,0 +1,40 @@
+{
+  "id": "canon-pellix-q1033535",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "佳能",
+  "model": "Pellix",
+  "year": 1965,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能胶片单反相机，1965 年发布",
+  "description": "佳能于1965年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1033535",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20pellix.jpg?width=800",
+      "caption": "Pellix",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1033535"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Canon Pellix",
+      "url": "https://www.wikidata.org/wiki/Q1033535"
+    }
+  ],
+  "qid": "Q1033535",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

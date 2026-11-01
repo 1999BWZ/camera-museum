@@ -1,0 +1,29 @@
+{
+  "id": "ansco-cadet-reflex",
+  "brand": "Ansco",
+  "brand_cn": "",
+  "brand_slug": "ansco",
+  "country": "美国",
+  "manufacturer": "Ansco",
+  "model": "Cadet Reflex",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ansco胶片相机，1959 年发布",
+  "description": "The Ansco Cadet Reflex was a pseudo TLR made in Binghampton, New York by Ansco, introduced in c.1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ansco Cadet Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ansco Cadet Reflex",
+      "url": "https://camera-wiki.org/wiki/Ansco%20Cadet%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

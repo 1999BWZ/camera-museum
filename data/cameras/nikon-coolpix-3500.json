@@ -1,0 +1,40 @@
+{
+  "id": "nikon-coolpix-3500",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Coolpix 3500",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2002 年发布",
+  "description": "尼康于2002年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3341738",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Coolpix%203500.jpg?width=800",
+      "caption": "Coolpix 3500",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q3341738"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Coolpix 3500",
+      "url": "https://www.wikidata.org/wiki/Q3341738"
+    }
+  ],
+  "qid": "Q3341738",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

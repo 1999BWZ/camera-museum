@@ -1,0 +1,29 @@
+{
+  "id": "kodak-brownie-bull-s-eye",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Brownie Bull's-Eye",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达盒式相机，1954 年发布",
+  "description": "The Brownie Bull's-Eye was a Bakelite Box camera taking 8 6x9 exposures on 620 film, made by Kodak between 1954 & 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Brownie Bull's-Eye"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Brownie Bull's-Eye",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Brownie%20Bull%27s-Eye"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

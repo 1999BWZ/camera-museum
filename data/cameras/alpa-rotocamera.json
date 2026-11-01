@@ -1,0 +1,29 @@
+{
+  "id": "alpa-rotocamera",
+  "brand": "Alpa",
+  "brand_cn": "",
+  "brand_slug": "alpa",
+  "country": "待补充",
+  "manufacturer": "Alpa",
+  "model": "Rotocamera",
+  "year": 1980,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Alpa全景相机，1980 年发布",
+  "description": "The Alpa RotocameraThere is evidently more than one model of the camera, probably reflecting improvements over time.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Alpa Rotocamera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Alpa Rotocamera",
+      "url": "https://camera-wiki.org/wiki/Alpa%20Rotocamera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

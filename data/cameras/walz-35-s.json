@@ -1,0 +1,29 @@
+{
+  "id": "walz-35-s",
+  "brand": "Walz",
+  "brand_cn": "",
+  "brand_slug": "walz",
+  "country": "待补充",
+  "manufacturer": "Walz",
+  "model": "35-S",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Walz旁轴相机，1957 年发布",
+  "description": "{| class=\"plainlinks floatright\" style=\"text-align: center;\"\n|| [https://www.flickr.com/photos/dcsides/44325775892/in/pool-camerawiki https://live.staticflickr.com/1887/44325775892_f2c9dff8c4_n_d.jpg]\n|-\n|| Walz 35-SPicture by .",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Walz 35-S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Walz 35-S",
+      "url": "https://camera-wiki.org/wiki/Walz%2035-S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

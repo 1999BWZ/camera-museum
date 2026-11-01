@@ -1,0 +1,29 @@
+{
+  "id": "leica-s1-pro",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "S1 Pro",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码相机，1998 年发布",
+  "description": "This page is about an early Leica digital camera, not related to the Leica S series of DSLR cameras of about 2008.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica S1 Pro"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica S1 Pro",
+      "url": "https://camera-wiki.org/wiki/Leica%20S1%20Pro"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

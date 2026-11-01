@@ -1,0 +1,40 @@
+{
+  "id": "kodak-dcs-pro-14n",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "伊士曼柯达公司",
+  "model": "DCS Pro 14n",
+  "year": 2003,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码单反相机，2003 年发布",
+  "description": "柯达于2003年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q906448",
+    "多语言词条数": "8"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak%20DCS%20pro%200605.jpg?width=800",
+      "caption": "DCS Pro 14n",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q906448"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Kodak DCS Pro 14n",
+      "url": "https://www.wikidata.org/wiki/Q906448"
+    }
+  ],
+  "qid": "Q906448",
+  "sitelinks": 8,
+  "imported": "wikidata-5k-2026-11-01"
+}

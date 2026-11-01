@@ -1,0 +1,29 @@
+{
+  "id": "telka-i",
+  "brand": "Telka",
+  "brand_cn": "",
+  "brand_slug": "telka",
+  "country": "法国",
+  "manufacturer": "Telka",
+  "model": "I",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Telka折叠相机，1950 年发布",
+  "description": "The Telka I was made by DeMaria-Lapierre in Paris and made 6&times;9cm exposures on 120 rollfilm.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Telka I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Telka I",
+      "url": "https://camera-wiki.org/wiki/Telka%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

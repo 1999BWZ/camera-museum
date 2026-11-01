@@ -1,0 +1,29 @@
+{
+  "id": "balda-fix",
+  "brand": "Balda",
+  "brand_cn": "",
+  "brand_slug": "balda",
+  "country": "待补充",
+  "manufacturer": "Balda",
+  "model": "fix",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Balda折叠相机，1950 年发布",
+  "description": "The Baldafix folding camera was introduced in 1950 by Balda, and in its standard mode provided eight exposures of 6&times;9 cm per roll of 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baldafix"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baldafix",
+      "url": "https://camera-wiki.org/wiki/Baldafix"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

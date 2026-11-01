@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-taz",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Taz",
+  "year": 1999,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1999 年发布",
+  "description": "One notable member of the Integral 600-film series from Polaroid was a model (made circa 1999) in the shape of the Warner Brothers cartoon character the Tasmanian Devil.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Taz"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Taz",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Taz"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

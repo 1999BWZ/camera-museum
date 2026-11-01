@@ -1,0 +1,29 @@
+{
+  "id": "kmz-em",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "EM",
+  "year": 1972,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ胶片单反相机，1972 年发布",
+  "description": "The Russian Zenit EM 35mm SLR was part of a long running series of Zenit cameras and was an upgraded version of the Zenit E, adding automatic diaphragm stop-down with appropriate M42 lenses and a shutter release separated from the winding lever/film counter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Zenit EM"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Zenit EM",
+      "url": "https://camera-wiki.org/wiki/Zenit%20EM"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

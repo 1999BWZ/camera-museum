@@ -1,0 +1,29 @@
+{
+  "id": "nikon-l135af",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "L135AF",
+  "year": 1984,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1984 年发布",
+  "description": "The Nikon L135AF is a compact camera for 35mm film, introduced as part of the L series, by Nikon in 1984.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon L135AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon L135AF",
+      "url": "https://camera-wiki.org/wiki/Nikon%20L135AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

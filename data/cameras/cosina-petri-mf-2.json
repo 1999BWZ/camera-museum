@@ -1,0 +1,29 @@
+{
+  "id": "cosina-petri-mf-2",
+  "brand": "Cosina",
+  "brand_cn": "",
+  "brand_slug": "cosina",
+  "country": "待补充",
+  "manufacturer": "Cosina",
+  "model": "Petri MF-2",
+  "year": 1980,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Cosina胶片单反相机，1980 年发布",
+  "description": "The Petri MF-2 is a manual focus 35mm SLR from Petri.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri MF-2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri MF-2",
+      "url": "https://camera-wiki.org/wiki/Petri%20MF-2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodak-dcs-300-series",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "DCS 300 series",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达数码相机，1998 年发布",
+  "description": "The DCS-315 is a 1.5 megapixel digital SLR camera from Kodak.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak DCS 300 series"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak DCS 300 series",
+      "url": "https://camera-wiki.org/wiki/Kodak%20DCS%20300%20series"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

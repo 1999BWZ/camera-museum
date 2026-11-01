@@ -1,0 +1,29 @@
+{
+  "id": "eastar-s2",
+  "brand": "Eastar",
+  "brand_cn": "",
+  "brand_slug": "eastar",
+  "country": "中国",
+  "manufacturer": "Eastar",
+  "model": "S2",
+  "year": 1965,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Eastar旁轴相机，1965 年发布",
+  "description": "The Eastar S2 is a Chinese made 35mm film rangefinder camera produced from 1965 to 1990 by the Tianjin Camera Factory.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Eastar S2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Eastar S2",
+      "url": "https://camera-wiki.org/wiki/Eastar%20S2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

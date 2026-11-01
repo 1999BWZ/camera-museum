@@ -1,0 +1,29 @@
+{
+  "id": "leotax-k3",
+  "brand": "Leotax",
+  "brand_cn": "",
+  "brand_slug": "leotax",
+  "country": "待补充",
+  "manufacturer": "Leotax",
+  "model": "K3",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leotax旁轴相机，1958 年发布",
+  "description": "The Leotax K3 is a 35mm rangefinder camera produced by Shōwa Kōgaku.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leotax K3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leotax K3",
+      "url": "https://camera-wiki.org/wiki/Leotax%20K3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

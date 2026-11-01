@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-flex-b",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "flex B",
+  "year": 1941,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1941 年发布",
+  "description": "The Ricohflex B (理光フレックスB型) is a Japanese 6×6 TLR made and sold by Riken Kōgaku Kōgyō in 1941 and 1942.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricohflex B"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricohflex B",
+      "url": "https://camera-wiki.org/wiki/Ricohflex%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

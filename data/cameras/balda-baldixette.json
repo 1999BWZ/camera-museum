@@ -1,0 +1,29 @@
+{
+  "id": "balda-baldixette",
+  "brand": "Balda",
+  "brand_cn": "",
+  "brand_slug": "balda",
+  "country": "待补充",
+  "manufacturer": "Balda",
+  "model": "Baldixette",
+  "year": 1956,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Balda取景器相机，1956 年发布",
+  "description": "The Baldixette is a simple camera taking 6x6cm images on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baldixette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baldixette",
+      "url": "https://camera-wiki.org/wiki/Baldixette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

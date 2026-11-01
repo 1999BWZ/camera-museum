@@ -1,0 +1,29 @@
+{
+  "id": "agfa-compact-electronic",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Compact Electronic",
+  "year": 1980,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发取景器相机，1980 年发布",
+  "description": "The Agfa Compact was first presented in 1980 as the Agfa Optima 935, being both the last in the Optima Sensor series and the last camera model to be produced in Agfa's Munich factory.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Compact Electronic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Compact Electronic",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Compact%20Electronic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

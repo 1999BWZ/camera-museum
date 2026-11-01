@@ -1,0 +1,29 @@
+{
+  "id": "sony-mavica-fd100",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Mavica FD100",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼数码相机，2002 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe MVC-FD100 is another Sony digital camera in the Mavica series, using floppy disks for image storage, or now optionally using a Memory Stick slot.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Mavica FD100"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Mavica FD100",
+      "url": "https://camera-wiki.org/wiki/Sony%20Mavica%20FD100"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

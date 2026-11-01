@@ -1,0 +1,29 @@
+{
+  "id": "yashica-t2",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "T2",
+  "year": 1986,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡便携相机，1986 年发布",
+  "description": "The Yashica T2 (also known as the Kyocera T) was a 35mm compact camera from Kyocera with a high-quality lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica T2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica T2",
+      "url": "https://camera-wiki.org/wiki/Yashica%20T2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

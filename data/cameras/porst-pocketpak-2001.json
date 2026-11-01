@@ -1,0 +1,29 @@
+{
+  "id": "porst-pocketpak-2001",
+  "brand": "Porst",
+  "brand_cn": "",
+  "brand_slug": "porst",
+  "country": "待补充",
+  "manufacturer": "Porst",
+  "model": "Pocketpak 2001",
+  "year": 1978,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Porst胶片相机，1978 年发布",
+  "description": "The Porst Pocketpak 2001 is a small pocket camera for 110 film cartridges.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Porst Pocketpak 2001"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Porst Pocketpak 2001",
+      "url": "https://camera-wiki.org/wiki/Porst%20Pocketpak%202001"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

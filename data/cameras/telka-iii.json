@@ -1,0 +1,29 @@
+{
+  "id": "telka-iii",
+  "brand": "Telka",
+  "brand_cn": "",
+  "brand_slug": "telka",
+  "country": "法国",
+  "manufacturer": "Telka",
+  "model": "III",
+  "year": 1948,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Telka旁轴相机，1948 年发布",
+  "description": "A folding 6x9 rangefinder by Demaria-Lapierre introduced in 1948.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Telka III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Telka III",
+      "url": "https://camera-wiki.org/wiki/Telka%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

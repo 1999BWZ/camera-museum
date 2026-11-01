@@ -1,0 +1,29 @@
+{
+  "id": "franka-solida",
+  "brand": "Franka",
+  "brand_cn": "",
+  "brand_slug": "franka",
+  "country": "待补充",
+  "manufacturer": "Franka",
+  "model": "Solida",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Franka折叠相机，1936 年发布",
+  "description": "The Franka Solida is a 6&times;6 folding camera released in 1936.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Franka Solida"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Franka Solida",
+      "url": "https://camera-wiki.org/wiki/Franka%20Solida"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

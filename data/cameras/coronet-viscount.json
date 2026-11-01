@@ -1,0 +1,29 @@
+{
+  "id": "coronet-viscount",
+  "brand": "Coronet",
+  "brand_cn": "",
+  "brand_slug": "coronet",
+  "country": "英国",
+  "manufacturer": "Coronet",
+  "model": "Viscount",
+  "year": 1957,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Coronet胶片相机，1957 年发布",
+  "description": "The Viscount is a fairly simple viewfinder camera made by Coronet c.1957 in Birmingham, England.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Coronet Viscount"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Coronet Viscount",
+      "url": "https://camera-wiki.org/wiki/Coronet%20Viscount"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

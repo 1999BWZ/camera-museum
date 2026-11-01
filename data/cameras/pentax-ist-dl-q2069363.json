@@ -1,0 +1,40 @@
+{
+  "id": "pentax-ist-dl-q2069363",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "宾得",
+  "model": "*ist DL",
+  "year": 2005,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，2005 年发布",
+  "description": "宾得于2005年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q2069363",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentax%20ist%20dl.jpg?width=800",
+      "caption": "*ist DL",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q2069363"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Pentax *ist DL",
+      "url": "https://www.wikidata.org/wiki/Q2069363"
+    }
+  ],
+  "qid": "Q2069363",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "konica-waiwai-wide",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "WaiWai Wide",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "一次性相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡一次性相机，2003 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe WaiWai Wide or WaiWai as it's commonly known is a disposable one time use camera originally released in 2003 and manufactured by Konica.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica WaiWai Wide"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm4.static.flickr.com/3290/2895108378_7ddcf6b07b.jpg",
+      "caption": "WaiWai Wide",
+      "source": "Flickr（Marco Polimeni）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/37227626@N00/2895108378/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica WaiWai Wide",
+      "url": "https://camera-wiki.org/wiki/Konica%20WaiWai%20Wide"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

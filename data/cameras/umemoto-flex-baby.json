@@ -1,0 +1,29 @@
+{
+  "id": "umemoto-flex-baby",
+  "brand": "Umemoto",
+  "brand_cn": "",
+  "brand_slug": "umemoto",
+  "country": "待补充",
+  "manufacturer": "Umemoto",
+  "model": "Flex Baby",
+  "year": 1938,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Umemoto胶片单反相机，1938 年发布",
+  "description": "The Super Flex Baby (スーパー・フレックス・ベビー) is a Japanese 4×4 SLR made from 1938 to 1942 or later.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Super Flex Baby"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Super Flex Baby",
+      "url": "https://camera-wiki.org/wiki/Super%20Flex%20Baby"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

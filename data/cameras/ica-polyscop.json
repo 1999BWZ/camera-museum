@@ -1,0 +1,29 @@
+{
+  "id": "ica-polyscop",
+  "brand": "ICA",
+  "brand_cn": "",
+  "brand_slug": "ica",
+  "country": "待补充",
+  "manufacturer": "ICA",
+  "model": "Polyscop",
+  "year": 1908,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "ICA立体相机，1908 年发布",
+  "description": "Polyscop cameras are a series of stereo plate cameras made in the 1910s into the early 1920s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polyscop"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polyscop",
+      "url": "https://camera-wiki.org/wiki/Polyscop"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

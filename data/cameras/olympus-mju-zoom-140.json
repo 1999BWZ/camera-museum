@@ -1,0 +1,29 @@
+{
+  "id": "olympus-mju-zoom-140",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "mju ZOOM 140",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯便携相机，1998 年发布",
+  "description": "The µ[mju:] ZOOM 140 Is a fully automatic 35mm compact camera introduced by Olympus in 1998[https://web.archive.org/web/20071210162239/http://www.olympus-global.com/en/corc/history/camera/popup/m_mjuzoom140.cfm?message=1 mju ZOOM 140 (Stylus) page at Olympus History Chronicle] (archived).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus mju ZOOM 140"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus mju ZOOM 140",
+      "url": "https://camera-wiki.org/wiki/Olympus%20mju%20ZOOM%20140"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

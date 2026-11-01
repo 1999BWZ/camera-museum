@@ -1,0 +1,29 @@
+{
+  "id": "keystone-60-second-everflash",
+  "brand": "Keystone",
+  "brand_cn": "",
+  "brand_slug": "keystone",
+  "country": "待补充",
+  "manufacturer": "Keystone",
+  "model": "60 Second Everflash",
+  "year": 1975,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Keystone一次成像相机，1975 年发布",
+  "description": "The Keystone 60 Second Everflash model 800 is an independently manufactured Polaroid compatible instant camera from 1975, made in the USA by Berkey.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Keystone 60 Second Everflash"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Keystone 60 Second Everflash",
+      "url": "https://camera-wiki.org/wiki/Keystone%2060%20Second%20Everflash"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

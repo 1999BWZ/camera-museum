@@ -1,0 +1,29 @@
+{
+  "id": "sony-promavica-mvc-5000",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "ProMavica MVC-5000",
+  "year": 1990,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼胶片相机，1990 年发布",
+  "description": "One of the most elaborate of Sony's early still-video cameras, the ProMavica MVC-5000 wrings the best possible resolution out of the technology (single television frames of analog scan lines) through the use of two sensor chips.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony ProMavica MVC-5000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony ProMavica MVC-5000",
+      "url": "https://camera-wiki.org/wiki/Sony%20ProMavica%20MVC-5000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

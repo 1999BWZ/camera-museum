@@ -1,0 +1,29 @@
+{
+  "id": "prinsen-box",
+  "brand": "Prinsen",
+  "brand_cn": "",
+  "brand_slug": "prinsen",
+  "country": "荷兰",
+  "manufacturer": "Prinsen",
+  "model": "Box",
+  "year": 1947,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Prinsen盒式相机，1947 年发布",
+  "description": "The Prinsen Box camera was produced by the Dutch company Laboratorium Prinsen (LP).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Prinsen Box"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Prinsen Box",
+      "url": "https://camera-wiki.org/wiki/Prinsen%20Box"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

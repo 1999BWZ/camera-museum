@@ -1,0 +1,29 @@
+{
+  "id": "revue-180-cma",
+  "brand": "Revue",
+  "brand_cn": "",
+  "brand_slug": "revue",
+  "country": "待补充",
+  "manufacturer": "Revue",
+  "model": "180 CMA",
+  "year": 1991,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Revue取景器相机，1991 年发布",
+  "description": "The Revue 180 CMA is a light, plastic camera for 35mm film sold by Foto-Quelle c.1991[http://www.collection-appareils.fr/x/html/camera-5146-Foto-Quelle_Revue%20180%20CMA.html Revue 180 CMA page] at [https://www.collection-appareils.fr/ Sylvain Halgand's www.collection-appareils.fr].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revue 180 CMA"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revue 180 CMA",
+      "url": "https://camera-wiki.org/wiki/Revue%20180%20CMA"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

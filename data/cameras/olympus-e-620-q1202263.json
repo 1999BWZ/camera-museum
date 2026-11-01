@@ -1,0 +1,40 @@
+{
+  "id": "olympus-e-620-q1202263",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "奥林巴斯",
+  "model": "E-620",
+  "year": 2009,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码单反相机，2009 年发布",
+  "description": "奥林巴斯于2009年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1202263",
+    "多语言词条数": "11"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20E-620.jpg?width=800",
+      "caption": "E-620",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1202263"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 奥林巴斯E-620",
+      "url": "https://www.wikidata.org/wiki/Q1202263"
+    }
+  ],
+  "qid": "Q1202263",
+  "sitelinks": 11,
+  "imported": "wikidata-5k-2026-11-01"
+}

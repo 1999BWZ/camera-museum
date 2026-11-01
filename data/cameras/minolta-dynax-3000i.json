@@ -1,0 +1,29 @@
+{
+  "id": "minolta-dynax-3000i",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Dynax 3000i",
+  "year": 1988,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1988 年发布",
+  "description": "The Minolta Dynax 3000i was both the budget model of Minolta's second generation of autofocus system cameras, and its first point-and-shoot single lens reflex camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Dynax 3000i"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Dynax 3000i",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Dynax%203000i"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

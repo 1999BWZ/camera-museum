@@ -1,0 +1,29 @@
+{
+  "id": "walz-automat-44",
+  "brand": "Walz",
+  "brand_cn": "",
+  "brand_slug": "walz",
+  "country": "待补充",
+  "manufacturer": "Walz",
+  "model": "Automat 44",
+  "year": 1959,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Walz胶片相机，1959 年发布",
+  "description": "The Walz Automat 44 and Walz Automat M44 are Japanese 4×4 TLR, made by Walz in 1959–60.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Walz Automat 44"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Walz Automat 44",
+      "url": "https://camera-wiki.org/wiki/Walz%20Automat%2044"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

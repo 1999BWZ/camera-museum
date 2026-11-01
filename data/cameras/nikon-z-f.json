@@ -1,0 +1,40 @@
+{
+  "id": "nikon-z-f",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Z f",
+  "year": 2023,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康无反相机，2023 年发布",
+  "description": "尼康于2023年发布的无反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q122731468",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Z%20f%208%20nov%202023a.jpg?width=800",
+      "caption": "Z f",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q122731468"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Z f",
+      "url": "https://www.wikidata.org/wiki/Q122731468"
+    }
+  ],
+  "qid": "Q122731468",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "spring-motor-foton",
+  "brand": "Spring motor",
+  "brand_cn": "",
+  "brand_slug": "spring-motor",
+  "country": "美国",
+  "manufacturer": "Spring motor",
+  "model": "Foton",
+  "year": 1948,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Spring motor旁轴相机，1948 年发布",
+  "description": "There is also a Russian instant camera called Foton, and there was a Polish film-maker named Foton.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Foton"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Foton",
+      "url": "https://camera-wiki.org/wiki/Foton"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

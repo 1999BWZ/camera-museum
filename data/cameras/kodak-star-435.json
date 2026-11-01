@@ -1,0 +1,29 @@
+{
+  "id": "kodak-star-435",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Star 435",
+  "year": 1990,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达取景器相机，1990 年发布",
+  "description": "The Kodak Star 435 was sold from 1990 to 1994 with an original price of US$49.95[http://www.brownie-camera.com/kodakcam.shtml The Brownie Camera Page] at [https://www.brownie-camera.com/index.shtml Brownie-camera.com].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Star 435"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Star 435",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Star%20435"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

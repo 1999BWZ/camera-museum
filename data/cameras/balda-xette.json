@@ -1,0 +1,29 @@
+{
+  "id": "balda-xette",
+  "brand": "Balda",
+  "brand_cn": "",
+  "brand_slug": "balda",
+  "country": "待补充",
+  "manufacturer": "Balda",
+  "model": "xette",
+  "year": 1936,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Balda旁轴相机，1936 年发布",
+  "description": "The Baldaxette is a coupled-rangefinder folding camera launched by the German company Balda in the mid-1930s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baldaxette"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baldaxette",
+      "url": "https://camera-wiki.org/wiki/Baldaxette"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

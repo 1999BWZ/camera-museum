@@ -1,0 +1,29 @@
+{
+  "id": "swan-35",
+  "brand": "Swan",
+  "brand_cn": "",
+  "brand_slug": "swan",
+  "country": "待补充",
+  "manufacturer": "Swan",
+  "model": "35",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Swan旁轴相机，1955 年发布",
+  "description": "The Swan 35 was made in 1955 by a Japanese camera maker named Teiho.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Swan 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Swan 35",
+      "url": "https://camera-wiki.org/wiki/Swan%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

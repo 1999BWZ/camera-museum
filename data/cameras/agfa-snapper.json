@@ -1,0 +1,29 @@
+{
+  "id": "agfa-snapper",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Snapper",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发胶片相机，1982 年发布",
+  "description": "The Snapper is a 110 cartridge-film camera made by Agfa, c.1982.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Snapper"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Snapper",
+      "url": "https://camera-wiki.org/wiki/Snapper"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

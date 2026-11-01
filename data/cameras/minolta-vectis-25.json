@@ -1,0 +1,29 @@
+{
+  "id": "minolta-vectis-25",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Vectis 25",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片相机，1996 年发布",
+  "description": "{|align=right\n||\n\n|-\n||\n\n|}\nThe Vectis 25 is a compact zoom camera for the APS film format.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Vectis 25"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Vectis 25",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Vectis%2025"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

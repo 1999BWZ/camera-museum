@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-matic-110x-pocket-deluxe",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "matic 110X Pocket Deluxe",
+  "year": 1973,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1973 年发布",
+  "description": "The Ricohmatic 110 X Pocket Deluxe is a 110 film camera made in Japan by Ricoh from 1973.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricohmatic 110X Pocket Deluxe"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricohmatic 110X Pocket Deluxe",
+      "url": "https://camera-wiki.org/wiki/Ricohmatic%20110X%20Pocket%20Deluxe"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

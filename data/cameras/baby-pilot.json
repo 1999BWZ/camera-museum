@@ -1,0 +1,29 @@
+{
+  "id": "baby-pilot",
+  "brand": "Baby",
+  "brand_cn": "",
+  "brand_slug": "baby",
+  "country": "待补充",
+  "manufacturer": "Baby",
+  "model": "Pilot",
+  "year": 1941,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Baby折叠相机，1941 年发布",
+  "description": "The Baby Pilot (ベビーパイロット) is a Japanese 3×4 folder, made by Tachibana Shōkai from 1941 to about 1943 and advertised again in 1948.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Baby Pilot"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Baby Pilot",
+      "url": "https://camera-wiki.org/wiki/Baby%20Pilot"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

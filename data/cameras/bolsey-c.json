@@ -1,0 +1,29 @@
+{
+  "id": "bolsey-c",
+  "brand": "Bolsey",
+  "brand_cn": "",
+  "brand_slug": "bolsey",
+  "country": "美国",
+  "manufacturer": "Bolsey",
+  "model": "C",
+  "year": 1953,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bolsey旁轴相机，1953 年发布",
+  "description": "{|align=right\n|\n\n|-\n|\n\n|-\n|\n\n|}\nThe Bolsey C is a 35mm TLR introduced by Bolsey in 1950.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Bolsey C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Bolsey C",
+      "url": "https://camera-wiki.org/wiki/Bolsey%20C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

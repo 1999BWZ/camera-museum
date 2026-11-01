@@ -1,0 +1,29 @@
+{
+  "id": "view-cameras-empress",
+  "brand": "View cameras",
+  "brand_cn": "",
+  "brand_slug": "view-cameras",
+  "country": "英国",
+  "manufacturer": "View cameras",
+  "model": "Empress",
+  "year": 1912,
+  "type": "large_format",
+  "type_cn": "大画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "View cameras大画幅相机，1912 年发布",
+  "description": "The Empress is a field camera made by Houghtons Ltd.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Empress"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Empress",
+      "url": "https://camera-wiki.org/wiki/Empress"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

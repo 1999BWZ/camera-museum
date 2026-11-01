@@ -1,0 +1,29 @@
+{
+  "id": "taron-taroflex",
+  "brand": "Taron",
+  "brand_cn": "",
+  "brand_slug": "taron",
+  "country": "待补充",
+  "manufacturer": "Taron",
+  "model": "Taroflex",
+  "year": 1943,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Taron胶片相机，1943 年发布",
+  "description": "The Taroflex (タローフレックス) is a Japanese 6×6 TLR made by Nippon Kōsokki in 1943–4.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Taroflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Taroflex",
+      "url": "https://camera-wiki.org/wiki/Taroflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "canon-et-28",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "et 28",
+  "year": 1968,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能取景器相机，1968 年发布",
+  "description": "==Viewfinder camera, 1968==\nThe original Canon Canonet 28, introduced in 1968 is a viewfinder camera, with scale focus and automatic exposure.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Canonet 28"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Canonet 28",
+      "url": "https://camera-wiki.org/wiki/Canon%20Canonet%2028"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

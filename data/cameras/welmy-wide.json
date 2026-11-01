@@ -1,0 +1,29 @@
+{
+  "id": "welmy-wide",
+  "brand": "Welmy",
+  "brand_cn": "",
+  "brand_slug": "welmy",
+  "country": "待补充",
+  "manufacturer": "Welmy",
+  "model": "Wide",
+  "year": 1958,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Welmy取景器相机，1958 年发布",
+  "description": "The Star * Lite 35mm camera has no relation to the Star Light 120-film pseudo TLR made by Haking.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Welmy Wide"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Welmy Wide",
+      "url": "https://camera-wiki.org/wiki/Welmy%20Wide"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

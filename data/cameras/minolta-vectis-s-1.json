@@ -1,0 +1,29 @@
+{
+  "id": "minolta-vectis-s-1",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Vectis S-1",
+  "year": 1996,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1996 年发布",
+  "description": "{| class=floatleft\n|\n|&nbsp;\n|}\nThe MINOLTA Vectis S-1 is one of the two SLR camera bodies made by Minolta for the APS film system.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Vectis S-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Vectis S-1",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Vectis%20S-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

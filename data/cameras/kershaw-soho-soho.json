@@ -1,0 +1,29 @@
+{
+  "id": "kershaw-soho-soho",
+  "brand": "Kershaw-Soho",
+  "brand_cn": "",
+  "brand_slug": "kershaw-soho",
+  "country": "待补充",
+  "manufacturer": "Kershaw-Soho",
+  "model": "Soho",
+  "year": 1931,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kershaw-Soho胶片单反相机，1931 年发布",
+  "description": "Kershaw-Soho于1931年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Soho"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Soho",
+      "url": "https://camera-wiki.org/wiki/Soho"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

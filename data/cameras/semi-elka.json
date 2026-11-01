@@ -1,0 +1,29 @@
+{
+  "id": "semi-elka",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Elka",
+  "year": 1936,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi旁轴相机，1936 年发布",
+  "description": "The Semi Elka (セミエルカ) is a Japanese 4.5×6 camera, about which almost nothing is known.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Elka"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Elka",
+      "url": "https://camera-wiki.org/wiki/Semi%20Elka"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

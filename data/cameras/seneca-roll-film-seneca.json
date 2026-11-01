@@ -1,0 +1,29 @@
+{
+  "id": "seneca-roll-film-seneca",
+  "brand": "Seneca",
+  "brand_cn": "",
+  "brand_slug": "seneca",
+  "country": "待补充",
+  "manufacturer": "Seneca",
+  "model": "Roll Film Seneca",
+  "year": 1912,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seneca折叠相机，1912 年发布",
+  "description": "The Roll Film Seneca was made by Seneca.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Roll Film Seneca"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Roll Film Seneca",
+      "url": "https://camera-wiki.org/wiki/Roll%20Film%20Seneca"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

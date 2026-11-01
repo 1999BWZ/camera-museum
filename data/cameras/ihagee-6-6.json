@@ -1,0 +1,37 @@
+{
+  "id": "ihagee-6-6",
+  "brand": "Ihagee",
+  "brand_cn": "",
+  "brand_slug": "ihagee",
+  "country": "待补充",
+  "manufacturer": "Ihagee",
+  "model": "6×6",
+  "year": 1939,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ihagee胶片相机，1939 年发布",
+  "description": "See also the 1953 vertical Exakta 66 and the 1986 West German Exakta 66.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Exakta 6×6 (horizontal)"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm5.staticflickr.com/4886/31226061767_4eff7764b3_d.jpg",
+      "caption": "6×6",
+      "source": "Flickr（the Swedish Flygvapenmuseum）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/146425980@N02/31226061767/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Exakta 6×6 (horizontal)",
+      "url": "https://camera-wiki.org/wiki/Exakta%206%C3%976%20%28horizontal%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

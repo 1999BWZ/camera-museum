@@ -1,0 +1,29 @@
+{
+  "id": "ferrania-tanit",
+  "brand": "Ferrania",
+  "brand_cn": "",
+  "brand_slug": "ferrania",
+  "country": "待补充",
+  "manufacturer": "Ferrania",
+  "model": "Tanit",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ferrania取景器相机，1955 年发布",
+  "description": "The Tanit is a small cast metal camera taking 3x4cm exposures on 127 film Page 292..",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ferrania Tanit"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ferrania Tanit",
+      "url": "https://camera-wiki.org/wiki/Ferrania%20Tanit"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

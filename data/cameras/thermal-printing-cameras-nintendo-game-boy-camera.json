@@ -1,0 +1,29 @@
+{
+  "id": "thermal-printing-cameras-nintendo-game-boy-camera",
+  "brand": "Thermal-printing cameras",
+  "brand_cn": "",
+  "brand_slug": "thermal-printing-cameras",
+  "country": "待补充",
+  "manufacturer": "Thermal-printing cameras",
+  "model": "Nintendo Game Boy Camera",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thermal-printing cameras数码相机，1998 年发布",
+  "description": "The Game Boy Camera is a digital camera attachment made by Nintendo for the Game Boy console.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nintendo Game Boy Camera"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nintendo Game Boy Camera",
+      "url": "https://camera-wiki.org/wiki/Nintendo%20Game%20Boy%20Camera"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

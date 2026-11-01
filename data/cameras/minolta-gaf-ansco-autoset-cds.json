@@ -1,0 +1,29 @@
+{
+  "id": "minolta-gaf-ansco-autoset-cds",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "GAF Ansco Autoset CdS",
+  "year": 1964,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达取景器相机，1964 年发布",
+  "description": "The Ansco Autoset CdS is a 1964 viewfinder cameraIt is described as a rangefinder in McKeown's 12th edition, page 55; but the owner of the example shown here confirms it is scale focus only.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "GAF Ansco Autoset CdS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – GAF Ansco Autoset CdS",
+      "url": "https://camera-wiki.org/wiki/GAF%20Ansco%20Autoset%20CdS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nikon-f6-q1510460",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "F6",
+  "year": 2004,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康胶片单反相机，2004 年发布",
+  "description": "尼康于2004年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1510460",
+    "多语言词条数": "10"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20F6%20face.jpg?width=800",
+      "caption": "F6",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1510460"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康 F6",
+      "url": "https://www.wikidata.org/wiki/Q1510460"
+    }
+  ],
+  "qid": "Q1510460",
+  "sitelinks": 10,
+  "imported": "wikidata-5k-2026-11-01"
+}

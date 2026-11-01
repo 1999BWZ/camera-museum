@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-swinger",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Swinger",
+  "year": 1972,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1972 年发布",
+  "description": "The Polaroid Super Swinger was a rigid plastic bodied instant camera, made in the UK in 1972 and sold at a retail price of £7.30, making it the cheapest Polaroid camera ever.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Super Swinger"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Super Swinger",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Super%20Swinger"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

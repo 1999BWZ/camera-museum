@@ -1,0 +1,29 @@
+{
+  "id": "topcon-pr-ii",
+  "brand": "Topcon",
+  "brand_cn": "",
+  "brand_slug": "topcon",
+  "country": "待补充",
+  "manufacturer": "Topcon",
+  "model": "PR II",
+  "year": 1960,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Topcon胶片单反相机，1960 年发布",
+  "description": "The original Topcon PR was launched in 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Topcon PR II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Topcon PR II",
+      "url": "https://camera-wiki.org/wiki/Topcon%20PR%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

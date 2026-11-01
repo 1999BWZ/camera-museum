@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-prest",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri Prest",
+  "year": 1961,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi旁轴相机，1961 年发布",
+  "description": "The Prest is a 35mm rangefinder camera made by Kuribayashi from 1961-1964.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri Prest"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri Prest",
+      "url": "https://camera-wiki.org/wiki/Petri%20Prest"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

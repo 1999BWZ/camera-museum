@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-tls-401",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "TLS 401",
+  "year": 1970,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1970 年发布",
+  "description": "The Ricoh TLS 401 was introduced in 1970 as an innovative successor to the three year older Ricoh Singlex TLS, having a combined eye-level and waist-level finder.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh TLS 401"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh TLS 401",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20TLS%20401"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

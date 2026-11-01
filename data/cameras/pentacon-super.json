@@ -1,0 +1,29 @@
+{
+  "id": "pentacon-super",
+  "brand": "Pentacon",
+  "brand_cn": "",
+  "brand_slug": "pentacon",
+  "country": "待补充",
+  "manufacturer": "Pentacon",
+  "model": "Super",
+  "year": 1968,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pentacon胶片单反相机，1968 年发布",
+  "description": "The Pentacon Super is a 35mm film SLR camera made by Pentacon in Dresden from 1968-72.[http://www.dresdner-kameras.de/pentacon_super/pentacon_super.html Pentacon Super] at [https://www.dresdner-kameras.de/index.html dresdner-kameras.de] (text in German, with some interesting pictures) It has an M42 ",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentacon Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentacon Super",
+      "url": "https://camera-wiki.org/wiki/Pentacon%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

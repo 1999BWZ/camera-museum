@@ -1,0 +1,29 @@
+{
+  "id": "kodak-film-premo",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Film Premo",
+  "year": 1906,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达折叠相机，1906 年发布",
+  "description": "Eastman Kodak's Film Premo folding cameras use film packs, for 12 exposures.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Film Premo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Film Premo",
+      "url": "https://camera-wiki.org/wiki/Film%20Premo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

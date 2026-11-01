@@ -1,0 +1,29 @@
+{
+  "id": "kowa-h",
+  "brand": "Kowa",
+  "brand_cn": "",
+  "brand_slug": "kowa",
+  "country": "待补充",
+  "manufacturer": "Kowa",
+  "model": "H",
+  "year": 1963,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kowa胶片单反相机，1963 年发布",
+  "description": "The Kowa H is a 35mm SLR with a fixed lens and leaf shutter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kowa H"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kowa H",
+      "url": "https://camera-wiki.org/wiki/Kowa%20H"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

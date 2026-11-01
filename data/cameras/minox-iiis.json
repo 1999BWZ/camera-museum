@@ -1,0 +1,29 @@
+{
+  "id": "minox-iiis",
+  "brand": "Minox",
+  "brand_cn": "",
+  "brand_slug": "minox",
+  "country": "待补充",
+  "manufacturer": "Minox",
+  "model": "IIIS",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "微型相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Minox微型相机，1954 年发布",
+  "description": "The Minox Model IIIS was introduced in 1954.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minox IIIS"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minox IIIS",
+      "url": "https://camera-wiki.org/wiki/Minox%20IIIS"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

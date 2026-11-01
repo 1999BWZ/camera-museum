@@ -1,0 +1,29 @@
+{
+  "id": "kigawa-tsubasa-nettar-and-tsubasa-kiko-three",
+  "brand": "Kigawa",
+  "brand_cn": "",
+  "brand_slug": "kigawa",
+  "country": "待补充",
+  "manufacturer": "Kigawa",
+  "model": "Tsubasa Nettar and Tsubasa Kiko Three",
+  "year": 1940,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kigawa折叠相机，1940 年发布",
+  "description": "The Tsubasa Nettar (ツバサネッター) is a Japanese 4.5×6 folder announced by Kigawa in late 1940, and the Tsubasa Kiko Three (ツバサキコースリー) or Tsubasa Kiko III (ツバサキコーⅢ型) is a derivative made in 1941.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Tsubasa Nettar and Tsubasa Kiko Three"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Tsubasa Nettar and Tsubasa Kiko Three",
+      "url": "https://camera-wiki.org/wiki/Tsubasa%20Nettar%20and%20Tsubasa%20Kiko%20Three"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

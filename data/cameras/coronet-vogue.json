@@ -1,0 +1,29 @@
+{
+  "id": "coronet-vogue",
+  "brand": "Coronet",
+  "brand_cn": "",
+  "brand_slug": "coronet",
+  "country": "待补充",
+  "manufacturer": "Coronet",
+  "model": "Vogue",
+  "year": 1936,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Coronet折叠相机，1936 年发布",
+  "description": "Coronet offered this small, quirky Bakelite folder beginning in 1936, which required special \"Vogue 35\" film for images of 3x5cm on 828 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Coronet Vogue"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Coronet Vogue",
+      "url": "https://camera-wiki.org/wiki/Coronet%20Vogue"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

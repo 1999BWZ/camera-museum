@@ -1,0 +1,29 @@
+{
+  "id": "taron-35-iii",
+  "brand": "Taron",
+  "brand_cn": "",
+  "brand_slug": "taron",
+  "country": "待补充",
+  "manufacturer": "Taron",
+  "model": "35 III",
+  "year": 1958,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Taron旁轴相机，1958 年发布",
+  "description": "__NOTOC__\nThe Taron 35 III ('3'), also known as Taron MX, is a 35mm rangefinder introduced in 1958 by the Japanese company Nippon Kōsokki, featuring:\n* Rangefinder-coupled Taronar F.C.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Taron 35 III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Taron 35 III",
+      "url": "https://camera-wiki.org/wiki/Taron%2035%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

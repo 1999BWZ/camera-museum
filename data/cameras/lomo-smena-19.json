@@ -1,0 +1,29 @@
+{
+  "id": "lomo-smena-19",
+  "brand": "LOMO",
+  "brand_cn": "",
+  "brand_slug": "lomo",
+  "country": "待补充",
+  "manufacturer": "LOMO",
+  "model": "Smena 19",
+  "year": 1985,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "LOMO取景器相机，1985 年发布",
+  "description": "The Smena 19 is a camera produced in the former Soviet Union from 1985 to 1989.[http://www.sovietcams.com/cameras/detail/43e533frm02dr523tggjqhxamv Smena 19] at [http://www.sovietcams.com/index.php Soviet Cams] It takes 35mm film, was made by LOMO, and has an odd waffle-like appearance.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Smena 19"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Smena 19",
+      "url": "https://camera-wiki.org/wiki/Smena%2019"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

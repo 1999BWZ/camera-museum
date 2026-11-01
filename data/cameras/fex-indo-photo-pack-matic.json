@@ -1,0 +1,29 @@
+{
+  "id": "fex-indo-photo-pack-matic",
+  "brand": "Fex Indo",
+  "brand_cn": "",
+  "brand_slug": "fex-indo",
+  "country": "法国",
+  "manufacturer": "Fex Indo",
+  "model": "Photo Pack Matic",
+  "year": 1966,
+  "type": "compact",
+  "type_cn": "一次性相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fex Indo一次性相机，1966 年发布",
+  "description": "Disposable camera made in France by Fex from 1966.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Photo Pack Matic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Photo Pack Matic",
+      "url": "https://camera-wiki.org/wiki/Photo%20Pack%20Matic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

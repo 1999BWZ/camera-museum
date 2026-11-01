@@ -1,0 +1,29 @@
+{
+  "id": "minolta-vectis-weathermatic-zoom",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Vectis Weathermatic Zoom",
+  "year": 1998,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达便携相机，1998 年发布",
+  "description": "The Minolta Vectis Weathermatic Zoom is a watertight fully automatic compact camera using APS film, introduced in 1998.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta Vectis Weathermatic Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta Vectis Weathermatic Zoom",
+      "url": "https://camera-wiki.org/wiki/Minolta%20Vectis%20Weathermatic%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

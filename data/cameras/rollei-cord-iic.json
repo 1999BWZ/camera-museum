@@ -1,0 +1,29 @@
+{
+  "id": "rollei-cord-iic",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "cord IIc",
+  "year": 1939,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来胶片相机，1939 年发布",
+  "description": "The Rolleicord IIc, also known as model or type 4, was manufactured between February 1939 until Oktober 1949 (about 16.000 units).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleicord IIc"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleicord IIc",
+      "url": "https://camera-wiki.org/wiki/Rolleicord%20IIc"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "okada-daiichi-walcon-semi",
+  "brand": "Okada/Daiichi",
+  "brand_cn": "",
+  "brand_slug": "okada-daiichi",
+  "country": "待补充",
+  "manufacturer": "Okada/Daiichi",
+  "model": "Walcon Semi",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Okada/Daiichi折叠相机，1954 年发布",
+  "description": "The Walcon (ワルコン) or Walcon Semi (ワルコン・セミ) is a Japanese 4.5×6 folding camera sold by Walz in 1954 and 1955.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Walcon Semi"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Walcon Semi",
+      "url": "https://camera-wiki.org/wiki/Walcon%20Semi"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

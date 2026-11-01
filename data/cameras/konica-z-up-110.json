@@ -1,0 +1,29 @@
+{
+  "id": "konica-z-up-110",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Z-up 110",
+  "year": 1996,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡便携相机，1996 年发布",
+  "description": "The Konica Z-up 110 Super is a fully automatic compact camera with zoom lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Z-up 110"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Z-up 110",
+      "url": "https://camera-wiki.org/wiki/Konica%20Z-up%20110"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

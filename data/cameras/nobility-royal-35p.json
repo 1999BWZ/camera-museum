@@ -1,0 +1,29 @@
+{
+  "id": "nobility-royal-35p",
+  "brand": "Nobility",
+  "brand_cn": "",
+  "brand_slug": "nobility",
+  "country": "待补充",
+  "manufacturer": "Nobility",
+  "model": "Royal 35P",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Nobility旁轴相机，1957 年发布",
+  "description": "The Royal 35P fixed lens rangefinder camera was the last camera made by Royal Camera of Tokyo in 1957, featuring:\n* Rangefinder-coupled Tomioka Tominor f1.9 / 45mm lens, to f16, with 40.5mm filter size.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Royal 35P"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Royal 35P",
+      "url": "https://camera-wiki.org/wiki/Royal%2035P"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

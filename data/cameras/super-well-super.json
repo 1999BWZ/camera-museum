@@ -1,0 +1,29 @@
+{
+  "id": "super-well-super",
+  "brand": "Super",
+  "brand_cn": "",
+  "brand_slug": "super",
+  "country": "待补充",
+  "manufacturer": "Super",
+  "model": "Well Super",
+  "year": 1941,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Super取景器相机，1941 年发布",
+  "description": "The Well Super (ウエルスーパー) is a Japanese camera taking 4.5×6cm pictures on 120 film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Well Super"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Well Super",
+      "url": "https://camera-wiki.org/wiki/Well%20Super"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "contax-137-md",
+  "brand": "Contax",
+  "brand_cn": "康泰时",
+  "brand_slug": "contax",
+  "country": "德国",
+  "manufacturer": "Contax",
+  "model": "137 MD",
+  "year": 1980,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "康泰时数码单反相机，1980 年发布",
+  "description": "Introduced in 1980, the Contax 137 MD was, at that time, the smallest 35mm SLR with an integrated motor drive.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Contax 137 MD"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Contax 137 MD",
+      "url": "https://camera-wiki.org/wiki/Contax%20137%20MD"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

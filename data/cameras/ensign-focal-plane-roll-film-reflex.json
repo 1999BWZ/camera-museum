@@ -1,0 +1,29 @@
+{
+  "id": "ensign-focal-plane-roll-film-reflex",
+  "brand": "Ensign",
+  "brand_cn": "",
+  "brand_slug": "ensign",
+  "country": "待补充",
+  "manufacturer": "Ensign",
+  "model": "Focal Plane Roll Film Reflex",
+  "year": 1928,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Ensign胶片单反相机，1928 年发布",
+  "description": "The Ensign Focal Plane Roll Film Reflex, also sold as the Speed Film Reflex, p402.[http://www.earlyphotography.co.uk/site/entry_C536.html Focal Plane Roll Film Reflex] with 4-inch f/3.4 Aldis-Butcher Anastigmat, at [http://www.earlyphotography.co.uk/index.html Early Photography] is an SLR camera for",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ensign Focal Plane Roll Film Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ensign Focal Plane Roll Film Reflex",
+      "url": "https://camera-wiki.org/wiki/Ensign%20Focal%20Plane%20Roll%20Film%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

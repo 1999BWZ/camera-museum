@@ -1,0 +1,29 @@
+{
+  "id": "linden-lindar",
+  "brand": "Linden",
+  "brand_cn": "",
+  "brand_slug": "linden",
+  "country": "待补充",
+  "manufacturer": "Linden",
+  "model": "Lindar",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Linden盒式相机，1950 年发布",
+  "description": "The Lindar is a box camera from Linden in Germany, designed for 6x6 cm exposures on 620 roll film.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Linden Lindar"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Linden Lindar",
+      "url": "https://camera-wiki.org/wiki/Linden%20Lindar"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodak-instamatic-x-15f",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Instamatic X-15F",
+  "year": 1976,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1976 年发布",
+  "description": "*Type: viewfinder film camera\n*Manufacturer: Kodak USA and Kodak Canada\n*Years of production: 1976 - 1988 \n*Film: 126 film cartridge \n*Lens: 1:11/43mm \n*Shutter: mechanical leaf, with speeds of 1/45 and 1/90 sec.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Instamatic X-15F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Instamatic X-15F",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Instamatic%20X-15F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

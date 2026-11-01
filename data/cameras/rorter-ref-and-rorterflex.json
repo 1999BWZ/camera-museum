@@ -1,0 +1,29 @@
+{
+  "id": "rorter-ref-and-rorterflex",
+  "brand": "Rorter",
+  "brand_cn": "",
+  "brand_slug": "rorter",
+  "country": "待补充",
+  "manufacturer": "Rorter",
+  "model": "Ref and Rorterflex",
+  "year": 1941,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rorter胶片相机，1941 年发布",
+  "description": "The Rorter Ref In the name, \"Ref\" is an abbreviation of \"Reflex\", often used in Japan at the time.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rorter Ref and Rorterflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rorter Ref and Rorterflex",
+      "url": "https://camera-wiki.org/wiki/Rorter%20Ref%20and%20Rorterflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

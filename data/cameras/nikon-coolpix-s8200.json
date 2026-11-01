@@ -1,0 +1,40 @@
+{
+  "id": "nikon-coolpix-s8200",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "Coolpix S8200",
+  "year": 2011,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，2011 年发布",
+  "description": "尼康于2011年发布的便携相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q3876989",
+    "多语言词条数": "2"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/01091jfNikon%20Coolpix%20S8200%20-21%20October%202016fvf%2004.jpg?width=800",
+      "caption": "Coolpix S8200",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q3876989"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Nikon Coolpix S8200",
+      "url": "https://www.wikidata.org/wiki/Q3876989"
+    }
+  ],
+  "qid": "Q3876989",
+  "sitelinks": 2,
+  "imported": "wikidata-5k-2026-11-01"
+}

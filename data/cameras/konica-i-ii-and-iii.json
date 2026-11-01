@@ -1,0 +1,29 @@
+{
+  "id": "konica-i-ii-and-iii",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "(I), II and III",
+  "year": 1947,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡旁轴相机，1947 年发布",
+  "description": "The Konica (or Konica I) and its successors the Konica II, and Konica III are fixed-lens, leaf-shutter rangefinder 35mm (24×36mm) cameras that Konishiroku made from 1947 until 1959 or 1960.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica (I), II and III"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica (I), II and III",
+      "url": "https://camera-wiki.org/wiki/Konica%20%28I%29%2C%20II%20and%20III"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rosen-plate-folder",
+  "brand": "Rosen",
+  "brand_cn": "",
+  "brand_slug": "rosen",
+  "country": "待补充",
+  "manufacturer": "Rosen",
+  "model": "plate folder",
+  "year": 1935,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Rosen折叠相机，1935 年发布",
+  "description": "The Rosen The name appears as \"Rosen\" on the original box, pictured in Yazawa, p.16 of no.235, and in an original advertisement, reproduced on p.17 of the same.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rosen plate folder"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rosen plate folder",
+      "url": "https://camera-wiki.org/wiki/Rosen%20plate%20folder"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

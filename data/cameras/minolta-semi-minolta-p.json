@@ -1,0 +1,29 @@
+{
+  "id": "minolta-semi-minolta-p",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "Semi Minolta P",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达折叠相机，1951 年发布",
+  "description": "__NOTOC__\nThe Semi Minolta P, released in 1951, is the last folding camera made by Chiyoda (the predecessor of Minolta).",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Minolta P"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Minolta P",
+      "url": "https://camera-wiki.org/wiki/Semi%20Minolta%20P"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

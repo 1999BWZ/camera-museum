@@ -1,0 +1,29 @@
+{
+  "id": "pentax-takumar",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "Takumar",
+  "year": 1957,
+  "type": "mirrorless",
+  "type_cn": "无反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得无反相机，1957 年发布",
+  "description": "Takumar refers to a line of high quality photographic lenses produced by Asahi Optical Co beginning in the 1950s.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Takumar"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Takumar",
+      "url": "https://camera-wiki.org/wiki/Takumar"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

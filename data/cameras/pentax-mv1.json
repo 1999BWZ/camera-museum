@@ -1,0 +1,29 @@
+{
+  "id": "pentax-mv1",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MV1",
+  "year": 1980,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码单反相机，1980 年发布",
+  "description": "In 1977, Pentax introduced two compact 35mm SLRs, the MX and the ME, after the Olympus OM-1 presented in 1972 had introduced a new trend for compactness in SLR cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MV1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MV1",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MV1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

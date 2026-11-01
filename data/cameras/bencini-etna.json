@@ -1,0 +1,29 @@
+{
+  "id": "bencini-etna",
+  "brand": "Bencini",
+  "brand_cn": "",
+  "brand_slug": "bencini",
+  "country": "意大利",
+  "manufacturer": "Bencini",
+  "model": "Etna",
+  "year": 1940,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bencini折叠相机，1940 年发布",
+  "description": "The Etna is a viewfinder folder produced by the Italian company \"CMF\" which later changed its name to Bencini.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Etna"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Etna",
+      "url": "https://camera-wiki.org/wiki/Etna"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tougodo-toyoca-b35-chest-35-and-pigeon-35-v",
+  "brand": "Tougodo",
+  "brand_cn": "",
+  "brand_slug": "tougodo",
+  "country": "待补充",
+  "manufacturer": "Tougodo",
+  "model": "Toyoca B35, Chest 35 and Pigeon 35 V",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tougodo折叠相机，1955 年发布",
+  "description": "The Toyoca B35 \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Toyoca B35, Chest 35 and Pigeon 35 V"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Toyoca B35, Chest 35 and Pigeon 35 V",
+      "url": "https://camera-wiki.org/wiki/Toyoca%20B35%2C%20Chest%2035%20and%20Pigeon%2035%20V"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

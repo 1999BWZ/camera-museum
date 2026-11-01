@@ -1,0 +1,29 @@
+{
+  "id": "pentaflex-sl",
+  "brand": "Pentaflex",
+  "brand_cn": "",
+  "brand_slug": "pentaflex",
+  "country": "待补充",
+  "manufacturer": "Pentaflex",
+  "model": "SL",
+  "year": 1967,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Pentaflex胶片单反相机，1967 年发布",
+  "description": "There is also the 1955 Pentaflex SLR by Tokiwa Seiki.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentaflex SL"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentaflex SL",
+      "url": "https://camera-wiki.org/wiki/Pentaflex%20SL"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

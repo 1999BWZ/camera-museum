@@ -1,0 +1,29 @@
+{
+  "id": "lipca-flexora",
+  "brand": "Lipca",
+  "brand_cn": "",
+  "brand_slug": "lipca",
+  "country": "待补充",
+  "manufacturer": "Lipca",
+  "model": "Flexora",
+  "year": 1952,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lipca旁轴相机（折叠），1952 年发布",
+  "description": "The Flexora was the first of that line of TLRs made by Lipca, Barntrup.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Flexora"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Flexora",
+      "url": "https://camera-wiki.org/wiki/Flexora"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

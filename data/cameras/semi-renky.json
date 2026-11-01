@@ -1,0 +1,29 @@
+{
+  "id": "semi-renky",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Renky",
+  "year": 1939,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi取景器相机，1939 年发布",
+  "description": "The Semi Renky and New Semi Renky are Japanese 4.5×6 cameras made by Rengō Kōki and distributed by Fuku Bōeki from 1939 to about 1943.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Renky"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Renky",
+      "url": "https://camera-wiki.org/wiki/Semi%20Renky"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

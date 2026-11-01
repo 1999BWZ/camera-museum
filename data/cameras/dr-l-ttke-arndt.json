@@ -1,0 +1,29 @@
+{
+  "id": "dr-l-ttke-arndt",
+  "brand": "Dr.",
+  "brand_cn": "",
+  "brand_slug": "dr",
+  "country": "待补充",
+  "manufacturer": "Dr.",
+  "model": "Lüttke & Arndt",
+  "year": 1902,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dr.胶片相机，1902 年发布",
+  "description": "Dr.于1902年发布的胶片相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Dr. Lüttke & Arndt"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Dr. Lüttke & Arndt",
+      "url": "https://camera-wiki.org/wiki/Dr.%20L%C3%BCttke%20%26%20Arndt"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

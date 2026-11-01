@@ -1,0 +1,29 @@
+{
+  "id": "lomography-konstruktor",
+  "brand": "Lomography",
+  "brand_cn": "Lomography",
+  "brand_slug": "lomography",
+  "country": "奥地利",
+  "manufacturer": "Lomography",
+  "model": "Konstruktor",
+  "year": 2013,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lomography胶片单反相机，2013 年发布",
+  "description": "{|class=floatright\n||\n \n|-\n||\n \n|-\n||\n \n|-\n||\n\n|}\nThe Konstruktor is a 35mm SLR film camera kit with bayonet 50mm lens by Lomography.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lomography Konstruktor"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lomography Konstruktor",
+      "url": "https://camera-wiki.org/wiki/Lomography%20Konstruktor"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

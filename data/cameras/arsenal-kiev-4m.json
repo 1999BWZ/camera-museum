@@ -1,0 +1,29 @@
+{
+  "id": "arsenal-kiev-4m",
+  "brand": "Arsenal",
+  "brand_cn": "",
+  "brand_slug": "arsenal",
+  "country": "待补充",
+  "manufacturer": "Arsenal",
+  "model": "Kiev-4M",
+  "year": 1976,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arsenal旁轴相机，1976 年发布",
+  "description": "Kiev-4M ( = Киев-4M) is a 35mm rangefinder film camera manufactured by Arsenal Factory, in Kiev, Ukraine, former USSR, and produced between 1976-87.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kiev-4M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kiev-4M",
+      "url": "https://camera-wiki.org/wiki/Kiev-4M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

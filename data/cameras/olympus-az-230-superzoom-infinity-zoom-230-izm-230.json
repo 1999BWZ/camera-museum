@@ -1,0 +1,29 @@
+{
+  "id": "olympus-az-230-superzoom-infinity-zoom-230-izm-230",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "AZ-230 Superzoom/Infinity Zoom 230/IZM 230",
+  "year": 1992,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯胶片单反相机，1992 年发布",
+  "description": "The AZ-230 Superzoom is a compact automatic 35mm camera made by Olympus in 1992.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus AZ-230 Superzoom/Infinity Zoom 230/IZM 230"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus AZ-230 Superzoom/Infinity Zoom 230/IZM 230",
+      "url": "https://camera-wiki.org/wiki/Olympus%20AZ-230%20Superzoom/Infinity%20Zoom%20230/IZM%20230"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

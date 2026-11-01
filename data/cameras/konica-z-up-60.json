@@ -1,0 +1,29 @@
+{
+  "id": "konica-z-up-60",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Z-Up 60",
+  "year": 2001,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡便携相机，2001 年发布",
+  "description": "The Z-up 60 is a point and shoot 35mm compact camera made by the Japanese company Konica.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Konica Z-Up 60"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Konica Z-Up 60",
+      "url": "https://camera-wiki.org/wiki/Konica%20Z-Up%2060"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

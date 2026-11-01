@@ -1,0 +1,29 @@
+{
+  "id": "chinon-belami-af",
+  "brand": "Chinon",
+  "brand_cn": "",
+  "brand_slug": "chinon",
+  "country": "待补充",
+  "manufacturer": "Chinon",
+  "model": "Belami AF",
+  "year": 1989,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Chinon胶片相机，1989 年发布",
+  "description": "The Belami AF made by Chinon is a point and shoot 35mm autofocus camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Chinon Belami AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Chinon Belami AF",
+      "url": "https://camera-wiki.org/wiki/Chinon%20Belami%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

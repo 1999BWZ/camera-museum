@@ -1,0 +1,29 @@
+{
+  "id": "pentax-mx",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "MX",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得胶片单反相机，1976 年发布",
+  "description": "In 1976, Pentax introduced two compact 35mm SLRs, the MX and the ME.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax MX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax MX",
+      "url": "https://camera-wiki.org/wiki/Pentax%20MX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

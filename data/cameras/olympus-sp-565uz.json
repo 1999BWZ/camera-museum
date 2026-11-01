@@ -1,0 +1,29 @@
+{
+  "id": "olympus-sp-565uz",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "SP-565UZ",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2008 年发布",
+  "description": "The Olympus SP-565 UltraZoom (UZ) is a handsome light super zoom bridge camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus SP-565UZ"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus SP-565UZ",
+      "url": "https://camera-wiki.org/wiki/Olympus%20SP-565UZ"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nikon-l35af",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "Nikon",
+  "model": "L35AF",
+  "year": 1983,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康便携相机，1983 年发布",
+  "description": "The L35AF was Nikon's first compact camera with autofocus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nikon L35AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nikon L35AF",
+      "url": "https://camera-wiki.org/wiki/Nikon%20L35AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

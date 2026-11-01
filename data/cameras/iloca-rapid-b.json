@@ -1,0 +1,37 @@
+{
+  "id": "iloca-rapid-b",
+  "brand": "Iloca",
+  "brand_cn": "",
+  "brand_slug": "iloca",
+  "country": "待补充",
+  "manufacturer": "Iloca",
+  "model": "Rapid B",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Iloca旁轴相机，1954 年发布",
+  "description": "The Iloca Rapid B is a fixed lens viewfinder camera made by Iloca from 1954 to about 1958.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Iloca Rapid B"
+  },
+  "images": [
+    {
+      "remote_url": "https://live.staticflickr.com/3211/5848463706_30f8e5d42a_z_d.jpg",
+      "caption": "Rapid B",
+      "source": "Flickr（未知）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/nesster/5848463706/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Iloca Rapid B",
+      "url": "https://camera-wiki.org/wiki/Iloca%20Rapid%20B"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

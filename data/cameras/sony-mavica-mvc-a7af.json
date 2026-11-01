@@ -1,0 +1,29 @@
+{
+  "id": "sony-mavica-mvc-a7af",
+  "brand": "Sony",
+  "brand_cn": "索尼",
+  "brand_slug": "sony",
+  "country": "日本",
+  "manufacturer": "Sony",
+  "model": "Mavica MVC-A7AF",
+  "year": 1987,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "索尼胶片相机，1987 年发布",
+  "description": "While Sony had pioneered the \"still video\" camera with its prototype 1981 Mavica, it had actually been the Canon RC-701 to first bring the 2\" video floppy (VF) media to a commercial product.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sony Mavica MVC-A7AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sony Mavica MVC-A7AF",
+      "url": "https://camera-wiki.org/wiki/Sony%20Mavica%20MVC-A7AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

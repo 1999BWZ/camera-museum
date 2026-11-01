@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-st601",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca ST601",
+  "year": 1975,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji胶片单反相机，1975 年发布",
+  "description": "The Fujica ST601 was introduced in 1975, essentially by taking the entry-level Fujica ST701 (3rd version) and cutting features—perhaps to reach a price target, or for clearer market segmentation Fuji Film's company website explains - \"The first oil shock from the end of 1973 (Showa 48) caused the en",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica ST601"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica ST601",
+      "url": "https://camera-wiki.org/wiki/Fujica%20ST601"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

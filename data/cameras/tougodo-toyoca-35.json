@@ -1,0 +1,29 @@
+{
+  "id": "tougodo-toyoca-35",
+  "brand": "Tougodo",
+  "brand_cn": "",
+  "brand_slug": "tougodo",
+  "country": "待补充",
+  "manufacturer": "Tougodo",
+  "model": "Toyoca 35",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tougodo胶片单反相机，1955 年发布",
+  "description": "The Toyoca 35 \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Toyoca 35 (TLR)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Toyoca 35 (TLR)",
+      "url": "https://camera-wiki.org/wiki/Toyoca%2035%20%28TLR%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

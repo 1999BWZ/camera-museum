@@ -1,0 +1,29 @@
+{
+  "id": "taron-35-ii",
+  "brand": "Taron",
+  "brand_cn": "",
+  "brand_slug": "taron",
+  "country": "待补充",
+  "manufacturer": "Taron",
+  "model": "35 II",
+  "year": 1957,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Taron旁轴相机，1957 年发布",
+  "description": "McKeown's attests to a Taron 35 II from c.1957—which would fall logically between the Taron 35 and the Taron 35 III.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Taron 35 II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Taron 35 II",
+      "url": "https://camera-wiki.org/wiki/Taron%2035%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

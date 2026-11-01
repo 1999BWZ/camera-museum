@@ -1,0 +1,29 @@
+{
+  "id": "praktica-tl-2",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "TL 2",
+  "year": 1975,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康数码单反相机，1975 年发布",
+  "description": "The Super TL2 is a 35mm SLR in the Praktica line.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica super TL 2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica super TL 2",
+      "url": "https://camera-wiki.org/wiki/Praktica%20super%20TL%202"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "usc-automatic-electric-eye",
+  "brand": "USC",
+  "brand_cn": "",
+  "brand_slug": "usc",
+  "country": "美国",
+  "manufacturer": "USC",
+  "model": "Automatic Electric Eye",
+  "year": 1960,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "USC胶片相机，1960 年发布",
+  "description": "United States Camera offered this pseudo TLR carrying a large selenium meter cell for automatic exposure control.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "USC Automatic Electric Eye"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – USC Automatic Electric Eye",
+      "url": "https://camera-wiki.org/wiki/USC%20Automatic%20Electric%20Eye"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

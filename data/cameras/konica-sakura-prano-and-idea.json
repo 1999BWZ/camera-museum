@@ -1,0 +1,29 @@
+{
+  "id": "konica-sakura-prano-and-idea",
+  "brand": "Konica",
+  "brand_cn": "柯尼卡",
+  "brand_slug": "konica",
+  "country": "日本",
+  "manufacturer": "Konica",
+  "model": "Sakura Prano and Idea",
+  "year": 1907,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯尼卡折叠相机，1907 年发布",
+  "description": "The Sakura Prano Hand Camera (さくらプラノ手提暗函) The name \"Prano\" is sometimes written \"Plano\" by mistake.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Sakura Prano and Idea"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Sakura Prano and Idea",
+      "url": "https://camera-wiki.org/wiki/Sakura%20Prano%20and%20Idea"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

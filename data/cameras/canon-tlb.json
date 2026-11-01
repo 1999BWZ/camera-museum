@@ -1,0 +1,29 @@
+{
+  "id": "canon-tlb",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "TLb",
+  "year": 1972,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，1972 年发布",
+  "description": "Canon's TLb is a 35mm SLR which updated their entry-level TL by adding open-aperture metering.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon TLb"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon TLb",
+      "url": "https://camera-wiki.org/wiki/Canon%20TLb"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

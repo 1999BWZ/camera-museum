@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-land-model-95",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Land Model 95",
+  "year": 1948,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1948 年发布",
+  "description": "The Model 95 is the first of Edwin Land's instant picture cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Land Model 95"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Land Model 95",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Land%20Model%2095"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

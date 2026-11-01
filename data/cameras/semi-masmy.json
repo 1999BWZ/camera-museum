@@ -1,0 +1,29 @@
+{
+  "id": "semi-masmy",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Masmy",
+  "year": 1951,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi折叠相机，1951 年发布",
+  "description": "The Semi Masmy (セミマスミー) Lewis's \"Semi Masumy\" is a mistake.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Masmy"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Masmy",
+      "url": "https://camera-wiki.org/wiki/Semi%20Masmy"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

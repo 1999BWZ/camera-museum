@@ -1,0 +1,29 @@
+{
+  "id": "fed-atlas",
+  "brand": "FED",
+  "brand_cn": "",
+  "brand_slug": "fed",
+  "country": "待补充",
+  "manufacturer": "FED",
+  "model": "Atlas",
+  "year": 1967,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "FED旁轴相机，1967 年发布",
+  "description": "The FED Atlas (also referred to in some places as the FED-11, though the camera itself is not marked with this) is a 35 mm coupled rangefinder camera, made by FED in 1967-71.[http://www.photohistory.ru/index.php?pid=1207248177863260 FED-10 and 'Fed-11 Atlas'] at Georgi Abramov's [http://www.photohis",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "FED Atlas"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – FED Atlas",
+      "url": "https://camera-wiki.org/wiki/FED%20Atlas"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

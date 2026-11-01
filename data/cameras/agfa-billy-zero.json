@@ -1,0 +1,29 @@
+{
+  "id": "agfa-billy-zero",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Billy Zero",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发折叠相机，1932 年发布",
+  "description": "The Billy 0 (zero) is a small vertical folding camera, made by Agfa from c.1932 to 1937.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Billy Zero"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Billy Zero",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Billy%20Zero"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

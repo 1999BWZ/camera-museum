@@ -1,0 +1,40 @@
+{
+  "id": "minolta-sr-t-101-q737724",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "美能达",
+  "model": "SR-T 101",
+  "year": 1966,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达数码单反相机，1966 年发布",
+  "description": "美能达于1966年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q737724",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minolta%20srt%20101%20IMGP3035%20wp.jpg?width=800",
+      "caption": "SR-T 101",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q737724"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Minolta SR-T 101",
+      "url": "https://www.wikidata.org/wiki/Q737724"
+    }
+  ],
+  "qid": "Q737724",
+  "sitelinks": 7,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-2-8-fx",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex 2.8 FX",
+  "year": 2002,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来中画幅相机，2002 年发布",
+  "description": "The Rolleiflex 2.8 FX is a medium format TLR camera released by Rollei Fototechnic GmbH in 2002.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex 2.8 FX"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex 2.8 FX",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%202.8%20FX"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

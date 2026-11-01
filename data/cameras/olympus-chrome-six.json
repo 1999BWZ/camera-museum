@@ -1,0 +1,29 @@
+{
+  "id": "olympus-chrome-six",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "Chrome Six",
+  "year": 1948,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯折叠相机，1948 年发布",
+  "description": "The Olympus Chrome Six is a series of dual-format folders, taking 6×6cm and 4.5×6cm exposures, made by Takachiho and later Olympus from 1948 to 1956.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus Chrome Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus Chrome Six",
+      "url": "https://camera-wiki.org/wiki/Olympus%20Chrome%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "leica-d-lux-5",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "Leica",
+  "model": "D-Lux 5",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码相机，2010 年发布",
+  "description": "The D-Lux 5 is a compact digital camera from Leica introduced in 2010.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leica D-Lux 5"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm2.staticflickr.com/1251/5159488433_59e25a433d.jpg",
+      "caption": "D-Lux 5",
+      "source": "Flickr（Soe Lin）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/soelin/5159488433/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leica D-Lux 5",
+      "url": "https://camera-wiki.org/wiki/Leica%20D-Lux%205"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

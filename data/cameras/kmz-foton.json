@@ -1,0 +1,29 @@
+{
+  "id": "kmz-foton",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "待补充",
+  "manufacturer": "KMZ",
+  "model": "Foton",
+  "year": 1969,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ一次成像相机，1969 年发布",
+  "description": "There is also an unrelated US-made rangefinder camera named Foton.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Foton (Instant)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Foton (Instant)",
+      "url": "https://camera-wiki.org/wiki/Foton%20%28Instant%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

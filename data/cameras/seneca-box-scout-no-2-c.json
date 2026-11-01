@@ -1,0 +1,29 @@
+{
+  "id": "seneca-box-scout-no-2-c",
+  "brand": "Seneca",
+  "brand_cn": "",
+  "brand_slug": "seneca",
+  "country": "美国",
+  "manufacturer": "Seneca",
+  "model": "Box Scout No. 2 C",
+  "year": 1917,
+  "type": "compact",
+  "type_cn": "盒式相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seneca盒式相机，1917 年发布",
+  "description": "Seneca's Box Scout No.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Seneca Box Scout No. 2 C"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Seneca Box Scout No. 2 C",
+      "url": "https://camera-wiki.org/wiki/Seneca%20Box%20Scout%20No.%202%20C"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

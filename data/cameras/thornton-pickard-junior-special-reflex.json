@@ -1,0 +1,29 @@
+{
+  "id": "thornton-pickard-junior-special-reflex",
+  "brand": "Thornton-Pickard",
+  "brand_cn": "",
+  "brand_slug": "thornton-pickard",
+  "country": "待补充",
+  "manufacturer": "Thornton-Pickard",
+  "model": "Junior Special Reflex",
+  "year": 1923,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Thornton-Pickard胶片单反相机，1923 年发布",
+  "description": "{|class=floatright\n|\n\n|-\n|\n\n|}\nThe Thornton-Pickard Junior Special Reflex camera is a folding SLR for 3&frac14; &times; 4&frac14;\" plates or rollfilm back.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Junior Special Reflex"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Junior Special Reflex",
+      "url": "https://camera-wiki.org/wiki/Junior%20Special%20Reflex"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

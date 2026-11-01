@@ -1,0 +1,29 @@
+{
+  "id": "lumi-re-nada",
+  "brand": "Lumière",
+  "brand_cn": "",
+  "brand_slug": "lumi-re",
+  "country": "待补充",
+  "manufacturer": "Lumière",
+  "model": "Nada",
+  "year": 1930,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lumière折叠相机，1930 年发布",
+  "description": "The Nada is a folding camera for 6x9cm exposures on 120 film, made by Lumière in 1930-32.Examples, with notes, at [http://www.collection-appareils.fr/carrousel/html/index.php Collection Appareils]:\n* [http://www.collection-appareils.fr/x/html/appareil-14212-Lumi%C3%A8re_Nada.html Nada] with black le",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Nada"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Nada",
+      "url": "https://camera-wiki.org/wiki/Nada"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

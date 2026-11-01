@@ -1,0 +1,29 @@
+{
+  "id": "braun-gloria",
+  "brand": "Braun",
+  "brand_cn": "",
+  "brand_slug": "braun",
+  "country": "待补充",
+  "manufacturer": "Braun",
+  "model": "Gloria",
+  "year": 1954,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Braun旁轴相机，1954 年发布",
+  "description": "The Braun Gloria is a rangefinder camera taking 12 6x6cm images on 120 films.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Braun Gloria"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Braun Gloria",
+      "url": "https://camera-wiki.org/wiki/Braun%20Gloria"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

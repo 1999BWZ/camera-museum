@@ -1,0 +1,29 @@
+{
+  "id": "windsor-35",
+  "brand": "Windsor",
+  "brand_cn": "",
+  "brand_slug": "windsor",
+  "country": "待补充",
+  "manufacturer": "Windsor",
+  "model": "35",
+  "year": 1953,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Windsor旁轴相机，1953 年发布",
+  "description": "Note that the name Windsor is also used on a Diana clone.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Windsor 35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Windsor 35",
+      "url": "https://camera-wiki.org/wiki/Windsor%2035"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

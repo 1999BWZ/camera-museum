@@ -1,0 +1,29 @@
+{
+  "id": "tougodo-toyoca-six",
+  "brand": "Tougodo",
+  "brand_cn": "",
+  "brand_slug": "tougodo",
+  "country": "待补充",
+  "manufacturer": "Tougodo",
+  "model": "Toyoca Six",
+  "year": 1957,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Tougodo折叠相机，1957 年发布",
+  "description": "The Toyoca Six \"Toyoca\" is certainly the contraction of Toyohashi — Tougodo's hometown — and Camera.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Toyoca Six"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Toyoca Six",
+      "url": "https://camera-wiki.org/wiki/Toyoca%20Six"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

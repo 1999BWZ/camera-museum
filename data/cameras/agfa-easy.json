@@ -1,0 +1,29 @@
+{
+  "id": "agfa-easy",
+  "brand": "Agfa",
+  "brand_cn": "爱克发",
+  "brand_slug": "agfa",
+  "country": "德国",
+  "manufacturer": "Agfa",
+  "model": "Easy",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "爱克发胶片相机，1982 年发布",
+  "description": "There is also an Agfa Easy for APS film; a black-and-white disposable camera trialled but apparently never sold.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Agfa Easy (110)"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Agfa Easy (110)",
+      "url": "https://camera-wiki.org/wiki/Agfa%20Easy%20%28110%29"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

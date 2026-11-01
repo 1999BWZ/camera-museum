@@ -1,0 +1,29 @@
+{
+  "id": "kuribayashi-petri-ft-ee",
+  "brand": "Kuribayashi",
+  "brand_cn": "",
+  "brand_slug": "kuribayashi",
+  "country": "待补充",
+  "manufacturer": "Kuribayashi",
+  "model": "Petri FT EE",
+  "year": 1970,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Kuribayashi数码单反相机，1970 年发布",
+  "description": "Billed as \"fully automatic,\" the FT EE is an SLR from Petri introduced c.1970See [https://www.flickr.com/photos/136094828@N04/40352782150/in/pool-camerawiki/ June] and [https://www.flickr.com/photos/136094828@N04/28255612587/in/pool-camerawiki/ November] 1970 advertising, scans courtesy [https://www",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Petri FT EE"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Petri FT EE",
+      "url": "https://camera-wiki.org/wiki/Petri%20FT%20EE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

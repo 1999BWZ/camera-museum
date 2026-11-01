@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-ff-3-af",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "FF-3 AF",
+  "year": 1982,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片相机，1982 年发布",
+  "description": "The FF-3 AF is a compact autofocus point and shoot 35mm film camera released by Japanese manufacturer Ricoh in 1982.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh FF-3 AF"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh FF-3 AF",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20FF-3%20AF"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

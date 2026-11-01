@@ -1,0 +1,29 @@
+{
+  "id": "beier-precisa-iia",
+  "brand": "Beier",
+  "brand_cn": "",
+  "brand_slug": "beier",
+  "country": "待补充",
+  "manufacturer": "Beier",
+  "model": "Precisa IIa",
+  "year": 1956,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Beier旁轴相机，1956 年发布",
+  "description": "The Beier Precisa IIa is a dual-format self-erecting folding camera for 120 film, introduced by Beier in 1956.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Beier Precisa IIa"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Beier Precisa IIa",
+      "url": "https://camera-wiki.org/wiki/Beier%20Precisa%20IIa"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

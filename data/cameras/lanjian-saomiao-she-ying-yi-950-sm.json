@@ -1,0 +1,29 @@
+{
+  "id": "lanjian-saomiao-she-ying-yi-950-sm",
+  "brand": "Lanjian",
+  "brand_cn": "",
+  "brand_slug": "lanjian",
+  "country": "中国",
+  "manufacturer": "Lanjian",
+  "model": "Saomiao She Ying Yi 950 SM",
+  "year": 1970,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Lanjian全景相机，1970 年发布",
+  "description": "The Lanjian Saomiao She Ying Yi 950 SM is a panoramic camera for images 90x300mm imagesThe notes at Westlicht (cited below) state that the camera makes images 90x300 or 90x160mm; presumably the two image-widths correspond to the two shutter speeds; the photo of the control for setting the speed sugg",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Lanjian Saomiao She Ying Yi 950 SM"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Lanjian Saomiao She Ying Yi 950 SM",
+      "url": "https://camera-wiki.org/wiki/Lanjian%20Saomiao%20She%20Ying%20Yi%20950%20SM"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

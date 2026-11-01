@@ -1,0 +1,29 @@
+{
+  "id": "perfo-608",
+  "brand": "Perfo",
+  "brand_cn": "",
+  "brand_slug": "perfo",
+  "country": "法国",
+  "manufacturer": "Perfo",
+  "model": "608",
+  "year": 1955,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Perfo胶片单反相机，1955 年发布",
+  "description": "The Perfo 608 (The maker's notes cited below refer to it as Performance 608) is a rangefinder camera for multiple formats.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Perfo 608"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Perfo 608",
+      "url": "https://camera-wiki.org/wiki/Perfo%20608"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

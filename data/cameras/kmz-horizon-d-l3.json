@@ -1,0 +1,29 @@
+{
+  "id": "kmz-horizon-d-l3",
+  "brand": "KMZ",
+  "brand_cn": "",
+  "brand_slug": "kmz",
+  "country": "俄罗斯",
+  "manufacturer": "KMZ",
+  "model": "Horizon D-L3",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "全景相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "KMZ全景相机，2010 年发布",
+  "description": "The Horizon D-L3 is a digital panoramic camera, developed jointly by Silvestri and KMZ Zenit, makers of the film panoramic Horizont cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Horizon D-L3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Horizon D-L3",
+      "url": "https://camera-wiki.org/wiki/Horizon%20D-L3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

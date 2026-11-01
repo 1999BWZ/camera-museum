@@ -1,0 +1,29 @@
+{
+  "id": "kodak-sterling-ii",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Sterling II",
+  "year": 1955,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机（折叠）",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达旁轴相机（折叠），1955 年发布",
+  "description": "The Sterling II was made in England by Kodak Ltd., introduced in May 1955 and withdrawn in 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Sterling II"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Sterling II",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Sterling%20II"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "canon-ixus-l-1",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "IXUS L-1",
+  "year": 1997,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1997 年发布",
+  "description": "{|class=floatleft\n|\n\n|\n\n|\n\n|\n\n|}\n\nThe Canon IXUS L-1 is a compact APS film camera, introduced by Canon in September 1997; one of the simpler IXUS APS cameras, but well built and with a good, solid feel.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon IXUS L-1"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon IXUS L-1",
+      "url": "https://camera-wiki.org/wiki/Canon%20IXUS%20L-1"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

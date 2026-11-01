@@ -1,0 +1,29 @@
+{
+  "id": "kodak-ib",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Ib",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达折叠相机，1954 年发布",
+  "description": "The Retina 1b (type 018) is a folding 35 mm viewfinder camera made by Kodak AG; it was introduced at Photokina 1954.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Retina Ib"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Retina Ib",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Retina%20Ib"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

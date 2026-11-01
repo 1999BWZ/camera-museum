@@ -1,0 +1,29 @@
+{
+  "id": "bestiary-blackbird-fly",
+  "brand": "Bestiary",
+  "brand_cn": "",
+  "brand_slug": "bestiary",
+  "country": "待补充",
+  "manufacturer": "Bestiary",
+  "model": "Blackbird, fly",
+  "year": 2008,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Bestiary玩具相机，2008 年发布",
+  "description": "Blackbird, fly is a Pseudo TLR camera introduced in 2008.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Blackbird, fly"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Blackbird, fly",
+      "url": "https://camera-wiki.org/wiki/Blackbird%2C%20fly"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

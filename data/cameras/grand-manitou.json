@@ -1,0 +1,29 @@
+{
+  "id": "grand-manitou",
+  "brand": "Grand",
+  "brand_cn": "",
+  "brand_slug": "grand",
+  "country": "待补充",
+  "manufacturer": "Grand",
+  "model": "Manitou",
+  "year": 1950,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Grand胶片相机，1950 年发布",
+  "description": "The Grand Manitou was a French Bakelite camera with a screw-tube lens, made by Artima - possibly both in London and Paris, c.1950.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Grand Manitou"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Grand Manitou",
+      "url": "https://camera-wiki.org/wiki/Grand%20Manitou"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "praktica-pl-electronic",
+  "brand": "Praktica",
+  "brand_cn": "潘泰康",
+  "brand_slug": "praktica",
+  "country": "德国",
+  "manufacturer": "Praktica",
+  "model": "PL electronic",
+  "year": 1968,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "潘泰康数码单反相机，1968 年发布",
+  "description": "The Praktica PL electronic is a milestone SLR featuring the first electronically controlled shutter.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Praktica PL electronic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Praktica PL electronic",
+      "url": "https://camera-wiki.org/wiki/Praktica%20PL%20electronic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fuji-ca-v2",
+  "brand": "Fuji",
+  "brand_cn": "",
+  "brand_slug": "fuji",
+  "country": "待补充",
+  "manufacturer": "Fuji",
+  "model": "ca V2",
+  "year": 1964,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Fuji旁轴相机，1964 年发布",
+  "description": "The Fujica V2 is a 35mm rangefinder camera that uses a leaf shutter based lens.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujica V2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujica V2",
+      "url": "https://camera-wiki.org/wiki/Fujica%20V2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

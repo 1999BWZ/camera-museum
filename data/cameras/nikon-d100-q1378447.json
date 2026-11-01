@@ -1,0 +1,40 @@
+{
+  "id": "nikon-d100-q1378447",
+  "brand": "Nikon",
+  "brand_cn": "尼康",
+  "brand_slug": "nikon",
+  "country": "日本",
+  "manufacturer": "尼康",
+  "model": "D100",
+  "year": 2002,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "尼康数码单反相机，2002 年发布",
+  "description": "尼康于2002年发布的数码单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1378447",
+    "多语言词条数": "17"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20D100%20f2329032%20%28filtered%20retouched%29.jpg?width=800",
+      "caption": "D100",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1378447"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – 尼康D100",
+      "url": "https://www.wikidata.org/wiki/Q1378447"
+    }
+  ],
+  "qid": "Q1378447",
+  "sitelinks": 17,
+  "imported": "wikidata-5k-2026-11-01"
+}

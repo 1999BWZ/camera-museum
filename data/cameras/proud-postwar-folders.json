@@ -1,0 +1,29 @@
+{
+  "id": "proud-postwar-folders",
+  "brand": "Proud",
+  "brand_cn": "",
+  "brand_slug": "proud",
+  "country": "待补充",
+  "manufacturer": "Proud",
+  "model": "postwar folders",
+  "year": 1950,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Proud折叠相机，1950 年发布",
+  "description": "For the prewar and wartime Semi Proud folders, see Semi Proud.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Proud postwar folders"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Proud postwar folders",
+      "url": "https://camera-wiki.org/wiki/Proud%20postwar%20folders"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

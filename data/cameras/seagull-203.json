@@ -1,0 +1,29 @@
+{
+  "id": "seagull-203",
+  "brand": "Seagull",
+  "brand_cn": "",
+  "brand_slug": "seagull",
+  "country": "中国",
+  "manufacturer": "Seagull",
+  "model": "203",
+  "year": 1970,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Seagull旁轴相机，1970 年发布",
+  "description": "The Seagull 203 is a rangefinder camera for rollfilm.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Seagull 203"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Seagull 203",
+      "url": "https://camera-wiki.org/wiki/Seagull%20203"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

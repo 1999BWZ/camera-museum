@@ -1,0 +1,29 @@
+{
+  "id": "olympus-c-4000-zoom",
+  "brand": "Olympus",
+  "brand_cn": "奥林巴斯",
+  "brand_slug": "olympus",
+  "country": "日本",
+  "manufacturer": "Olympus",
+  "model": "C-4000 Zoom",
+  "year": 2002,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "奥林巴斯数码相机，2002 年发布",
+  "description": "The Olympus Camedia C-4000 Zoom is a 4-megapixel digital camera made in Indonesia for Olympus.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Olympus C-4000 Zoom"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Olympus C-4000 Zoom",
+      "url": "https://camera-wiki.org/wiki/Olympus%20C-4000%20Zoom"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

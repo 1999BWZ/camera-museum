@@ -1,0 +1,29 @@
+{
+  "id": "yashica-fx-d",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "FX-D",
+  "year": 1980,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡胶片单反相机，1980 年发布",
+  "description": "__NOTOC__\n{|align=right\n|\n\n|-\n||\n\n|}\nThe Yashica FX-D is \" The little sister\" of the Contax 139 Quartz released in 1980.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica FX-D"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica FX-D",
+      "url": "https://camera-wiki.org/wiki/Yashica%20FX-D"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

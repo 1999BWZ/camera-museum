@@ -1,0 +1,29 @@
+{
+  "id": "futura-s",
+  "brand": "Futura",
+  "brand_cn": "",
+  "brand_slug": "futura",
+  "country": "待补充",
+  "manufacturer": "Futura",
+  "model": "S",
+  "year": 1952,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Futura旁轴相机，1952 年发布",
+  "description": "The Futura S is a high-grade rangefinder camera made from 1952 by Futura Kamerawerk GmbH, made for Futura's interchangeable lenses.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Futura S"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Futura S",
+      "url": "https://camera-wiki.org/wiki/Futura%20S"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

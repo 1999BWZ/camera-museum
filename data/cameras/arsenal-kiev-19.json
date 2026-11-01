@@ -1,0 +1,29 @@
+{
+  "id": "arsenal-kiev-19",
+  "brand": "Arsenal",
+  "brand_cn": "",
+  "brand_slug": "arsenal",
+  "country": "待补充",
+  "manufacturer": "Arsenal",
+  "model": "Kiev 19",
+  "year": 1985,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Arsenal胶片单反相机，1985 年发布",
+  "description": "The Kiev 19 is a 35mm SLR made by Arsenal in the former USSR, introduced in 1985.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kiev 19"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kiev 19",
+      "url": "https://camera-wiki.org/wiki/Kiev%2019"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

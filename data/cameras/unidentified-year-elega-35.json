@@ -1,0 +1,29 @@
+{
+  "id": "unidentified-year-elega-35",
+  "brand": "Unidentified year",
+  "brand_cn": "",
+  "brand_slug": "unidentified-year",
+  "country": "待补充",
+  "manufacturer": "Unidentified year",
+  "model": "Elega-35",
+  "year": 1954,
+  "type": "compact",
+  "type_cn": "取景器相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Unidentified year取景器相机，1954 年发布",
+  "description": "A Japanese Leica I clone made by Elega-sha (エレガ社) in 1951-1954?",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Elega-35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Elega-35",
+      "url": "https://camera-wiki.org/wiki/Elega-35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

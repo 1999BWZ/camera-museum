@@ -1,0 +1,29 @@
+{
+  "id": "panasonic-lumix-dmc-g2-dmc-gh2",
+  "brand": "Panasonic",
+  "brand_cn": "松下",
+  "brand_slug": "panasonic",
+  "country": "日本",
+  "manufacturer": "Panasonic",
+  "model": "Lumix DMC-G2/DMC-GH2",
+  "year": 2010,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "松下数码相机，2010 年发布",
+  "description": "{|class=floatleft\n||\n\n|&nbsp; &nbsp;\n||\n\n|}\n\nThe Lumix DMC-G2 and the Lumix DMC-GH2 are a mirror-less system cameras, by Panasonic.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Panasonic Lumix DMC-G2/DMC-GH2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Panasonic Lumix DMC-G2/DMC-GH2",
+      "url": "https://camera-wiki.org/wiki/Panasonic%20Lumix%20DMC-G2/DMC-GH2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

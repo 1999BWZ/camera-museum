@@ -1,0 +1,29 @@
+{
+  "id": "canon-eos-5000",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "EOS 5000",
+  "year": 1995,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码单反相机，1995 年发布",
+  "description": "The EOS 5000 is a entry level autofocus SLR camera released by Canon in 1995.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon EOS 5000"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon EOS 5000",
+      "url": "https://camera-wiki.org/wiki/Canon%20EOS%205000"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

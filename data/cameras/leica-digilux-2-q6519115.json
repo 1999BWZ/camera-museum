@@ -1,0 +1,40 @@
+{
+  "id": "leica-digilux-2-q6519115",
+  "brand": "Leica",
+  "brand_cn": "徕卡",
+  "brand_slug": "leica",
+  "country": "德国",
+  "manufacturer": "徕卡相机",
+  "model": "Digilux 2",
+  "year": 2003,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "徕卡数码相机，2003 年发布",
+  "description": "徕卡于2003年发布的数码相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q6519115",
+    "多语言词条数": "7"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica%20digilux%20II.jpg?width=800",
+      "caption": "Digilux 2",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q6519115"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Leica Digilux 2",
+      "url": "https://www.wikidata.org/wiki/Q6519115"
+    }
+  ],
+  "qid": "Q6519115",
+  "sitelinks": 7,
+  "imported": "wikidata-5k-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-colorpack-80",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Colorpack 80",
+  "year": 1971,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1971 年发布",
+  "description": "The Polaroid Colorpack 80 is a rigid plastic bodied instant camera, made in the UK between 1971-76.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Polaroid Colorpack 80"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Polaroid Colorpack 80",
+      "url": "https://camera-wiki.org/wiki/Polaroid%20Colorpack%2080"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

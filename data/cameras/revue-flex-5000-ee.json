@@ -1,0 +1,37 @@
+{
+  "id": "revue-flex-5000-ee",
+  "brand": "Revue",
+  "brand_cn": "",
+  "brand_slug": "revue",
+  "country": "待补充",
+  "manufacturer": "Revue",
+  "model": "flex 5000 EE",
+  "year": 1976,
+  "type": "slr",
+  "type_cn": "胶片相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Revue胶片相机，1976 年发布",
+  "description": "Foto-Quelle sold the Revueflex 5000 EE as a slight variation on the Revueflex 4000 EE in c.1976[https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=MMSAVL03:279844043:mpeg21:p00009 Revueflex 5000 EE advertisement in newspaper \"Nieuwe Vlaardingsche courant\" of 27-10-1976 (in Dutch)].",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Revueflex 5000 EE"
+  },
+  "images": [
+    {
+      "remote_url": "https://live.staticflickr.com/2236/1813394722_a62c8b3089.jpg",
+      "caption": "flex 5000 EE",
+      "source": "Flickr（Alf Sigaro）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/alf_sigaro/1813394722/in/pool-camerawiki/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Revueflex 5000 EE",
+      "url": "https://camera-wiki.org/wiki/Revueflex%205000%20EE"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

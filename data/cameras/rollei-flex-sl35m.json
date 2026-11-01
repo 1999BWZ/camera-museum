@@ -1,0 +1,29 @@
+{
+  "id": "rollei-flex-sl35m",
+  "brand": "Rollei",
+  "brand_cn": "禄来",
+  "brand_slug": "rollei",
+  "country": "德国",
+  "manufacturer": "Rollei",
+  "model": "flex SL35M",
+  "year": 1976,
+  "type": "dslr",
+  "type_cn": "数码单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "禄来数码单反相机，1976 年发布",
+  "description": "== The SL35M ==\n\nThe Rolleiflex SL35M is a 35mm SLR camera launched by Rollei in 1976.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Rolleiflex SL35M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Rolleiflex SL35M",
+      "url": "https://camera-wiki.org/wiki/Rolleiflex%20SL35M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

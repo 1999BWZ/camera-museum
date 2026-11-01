@@ -1,0 +1,29 @@
+{
+  "id": "mamiya-flex-c2",
+  "brand": "Mamiya",
+  "brand_cn": "玛米亚",
+  "brand_slug": "mamiya",
+  "country": "日本",
+  "manufacturer": "Mamiya",
+  "model": "flex C2",
+  "year": 1958,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "玛米亚中画幅相机，1958 年发布",
+  "description": "The Mamiyaflex C2 was the second development of the C released in 1958 as part of the Mamiya C series of interchangeable lens medium format TLR cameras.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Mamiyaflex C2"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Mamiyaflex C2",
+      "url": "https://camera-wiki.org/wiki/Mamiyaflex%20C2"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

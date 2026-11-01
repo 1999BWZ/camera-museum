@@ -1,0 +1,29 @@
+{
+  "id": "welta-superfekta",
+  "brand": "Welta",
+  "brand_cn": "",
+  "brand_slug": "welta",
+  "country": "待补充",
+  "manufacturer": "Welta",
+  "model": "Superfekta",
+  "year": 1932,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Welta折叠相机，1932 年发布",
+  "description": "The Superfekta is a folding TLR camera made by Welta in about 1932.[http://www.collection-appareils.fr/x/html/camera-1169-Welta_Superfekta.html Superfekta] at [http://www.collection-appareils.fr/carrousel/html/index_eng.php Collection appareils]; Collection Appareils dates the camera to 1932, as doe",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Superfekta"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Superfekta",
+      "url": "https://camera-wiki.org/wiki/Superfekta"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

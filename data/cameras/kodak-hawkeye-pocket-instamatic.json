@@ -1,0 +1,29 @@
+{
+  "id": "kodak-hawkeye-pocket-instamatic",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "Hawkeye Pocket Instamatic",
+  "year": 1973,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达便携相机，1973 年发布",
+  "description": "The Hawkeye Pocket Instamatic is a plastic camera which uses the 110 cartridge film and was produced from 1973 to 1979.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak Hawkeye Pocket Instamatic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak Hawkeye Pocket Instamatic",
+      "url": "https://camera-wiki.org/wiki/Kodak%20Hawkeye%20Pocket%20Instamatic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

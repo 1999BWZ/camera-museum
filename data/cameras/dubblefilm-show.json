@@ -1,0 +1,29 @@
+{
+  "id": "dubblefilm-show",
+  "brand": "Dubblefilm",
+  "brand_cn": "",
+  "brand_slug": "dubblefilm",
+  "country": "中国",
+  "manufacturer": "Dubblefilm",
+  "model": "Show",
+  "year": 2020,
+  "type": "compact",
+  "type_cn": "玩具相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Dubblefilm玩具相机，2020 年发布",
+  "description": "A simple 35mm fixed focus Point and shoot launched by film manufacturer Dubblefilm in 2020.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Dubblefilm Show"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Dubblefilm Show",
+      "url": "https://camera-wiki.org/wiki/Dubblefilm%20Show"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

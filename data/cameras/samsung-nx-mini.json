@@ -1,0 +1,29 @@
+{
+  "id": "samsung-nx-mini",
+  "brand": "Samsung",
+  "brand_cn": "三星",
+  "brand_slug": "samsung",
+  "country": "韩国",
+  "manufacturer": "Samsung",
+  "model": "NX mini",
+  "year": 2014,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "三星数码相机，2014 年发布",
+  "description": "The Samsung NX mini is the only camera body featuring Samsung's small bayonet NX-M, a miniaturized version of the NX cameras' lens mount.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Samsung NX mini"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Samsung NX mini",
+      "url": "https://camera-wiki.org/wiki/Samsung%20NX%20mini"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

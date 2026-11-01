@@ -1,0 +1,29 @@
+{
+  "id": "butcher-s-national-stereo",
+  "brand": "Butcher's",
+  "brand_cn": "",
+  "brand_slug": "butcher-s",
+  "country": "英国",
+  "manufacturer": "Butcher's",
+  "model": "National Stereo",
+  "year": 1905,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Butcher's立体相机，1905 年发布",
+  "description": "The National Stereo is a &frac12;-plate stereo camera made by Butcher c.1905.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Butcher's National Stereo"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Butcher's National Stereo",
+      "url": "https://camera-wiki.org/wiki/Butcher%27s%20National%20Stereo"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "welta-9x12",
+  "brand": "Welta",
+  "brand_cn": "",
+  "brand_slug": "welta",
+  "country": "待补充",
+  "manufacturer": "Welta",
+  "model": "9x12",
+  "year": 1925,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Welta折叠相机，1925 年发布",
+  "description": "The Welta 9x12 is a plate camera made by the German company Welta.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Welta 9x12"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Welta 9x12",
+      "url": "https://camera-wiki.org/wiki/Welta%209x12"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

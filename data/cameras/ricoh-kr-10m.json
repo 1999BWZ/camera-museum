@@ -1,0 +1,29 @@
+{
+  "id": "ricoh-kr-10m",
+  "brand": "Ricoh",
+  "brand_cn": "理光",
+  "brand_slug": "ricoh",
+  "country": "日本",
+  "manufacturer": "Ricoh",
+  "model": "KR-10M",
+  "year": 1990,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "理光胶片单反相机，1990 年发布",
+  "description": "Note: this is a different model from the KR-10 and KR-10 Super\n\nThe KR-10M is an SLR for 35mm film introduced by Ricoh in 1990.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Ricoh KR-10M"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Ricoh KR-10M",
+      "url": "https://camera-wiki.org/wiki/Ricoh%20KR-10M"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

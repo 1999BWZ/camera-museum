@@ -1,0 +1,29 @@
+{
+  "id": "leonar-model-a-i",
+  "brand": "Leonar",
+  "brand_cn": "",
+  "brand_slug": "leonar",
+  "country": "待补充",
+  "manufacturer": "Leonar",
+  "model": "Model A I",
+  "year": 1914,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Leonar折叠相机，1914 年发布",
+  "description": "The Leonar Model A I is folding plate camera, format 6x9 cm, produced by the German company Leonar-Werke Arndt & Löwengard in Wandsbek near Hamburg c.1914.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Leonar Model A I"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Leonar Model A I",
+      "url": "https://camera-wiki.org/wiki/Leonar%20Model%20A%20I"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

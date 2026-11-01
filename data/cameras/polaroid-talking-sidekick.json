@@ -1,0 +1,29 @@
+{
+  "id": "polaroid-talking-sidekick",
+  "brand": "Polaroid",
+  "brand_cn": "宝丽来",
+  "brand_slug": "polaroid",
+  "country": "美国",
+  "manufacturer": "Polaroid",
+  "model": "Talking Sidekick",
+  "year": 1993,
+  "type": "instant",
+  "type_cn": "一次成像相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宝丽来一次成像相机，1993 年发布",
+  "description": "The Polaroid Sidekick single-use camera was introduced in July 1993 http://www.nytimes.com/1993/07/08/business/company-news-polaroid-introduces-two-disposable-cameras.html \n\n*The following text was attached to a Polaroid press release photograph of May 1994:\n\nThe Polaroid “Talking Sidekick” camera i",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Talking Sidekick"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Talking Sidekick",
+      "url": "https://camera-wiki.org/wiki/Talking%20Sidekick"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

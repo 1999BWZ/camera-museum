@@ -1,0 +1,29 @@
+{
+  "id": "kodak-vest-pocket-autographic",
+  "brand": "Kodak",
+  "brand_cn": "柯达",
+  "brand_slug": "kodak",
+  "country": "美国",
+  "manufacturer": "Kodak",
+  "model": "vest pocket autographic",
+  "year": 1915,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "柯达胶片单反相机，1915 年发布",
+  "description": "{|class=floatright\n||\n\n|-\n||\n\n|}\nThe Kodak Vest Pocket Autographic was a \"vest pocket\" strut folding camera advertised as \"The Soldier's camera\" during WWI, which added the Autographic feature to the 1912 Vest Pocket Kodak.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Kodak vest pocket autographic"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Kodak vest pocket autographic",
+      "url": "https://camera-wiki.org/wiki/Kodak%20vest%20pocket%20autographic"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

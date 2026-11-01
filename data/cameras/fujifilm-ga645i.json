@@ -1,0 +1,37 @@
+{
+  "id": "fujifilm-ga645i",
+  "brand": "Fujifilm",
+  "brand_cn": "富士",
+  "brand_slug": "fujifilm",
+  "country": "日本",
+  "manufacturer": "Fujifilm",
+  "model": "GA645i",
+  "year": 1995,
+  "type": "medium_format",
+  "type_cn": "中画幅相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "富士中画幅相机，1995 年发布",
+  "description": "__NOTOC__\n\nThe Fujifilm GA645i Professional is a autofocus medium format camera introduced by Fuji in 1997.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Fujifilm GA645i"
+  },
+  "images": [
+    {
+      "remote_url": "https://farm4.staticflickr.com/3445/3870055642_0725d2403c_m.jpg",
+      "caption": "GA645i",
+      "source": "Flickr（Lordcolus）",
+      "license": "CC，见原页面",
+      "url": "https://www.flickr.com/photos/lordcolus/3870055642/in/pool-camerawiki"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camera-wiki – Fujifilm GA645i",
+      "url": "https://camera-wiki.org/wiki/Fujifilm%20GA645i"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

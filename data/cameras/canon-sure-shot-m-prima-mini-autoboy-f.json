@@ -1,0 +1,29 @@
+{
+  "id": "canon-sure-shot-m-prima-mini-autoboy-f",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Sure Shot M/Prima Mini/Autoboy F",
+  "year": 1993,
+  "type": "compact",
+  "type_cn": "便携相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能便携相机，1993 年发布",
+  "description": "The Sureshot M is a compact autofocus 35 mm camera made by Canon in 1993, one of the company's phenomenally successful Sure Shot range.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Sure Shot M/Prima Mini/Autoboy F"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Sure Shot M/Prima Mini/Autoboy F",
+      "url": "https://camera-wiki.org/wiki/Canon%20Sure%20Shot%20M/Prima%20Mini/Autoboy%20F"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

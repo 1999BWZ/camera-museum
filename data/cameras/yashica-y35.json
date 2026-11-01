@@ -1,0 +1,29 @@
+{
+  "id": "yashica-y35",
+  "brand": "Yashica",
+  "brand_cn": "雅西卡",
+  "brand_slug": "yashica",
+  "country": "日本",
+  "manufacturer": "Yashica",
+  "model": "Y35",
+  "year": 2018,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "雅西卡数码相机，2018 年发布",
+  "description": "The Yashica Y35 is a digital camera that was launched in 2018 following a successful Kickstarter campaign launched in October 2017.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Yashica Y35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Yashica Y35",
+      "url": "https://camera-wiki.org/wiki/Yashica%20Y35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

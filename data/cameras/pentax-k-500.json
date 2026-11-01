@@ -1,0 +1,29 @@
+{
+  "id": "pentax-k-500",
+  "brand": "Pentax",
+  "brand_cn": "宾得",
+  "brand_slug": "pentax",
+  "country": "日本",
+  "manufacturer": "Pentax",
+  "model": "K-500",
+  "year": 2013,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "宾得数码相机，2013 年发布",
+  "description": "The K-500 was an entry-level DSLR introduced under the Pentax brand of Ricoh Imaging in 2013, offering a 16 megapixel APS-C sensor.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Pentax K-500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Pentax K-500",
+      "url": "https://camera-wiki.org/wiki/Pentax%20K-500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

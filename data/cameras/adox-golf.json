@@ -1,0 +1,29 @@
+{
+  "id": "adox-golf",
+  "brand": "Adox",
+  "brand_cn": "",
+  "brand_slug": "adox",
+  "country": "待补充",
+  "manufacturer": "Adox",
+  "model": "Golf",
+  "year": 1955,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Adox折叠相机，1955 年发布",
+  "description": "Adox's folding Golf models were made from 1954 to 1959.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Adox Golf"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Adox Golf",
+      "url": "https://camera-wiki.org/wiki/Adox%20Golf"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

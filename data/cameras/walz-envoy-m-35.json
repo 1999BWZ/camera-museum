@@ -1,0 +1,29 @@
+{
+  "id": "walz-envoy-m-35",
+  "brand": "Walz",
+  "brand_cn": "",
+  "brand_slug": "walz",
+  "country": "待补充",
+  "manufacturer": "Walz",
+  "model": "Envoy M-35",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Walz旁轴相机，1959 年发布",
+  "description": "The Walz Envoy M-35 is a 35mm rangefinder camera with an uncoupled selenium cell that was sold in the late 1950s by the Japanese company Walz.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Walz Envoy M-35"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Walz Envoy M-35",
+      "url": "https://camera-wiki.org/wiki/Walz%20Envoy%20M-35"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

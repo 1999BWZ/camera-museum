@@ -1,0 +1,29 @@
+{
+  "id": "semi-kinka",
+  "brand": "Semi",
+  "brand_cn": "",
+  "brand_slug": "semi",
+  "country": "待补充",
+  "manufacturer": "Semi",
+  "model": "Kinka",
+  "year": 1937,
+  "type": "compact",
+  "type_cn": "折叠相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Semi折叠相机，1937 年发布",
+  "description": "The Semi Kinka (セミキンカ) is a Japanese 4.5×6 folder, sold from 1937 by Yamamoto Shashinki Kōsakusho.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Semi Kinka"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Semi Kinka",
+      "url": "https://camera-wiki.org/wiki/Semi%20Kinka"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

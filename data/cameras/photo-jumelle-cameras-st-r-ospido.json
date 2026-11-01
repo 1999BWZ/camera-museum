@@ -1,0 +1,29 @@
+{
+  "id": "photo-jumelle-cameras-st-r-ospido",
+  "brand": "Photo-jumelle cameras",
+  "brand_cn": "",
+  "brand_slug": "photo-jumelle-cameras",
+  "country": "法国",
+  "manufacturer": "Photo-jumelle cameras",
+  "model": "Stéréospido",
+  "year": 1900,
+  "type": "compact",
+  "type_cn": "立体相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "Photo-jumelle cameras立体相机，1900 年发布",
+  "description": "{|class=plainlinks\n|[http://www.flickr.com/photos/89864432@N00/2063747062/in/pool-camerawiki/ http://farm3.static.flickr.com/2334/2063747062_ffd8bea0da_n.jpg]\n|[http://www.flickr.com/photos/89864432@N00/2062952353/in/pool-camerawiki/ http://farm3.static.flickr.com/2264/2062952353_4ed0df9908_n.jpg]\n|",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Stéréospido"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Stéréospido",
+      "url": "https://camera-wiki.org/wiki/St%C3%A9r%C3%A9ospido"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

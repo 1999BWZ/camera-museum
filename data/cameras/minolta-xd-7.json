@@ -1,0 +1,40 @@
+{
+  "id": "minolta-xd-7",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "XD-7",
+  "year": 1977,
+  "type": "slr",
+  "type_cn": "胶片单反相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达胶片单反相机，1977 年发布",
+  "description": "美能达于1977年发布的胶片单反相机。",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Wikidata": "Q1451849",
+    "多语言词条数": "5"
+  },
+  "images": [
+    {
+      "remote_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minolta%20XD7%20New.JPG?width=800",
+      "caption": "XD-7",
+      "source": "Wikimedia Commons",
+      "license": "见文件页授权",
+      "url": "https://www.wikidata.org/wiki/Q1451849"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikidata – Minolta XD-7",
+      "url": "https://www.wikidata.org/wiki/Q1451849"
+    }
+  ],
+  "qid": "Q1451849",
+  "sitelinks": 5,
+  "imported": "wikidata-5k-2026-11-01"
+}

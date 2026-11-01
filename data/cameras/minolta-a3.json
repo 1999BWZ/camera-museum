@@ -1,0 +1,29 @@
+{
+  "id": "minolta-a3",
+  "brand": "Minolta",
+  "brand_cn": "美能达",
+  "brand_slug": "minolta",
+  "country": "日本",
+  "manufacturer": "Minolta",
+  "model": "A3",
+  "year": 1959,
+  "type": "rangefinder",
+  "type_cn": "旁轴相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "美能达旁轴相机，1959 年发布",
+  "description": "The Minolta A3 was a radical design change compared to the Minolta A-2.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Minolta A3"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Minolta A3",
+      "url": "https://camera-wiki.org/wiki/Minolta%20A3"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}

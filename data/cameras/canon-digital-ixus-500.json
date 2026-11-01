@@ -1,0 +1,29 @@
+{
+  "id": "canon-digital-ixus-500",
+  "brand": "Canon",
+  "brand_cn": "佳能",
+  "brand_slug": "canon",
+  "country": "日本",
+  "manufacturer": "Canon",
+  "model": "Digital IXUS 500",
+  "year": 2004,
+  "type": "compact",
+  "type_cn": "数码相机",
+  "format": "待补充",
+  "mount": "待补充",
+  "milestone": true,
+  "tagline": "佳能数码相机，2004 年发布",
+  "description": "The Digital IXUS 500 is a ultra compat digital camera released by Canon in 2004.",
+  "significance": "待补充（需人工撰写）",
+  "specs": {
+    "Camera-wiki": "Canon Digital IXUS 500"
+  },
+  "images": [],
+  "sources": [
+    {
+      "title": "Camera-wiki – Canon Digital IXUS 500",
+      "url": "https://camera-wiki.org/wiki/Canon%20Digital%20IXUS%20500"
+    }
+  ],
+  "imported": "camera-wiki-2026-11-01"
+}
