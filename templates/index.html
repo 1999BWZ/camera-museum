@@ -1,15 +1,83 @@
-<div class="wrap">
-  <section class="hero slim">
-    <div class="kicker serif">THE CAMERA MUSEUM</div>
-    <h1 class="serif">相机百年<span class="en">A CENTURY OF CAMERAS</span></h1>
-    <p class="lead">{{stats_cameras}} 款机型 · {{stats_brands}} 个品牌 · {{stats_years}}</p>
-  </section>
+<header class="topbar">
+  <div class="tb-inner">
+    <a class="tb-brand serif" href="index.html">相机百年 <span>THE CAMERA MUSEUM</span></a>
+    <nav class="tb-nav">
+      <a href="timeline.html">时间线总览</a>
+      <a href="brands.html">品牌展厅</a>
+    </nav>
+  </div>
+</header>
 
-  <section class="section" id="timeline">
-    <div class="decade-nav">{{decade_nav}}</div>
-  </section>
+<main class="tl-hero">
+  <div class="tl-stage" id="tl-stage">
+    <div class="tl-line"></div>
+    {{tl_nodes}}
+    <div class="tl-card" id="tl-card" hidden>
+      <img id="tl-card-img" alt="">
+      <div class="tl-card-body">
+        <div class="tl-card-year serif" id="tl-card-year"></div>
+        <h3 id="tl-card-title"></h3>
+        <p id="tl-card-text"></p>
+        <span class="tl-card-hint">点击查看该年代全部机型 →</span>
+      </div>
+    </div>
+  </div>
+  <p class="tl-foot">把鼠标移到时间节点上，看看相机百年来的关键时刻</p>
+</main>
 
-  <section class="section more-links">
-    <p class="more"><a href="timeline.html">完整时间线 →</a> &nbsp;·&nbsp; <a href="brands.html">品牌展厅 →</a></p>
-  </section>
-</div>
+<script>
+(function(){
+  var stage = document.getElementById('tl-stage');
+  var card = document.getElementById('tl-card');
+  var img = document.getElementById('tl-card-img');
+  var cYear = document.getElementById('tl-card-year');
+  var cTitle = document.getElementById('tl-card-title');
+  var cText = document.getElementById('tl-card-text');
+  var hideTimer = null;
+  function show(node){
+    clearTimeout(hideTimer);
+    img.src = node.dataset.img;
+    img.alt = node.dataset.title;
+    cYear.textContent = node.dataset.year;
+    cTitle.textContent = node.dataset.title;
+    cText.textContent = node.dataset.text;
+    card.hidden = false;
+    var sr = stage.getBoundingClientRect();
+    var nr = node.getBoundingClientRect();
+    var cx = nr.left - sr.left + nr.width / 2;
+    card.style.visibility = 'hidden';
+    card.style.left = '0px';
+    var cw = card.offsetWidth;
+    var left = cx - cw / 2;
+    left = Math.max(8, Math.min(left, sr.width - cw - 8));
+    card.style.left = left + 'px';
+    card.style.visibility = '';
+    card.classList.add('show');
+  }
+  function hide(){
+    hideTimer = setTimeout(function(){
+      card.classList.remove('show');
+      setTimeout(function(){ if(!card.classList.contains('show')) card.hidden = true; }, 200);
+    }, 120);
+  }
+  document.querySelectorAll('.tl-node').forEach(function(node){
+    node.addEventListener('mouseenter', function(){ show(node); });
+    node.addEventListener('mouseleave', hide);
+    node.addEventListener('focus', function(){ show(node); });
+    node.addEventListener('blur', hide);
+    node.addEventListener('click', function(e){
+      if (window.matchMedia('(hover: none)').matches) {
+        e.preventDefault();
+        if (card.hidden || card.dataset.for !== node.dataset.year) {
+          card.dataset.for = node.dataset.year;
+          show(node);
+        } else {
+          window.location.href = node.getAttribute('href');
+        }
+      }
+    });
+  });
+  card.addEventListener('mouseenter', function(){ clearTimeout(hideTimer); });
+  card.addEventListener('mouseleave', hide);
+})();
+</script>

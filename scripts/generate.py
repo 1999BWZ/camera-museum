@@ -115,34 +115,30 @@ def featured_card_html(c, link_prefix=""):
 
 
 def build_index(cams, css, js):
-    brands = {}
-    for c in cams:
-        brands.setdefault(c["brand_slug"], []).append(c)
-
-    # 时间线导航：按十年分组，只显示年代与数量
-    decades = {}
-    for c in cams:
-        d = (c["year"] // 10) * 10
-        decades.setdefault(d, []).append(c)
-    decade_nav = []
-    for d in sorted(decades):
-        decade_nav.append(
-            f'<a class="decade-link" href="timeline.html#d-{d}">'
-            f'<span class="serif">{d}s</span>'
-            f"<small>{len(decades[d])} 款</small>"
-            "</a>"
+    # 首页：极简时间线 —— 8 个重要节点，悬停弹出经典相机图文
+    eras = json.load(open(os.path.join(BASE, "data", "eras.json"), encoding="utf-8"))
+    by_id = {c["id"]: c for c in cams}
+    t0, t1 = 1890, 2020  # 时间线起止年份
+    nodes = []
+    for e in eras:
+        c = by_id.get(e["camera_id"])
+        if not c or not c.get("images"):
+            continue
+        im = c["images"][0]
+        img_url = im.get("remote_url") or im.get("file") or ""
+        left = (e["year"] - t0) / (t1 - t0) * 100
+        decade = (e["year"] // 10) * 10
+        nodes.append(
+            f'<a class="tl-node" style="left:{left:.1f}%" href="timeline.html#d-{decade}" '
+            f'data-year="{e["year"]}" data-title="{esc(e["title"])}" '
+            f'data-text="{esc(e["text"])}" data-img="{esc(img_url)}">'
+            f'<span class="tl-dot"></span><span class="tl-ylab">{e["year"]}</span></a>'
         )
-
-    years = [c["year"] for c in cams]
     body = render(load_text(os.path.join(TPL_DIR, "index.html")), {
-        "stats_cameras": len(cams),
-        "stats_brands": len(brands),
-        "stats_years": f"{min(years)}–{max(years)}",
-        "decade_nav": "\n".join(decade_nav),
+        "tl_nodes": "\n".join(nodes),
     })
-    page = render(load_text(os.path.join(TPL_DIR, "base.html")), {
+    page = render(load_text(os.path.join(TPL_DIR, "base_home.html")), {
         "title": "首页",
-        "root": "",
         "css": css,
         "js": js,
         "content": body,
